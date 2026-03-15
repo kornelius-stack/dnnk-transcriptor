@@ -2,9 +2,8 @@ name: Weekly Transcription ZIP
 
 on:
   schedule:
-    # Kører hver søndag kl. 20:00 UTC
     - cron: '0 20 * * 0'
-  workflow_dispatch: # Tillader manuel kørsel
+  workflow_dispatch:
 
 jobs:
   create-zip:
@@ -17,13 +16,12 @@ jobs:
     - name: Get current date
       id: date
       run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
     
-      - name: Create ZIP of all transcriptions
+    - name: Create ZIP of all transcriptions
       run: |
         if [ -d "transcritranscriptions" ]; then
           cd transcritranscriptions
-          zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip * 2>/dev/null || echo "Ingen filer at zippe"
+          zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip * || echo "Ingen filer"
           cd ..
         else
           echo "Mappe ikke fundet"
@@ -43,11 +41,8 @@ jobs:
         tag_name: weekly-${{ steps.date.outputs.date }}
         name: Transskriptioner ${{ steps.date.outputs.date }}
         body: |
-          📦 Ugentlig ZIP med alle DNNK webinar transskriptioner
-          
-          **Download ZIP-filen nedenfor og upload til dit Claude Project**
-          
-          Indeholder alle transskriptioner frem til ${{ steps.date.outputs.date }}
+          Ugentlig ZIP med alle DNNK transskriptioner
+          Download og upload til Claude Project
         files: DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
