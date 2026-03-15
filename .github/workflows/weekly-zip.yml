@@ -19,12 +19,16 @@ jobs:
     
     - name: Create ZIP of all transcriptions
       run: |
+        ls -la
         if [ -d "transcritranscriptions" ]; then
+          echo "Mappe fundet!"
           cd transcritranscriptions
-          zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip * || echo "Ingen filer"
+          ls -la
+          zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip *.txt *.zip || echo "Zip fejlede"
           cd ..
         else
-          echo "Mappe ikke fundet"
+          echo "Mappe IKKE fundet - her er hvad der er:"
+          ls -la
           exit 1
         fi
     
