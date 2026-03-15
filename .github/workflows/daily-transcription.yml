@@ -33,7 +33,5 @@ jobs:
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "GitHub Actions Bot"
-        git add transcriptions/
-        git add processed_videos.json
-        git diff --quiet && git diff --staged --quiet || git commit -m "🎤 Nye transskriptioner - $(date +'%Y-%m-%d')"
-        git push
+        git add -A
+        git diff --quiet && git diff --staged --quiet || (git commit -m "🎤 Nye transskriptioner - $(date +'%Y-%m-%d')" && git push) || true
