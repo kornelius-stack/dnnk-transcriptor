@@ -1,0 +1,39 @@
+name: DNNK Daily Transcription
+
+on:
+  schedule:
+    # Kører hver dag kl. 09:00 UTC (10:00 dansk tid)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # Tillader manuel kørsel
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Install dependencies
+      run: |
+        pip install requests beautifulsoup4 lxml
+    
+    - name: Run transcription script
+      env:
+        TRANSKRIPTOR_API_KEY: ${{ secrets.TRANSKRIPTOR_API_KEY }}
+      run: |
+        python transcribe.py
+    
+    - name: Commit and push transcriptions
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "GitHub Actions Bot"
+        git add transcriptions/
+        git add processed_videos.json
+        git diff --quiet && git diff --staged --quiet || git commit -m "🎤 Nye transskriptioner - $(date +'%Y-%m-%d')"
+        git push
