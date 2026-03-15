@@ -1,0 +1,693 @@
+00:00:05
+Her alle.
+
+00:00:07
+Velkommen til årets sidste tiktok.
+
+00:00:10
+I dag. Der skal vi høre om, hvordan smart grøn i samarbejde med Frederiksberg Kommune gennem monitorering og dataanalyse har forbedret effektiviteten af klimatpasningsprojekter ved blandt andet at justere anlæggenes udløbshastighed samt optimere størrelsen på oplandet. Mit navn er teis fraskov Andersen og for via University College og sammen med Morten halling og Christopher sindbye fra DNAK så vil jeg byde jer alle sammen meget, meget velkommen til til dagens tik tok.
+
+00:00:35
+Lidt praktisk information, inden vi starter selve præstationen for lene og Mikkel vil varen 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål og i kan løbende stille jer spørgsmål i chatten, og så vil lene og Mikkel besvare dem i slutningen af tiktokken. Og for god ordens skyld, så skal i selvfølgelig også informere om at tiktokken den vil blive optaget, og Det var alt for mig nu. Og så vil jeg give ordet til til dig lene og til dig Mikkel.
+
+00:01:00
+Tak theis og tak fordi vi måtte komme siger jeg lige på på Mikkel og jeg's vegne. Vi har delt det lidt op Sådan, så jeg starter præsentationen her og så overtager Mikkel bagefter. Jeg hedder alene og jeg blev bevejret og er projektleder på Frederiksberg Kommune, hvor jeg arbejder med klimatilpasning.
+
+00:01:21
+Ja generelt og bredt både rema sortering, varmeø og tørke og så videre. Men i dag fokuserer vi lige lidt på det her med med regnvandet.
+
+00:01:30
+Så først vil jeg lige fortælle kort om om Frederiksberg som de fleste af jer nok ved, så er Frederiksberg jo en.
+
+00:01:37
+Meget tæt bebygget by, hvilket gør at at det meste af Vores regnvandshåndtering, det foregår i bassiner under jorden.
+
+00:01:49
+Og Vi har Sådan set været i gang med at give dem et tilpas på Frederiksberg II mere end 10 år nu allerede.
+
+00:01:56
+Og har en kimelsevaskningsplan, som siger, at Vi skal være klar i 2036 med at.
+
+00:02:03
+Og have sikret Frederiksberg så godt som muligt mod de øgede regnmængder. Ja, og Det er især på kortet lige. Her er egentlig bare lige for at vise at at vi allerede har.
+
+00:02:13
+Et par og 40 projekter anlæg derude, og det giver jo så anledning til en del spørgsmål, når man når man har været i gang og man har bygget efter bedste evne og.
+
+00:02:26
+Og de løsninger, der nu har været igennem de sidste 10 år.
+
+00:02:37
+Og hele den hersens historie med at og klimaet tilpasset Frederiksberg.
+
+00:02:44
+Og, hvor vi gerne vil hen i forhold til det.
+
+00:02:48
+Har været Sådan så at Vi har jo implementeret i de her anlæg, og så har vi tænkt jamen det virker sikkert nok, så er vi begyndt at måle på. Gad vide om Det er i virkeligheden virker og hvordan gør vi? Hvordan gør man det?
+
+00:03:02
+Og Vi har også tænkt ud i jamen altså.
+
+00:03:05
+Når vi så ved om, om de virker.
+
+00:03:10
+Og der kan jeg godt løbe sløret for at at at når Vi har gennemgået nogle af Vores gamle anlæg, så har det ikke virket efter hensigten og. Og Det er jo Sådan noget, man skal gøre noget ved. Og Det kan jo så være.
+
+00:03:21
+Hvordan får vi dem til at virke optimalt? Jamen Det kan være noget med at kigge ind i en fyldningsgrad af de hersens anlæg, hvor hurtigt skal de tømme, og hvad styrer vi efter? Er det kloakkapacitet eller?
+
+00:03:33
+Eller tilbageholdelse af vand i forhold til vi gerne vil genanvende vandet eller. Eller hvordan kan det være?
+
+00:03:41
+Og ligeledes så så kan Sådan noget.
+
+00:03:45
+Data på på hvordan anlæggene fungerer, også giver os en indsigt i, om vi kan drifte de her anlæg fordi hvad har, hvad har vi gjort indtil nu? Jamen, der har vi bare hov nu kommer der noget vand på terræn, hvor det burde have været gået et anlæg, og Det er jo ensbetydende med, at Der er noget galt. Men hvis man hvis man ligesom kunne på en eller 2 måde finde ud af.
+
+00:04:07
+Om, Der er tilstoppet anlæg eller utætte anlæg eller hvad Det er.
+
+00:04:12
+Så ville det jo også være en fordel i forhold til at drifte de her anlæg.
+
+00:04:17
+Og og hele det her i forhold til nedsendelsestilladelse, for eksempel.
+
+00:04:22
+Hvor vi snakker vandkvalitet.
+
+00:04:25
+Der kunne det også være godt, hvis man kunne måle på.
+
+00:04:29
+Ja for eksempel forskellige parametre. Det kan være klorid, for eksempel i forhold til at kunne få lov til at nedsive, hvor Der er salt, eller Det kan være eller netop ikke salt, og Det kan også være ved genbrug af regnvand, at at man er interesseret II vandkvaliteten, så alle de hersens ting, hvor man ligesom tænker, hvordan er det Vi skal? Vi skal sikre os at de anlæg vi bygger de rent faktisk fungerer, men også at vi bygger smartere næste gang vi bygger.
+
+00:04:58
+Det har vi. Det har vi brugt en del tid på på Frederiksberg på at finde ud af, og den sidste ting jeg lige vil nævne i det her sammenhæng. Det er det her med genbrug af af regnvand.
+
+00:05:08
+Fordi at vi jo rigtig gerne vil spare på drikkevandet og derfor gerne genbruge det her.
+
+00:05:16
+Regnvand vi vi samler op, og der har vi allerede nu 5 steder rundt omkring i byen, hvor Vores vej og parkfolk kan komme med deres tankbiler og og hente vand og så køre ud og vande.
+
+00:05:30
+Men der skal vi jo så også sikre os. Har vi vand nok i virkeligheden?
+
+00:05:35
+Altså tilbageholder vi vand nok til, at Der er til en tørkeperiode, som der jo har været de sidste mange år, og igen er vandet af en kvalitet. Sådan så at vi i virkeligheden kan tillade os at bruge det til det, vi gerne vil.
+
+00:05:50
+Og alle de tanker. Her har jo været noget, som Vi har rumsteret med i Frederiksberg Kommune, og hvor at.
+
+00:05:59
+Det her samarbejde vi vi nu har med med smart bånd har været et rigtig godt springbræt, fordi Vi har kunne snakke om, hvad er det Vi skal måle på, og hvordan måler vi det, og hvad kan vi bruge det data til, som vi får ind?
+
+00:06:16
+Og samtidig så kan man sige, så har smartbønnen jo så også fået en.
+
+00:06:20
+En form for legeplads, hvor de har kunnet afprøve og med kendskab til til Frederiksberg Kommunes anlæg, så har det været et rigtig godt setup, så nu vil jeg gerne lige give ordet videre til Mikkel.
+
+00:06:34
+Ja.
+
+00:06:37
+Pænt goddag jeg hedder Mikkel og har startet smartphone og det gjorde jeg så for 2,5 år siden.
+
+00:06:45
+Og og smartbrønd er er monitorering og styring af regnvand og det i ser her, Det er at at Vi har lavet en.
+
+00:06:54
+En vandstofsmåler som sidder i brønden her.
+
+00:06:57
+Og så har vi lavet en værrestation, og en kloridmåler.
+
+00:07:02
+Som monitorerer på på regnhus projekterne, og på baggrund af det så kan vi så styre det og og og få den indsigt i anlæggene og gør at vi så kan tilpasse anlæggene. Og så har vi udviklet en en vandbremse som er det i ser her.
+
+00:07:16
+Som vi så kan gøre automatisk styret.
+
+00:07:21
+Og og på den måde. Ud fra det vi monitorerer, kan vi så begynde at styre vandflowene mellem volumerne og til kloakken som på Frederiksberg Kommune, der leder man regnvand til kloakken fra fra projekterne og og så er min tanke nu. Det er så at præsentere de eller Vores tanke er at præsentere de cases vi nu har lavet, og dem vil jeg så gennemgå her.
+
+00:07:41
+Og det her. Det er misesis vej.
+
+00:07:45
+Og Det er en vej, hvor Der er gravet 655 m3 ned under vejen i Sådan nogle store magasiner og alt det overfladevand, der falder på vejen og fortovet og de omkringliggende veje de leder vandet ned på vejen, og så bliver der så samlet op i de her volumer.
+
+00:08:02
+Og.
+
+00:08:04
+Og i udløbsbrønden her.
+
+00:08:07
+Hov undskyld.
+
+00:08:09
+Der.
+
+00:08:10
+Den Det er ligesom slutbrønen mellem volumen på de 655 m3 til kloakken og og i den brønd der installerede vi en en vandstandsmåler for at dokumentere effekten af af af vandvolumen der og og så fik vi lov at installere 1 1 1 vandbremse som er den her efter anlægget har stået færdig det i hvert fald 4 år så har vi så har jeg været nede i brønden og installeret den her vandbremse, som vi kan tilpasse til alle udløbsleder.
+
+00:08:38
+Og, og så har vi tilpasset udløbsflowet her. Sådan så at vi.
+
+00:08:41
+Vi udnytter volumen og det at det man så kan se her.
+
+00:08:46
+Den den røde linje er vandvolumen inde i inde i anlægget og de blå søjler. Det er nedbørshældelser og og så den røde linje fortæller i kubikmeter, at hvor meget vand der har stået derinde, og som vi ser så fra den 9. Marts.
+
+00:09:04
+2023 til til omkring hvad hedder det slutningen af maj start i juni.
+
+00:09:10
+24 så så har det været helt fladt. Der har slet ikke været vand inde i volumen, men så efter vi installerede vandbremsen og gik og tog vandflowet til kloakken ret voldsomt ned den fra 20 l/s til 0,9 l/s, så begyndte vi at udnytte volumen.
+
+00:09:30
+Og Det er faktisk det i ser her den røde linje her, hvor i kan se hver gang Det har regnet, så er der faktisk blevet er vandet tilbageholdt i volumen og ikke bare sendt videre til kloakken, som Det var før.
+
+00:09:39
+Og på den måde, så får man så udnyttet det potentiale, Der er i volumen.
+
+00:09:44
+Og og det vi ser her, Det er jo så det det her det i ser her, det det det dashboard vi så har udviklet sammen med Frederiksberg Kommune for netop at at blive rigtig klog på, når det så regner det. Ja, det i ser her, Det er faktisk en stiplet linje her, der der, der kan i se Der er faldet næsten 78 mm, og hvis vi så zoomer ind i den regn, Det er så her hvor Det er rigtig, så indenfor en time er der faldet 42 mm.
+
+00:10:08
+Det er den 9. September i år, og der kan i der kan man virkelig se hvordan at volumen bliver fyldt med vand helt næsten helt helt op på 400 m3 og så har vi så kunne måle på udløbshastigheden her og tilpasse vandbremsen. Sådan så vi netop har har kunne kunne anvende det her volume på nu siger fornuftigt, men Vi har i hvert fald kunne kunne tilbageholde vand Sådan, så vi ikke belaster det kloaksystemet og og så kan man se her at at.
+
+00:10:36
+Tømmetiden er så ret lang, men.
+
+00:10:38
+Men men men til gengæld har man så også belastet eller aflastet kloaksystemet under regnen. Det har man tilbageholdt helt. Og når så når så anlægget er helt fyldt, så går det i overløb ud på kloaksystemet.
+
+00:10:49
+Sådan så at hvis det går i overløb så så så går det først i overløb, når volumen er helt fyldt.
+
+00:10:57
+Ja og det her Det er 2 case hvor det lindevangs skolen hvor at man har et stort volumen hernede i selve skolegården på næsten 1500 m3 så har man et stort anlæg her ved rams allé 260 m3 og så er der også et regnbed her der optager noget vand og Det var Det var det her Det er det første anlæg vi faktisk satte sensor II, så Det er den 27. august 2022.
+
+00:11:23
+Der kunne vi monitorere en hændelse?
+
+00:11:25
+På i alt 38 mm, og på en halv time kom der faktisk 20 mm Sådan ret voldsom regn og det vi så bagefter kunne se Det var at at der kun stod 127 m3 nede i lindevangsskolen Det er 9%.
+
+00:11:41
+Af af af udnyttelsesgraden dernede, og vi så kunne også måle, at vi havde en ret fin udløbshastighed 0,8 l/s og derfor så så så på baggrund af det her. Der kunne vi ligesom se at.
+
+00:11:56
+Der var plads til til en meget større opland.
+
+00:12:00
+Og derfor så koblede man Julie valentins vej på.
+
+00:12:05
+Med nogle nogle plastmembraner i vejbrønden, hvor man faktisk simpelthen lukkede lukkede tilstrømning nede i vejristene.
+
+00:12:14
+Og og Det kan man jo kun gøre på veje, der ligesom naturligt føder vandet nedad til selve volumen. Men men alt vandet på vejen røg så ned. De har ristet, for der var lunker der og så røg det ned i kloakken, men dem fik vi så lukket med en ret billig løsning og så problematikken var jo så om når man så lukker de her vejrist det her kommer der bare en vandpytter står der bare vand, og så kunne vi faktisk sætte nogle målere op der så viste at når det regnede.
+
+00:12:39
+Så stod der de her 3-5 cm på på på vejen.
+
+00:12:43
+Vand når jeg så henne den ellers så når det sit maks så løber det bare videre. Og når det så hændelsen er slut, så falder vandet ret langsomt derfra igen. Sådan så at der ikke står de her vandpytter og folk kommer ind til bilerne.
+
+00:12:55
+Men men man som det man kan se her, så kommer der altså noget skidt dernede, og det her er jo så stået på var det. Det er 2 år det her Det har stået på. Der har ikke været nogen så vidt jeg ved ikke nogen klager dernede fra.
+
+00:13:08
+Og og det bliver renset så.
+
+00:13:12
+Men Det er en super Det er ja Det er en super billig måde at koble altså et ret stort opland på et volume.
+
+00:13:20
+Og det her Det er Det var i sommers, og Det er synes Jeg er super interessant. Det er at det her Det er volume man kigger ind i det underjordiske volumen og den den blå her. Det er faktisk Det er vandstanden inde i inde i selve volumen og så den røde linje her, der kan i se at at vandet bare bliver ved med at ophobe sig inde i volumen og kan ikke komme ud.
+
+00:13:41
+Og Det er jo Det er noget Vores dashboard så kan fange at der faktisk var en udløbshastighed på 0,03 l/s meget lavt.
+
+00:13:48
+Ud fra normen der var ligesom var 0,8 l og det betyder at der at Der er simpelthen driftopgave her. Selve vandbremsen er stoppet til.
+
+00:13:59
+Og og den her havde man faktisk aldrig oplevet eller fundet, hvis man ikke havde åbnet dækslet, fordi inde i selve den her ulvebrønd her Der er den nemlig 2 vandbremser, så det går ligesom over en betonvæg, som man kan se på billedet her og så over til en ny vandbremse, og derfor vil man først have fundet det her, når når man havde åbnet dækslet til foråret, men fordi man har vandstansmålerne, det data man nu får ind, så har man så har man så kunne fange den, og så kunne man så løse problemet.
+
+00:14:24
+Sådan så Det var klar til næste nedbørsendelse.
+
+00:14:29
+Og det her Det er Det er pikograms allé. Ja hvor at der ligger et 260 m3 underjordsk volumen og og det det det det den volumen her. Det bliver styret af den her udløbsbrønd og her hvor Der er styret spjældt Sådan så vi faktisk kan tilbageholde alt det vand, det opsamler det her anlæg her.
+
+00:14:49
+Og og det det gør så at det bliver muligt at genbruge vandet og og og til det Der er lavet en meget simpel lille snydebrønd her der der tager vandet fra udbrønden med Sådan en strudse kobling. Sådan så driftfolkene fra Frederiksberg Kommune. De kan køre hen med deres vandvogn og koble sig på her, og så kan de lige tænde for knappen, og så kan de hive vandet op for det her volume her og køret vande byens planter med.
+
+00:15:15
+Og så har vi også fået installeret 1 1 1 vandboks derude.
+
+00:15:18
+Hvor der sidder en en jordfugthedsmåler omme bagved og og på baggrund af de tal, vi får fra jordfugtighedsmåleren, kan vi så begynde at vande ud, når Der er behov for at vande ud og bruge det her vand her? Sådan så det ikke bare bliver opmagasineret og belastet kloakken. Og det blev det.
+
+00:15:36
+Det stod ligesom færdigt her i midt sommer, og det vil faktisk kunne dokumentere at at at 115 m3 regnvand.
+
+00:15:44
+Er enten blevet taget ud af vandboksen her, eller blev opsamlet af af.
+
+00:15:48
+At driftfolkene.
+
+00:15:53
+Og en 2 fin ting synes jeg, som vi lykkes ret godt med. Det er at at projektet ude bag søndermarken og Peter rams allé, hvor Der er nogle ret store volumener derude. Der har vi fået sat det her styrede spjald, der gør, at vi faktisk kan tilbageholde alt alt regnvandet, når det når det regner, og når der så, når det så ikke regner med, kan vi tømme ud og og gøre plads til det vand, der så skal komme og det her.
+
+00:16:16
+Det er meget fint eksempel på i sommers den 12. Juni.
+
+00:16:20
+Der varslede DMI 100 årsregn. Det blev så ikke så vildt som man havde regnet med. Kun 20 mm faldt der, men men det her det viser bare den røde linje her det det vandvolum inde bag søndermarken og den røde linje.
+
+00:16:31
+Her er vandvolumen i programmets allé og det man ser Det er at vi tømmer vandet ud indregnen kommer Sådan, så når så regnen kommer her, kan vi faktisk tilbageholde alt det vand der falder.
+
+00:16:43
+Så vi tømmer 313 m3 regnvand ud.
+
+00:16:47
+Hvor Der er plads i kloaksystemet, og der så kommer regnhandelsen, og så tilbageholder vi de her 103 m3 som ikke belaster kloaksystemet og så bagefter så kan man bruge det her vand i tapstederne.
+
+00:17:01
+Og det her. Det er en majestanlægget, hvor vi i Frederiksberg Kommune og DTU har været med til at udvikle en en kloridmåler, og Det er faktisk bare på baggrund af en ledningsevnemåler, hvilket gør at man at man kan måle Sådan ret billigt på klorid indholdet i vandet med Sådan en her. Og Det har vi så sammen med DTU fået reviseret Sådan så at vi ved, at den måler Sådan.
+
+00:17:26
+Sådan OK præcis på på klådindholdet i vandet og og og Det har man sat derude, fordi når når vandet når vandet står op II magasinerne, så går det i overløb til det her tørbassin som i ser her hvorfra Der er nedsivning, men det der må så ikke nedsives, når Der er meget klorid II det her vand og derfor så kan vi faktisk med kloridmåleren sige noget om det her. Det er linjen der viser kloriden holder vi sat den II. Marts.
+
+00:17:55
+I marts kom den 9 i år, og der kunne man faktisk se kloridholdet bare faktisk 70 mg per liter som så stille og roligt faldet men men når den så rammer de her 100 mg per liter så er det vi kan styre vandet udenom nedslidningsarealet med det her styrede spjælter hernede. Så når så og Det er jo svært i det her den her årstid vi går ind i nu, og vi kan allerede se, at da da der var sne at den steg faktisk lidt kloden holdet i vandet her.
+
+00:18:21
+Men det der med at lave den intelligente styring på baggrund af?
+
+00:18:24
+Af vandkvaliteten det Det er jo virkelig interessant og så lige pludselig så bliver det muligt at lave den. Eller jo det bliver muligt at lave nedsivning på baggrund af at vi kan se at vandet er rent til at kunne lave nedsivning med.
+
+00:18:39
+Ja Det var de cases jeg havde havde med og så alene ovre.
+
+00:18:45
+Ja fordi at at nu er det jo rigtig fint det her med at vi Vi har fået så meget data og Vi er blevet så meget klogere og kan se at de anlæg som.
+
+00:18:55
+Vi er jo i virkeligheden truet virkede, og som som er lavet efter.
+
+00:19:03
+Det man man vidste på det givne tidspunkt og selvfølgelig med livrem og seler fordi at man for alt verden ikke ville have at der skulle være noget der gik på på terræn, når man har Sådan et anlæg og derfor har vandbremserne måske historisk set altid været sat.
+
+00:19:20
+Meget åben. Sådan så at at at det Vi har set med at at vandet det i virkeligheden bare fiser lige igennem anlæggene.
+
+00:19:28
+Så så det Vi er i gang med lige nu, er at vi sammen med Vores Forsyning, som jo er dem vi laver alle de her anlæg sammen med, er i gang med at lave en styringsprotokol, som skal gælde for for alle anlæg, og det skal.
+
+00:19:44
+Ligesom.
+
+00:19:46
+Beregnes ud fra eller eller dimensioneres ud fra at Det er kloakkapaciteten vi vi kigger på.
+
+00:19:54
+Og på den måde kun putter vand fra Vores anlæg til kloakken, når Der er plads i kloakken. Og Det kan være forskelligt fra fra bydel til bydel. Så Det kan godt være nogle steder, hvor man vil holde mere tilbage end andre steder, så på den måde er det ligesom en en form for dynamisk styringsprotokol.
+
+00:20:14
+Men. Som udgangspunkt vil vi sætte vandbremsen så lavt som muligt, og Det kan vi tillade os, fordi Vi har det her overløb, men også for at blive klogere på.
+
+00:20:24
+Og kunne udnytte det hersens volumen Vi har i anlægen optimalt, fordi det at Vi skal huske på, og som jeg ikke fik sagt i indledningen, er, at de anlæg, Vi har lagt ned, er jo lavet til en hundredårs hændelse.
+
+00:20:37
+Hvilket vil sige at de jo PT.
+
+00:20:42
+Måske har svært ved at få alt det vand de skal have, men ved at så putte mere opland på og udnytte dem bedre ved at sætte bremsen så lavt eller holde spillet lukket.
+
+00:20:52
+Så kan vi ligesom udnytte den her kapacitet Vi har, og der skal cykelproteholdene så igen være dynamisk, fordi Det kan jo så godt være, når vi når om 50 år og 70 år og så videre at at det skal ændres undervejs. Men lige nu skal vi sørge for at bruge det volumen, Vi har så godt som overhovedet muligt, og derfor vælger vi at sætte vandbremsen så lavt som muligt, hvilket gør at vi på nogle af de gamle anlæg skal ind og og skifte vandbremser fordi at.
+
+00:21:19
+Vandbremserne på det tidspunkt har været nogen, som ligesom har været fikserede man ikke kan gå ind og og ændre uden at tage hele vandbremsen op, hvilket også er en af fordelene ved.
+
+00:21:31
+Med det system fra smart brønd, hvor man kan gå ind og og ændre.
+
+00:21:36
+På en vandbremse, når den er installeret.
+
+00:21:40
+Og for ligesom at få få hele det her setup til at fungere.
+
+00:21:45
+Sådan så at vi.
+
+00:21:47
+At det bliver så simpelt som muligt, så har vi indgået en en rammeaftale.
+
+00:21:55
+Som smart brønd vandt.
+
+00:21:58
+Hvor vi.
+
+00:21:58
+I alle Vores anlæg jo så kører med deres sensorer og vandbremser og spjæt. Det er ikke sagt at når forsyningen laver et et af deres store spjelt på de rigtig store anlæg, så har de en aftale med noget de gør. Men men vi vi samører data, det vil sige, at vi kan se ind i deres data, de kan se ind i Vores data.
+
+00:22:21
+De kan bruge Vores regnvejrsdata. Vi har værtstationer mange steder.
+
+00:22:25
+Og og vi kan bruge deres data.
+
+00:22:28
+Sådan så at vi at vi kan få en så god styring som overhovedet muligt på de her anlæg.
+
+00:22:37
+Og og bare for i kan få et overblik, og det får i så alligevel ikke helt her, fordi det nok er for småt til rigtigt kan se det. Men men Vi har ligesom vandsandsmålere og.
+
+00:22:49
+Indikeret på på det her kort og og det vi så på sigt vil gøre er at vi går ind og siger hvordan er kloaksystemet fordelt på Frederiksberg?
+
+00:23:00
+Og hvor er det så Vi skal have en måleenhed ude i kloakken. Sådan så vi ved den her kapacitet og får dækket de her områder ind, hvor vi nu rent faktisk har Vores anlæg Sådan, så at vi kan styre dem ligesom i grupperinger og sige her kan vi tillade os at lukke meget ud, og her kan vi tillade os at lukke knap så meget ud.
+
+00:23:21
+Og og og det Der er det interessante i det her er også at vi jo skal bruge det til i forhold til når vi går ud og snakker med borgerne.
+
+00:23:30
+Fordi at vi ligesom.
+
+00:23:33
+Som jeg sagde i starten, Vi er jo først færdig med at finde tilpasset Frederiksberg i 36. Vi har lavet en hel masse anlæg nu, og hvis en borger bor på en vej og får lavet et anlæg, så går de jo af logiske grunde ud fra at at så er deres område der sikret. Men Det er det jo ikke nødvendigvis fordi at kloaksystemet hænger sammen, og det vil sige jeg godt kan komme vand fra.
+
+00:23:58
+Andre dele og skyde ned i de her Sådan så lavtliggende områder og hvor klokke.
+
+00:24:04
+Nettet er er meget lille, og derved så stadigvæk lave en oversvømmelse.
+
+00:24:10
+Og og Det er jo det, vi ligesom skal have prøve at sikre på, at når vi får får lavet hele. Altså når det sidste puslespilsbrik bliver sat der i 36. Forhåbentligt, så har man ligesom et samlet system.
+
+00:24:23
+Som skal kunne modvirke det hersens problem og oversvømmelser, velvidende, at der jo altid er kommet en større regnhændelse, og at man ikke kan sikre sig. Men men men Det er Det er ligesom.
+
+00:24:33
+Det her med at få det udnyttet, så så godt som overhovedet muligt. Det er er Vores hovedfokus.
+
+00:24:40
+Og i form af den her rammeaftale, Vi har med smart bånd, hvor vi ligesom kan gå ind og line det op. Der er også det med i aftalen, at når vi installerer en valsnensor i et anlæg, så.
+
+00:24:55
+Kommer der noget data ind?
+
+00:24:57
+Og et smart bånd kigger sig selv på de data, og på den baggrund beregner, hvordan den her vandbremse den fremtid i skal stå.
+
+00:25:05
+Vi kan gøre, at Vi er sikker på, at vi får optimeret Vores anlæg fra starten af og kan følge dem Sådan, så at at vi ved at at Det er det optimale, og så kan vi putte ekstra opland på, hvis der skal mere opland på. Og vi kan se, hvordan vi ellers kan lede vandet hen til til det anlæg, vi allerede har. Men men den hersens tanke om, at det ligesom bliver.
+
+00:25:24
+Det er at samme ting at det ikke er enkelte systemer, men men men større systemer også med at koble. For eksempel så de i så før med pengegrams alle og lindevangs skolen, som i princippet er 2 selvstændige.
+
+00:25:39
+Anlæg men er blevet koblet sammen med Sådan, så at vandet fra den ene gård til det andet sammen med almisses vej, hvor der faktisk også er 3 magasiner som bliver koblet sammen, og man så på den måde kan tilbageholde mere i det ene og så sørge for at Der er ekstra kapacitet i det andet for eksempel.
+
+00:25:55
+Og Det er alle Sådan nogle ting, vi går ind og kigger på også i de eksisterende anlæg. Hvordan kan vi koble dem bedre? Sådan så at vi vi får udnyttet dem maksimalt.
+
+00:26:04
+Og den sidste ting, Der er en fordel for Frederiksberg Kommune, er, at Vi har en rammer til rådgiver også, og det vil sige, at de de får at vide, at Der er en bygherrelevering på på sensorer og på vandbremse og så videre. Ligesom Vi har bygherre leveringer på, hvilke magasintyper de skal bruge, og det gør, at Det er meget strømlinet det her med at at at få tingene.
+
+00:26:26
+Sat lidt mere II system.
+
+00:26:30
+Og bygge videre på de erfaringer man har, og på den måde få.
+
+00:26:35
+Det hele er optimalt og så godt som overhovedet muligt, så Det har været en stor fordel at at have et firma som som hvor vi kunne spare. Og hvad er det for nogle behov, Vi har?
+
+00:26:46
+Og få det fremvist i dashboard, som som vi det i så som som vi synes er meget brugervenligt.
+
+00:26:54
+I forhold til at.
+
+00:26:57
+Hvilken baggrund man nu har er det jo ikke sikkert at en krote nødvendigvis siger så meget, men hvor meget volume kubikmeter Der er i magasin? Det kan vi i hvert fald alle forholde os til.
+
+00:27:08
+Så så hele det her med at få det det fulde overblik over over Vores anlæg. Det har. Det har været meget gyldigt.
+
+00:27:16
+Jeg tror Det var ordene så tak for jeres.
+
+00:27:22
+Ja at i havde lyst til at lytte med.
+
+00:27:26
+Ja tak.
+
+00:27:28
+1000 tak lene og Mikkel og Der er kommet nogle spørgsmål, så dem tænker jeg vi starter med og og så hvad hedder det som sagt hvis folk folk har flere spørgsmål, så stiller i dem løbende i chatten, så skal vi nok få dem svaret på det. Det første spørgsmål kommer fra Lars, og han spørger, hvad hedder Frederiksberg Kommunes rolle for eksempel i forhold til lindevejens skolen? Hvor er grænsefladen til Frederiksberg Forsyning?
+
+00:27:52
+Er det fordi Det er et anlæg til håndtering af vand eller søge over serviceniveau, eller er det fordi for vand Frederiksberg Kommune er?
+
+00:28:01
+Som udgangspunkt så ejer Frederiksberg Kommune alle anlæg, men Vi har et samarbejde med Frederiksberg Forsyning Sådan så vi går ind og og og dimensionerer og planlægger alle projekterne sammen, og Det er Vi er medfinansieringsordningen. Så på den måde er det jo forsyningen, der betaler.
+
+00:28:22
+Men men men, men Det er Det er os der ejer og Det er os der drifter.
+
+00:28:28
+Så er der i de tilfælde, hvor Det er nogle meget store volumener, der har forsyningen. Et spjæl, som går direkte ind i deres SRO anlæg eller system.
+
+00:28:40
+Med vagt og så videre.
+
+00:28:42
+Og Der er det dem, der ejer selve brønden til det spild.
+
+00:28:48
+Og og ligesom styre det og og de andre dem styrer vi selv, og dem styrer vi jo så ud fra, at Der er nogle steder, hvor vi gerne vil tilbageholde regnvand til genanvendelse.
+
+00:28:59
+Og der har vi spjæld og ellers så er det for at aflæse kloakken, at Vi har valgt at sætte spjl i.
+
+00:29:06
+Men ellers så har det jo været til 100 års hændelse indtil nu, men med den nye lovgivning, Der er vi jo så nede på fra efter 27 og lave til en tier hos ansigt. Jeg håber det gav svar nok.
+
+00:29:17
+1000 tak lene så er der et spørgsmål for liv der spørger grænser i det vand i opsamler til genbrug inden det bruges. Og hvis ja hvordan? Hvis nej hvad er vurderingen af, at det ikke har været nødvendigt at rense?
+
+00:29:33
+PT det vi genbruger regnvandet til er at vande træer og buske og så videre, og der renser vi ikke vand.
+
+00:29:44
+Og det gør vi ikke på baggrund af, at Vi har taget nogle eller prøver en gang om måneden på det her vand for at se om om om Der er noget i altså nogle stoffer eller noget, der ikke skal være i det vand.
+
+00:30:01
+Og ellers så bliver det optaget på en Sådan måde, at Det er ligesom vandfilmen, hvor der kan være noget farligt i blandt andet. Men den måde, som det bliver pumpet op på de her anlæg, der bliver det ligesom pumpet op nedefra. Det er hvis man bryder ikke en vandfilm.
+
+00:30:16
+Og så er det faktisk OK at pumpe det op på den måde, så så så Vi har ikke haft. Altså vi kan have kan have haft lidt udfordringer med luftgener hvis eller lugtgener. Hvis vi ikke har nok udskiftning i Vores anlæg men men Det er vi jo bevidste om og sørge for at der ligesom bliver.
+
+00:30:37
+Tømt ud Sådan så at det ikke er stillestående vand ikke men men. Men Det er klart, hvis Vi skal til at bruge det til andet end end vanding altså til overrisling eller noget, så skal vi tænke på mere vandrustning.
+
+00:30:51
+Super og så Jeg har Der er et spørgsmål fra lene, men Jeg tror vi tager lige et spørgsmål fra ja nu håber jeg udtaler det rigtige game how fordi det handler også lige om det her vejvand og opsamles og rensen om Det er rent og og hun hun eller han spørger Det var det vejvand der samles til anlæg er det kun kloridindholdet man kigger på når det genbruges eller kigger i også på andre ting?
+
+00:31:17
+Der er en forskel på altså der hvor Vi har snakket om klorid. Det er der hvor det skal nedsives.
+
+00:31:24
+Og og Det er fordi i nedsivendesilladelsen, når vi når vi som Kommune, søger myndigheder og med nedsættelsesnedladelse, så.
+
+00:31:32
+Har er klorid en af de store, som Vi skal måle på.
+
+00:31:37
+Og og der har vi valgt i stedet for at tage en.
+
+00:31:42
+Vandprøve 2 gange om året, som ellers er ofte det man gør så sige. Det må vi kunne gøre bedre, fordi at en vandprøve er jo bare et øjebliksbillede, så vil vi godt gå ind og sige jamen vi vil gerne over hele linjen, altså gennem hele sæsonen kunne sørge for at der ikke kommer klorid, og i de her anlæg er faktisk Sådan, så at der burde ikke komme klorid fordi at at.
+
+00:32:06
+Kommunen salter ikke i områder, hvor Der er nedsivning. Der bruger vi CMA.
+
+00:32:10
+Men men og borgerne har Sådan set også fået at vide, at de ikke skal salte men men men Det er jo svært at ligesom også at håndhæve at at der ikke bliver saltet, og derfor følger vi den her saltkoncentration til nedsivning, men ellers så kigger vi på mange andre ting og også vi kigger også på olier og.
+
+00:32:30
+I kunne lide og ja flere andre parametre.
+
+00:32:35
+Og så har jeg lige supplerende spørgsmål til dig Mikkel, fordi Der er vel ikke noget til hinder for at jeres sensorer? Det vil. Det handler vel mest om hvad hvad i kan proppe ned kan man sige der kan måles på.
+
+00:32:45
+Altså Der er vel ikke noget til hinanden der får jeres setup kan håndtere alle mulige forskellige typer af sensorer og data.
+
+00:32:52
+Er det fuldstændig rigtigt? Ja det det det. Det er ligegyldigt hvad Det er for for noget målerudstyr, men ret mange af de der målerudstyr på vandkvalitet.
+
+00:33:01
+De bruger faktisk rigtig meget strøm og det det vi prøver altid at gøre Det er at vi kan køre det på batteri og derfor så er det Sådan et samarbejde hvor DTU og så også Frederiksberg Kommune er med i super godt for os spottet og at vi finder det rigtige udstyr Sådan så vi kan sidde derude med batteri, så man ikke skal trække strøm og Sådan noget dertil.
+
+00:33:19
+Men Det er rigtigt Vores både dashboardet og Vores den der styringsenhed den den kan tage alle enheder.
+
+00:33:26
+Og hvis jeg lige må tilføje, så kommer vi til at sætte ud både med BTX og PAH og i coli og.
+
+00:33:36
+Tobiditet og forhåbentlig også tungmetaller her i løbet af foråret.
+
+00:33:43
+Spændende. Så må vi hellere hoppe tilbage til lene, som havde et spørgsmål og hun spørger hvad hedder? Det er systemet koblet på forsynings SRO anlæg og kan vande bremserne bruges til fælles vand eller er det kun til regnvand?
+
+00:33:58
+Jeg kan lige starte med det første og så må ligge tage over på den næste.
+
+00:34:04
+Der hvor at forsyningen har spiel som er de store spiel Der er det direkte CSRO Vores.
+
+00:34:14
+Egne spild altså smart brøns spild er ikke koblet til SR jo.
+
+00:34:20
+Men vi kommer til at lave den her styringsprotokol, som ligesom sørger for en samstyring af det, så det bliver styret efter de samme principper.
+
+00:34:27
+Men det, men men og Det kan også være på sigt Det kan lade sig gøre, men Der er noget med datasikkerhed og Sådan noget som som lige nu. Ja, det skal vi lige finde ud af.
+
+00:34:37
+Og Vores vanddrimse den er kun lavet til regnvand. Den er ikke lavet til spildevand.
+
+00:34:43
+OK.
+
+00:34:44
+Hvad hedder det så har jeg lige et par spørgsmål til jer. Jeg kunne godt tænke mig at høre Mikkel du nævnte lige kort også i forhold til jeres samarbejde med Frederiksberg Forsyning. Undskyld, Frederiksberg Kommune og DTU med videre.
+
+00:34:56
+Men kan du hvad er hvad er næste ud udover det? Hvad er jeres næste udviklingstrin hvad? Hvad kigger du ind i, hvis du skal når Der er alene i sidder når i er færdige her og sidder og snakker lidt sammen om hvad hvad skal næste sjove ting være, hvad hvad er hvilken vej bevæger det sig?
+
+00:35:10
+Jamen altså noget Der er super spændende at kigge ind i synes jeg Det er. Det er simpelthen blevet rigtig skarpt på.
+
+00:35:15
+På flåde.
+
+00:35:17
+Altså måle simpelthen flowet II rørene hvor de nu kan komme helt ned og begynde at kigge på det. Så vil du også kunne lave en langt bedre styring til for eksempel kloaksystemet, hvis du kender det flow Der er derude, og når man så samler alt det data, så vil du altså virkelig kunne lave nogle nogle ret vilde modelleringer. Tror jeg på Sådan så man så man ikke behøver at bygge så stort som man egentlig gør i dag og så på den måde vil man kunne bygge billigere af mine hypotese.
+
+00:35:43
+Men helt klart det der mål på flow. Det tror jeg.
+
+00:35:47
+Det tror jeg bliver ret vigtigt.
+
+00:35:50
+Spændende, og der kom et der kom et spørgsmål.
+
+00:35:55
+For august kan jeg se, så den tager vi med det samme.
+
+00:35:58
+Hvor nemt har det været at drifte hvilke? Hvor nemt har det været at drifte? Hvilke udfordringer har i mødt og hvordan økonomien ud bag at anvende sådanne systemer både energimæssigt og økonomisk?
+
+00:36:12
+Altså hvor nemt Det var at drifte.
+
+00:36:15
+Ja ja altså jeg tænker hvor nemt er det at installere drift?
+
+00:36:20
+Og Der er det super nemt altså Det er og det det må alle gøre. Det er nemlig altså hvis man skal installere en vandbremse II en ø 1260, så skal man selvfølgelig ned i den og have clark uddannelse og alt det her. Men når den først ligesom sidder der så er den så kan man tage den op for terræn, så så så der behøver du ikke noget særligt, så kan du tage den op for terræn og så drifte den derfra og så sætte en vandbremsen og så sætte den ned igen.
+
+00:36:43
+Og selve vandstandsmåleren. Den sidder også oppe i toppen af brønden, så den er også supernem og ligesom tage af og så skifte batteriet. Når du så skal drifte den.
+
+00:36:52
+Så Det har egentlig været, og Det har hele tiden været Vores fokus. Det er at gøre det så nemt som overhovedet muligt.
+
+00:36:59
+Tak 1000 tak.
+
+00:37:02
+Så så har jeg. Nu springer vi lidt i det, fordi Jeg har et andet spørgsmål også. Det var et i vidste et rigtig spændende eksempel, hvor i hvor i havde brugt det opmagasinerede vand til både til og og modvirke fordampende eller hvad hedder det modvirke udtørring af af et et grønt område og i har også brugt det til at at pumpe vand op i forhold til til kommunens andre for vandingsprojekter.
+
+00:37:26
+Jeg kunne godt tænke mig at høre hvor hvor stor fordampning altså hvor meget vand har i kunne? Hvor meget vand har i kunnet bruge til fordampningen, hvis i nu ikke havde pumpet vand op af? Hvad skal man sige systemet til til til jeres vand vandbiler?
+
+00:37:38
+Men hvor meget kunne i egentlig aktivt bruge egentlig fordampningsøjemed? Er det? Er det nogle tal i har?
+
+00:37:43
+Nej Det er det ikke, men det kunne være det kunne være super spændende. Vi kan faktisk godt se hvor meget vand Vi har taget den der vandboks og vandet ud, men at kigge på selvfordampningen. Der er vi slet ikke endnu, men Vi har målerudstyr til kunne sige noget klogt efterhånden på.
+
+00:37:55
+Det der, hvor meget Vi har fugtet jorden op og hvor meget så om det så er beplantningen, eller om Det er er fordampning. Altså du kan sige beplantning fordamper jo også, men men men ødskilningen på fordampning og så hvor meget planterne har optaget Det er den har vi ikke lige men men vi kan se på hvor meget vi brød vi kan smide ud til dem.
+
+00:38:15
+Og for lige at supplere der, så lige netop det der med at altså en ting er at genanvende regnvandet for at spare på drikkevandsressourcen. Men men det her med fordampning.
+
+00:38:26
+Der er også et kæmpe issue fordi at vi på Frederiksberg via det Vi er så tæt bebygget også har det meget varmt. Altså varmeø er en problematik som vi kigger meget ind i og kommer til at kigge meget ind i, og Der er det her med at fordampe jo en mulighed for at sænke temperaturen.
+
+00:38:45
+I den tætte by, og Vi har lavet nogle målinger på på træer.
+
+00:38:51
+Hvor vi kan se hvor meget vand de tager op, altså drikker og fordamper, og Det er store mængder man kan. Man kan fordampe regnvand, så en ting er at vi aflaster kloakken og sparer drikkevandet, så har vi altså også noget.
+
+00:39:03
+Ja folkesundheds ind over det.
+
+00:39:08
+Spændende, og det taler jo bare ind i hele den her tematik omkring en optimeret styring af af vandet, som som i også har adresseret i dag.
+
+00:39:16
+Hvis der ikke er flere spørgsmål.
+
+00:39:20
+Giver vi lige folk 20 sekunder til at at at stille dagens sidste spørgsmål.
+
+00:39:29
+Jeg tror simpelthen i har i har svaret på alt så vil jeg lene og Mikkel på vegne af DNK sige 1000 1000 tak for en rigtig spændende tiktok og hvad hedder det? Det har været en fornøjelse og dejligt at i har været. Vi er sluttet året af med en så god tiktok.
+
+00:39:43
+Det er jo altid en en fornøjelse.
+
+00:39:46
+Fedt tak.
+
+00:39:47
+Tak.
+
+00:39:48
+Og til alle tilhørende. Jamen vi regner selvfølgelig, og det gør vi. Vi arbejder videre med at lave en masse nye tiktoks i 2025, så det betyder selvfølgelig også, hvis i har nogle tematik og nogle emner, som i gerne vil have præsenteret eller selv vil præsentere, så ræk endelig ud til DNNK, så vil vi meget gerne arrangere en en kommende check sammen med jer så 1000 1000 tak.
+
+00:40:11
+Og glædelig jul og godt nytår til jer alle sammen.
+

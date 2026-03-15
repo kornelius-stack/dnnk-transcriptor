@@ -1,0 +1,663 @@
+00:00:13
+Men, så er vi ved at være klar til at begynde på på det her næst første tik talk i år, som vi starter nu med at høre en spændende præsentation om nedbør og nedbør, er jo grundlaget for det, vi arbejder med i klimatilpasning. Det er jo nok en af de største usikkerhedsfaktorer, Vi har. Jeg har personligt arbejdet med hytologiske og hydrauliske modeller i årevis, og dem kan man jo normalt kalibrere, og så tror man, at man har noget, der passer i modellen.
+
+00:00:39
+Men meget ofte finder vi jo, at det faktisk er Vores rå indgangsdata. Vores nedbør, der egentlig er forkerte eller mangelagtige i deres præsentation. Jeg ved, at Vi har jo relativt få nedbørstationer, når man begynder at tælle dem sammen, og hvis man vil stille dem ved siden af hinanden, så måler vi jo i virkeligheden nedbør på en flade, der er< en halv håndboldbane og ekstra polerer.
+
+00:01:01
+Det er op til hele Danmark, og Det er klart, at Det er svært at lave Sådan en.
+
+00:01:06
+En en øvelse, hvor vi virkelig kan springe så mange størrelsesordener.
+
+00:01:09
+I det vi måler, og det vi så bagefter ønsker at arbejde med, og det giver selvfølgelig en masse udfordringer også i en klimatilpasning, hvor Det er fuldstændig nødvendigt for os at vide, hvad Det er, vi forbereder os på og forstår det klima og de forhold, som Vi skal. Vi skal designe Vores byer efter, så Det er selvfølgelig en stor glæde at præsentere malte skovbyan, som er.
+
+00:01:32
+I foreningen viva, som betyder vejrrater i vandsektoren, men som samtidig med også er II Aarhus vand, som netop har drevet.
+
+00:01:40
+Den her udvikling af veva og netop det, det handler om at få lavet en sammenslutning, at vi alle sammen kan blive klogere på det værd, som vi i virkeligheden går og designer Vores byer til at håndtere, men uden at sige meget mere, så vil jeg gerne give ordet til dig malthe og glæde mig til at høre, hvad du kan fortælle om om vejrarter og hvad vejen er fremad for os nu og her.
+
+00:02:00
+Yes jamen tak for det og tak for den gode introduktion ole.
+
+00:02:06
+Det var meningen vi skulle have holdt det her Sådan halvt fysisk og halvt online. Det synes jeg. Det er et rigtig godt koncept, men nu er det jo så blevet helt online her.
+
+00:02:18
+Og nu har ole åbnet mødet, og så var det egentlig tanken, at Vores bestyrelsesformand for venner foreningen skulle skulle sætte scenen. Det tillader jeg mig så at gøre for ham her.
+
+00:02:29
+Eller på vegne af ole neum for Aalborg Forsyning, så vil jeg præsentere vibe. Det vil jeg gøre ud fra Sådan 3 overordnede ting. Det er altså hvad er hvad er vega og og historie omkring veva og det der så er blevet til foreningen vega nu.
+
+00:02:46
+Og, hvordan vi ligesom åbner op for resten af af af vandsektoren, så vil jeg fokusere lidt på på nogle resultater fra et udviklingsprojekt Vi har kørt indtil nu og på et nyt udviklingsprojekt, som vi starter op nu. Og hvordan det så bidrager egentlig vil være.
+
+00:03:02
+Så er der selvfølgelig mulighed for at stille spørgsmål, og det må i gerne gøre i chatten og så så samler vi op på dem. Og så er der selvfølgelig også Der er tid af efterfølgende til hvis Det er, at Der er nogen der har lyst til at spørge mere om nogen.
+
+00:03:19
+Nogle detaljer i det her og i og med der kun lige er en halv time til det her, så er det ikke fordi jeg kommer så meget i dybden, men Det er mere overordnet indflytning.
+
+00:03:31
+Baggrunden for veda Det er at sige jamen koder pålidelige nedbørste estimater. De er essentielle for en lang række af Vores arbejdsopgaver her i vandsektoren og dermed også direkte påvirkelig på Vores investeringer.
+
+00:03:47
+Traditionelt bruger vi jo data fra regnemåler til de her hydrologiske og hydrauliske analyser.
+
+00:03:54
+Både med både på din naturlige og de menneskeskabte vandsystemer.
+
+00:04:01
+Det, Der er udfordringen ved de her regnmåler som muligt også så fint sagt Det er at Det er punktobservationer og det vil sige de har kun repræsentativt for nedbøren.
+
+00:04:13
+Indenfor en en begrænset radius.
+
+00:04:16
+Det vi ønsker os, Det er at vi egentlig har information omkring nedbørens stedslige og tidslig fordeling, altså det vi kalder den spasualitet for for fordeling, og at den her information den skal være nem tilgængelig for ikke at være retter eller hver dataspecialister. Det vil sige at det Vi har et ønske om, at det gerne skal være lige så nemt at bruge som Det er at bruge regnmåler data i dag. Dataene skal være lige så tilgængelig.
+
+00:04:39
+Det er så også vigtigt, at de her data de skal kunne anvendes både til realtidsstyring og realtidslistem.
+
+00:04:44
+Kundesupport forretningsupport planlægning, altså dimensionering og så dokumentation af Vores system.
+
+00:04:49
+Så det vil sige Sådan kort opsummeret, så ønsker vi os de bedst mulige data nu.
+
+00:04:54
+De bedst mulige datahistorisk og de bedst mulige i den nære fremtid, så vi snakker om. Hvordan kan vi lave de bedst mulige reeltidsobservationer?
+
+00:05:04
+Hvordan kan vi bedst muligt sørge for at korrigere dataene, så Vi har det bedst bedst mulige historiske data, og hvordan søger vi for at lave så god god nedbørsprognose som overhovedet muligt, og Der er så fokus på det her? Det, som Vi har fokus på. Det er jo så egentlig gode nedbørsprogognoser til hydrologiske og hydrauliske anvendelser i vandsektoren, og det adskiller sig fra fra den Meteorologiske anvendelse.
+
+00:05:30
+Så er det også rigtig vigtigt at de her data de er kvalitetssikret og de er dokumenteret, så det skal være transparent, hvordan man er kommet frem til de her data. Og så er ønsket også, at der etableres en organisation, som ligesom varetage det, som løbende varetager udvikling og vedligeholdelsen af de her datamodeller og og den her infrastruktur. Det var så det, Der er blevet til eva.
+
+00:05:54
+Så ribasamarbejdets formål kvalifikation Det er at skabe åben standard for de her vejrret og data til hydrologiske og.
+
+00:06:03
+Hydrauliske applikationer vi vil gerne skabe rammerne for et økosystem med med klart defineret datainterfacet datamodeller og API er Vi skal sikre en governance struktur omkring det her, og så tænker vi også formålet med, at Det er at det skal være, da vi sendte ud med det her. Det skulle være Sådan en videns og erfaringsrang omkring brugen af af værter.
+
+00:06:25
+Det hedologiske og hydrauliske formål, og så er det selvfølgelig også rigtig vigtigt, at Vi skal være med til at drive den fortsatte udvikling og forskning på det her område, fordi Vi er Vi er ikke færdige. Der er meget at lære.
+
+00:06:38
+Man kan sige det det første punkt. Det var ligesom at få få få lavet det her det her åben framework kan man sige. Det gjorde vi i vinteren 16.
+
+00:06:46
+17, hvor vi udviklede datamodellen, som vi kalder vera dam.
+
+00:06:50
+Version 1,0 og Det er egentlig en viderebygning af den internationale Meteorologiske standard, der hedder odin profem.
+
+00:06:59
+Og den her den hedder Sådan set også ved hvad dam h 5 fordi Det er den fil strugstruktur som man bruger underliggende.
+
+00:07:07
+Parallelt med det film, vi ligesom lavede det her neva framework for at sige jamen hvor er det visa skal være og og hvordan skal de her snitflader være og det her data flow Det er ligesom delt ind i 4 kolonner, hvor man ude til Venstre har raterne de rå data og Det er Sådan ved at være en god international standard at at at de fleste rare, de kan ikke levere data end det man kalder odin h 5 Det er et råt polært dataformat.
+
+00:07:31
+Som kræver en del bearbejdning efterfølgende.
+
+00:07:34
+Så er der 2 kolonne som hedder datainjustering kvalitet. Det er der hvor maila arbejder rigtig meget og i forhold til dataproducering så ligger der en fuld anerkendelse af at sige jamen vedva skal ikke være være være den der bestemmer alle alle anvendelser af de her data levas formål er at gå og bringe dataene fra de rå polære formater til et karaktetisk kvalitetssikret data format.
+
+00:08:03
+Så kan man sige jamen så er her i 2020 der blev levende samarbejde. Det blev etableret som forening ved ilva, så det nu er den juridisk og organisation, hvor Der er etableret en bestyrelse, og hvor at rettighederne til alt det Der er udviklet, er ført over og Der er ved at blive etableret en governance struktur for hvordan Vi skal skalere vedva, så det bliver så tilgængelig som overhovedet muligt.
+
+00:08:28
+Det her med at være vidensbank og erfaringsbank. Jamen det fungerer egentlig rigtig godt på et uformelt niveau nu, og det vil vi gerne formuisere mere gennem dele for at kunne bringe det her mere bredt ud i vandsektoren. Så kan man sige, jamen så er det 5 mål Det var.
+
+00:08:41
+Det er at Vi skal være driver for fortsat forskning og udvikling, og Der er den måde som budgettet er bygget op i foreningen Der er afsat midler til det op i er allerede gået i gang med et nyt.
+
+00:08:54
+Udviklingsprojekt, der hedder radio et.
+
+00:08:56
+Det vil jeg vende tilbage til senere.
+
+00:08:59
+For ligesom at flyve giver en indflyvning til det her med foreningen meta. Jamen så er formålet for foreningen leva. Det er at formidle vejrretter data til til dens medlemmer.
+
+00:09:10
+Det her, Det er direkte fra vedtægterne i eva.
+
+00:09:14
+Punkt 2 her Det er at det skal videre vedligeholde og videreudvikle den her infrastruktur som som som som veva har.
+
+00:09:26
+Foreningens økonomi skal være hvile i sig selv.
+
+00:09:30
+Men Vi skal dog bruge en del af midlerne til forskning og videreudvikling. Foreningen udøver ikke erhvervsmæssige virksomheder. Det vil sige, at vi at at at at det der bliver lavet ved værdier tilgængelige for ens for medlemmerne og Det kan sælges til andre.
+
+00:09:49
+Ja foreningen her. Den er Sådan set klar til at tage nye medlemmer ind, og Det er delt op på den måde, at Der er en grundpakke. Det er 150.000 om året.
+
+00:10:00
+Det dækker data og producereringsinfrastruktur med videre. Det tager udgangspunkt i national processeret vejr data, og Det er så baseret på DM is vejrretter det her, så dækker de selvfølgelig også driften af virkelig foreningen, og så er der også adgang til 2 tredjeparts produkter her til at starte med som som er udviklet af inden dagen og informatic. Så har vi også nogle plus pakke, og den indeholder Sådan set en et bare grundpakken, men det vil også inkludere Det er hvis man har sin egen lokale højopløsning.
+
+00:10:31
+Bærbarter jamen så kan man få de dataproducerede. Det er jo selvfølgelig nogle ekstra omkostninger, og Det er det som den her merpris ligesom ligger.
+
+00:10:39
+Det her Det er opbygget som en omkostningsfællesskab kan man sige hvor at jo flere medlemmer Vi er, jo mere falder prisen.
+
+00:10:49
+Vi er jo foreningen er på nuværende tidspunkt bygget op af de 5 founder Forsyning, som antallet af syd for bio pos, Aalborg, Forsyning, Aarhus vand og de har ligesom sikret økonomien her de første 3 år i foreningen.
+
+00:11:02
+Sådan så den løber rundt, og så er målet at her efter 3 år Der er vi forhåbentlig så mange forsyninger med i det her.
+
+00:11:09
+Sådan så Det er bredt mere ud. Det har sat op på en måde, så Vi har nogle videnspartnere. Der er nogle udviklingspartnere, nogle leverandører og så også nogle rådgivere.
+
+00:11:16
+Og ligesom lavede et fremwork for hvordan vi kan arbejde godt sammen. Sådan så Det er til gavn for os alle sammen som muligt, så vi ligesom løfter.
+
+00:11:24
+Målet er for ved at at prøve at gøre de her hverdag til at være ret og data så tilgængelig som muligt for hele vandsektoren. Sådan så vi løfter i flok i stedet for, at vi laver paralleludvikling.
+
+00:11:38
+Det var Sådan en indflyvning til foreningen ved eva. Nu vil jeg gå lidt mere i detaljen om om, hvad vi egentlig har lavet de sidste 2 år her.
+
+00:11:51
+Vi har rigtig meget fokus på egentlig at tage den her.
+
+00:11:55
+Ved og datamodel, som bliver defineret i 2016 17.
+
+00:12:01
+Og egentlig operationalisere den til operation online processeriskhed. Udover det får ikke kun at fokusere på den 2. Kolonne her som har markeret med grønt, så har vi også haft fokus på at udvikle 3 applikationer.
+
+00:12:14
+Den første Det er det vi kalder bve og web i daglig tale. Det er egentlig en data portal, hvor man kan hente de her processerede data.
+
+00:12:25
+Så har inviteren en kommerciel applikation ovenpå, som er det vi kalder nedbørstjekket og og skybudstjek, og det giver mulighed for, at borgere nemt kan gå ind og se, hvor meget man egentlig regnet og har der været cykelbud, så har informatics en app, Der er mere forsyningsrettet, som er avanceret nedbørstatistik.
+
+00:12:49
+Og egentlig mere tilpasset data til hydraulisk applikationer.
+
+00:12:58
+Og man kan sige, Det var Sådan set egentlig målet med projektet her. Det var det første output, Det var at at lave en opskrift på, hvordan bliver data det de skal processeres?
+
+00:13:08
+Det næste step. Det var egentlig at operationalisere den her online processeringskæde baseret på bibbe dam, så det gør det nemt at anvende og så de her 3 nedbørst tjenester.
+
+00:13:20
+Processeringskæden. Den er bygget op i 4 dele.
+
+00:13:24
+Det første Det er en polær databehandling, hvor dataen bliver kvalitetssikret så godt som de overhovedet kan.
+
+00:13:31
+Polært det vil sige fordi, og Det er vigtigt at gøre det der, fordi når når man går fra det polære di rå data til et graetisk, så vil der ske en interkulation af dataen. Det vil sige, at man altid vil vil miste noget information her, så der Der er nogen Der er nogen justeringer filtreringer af de her data, der fungerer bedre i de i polært Grete. Og så er der nogen der fungerer bedre i et karakterskridt.
+
+00:13:57
+Og så Der er en databehandling III det polære, hvor det hvor det bliver gjort på på enkeltretter niveau. Det bliver transummeret til granetisk.
+
+00:14:07
+Data produkt, hvor der så sker nogle nogle nogle andre behandlinger og så 3 step. Det er egentlig at samle det til et mosaik for hele landet og til det step Det er at justere det til.
+
+00:14:23
+Jordobservationer.
+
+00:14:24
+Det, Der er vigtigt at huske Det er nu vi måler med vejrter, så måler vi en nedbør i atmosfæren, og der kan egentlig ske en forholdsvis stor ændring på nedbøren fra, hvad vi måler i atmosfæren til hvad, hvad vi måler ved jordoverfladen og til Vores applikationer i vandsexeren. Der er vi jo mere interesseret i hvordan nedbørnene er, når den rammer atmosfæren. Ja undskyld han jordoverfladen end end hvordan den er i atmosfæren.
+
+00:14:51
+Udover det, så er det her data.
+
+00:14:55
+Musik Det er også en. Det er også en sikring af, at Vi har så høj oppetid som muligt, fordi mange af de her opperter Vi har. De er egentligt overlappende, og erfaringen viser sig, at Det kan simpelthen ikke undgås, at nogle af de her retter de falder ud engang imellem på grund af fejl eller II dataforbindelsen eller Der er et komponent i dem, der går i stykker, og de skal vedligeholdes.
+
+00:15:19
+Sådan så i forhold til at sikre en så høj oppetid som muligt, så er det rigtig vigtigt at kombinere så mange af de her data som muligt. Sådan så man kan tåle, at Der er en datakilde, der falder ud.
+
+00:15:31
+Så har vi i projektet arbejdet med behovene. Hvad er det, i egentlig skal bruge de her data til? Og der har vi fra start af i det her samarbejde egentlig haft meget fokus og sige jamen Der er de her 6 overordnede kategorier, Der er realtidsstyring.
+
+00:15:46
+Der er realtidsmulering, Der er kundesupport, forretningsupport, planlægning og dokumentation.
+
+00:15:54
+Og Vi har prøvet ligesom at så værdisæt. Hvor er det at vi egentlig har den største værditilførsel i forhold til funktionssituationer, og Det er det ene, Der er mistet her II tabellen.
+
+00:16:10
+Selve projektet, der har vi så arbejdet med nogle med at formulere nogle news cases, som de her 5 nuværende medlemmer af viroforeningen de vil arbejde med her i 2021.
+
+00:16:21
+Der er et par stykker under reelt styring. Nogle mere realtidimuleringer, kundesupport, forretningsupport og og så planlægning.
+
+00:16:29
+Det vil jeg egentlig ikke sige mere om nu.
+
+00:16:33
+Men alt i alt, så er vi egentlig kommet rigtigt i gang. Godt i gang godt igennem det her projekt.
+
+00:16:39
+Vi har den her projoseringsopskrift, som nu ved vi, hvordan dataene de skal procueres, så vi får så gode observations data som overhovedet muligt. Den online procesingskade den er operationaliseret, den kører.
+
+00:16:52
+Der er lige lidt lige lige et sidste fintuning, som Vi skal have gjort her i start 2020 21 og så har vi en af de her 3 eksempler på nedbørsteapser som også kører.
+
+00:17:04
+Vi tænker det her som et kontinuerligt bevægelse, hvor vi bliver bedre og bedre, så Det har været målet med det her projekt. Det har egentlig været og få et minimum vibe product, altså komme hele vejen igennem i stedet for at gøre det perfekt og derfor i den her rapport, som Vi er ved at lave nu. Der ligger der nogle udstillinger til, hvordan veraforeningen kan arbejde videre.
+
+00:17:24
+Med at fintone.
+
+00:17:27
+Ingskæden så vi opnår så gode data som overhovedet muligt, men Jeg vil sige, at nu er vi ude på.
+
+00:17:34
+Altså Vi er nået de 80 90% af vejen det hele. Det er operationel Sådan så det her med fintuning. Det er selvfølgelig noget som Vi skal have gjort, men men men Det er der hvor vi henter de de de sidste procent.
+
+00:17:51
+Der er de her 3 tjenester som er ved at blive operationaliseret og og de de ligger Sådan set klar nu.
+
+00:18:02
+Så kan vi sige.
+
+00:18:04
+Jeg går lige et skridt tilbage her.
+
+00:18:07
+Det Vi har haft rigtigt meget fokus på i det her projekt, Det er for 2018-2020. Det er at at lave den her data proceringskæde operationel og sørge for, at Vi har så gode.
+
+00:18:18
+Observationer som muligt med så god reladens og stabilitet som overhovedet muligt.
+
+00:18:25
+Og Det er delt ind III 2 kategorier og sige jamen Vi har et realtidsinformationsniveau, og så har vi et historisk, fordi nogle af de her justeringer, som der foregår med de her data, de er nemmere at gøre nu, når man nu når man kan nu når man står på et tidspunkt og både kan se fremad i tid og tilbage og tid, så det med at lave justeringerne efter 12 eller 24 timer, det gør at man faktisk kan nå dem opnå et bedre historisk arkiv.
+
+00:18:55
+End det man kan gøre i realtid, så det vi arbejder rigtig meget med. Det er at få så gode data som muligt nu og her til reeltidsapplikationer, men også arbejde med at få så gode som muligt. Data til historiske analyser for eksempel hvis man har haft en oversvømmelse og man og man vil bruge de her data i mike ørken til at analysere, hvordan var belastningen i systemet, så er det bedre at bruge de her, vi kalder dem historisk korrekt korrigerede data.
+
+00:19:23
+Det vi så mangler at arbejde med. Det er jo så egentligt at se fremad i tid og egentlig operationalisere det. Så der har vi startet et nyt projekt op, som hedder radiat.
+
+00:19:35
+Og Det er jo det næste logiske skidt skridt for udviklingen her her III vena og det handler omkring forkast altså nedbørspro prognoser. Det er en kombination af et VHP projekt og et PHD. Forløb på Aalborg.
+
+00:19:51
+Universitet Det er overordnet delt ind i 3 forsknings og udviklingsdele, hvor det ene Det er at forbedre vejrret og datsen gennem crowdsourcet nedbørste data. Det næste Det er at udvikle og operationalisere de her nedbluss.
+
+00:20:09
+Nedblørs forecast, og så er det egentligt at kvantificere.
+
+00:20:14
+Måle og prognose usikkerhed og få det implementeret i projoseringskæden.
+
+00:20:19
+Sådan så det bliver så transparent som muligt, for den der sidder og arbejder med de her data, og så selvfølgelig så vil det udvikle i det her projekt blive løbende implementeret i virvas infrastruktur, så det bliver til glæde for alle medlemmerne.
+
+00:20:35
+Hvis man ser på den første del, så hvis man begynder at kigge på de her.
+
+00:20:40
+Tilgængelige nedbørstanser Der er jamen, så ligger der faktisk rigtig mange kilder derude, og Det er helt i ånden af eva og egentlig begynder at kigge på flere ting end bare vejrretter og det Vi skal huske. Det er at i forhold til det her med nedbør jamen så har de forskellige datakilder. De har forskellige fordele og de forskellige ulemper.
+
+00:20:58
+Det Der er den rigtige store fordele ved en vejrretter. Det er at den måler.
+
+00:21:02
+Den den den den relative fordeling af nedbøren i tid og sted, men den er faktisk ikke særlig god til at sige hvor meget det regner ved jordoverfladen. Og Det er jo helt naturligt, fordi den måler op i op i atmosfæren, så Det er rigtig godt at få de her data justeret til hvad der egentlig sker ved jordoverfladen. Men vi ved også, at hvis man kigger på regnmåler, så er der stor kvalitetsvariation i forskellige typer.
+
+00:21:26
+Hvordan bliver sat op hvordan læ og vindforhold er?
+
+00:21:29
+Så det her med at arbejde de her data sammen. Det giver os 1 1 1 1 bedre overordnet estimat.
+
+00:21:35
+Så det her. Det er den første del, det handler om at om at åbne op og og tage flere datakilder ind.
+
+00:21:42
+Den næste del, Det er det her med afkasteren.
+
+00:21:47
+Der har vi der eksisterer navster, Der er tilgængeligt på på forskningsniveau og Aalborg Universitet har arbejdet med det i mange år.
+
+00:21:56
+Og det, Der er en del af det her projekt. Det er at få det konsolideret og få det operationaliseret, men også at få kigget mere ind i den her coacheck navst metodik, hvor man egentlig kigger på bevægelserne.
+
+00:22:10
+Af nedbør og den 2. Det er at kigge på det mere objektbaseret Sådan så man egentlig tracker enkelt de dele.
+
+00:22:19
+Af nedbørsfeltet og også identificere hvad er egentlig regnvejr, hvad er sludder og hvad er sne og så videre? Det er jo også rigtig vigtigt for Vores applikationer. Vandsektoren Det er jamen er det nået nedbør der strømmer af eller bliver den liggende på overfladen?
+
+00:22:37
+Og delte jo så det her med kvalkvalificering og måle og og og og prognose usikkerhed, og Der er det rigtig vigtigt at have med her at sige. Jamen vi slipper aldrig for målet og prognose usikkerhed, men Det er rigtig vigtigt at vi får det håndteret, så Vi er bevidste om, hvordan det provokerer ned igennem de applikationer, som vi som Vi har, så det skal kvalificeres på en god måde.
+
+00:23:01
+Yes.
+
+00:23:02
+Jamen Det er Sådan set der Jeg vil tillade mig at slutte for nu, og så er der Sådan set egentlig god tid til at få stillet nogle spørgsmål, og Jeg synes, at det ville være rigtig spændende at gå i dialog og svare på nogle af de spørgsmål, som Vi har.
+
+00:23:24
+Mens Der er er nogen ude i det ganske land der sidder og prøver at formulere nede i chatten hvad hvad jeg håber de gør, så så tillader jeg mig at starte med at stille dig 1 1 1 par spørgsmål med alte hvis Det er OK.
+
+00:23:38
+Jeg jeg Jeg er lidt nysgerrig over over din forening. Sådan noget af det rent organisatoriske du sagde at Der er 5 medlemmer i dag og Det er korrekt.
+
+00:23:46
+Yes Det er der.
+
+00:23:48
+Hvornår er det? Er det muligt for andre at blive medlem i det? For det må da have interesse også for andre forsyninger at komme ind.
+
+00:23:54
+II samme forening.
+
+00:23:57
+Jamen jeg ved, at der ude i det i det danske land er flere forsyninger. Der er sagt at de er interesseret og også er klar til at melde sig ind, og Det har faktisk egentlig egentlig været mest på grund af konsolideringen.
+
+00:24:10
+Af af af vilva bestyrelsen, at Det er trukket lidt ud.
+
+00:24:14
+Og så også at vi lige skulle have have leverandør aftalerne på plads bagved Sådan, så vi var sikker på, at vi var foreningen kunne levere det, som vi var. Foreningen gerne vil levere, og det kører så billigt Sådan. Så Jeg har egentlig aftalt med ole neerup, som er bestyrelsesformand, at Jeg kan sige i dag, at Vi er Sådan set klar til at til, at man kan melde sig ind, og Der er ved at være udarbejdet indmeldelsesplan, blank, blanketter og og ligesom specifikationer på hvad man hvad man får ud af.
+
+00:24:45
+Medlem.
+
+00:24:46
+Ja Det er jo super spændende og og det man så får som medlem. Det er at man får så adgang til til alle de her data som er poleret og af af gode og rigtige og kan anvendes i ens forsyningsområde.
+
+00:25:00
+Yes hvad hvad nu hvis man ikke var i forsyningen? Altså hvis nu man havde været landmand for eksempel man boede Sådan et sted, kunne man så have fået adgang også til de data? Eller er det noget der skal gå en 2 vej?
+
+00:25:12
+Det er som udgangspunkt noget, der skal gå en 2 vej, men en af de ting, som eva meget gerne vil se på. Det er hvordan man kan arbejde sammen på tværs af sektorer i det her, og Det er noget af det, som Vi er. Bestyrelsen vil.
+
+00:25:26
+Vil udforske her i 2021 og 2022.
+
+00:25:30
+Og Det er jo egentlig med henblik på at Vi skal jo gerne putte ene data så nemt som muligt, men Der er jo også en regning som skal betales i sidste ende, og der har vil eva foreningen meget fokus på, hvordan vi egentlig egentlig gør det her. Så omkostningseffektivt som overhovedet muligt.
+
+00:25:48
+Ja.
+
+00:25:50
+Jeg tænker du har arbejdet med de her dage så længe og og og du har jo givet nogle nogle rigtig gode eksempler på at man kan kan bruge det til til realtid styring af af ting man nu måtte ønske at styre i et i et vandopland indenfor vandserne. Og jeg sidder og tænker på hvad med Sådan noget som trafik. Det må jo også være relevant at styre det, og så er man vel netop over i at trafikstyringen ligger, måske i en Kommune eller.
+
+00:26:15
+Eller vintertjeneste for eksempel, og og så er i altså ved at få lavet kan man sige modeller senere for hvordan vandsektoren kan bidrage frugtbart til at de andre typer af sektorer faktisk også får løst deres vær problemer.
+
+00:26:30
+Ja at Det er vi. Det er det som favorforeningen er, er vi meget åben over for det, og det vil vi meget gerne bidrage til, så så vi ser det her. Det kan sagtens blive noget, Der er på tværs af af sektorer.
+
+00:26:45
+Vi, Vi har bare valgt at fokusere her II vandsektoren til at starte med.
+
+00:26:49
+Ja.
+
+00:26:52
+Vester rent geografisk fordi de de radar man har II landet. De kunne jo også godt risikere at dække noget af af udlandet med i hvert fald i grænseområder. Men man kunne måske også godt forestille sig, at den teknologi Jeg har lavet rent faktisk er en Der er eksportegnet.
+
+00:27:10
+Altså kunne man have forestillet sig at aveda drev og opereret radar i vandsektoren for Tyskland for eksempel eller eller Sverige. For den sags skyld er det noget du kan?
+
+00:27:21
+Kommentere på ja altså man kan sige vedtægterne i vera foreningen. De har skrevet på den måde at at at at førsteprioriteten, Det er jo egentlig at være servicerer med medlemmerne, men men men men Der er en mulighed for at eva kan gå ind i kommercielle partnerskaber, hvor man egentlig kan bruge den her teknologi Der er lavet.
+
+00:27:44
+For med henblik på at bringe bringe, bringe prisen og omkostninger længere ned for medlemmerne.
+
+00:27:51
+Sådan så Der er Der er Der er. Der er åbent for at man at man egentlig kan lave noget kommercielt og noget internationalt ovenpå det her.
+
+00:28:01
+Så Det er der bestemt, og man kan jo sige i dag Der er Der er eva jo Sådan set egentlig landsdækkende.
+
+00:28:08
+Og.
+
+00:28:11
+Fordi Det er baseret på SVK, regnmåler og putte DMI data og og Der er også Det er også det Det er. Det er klargjort til nu når DMI gør deres data mere og mere åben og det vil jo så sige at.
+
+00:28:28
+Jo mere åbne, og jo mere fri Det er mest datablere, jo billigere bliver det jo så også at være medlem af bva kan man sige.
+
+00:28:37
+Og der arbejdes også på at sige, hvordan er det vi egentlig kan integrere på tværs af nationale grænser altså der Der er nogle data III nordtyskland, som specielt er interessant for det sydlige af Danmark, og Der er også nogle, Der er også nogle datakilder i det sydlige Sverige, som specielt er interessant for det østlige af Danmark.
+
+00:28:59
+Og så vil jeg lige sige til sidst, at Der er også Der er også lavet en model for eller visa egentlig opbygget på den måde og siger, men hvis man som Forsyning.
+
+00:29:10
+Gerne vil have sin egen højopløsning, eksponaterdata eller radoterdata eller undskyld ekspositter, hvor man gerne vil have de data produceret på den. Jamen, så kan det egentlig plugges direkte ind i vibe, og der ligger også 1 1 1 1 1 model for hvordan de her dataene deles på.
+
+00:29:29
+På på tværs af forsyninger og hvordan at man ligesom bidrager til at til at betale for det.
+
+00:29:36
+Sådan så man kan sige det, der også er indarbejdet det her. Det er jo at man egentlig på sigt, hvis man er et par forsyninger, der har der, der ligger sammen, at man egentlig kan begynde at arbejde ud fra at sige, hvor er det. Hvor er det mest optimalt at placere de her rater i stedet for at placere dem midt i sit eget forhold for psykensområdet.
+
+00:29:55
+Det kunne være, Det var bedre at placere en.
+
+00:29:57
+1 1 1 nord for en syd for og så gå i samarbejde med nabo for forsyninger om det, fordi det vil give en bedre data.
+
+00:30:07
+Ja så så med andre ord i deler en teknologiplatform i virkeligheden gratis ud blandt deres medlemmer og sikre jer så selvfølgelig, at jo flere der bruger den jo billigere bliver den af drifter og vedligeholde og og udbyden og og II teorien er der ikke noget der der hindrer jer i også at indgå kommercielle partnerskaber og få den om man så må sige crowdfunding udvidet til at blive en global løsning, så så alle forbedre adgang til data.
+
+00:30:37
+Det er der Sådan set ikke ikke noget til hinder for det, men Der er Det er jo at at at det her tager udgangspunkt. II vandsektoren i Danmark også skal være til fordel for for for et medlemsforsynlende.
+
+00:30:50
+Ja jeg Jeg er også lidt nysgerrig nu nævnte du eksportens radar og og Jeg synes altid når II det arbejde Jeg har været involveret i vandsektoren at at Der er mange brugere og data de har ligesom deres foretrukne datakilder og. Og Jeg synes du nævnte før at at om man så må sige at alle data har nogle fordele og også nogle ulemper i forbindelse med med med det man gør.
+
+00:31:16
+Er der nogle af de her ting som.
+
+00:31:18
+Som kvaliteten af data er Der er der noget nyt, der også er kommet ud af jeres studie her hvor i kan gå hen og og Sådan tydeliggøre netop den værdiskabelse der ligger III apre de forskellige kvaliteter, for det må være svært at parre eller at at at forene kan man sige punktkilder med med rummelige datasætsæt.
+
+00:31:40
+Har du kan du kan du komme med et par kommentarer om hvad Det har betydet for kvalitetsløftet af data af de er.
+
+00:31:47
+Er i stand til at gøre det i gør nu.
+
+00:31:51
+Altså det gode spørgsmål er jo altid. Hvad er kvalitet?
+
+00:31:58
+Om om om og man kan sige her Det er at.
+
+00:32:04
+Det, Vi har haft meget fokus på at bryde med. Det er, at Det er, at man har en enkelt enkelt datakilde, som man er afhængig af.
+
+00:32:16
+Og så har vi arbejdet med at at gøre det, så.
+
+00:32:21
+Redudansk som muligt, så vi sikrer en så høj opadset som muligt, fordi de her 5 forsyninger ligesom der har været med til at skabe eva. De har stor fokus på at de gerne vil bruge de her data i realtidsapplikationer.
+
+00:32:34
+Det vil sige, at vi gerne skal have det til at køre 24 7, 3 65 og i den erkendelse af at dataforbindelser de kan ryge og sensor de skal vedligeholdes og censor de kan gå ned, så Vi har stor fokus på at lave den her integration, og der har vi brugt state of the art.
+
+00:32:52
+Med metoder til den her integration, og Der er Aalborg Universitet lavet et et stort dokumentationsarbejde, som er opsummeret II. Den rapport, som jeg nævnte Vi er ved at skrive færdig.
+
+00:33:06
+Der ligger jo så anbefalinger til hvordan man skal arbejde videre, men en af de ting, som jeg rigtig gerne vil arbejde med II radioate, Det er at se jamen hvad er kvaliteten?
+
+00:33:17
+Og usikkerheden i forhold til Vores hydrauliske og psykologiske applikationer, fordi det Det er der, Det er vigtigt for os. En ting er på nedbørste estimatet, og Det kan laves super godt. Det er mere afhængig af det ekstra afhængig af af sensoren.
+
+00:33:33
+Det er mere afhængigt af hvilken nedbørss sit sit situation man har, hvis Det er en jævn fordeling. Strategiform nedbørshændelse.
+
+00:33:43
+Jamen så er det forholdsvis nemt at måle.
+
+00:33:46
+Fordi at de atmosfæriske forhold, de er stabile. Hvis Det er konventive nedbør altså skybrud.
+
+00:33:53
+Hvor hvor, hvor Der er meget turbulens i atmosfæren. Jamen så er det straks langt længere, langt, langt sværere at kvalificere fordi.
+
+00:34:04
+Altså på grund af de ustabile atmosfæriske forhold. Jamen så kan så så kan så kan relationerne mellem dataene være vidt forskellige.
+
+00:34:14
+På altså fra en del af en Kommune til en 2.
+
+00:34:19
+Sådan så der der der bliver i usikkerheden helt bestemt lige, men men det Jeg synes Der er vigtigt her og husk på Det er at sige jamen i og med at Vi er fokuseret på integrationer, jordobservationer, DMI, cebnsdata og og så lokale eksponsdata, så er der rigtig mange datakilder som skal fejle for at man ikke har et eller andet datagrundlag, og Der er vi så opbygget nogle, nogle nogle nogle nogle nogle niveauer efter det?
+
+00:34:48
+Jeg håber Det var svar på det spørgsmål.
+
+00:34:50
+Jamen jamen det tror jeg Det er altså. Jeg synes jo Det er interessant. Altså når man tager udgangspunkt i Sådan noget som Vores standard punktmålinger og vejrstationer.
+
+00:34:58
+Der er jo intet, der hindrer det i at regne i mellem 2 stationer, altså netop de der små nedbør du taler om. De kan jo godt risikere at ligesom at fise ind imellem 2 værtsstationer, så de måler nul på trods af det regner hunde og katte imellem dem. Så hvis man havde entrepreneret en masse nuller, så havde man jo også fået nul der hvor det regner.
+
+00:35:15
+Og og Det er vel noget af det Der er er er hele styrken ved at kunne kunne kombinere det.
+
+00:35:22
+Men Det er selvfølgelig også altid svært, når man ser på nedbør at få både den rigtige forståelse af intensiteten og volumenerne, som du siger. Men men jeg forestiller mig, når så mange kloge mennesker arbejder sammen om det, så giver det et væsentligt bedre kvalitet af det datasæt man kommer på. Så kan jeg jo så måske komme med et af mine afsluttende spørgsmål.
+
+00:35:41
+Jeg jeg startede med at påstå, at meget ofte er i Vores modeller.
+
+00:35:48
+Måske endda den største del af usikkerheden Vores forståelse af hvor meget nedbør der kommer og hvordan den er fordelt. Hvis nu man har det her korrekt, hvad skal vi så til at lave bagefter? Skal vi så til at blive bedre til at måle fordampninger, eller skal vi så blive bedre til at genopfinde fysikken eller eller hvor flytter vi så grænserne hen?
+
+00:36:08
+Hvad er den næste barriere vi møder forudsat af det her produkt, som du selvfølgelig omtaler som minimum maribo product? Det skal selvfølgelig nok.
+
+00:36:16
+Fintunes lidt mere, men men skal vi begynde at rette kikkerten og søgelyset ind imod nogle nye problemer ude i fremtiden?
+
+00:36:25
+Altså nu nu tillader jeg mig lige at inddrage nogle erfaringer fra nogle andre projekter, og Det er jo egentlig noget af det, som vi blandt andet II.
+
+00:36:35
+I Aarhus land har været i gang med at arbejde med. Det er egentlig at se på, hvordan vi egentlig kan udnytte IOT teknologi til at få mere viden omkring Vores systemer, og Vi har et fokus i Vores land på. Vi rigtig gerne vil gerne vil dokumentere.
+
+00:36:51
+Hvordan Vores investeringer egentlig performer ud fra det. Det det designet og Der er Der er en en af en af inputtene eller en af en af parametrene til det. Det er jo en af målet på inputtet til systemet, så Det er jo nedbøren oftest.
+
+00:37:05
+Og så er det jo egentligt at måle på outputtet, så Det er jo egentligt afstrømning i systemet.
+
+00:37:09
+Og kan man bare sige at.
+
+00:37:12
+Vi bruger rigtig meget energi på og.
+
+00:37:16
+Og justere Vores modeller og tilpasse dem og opbygge dem og så videre og også til til til en god grad kalibrere dem og Vores erfaringer er er Sådan set at modeller de er rigtig gode til det de har kalibreret til. Men hvis man begynder at bruge dem i andre funktionssituationer, jamen så er det egentlig rigtig, rigtig udfordrende, og der har vi jo agnethe ved.
+
+00:37:41
+Man man man man sætter søde der arbejder med det her erhvervs PHD som handler om.
+
+00:37:47
+Det er et digital tvilling for på akssystemet altså egentlig en model, men det Jeg synes er rigtig spændende i ens projekt. Det er, at der bliver arbejdet rigtig, rigtig meget med hvordan modellen den digitale tvilling stemmer overens med.
+
+00:38:03
+Med virkeligheden og de målere, Vi har derude, og Der er det jo rigtig vigtigt at pointere, at Der er både en indbygget usikkerhed i modellen.
+
+00:38:12
+Og Der er også en usikkerhed.
+
+00:38:16
+Og relateret til målingerne, og Jeg vil være så fræk her og afsluttende svar af med at sige, at en model.
+
+00:38:25
+Altså outputtet er en model er jo 100% bestemt af den person der sætter modellen op.
+
+00:38:30
+Så en model kan jo ikke fortælle os noget, som vi ikke vidste i forvejen.
+
+00:38:35
+Fordi Det er den modulør der sætter den op. Det er som en model hjælper os til. Det er at skabe overblik over den meget komplekst system, men hvis man ikke sætter modellen op til det man vil bruge det, jamen så får man aldrig, eller så får man ikke det det det det svar som man som man egentlig søger.
+
+00:38:53
+Sådan så det synes jeg. Det er vigtigt at have have i mente, så Jeg tror, at fremtiden her bringer et langt højere grad af.
+
+00:39:03
+Er en kombination af datadrevne løsninger og modelbaserede løsninger, og hvordan Vi skal få dem til at gå hånd i hånd. Jeg tror, Det er et eller andet sted der indimellem at at sandheden om Vores systemer ligger. Den ligger jo selvfølgelig ude III virkeligheden, men vi vil jo gerne afspejle sandheden, så Vi har det bedst mulige fundament til at tage beslutning på.
+
+00:39:26
+Ja Det er Det er godt at blive appelleret til at være lidt ydmyg overfor de ting man går og laver, når man både når man måler og når man modellerer at at man ikke bare fordi man tror man er klog og nødvendigvis har den endegyldige sandhed og. Og hvad er det man siger det med at spå om fremtiden er svært og Det er at stå om vejret er også svært så så så Det er Der er ikke nogen tvivl om at Det er et udfordrende felt.
+
+00:39:49
+Jeg har siddet og stillet en masse spørgsmål og og Det har jeg gjort lidt på vegne af folk også III chatten. Men jeg tænker vi kan lige lynhurtigt på falderebet høre om Der er nogen der har en enkelt lille lille slut kommentar skrevet og hvis ikke Der er det, så vil jeg i hvert fald sige at Jeg er blevet fantastisk meget klogere i dag. Det har været rigtig rart at få en præsentation af viva, og Jeg kan jo i hvert fald fra fra hvor jeg sidder IDNNK.
+
+00:40:16
+Kun kun.
+
+00:40:19
+Håber på at at vi og alle mulige andre heller benzin på det her bål, så vi får endnu bedre endnu flere gode data fremadrettet, og Jeg synes egentlig det Der er interessant også Det er, at tankerne om fællesskab og en forening og det med, at vi faktisk kan løfte i flok og og nå mere i fællesskab, end vi kan nå enkeltvis. Det er jo også noget af det, Der er udgangspunktet for for for DNNK vi gerne vil gøre det.
+
+00:40:45
+Og og det synes Jeg er rart at se at at vandsektoren også forener sig om de her jo enormt komplicerede tekniske udfordringer, som ligger II brug af de her typer af data. Så så Jeg synes Det er absolut en en jeg lavede en installation som absolut er værd at tage ved lære af indenfor mange forskellige andre fagområder, og det kunne måske have været det aller allersidste. Kunne man have forestillet sig, at vandsektoren gik sammen om?
+
+00:41:10
+Om andre ting på samme måde som i har løst det her med hverdag.
+
+00:41:14
+Altså kunne man have forestillet sig, at man gik ud og lavede fælles løsninger til til den smarte vejbeinstallation eller eller andet. Og er det i virkeligheden det der gør at forsyningssektoren ad over, så det ikke behøver at blive fusioneret som selskaber, men faktisk funktionerer på teknologi?
+
+00:41:34
+Det tænker jeg, at Der er mange gode muligheder, for Jeg tror, Det er rigtig vigtigt, hvis jeg må tillade mig at slutte af med den figur her.
+
+00:41:45
+Jeg Jeg tror Det er rigtig vigtigt at man gør ligesom Vi har gjort her i velvære og og deler det op i nogle.
+
+00:41:53
+I nogle faser kan man sige fordi hvad er det? Det giver mening at være fælles om? Og hvad er det det ikke giver mening at være fælles om?
+
+00:42:00
+Fordi hvis vi tager den her med vejbedende, så vil jeg. Jeg vil jo nødig sidde i Aarhus og og være med til at diktere hvordan.
+
+00:42:11
+At en vejbede det skal implementeres i Randers for eksempel. Men Jeg synes jo der der Der er der, er rigtig meget viden.
+
+00:42:20
+Og Der er rigtig mange designmetoder som som kan som kan genbruges Sådan. Så hvis vi tager det her eksempel med vejbede, så er der jo så så er der. Så er der jo rigtig meget viden som egentlig kan deles.
+
+00:42:33
+Og også hvad kan man sige til en grad standardiseres Sådan, så man egentlig får nogle Sådan nogle standardtyper, men Det er jo selvfølgelig vigtigt at anerkende at at der altid er noget lokalt tilpasning, og Det er Sådan set egentlig det der. Det der ligger her i forhold til dataanmeldelsen i den 4. Kolonne Det er at sige.
+
+00:42:54
+Jeg skal ikke. Jeg skal ikke diktere hvordan en 2 Forsyning anvender nedbørste.
+
+00:43:00
+Fordi de ved bedre hvordan det passer ind i deres kontekst.
+
+00:43:05
+Det jeg ved bringe meget om, og Det er Sådan ved i hvad kan bidrage rigtig meget med. Det er at sige jamen vi kan standardisere datajusteringer, kvalitetssikring og dataproducering. Sådan så i stedet for at kunne starte med de rå data, så starter man egentlig med nogle med nogle data Der er kvalitetssikret tilpasset til Vores formål.
+
+00:43:23
+Og så starter man sin værdiskabelse der i stedet for at man skal hele vejen tilbage.
+
+00:43:30
+Og dermed så bliver værdiskabelsen mere nær for den enkelte Forsyning.
+
+00:43:38
+1000 tak Det er Det er rart at få præciseret og Det er rigtig rart med de her samarbejdsformer. Tak for at du har givet din præsentation i dag. Tak til alle jer der har lyttet med live og tak til jer der hører den efterfølgende på på youtube og kommer til at se den vi ser frem til de næste tiktoks vi regner som sagt med at det kører hver 2 onsdag fra 12 15-13.
+
+00:44:01
+Og jeg takker for i dag.
+

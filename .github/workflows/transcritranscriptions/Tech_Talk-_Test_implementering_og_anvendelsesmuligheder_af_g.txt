@@ -1,0 +1,732 @@
+00:00:05
+Her er alle.
+
+00:00:06
+Velkommen til årets sidste ting top på DNK mit navn Det er teis roskov Andersen og for vi University College sammen med Morten halling fra DNNK og Christoffer sindvig Larsen. Foged Nygaard vil jeg gerne på vegne af DNNK by jer alle sammen velkommen til dagens tik talk i dag vil Nanna og lina for LNHW water præsenterer deres erfaringer med hensyn til, hvordan man bygger en god svømmodel i samspil med anaga i overensstemmelse med dansk praktisk.
+
+00:00:30
+Og lidt praktisk information inden vi starter selve tiktokken. Præstationen vil cirka vare 30-40 minutter, hvorefter der vil være tid til spørgsmål.
+
+00:00:38
+Og i kan stille et spørgsmål igennem chatten og så ved Christoffer og jeg løbende publicere dem og Nanna og lina vil svare dem i slutningen af tektuppen.
+
+00:00:45
+Og for en god ordens skyld, så skal jeg informere om at tiktokken bliver optaget og i kan finde den senere. Øh på Danmark hjemmeside.
+
+00:00:52
+Og Det var alt fra min side nu, og så vil jeg give ordet til hinanden og lina.
+
+00:00:56
+Ja hej Jeg vil gerne sige tak til alle dem Der er kommet og sidder bag skærmen og lytter med. Og vi vil også gerne sige tak til dan NK som har ydet støtte til det her projekt. Det har vi været meget taknemmelige for.
+
+00:01:08
+Projektet, det hedder udvikling af swimming som beslutningsstøtteværktøj til klimatilpasning efter danske forhold samt kobling med overfladen gennem anaga. Det har været et bobleprojekt, som vi startede op i slutningen af 22, og det løb så ind til slutningen af april 2023.
+
+00:01:25
+Projektet Det har været et samarbejde mellem LNHW warder fra mig og lina kommer fra. Vi har stået for kodning af selve koblingen. Vi har stået for test og implementering.
+
+00:01:35
+Så har klareforsyningen deltaget klarforsyningen. De har en meget stor praktisk erfaring i anvendelse af svøm i en dansk kontekst, og så har DTU comput deltaget Institut for matematik og computer science. De har deltaget med faglig sparring, og Vi har haft ansatte Anton, da han blev færdig ude på DTU comput og Anton.
+
+00:01:57
+Han har speciale i numeriske algoritmer.
+
+00:02:01
+Og har stået for noget af selve kodningen af de algoritmer, vi bruger, når vi prøver at koble de her modeller.
+
+00:02:08
+I Vores præsentation i dag, så vil vi fortælle lidt om de erfaringer, Vi har gjort os med at få svim implementeret til danske forhold.
+
+00:02:18
+Og så også nogle af de erfaringer Vi har og problemer Vi har haft med og kunne få koblet af nouga sammen med swimming.
+
+00:02:34
+Sådan der formålet med projektet jamen Det har været at udvikle en koblet model til at lave oversvømmelseskort.
+
+00:02:43
+Der er nok mange der vil sige. Jamen der findes jo allerede alle mulige kommercielle værktøjer som kobler aflivsmodeller med overfladen til at kunne lave oversvømmelses beregninger. Men Vores udgangspunkt som et lille firma.
+
+00:02:53
+Det har været, at Vi har ikke haft lyst til at bruge rigtig mange penge på nogle af de kommercielle værktøjer, og Vi har også gerne haft et ønske om, at vi gerne selv vil sætte Vores eget præg på det der bliver udviklet og have Vores egne ønsker og behov med.
+
+00:03:08
+Så da vi startede projektet, så skulle vi først finde.
+
+00:03:11
+Nogle gratis open source programmer som kunne bruges delt til at håndtere strømninger nede i afløbssystemet, men også til at håndtere strømningerne oppe på overfladen. Da vi kiggede på afløbssystemet, så faldt Vores valg på swimming svimp. Det er et amerikansk produkt.
+
+00:03:27
+Det er udviklet af EPA.
+
+00:03:30
+Som er valgt den amerikanske miljøstyrelse, som som vedligeholder programmet programmet. Det er gratis. Det er meget veldokumenteret udbredt i store dele af verden.
+
+00:03:41
+Især IUSA, og Det var et stort plus, at vi kunne tilgå koden gennem en noget der hedder piceweem, som er Sådan en rapper der ligger omkring python koden og vi derved kunne bygge Vores egne applikationer oven på swimming, og Det var også et noget positivt, at vi kunne køre mange beregninger på en gang. Som regel så er man begrænset af et vist antal beregninger man kan køre når man kører med de kommercielle værktøjer.
+
+00:04:06
+Der er selvfølgelig også nogle ulemper ved at bruge swimming.
+
+00:04:09
+Dels at vi i Danmark har været vant til at bruge noget andet software, som Vi har brugt i meget lang tid.
+
+00:04:15
+Det er mike aben Det er et program, alle ingeniører afløbsingeniører i Danmark kender rigtig godt. Vi ved, hvilke håndtag Der er i myben. Vi ved, hvad Vi skal skrue på for at lave nogle gode afløbsmodeller.
+
+00:04:26
+Svøm har også en meget gammeldags brugerflade. Den er ikke opdateret til at kunne indgå i Vores normale arbejde med gis, og Det har vi også kunne se, at Der er mange kommercielle.
+
+00:04:38
+Software eller Der er mange firmaer som har lavet en brugerflade oven på svømpen og så kan betale for, så man har sine gids på den måde.
+
+00:04:46
+Svømmer er så heller ikke tilpasset dansk praksis i Danmark. Der har vi igennem mange år brugt tid og arealkurve til at beskrive afstrømning inde i byerne.
+
+00:04:55
+Det er en metode, som hurtigt kan give os et overblik over, hvor meget vand der kommer til Vores afløbssystemer, og Det er lidt mere kompliceret i swing.
+
+00:05:03
+Så har vi også tabene nede i lednings, i ledninger og og grønne beskrives på en helt 2 måde i sweim.
+
+00:05:11
+Det kommer vi nærmere ind på lidt senere, da vi så skulle vælge Vores oversvømmelsesmodel. Jamen så faldt vandet vandet på et program der hedder anaguga. Det er et program der udviklede i Australien.
+
+00:05:24
+Det er meget stabilt. Det bruger samme metode som man bruger. Hvis i kender CFD modellering af bygværker noget der kaldes pint volume.
+
+00:05:32
+Metoden bliver brugt på overfladen her. Det er ganske gratis.
+
+00:05:37
+Vi kan tilgå koden, og Det var ret. Det var ret stort plus for os at koden allerede var bygget i python.
+
+00:05:42
+Som også var den kode vi skulle bruge til at tilgå swimming.
+
+00:05:46
+Øh programmet. Det er meget veltastet og veldokumenteret.
+
+00:05:52
+Hvis vi kigger lidt ind på svømdelen, så er Vores projektplan der Det var at starte med at undersøge forskellene mellem swimming og mike oden.
+
+00:06:00
+Og igennem det skulle vi så skabe nogle sammenlignelige resultater, så vi havde en form for overgangsperiode, hvor når vi foretog en beregning i swimming eller foretog den i mike ørkenen, så kunne vi være trygge ved at vi fik nogenlunde det samme resultat ud i den 2 ende og for at kunne gøre det, så havde vi fokus på nogle forskellige forskelle indenfor dels afstrømningen af regn på overfladen, enkelt tabene overløb og brugervenlighed.
+
+00:06:26
+Hvis vi lige kort kigger på svøm. Jeg vil ikke gå så meget ind i detaljer om hvad svøm kan og hvordan man bruger det. Men som sagt er det EPA der har udviklet og vedligeholder det, og den seneste version hedder 5 2.
+
+00:06:38
+Her til højre har jeg vist et flow diagram. Det viser hvordan vandet løber rundt i swimming, der har vi. Ja der har vi på overfladen først noget regn der kan falde, så har vi noget intaltab der kan trækkes fra, som så bliver omsat til en overflade og strømning.
+
+00:06:52
+Så kan man så indbygge forskellige.
+
+00:06:55
+LID control som svarer til, hvad vi i Danmark kalder alar elementer. Der er Sådan et helt katalog alar elementer, man kan bygge ind i sine modeller, så ligger der noget vandkvalitet indbygget i modellen også, så man kan have noget opbygning af stof på overfladen, som så kan blive vasket af og komme ned i afløbssystemet, så er der spildevand, der kan komme på, og der findes også et modul.
+
+00:07:15
+Til grundvand, som man kan have en infiltration eller XX filtration til til grundvandet.
+
+00:07:22
+Selve swimming er der lidt har jeg lavet et screendump her er meget simpelt bygget op man har nogle tabeller hvor man tilgår sin hydrologi sin hydraulik, sin vandkvalitet og de kurver man bruger til at bestemme. Beskrive sammenhængen i modellerne selve beregningsternen er helt som vi kender det i mike urban man kan køre med simple beregninger fik fra kinamatisattest bølge helt frem til dynamisk bølge.
+
+00:07:47
+Så det minder om det, vi kender.
+
+00:07:52
+Og det første vi undersøgte Det var noget omkring afstrømning, og der vil lina lige fortælle lidt mere om det detaljer, Vi er kommet frem til der.
+
+00:08:04
+I sving Der er der ikke den her tid arealkurve, som vi normalt bruger, og vi kender. Det er afstrømning, maningformen længde og bredde.
+
+00:08:17
+Så.
+
+00:08:19
+Det har egentlig været øh fokus og få bygget noget, som vi kunne sammenligne med det.
+
+00:08:26
+Vi plejer at gøre, og det første, hvis vi tager næste slide.
+
+00:08:31
+Det første vi prøvede at teste, Det var om vi kunne få.
+
+00:08:35
+Swimming afstrams model til fuldstændig og lignende den tid areal kurve vi kender, og Det kan vi næsten med kasseregn, men det går ikke særlig godt, hvis Vi har andre regn, for eksempel end CDS regn.
+
+00:08:51
+Så den den her kurvefedt metode den blev kasseret.
+
+00:09:03
+Is win der kan man indsætte tidsserier fuldstændig på hver knude og så sige at jamen Det er den regn man påfører den, så den løsning Vi har brugt. Det er simpelthen at beregne Vores tidsareal kurver.
+
+00:09:19
+Og så sætte den ind. Jeg ved ikke. Vi skal nok have næste slide.
+
+00:09:26
+Ja.
+
+00:09:28
+Så nøjagtig i virkeligheden. Nøjagtig ligesom mike urban.
+
+00:09:32
+Så når den laver sin run off.
+
+00:09:36
+Der laver vi runoffen, og så påførte vi den som tidsserier.
+
+00:09:41
+Og det går. Det går ganske udmærket i swimming. Vi kan få præcis de samme resultater, som vi kender fra Vores my godan run off i model a.
+
+00:09:52
+Og Det var Sådan ligesom det første skridt for at kunne sammenligne. Jamen kan vi få nøjagtig de samme resultater eller næsten de samme resultater, så vi kan følge dansk praksis med swimming.
+
+00:10:07
+Derefter har vi så kigget på alle enkelt elementer, Vi har kigget på.
+
+00:10:14
+Tabene i swimming grundtab specielt bøjningstab ledningstab og været helt nede i detaljen for at være.
+
+00:10:25
+Stikker på at hvordan hvordan ting skal implementeres i svøm, så vi kan få de samme resultater.
+
+00:10:32
+Så Det var egentlig det første, så nu har vi både den rigtige vandmængde på.
+
+00:10:40
+Med den rigtige forløb. Vi har alle Vores tab, Der er de samme, så kommer vi så til strukturerne.
+
+00:10:49
+Og det går vældig godt med overløb.
+
+00:10:53
+Det kan man oversætte nogenlunde nogenlunde direkte.
+
+00:11:00
+Til gengæld så er der med.
+
+00:11:03
+Ja det som vi kender det til gengæld, så er der med øjphistil fungerer lidt anderledes i wem, men vi kan næsten få det samme og Det er ikke et spørgsmål om at swimming.
+
+00:11:18
+Regner mere forkert end my godan. Det er simpelthen bare et spørgsmål om den regner en lille smule anderledes.
+
+00:11:26
+Vi er nået frem til at Det kan vi godt acceptere.
+
+00:11:35
+Ja og så næste skridt i Vores projekt. Det var nu havde vi fået styr på at.
+
+00:11:40
+At de 2 modeller kan regne på samme måde. Vi har ikke taget stilling til, om den ene model er mere rigtig end den 2. Men de kan i hvert fald regne på samme måde, så Vi er sikre på at få de resultater, som Vi er vant til at få.
+
+00:11:49
+Når vi regner i Danmark, så næste skridt. Det var så at prøve at implementere alle de her.
+
+00:11:55
+Funktioner i et større område.
+
+00:11:59
+Og det prøvede vi så at implementere under projektforløbet havde vi et parallelt projekt nede i Flensborg et nettunprojekt.
+
+00:12:08
+Og der prøvede vi så i den nordlige del her, at Flensborg at implementere både en my gourmet model og en svømmodel.
+
+00:12:15
+Her er området vist. Det er et separat blokeret område, og med sort der viste et vandløb, der dræner området ud til Flensborg Fjord.
+
+00:12:25
+Vi konverterede os som modellen, så vi havde den i svøm og tilsvarende i mike arven, så kørte vi så forskellige regn på for at se jamen hvad er responsen så nede i systemet giver?
+
+00:12:36
+Modellerne så det samme, når vi prøver at at teste et mere komplekst miljø, og vi startede med først at køre nogle lidt mindre regn på. Her har vi en regn, der hedder l lig mod 2. Det vil sige, Det er en regn Der er statistisk set over, 2 gange om året.
+
+00:12:49
+Det er en regn som ikke så gerne skulle give tilbage stuvning. Den skulle gerne fylde op stille og roligt, så vi også kan se hvad der sker II bassiner og i vandløb.
+
+00:12:59
+Med blåt avis vandføring i mike urban og med orange avis vandføring i svøm, og der kan vi se både dynamikken.
+
+00:13:06
+Samt niveauerne er.
+
+00:13:09
+Er stort set identiske.
+
+00:13:11
+Og så kiggede vi på et andet sted i systemet, hvor vi havde en lidt større vandføring, og igen ser vi, at forløbene og dynamik passer rigtig fint mellem de 2 modeller.
+
+00:13:21
+Så prøvede vi også at kigge lidt ind i nogle strukturer. Her har vi et et åbent bassin der bliver fyldt, og så er der overløb ned til vandløbet, der løber ved siden af, og det vi kan se her. Det er at begge modeller enige om, at der rent faktisk sker tilbagestuvning, altså Der er vand fra vandløbet ind i bassinet.
+
+00:13:39
+Forløbet og dynamikken er også nogenlunde identisk mellem de 2 modeller.
+
+00:13:45
+Vi kiggede så også ude i selve vandløbet. For at se kan vi også ramme de samme værdier her, og hvis i kigger på de orange kurver, så er det vandstanden ude i ude i vandløbet og hvis i kigger på de blå kurver, så er det vandstanden inde i bassinet, før det bliver ledt ud til vandløbet og det vi kan se Der er lidt uenighed under hændelsen med nogle små fluktationer, men i det store hele så er forløb og niveauer ens i de 2 modeller.
+
+00:14:11
+Det næste vi så gjorde Det var. Og så tog vi så en lidt større regn, hvor vi ved, at Vi har noget opstuvning. Vi har fuldt løbende rør.
+
+00:14:17
+Vi er i nogle tilbage stuvninger. Vi kan også måske have noget vand på terræn, så vil vi se, hvordan modellerne performer i forhold til hinanden.
+
+00:14:25
+Her har vi vist vandføring, og det vi kan se, at det passer også rigtig fint mellem det 2 modeller, Der er så lige noget her omkring når vandet går på terræn.
+
+00:14:35
+Hvor hvor modellerne håndterer det lidt anderledes, og Det var vi så inde og kigge lidt nærmere på, og Det har noget at gøre med.
+
+00:14:40
+De er begge 2. Putter fikt til volume oven på brøndene, når vandet stiger op og de har så lidt forskellige metoder til at ekspandere det her volume og ergo når Vi har nogle fiktive volumener på overfladen får vi også nogle er vi ude i nogle fiktive flowregimer og Vi er også ude i noget noget fiktivt tryk niveau, så Det er forventeligt at de vil give forskellige resultater under.
+
+00:15:03
+Og her kigger vi et andet sted, og igen kan vi se, at det de passer meget godt sammen, og Vi har igen, når når vandet kommer på terræn. Jamen så har vi nogle forskellige niveauer. Det er lidt tydeligt at se heroppe, hvor hvor vi viser at vandstandene frem for for flåde.
+
+00:15:18
+Og her har vi kigget på et sted, hvor vi kunne se, der var noget tilbage stuvning, og Det kan vi se. Begge modeller modellere den her tilbage stuvning og niveau og dynamik passer rigtig fint.
+
+00:15:31
+Og her har vi så længere nede i systemet, og igen passer passer kurverne med hinanden, så det vi kunne vurdere ud fra det her. Det var, at vi var egentlig meget godt tilfredse med den oversættelse, vi havde lavet. Vi har nu 2 forskellige modeltyper, som egentlig giver de samme resultater indenfor de usikkerheder, man kan forvente i et afløbssystem.
+
+00:15:53
+Det næste vi så prøvede Det var så jamen nu har vi noget. Vi er trygge ved at bruge, så nu kunne vi egentlig godt tænke os at blive lidt bedre til at forstå. Jamen, er der nogle muligheder?
+
+00:16:02
+Indenfor swimming, som vi kan bruge i dansk praksis, og der har vi haft fokus på på 3 områder, dels den måde, som svøm beskriver afstrømning af regnen på overfladen.
+
+00:16:15
+Har vi prøvet at undersøge, om Der er nogle ting, vi kan gøre lidt bedre i forhold til den måde, vi gør det nu, så har vi kigget på.
+
+00:16:22
+Eller vil gerne kigge noget mere på legelementer, der ligger det her katalog.
+
+00:16:27
+Klart man kan plukke fra til at implementere regntøn og regne bedre grønne tage.
+
+00:16:33
+En permaable veje og så videre. Det er også meget interessant. II klimatilpasning i dansk kontekst.
+
+00:16:38
+Og derudover så er der i den nyeste svømme version en mulighed for at lave noget noget beregning af oversvømmelser på terræn, hvor man via nogle simple udvekslinger gennem riste på overfladen kan have vandet løbende ude på på vejene.
+
+00:16:54
+Det vi så har testet indtil videre. Det er afstrømningen, og Det er den her mulighed for at lave oversvømmelserskort.
+
+00:17:03
+Og der hvor vi testede det. Jamen Det er. Det var igen nede i Flensborg, hvor vi havde et system og i forhold til afstrømning, så kunne vi godt tænke os Vi har set eller de har set i Flensborg, at hvis det regnede rigtig lang tid, så har de større afstrømninger i forhold til at man lige måske lige umiddelbart kan kan relatere i forhold til den regn, der lige falder her og nu, og Der er en vis hukommelse i systemet, som gør at at at vandstanden eller vandføringen ligesom stiger og stiger, hvis der har været langvarende regn.
+
+00:17:33
+Systemet i Flensborg er 6. Vandløbene løber ind her 6 vandløbene løber ind til byen og så har.
+
+00:17:40
+Så er der en række åbne regnvandsbassiner, der kan bruges til at magasinere vand undervejs og i Flensborg har de meget store problemer her. Nedstrøms i systemet med oversvømmelser af den nedre del af byen.
+
+00:17:53
+Så projektet gik delt ud på at teste, om vi kunne beskrive afstrømning ind i byerne.
+
+00:17:58
+På en god måde, og om vi kunne kunne opbygge et varslingssystem, der kunne varsle for at når der var potentiale for at de her dele af byen blev oversvømmet, kunne man så holde noget vand tilbage her opstrøms i systemet.
+
+00:18:12
+Og måden vi gjorde det på Det var, at vi opbyggede en swimmingodel, hvor vi havde.
+
+00:18:16
+Her med blood kan i se Det er det separate hvad hedder det regnvandssystem i Flensborg der leder ned til med sort. Her er vist vandløbene og så har vi så vandløbsoplandene her, som vi så prøver at beskrive ved nogle simple metoder inde II swimming hvor vi indbygger noget hukommelse og inde i byerne. Her har vi så valgt at beskrive afstrømning ved hjælp af dansk praksis, altså med tid og arealkurve.
+
+00:18:40
+Peterborg er meget befæstet afstrømning foregår rigtig hurtigt.
+
+00:18:43
+Og det vil sige, vi skulle prøve at kombinere et system, og vi havde en meget hurtig.
+
+00:18:48
+Afstrømning inde i byerne kombineret med en langsom afstrømning herude fra fra de her landområder rundt omkring Flensborg.
+
+00:18:57
+Og Det var især her, hvor Jeg har vist mig rødt. Det er hernede, de godt kunne tænke sig at få varslet for for oversvømmelser, hvor hvor man bygger helt tæt ned til vandløbet, og der skal lige så snart Vi har fuld lykkende profiler, så har vi faktisk allerede problemerne.
+
+00:19:10
+Inde i swimming der brugte vi noget der hedder unit heideg raps, som egentlig er en meget meget simpel måde at beskrive en regnafhængig flow i systemet man har mulighed for til hver knude at opsætte nogle betingelser, hvor man kan have en.
+
+00:19:26
+Hurtig afstramning end mellemafstramning og en lang afstømning og inden for hver afstømningsmønster kan man så angive hvor lang tid de forskellige typer skal vare, hvad deres henfald er, og man kan også indbygge noget volume inde i systemet, så man ligesom har nogle reservoirer man fylder op, så det man har noget hukommelse indbygget. Det kan man årstidsvariere.
+
+00:19:49
+På månedsbasis og udover det så indsatte vi også hvad hedder det evaperation der hedder fordampningen også varieret fordampning med som Vi har et tab når det ikke regner.
+
+00:20:04
+Der havde vi så en målestation sat op i på den første figur, jeg viste på det største bassin deroppe, havde vi et der havde vi 1 1 1 målestation og det vi så gjorde Det var at vi prøvede at sammenligne forskellige måder at regne afstrømning på, og så testede vi så hvad det gav af respons i forsiden af der blev målt og det i kan se her. Det er med orange orange har vi den målte vandføring og med sort har vi.
+
+00:20:31
+Den vandføring vi havde beregnet, hvis vi bruger.
+
+00:20:34
+Den almindelige måde at tilgå tingene på, som jeg plejer i Danmark med at beskrive det ved hjælp af en tid areal kurve og det man kan se. Det er at i starten er forløbet her, der passer forløbene rigtig fint sammen. Vi rammer pixende, og så er det som om, at Der er noget hukommelse her.
+
+00:20:48
+Altså Der er noget afstrømning langsom afstrømning, som ikke rigtig bliver taget med i den her måde at gøre det på. Og Det kan man ligesom se, at henover tid driver det mere og mere og basisniveauet bliver højere og højere.
+
+00:20:59
+Hvis vi så i stedet for indlagde de her unit high dografis wing.
+
+00:21:03
+Så kan vi se at vi vi kan simulere i hvert fald.
+
+00:21:09
+Den her den måde hvor systemet driver på, bliver simuleret meget bedre. Vi rammer så nogenlunde peaksende, men Der er stadigvæk plads til forbedringer.
+
+00:21:18
+Her er en 2 periode. Vi har kigget på lidt senere på året. Her kan vi også se igen i starten af hændelsen passer dynamikken hvad hedder det og og maksværdier passer rigtig fint sammen, og så er det som om, at Der er en forskel her i den måde.
+
+00:21:35
+Systemet ligesom strømmer helt af på de her store opblande rundt omkring byen.
+
+00:21:41
+Og hvis vi putter Vores fotografer ind altså justit hydrograf, så kan vi se. Der er faktisk rigtig, rigtig fin respons og det her. Det er så en Jeg har kigget lidt på i forhold til hvis Vi har rater på hele området.
+
+00:21:53
+I stedet for et enkelt regnmåler kombineret med de her unuthe graps, så får vi nogle rigtig gode.
+
+00:21:58
+Modelresultater og på basis af det her har forsyningen så valgt at implementere det her system, så det kører online nu med varling på.
+
+00:22:09
+På 2 timer frem i tiden. Der kommer retter varslinger ind, som så bliver omsat til nogle modelberegninger, og fordi vi kører med swimming, altså open source. Vi har ikke begrænset antal kerner eller antal beregning, når vi kan køre ad gangen, så kører vi 50 beregninger hver 5 minut.
+
+00:22:26
+For at få noget usikkerhed på, så vi varierer input-parameterne til beregningerne, så vi får en en forventet gennemsnitlig vandstand og også et spænd på, hvad man kan forvente, at der kan være på usikkerhed.
+
+00:22:38
+Så kan der så komme et varsel ud på, hvis der kommer en oversvømmelse og så får forsyningen så Sådan nogle her kort ud, så de kan se jamen hvor kommer vandet op og hvor skal man ligesom være klar til at agere, eller hvor skal vi lukke vand? Lukke Vores spjæl ned, så vi kan holde vand tilbage.
+
+00:22:55
+Det næste skridt i det her projekt. Det er at få få målinger med. Vi er ved at få adgang til deres s og o system så lige nu så kører det lidt sit eget liv, altså en radar.
+
+00:23:04
+Der sidder prognose, som så laver den forventede beregnede flow og vandstand i systemet, og forsyningen kan gå ind og klikke på knuder og ledninger og se, hvad man kan forvente der kommer og næste led er så at få de steder ind, når man har målinger og så sammenligne med. Jamen passer det så og og modelsættet uppet er så sat op Sådan, så man kan ligesom tvinge modelniveauet ind, så det passer med målingen som modellen ikke driver i forhold til den virkelige verden.
+
+00:23:33
+Det næste vi så kiggede på. Jamen Det var så.
+
+00:23:37
+Kan vi få en 2 d beskrivelse af overfladen ind i stedet for den her en d beskrivelse, som jeg lige viste i det foregående eksempel?
+
+00:23:44
+Og da vil lina fortælle lidt mere om.
+
+00:23:47
+Vi har kigget lidt på forskellige modeller.
+
+00:23:52
+Hvad er? Hvad er muligt at få fat i?
+
+00:23:55
+Og hvordan præsterer det og?
+
+00:24:00
+Der ja.
+
+00:24:03
+Der er lidt problemer omkring de kommercielle modeller vi kender i dag omkring.
+
+00:24:09
+Lave vandstande Der er Det er meget beregningstungt.
+
+00:24:13
+Og Der er lidt problemer med mastbalancen.
+
+00:24:19
+Så fik vi kig på anuga et australsk open source produkt og.
+
+00:24:27
+Det er straks anderledes.
+
+00:24:30
+Vi skal tage den næste slide.
+
+00:24:36
+Det er en voldioskema, der simpelthen gør, at Det er rigtig godt på lave vandstande. Det har en rigtig god madsbalance, og så er det ekstremt stabilt også ved Sådan pludselige chok af nummeritten.
+
+00:24:59
+Og lave beregningstid. Jeg tror næste derfor.
+
+00:25:02
+Der mangler lige det der med messe og det der.
+
+00:25:05
+Nå ja.
+
+00:25:08
+Det er et miss net, og Det er vanvittigt fleksibelt. Man kan selv bestemme gritstørrelsen i de forskellige områder og.
+
+00:25:21
+Sådan på på.
+
+00:25:24
+På delområdet basis man sidder simpelthen bare og peger på, hvor hvor vil man have det detaljeret og hvor man vil have det groft.
+
+00:25:32
+Ja det ved jeg ikke om har du mere at sige Nanna.
+
+00:25:36
+Nej ikke.
+
+00:25:39
+Er udviklet til at regne på tsunamier er inde på kysten, og så begyndte man bagefter og så tænke jamen, kan man ikke også bruge det inde på land? Og så kiggede dit brud på dæmninger og så senere har man så også implementeret og bruge det inde i bymiljøer og få nedbør og vandløb implementeret også.
+
+00:25:57
+Ja.
+
+00:25:59
+Historien bag andoga er i virkeligheden lidt sjovt. Det udviklede i Australien, og faktisk er en dansk matematiker, som er fra DTU.
+
+00:26:09
+Men som jo så er immigreret derned og Vi har ja Vi har haft noget kontakt med udviklerne, så så Det er også positivt.
+
+00:26:20
+Det er så testet rigtig meget. Den første release var II 6 og ja som nanale sagde så er det blevet brugt på alle mulige typer af områder.
+
+00:26:35
+Helt fra laboratorietest, hvor de har stået og haft nogle kontrollerede opsætninger til observerede.
+
+00:26:43
+Rigtige hændelser. De har været ude at sammenligne med, og at nu gør også testet mod.
+
+00:26:48
+Alle kendte oversættelsesprogrammer for at for at se, at de i hvert fald.
+
+00:26:53
+Ikke giver noget helt forskelligt i forhold til dem.
+
+00:27:00
+Og nogle af de ting, som jeg bare lige har taget nogle eksempler med, hvor en uga har været brugt. Der er dels.
+
+00:27:07
+Heroppe sultans creat i Australien, hvor Det har været brugt inde i en by til at kigge på på maksimale vandstande. Det har været brugt her i. Det var i mozambique til at lave noget screening på awesomees risiko med randbetingelser herfra havet.
+
+00:27:22
+Og så har det været brugt på bali det synes jeg var lidt sjovt, hvor man har taget hele bali og lagt ind i.
+
+00:27:29
+Anuga og som puttet nedbør på overfladen for at se, hvordan vandet strømmer fra de højere liggende områder og ud ud til kyst til kysten.
+
+00:27:40
+Ja da vi så tog fat i anuga der.
+
+00:27:45
+Ja Det er uaga for at være helt ærlig er lidt nørdet det det ligger på en linuxmaskine. Der er ikke nogen brugerflade.
+
+00:27:54
+Man skal selv ind og kode alle sine kommandoer i python. Man skal selv ind og når man skal lave sit domæne og skrive de koder man gerne vil have til at initialisere hele beregningen, så så Det er Sådan en rigtig universitetsprogram meget nørdet, så det tog lige noget tid at få Sådan en ubuntu maskine op at køre med en linux på.
+
+00:28:14
+Og få det hele installeret. De har så forsøgt at lave fordi Der er en hvad hedder det en ingeniør i Malaysia der bruger en lukket rigtig meget til at lave rådgivningsopgaver, så han har udviklet et Sådan en interface i noget excel som skal hjælpe brugeren. Men netop fordi Det er Sådan lidt.
+
+00:28:33
+Udvikling udviklingsbaseret software så er den ikke blevet opdateret i forhold til den nyeste python, men de har fået opdateret endnu. Kan koden til den nyeste pyton, så det første vi skulle gøre Det var lige at få de her brugere.
+
+00:28:43
+Plader eller at Det var ikke en bordflade det her excel regneark opgraderede sit nyeste picon, så det brugte vi lige lidt tid på i starten, så vi overhovedet kunne komme til at bruge anaga og derefter så skulle vi så have overblik over anagoden.
+
+00:28:57
+Vi skulle finde ud af, hvilken håndtag vi havde i unoga til at skrue på, og hvilken håndtag vi havde II pejm. Altså hvordan kunne vi få de 2 programmer til at at tale sammen? Hvordan får vi 2 programmer, hvor det ene program det kører i finder differenceskemaer og det andet kører i finaledskema?
+
+00:29:14
+Og hvordan får vi de her 2 programmer til at snakke sammen? De kører også med forskellige tidsskridt, hvor vi i anuga har oftest har noget med millisekunder.
+
+00:29:24
+Og i svøm kører vi måske 1-5 sekunder II tidsskrift, så Der er også noget med uens tidsskridt, vi skulle have til at passe sammen, da vi så havde fundet ud af det, så skulle vi så begynde at teste forskellige udvekslingsmetoder.
+
+00:29:36
+Hvordan vi udveksler vand mellem de 2 programmer.
+
+00:29:41
+Der var dels noget med.
+
+00:29:43
+Nogle begrænsninger på, når vi skulle?
+
+00:29:47
+Større nede i pices wimb når vi skulle spørge for eksempel vi fik, vi kunne beregne, at jamen, der kunne komme der Google der var plads til 1 m3 vand, og så skulle vi så sige til svømmende blev der fjernet 1 m3 og så sagde piger Sådan fint da jeg fjernede 1 m3 men der blev bare ikke lige tjekket på om det rent faktisk var 1 m3 der kunne blive fjernet.
+
+00:30:06
+Der blev så godt og kun fjernet det der fysisk var, men Det var den her tjekker på volumenbevarelse eller når vi skulle lave massebalance der var lidt kludder i.
+
+00:30:14
+Så Det er det snakkede vi lige lidt med med svømmeudvikleren om vi kan få nogle flere håndtag ind til og spørge ind på massebalance der. Men det vi fandt ud af Det var at overløbsform altså wear orific udvekslinger. Det gav de bedste resultater, og Det er også den metode man bruger for eksempel i my flot.
+
+00:30:31
+Der har man også overløbs udveksling.
+
+00:30:35
+Overløbsligninger til at beskrive udveksling mellem 2 forskellige modelsystemer.
+
+00:30:40
+Det hvis du skulle efter vi havde fundet ud af de her ting, Det var, at vi så skulle også ind og bygge noget mere kode til anuga fordi at nouga som sagt er ikke møntet på på afløb. Den ligger på overfladen, så vi skulle ind og have nogle nogle håndtag der skulle kodes, så vi kunne begynde at snakke sammen med med med swimming og dels så fik vi lavet noget der hedder et endside ellet. Det var en supportfunktion som indeholder.
+
+00:31:05
+Versus af en polygon med n sider og et geo areal.
+
+00:31:08
+Og det vil sige, når Vi er først initialiserer Vores modeller, så kan vi gå ind og kigge og se, hvor er brøndene henne, og det bliver så eqvaleret til en polygon, der kan lægges på overfladen i anugaster terræn model derefter så har vi lavet noget der hedder enitializ add, som er Sådan noget, der initiater indløbet med Brøndby d fra swimming filen og hvor brøndene er placeret, og så bliver der lavet en liste med arealerne, og det vil er fordi at i svim Der er alle brønde, de ligger som dimensionsløse enheder.
+
+00:31:37
+Og ikke har nogle fysisk udbredelse, så der skulle vi lige lave et lille fif med at få det konverteret til noget fysisk, som man nu kan kunne forstå. Og så har vi også lavet en funktion der hedder spift swimming som bruges når når swimming er inde og styre udvekslingen med overfladen gennem de her orleps formler.
+
+00:31:54
+Det man så skal gøre for at kunne køre det her. Det er dels at man skal installere anaga som er som er det her 2 dis shall watery quation packages der ligger på git hub, så skal man have installeret picemand som er den her pytern wraber til EPA svømmemaskinen og man skal installere noget der hedder humo, som er et program til at udtrække koordinater fra Rønne i swimming.
+
+00:32:17
+Det er nemlig PT ikke mulige pres 5 og gøre det, men Der er altså et andet program man kan installere via git hub og så ind i python koden få sine koordinater på hvor brøndene er.
+
+00:32:27
+Da vi så havde fundet ud af alt det her, så puttede vi det hele ind i en kode, og jeg prøvede at lave et flow til at komme her. Der viser lidt hvordan tingene forløber. Man starter her med at installere sin swimming nouga humo billins gennem github, så er der nogle parametre man skal have sat, dels hvor tingene ligger.
+
+00:32:44
+En størrelse, min størrelse på sine celler og.
+
+00:32:48
+Det styrende tidsskrift, der skal bruges til udveksling, så går man ind, og så bliver anagomænet bygget og så loader man så loades swimming modellen ind, og så går man så ind via de her funktioner Vi har bygget og intalisere selve koblingsdelen af programmet, og det vil sige man får sat DT. Man får sat arealet på udvekslingspunkterne, og hvor på terrænet det ligger.
+
+00:33:11
+Derefter så går koden ind, og så kører selve beregningerne og det Vi har fundet ud af, skal være den styrende her. Det er nougat, så Det er nougat, der simpelthen styrer hele beregningen.
+
+00:33:21
+Den har et finere tidskridt end svm så til hver, men nu kan tidsskridt gå den ned og spørg på swimming og siger, jamen hvad er staten er eller hvad hedder det? Hvad hedder det? Ja hvad er staten er swimming modellen er Der er de er hvad hedder det betingelserne opfyldt for at der kan udveksle jamen så hvis Det er det.
+
+00:33:40
+Så bliver der udvekslet modsat så går de ind og kigger. Jamen er der vand på terræn? Svøm har plads til vand jamen så kan man udveksling ske den 2 vej og det går den så ind og gør til hvert tidsskrift og så får man så udvekslingen mellem de her 2 modeller det man får også ud af når man kører.
+
+00:33:55
+Det er at der bliver skrevet nogle grafer ud i forhold til kontrollen af masse balancen og hvor meget tab Der er igennem den her udveksling.
+
+00:34:05
+Og det vi så har gjort, da vi testede de her ting af Det var, at vi havde. Vi har bygget Sådan en lille domæne med 4 knuder og en meget sendt terrænmodel, og Det har vi så brugt til at teste alle mulige former for udvekslinger. Man kunne tænke sig, at det hele er afrapporteret i en rapport, som ligger på DNNKS hjemmeside, så man kan se mere detaljer om, hvad Det har været, hvad der har været testet her, men som sagt det vi kom frem til Det er at Det er de her orløbsformler, der giver den bedste udveksling.
+
+00:34:31
+Vi har lidt problemer med tovejs udvekslingen og vi.
+
+00:34:35
+Mistænker, at Det er pejsem i forhold til, når vi spørger på på massebevarelse, at Der er nogle nogle ting, hvor den rapporterer forkert tilbage, så det skal vi lige have have kigget lidt nærmere på.
+
+00:34:47
+Så det Vi har gjort, Det er at Vi har taget det her setup, og så har vi prøvet at teste det på et større område.
+
+00:34:53
+Hvor vi så har kørt en envejs udveksling.
+
+00:34:57
+Det vil sige, vi kører fra. Vi putter regn ned i svøm er der ikke plads i svym, så bliver vandet ledt op på overfladen og så overtager en nougat strømningerne oppe på overfladen det her testområde. Det er det samme som det jeg viste lidt tidligere i Flensborg.
+
+00:35:12
+Vi har kørt med et område på cirka 2,5 gange.
+
+00:35:17
+2 km gritt Det har givet os omkring 60.000 polygoner, så rimeligt detaljeret net på det her.
+
+00:35:27
+Vi har så kørt en 2 timers CDS og Det har taget 30 minutter, så det vil sige at modellen lige nu kører i 4 gange realtid og det skal lige siges at Der er nogle optimeringsmuligheder i anuga, vi ikke har været inde at teste på endnu. Dels det med at parallalisere koden som kan køre gøre det endnu hurtigere og dels det som ligner var inde på med at man kan man kan lave noget.
+
+00:35:47
+Den har selvfølgelig flexible med, men man kan styre det endnu mere hårdt, så så man kan sige jamen her vil her skal gridstørrelsen. Vi ved der aldrig sker noget her, så kører bare 20 m og her sker der rigtig meget og så fokuserer den den fine opløsning i de her områder.
+
+00:36:04
+Her Det er så Vores kurve der kommer ud på massen på det her test, og der kan man se det røde. Er det valg Vi har puttet på og det blå det volumen vi måler til hvert tidsskrift og det vi kan se. Det er at massebevarelsen er rigtig fin i den her form for udveksling.
+
+00:36:21
+Det man så får ud af det Det er her, er et oversættelseskort viser, hvor maksimale vandstanden på terræn.
+
+00:36:29
+Og her har jeg så taget alle vandstande over 1 cm fra.
+
+00:36:34
+Så det Det er alt over 1 cm og det Der er rigtig rart med enoga selvom Det er mega nørdet og ikke så brugervenligt. Det er at der faktisk allerede er lavet en del muligheder for at læse resultater. Man kan læse en uge resultaterne direkte ind i cookies.
+
+00:36:51
+Det har været meget positivt, og de har også skrevet nogle python koder, der kan bruges til at udtrække maksimale hastigheder og vandstand og flow og så videre.
+
+00:37:00
+Testik filer og hvad man gerne vil have af excel-filer og.
+
+00:37:03
+Tekstfiler og ja så Der er allerede lavet nogle værktøjer til at læse resultaterne, og ud over det så har de lavet noget der hedder en en yoga viewer som gør at man kan afspille film af hvordan vandet strømmer. Og Jeg vil lige vise Det kan jeg godt nå. Jeg vil lige vise.
+
+00:37:20
+2 eksempler bare her. Det får et lille.
+
+00:37:25
+En lille delmodel.
+
+00:37:30
+Når man ser hvordan vandet løber.
+
+00:37:33
+Og så her, hvis jeg tager vi lige den store model, vi kørte.
+
+00:37:40
+Og der kan man se der kommer vandet op.
+
+00:37:45
+Og det her. Det er altså Sådan Sådan ser den er lidt primitiv, men Det er en viewer Der er, og man kan også få de her tids ser ud, så man kan se dem inde i cookies, hvis man har valgt sin egen kort inde bagved. Men det her Det er den virker der ligger indbygget i anuga og og gør at det faktisk er meget rart at de her ting allerede er kodet.
+
+00:38:00
+På forhånd så vi ikke skal ind og og gøre det.
+
+00:38:12
+Ja så status nu Det er at koden er klar til udveksling fra swimming. Den ligger på git hub man kan downloade og teste tovejsudvekslingen. Koden er også klar, men som jeg sagde Der er jeg lidt ustabilitet eller noget.
+
+00:38:25
+Vi skal have dyrket lidt mere, inden Jeg vil sige at den er klar til at blive blive frigivet.
+
+00:38:30
+Hvad så nu? Jamen Vi skal have testet den her massebalance yderligere og stabilisere den. Så kunne vi også godt tænke os at få optimeret den her.
+
+00:38:40
+Når man laver sit domæne og og messen inde i anuga, at vi på baggrund af for eksempel hvor er Vores hovedvandveje på overfladen, hvor afløbssystemet placeret, at man så kan lave en en python kode der går ind og laver en polygon, der siger, her sker alle mine strømninger. Her skal der være detaljer, og her kan vi godt regne lidt mere groft. Og drømmen er så også at få det her på en eller 2 en Windows maskine.
+
+00:39:04
+Det ligger jo på den her linuxmaskine, men det lever som sagt i det her forskningsmiljø, og Der er ikke den største vilje til at skulle vedligeholde koden både.
+
+00:39:11
+Vinduesversion og i en linux-sion, men Det er jo noget, Vi er i dialog med de australske udviklere om.
+
+00:39:17
+Og Vi har så været så heldige, at Vi har fået bevilget 2 EU projekter, hvor vi vil teste anaga af videre, så forhåbentlig kan kan nogle af de her ting blive implementeret også. Og hvis Der er nogen der vil vide mere, så har jeg sat en referencer ind her både på nogle artikler. Og så er der også links til koden nougat koden inklusiv swimming koden på på gitup pim og så den her humor man skal bruge for at kunne køre det her.
+
+00:39:44
+Det var alt, vi havde at sige.
+
+00:39:48
+1000 tak for en rigtig spændende tiktok Nanna og lina.
+
+00:39:52
+Jeg tror Jeg har fået at vide fra Vores techfolk her, der måske har været lidt problemer i forhold til chatten, så jeg fordi der ikke kommer nogen spørgsmål og det det det det virker meget underligt.
+
+00:40:01
+Jeg tænker også Jeg kan se der kommer rigtig mange klapsalver, så så folk har været rigtig glade for for præsentationen.
+
+00:40:08
+Øhm jeg tænker også hvad hedder det at øh tiden er så fremskredet jeg 5 minutter tilbage, så Jeg vil egentlig sige til folk, at hvis i har spørgsmål til nana og lina omkring øh den her rigtig spændende tiktok, så tag fat i dem II Jeg er sikker på jeres kontaktoplysninger kan man sikkert finde på på på jeres hjemmeside, så tagdelig fat i Nanna og lina hvis i har hvis i har spørgsmål. Det var rigtig, rigtig spændende.
+
+00:40:32
+Hvad hedder det så? Jeg tror egentlig ikke Jeg vil sige så meget andet end nu end 1000. Tak for en rigtig spændende tik tok.
+
+00:40:41
+Og hvad hedder det på vegne af d. n. k.?
+
+00:40:43
+Så vil jeg gerne så vil jeg ønske jer alle sammen en en glædelig jul og et godt nytår og vi ses i det nye år. Der er allerede de første par tiktok i det nye år. De første arrangementer i gern k.-regi er allerede lagt ind på klimakalen, så Der er i meget velkommen til og joine der.
+
+00:40:56
+Og igen Nanna og lina 1000 tak for en rigtig spændende tiktok.
+
+00:41:02
+Selv tak.
+
+00:41:04
+Hej hej.
+
+00:41:05
+Hej.
+

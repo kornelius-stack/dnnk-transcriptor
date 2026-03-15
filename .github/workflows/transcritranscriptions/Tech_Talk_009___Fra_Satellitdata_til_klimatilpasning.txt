@@ -1,0 +1,807 @@
+00:00:00
+Jamen mit navn Det er teis fraskov Andersen og på vegne er DNNK, så vil jeg gerne byde jer allesammen velkommen til det her. Rigtig, rigtig, rigtig spændende check hvori Vi skal høre om satellitdata til brug i klimatilpasning til at præsentere emnet der har vi inviteret Carsten moresen for for geopartner, som er en af landets førende eksperter inden for satellitdata, og hvorledes Det kan bruges i forskellige sammenhænge.
+
+00:00:25
+Og som som Carsten lige nævnte, inden vi gik på at at satellitdata er måske en af de største revolutioner, Der er sket indenfor.
+
+00:00:32
+Indenfor hvad kan man sige kort og opmålings industrien igennem de sidste mange mange år? Så det det glæder vi os rigtig, rigtig, rigtig meget til at høre om.
+
+00:00:41
+Som altid så er der nogle nogle regler som skal følges man kan sige, i har ikke så mange muligheder der der ser med, så så Der er ikke så mange regler for jer andet end at hvis i har spørgsmål med videre jamen så skriver i dem ovre i chatten og så hvad hedder det så? Samler Søren og og mig op på dem og så i slutningen af af tiktokken, så så gennemgår vi dem sammen med med Carsten så i får svar på på alle jeres spørgsmål, så i kan bare løbende skrive dem efterhånden som som de dukker op i løbet af af checkstoppen.
+
+00:01:11
+Derudover skal jeg selvfølgelig sige for god ordens skyld, at den optages til Torben her og i vil efterfølgende kunne finde den inde på det NN ks hjemmeside.
+
+00:01:21
+Og ellers så vil jeg egentlig ikke lige så meget andet end at velkommen til til jer alle sammen. Og så vil jeg give ordet til til dig. Carsten scenen er din.
+
+00:01:30
+Du først skal du have og først tak fordi at vi måtte være med, men jeg glæder mig til at guide jer igennem her den næste halve times tid.
+
+00:01:41
+Men vi hopper ud i det. Lad mig lige starte med at præsentere mig selv. Jeg hedder Carsten Olsen, og Jeg har en en fortid II staten lige for at give det Institut kort og matrikelstyrelsen hed det, og så var det georgatistyrelsen og så styrelsen med det lange navn styrelsen for Der er det forsynet og effektivisering.
+
+00:02:03
+Men juni jeg var der indtil juli 1. Juli 2017.
+
+00:02:10
+Og flyttede så til til geopartner geopartner in spection.
+
+00:02:18
+Geopartner Det er Sådan et rådgivende livsinspektør landsdækkende med stærk lokal forandring. Vi har 26 kontorer. Vi er cirka 240 medarbejdere, og så når engang vi får alt det her satellit det Sådan rigtigt kommer ud at flyve for alvor.
+
+00:02:32
+Jamen, så regner vi da med, at vi vi vi vil. Vi vil runde de 300 her i løbet af de næste par år.
+
+00:02:39
+Så vi ser vækst der står geopartner in spection Der er og det skyldes at Det er det. Har ledelsen i geoparken valgt at lave Sådan et. Lad mig bare kalde det satellitfirma med egen CVR nummer, hvor at vi beskæftiger os især med præcisionsmålisk opmåling og rigtig meget udvikling herunder og blande ved hjælp af satellitdata.
+
+00:03:01
+Så.
+
+00:03:03
+Det er der hvor jeg kommer fra. Jeg starter lige med et et lynhurtigt geo daisk grundkursus plejer jeg at kalde det. Den har fulgt mig i mange år og den er lavet lidt i vildskab.
+
+00:03:13
+I kan godt se husene eller skæve og så videre, men det skyldes simpelthen at at på et tidspunkt der kunne jeg ikke forklare at Jeg tror Det var Vores vicedirektør ISDFE hvad jeg lavede og så var jeg nødt til at forsøge at at forklare om det og det sagære resultat. Hvis vi ser på den øverste.
+
+00:03:29
+Tegning.
+
+00:03:31
+Det er faktisk Sådan at at tilbage der i 1990 der blev lavet et nyt tøjsystem. Det gør man ved at korrigere landhøvning og i kombination med vandstænding. Og så fik man så en ny referenceflade.
+
+00:03:45
+Det betød en kodeændring rundt omkring i landet.
+
+00:03:50
+Nu er der jo så gået de her 30 år siden, og det der jo egentlig sker Det er det vi ser nedenunder. For det første så den blå linje. Der kan vi se at at Der er tegn en pil op her.
+
+00:04:02
+Det betyder at vandet det stiger og samtidig med så hæver landet sig efter sidste istid. Det hæver sig ikke lige meget. Det hæver Sådan ens i Skagen med cirka 2,6 mm om året og meget let 0,4 mm i det sønderjyske område.
+
+00:04:19
+Og så har vi så ja jeg kalder det lidt balladen eller problematikken. Det er de her lokale sænkninger eller sætninger, som vi efterhånden ser rigtig rigtig mange steder og.
+
+00:04:34
+Og Det kan selvfølgelig have stor betydning for den klima tilpasning, der sker rundt omkring.
+
+00:04:40
+Når jeg Sådan peger ned, hvis nu vi lejer det her nede. Det er Sønderjylland. Der er det faktisk Sådan at.
+
+00:04:47
+At det eksisterende højtsystem. Det er 90, at det nærmer sig et pensionsalderen, men Jeg vil tro, hvis man skulle, hvis man i dag skulle lave et nyt holdt system og lave en ny højere reference plade, jamen, så ville der formentlig være en korruption, måske 10-11 cm. Så højdesystemet er nærmer sig.
+
+00:05:04
+Hvad skal man sige pensionsalderen?
+
+00:05:09
+Er der nu er der jo masser af af værktøjer til at til at at at beregne for eksempel oversvømmelsesscenarier.
+
+00:05:21
+Jeg har kastet et hurtigt blik på 4 af dem som II ser her.
+
+00:05:26
+Og, Der er jo ingen tvivl om, at Jeg synes Sverige især at at Der er rigtig mange gode ting i det, men Der er en ting jeg hæfter mig rigtig meget ved. Det er at Der er ikke en af dem der tager højde for.
+
+00:05:39
+De her lokale sætninger, som jo i meget henseende overstiger både effekten for for velstand stigningen og der bestemt også for opløft.
+
+00:05:52
+Det kan skyde en sag mange ting. Måske er det her. Måske er det her historien bag.
+
+00:05:57
+Det er Sådan at at at i hvert fald når jeg tænker tilbage, så så har det været Sådan, at erfaringsvis. Jeg tror Der er rigtig mange rundt omkring i de her lavtliggende områder på havne og så videre. Der er udmærket godt ved at det det hele det sætter sig, men Det er bare aldrig Sådan rigtig værd.
+
+00:06:14
+Altså hvor meget drejer det sig om?
+
+00:06:16
+Jeg kan huske inde i Hobro, der fortalte mig, at nu var der forsvundet en trappesten.
+
+00:06:20
+Og det må jo selvfølgelig være nogle sætninger, der spiller ind der, men men altså der hvor det virkelig starter det her. Det er er faktisk selv involveret i.
+
+00:06:31
+Det er IIGST og til dels også korte matrikelstyrelsen, hvor man laver målinger langs den jyske vestkyst blandt andet igennem Thyborøn. Og jeg husker da tydeligt, at der første gang der blev regnet på det her tænke hold da op, kan det virkelig passe passe. Der var ikke nær så mange fikspunkter, som Der er i dag.
+
+00:06:49
+Jeg taler om højdeblikspunkter, ligesom vi ser der tage billeder op på til højre og, og vi kunne bare se o go der der der sker rigtig meget her og efter aftale med den daværende type røn Kommune og.
+
+00:07:06
+Og Lemvig Kommune efterfølgende. Jamen, så blev man så enige om at gentage de her målinger i med en frekvens på på 3 år. Og det jeg så gjorde i perioden 3-20.
+
+00:07:19
+Men Det er 2012 hvor vi ligesom.
+
+00:07:23
+Stopper op der har vi i hvert fald en rimelig god bud, og vi kan se, om Det er lineær udvikling nok. Det er altså tilfældet, men sætninger på 2-7 mm om året.
+
+00:07:33
+Der blev udarbejdet en teknisk rapport.
+
+00:07:37
+Og den hedder nummer 16 med en GST rapport.
+
+00:07:40
+Det, der skete dengang, fordi der blev jo der var rigtig meget diskussion omkring det her, fordi de her sætninger. Det betyder faktisk noget for for oversvømmelsesscenarier III Thyborøn. Og så kom spørgsmålet så ja, men Det er godt med jer.
+
+00:07:56
+Det er jo egentlig kun III Thyborøn de her bevægelser, og det findes jo nok ikke andre steder, og derfor blev vi enige om, at vi satte et arbejde i gang med at lave en screening.
+
+00:08:07
+For at få et kort ud med for højt risiko for sætninger, så havde man i hvert fald en.
+
+00:08:11
+Idé tanke om, at hvis man brugte noget geologi og noget historisk måling, at man måske kunne udpege sætningshude områder. Det er det kort især ned til til højre. Der er noget blå farver, og Der er faktisk rigtig rigtig mange steder.
+
+00:08:29
+Så så Det er ligesom min screening.
+
+00:08:34
+For hvor man kan finde de her ting.
+
+00:08:37
+Problemet er så bare det at new er meget meget dyrt.
+
+00:08:41
+Man skal ud og niveau lære, og det skal man så gøre flere gange for at have noget tidsserie for at have nogle. Eller lad os bare kalde det koter at kunne sammenligne og.
+
+00:08:49
+Den var næsten uoverkommelig, og så derfor forsøgte vi på et tidspunkt at tage fat i de gamle målebøger og intertere gamle målinger. Men Det var en fuldstændig aldeles håbløs opgave, også fordi at arkoda sammenligningen direkte. Jamen Det var umuligt, fordi vi kendte ikke 100% beregningsmetode fastholdelsesprincipper.
+
+00:09:09
+Hvilke punkter havde man fastholdt i beregningen og og og Der er også tvivl om månemydoner.
+
+00:09:15
+Og Det er måske derfor at at vi ikke ser de her lokale lokale sænkninger anvendt så meget endnu.
+
+00:09:25
+Men så fik SDFE en rigtig. Rigtig god ide.
+
+00:09:31
+Men valgte ligesom at at at få få tage tage indsartteknologien II anvendelse og så fik lavet nogle.
+
+00:09:40
+Vatikante, sætningsberegninger og.
+
+00:09:45
+Det er Sådan at at de data, de er frit tilgængelige til 2030, men Det er desværre også Sådan, at Det er jo ikke nødvendigvis altså beregningerne dag altså beregninger er udført i 3 18 1920 og Det er udført af italienske altemier og. Men Der er ingen garanti for at det fortsætter. Det er jo en politisk beslutning, så Det er kun SDFI, der ved hvordan at det vil se ud fremadrettet.
+
+00:10:13
+Men Jeg synes også Det er vigtigt at det her det bliver Sådan set søsat for at vi som privatfirma kunne bearbejde det for krondatte måske lave det om til noget mere klimakapasningsanvendelse og og så ligesom sørge for at der vil komme en eller 2 form for for for vækst i den private sektor. Men igen igen igen et fantastisk godt.
+
+00:10:37
+Et fantastisk godt værktøj.
+
+00:10:42
+Så ser vi lige et eksempel. Altså Der er jo ikke på 2 spor 250 km brede og så har vi dækket det hele på nær Bornholm. Altså Det er Det er en overkommelig opgave.
+
+00:10:55
+Problemet er med de her SDF 80 m standardbatte, som enhver kan gå ind og og og kigge på Der er. Det er at at Der er nogle problemer om, fordi Det er relative bevægelser Der er beregnet, og her har vi.
+
+00:11:11
+Thyborøn som jeg. Jeg forsøger at at at at begrænse tyborøn mest muligt, men Det er stadigvæk Vores udviklings sandkasse, hvor at Vi har rigtig mange gode dage.
+
+00:11:24
+Men det vi kunne se på på på standarddata 80 meteregrittet. Det var at store dele af Thyborøn hævede sig, og Det er selvfølgelig et udtryk for at at beregningen.
+
+00:11:37
+Er fejlbehæftet. Det er hvert spor. Har sit fastholdte punkt, og Det kan ligge i Skagen for så vidt også selvom du regner III Thyborøn også ser man så hævninger, og det ved vi jo alle sammen på grund af de mange nævnementer.
+
+00:11:51
+Det er i hvert fald ikke tilfældet.
+
+00:11:55
+Den højere side herovre, Der er der. Der ser vi tilpasningen, hvor vi var inde og og og tilpasse til niveauet. Det har været 90.
+
+00:12:06
+Så hvad skal man sige middelvand og altså så vi refererer det samme højdere reference. Det er været 90.
+
+00:12:12
+Altså Der er tale om relativt data beregninger bevægelser.
+
+00:12:20
+Der er lige et eksempel mere, Det er. Jeg synes Det er rigtig brugbart i screeningen. Vi kalder det Quick and dirty screening Horsens og det Jeg synes Der er spændende at se på det når man kaster.
+
+00:12:32
+Blik ned på de her røde prikker. Jamen der sker der i hvert fald et eller andet voldsomt. Altså vi hælder om sætninger der over en periode på over ja over 1 cm.
+
+00:12:44
+Om året så så Der er måske noget at komme, så derfor er screeningen er jo.
+
+00:12:48
+Er jo super godt.
+
+00:12:52
+Så er vi henne der, hvor at vi Vi er godt i gang med at arbejde med de her data, men så får vi så muligheden for at søge esa og få et projektstabel på på på på benene.
+
+00:13:06
+Det der egentlig er er kampen. Det er at at at vi laver ansøgningen sammen med Georg og DTU og.
+
+00:13:14
+Og det lykkes os faktisk at få en ansøgning igennem til højre, der der har vi klimatoriet med som strategisk samarbejdspartner.
+
+00:13:24
+Men men men egentlig ikke som som så den aktive deltager II ansøgninger og II arbejde.
+
+00:13:33
+Med hensyn til til den der kombination, altså det det der egentlig var tanken. Det var, at vi ville kombinere viden om om geologi med lokal landbevægelser fra Inter eller fra satellitdata. Og så se om vi kunne lave noget.
+
+00:13:47
+Altså vi kan lave noget risikokortlægning og lave noget fremskrivning, for eksempel i forbindelse med oversvømmelser scenarier.
+
+00:13:54
+Men Det er også vigtigt at påpege at at geologien altså man kan sige vi kan. Vi kan vi kan kigge bagud, og så kan vi se, hvad Der er sket indtil nu, men hvis nu man ser noget kraftige sætninger som for eksempel de typer røg i Skagen nogen større i Aarhus i Kolding, jamen, så vil det jo være Sådan, at at det vil være rart at kunne vurdere OK for dem planlægger man fremadrettet, hvor meget kan man belaste et havneareal, for eksempel uden at at.
+
+00:14:21
+Det hele. Det synker i grus eller det kommer måske en acceleration.
+
+00:14:24
+I de her sætninger, og det skal geologien simpelthen.
+
+00:14:29
+Hjælpe med, og der har vi et fantastisk godt værktøj i geoatlas live, så geo er en meget, meget kendt samarbejdspartner meget tæt.
+
+00:14:44
+Output II hele den her historie. Jamen Det er Det er en del af af af af isa og isa er det Vi har lovet og nu er vi heldigvis snart færdige. Vi nærmer os i hvert fald afslutningen.
+
+00:14:58
+Der er stadigvæk styk igen, men men vi kommer tættere og tættere på. Jamen Det er at vi vi vi skulle gerne ende ud med en webtjeneste.
+
+00:15:05
+Vi Vi har valgt at kalde dem GM badmusing og indhold. Det er der kommer et gradientkort, så er der intet poleret vatikanbevægelser 40 m gitter eller grit SDFE 80 m gitter og Det er Sådan set det som som i også altså man også kan gå ind og se på på på på SDF filer så bare bruge det på en 2 måde i det at Vi har egne kompetencer. Vi har at få et fagligt miljø op at stå.
+
+00:15:33
+Hvor at Vi har Vores egen radar specialister, og vi kan selv for at have de beregninger, når at kunden eller hvem nu måtte ønske det. Jamen så kan vi gøre det.
+
+00:15:43
+Så så, så derfor har vi valgt ligesom at at Vi har det. Vi har det liggende, så er der PDU 80 m gitter Det er SDFE. Det er som sagt mira der har regnet og DTU 80 m gitter Det har DTU beregnet.
+
+00:16:01
+Så når den nye. Det er at Vi har fået lavet en beregning med et 40 milegram.
+
+00:16:09
+For Aarhus Kommune.
+
+00:16:11
+Og derudover så vil man gerne indholde DTU der ligger en update model.
+
+00:16:17
+Som jeg skal bruge når det skal monitorerer og lave landbevægelser og. Og derudover så ligger der lodsberegning noget nyt eller det Der er på vej nu. Det er at vi vi der vil også indeholde en fixspunktdatabase.
+
+00:16:31
+Nu skal det ikke forstås Sådan at Det er en kopi af af SDFE database. Det er på ingen måde det der taler om. Det skyldes at når vi Vi har allerede nu opsat 40 radioeffektorer.
+
+00:16:44
+Og i forbindelse med de her radarfaktorer, så laver vi jo mange nye mangler.
+
+00:16:48
+Og vi passerer højdepunkter. Vi laver selv nye højdefikspunkter og og de oplysninger folk, vi synes ikke, Der er en grund til at gå tabt, så så dem lægger vi simpelthen dem lægger vi simpelthen ind II databasen, så Der er valide og højder.
+
+00:17:04
+Tilgængelige område.
+
+00:17:06
+Noget nyt Det er det tog den røde.
+
+00:17:09
+Det er at hvis man skal, hvis man skal lave oversvømmelsesscenarier, så er det jo, så er det jo vigtigt at at vi kan bruge vanskelsdata, og der må vi jo nok erkende, at at Det er Sådan Vores håb.
+
+00:17:24
+At alle havne, for eksempel byer med respekt for sig selv, burde jo faktisk have en vanskelsesmåler. Vi ser jo igen og igen, at i forbindelse med ekstrem.
+
+00:17:35
+Oversvømmelsesscenarier at at eller ekstremt vandstand at at.
+
+00:17:40
+At, der skal man så sidde og ændre polere imellem nabo vandsels målere for ligesom at kan fastlægge en eller 2 højde af vandet har stået i, og Det er så igen med hensyn til katedømme stormflod og og og udbetaling af forsikringer. Eller kan det ikke så så så det burde egentlig være være. Hvad skal man sige?
+
+00:18:00
+Være havnens hver bys eje når man ligger i kystnære områder?
+
+00:18:06
+Måske også vil de store vendeløb?
+
+00:18:09
+Så den sidste ting, og Det er jo lidt interessant, fordi nu har vi jo efterhånden fået lidt, vi får vi Vi har. Vi har fået noget viden omkring anvendelsen af.
+
+00:18:21
+Af sentinent data.
+
+00:18:24
+Men men men opløsningen på 5 gange og 20 m. Vi er egentlig Vi har fået den ide nu, at vi vil prøve at at gå videre med en højere opløsning.
+
+00:18:35
+Fra careos og x Det er dette er dyrere. Det skulle jeg så sige, men du får så til gengæld også et gritt der hedder. Jeg tror Det er 1,1 gang 1,1 m så vi ser meget spændt frem til hvad Det er at at vi kan få ud af af af højoplysninger i dag.
+
+00:18:52
+Der er hvilke muligheder der ligger.
+
+00:18:54
+I den del. Det vil formentlig være nok kun mere omfattende end det vi kender indtil nu.
+
+00:19:02
+Især lige Århus der og Det er Sådan lige et hvad skal man sige lidt snapshot af af af gin.
+
+00:19:11
+Så er vi den heldige sag, at nu lige nu har der altså.
+
+00:19:14
+Vi har. Vi har en en brugergruppe eller en projektdelkager havde kaldt det her består under al m bue Kommune. Jeg vil sige, Det var fra Århus eller Aarhus Kommune.
+
+00:19:23
+Århus savn.
+
+00:19:25
+Og Aarhus vand og så kystklorate dem og.
+
+00:19:30
+På den gruppe, der afprøver vi lige nu af GMI Sådan en testversion, så Det er jo spændende at se hvad der kommer tilbage af af af tommel out tommel ned hvad mangler der? Hvad kan vi gøre bedre? Der vil formentlig være en hel masse, men.
+
+00:19:44
+Men, Der er i hvert fald når der stilling til, men vi skulle ud i galthen der hvor at vi går størst mulige.
+
+00:19:51
+Nytteværdi.
+
+00:19:55
+Der flyver lige tilbage til til Århus det korteste her. Det er det her 40 40 minutter og i Aarhus der kan i jo se nede på havnen og Det kan overraskende, så sker der en så sker der en hel masse.
+
+00:20:09
+Og hvad gør man så med de data? Ja, der skal lige siges at data kan bekræftes af gentagne præcisionsdualen mangler på savn så.
+
+00:20:20
+Data eller resultaterne er valide konsumeret, eller hvad skal man sige? Kvalitetssikret ved hjælp af af af nulementerne.
+
+00:20:29
+Til højre der ser i.
+
+00:20:33
+Opløftsmodellen fra fra fra DU space.
+
+00:20:37
+Og Det er jeg Sådan set. Hvad kan man sige? Det er det der sker inde på land og.
+
+00:20:44
+Så har vi tilbage i 18, da vi lavede nævnement sidste gang på Aarhus havn. Der har vi, der har vi taget vandstandsdata, frastandsmåleren i Aarhus. Den har en meget, meget, meget, meget lang tidsserie, og så har vi været inde.
+
+00:20:59
+Der er omkring 92 og og så prøve at lave en en beregning også, hvad Der er sket. Hvad er der sket indtil altså perioden 92-17. Det er en forholdsvis.
+
+00:21:10
+Hvad skal man sige?
+
+00:21:11
+Der ligger lige et kritisk på et kort tidsserie kan man sige, men ikke desto mindre når Vi har lavet beregninger andre steder, så viser tallene næsten det samme ved at falde langs den jyske den jyske.
+
+00:21:23
+Den jyske østkyst.
+
+00:21:27
+Beregningen her viser at at.
+
+00:21:31
+Vi er oppe på relativ bevægelse eller relativ vanskelig stigning på 2,9 mm om året i den periode.
+
+00:21:39
+Hvis så at man skal ligesom se OK, hvad er den absolutte vanskelig stigning? Så ja, så skal vi så lige have lagt bidraget for oplift oveni og i Aarhus der hedder den 1,4 mm så jeg ved ikke med det sidste smag, men i hvert fald 1 1 1 absolut vanskelig stigning i den givne periode på omkring 4 milimeter. Prøver godt man kan stole på.
+
+00:21:59
+Så så så så har vi altså vandstand. Vi har landhvævning og Vi har lokal.
+
+00:22:07
+Landbevægelse, og så kan vi jo så begynde at se OK lad os prøve at se på noget oversvømmet scenarier det første billede til Venstre, der ser vi århushavn.
+
+00:22:19
+Det er en 50 års hændelse i 2020 med en vandstand på 1,65 m. Det er det højvandsstatistikerne og siger så n begrænset oversvømmelse. Billedet i midten.
+
+00:22:32
+Der der har vi en 50 års hændelse i 2070.
+
+00:22:38
+Med en vandstand på 2 0 5.
+
+00:22:41
+Og så hopper vi så længere ud til højre, og der har vi så korrigeret os for selve de lokale sætninger. Altså billedet til højre. Det er en eller hvad skal man sige billederne Det er de sidste 2 billeder.
+
+00:22:56
+Det er simpelthen Der er det korrigeret for for for landhævning og Der er korrigeret for for for vandstand og Der er korrigeret for lokans sætninger.
+
+00:23:06
+Altså kan de kan de og det gælder i den længstslutter røre.
+
+00:23:10
+Så så altså. Forskellen er måske ikke, men altså man kan trods alt se altså Det er mere blodigt mere. Det er mere.
+
+00:23:18
+Hvad står der dybere bliver der og Der er jo ingen tvivl om at Det har faktisk en effekt.
+
+00:23:25
+Og der vil jeg så lige sige at at Vi har lavet øvelsen andre steder. Nu er en århusbarlige superinteressant, fordi Det er der hvor Vi har lavet det her. 40 m frit 40 m men interdata men men vi vi kan se hvor Det har lukket større betydning.
+
+00:23:44
+Så altså ingen tvivl om at interdata. Jeg vil faktisk sige man man burde ikke lave klima tilpasning uden man er den parameter med en.
+
+00:23:57
+Det der med at holde styr på det relative og det absolut jamen der.
+
+00:24:03
+Var vi så heldig, at der blev lavet noget test tilbage i, som jeg husker det. Det må være i 16 15 16 stykker hvor at SDFEI samarbejde med med Lemvig vand og og DUS space opsat 6 rotter refrektorer.
+
+00:24:23
+Skærmen, som i ser her, den ligner dem stort set altså. Der er ikke den helt store forskel, men faktisk med rigtig god resultater. Der er rigtig godt radosignal.
+
+00:24:33
+Det er egentligt og man er ikke i tvivl om hvad Det er man får tilbage.
+
+00:24:38
+Det Der er tanken. Det er at Vi har Vi har lavet.
+
+00:24:42
+En videreudvikling af det Vi har dem II flere størrelser nu det her Det er lidt af et og kan det lidt af den er stor fordi hvis man kigger ned i skærmen der så passer hver side med en 60 60 cm papkasse.
+
+00:24:58
+Retterefektoren Det er Sådan, at den er udstyret oppe for oven med et GPS punkt, der sidder et gps gevind.
+
+00:25:04
+Og så er der radarskærmen og så nedenunder der ligesom er skærmen ind. Det er Sådan et multi modul, hvor at indstillinger og Sådan noget er er Det er let. Det er lynhurtigt og så nederst der ser man Sådan plattet ud med en lille knump på.
+
+00:25:20
+Det er faktisk et højde fikspunkt.
+
+00:25:23
+Som er en nødvendighed for ligesom at kan bestemme eller kan bruge det fremadrettet, kan absolut bestemmelse af niveauet.
+
+00:25:32
+Da den implantatiserende indmåling er altafgørende for, at den øvelse kan lykkes.
+
+00:25:38
+Det vi tænker Det er at fikspunkter er efterhånden en mangel højere. Referencen er en mangel i Danmark, det oprindelige højt net. Det bliver kun i meget begrænset omfang vedligeholdt adgangen til nøjagtige informationer højt informationer der bliver længere og længere imellem, fordi Det er kun få der vedligeholder deres højde plusmiddel i det lavtliggende områder vil kvoterne formentlig dø over tid.
+
+00:26:02
+Det er der nok ikke så meget tvivl om.
+
+00:26:04
+Vi tænker at lige meget hvor er du sætter din rette reflekter og lige meget hvor meget det bevæger sig, så vil man for eksempel altså tanken er i velfærdet, at vi vil. Den intelserende måling skal sidde II øjet. Det skal passe 100%, men vi tænker så efterfølgende, at vi kan.
+
+00:26:20
+Vi kan korrigere koden.
+
+00:26:24
+Med det at rater Der er der viser eller interberegningen viser.
+
+00:26:29
+Derfor det dynamisk, ydermere dynamisk. Jamen Sådan en fyr som den den kan jo bruges til mange forskellige formål. Blandet som paspunkt til til kortlægning fra fra luften.
+
+00:26:41
+Truende fly.
+
+00:26:43
+Derudover, så tænker vi, at måske kan vi give GPS en renæssance altså det der hedder enkeltstations r dk som er kendt for tidligt og Det er brugt men rigtig meget omkring.
+
+00:26:54
+Årtusind 2001 2 3 kan jeg huske at det blev brugt rigtig meget, men Det er simpelthen hvor man har en master og en ro, og så går man rundt og holder man sig en begrænset afstand til masteren her, som er fixpunktet og udgangspunktet hvor man kender koten nøjagtigt.
+
+00:27:11
+Jamen så er det den her afsnitsafhængige fejl på GPS. En plus at man tilnærmelsesvis eliminerer fejlbidræt for for Georg modellen. Det skal lige siges at lige nu her tester vi denne metode med 2.
+
+00:27:27
+2 hold studerende fra Aalborg Universitet på et Institut uddannelsen 8 semester og 10. semester. Så vi glæder os rigtig meget til at se resultaterne ved at gå ud, men vi håber på, at vi kan hive koder ud af af metoden.
+
+00:27:40
+På ja plus minus 1 cm.
+
+00:27:44
+Det kan være jeg bliver klogere, men det må tidenvis.
+
+00:27:47
+Så er der en ting mere. Det der multifunktionsmodul altså vi ved jo ikke noget. Altså kommer der en på et tidspunkt skal vi anvende nye satellitter eller kommer der helt andre baner og andre kameravinker som gør at du er nødt til at justere din skærm?
+
+00:28:00
+Jamen så kan vi gøre det uden problemer.
+
+00:28:03
+Så derfor ordet det dynamiske.
+
+00:28:07
+Vækstpunkt.
+
+00:28:10
+I Thyborøn.
+
+00:28:12
+Nu er jeg tilbage i København. Der har vi mange gange fået receptorer op efterhånden. Jeg prøver lige aviser på den der Der er en der hedder LVS 5, 4 og 6 Det er de 3 og de refleksorer som jeg talte om som SDFE og og DTU og og dem Vi er vant til op i fællesskab.
+
+00:28:32
+De begynder efterhånden og de har en længde tidsserie, nu hvor de virkelig er gode og ude til højre. Der har vi her for nyligt. Vi har lavet en beregning her i januar 2021 på.
+
+00:28:44
+På den der hedder elvi s 5 apparatet lige på den. Den ligger heroppe nordpå dér, og der får vi en en bevægelse på på på cirka 4,5 milimeter om om året og hvis så vi går op og kigger på en af kystliberatets permanente GPS stationer jamen så er det rent faktisk Sådan at de 2 ting de falder fuldstændig sammen. Jeg tror vi taler om.
+
+00:29:10
+Godt den 10. del millimeter i en biffance.
+
+00:29:13
+Så så der ser jeg lidt. Det er lidt som om at Det er en Det er en blåstempling af kvaliteten af de data der kommer ud fra Sådan en rettereffektor, så Det var altså en rigtig rigtig god oplevelse og det betyder så også at når nu Vi har retterefektorer oppe i Thyborøn jamen, så vil vi også fremadrettet kunne modellere. Hvad skal man sige terrænbevægelserne ville fremadrettet kunne fastlægge niveauet.
+
+00:29:41
+Både ved hjælp af rettere og figurerne. Men så langt er det også står en permanent station, så har vi i hvert fald 2 ting, vi kan holde op i imod et andet så så Det er en rigtig god oplevelse. Men det siger også at radar fik duende, når vi taler millimeter.
+
+00:29:55
+Ja, Det er Det er ikke helt ved siden af.
+
+00:30:01
+Jeg ved ikke om i så den her den har været publiceret i den har været publiceret II mit værn DMI.
+
+00:30:11
+Og Det var Carlo, sagde sundsen oppe fra kystoratet. Det er et fælles projekt, hvor vi forsøger. Hvad skal man sige at kan følge vandstanden tættere på realtid?
+
+00:30:22
+Det er Sådan med de her vandsynsmålere, der står rundt omkring, at de sidder fast bolde til havne, og når en havn sætter sig. Jamen, så følger venstansmålerne altså med ned. Og hvad er det så, man måler, måler man venning eller måler man lokal sætning?
+
+00:30:36
+Det vi gør her. Det er simpelthen, at Vi har monteret en af de store refektorer oven på.
+
+00:30:41
+Oven på venstresmålinger, så kan den få en helt og og det gør så muligt at vi vi. Vi kan i hvert fald. Vi kan i hvert fald følge vandstandsudviklingen tættere på realtet det der sker lige nu her.
+
+00:30:54
+Det er at vandsensdata, både Det er min venens data KDE venstensdata. Det er at de bliver korrigeret for de her flygtningesætninger engang hvert 3 år.
+
+00:31:06
+Det betyder for eksempel, at Det er min data i dag, hvis man går ind på perronen service, hvor der ligger verdens data.
+
+00:31:11
+Jamen, så ville man kunne se at det sidste Der er lavet Det er det vi brugte i Aarhus. Det er til og med 17 indgange i 18 og så har jeg 21. gang.
+
+00:31:19
+Så kommer der igen kvalitetssikret data ind, så kommer der altså det kommer med en frekvens på 3 år med den her teknologi, så vil vi formentlig at så så de formentlig kunne lave et svært år.
+
+00:31:33
+Sætninger i Thyborøn igen sammenligning af nævne mange i forhold til til til Inter og det ene. Det er moduleringer Det er sket på baggrund af eller emulationen er sket på baggrund af 86 fik punkter det andet sted på baggrund af 2400 punkter. Det ser rigtig godt ud sammen.
+
+00:31:50
+Så igen.
+
+00:31:53
+Tommel op i forhold til insouran anvendelse.
+
+00:31:58
+Med hensyn til oversvømmelser jamen det her. Det er bare en 20 år siden, og Der er ingen tvivl om, at man bør have fokus på på Thyborøn. Jeg er selvfølgelig velvidende om at at Der er noget, man kan låne en masse vand hende her oppe omkring den gamle omkring den gamle banestrækning, så Det er muligt at man kan lukke noget af hullerne herned, men Der er jo værktøj, og nu som man kan forsøge sig frem, hvordan man bedst muligt skærmer er.
+
+00:32:23
+Men en ting er i hvert fald helt sikkert. Der skal da ske et eller andet.
+
+00:32:27
+Og i 2070 ja så går det jo så helt galt, men Det er faktisk forholdsvis lave vandstand at man ser at oversvømmelserne de påbegyndes i det brønd.
+
+00:32:38
+Så er der jo noget andet, der også hænger sammen med med klima tilpasningen. Altså Det er fra Sådan et underjordisk infrastruktur her har her har vi kastet et blik på på på kloaknettet i Thyborøn funktionaliteten og hvad det betyder med de her sætninger fremadrettet.
+
+00:32:58
+Det vil sige til Venstre i 2025. Det er simpelthen en kortlægning af promillefelt på de enkelte strækninger, og der hvor den farver brød. Jamen, Der er der rigtig god grund til at man man kigger på, om der skal ske noget vedligeholdelse, for Der er formentlig bagfald.
+
+00:33:18
+Og hvis vi kigger på billeder til højre end lidt voldsom fremskrivning til 2070, og der skal så lige siges, at der bliver der bliver lidt at se til, men det der jo egentlig er tanken med det her. Det der med at at at det Vi har gjort i Thyborøn, Det er at at samtlige brønde er målt med med lurne mand og vi regner med at Vi har bundkoder der ligger på omkring en halv time en hel centimeter.
+
+00:33:43
+I det ved 90.
+
+00:33:45
+Og der går vi så ind og og og og fremskriver på baggrund af dels stigningenter, Der er lavet interview, men også tester interdat hvor godt er det og Der er en rigtig Der er rigtig godt sammenfelt med det vi egentlig tænker på. Det er Det er at hele forsyningsbranchen at man man måske kommer over i hvad hedder det lidt mere tilstandsbaseret vedligeholdelse, hvor man kan sidde og kigge.
+
+00:34:10
+Ved hjælp af satellitdata kan sidde og kigge, OK?
+
+00:34:14
+Jeg ved godt Det kan være mange andre ting i vejen med vorar men, men i hvert fald med hensyn til det der hedder fald cellerensning og så videre. Jamen der har man rigtig god mulighed for at ved hjælp af satellit at at kan komme tættere på på på på en en tændstiksbaseret vedligeholdelse, Sådan at man kan fremtidsplanlægge.
+
+00:34:36
+Ham's woning jamen det passer også fint. Jeg har lige en her og de er som igen taler for ingen klima tilpasning uden at man tager højde for lokalsætninger her. Det er den sidste nye.
+
+00:34:48
+Vi har lige sat 4 retter og fik dig op i samarbejde med Skagen havn per Årslev og det i kan se Det er at at Der er jo ikke nogetdiøst i at tingene sætter sig, men hvor meget sætter det altså og.
+
+00:35:02
+Jeg viser lige den her det her. Det er det sidste nye Der er bygget.
+
+00:35:06
+På den enorme udvidelse af af af Skagen havn, og der har vi så været inde og fået fat i nogle punkter.
+
+00:35:13
+Hvor at vi kan se Der er et tydeligt signal og prøv at hør her. Jeg synes også Det er vigtigt at påpege at vi taler om en 7 måneder lang tidsserie her, men Jeg synes også man skal prøve at se på hvor hvor pænt er det rent faktisk ligger.
+
+00:35:26
+Så så så det ser lidt om om ins teknologiens formål.
+
+00:35:32
+Det samme er ovre på den 2 side.
+
+00:35:35
+Ydre enden af den gamle mole er den korreste noget der så ser det trods alt ud til at det begynder at plander lidt ud. Og så er den hernede. Jamen voldsomme sætning og og den hernede er baseret på baggrund af præcisionsstøvmenter, men han nærmer vi os altså.
+
+00:35:51
+Vi har i hvert fald oppe i et typert niveau, så så så Det er jo at sige med det. Det er at at det ikke Det er det altså Thyborøn.
+
+00:36:01
+Er ikke et enkeltstående fænomen, så klima tilpasning uden anvendelse eller korrektion for lokale sætninger. Det er ikke helt godt nok.
+
+00:36:12
+Jeg ved godt at at at når vi ser millimeter, det lyder jo ikke af så meget. Men problemet er bare at det summer sig op altså.
+
+00:36:20
+For eksempel nu her med 7-8 mm om året, og det lyder ikke ret meget 5 5 år Det er 4 cm men er den 100 år så er det altså 80 cm.
+
+00:36:29
+Og det synes jeg man skal have i sin erindring.
+
+00:36:33
+Det stoppede er jo når at man egentlig laver de her forskellige klimatilpasningsplanlægningsøvelser og så videre. Det kan også være forsyningsdelen, altså det Der er meget, meget vigtigt i det her. Det er at.
+
+00:36:45
+At man hele tiden, altså hele tiden, sørger for, at de her millimeter, når man hælder data sammen. Det skal jo helst have samme kvalitet, fordi outputtet bliver aldrig bedre end den laveste fællesnævner.
+
+00:36:57
+Så så lige nu her der råder vi over landbevægelse i milimeter vandstand, hvis tidssiden er lang nok millimeter og oplift millimeter, og måske kan man også tilknytte grundvandsstanden ved grundvandsmålingen og i millimeter. Altså man kan begynde at bygge ovenpå, og kan man så gøre det med samme standards samme kvalitet? Jamen, så begynder det at ligne noget.
+
+00:37:22
+Ja, men Det var Sådan ligesom sløjfen på det.
+
+00:37:26
+Jeg har lige kontaktinformation her.
+
+00:37:29
+Og.
+
+00:37:31
+Så ellers så rigtigt 1000 tak fordi jeg måtte måtte være med.
+
+00:37:37
+1000 tak Carsten Det var.
+
+00:37:40
+Det var fantastisk spændende. Den sender lige dig over, så vi kan se dig Carsten.
+
+00:37:47
+Sådan.
+
+00:37:50
+Hvad hedder det? Der er kommet et enkelt spørgsmål, og Jeg har også selv nogle vi starter med erland som spørger, hvad skyldes bevægelserne, stigende byggeaktivitet eller rummelig undergrunden? Er det noget som altid har fundet sted?
+
+00:38:02
+Men kan man bare måle det nu?
+
+00:38:14
+Carsten du er lige blevet muttet. Det gjorde jeg lige for at undgå noget.
+
+00:38:19
+Noget ekko, men du skal lige under dig selv.
+
+00:38:26
+Hvis Jeg kan lokke dig til det, Det kan jeg åbenbart ikke selv gøre det beklager jeg.
+
+00:38:29
+Det kan det kunne jeg nu.
+
+00:38:30
+Ja tak for det.
+
+00:38:31
+OK jamen Jeg har hørt spørgsmålet altså Jeg vil sige, Det er jo noget Der er foregået. Ja lige princippet hele tiden, men i og med at vi jo igennem de sidste årgange har oplevet nogle kraftig vækst eller kraftige udbygning af de forskellige havne.
+
+00:38:50
+Både som boliger, men også som som som industrierhverv.
+
+00:38:55
+Jamen, så er der jo ingen tvivl om, at der kommer mere og mere af det, fordi bygger man ud i vandet, så skal man regne med at der kommer nogle sætninger. Det er der ingen tvivl om, men de geologiske forhold og det de skal bære.
+
+00:39:05
+Det har jeg jo Sådan set.
+
+00:39:08
+Været det samme hele tiden, og så følger man så ovenpå. Jamen så skal det jo selvfølgelig, men Det er klart at belastning, altså hvad hvad hvad hvad når du belaster ovenpå laver du der? Der må være forskel på om du laver en flisebelagt.
+
+00:39:23
+Gang oven på et eller andet hvor der kommer tung trafik eller du måske hælder det hele op med 0,5 m beton altså det afhænger meget af af af os belastningen, men sætninger Det har der været hele tiden.
+
+00:39:38
+1000 tak så har jeg lige et selv spørgsmål. Det er stadigvæk muligt for folk at at skrive spørgsmål, så skriv i dem bare inde i chatten så så så Vi har 5 minutter endnu, men Jeg har lige et spørgsmål.
+
+00:39:49
+Du nævnte hvor hvor ofte får i en i data hvor hvor tit kommer satellitterne flyvende forbi og og hvor lang? Hvor langt tilbage har i data?
+
+00:39:57
+Jamen altså tidsserien fra. Der er ikke en SDFE. De startede jo vi.
+
+00:40:02
+Vi har omkring 5 års tidsserie nu. Der var lidt opsæt i starten kan vi se på på på mange af de beregninger vi sad med, men men det fungerer bare rigtig godt nu og så 5 års tidsserie i og med at Vi har at vi selv er i stand til at kan beregne nu. Det vil sige vi i princippet er vi uafhængige af st FE på den måde, altså du selv kunne håndtere data.
+
+00:40:27
+Selv kunne beregne, jamen, så kan vi jo i princippet, for eksempel hvis Det var vanskelighedsmåleren deroppe i type røn med halv på vi ville i princippet kunne beregne en ny kvote hver 6.
+
+00:40:40
+Det er ganske nyt datter. Hvad siger du?
+
+00:40:42
+Hver 6. Dag.
+
+00:40:44
+Hvad hvis du nu kigger som du også nævnte? Altså det det burde jo være et wake up call til alle der sidder og laver deres klimatilpasnings planer lige nu, for eksempel IDHT 20, at der nok er noget her Vi skal tage højde for, men hvad, hvad tænker du? Hvad er det næste udvikling?
+
+00:41:00
+Med hensyn til satellitdata altså er der noget noget nyt data Der er på vej som som som også kunne finde ud af det valview.
+
+00:41:06
+Jamen altså så som som altså vi vi. Vi er jo en en privat virksomhed og og og det der jo egentlig var planen med dengang SDF, Det var at vi skulle forsøge at vækste på det, og derfor når der nævner ordet højopløsning i data eksempelvis eller at vi beregner 40 40 met.
+
+00:41:24
+Som Vi har gjort i Aarhus? Jamen.
+
+00:41:28
+Så vil det måske være næsten, men Der er jo ingen tvivl om at at Jeg kan godt. Jeg tror der ligger store muligheder. II højopløselige data det tror jeg, men og det kunne jo godt være næsten.
+
+00:41:44
+Men det det jo egentlig handler først og fremmest om Det er at at vi får Inter data, altså at at Danmark tager tager det tager det til sig, og vi begynder at får at at at anvende det i forvaltningen og i planlægningen.
+
+00:41:58
+Jeg synes i hvert fald at det det det må, det må være meget, meget vigtigt, og Jeg synes igen igen igen. Det er vigtigt at påpege, at de her lokale sætninger mange steder har større effekt end afspejlestigningen, og det synes jeg lidt i stof, der eftertranke og ondt lader man jo med Sådan en parameter. Jamen altså bedre man jo næsten, selv om det ikke altså at at man at man ja at man begår nogle nogle kæmpe fejl og man skal også huske det her at at at der der kan også ligge helt andre ting i det.
+
+00:42:27
+Altså Det er jo også spørgsmål om forsikringer.
+
+00:42:30
+Og hvordan man sikrer sig bag dig. Altså kan du sove roligt om natten og så videre. Men Det er jo ikke bare et spørgsmål om liv.
+
+00:42:35
+Det er også spørgsmål om økonomi at beskytte værdier, så når at at ekstrem velstandende rammer og og kysthoratet har justeret på på højvande statistikken og så at dit hus dets tilfældigvis. Det var sørme uheldigt. Det lærer jeg fuld.
+
+00:42:51
+Det ligger for lavt, så Det er ikke over Det er ikke dækket af af af stormflodsordning.
+
+00:42:57
+Så Der er Der er rigtig mange ting man man man kan diskutere i den her sammenhæng, så så så next step. De ser rigtig gerne at vi starter med at få de her internettet, at vi tager dem til os. Vi får lavet de nødvendige beregninger.
+
+00:43:10
+Det er ikke så svært så.
+
+00:43:14
+Så har vi lige et her helt til sidst har vi lige et kort opfølgningsspørgsmål fra erland, tak for svar, men normalt funderer vi jo nødt til bæredygtigt lag. Er det så ikke godt nok?
+
+00:43:26
+Jo altså der der vil jeg nu vil jeg jo godt lige have haft en masse for Georg som som er som er specialist på det område.
+
+00:43:36
+Men, men Jeg kan kun sige at at Det er jo ikke altid at man skal man skal have den her geologiske viden, i hvert fald for at man ligesom kan sige om noget. Det er godt nok og omsætningerne de vil stoppe, eller de vil fortsætte, eller de vil accelerere.
+
+00:43:50
+Jeg kan nævne eksemplet Frederikshavn og Skagen, hvor Jeg er kommet i mange år og lave præcisionsdyr-mand.
+
+00:43:57
+Lave beregninger og så videre Der er Der er dengang man anlage de havne, der i statshavnen stod helt tilbage i 1988. Der regnede man jo ikke med, at de her sætninger ville være der, fordi de stod på pæle. Men ikke desto mindre kan vi se, at der stadigvæk er nogle steder, hvor det går ned ad med over 1 cm om året.
+
+00:44:12
+Så Vi skal ikke. Vi skal have geologien på banen her, så.
+
+00:44:18
+1000 tak Carsten tak for et sindssygt spændende oplæg og som sagt til alle alle og 1000 tak til alle der har lyttet med. Som sagt så er er den her tiktok optaget, så hvis Der er nogen af jeres kollegaer der ikke har ikke har haft mulighed for at være med i dag, så kan i jo guide dem i den rigtige retning. Jeg synes i hvert fald helt klart at det her Det har givet noget stof eftertanke.
+
+00:44:39
+Og Jeg synes Det er rigtig spændende det der med at tidligere har man tænkt at modeller var et stationært miljø, men at ved at Vi har de her sætninger, så er vi faktisk også indeni, at Vores modeller er i et dynamisk miljø, ikke altså uden uden omkringliggende dynamisk miljø. Det det synes jeg, er rigtig, rigtig spændende og giver noget stof til efterretning.
+
+00:44:57
+Jeg vil sige 1000 tak Carsten 1000 tak for alle deltagere og Jeg vil opfordre jer til at orientere jer inde på DNNKS klimakalender og se de kommende arrangementer Der er Der er masser af af.
+
+00:45:09
+På vej så ellers så vil jeg sige 1000 tak til til dig Carsten.
+
+00:45:13
+Selv tak tak fordi du har været med endnu engang.
+
+00:45:16
+Så ja 1000 tak og kan i have en fortsat god god dag.
+
+00:45:19
+Jo tak i lige måde tak.
+

@@ -1,0 +1,591 @@
+00:00:05
+Ære alle på vegne af DNAK vil jeg byde jer velkommen til dagens tiktok. Mit navn er Christoffer sindby med mig har jeg Morten halling fra DNAK til at styre os alle godt igennem inden vi går i gang, så vil jeg minde jer om at undervejs i denne teksttalk kan i stille spørgsmål løbende i chatten og så vil mig og Morten tage dem op i den sidste del af dagens tiktok som slutter kl. 13:00.
+
+00:00:32
+Vi er så heldige, at Vi har fornøjelsen af tor Danielsen fra DHI afdelingsleder i den urbane afdeling, som vil fortælle om futhus city flow, som er en digital svilling til klimatilpasning afløbssystemet og effektivisering af de processer, som med det så vil jeg til dig thur give en stor velkomst og give ordet til dig.
+
+00:00:57
+Til denne tektop.
+
+00:01:00
+Tak mange tak og hej alle sammen. Dejligt at se at Der er så mange der havde lyst til at bruge en del af deres arbejdsdag på at høre mig præsentere lidt om det vi kalder future city flow IDHI.
+
+00:01:12
+Future city flow er Vores bud på en digital tvilling af kloaksystemet, som kan bruges til automatiseren processer, som typisk tager en del tid i forsyningerne, men også til planlægning af fremtidens kloaksystem og Sådan set også tilbage til styring overvågning af data, så Der er mange.
+
+00:01:29
+Facetter.
+
+00:01:32
+Og en lille disclaimer fra min side kan man sige er at Det er noget Der er startet tilbage i 2015, altså også lang tid før at jeg selv havde fornøjelsen af at komme til DHI, som jeg gjorde det her år, så der vil være facetter af det. Hvor hvis i har nogle meget dybdegående tekniske spørgsmål, jeg måske ikke vil være den rigtige til at svare på, men så lover jeg jer hvis i stiller dem til mig, så skal jeg nok kontakte nogle kollegaer der ved mere om det og så komme tilbage.
+
+00:01:57
+Med svar til jer.
+
+00:01:59
+Fordi Der er et et ret omfattende system.
+
+00:02:03
+Og Vi har for haft den første. Hvad kan man sige driftsættelse i 2017 og nu er der over 20 forsyninger der bruger det og 12 forsyninger der bruger til at styre deres deres afløbssystemer. Og så er det blevet den officielle del af DHES produktportefølje siden 2021, så Der er simpelthen.
+
+00:02:20
+Det er et system en løsning som har. Hvad kan man sige en?
+
+00:02:25
+Kontinuer udvikling og opgradering og hvad kan man sige reparation af boks og så videre, så så Det er noget, Der er levende. Det er noget der udvikler sig, og Det er noget, man også kan være med til at præge, hvis man indgår. II brugerkredsen nogle af jer har måske allerede hørt om det, men fysisk city flow er delt op i 3 moduler, så idéen er at man har hvad vi kalder det historik modul som kigger på alt det data man samler i forsyningen.
+
+00:02:50
+Alt det data man monitorerer i sin overløbsbyg ved at gøre pumpestationer og.
+
+00:02:54
+I sine ledninger, og så har vi et rapporteringsmodul inden Det er historikken, som handler om for eksempel overløbsrapportering, som er noget af det, vi vil sætte ekstra fokus på her i efteråret, fordi vi kan se, at Det er noget, som en del forsyninger kan spare rigtig meget tid på ved at få automatiseret. Og så er benchmarking, og så har vi realtids modulet, som handler om den nuværende situation i kloaksystemet og også forecast. Hvad er det, der venter os til næste?
+
+00:03:18
+1 2 6 24 timer hvad er det for nogle kontrolstrategier Vi skal implementere for at minimere overløb og.
+
+00:03:26
+Pas på bypass på renseanlægget, og så har vi også fremtidsmodulet, som handler mere om planlægning i forhold til uvedkommende vand eller kapacitet, Sådan at vi kan sikre os, at Vores kloaknet på den lange bane kan leve op til klimaforandringerne, men også befolkningstilvækst eller 2 form for fodboldisering.
+
+00:03:44
+Så det man kan sige indenfor datamode er altså det her med at man kan kigge på sine målte data. Det er jo noget som mange forsyninger har har udfordretinger med. Hvordan får vi gjort data tilgængelige?
+
+00:03:53
+Hvordan får vi skabt noget værdi ud af alt det data vi samler ind, der ligger i siloer i forskellige skandasystemer. Her kan man i hvert fald samle det et sted og regne sine måltal ud eller sine KPI er for de enkelte oplande eller ledning eller tunneller, eller hvad man arbejder med.
+
+00:04:09
+Man får automatisk analyse af sine regne hændelser med.
+
+00:04:12
+Gentagelsesperioder, og så kan man få vist som sagt sine kontinuerligt målte data fra fra skandasystemet og få regnet sine overløbsmængder ud eller sine pumpetal og så videre. Så har vi rapporteringsmodulet, som handler meget om overløb. Det er som sagt den vi nok ser, at Der er en tung og 3 opgave i mange forsyninger at sidde og beregne det årligt og sørge for at Det kan blive rapporteret ind.
+
+00:04:37
+Der hjælper vi med at automatisere det ud fra modelberegninger og ud fra out målte.
+
+00:04:42
+Data hvis man har målere tilgængelig.
+
+00:04:46
+Og så har vi det her strategisk planlægningsmodul, som handler om at beregne fremtidige scenarier og prøve at lave nogle handlemuligheder og nogle actions, som man gerne vil implementere nogle investeringer og se, hvor man får mest værdi for pengene.
+
+00:05:02
+Så har vi forecasting modulet som er det der kører i realtid og i forecast mode, som kan bruges til at ændre på setpunkter i ens styring og sørge for at man minimerer, overløber og optimerer dine sprog og ens kapacitet i systemet, så Der er en en masse muligheder her, hvor man kan få alarmer eller man kan få. Hvad kan man sige what it scenarier og man kan få regnet sine kritiske punkter ud. Man kan få regnet ud, hvad Det er at at ens sting skal være.
+
+00:05:28
+Baseret på det, så Jeg har egentlig tænkt, at jeg går lidt igennem de her forskellige moduler og viser lidt eksempler på hvad Det er vi tænker man man anvender det til og hvordan det ser ud. Og så har jeg også en lille en lille demo planlagt.
+
+00:05:41
+Hvis man starter med realtids modulet, så er der et billede fra Göteborg, som er en af de første forsyninger, der gik med og implementerede og udviklede det her system, hvor man kan se deres tundler og basalt set drejer hele styringen i Göteborg om at optimere brugen af de her 2 tunnelsystemer nordfra og sydfra, som løber ud til deres renseanlæg og sikre at styringen Der er er optimal og man kan så få sit billede af, hvor meget niveauet er i de forskellige bygværker. Vigtige bygværker, Der er markeret her med grønt, så Det er Sådan en rimelig.
+
+00:06:11
+Stille og rolig situation her, hvor man ikke rigtig har været påvirket af nogen større vej, og man kan se her det de har er deres ransanlæg, og så har de nogle strukturer Der er tilfører til de 2 tundler og nogle ventiler som de kan bruge til at regulere og så en emercity pumpe nødpumpe til at pumpe vand ud. Hvis Det er man er nødt til at gå i overløb. Det er Sådan en rimelig.
+
+00:06:34
+Bas simplificeret forklaring af af deres struktur.
+
+00:06:38
+Og hvis man så kigger på, så har de integreret rettere data for eksempel så man får mulighed for at se hvad der kommer og får forekastet ens system. Hvordan Det er lige nu, så Der er en fuld integrhed med med retter og data om adpronoser.
+
+00:06:53
+En af de ting man Sådan kan, kan få et billede af. Det er sit opland. Her har vi et et oplandende, hvor man kan se fordelingen mellem udekomne vand, rent spildevand og så regnvandet.
+
+00:07:06
+Og så har vi Sådan den stiplet linje her, der markerer. Er det så den her situation vi sagde ind mod hvor vi kommer op og får nogle nogle peak flows på grund af en regnhændelse Der er på vej, men at vi også kan se, at der kommer et et vist bidrag.
+
+00:07:18
+Af en filtration grundet regnvejret.
+
+00:07:23
+Og den forecast den kan man så også bruge til at man kan leve af hvor godt det går. Her har vi en 12 12 timer fodcast, som vi mener via data simulering og modelklippering, og vi efterhånden er ved at ramme ret godt i Göteborg og det her opland. På samme måde går vi ned til 6 timer og helt ned til en time også hvor man også kan kan se, at vi vi rammer ret tæt på og i hvert fald kan kan ramme dynamikken i systemet, så man kan bruge det til at tage nogle beslutninger om, hvordan man skal styre.
+
+00:07:52
+Ja indregne rammer ind.
+
+00:07:55
+For også at vurdere usikkerheden, så kigger vi også her, hvis Vi har den stiplede linje.
+
+00:08:00
+Så kører vi også ensembledmodeller altså vi kører 1 1 1 lang række modeller med forskellige input og hvad Det er vi forventer at Der er usikkerhed på regnhændelserne og i systemet, og så kan vi se ligesom hvad er det for et spænd vi forventer af at vi kan få af af flowerniveau i Vores systemer ud fra det også at lave nogle lave nogle styre strategier eller vælge nogle sæt punkter til Vores styring, som som tager højde for den her usikkerhed, så man ikke bare kører blind på.
+
+00:08:27
+Og hvad er det så bygget op af Sådan et system? Jo kernen i meget af Det er det Vi har. Vi kalder mike uperations, som er Vores.
+
+00:08:35
+Hvad kan man sige driftssystem til at køre ting i reeltid, og der tager vi nogle dataimportere fra forsyningen. Vi tager web oforecastes, og så har vi Sådan et kvalitetstjek af modeller og data som kører her, som også har en AI komponent.
+
+00:08:51
+Inkluderet, så det vil sige. Man begynder virkelig at kunne.
+
+00:08:54
+Koble datadrevne løsninger og mere mekanistiske eller numeriske modelmetoder sammen, og så har vi over på den 2 side Vores meget plus HD model som kører. Vi har jo nogle kontrol logikker, hvor vi også går ind og bruger noget EI datasimulering. Vores runnart forecasting, hvor vi på samme måde både bruger de klassiske metoder, men også har nogle AI baserede måder til at forecaste hvad runn up er, og så har vi noget data asimidering også, som søger at sikre, at vi rammer de her målte data.
+
+00:09:24
+Og så eksporterer vi så tilbage nogle alarmer og warnings til driften, alt efter hvad de ønsker. Der kan være givende situationer, man gerne vil alarmere som i god tid der kan være, når man overskrider nogle setpunkter eller nogle beregnede overløbsmængder, så vil man gerne advares, så man kan gå ind og ændre.
+
+00:09:41
+Og så har vi så sæt punkt eksporten også, som kan gå tilbage til systemet og simpelthen ændre på hvordan vi styrer, og Det kan baseres på altså en masse regelbaseret styringer hvor vi leverer.
+
+00:09:52
+De forventede de forventede tal, som skal bruges til at sætte de her repunkt rebaserede styringer. Eller Det kan også være model model projektet control.
+
+00:10:00
+Og så har vi noget uttaps og faze til noget performance validering.
+
+00:10:04
+Så hvad er det, man skal bruge for at få sat Sådan noget her op? Og Det er der, hvor Jeg synes Det er. Det er spændende fordi det det Der er sket i Danmark i mange år, er jo, at man har arbejdet intenst på at få opbygget en.
+
+00:10:16
+En base af modeller for forsyningsområde, som man efterhånden måske begynder at stole på, og man har kalibreret, og man træffer investeringsbeslutninger ud fra om man regner forskellige styrestrategier, inden man implementerer dem. Så Det er noget der ligger i mange forsyninger, og det skal man bruge. Så skal man have noget moniteringsdata, så det skal helst synkroniseres.
+
+00:10:36
+Vi kører typisk de her modeller på døgnbasis. Det er det som mange de de synes er er nok, men man kan Sådan set også køre dem hurtigere, hvis man for eksempel skal rapportere overløb, så.
+
+00:10:45
+Og Det er vist det styring, så kører de jo hele tiden.
+
+00:10:49
+Så der kan være niveau og flow og Meteorologiske data, som bliver brugt til bagdrift conditions. Og så er der så waterforecast, så Det er jo Vores vejrmodeller og Vores radar og data som jo også er det som den danske vandsektor investerer i at få opbygget. Så Det er meget datagrundlaget ligger her og er egentlig ved at være godt godt udarbejdet, så Der er meget.
+
+00:11:08
+Hvad kan man sige det? Det er et godt tidspunkt synes vi til at man tænker over.
+
+00:11:13
+Giver det mening at begynde at automatisere nogle af de her modelkørsler? Giver det mening, at man begynder at gøre den information, man får fra sin huddragiske modeller mere tilgængelige for andre end bare de hydrauliske modeleksperter, men også driften for eksempel eller andre planlæggere, som ikke nødvendigvis ser eksperter II hydraulisk midulering?
+
+00:11:35
+Hvis man går lidt videre Sådan noget der vi også kan se der bliver brugt rigtig mange ressourcer på i den danske vandsektor, så er det jo at rapportere puls. Her har vi også et modul, Der er automatiseret, som egentlig spytter en tabel ud, og man kan styre det lidt. Som man ønsker.
+
+00:11:50
+Vil man have det på månedsbasis, vil man have det på dagsbasis årsbasis. Hvad har man nu brug for for en given periode? Det kan jo være, man bevæger sin Kommune om at lave en status på hvordan.
+
+00:12:01
+Gik det lige med den regnhandel vi fik i går eller hvordan så sommermånederne ud? Hvor mange overløb havde vi? Så kan man også trække det ud.
+
+00:12:07
+Der bliver beregnet dagligt altså standarden man kan ændre det, og der bruger vi jo Sådan de standard tal for kvalitet af spildevand og regnvand og opspæde spildevand, som man som man kan putte på de her stoftransportmodeller II mike og så får man nogle nogle overløbstal og Det er jo hvad kan man sige det? Det Der er bedst tilgængeligt, man kan opkvalificere det hvis man har målinger eller bedre viden fra sin oplanding.
+
+00:12:32
+Og basalt set her kan man se at.
+
+00:12:34
+Vi har en række eller en række overløb i et givent opland og en periode her, hvor man så ønsker oktober, og så kan man jo se, hvor meget er der så, hvad er overløb i kilo BOD eller i total fosfor eller i kvælstof?
+
+00:12:51
+Og at man kan også være antal hændelser.
+
+00:12:54
+Man kan også gå ind og kigge på det mere Sådan tabelvis og se hvad Det er for nogle måneder der bidrager og hvad Det er for nogle rolles bygværker der der virkelig har en konsekvens for ens vandmiljø. Så Det kan også være Sådan at kigge på det på mere tidsseriebasis.
+
+00:13:10
+Og her er også en tabel, som man hurtigt kan sortere i og filtrere og downloade, hvis man har lyst til at arbejde videre med den lokalt på ens egen computer, inden man måske skal bruge det til rapportering.
+
+00:13:22
+Så har vi så det strategiske planlægningsmodul, som bruges til blandt andet analysere for uvedkommende vand eller for kapacitet i kloaknettet.
+
+00:13:34
+Og her kan vi tage et eksempel for et opland hernede, Der er markeret med den sorte linje rundt. Jeg tør ikke udtale det på svensk.
+
+00:13:43
+Men har har forsyningen gøteborg kredsløber var den sat nogle mål for.
+
+00:13:50
+Hvad forventer de, at de skal opnå at have af uvedkommende vand? De har en relativ stor andel her på 50% og meget hvad hedder det overløb og og der kan man også se.
+
+00:14:02
+Kunderne så Det er Det er på måned, man kan tage på dag man kan tage helt detaljeret ned, og man kan tage på år, og hvert får man så lidt et indblik i, hvad Det er, der påvirker ens ens uvedkommende valg og kapacitet i afløbssystemet. Man kan se, Der er en eller 2 form for sæsonvariation, for eksempel II vedkommende vand.
+
+00:14:22
+Og hvis man så går ind og kigger lidt videre på planlægningsmodulet og så begynder at at tænke lidt over jamen hvad, hvad skal jeg gøre ved ved mit mit opland? Så kan man begynde at kigge lidt på, og Det er så her hvor Det kan tage lidt tid og det diskutere detaljerne, men man kan begynde at kigge lidt på jamen hvad koster forskellige løsninger? Hvad koster det at at komme de her problemer til livs og hvad er det for en effekt du så kan få ud af det?
+
+00:14:48
+Så hvis jeg opgraderer noget bassinvolume eller jeg opgraderer noget ledningskapacitet.
+
+00:14:52
+Jamen hvad er det så Jeg kan få? Så får du ligesom en form for costific, hvor du har omkostningerne her og så reduceret overløbsvolumen her. For eksempel så kan man se hernede.
+
+00:15:02
+Der er der måske en løsning, der begynder at give noget værdi. Her er der en god løsning også der virkelig reducerer overløb, mens nogle af de her løsninger herovre. De koster mange penge og ikke nødvendigvis giver særlig meget reduktion i overløbsvolumen.
+
+00:15:15
+Og på samme måde kan man så også sortere det endnu længere ned og sige, hvis jeg, hvis jeg virkelig er ude på at Jeg har et vandområde jeg udleder til, hvor Det er fosfor Der er problemet og jeg skal finde ud af, hvordan kan jeg reducere fosforudledningerne mest muligt fra mine mine regnbetingede forløb, så kan jeg gå ind og kigge her på, hvordan reducerer jeg det og hvad er det for en løsning, Der er mest kost effektiv på det område?
+
+00:15:44
+Så gå videre ned i planlægningsmodulet og kigger ned på deopblanding, som for eksempel har vi et større opland her. Så kan man også gå ned i endnu større detaljegrad og kigge på delopland, hvis man virkelig er interesseret i hvor Det er man skal skal investere. Det har vi taget.
+
+00:16:02
+Hvad kan man det? Opland, der hedder Göteborg øst som så har de her deopland, hvor man også kan se hvad for nogle udfordringer Der er.
+
+00:16:11
+Hvis man så tager kapacitet for eksempel, så er vi her i Göteborg øst, hvor man kan se hvad Det er for et maks flow vi forventer, og man kan se hvad Det er for nogle ledningstræk, der har udfordringer med kapacitet, altså Der er markeret rød, hvor man simpelthen har stuvning til op over terræn ved en 10 års hændelse.
+
+00:16:27
+Og det gør, at man kan gå ind og kigge på jamen hvad hvis jeg begynder at opgradere nogle ledninger? Hvordan påvirker det som et system, eller hvordan vil det gøre betyder, hvis det her deler bland pludselig bliver bebygget og vi regner med en helt 2 befæstelsesgrad i det her opland, så kan man begynde at se hvad. Hvad har det af effekt på mit nedstrøms system, så der kan man bruge det i en planlægningsmæssig sammenhæng til relativt hurtigt at screene ens område uden at man behøves at sætte gang i de store modelberegninger?
+
+00:16:56
+På samme måde kan man også få strækningerne, ligesom man kender det fra mike, når man sidder og arbejder med mike plus, så kan man trække ledningsstreæk ud i virveren her og se. Hvordan ser det ud med max waterlevil for ens profiler og brønde og plot tidserierne, som man også kan få en ide om hvad Det er, hvad dynamikken i et system er.
+
+00:17:18
+Og rapportere det videre.
+
+00:17:21
+Har vi noget data her har vi oslo fjorden. Det var egentlig bare for at vise, at vi jo har relativt mange forskellige måder at bruge det på, og man behøves ikke bruge det på alle måder og implementere det fulde system. På en gang her i Oslo fjorden har de bare brugt det til at få et overblik over deres data, så Det er simpelthen bare en måde at samle data fra en række forskellige.
+
+00:17:43
+Kommuner og områder for at se, hvad er det for noget? Nogle overløb Vi har, og hvad er det, vi udleder?
+
+00:17:50
+Og hvad er det for nogle flows vi ser?
+
+00:17:54
+Og der kan man gå ind igen og kigge på de enkelte oplande og se hvad Det er, så for eksempel er er uvedkommende vand, så laver vi Sådan en relativ simpel dataanalyse på pumpestationer, hvor vi kan se, hvad er det for noget. Hvad er det for en andel af af uvedkommende verden og hvad hvad for nogle oplande bør man så gå videre med? For eksempel så Det er Sådan mere klassisk rent datadreven applikation, som ikke kræver nogen meget plus modeller og nogen større kompetence II modellering.
+
+00:18:24
+Og hvor er det så, at vi bevæger os hen nu? Det synes jeg også er en lidt lidt spændende ting for os i hvert fald, for vi kan også se, at Der er meget af det der bliver genereret i de enkelte systemer. Vi har som skaber værdi på tværs, så Vi er ved at at samle alt i en en platform.
+
+00:18:41
+Man behøves ikke bruge det hele, men igen får man lyst, så kan man koble Vores FCF modul på, altså future city flow som er storm, worder og west broter med Vores tvilling eller digitale tvilling fra renseanlæg.
+
+00:18:53
+Print plant og begyndt at bruge nogle af alle de. Hvad kan man sige inflow podcast Der er til renseanlægget hvad for noget logge vi kan forvente der så hvad for nogle stofmængder Vi skal rense for, og så kan man bruge det som forcast til ens renseanlæg bagefter, så der begynder man at at kunne lave nogle koblinger på tværs, og på samme måde kan man også begynde at bruge noget kapacitet og nogle informationer fra renseanlægget til at styre ens kloaksystem, og samtidig er vi også ved at koble Vores digitale tvilling fra receptter på.
+
+00:19:22
+Da vi også kan se at det jo.
+
+00:19:24
+Det er jo ofte derfor vi laver investeringerne. Det er derfor, vi optimerer styringerne. Det er jo i princippet i sidste ende for at skabe en bedre vandkvalitet ude i Vores vandløb og fjorde.
+
+00:19:35
+Og her er et eksempel, så på det vi kalder, vi kalder reddit, som er begynder at få koblet på. Her kører den II brispen, som Vi skal være værter for OL der har vi sat den her digitale tvilling op af deres.
+
+00:19:48
+Estoarie og flod her for at de kan tracke, hvad betyder de enkelte regnhandel? Så hvad for nogle påvirkninger har vi fået udledningerne fra renseanlæggene og eventuelt større punktkilder for industri til at se jamen er det, er det egentlig sikkert, at vi sender triatleterne ud at svømme, så de ikke får ondt i maven, ligesom de gjorde, da de svømmede ude i sengen.
+
+00:20:06
+Eller er det nu Vi skal sende roerne ud efter regnvejr? Hvornår regner vi med, at Vi har noget noget vandkvalitet, Der er muligt, og der kan man jo så også teste scenarierne, så det de bruger det til nu, er også at sige, jamen, hvis vi begynder at optimere på teknologien på.
+
+00:20:21
+De her 3 renseanlæg hernede jamen hvad for en effekt får du så på vandkvaliteten opstrøms eller hvad? Hvis vi begynder at bygge bassiner, hvad er det så? Det får for en for en kvalitet, en påvirkning på vandkvaliteten, så Der er lidt begyndt at tænke de her ting sammen, så vi får et eller andet fælles billede af.
+
+00:20:36
+Hvad er det Vores investeringer egentlig skal give i sidste ende? Hvad er det for en effekt vi får på Vores investeringer, men også bruge de mere operationel til at sikre, at man har tilladelse til at man kan give man kan hejse Bladet til at man kan hoppe i vandet eller man tør sæm 3 ligger noget.
+
+00:20:53
+Og på samme måde med twin plante, så er det jo Vores digitale tvillingerens anlægget, så der bruger vi også lidt.
+
+00:21:01
+De her procesmodeller og datadrevne løsninger til at sige noget om, hvordan kan vi reducere Vores carbon footprinte eller sikre at vi lever op til Vores udledningskrav? Og så kan vi spare Vores driftsomkostninger ved at teste forskellige scenarier. Hvad hvis vi skruer ned for beluftningen i en given periode, hvor vi ved, at der ikke er så høj elote?
+
+00:21:18
+Hvad betyder det så er Det er det risikoen værd, men også at vi kan få få testet de her scenarier uden igen at sætte en modelør i gang. Det er ligesom.
+
+00:21:27
+Jeg kan. Jeg kan godt lide at kalde det Sådan en demokratisering af processer numeriske modeller fordi.
+
+00:21:32
+Det bliver lige pludselig ikke kun specialisterne, der kan sidde med det.
+
+00:21:36
+Så har vi det her data til styring og så videre og optimere driften, og der har vi også nogle forskellige moduler, og Jeg vil ikke gå få. Jeg vil ikke gå for meget i detaljer med det.
+
+00:21:48
+Så hvis jeg går ind på nettet her, så tænker jeg, Jeg vil vise det i virkeligheden lidt i stedet for bare ganske hurtigt. Så kan vi måske stille nogle spørgsmål, men hvis man går ind på rapportering for eksempel, så er jeg inde her på på gynteborg, og Der er jo ikke.
+
+00:22:05
+Så meget lige nu, og så går jeg ind og siger jamen Jeg vil faktisk gerne se hvordan ser det ud i juli og så går den tilbage og så kører den 1 1 1 beregning på det eller ikke en beregning. Den samler alle dataene og udstiller dem og Det kan godt tage en lille smule tid Sådan så har vi det og så kan man faktisk gå ind og se hvor har vi haft nogle overløbne henne? Nu skal jeg se om Jeg har fundet et spændende æh, jeg kender ikke lige.
+
+00:22:31
+100% Der er noget lyd.
+
+00:22:32
+På blå bare så du ved det, så har du et lille kvarter endnu så stille og fredeligt.
+
+00:22:37
+Amen Det er godt jeg kunne se der tænke lidt spørgsmål ind, så det gør jeg ikke så meget, men her har vi så for eksempel juli måned, hvor man kan gå ind og samle, og der har vi så haft nogle overløb her hvor der har været noget.
+
+00:22:50
+Nogle antal overløb, men man kan også se ligesom hvad er det for noget?
+
+00:22:56
+Stoffer Vi har Vi har udledt hvor mange dage, og den kan man jo så lidt justere alt efter hvad Det er for en en standard i Sverige der rapporterer de bare hvor mange dage der har været med overløb, mens vi jo har haft lidt diskussioner i Danmark om hvad der hvad der karakteriserer en overløbshændelse. Det er fuld fleksibelt, så det sætter man egentlig bare op som leverer. Det kan også bliver også sat op i Danmark, Sådan at det passer med.
+
+00:23:19
+Standardtabellen for for pulsrapporteringen for eksempel så kan man tage den ind, og så kan man.
+
+00:23:26
+Downloade det ned og arbejde med det, hvis man har lyst til at sætte noget op.
+
+00:23:30
+Hvis jeg så går ind i realtid.
+
+00:23:35
+Så kan jeg måske se den curn situation her. Der kan vi se Der er nogle overløbsbygværker der har lidt problemer lige nu og hvis vi tager noget radar data på, så kan vi også se Der er nogle relativt intense nedbør ind over gøteborg lige nu som kører, og man kan så bruge lidt i tiden alt efter hvad man har lyst til. Og så kan man se hvordan de enkelte regnhændelser de går ind og påvirker.
+
+00:24:01
+Der har været nogle overløb. Her kan vi se flow ud af bygværkerne, for eksempel det her.
+
+00:24:09
+Man kan også få sine regnmålere på se Der er nogle Der er ude af drift og Der er nogen Der er.
+
+00:24:15
+Virker her, hvor man så kan se ens ens regnhændelser.
+
+00:24:20
+Og den kan også kobles op på SVK stationerne.
+
+00:24:28
+Og så synes jeg der var nogen der har nogle spørgsmål. Jeg egentlig lagt ret meget tid ind til bare at kunne vise nogle ting frem.
+
+00:24:33
+Det er så fint. Jeg tænker vi kan tage lidt af dem 2 og så skal jeg læse dem op for dig i hvert fald og tak for præsentationen så langt og demonstrationen.
+
+00:24:44
+Marius spørger her, hvordan vurderer i usikkerheden på regnpromoser?
+
+00:24:49
+Ja altså Jeg vil sige, vi vurderer jo ikke nødvendigvis usikkerheden på regnprognoserne, så Vi har ikke går ikke ind og.
+
+00:24:55
+Siger, at den her vektor vi tager det data der kommer.
+
+00:25:00
+Så Vi har ikke en et modul til regnprognoser, hvis det altså hvis det giver mening.
+
+00:25:05
+Der får vi der kobler vi op, og så for eksempel vil det være det mest være modeller, der kommer med den usikkerhed, de nu kommer med.
+
+00:25:14
+Og så kigger vi på, hvad Det er, Der er vurderet i dem og regner det i ensablodeller giver det mening?
+
+00:25:21
+Det håber jeg ellers Mario, så må du lige skrive en gang til i chatten og til alle jer andre, så må i hjertens gerne stille alle de spørgsmål i vil i chatten? Vi ved der lige går lidt tid med de kommer ind. Men monika har spurgt her at du nævner at der også var en FCF modul til styring kan du sætte lidt flere ord på det?
+
+00:25:41
+Ja Det kan jeg godt. Den ligger jo herinde i regelt tid, så er der noget forecast control.
+
+00:25:47
+Og det bliver rigtig kompliceret, hvis man skal sidde og kikke herinde, og Det er fordi vi Det er det her det bliver bliver komplekst.
+
+00:25:57
+Så det vi egentligt er inde at at gøre. Det er at hvis jeg nu sletter en masse level nogle grænser, så kan man se en situation hvor Vi har flowet.
+
+00:26:08
+Og så kommer der en eller 2 regnhændelse og Der er vi heldige nok at Vi har en spændende dag, hvor der faktisk er forecastet nogle større regnhændelser, og så har vi forecastet control scrating her, så den kører hernede, så Det er ligesom hvis vi sætter et setpunkt på en styrestrategi her med et niveau på det her flow. Undskyld, så så forventer vi at.
+
+00:26:32
+Den ændring i styrestrategi den vil reducere overløbet hvad kan man sige med integrale de her 2 forskelle på de her 2.
+
+00:26:43
+Og Det er egentlig. Det er egentlig fordi vi kører en model simuleringer, hvor vi forventer, vi kører forskellige styrestrategier ind og optimerer det på baggrund af det.
+
+00:26:52
+Sådan helt kort uden at blive mega kompleks, men man kan se her. Vi kører jo forskellige modeller. Det er dem der ligger herude med ensemble og historisk data og så videre og prognose en time for eksempel så kan du se hvordan prognosen har har ligget, og så simulerer vi med den og 1-3 timer.
+
+00:27:14
+Der kan man ligge hele tiden og og sammenligne om Det har været rigt passet eller ikke passet.
+
+00:27:22
+Hvis vi går ned til 12 til til 24 timer, ikke så begynder det at blive mere og mere komplekst. Man sætter sig baggrund af af de her prognoser, der så ligger herude, at vi vi vi laver styre strategier, og Jeg kan godt sige, at Det er ikke mit speciale lige præcis hvordan de her styrestrategier bliver udregnet, men man har lavet et længere arbejde med Göteborg kredsløber retten, hvor Vi har optimeret på, hvordan de her skal styres, og så har vi fået deres rebaserede strategier ind, og så kører vi ind hvordan.
+
+00:27:48
+Hvordan bør de være ud fra det vi kan simulere der kommer.
+
+00:27:51
+Så de er klar og ved hvad Det er for et flow og hvad for et niveau de kan forvente deres tundler og deres overløbsbygger.
+
+00:27:59
+I ved ikke at det må være det bliver de så automatisk styret eller er det mennesker der træffer beslutningerne til hvilke tiltag der skal gøres?
+
+00:28:06
+Det er lidt forskelligt alt efter hvad for en situation Det er i. Jeg ved at Der er stadig mange der gerne vil styre det selv, så man giver dem selvpunkterne og så implementerer de dem for eksempel.
+
+00:28:16
+Så Det er lidt forskelligt alt efter hvad for en risikoappetit man har. Men i princippet så vil det tit være at vi sender det tilbage, og så bliver det implementeret.
+
+00:28:24
+Af af af personer i driften.
+
+00:28:27
+Super Der er kommet et spørgsmål til fra Andreas og til alle jer andre så vil jeg sige du kan stadig godt skrive spørgsmål Vi har god tid til, men Andreas spørger om hvor kan man finde flere oplysninger om receiving invirment digital?
+
+00:28:45
+Man kan gå ind på Vores hjemmeside, eller også så kan man skrive til mig, så kan vi kan jeg godt sende en del informationer om det.
+
+00:28:53
+Det er ikke noget Vi har implementeret. Supermeget II Danmark noget af det der minder mest om Det er måske de her badevandsmodeller vi kører fra Københavns havn og Aarhus havn for eksempel.
+
+00:29:08
+Og mens der kommer spørgsmål udefra, så har jeg et spørgsmål til dig i forhold til uvedkommende vand.
+
+00:29:15
+Og langt ude i oplandene kan i måler i fra eller måler i centralt på omkring hvad hedder det overløbsbygninger.
+
+00:29:24
+Det kræver jo lidt, at man har noget data.
+
+00:29:28
+Kørte op imod dem.
+
+00:29:31
+Så hvis man for eksempel tager det her opland, så har vi her noget volumen. Vi har nogle data, som vi kan måle på, og vi kan assimere op mod.
+
+00:29:42
+Så der kan man der kan man gå helt op i et meget lille deopland ikke og få et få et få et bud på det.
+
+00:29:49
+Så det kræver at vi kan. Vi kan splitte, splitte det op. Det kræver, at Vi har noget viden om det.
+
+00:29:54
+Er jo også det jeg skal tænke på, hvor langt ude i oplandene i egentlig eller der sidder censor, men Det er jo så i forhold til forsyningerne, hvor langt ude de har.
+
+00:30:00
+Altså Det er jo Det er jo Det er jo Sådan et kontinuerligt arbejde, men men det her er jo også et større et større problem i sig selv, som man jo kan koble op med grundvandsmodeller og alt muligt, så Det er. Det er også en kompleks problemstilling, som man jo kan uddybe enormt meget.
+
+00:30:17
+Hvis man har lyst.
+
+00:30:19
+Noget af det nemmeste man kan. Det er at tage det data man allerede har og begynder at få et overblik over hvor. Hvor har vi problemer med uvedkommende vand, og der kan man jo starte med at tage det på de store oplande.
+
+00:30:29
+Og så begynder at arbejde sig ned i delerblandet, når man begynder at blive klogere på det.
+
+00:30:35
+For eksempel. Her kan man jo sige jamen for hele det her område, der ligger de jo, der ligger de jo der hvor de gerne selv vil være i forhold til uvedkommende vand.
+
+00:30:46
+Mens de har haft nogle problemer, for eksempel her i nord. Der er der udfordringer med uvedkommende vand, som måske at Det var her, vi skulle gå ind og og prøve at finde ud af, hvad Det er for et opland, Der er det største problem med nogle målekampagner.
+
+00:31:01
+Jamen så begynder jeg ud og gå baglæns for at finde ud af hvor kommer vandet fra.
+
+00:31:05
+Ja præcis. Her kan man jo se Der er nogle oplande eller nogle måneder hvor man jo nærmest har altså Der er størstedelen. Det er jo Det er jo faktisk uvedkommende vand i det her delopland ikke II.
+
+00:31:16
+I april måned.
+
+00:31:18
+Ja ja.
+
+00:31:19
+Så det. Det kunne måske være et et sted, man så kunne gå op og sige. Jamen skal vi have fodret nogle ledninger her eller hvad?
+
+00:31:26
+Hvad skal vi gøre ved det?
+
+00:31:29
+Bare hvis man Sådan lynhurtigt sad og dannede sig et billede over og skulle lave en renoveringsstrategi for det her om opland og uvedkommende vand var noget man gerne ville kigge på.
+
+00:31:38
+Jamen så begynder du at få et billede af, hvor hvor skal du gå hen?
+
+00:31:45
+Og man kan også få det ud på på kurver, ikke?
+
+00:31:50
+Og man II denne her kan man godt få de overordnede billeder på, hvad for nogle områder som vil give mest mening at sætte ind for.
+
+00:31:58
+Ja, og Det er jo det Der er i hele det her planlægningsmodul at at at du kan gå ind altså show and compare og nu nu ligger der ikke nogen planer rigtig herinde lige nu, men Det var det jeg prøvede at vise lidt i powerpointen at du begynder at kunne kigge lidt på hvad er det hvis du nu laver en plan, så kan du gå ind her og så kan du kalde det et eller andet scenarie der hedder.
+
+00:32:17
+Ledningsrenovering over 5 år eller forringing af forringing af XYZ op land eller et eller andet.
+
+00:32:22
+Og så kan du begynde at lægge at lægge det ind, og så kan du begynde at regne på på nogle situationer hvad hvad? Hvad sker der så? Og så kan du sammenligne de forskellige scenarier andet ikke.
+
+00:32:35
+Har jeg ikke lige det hele. Det er jo. Det er jo Sådan tale planlægningsdelen af den den er.
+
+00:32:40
+Jo Det er jo også en komplet komplekst område, fordi Der er så mange faktorer man skal veje op imod hinanden, når man sidder og planlægger.
+
+00:32:49
+Så kan man jo så sammenligne det med med kapacitetsproblemerne for eksempel. Så hvis man tager øst her, så kan man jo se, at Der er Der er nogle udfordringer i nogle af de her oplande med kapacitet.
+
+00:33:02
+Hvis man tager en profil for eksempel, så kan du jo gå ned og få få det, som vi kender det fra fra, når man laver det i mike plus og begynder samt så går det ud, så får man de her lednings ledningsprofiler ind ikke?
+
+00:33:14
+Og man kan jo nok kunne kigge på hvad hvad sker der hvis jeg igen ikke så kan jeg gå ind og lave en plan.
+
+00:33:20
+Og tilføje nogle actions, hvor jeg så begynder at separere, eller.
+
+00:33:27
+For sejler altså forde og så videre og ligger en masse ting ind i de forskellige områder.
+
+00:33:34
+Af effekter.
+
+00:33:35
+Hvad giver det af effekter på globland?
+
+00:33:38
+Sådan er jeg måske mit kan leve op til mit serviceniveau inden for 10 år. Det kan jo også godt være noget, man har fået stillet i sigte af kommunen. At nu er vi trætte af klager i det her det her område om borgere, der hele tiden har vand på terræn eller opblandet spildevand på terræn, lave en plan for at komme op med det.
+
+00:33:55
+Ikke så i stedet for at man måske sætter sig, og så skriver man en en udbud, og så sender man det ud, og så kommer der.
+
+00:34:03
+En rådgiver opgave, og så får man en rapport, og så finder man ud af det ikke lige passet og så.
+
+00:34:07
+Kan man måske lige, hvad kan man sige tage fat her og finde ud af hvad? Hvor er det egentlig jeg bør gribe ind? Jeg behøves måske ikke bede nogen om at sidde og regne min mkemodeller igennem og komme med en med nogle kort og nogle rapporter til mig.
+
+00:34:21
+Jeg kan måske selv lige starte med at finde ud af hvor er det Jeg har lyst til at fokusere og så så anvende ens penge lidt mere. Hvad kan man sige præcist på på nogle områder, hvor man ved det vil have en effekt, hvor man måske hurtigere kan komme til nogle konklusioner?
+
+00:34:35
+Ja tak.
+
+00:34:37
+Thor jeg tænker hvis du lige sætter din slide på med kontaktoplysninger. Jeg har ikke lige nogle spørgsmål der ligger i chatten nu her, men i kan stadig sagtens nå at sætte den afsted og ellers så har i tors kontaktoplysninger her. Og så vil jeg minde jer om at denne optagelse den kan i tilgå efterfølgende IDNNKS klimakalender, hvor i også vil kunne orientere jer om hvad for nogle ellers og andre.
+
+00:35:02
+Oplæg som kommer hen over.
+
+00:35:06
+Ja det næste stykke tid og til næste år. Faktisk også er vi i gang med at få få planlagt.
+
+00:35:12
+Så jeg ved ikke 2 om du har noget du gerne lige vil have folk skal tage med sig her til slut og skal huske på andet end at du selvfølgelig står til rådighed tænker jeg også hvis der skal være noget uddybende både på FCF modulet og i forhold til usikkerhed og prognoser.
+
+00:35:28
+Ja et.
+
+00:35:31
+Bare skriv til mig. Det er som sagt et relativt omfattende ram eller en omfattende løsning, så Der er. Der er mange detaljer at den dyk ned i, og Det er ikke noget man lige gør på bare 45 minutter.
+
+00:35:44
+Nummer 2 er nok, at for mig er der så meget automatisering og besparelse i at prøve at få nogle af de her ting til at køre automatisk. Jeg ved Der er flere forsyninger der allerede arbejder på det.
+
+00:35:56
+Og det, at man for eksempel kan få automatiseret sin overløbsrapportering. Det ville give en stor besparelse og sikre, at ens hydraulikere de ikke skal sidde og.
+
+00:36:05
+Og arbejde man Sådan man nok vil kalde en rimelig kedelig opgave hvert år, som trækker en masse ressourcer for for noget der der der egentlig også kan sikre nogle nogle investeringer og nogle forandringer fremadrettet, så så kig endelig på det. Og vi vi kommer tilbage med Vores eget webinar, som handler specifikt om overløbsrapportering, fordi vi tror at at Det er et godt sted at starte.
+
+00:36:28
+Og 3 d er så.
+
+00:36:30
+Datagrundlaget er som regel tilgængeligt. Det kræver ikke særlig meget at komme i gang, så i stedet for at tage det med sig fra min præsentation. Og Det er etormt komplekst system, som vi slet ikke kan overskue, så start med at tænke lidt over er der et modul, kunne jeg godt tænke mig at få lidt bedre overblik over mine data kunne jeg godt tænke mig, måske bare at få et overblik over vedkommende vand, eller kunne jeg egentlig godt tænke mig at se lidt fra mine radarer?
+
+00:36:53
+Hvad det hvad Det har for en betydning for mit system, så start med det og lad være med at tænke på alt det andet, man kan godt.
+
+00:36:59
+Bare starte i det små med nogle relativt hurtige gevinster.
+
+00:37:05
+1000 tak Det er sendt videre ud og husk at sige til hvis Vi skal hjælpe med webinaret og sende det ud til alle jer der lytter med vil jeg sige 1000 tak og hvis i har nogle emner i gerne vil have vi tager op, så skriv gerne ind til Morten eller de andre på sekretariatet eller hvis i har noget produkt eller andet som i gerne vil have belyst ligesom thor har gjort, så vil vi meget meget gerne høre om det.
+
+00:37:30
+Og Torben med det, så vil jeg sige 1000 tak til dig. Jeg synes Det har været en fornøjelse at høre om meget spændende.
+
+00:37:39
+Og Jeg synes virkelig Der er nogle områder som er brugbare og Jeg er enig i det virker komplekst når man ser det. Men igen det med at dykke ned i et modul ad gangen kan kan give overblikket i forhold til hvad Der er så på vejene af DNAK og mig og Christoffer sindby og Morten halling så vil jeg sige 1000 tak til jer alle sammen og særligt til dig thor for at stille op og fortælle om.
+
+00:38:03
+Future city flow Det var en fornøjelse.
+

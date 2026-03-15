@@ -1,0 +1,627 @@
+00:00:00
+Ja.
+
+00:00:05
+Hej alle og velkommen til den her rigtig spændende tiktok hvor Vi har besøg af Peter Thomsen fra Rambøll, som vil fortælle lidt om geofik til detaljeret hydrogisk undersøgelser på vegne af det NNK vil jeg selvfølgelig byde jer alle sammen rigtig meget velkommen generelt. I kan stille spørgsmål ud i chatten, og så vil Kristoffer og mig løbende publicere dem og så hvad hedder det så her til sidst, når Peter han er færdig med? Hvad hedder det sin præsentation?
+
+00:00:33
+Så vil så kan han besvare spørgsmålene.
+
+00:00:36
+Selve præstationen kommer til at cirka vare en halv times tid, så Vi har 1 1 1 10 minutter og et kvarter til til eventuelt spørgsmål.
+
+00:00:44
+Jeg skal også for god ordens skyld sige at tiktokken her bliver optaget, og det vil sige, at hvis Der er nogen af jeres kollegaer som ikke kan være med i dag, så så kan i jo henvise til dem. Den kommer til at ligge inde på DNN k's hjemmeside indenfor indenfor en uges tid.
+
+00:01:00
+Jeg tror Det var egentlig egentlig det, så tror Jeg vil give ordet til til dig, Peter.
+
+00:01:05
+Ja tak hør mig.
+
+00:01:10
+Og.
+
+00:01:12
+Jeg skal lige dele min præsentation eller den her del.
+
+00:01:17
+Ja den er delt Peter du er på.
+
+00:01:19
+Ja yes.
+
+00:01:24
+Ja det jeg skulle fortælle om Det er hvordan vi bruger gevsik II detaljeret hydrogenisk undersøgelse primært II de her.
+
+00:01:34
+Byudviklings projekter som som er en del af for tiden.
+
+00:01:40
+Jeg gav fysiker ved Rambøll og har været ansat i rambøl i 20 år og har arbejdet med geosik egentlig igennem grundvandskortlægning III alle de her 20 år.
+
+00:01:50
+De sidste måske 5 10 år fokuseret mere og mere på kortlægning af den helt terrænserie, som er er vigtig i forhold til de her.
+
+00:02:01
+Især de her byggemodningsprojekter.
+
+00:02:05
+Og.
+
+00:02:07
+Udgangspunktet er at at.
+
+00:02:10
+Der vil vil udvikle, og Sådan noget er øgede krav om klimatilpasning og bæredygtig regnvandsholdets Cypern håndtering og Det er Det er sin eksisterende by, hvor separat kloakering bliver foretaget for min mere belastning på rensende, rensetknæg og og for at minimere overløb og dermed også forbedre vandmiljøet.
+
+00:02:32
+Løsninger er ofte de her rekreative blogende løsninger, hvis hvis Der er plads til det.
+
+00:02:38
+Og så er der et det åbne land, hvor hvor man bruger mere, hvor man i den i regn og skybrødshåndtering bruger laurløsninger eller kan aflede regnvandet på overflade til til recept, eller man kan aflede det til forsinkelse af invitationsbassiner.
+
+00:02:58
+Alternativt kan man også aflede det direkte i regnvandsledninger, hvis man ikke har mulighed for andet.
+
+00:03:08
+Og ved planlægning og håndtering af regnvand findes der en del offentligt tilgængelige data, og de bliver tilgængelige igennem eksempelvis kamp og skalko og hipdata.dk, hvor det bliver samlet, og de data kan være noget om omkring geologien, for eksempel jordskort og modeldatabaser med geologiske hydrostratiske modeller. Og så er der de nationale boringsdatabaser og og lokale databaser boringer i.
+
+00:03:36
+Og så er der den her database over de geofysiske data, som er ligger hostes af af geos.
+
+00:03:46
+Men vandt, er der selvfølgelig de her temaer over drikkevandsinteresserne og og man kan få få visualiseret strømningsvejene ved en ved en ved et glas plade ved en afstrømning på på terræn. Der er lagningskort, og nu her er der også den her.
+
+00:04:05
+Det her model over det terræn er grundvand, som er udarbejdet igennem gennem det her hip projekt.
+
+00:04:13
+Ud over de her data er der selvfølgelig også de de de hårde data, som som terræn modellen meget deserede terræn model i 40 x 40 cm grit. Og så er der selvfølgelig alle de historiske ortofoto, som også er meget vigtige. Den i den indledende analyse.
+
+00:04:27
+Og så er der også historiske kort, hvor man kan se eksempelvis om der har været blodbundsområder III det område.
+
+00:04:36
+Men Det er vigtigt, når man når man bruger de her data og og og betragter dem som screeningsdata.
+
+00:04:44
+Og og og Jeg vil sige at at at at man ikke kan en lang række af de her data, her skal ikke anvendes på projektniveau.
+
+00:04:54
+Fordi det Det er så de er så overordnede og på et screenings niveau at at at hvis man går ned i en detailplanlægning, så er de simpelthen ikke gående gode nok. Og Det er derfor der.
+
+00:05:04
+Der der Der er behov for yderligere data i undergrunden, når man skal lave de her især planlægning af håndtering af regn og og skybrud.
+
+00:05:14
+Jeg jeg.
+
+00:05:16
+Her det sidste halve års tid har jeg været til rigtig mange webinarer, og folk italesætter mere og mere at at at at Der er større og større mangel eller folk italesættere, at Der er mangel på på på data under jorden og og Det kan være.
+
+00:05:32
+Omkring jordens beskaffenhed, og Det kan være omkring det terræn, Der er grundvand, hvor vi jo nu har i hip grundvandspejlet, men at at det ikke er godt nok på projekt niveau, så Det er her vi begynder eller vi går ind og og supplerer med detalerede undersøgelser.
+
+00:05:52
+Og og og nu i de her byudviklingsområder, der der, der går vi ofte ind med med med indledningsvis detterede givet fysiske undersøgelser, især det åbne land, men også II udviklingen inden III byerne, hvor Der er nogle grønne områder, hvor der kan foretages noget noget geo succes, så supplerer vi med korte boringer, fordi geofik får du kun en indirekte kortlægning af undergrunden og med.
+
+00:06:20
+Med boringerne kan du få det få det oversat til noget mere geologi, så laver vi 10 der invitationstest for at opnå nogle nogle kværdier, nogle historiske ledningsevner, som som man kan bruge i en videre projektering af af af anlæg.
+
+00:06:38
+Kunderne Det er som regel kommunerne på de her planområder, og Det kan være private udviklere og i mindre grad forsyningerne. Men de indgår tit i de her kortlægninger også på en eller 2 måde.
+
+00:06:49
+Og og og og oftest så er de her områder vi kortlægger de er de varierer meget størrelse fra fra ganske få hektar til til til 100 hektarer så det det. Det er meget forskellige størrelse med hensyn til geosik, som vi jo tit bruger som en indledende screeningsmetode hallog englen kortledningsmetode der Der er kortlægger man jo undergrunden uden at bore gevsikkert er noget der har været anvendt gennem det sidste.
+
+00:07:16
+I hvert fald de sidste 50 år og.
+
+00:07:19
+Og hvor, hvor man jo kortlægger undergrunden uden at eller hvor man kortlægger en indirekte gennem nogle fysiske parametre, som kan være elektrisk ledningsevne eller lydbølgers hastighed. Og her til højre kan i se den diskussion der tit er mellem en geolog og en geofysiker, hvor geologen står med en med en med en meget detaljeret. Jeg skal lige se om Jeg kan få en printer.
+
+00:07:44
+Med et meget detaljeret opløsning af af et borehul her, hvor geofysikerne siger, jamen vi får kun den opløsning her, men til gengæld så kan vi jo få den på et større fladdækkende område, hvor hvor geologen kun har sine informationer fra fra fra borehullet, så samarbejdet mellem geologen og og geofysikeren og og og det vil sige boringerne og geofyske data er meget vigtigt for at for at få et.
+
+00:08:08
+Det bedste meste optimale kordninger område, så Det er meget den der også den der forventningsafstemning. Hvad er det vi kan opløse? Hvad er det vi ikke?
+
+00:08:16
+Havde forventet at opløst.
+
+00:08:19
+Når vi siger at geopsigt, Det er jo mange ting det her. Det er bare et udpluk over den fysiske værktøjskasse, som vi vi bruger i Rambøll. Vi har nogle elektriske metoder ovre på den her side her, som måler den elektriske modstand et udstyr.
+
+00:08:34
+Vi bruger tit meget terrænnært det Det er det her duerlegeme udstyr og så til noget også detaljeret.
+
+00:08:45
+Med og til lidt dybere, men ikke i den samme tidingsgrad som man man kortlægger med. Du og lægen bruger vi det der hedder et t tæmme udstyr, hvor man også trækker et udstyr hen over overfladen, så bruger vi det der hedder irriteret, som også er kaldt mæt, som er noget prosil profil baseret.
+
+00:09:04
+Udstyr grundvandskortlægninger har i høj grad været baseret på på på undersøgelser fra fra det her skytems system, hvor man kortlægger.
+
+00:09:13
+De mere overordnede strukturer som som dybere liggende grundvandsmagasiner og og og dybereliggende geologi herovre. I Venstre side har vi nogle andre udstyr, altså patis er i høj grad også brugt til sårbarhedskortlægning her II grundvandskortlægningen og så er der en metode MS hvor man kan måle et direkte vandindhold, og så er der seismik, hvor man hvor man som er i hver især er blevet brugt ude i den vestlige del af Jylland til at kortlægge de dybe begravede dage.
+
+00:09:49
+I det cases Jeg vil vise Det er cases hvor Vi har brugt de her den her durlegemæring metode. Og som sagt så måler den jo den elektriske modstand og og modstanderen relateret til til litologi er Sådan at at lav modstand.
+
+00:10:03
+Svarer til til en lærer aflejringer, mens en en høj elektrisk modstand svarer til sandet og gruset aflejringer.
+
+00:10:10
+Derimellem ligger der så.
+
+00:10:14
+Morgenelædere og moren sand og de moræne aflejringer, som som som godt kan have en meget varierende modstand i Danmark, alt efter hvor hvor Det er, så derfor er det også vigtigt at man, man supplerer de her geofysiske data med med boringer, og så man kan relatere informationen fra boringerne med med med den kortlagte modstand.
+
+00:10:38
+Prøv at gå lidt mere deteret ind III den her dural EM metode, så er den.
+
+00:10:46
+Ikke ser billede af den til højre her hvor vi hvor vi trækker den bag en ATV og og den er optimeret til til kortlænget, at de nu sagde de 8-10 m før reelt er det også efter ofte de øverste 5-7 m og Vi har udviklet et system som som gør en meget operativ, så vi kan optimere produktionen.
+
+00:11:07
+Og og og og også egentlig optimere på datakvaliteten ved at Vi har den kørende meget smooth hen over terrænet bag nat kan vi lave en 60 80 km om om dagen og og linjeafstanden varierer selvfølgelig efter hvor hvor stort område Vi skal kortlægge, men som regel ligger den måske på Sådan nogle lokalplansområder på en 3 4 m mellem linjerne og den varierer ofte mellem 1-10 m på på på.
+
+00:11:36
+10 m op til på på på store områder.
+
+00:11:39
+Vi har så også en en mere håndholdt version af af udstyret, som man kan enten kan trække på en lille slæde eller eller gå med, som man ser på det lille billede hernede fra et fra et undersøgelser vi lavede II uganda.
+
+00:11:54
+Vi introducerede den her metode i 2013 og har egentlig.
+
+00:12:01
+Haft.
+
+00:12:03
+En en del kortlægninger, som jeg også kommer ind på senere.
+
+00:12:07
+Gennem de her sidste 8 år.
+
+00:12:10
+Og med metoden, der kortlægger man så jordens modstand og med med en natal opløsning altså langs linjen på ganske få meter man indsamler.
+
+00:12:20
+6 lidt teknisk, så har man en tænderspole og og 6 modtagerspoler som man måler 6 datapunkter som man laver til en geopysisk tolkning og gennem boringer og og den her oversættelse fra fra modstand til litologi.
+
+00:12:36
+Egentlig lavere end geologisk tolkning af de indsamlede data.
+
+00:12:41
+Gennem de her 8 år har vi lavet omkring 200 kortlægninger med udstyret II Danmark, som i kan se med de med de røde prikker her spredt ud over det meste af landet.
+
+00:12:53
+Jeg vil sige halvdelen Der er kortlægninger har nok været omkring håndtering af af regnvand indenfor udviklingsområder, men Det har også været i forbindelse med med geoteknisk undersøgelse og og også undersøgelser og afgrænsning af forurenet. Hvad hedder det forurenede sites?
+
+00:13:13
+Så man kan se at at at Vi har været vidt omkring III Danmark, men Der er selvfølgelig plads til flere kortlægninger.
+
+00:13:24
+Nu vil jeg vise data fra fra 2 cases. Den første Det er et et område nede ved Esbjerg, som er på 27 hektar. Udvikler den kommunale udvikling, hvor Esbjerg Kommune selv udvikler et attraktivt boligområde, som kun ligger cirka 1 km.
+
+00:13:40
+Fra fra ligger badestrande her hjerting generelt et et attraktivt område, så så egentlig meget.
+
+00:13:48
+Attraktivt nyudstykning her og formålet med undersøgelser var egentlig at bidrage med viden omkring undergrunden for for planlægning af af af regn og skybådshåndtering.
+
+00:14:02
+Hvis man ser de indledende eller de de offentlige tilgængelige data så højt er modellen der kan man se, at området generelt er er faldende mod mod nord og man kan se strømningsvejene generelt gående mod mod mod nord.
+
+00:14:16
+Men række små lavninger III området, men en generel orientering mod nord og mod øst.
+
+00:14:27
+Jordenskortet, som jo også skal bruges på meget overordnede eller anvendelse på meget overordnede niveau. Sige at der hovedsageligt er sandet aflejringer inde i området, og at der ikke er blød bund decideret inde i området.
+
+00:14:43
+Jordretskort og sige at at landbruget i høj grad har været landbrudsareal, som ikke har ikke har været drænet i stor stil. Der er ikke de store dræningskanaler inden inden for selve området.
+
+00:15:01
+Med et drægvands interesserne, hvor man kan se at at.
+
+00:15:06
+At den nordlige del af området ligger i det, Der er NFI eller nitratfølsom henvendelser blandt og umiddelbart nord for området er der en en indvendelse, en indvendelsesboring med et beskyttelsesområde omkring, og Det er også vigtigt lige at tage det i betragtning og planlægge løsninger. Hvad hvad retningslinjerne er for for nedstilling i det enkelte administrative.
+
+00:15:31
+Områder.
+
+00:15:34
+Vi lavede den her detaljerede g fysiske undersøgelse, hvor vi kørte 60 km frem og tilbage med med med Vores duerlegeme udstyr, så havde vi eller kommunen havde så efterfølgende geokonsult ude og lave nogle tekniske boringer også med pejlinger af grundvandsstanden og og lave nogle kornstads for for estimering af af af.
+
+00:15:58
+Den fordauiske ledningsevne.
+
+00:16:02
+Ser man resultaterne fra fra den fysiske kortlægning, jeg kommer til at vise dybdeintervallerne ned til 7 m og det her. Det er så den øverste halv meter dybde interval en halv til 1 1 en nul til 0,5 m og det beskriver egentlig meget en varierende muld. Ofte så er den øverste halv meter noget noget muld som som kan være varierende tilstand eller.
+
+00:16:26
+Beskaffenhed nu går vi så ned i lavsæret.
+
+00:16:31
+En halv til 1 m, hvor man ser allerede her, så danner det altså et billede af at Der er meget høj modstand i den nordlige og i den sydlige del af området, mens den centrale del her er der en en lavere modstandsvejende til mere lærede aflejringer når man går ned II de næste intervaller kommer den her inddeling II 3 områder meget kraftige til syne hvor.
+
+00:16:55
+Hvor man nu ser at at at det her område vil vil man 12 som sandhed og aflejringer.
+
+00:17:00
+I den nordlige og den sydlige del, mens i den centrale del af her er der noget ler. Nu er vi nede i intervallet 2,5 til til 3 m. Hvis man går længere ned, så kan man se at de lerde aflejringer ligeså stille bliver områderne med de leret aflejringer lige så stille bliver bliver mindre og mindre.
+
+00:17:21
+Det vil sige, vi havde den her durlé om kortlægning, hvor jeg her har vist modstanden II intervallet fra fra fra 0-5 m og på baggrund af det blev der så sat nogle boringer.
+
+00:17:36
+Måske lidt lille man. Man kan se at at det tal der står her. Det er dybden til grundvandsbejlet, så de her boringer i den her del var tørret ned til til 6 m, mens der var der var registreret et grundvandsbejl i 4,5 og 5 m ved de her 2 boringer og ved knap 4 m II den boring her.
+
+00:17:54
+Så generelt et relativt tyk umættede zone, når man når man tænker på at skulle inddrage nedsivning II løsning af håndtering af regnvand.
+
+00:18:06
+Det her, Det er et udkast til en diskussionsplan for området, hvor Jeg har lagt husene på.
+
+00:18:12
+Og og og Der er selvfølgelig også nogle nogle planlagt nogle nogle bassiner III, nogle dele af området og så på baggrund af durlegem kortlægning. Nej undskyld her.
+
+00:18:24
+Har jeg så tegnet 1 1 1 modelsektion ned gennem boringerne for ligesom at verificere at at at min tolkning med at det her Det var sandt og det her Det var leer af den også er valide og der kan man se at boringerne de røde Det er sandt og det brune. Det er ler at Der er en god overensstemmelse mellem mellem geosikken og og og de boringer Der er i området og det hver især at at det her at at det blå Det er tale om leret og aflejringer mens Det er det røde Det er og lilla det Det er leret af.
+
+00:19:03
+Yes.
+
+00:19:05
+På baggrund af de undersøgelser har vi så udpeget det sydøstlige område som et område, hvor hvor hvor man kunne inkludere nedsivning II afvandingen, hvor hvor den, hvor den centrale område, der var der der Der er for meget learede aflejringer til at til at man kan.
+
+00:19:23
+Inkludere nedstillingen lokalt så 1 1 1 oplandsfordeling vil blive at at.
+
+00:19:30
+I det her område, men separat kloaker og afvand, regnvand gennem tro og grøfter til til et bassin op i den nordlige del her som lå lavet og har en relativt tyk umættede zone også, så det ville være et et nedsynsbassin der ligger oppe i det nordlige del her, mens i det blå område her, der vil blive spildevandsklokeret med med med lokal nedsivning af af af regnvand, så på den måde har man brugt de her geofysiske undersøgelser til egentlig at lave sine.
+
+00:20:00
+Sin oplands inddelinger.
+
+00:20:07
+Ja ja Det er jo det med at at du og derhjemme og og og boringerne bidrager til til et meget detteret grundlag for for planlægning af den her regnvands og skybrud sortering.
+
+00:20:23
+Ja nu nu vil jeg vise noget fra en fra en prin sag, som Vi har arbejdet på for nylig. Det er en byudvikling ved ved sejs lige øst fra Skanderborg. Nej sludder i Silkeborg.
+
+00:20:40
+Byudviklingsområde på på omkring 10 hektar, hvor det også er kommunen, der udvikler det tilborg Kommune i det her tilfælde og og igen et attraktivt boligområde med relativt høje grundpriser.
+
+00:20:53
+Og formålet med de her undersøgelser, Det var også at bidrage med viden om undergrunden og og og bidrage med datagrundlag for planlægning af af regn og skybådshåndtering.
+
+00:21:05
+Hvis man ser at det det høje målblade så igen et et landbrugsområde uden nogen afvandingskanaler og uden antydninger af af af blødbundsområder.
+
+00:21:18
+Det her er Sådan digitale højdemodel, hvor Jeg har lagt strømningsveje og og lavninger på, hvor man kan se, at området generelt er hældende mod mod syd med nogle lavere liggende strøg herfra fra fra, fra nordøst, men ellers en generel strømning.
+
+00:21:35
+Fra fra nord mod mod syd.
+
+00:21:39
+Det her Det er så det datagrundlaget for for for hip det terrænende og grundvand. Og Det er et middel vinter niveau, som egentlig siger, at der i det her område skulle være mellem 1-2 m til det tegnene og grundvand og og endog endnu mindre II lokalt i områder her.
+
+00:22:00
+Igen det her hip datagrundlag skal man anvende på på på screenings niveau og og og man har.
+
+00:22:08
+Det bliver. Det er nødvendigt at gå ud og og få i verificeret eller få det undersøgt med med med boringer med aktuelle pejlinger af af grundenstand.
+
+00:22:20
+Her er der igen strømningsvejene og og og lavningerne bag ved, og der har jeg lagt bebyggelsesceller og udkastet til bebyggelsplanen på med med sorte matrikler eller matrikler markeret med sort nedad her og og veje markeret med med gråt og planlægning af af af 2 bassiner her og her og egentlig en en planlagt.
+
+00:22:45
+Regnvands.
+
+00:22:48
+Grøft.
+
+00:22:49
+Dagvand og det område heroppe fra og ned over her, så Det var jo egentlig det der Sådan var var udgangspunktet og og så blev der jo lavet de her.
+
+00:22:58
+Geotekniske.
+
+00:23:01
+Boringer nogle placeringsundersøgelser langs primært langs vejtræsset. Alle disse boringer, de viste tørret sandet aflejringer ned til til 3 m under terræn, så det nu sagde hip grundvandsbejl 1-2 m terræn, men reelt så ligger det.
+
+00:23:20
+Dybere end 3 m og det viser også at det også er i området også ligger dybere end 5 m så Der er selvfølgelig også en usikkerhed på på på på det tema over over hiberg grundlag men men her havde vi i hvert fald tørre sandhed aflejninger til til minimum 3 m og og på baggrund af det kunne man jo så godt planlægge lokal afledning af af regnvandene i matriklerne her og så.
+
+00:23:46
+Håndtering af vejvand og og skybrud ned i.
+
+00:23:49
+I bassinerne her i den sydlige del af området.
+
+00:23:54
+Da der så skulle ansøges om nedsivningstilladelse II ved bassinerne. Her skulle der så laves nogle nogle nedsivningstest vi lavede i alt 6 nedtyvendestests i det område her.
+
+00:24:08
+Og og ved de 4 Jeg har sat ring om, havde vi en eksarhus ledelsesevne på på den der 1,8 gange til til 3,3 x 10 meters. Fjerene er der relativt høj kværdi.
+
+00:24:19
+Der er jo så problem ved de 2 Jeg har sat kryds over fordi.
+
+00:24:24
+At der der, da der blev gravet ned til hul til nedsivning var der vand II hullet. Det vil sige der var vand cirka 30 30 cm under terræn, hvilket kom slet som en overraskelse, fordi vi i de her boringer jo havde tørre sandede aflejringer ned til til 3 m under trængende det. Det synes vi jo var lidt underligt at at der jo faktisk stod vand.
+
+00:24:47
+Meget terrænet er et vand i det område her.
+
+00:24:50
+Og vi vi beslutter at lave 3 boringer 1, 2 og 3 II de bassiner her hvor man kan se at boring 2 som ligger II det i det her bassin faktisk har et lille tyndt. Det var ikke decideret lærerlag men Det var nogle Det var et tandlæge med med med nogle lersiger i, som tilsyneladende er er imparmen for ovenover det står der et grundvandsspejl.
+
+00:25:17
+Under det lerlag er der tørresandet aflejringer ned til 5 m. Man kan også se på det, selvom Det er lidt lille, så kan man se at at vandindeholdet falder meget med dybden. Det vil sige at hernede er der tørret sandet aflejringer, som som ved en kornstads giver en kuk værdi på omkring en gang 10 - 4 for for de her 3 boringer eller lidt under og lidt over nogle steder.
+
+00:25:42
+Men altså Vi har det her både sand som som og og det her.
+
+00:25:46
+Lærerlag som som spærre for at at vandet ikke kan komme ned, og Det er jo ikke så godt. Rent bassinmæssigt vil man jo bare kunne grave under det der det det det, det nederlag og og egentlig lave bassin under under det og så infiltrerer II det de tørre sandede aflejringer hernede, så Der er egentlig ikke noget i vejen med placeringen af bassinerne, men.
+
+00:26:11
+Jeg kunne så godt tænke mig at få få lidt få undersøgt hvor hvor.
+
+00:26:15
+Hvor Vi har den problemstilling på på på fladen heroppe om den er om om om Der er andre steder der der Der er den samme problem og der tog jeg så det her duerlegem udstyr igen og og kørte en tur frem og tilbage III den sydlige del af området her og kunne tydeligt se nogle variationer i modstand. Det er de grønne her lave modstandere, de lilla og høje modstandere, så her er der kortlagt.
+
+00:26:40
+Meget terrænnært er der kortlagt relativt lige lave modstand.
+
+00:26:44
+Og det giver mig lidt en ide om at at de her øverste 80 cm vandmættede sandet aflejninger, at de vil give en lavere modstand, så min tolkning Det er at at i det område som jeg nu har markeret med blåt her der der har vi problemer med med med med et med et helt terrænnært vand som står oppe umiddelbart under terræn.
+
+00:27:11
+Og som ikke kan sive ned på grund af at at at at et tyndt lerlag.
+
+00:27:19
+Nu kan man jo se matrikterne her og og og der var jeg så en rød lampe der lyse fordi den her matrikel her den ligger måske ikke helt hensigtsmæssig i forhold til at at at der ifølge den lodsejer der bor hernede også altid står vand om om vinteren på det område her og faktisk også på det område her. Hvad hvad vinter står der vand her?
+
+00:27:41
+Så vi blev sat ud for at for at se, om vi kunne afgrænse det der lerlag her på baggrund af den her analyse her, og vi satte en logger i boring 2 og her kan man se der vi startede monetteringen der var vandspejl 65 cm under terræn hernede det terræn, den blå linje heroppe og man kan se at i forbindelse med nedbør stiger.
+
+00:28:07
+Grundvandsbejaret nu er der en del støj på de her data og det det.
+
+00:28:11
+Det Det er har let at gøre med udluftning af instrumentet, som hvis man kan fortsætte bort fra det strøg så så kan man se, at de her nedbørsevns giver en kraftig stigning, og især kan man se her.
+
+00:28:25
+Jeg tror Det var en 25. maj hvor en hvor en kraftig nedbørssendelse på næsten 20 milimeter resulterer i en måned. Stort set momentan grundvandsstigning i trængende og grundvandet 40 cm.
+
+00:28:37
+Som sagt vil vi jo ud og ud og afgrænse lerlag, og det gjorde vi så dumt nok. Måske den. Det var den 26.
+
+00:28:45
+Maj, vi ville gøre det og og.
+
+00:28:49
+Og og det det der, blev jeg ringet op af ham der var ude og skulle lave boringer. Han sagde det. Det var svært at lave boringerne, fordi der stod vand i hele området.
+
+00:28:58
+Han faktisk i hele det her område stod der stod der vand på terræn, og Det var så umiddelbart efter den her nedbørsten. Vi kan også se loggeren nede ved boring 2 faktisk har et vandspejl der står.
+
+00:29:10
+Lige omkring lidt over terræn faktisk.
+
+00:29:13
+Så det med det gav os en ide om at det med at at at det Det er jo et problem med det med det vand der kommer oppe fra nord Øster det nu hedder vejene også noget som kildevej og kildevænget og og ifølge den lodsejer som boede hernede, så så ligger der en kilde inde i skoven her som som som som hver vinter afstedkommer der der kommer stående vand her.
+
+00:29:39
+Det skal også siges, at topografisk er der også et rigtig stort opland til den strømningsvej her, så den den strømningsvej i forbindelse med nedbørsbegivenheder vil der være en kraftig strømning ned rettet den vej her og faktisk ned mod Vores sporing 2 så man kan se her.
+
+00:29:59
+Det som er situationen. Det er egentlig at at Vi har jo egentlig over 5 m til til til grundvandsbejlet, og så har vi så det her tynde lerlag som på en eller 2 måde danner et et hængende grundvandsspejl oppe i helt terrænnært.
+
+00:30:18
+Fordi vandet ikke kan sive ned igennem det her tynde lerlag.
+
+00:30:26
+Og det der så er blevet konklusionen. Det er at regnvandet kan håndteres lokalt på matriklerne her og skybådsvand skal afledes til 2 bassiner og et overfladevand fra nordøstnus i stedet for.
+
+00:30:40
+I stedet for at ledes udenom.
+
+00:30:44
+Syd om bebyggelsen så bliver det så skal det ledes igennem på igennem den den naturlige strømningsvej her.
+
+00:30:52
+Og så bliver de her 3 matrikler rykket mod syd og den her matrikel ude i går, så vi får en grøn strømningsvej ned igennem her og 3 sydmatrikter der kommer til at ligge nede på det her område her så på den måde.
+
+00:31:08
+Får får vi løst problemet med med med med det helt terende og grundvand ved at ved at få det styret i en i en strømningsvej ned igennem her og og Der er jo egentlig ikke noget II vejen med at lave bassinerne hernede, da Vi har den der relativt tykke og umættede zone under det lerlag af som.
+
+00:31:23
+Som vi bare skal sørge for at komme under.
+
+00:31:28
+For lige at samle op, så så har vi igennem de her 8 år lavet en del gefys kortlægninger med suppleret med bruing og invitationstester.
+
+00:31:40
+For at bidrage med med et vidensgrundlag forud for planlægning af af regn og skybådshåndtering og og og Jeg vil sige II næsten alle tilfælde giver det et rigtig stor værdi.
+
+00:31:51
+Især i det ved det nyudstykning i det åbne land, men også i.
+
+00:31:58
+Inden for for for mere byomdannelse som som det her viser et eksempel på fra fra en byomdannelse II Aarhus hvor hvor hvor informationen fra dual eh også også gav rigtig stor viden kombineret med boringerne og og nedslidningstest omkring hvordan man skulle håndtere regnvand i det her område.
+
+00:32:20
+Og og og Jeg tror også det bliver mere og mere trenden at at håndtering af regnvand skal indtænkes.
+
+00:32:30
+Det bliver en ting tidligere III byudviklingen mellem det skal måske indtænke endnu tidligere, så man ikke som tilfælde ved sejs egentlig placerer nogle nogle matrikler, som var åbenlyst ikke kan ikke kan ikke ville blive gode, så man egentlig prøver at at lave den der håndtering af af regnvand før man egentlig.
+
+00:32:53
+Laver Sådan en decideret byudvikling.
+
+00:32:57
+Og Det er det her med front loading altså at at man egentlig kommer med et vidensgrundlag, som som giver rigtig stor værdi på et meget tidligt tidspunkt. II projektet og egentlig minimerer risikoen for for for dels for ekstra arbejde og dels min mere risikoen for at man kommer til at lave nogle nogle nogle løsninger som ikke er ikke er bæredygtige og ikke er rentableable i.
+
+00:33:22
+Virkeligheden.
+
+00:33:25
+Noget noget jeg godt kunne tænke mig noget. Vi har snakket om her i Rambøll. Det er også hvordan med vi egentlig fantaserer cost benefit af af de her indledende undersøgelser.
+
+00:33:33
+Det er jo relativt billige undersøgelser, Sådan en typisk dag med den udstyr der koster 1 1 1 30.000 spøg uden boringer og implantationstest, men at det giver så stor.
+
+00:33:47
+Nytte eller så stor.
+
+00:33:50
+Hvad hedder det viden at at at at at det det.
+
+00:33:58
+Idet den bliver udført, bliver den måske tit opfattet som ekstraudgift, men men at det faktisk er noget, der der, der betaler sig i det lange løb og har lavet sine sine forundersøgelser og grundigt og ikke kun basere sine sin planlægning ud fra eksisterende data, som jo alle sammen er af screeningsdata og ikke.
+
+00:34:18
+Skal bruges på på matrikelniveau. Senest så jeg lige at at nu her det her hip grundsandelspejl også indgår III det som din Georg lægger op på på på deres hjemmeside. Og igen der går man ned på matrikelniveau og siger hvad grundvandsbejlet er på en enkelt matrikel og det det.
+
+00:34:40
+Det mener jeg ikke at datagrundlaget retfærdiggør.
+
+00:34:43
+Der skal nogle mere deter undersøgelse til.
+
+00:34:47
+Så Det er egentlig min pointe at at hellere gøre det de her undersøgelser så tidligt som muligt, som man kan drage nytte af dem så tidligt som muligt. III udviklingen.
+
+00:34:59
+Jeg tror Det var det jeg havde at sige theis.
+
+00:35:04
+1000 tak skal du have.
+
+00:35:08
+Peter har du lige mod for mudger Der er noget yes 1000 tak for for for en rigtig god opvarmning. Rigtig, rigtig spændende. Hvad hedder det?
+
+00:35:17
+Selvfølgelig folk hvis i har lyst til at stille spørgsmål til Peter, så skriv i dem ude i chatten så skal vi så skal Christoffer og jeg nok sørge for at de kommer med Jeg har lige Jeg har et par spørgsmål.
+
+00:35:29
+Som som du også har vist i dine eksempler her, så så viser det sig jo næsten altid i forhold til de gængse datatyper man har.
+
+00:35:35
+Jordretskort du har nævnt hip nogle gange blandt andet at at geologien er er dermed også hydrologien. Typisk er meget mere kompleks end man lige umiddelbart troede hvordan hvad hvad tænker du du nævnte lige kort det der med at man skal nok passe på med at at at bruge de her?
+
+00:35:55
+Overordnede kort Sådan hvad skal man sige for meget, og hvor meget skal man tro på dem er, er der nogen? Er der nogen nogen tænker, er der nogen områder i landet, hvor i kan sige der der Der er der?
+
+00:36:07
+Mere variation i geologien hydrologien end andre steder i landet, altså hvor hvor ser i de største overraskelser, når i laver de her detaljerede kortlægninger?
+
+00:36:15
+Faktisk så så har vi lavet en del kortlægger også forsøg hvor kommuner også hvor hvor man har meget sandet aflejringer og og en en grund til at at vi måske i første omgang ikke lavede de her geofysiske undersøgelser ved ved seis. Det er at i ude i det område er der traditionelt tørre sandhed aflejende til stor dybde.
+
+00:36:35
+Så så så normalt er der ikke noget der vil overraske kommunen i det område.
+
+00:36:42
+Så så Der er selvfølgelig områder hvor hvor hvor man kan forvente en lidt mere homogen geologi end end end andre områder. Men igen.
+
+00:36:53
+Der der der kan være ting alle steder. Jeg Jeg vil ikke sige at der der Der er områder hvor hvor hvor det ikke vil give et.
+
+00:37:02
+1 1 1 supplerende og meget værdifuldt datagrundlag som.
+
+00:37:07
+Som detaljeret de de, for eksempel jordskorte som er meget screeningsbaseret. Jo.
+
+00:37:15
+Så selvfølgelig er det. Vi går jo også altid ind og ser om om Det er noget Vi skal anbefale eller ikke skal anbefale. Og som regel så så så så giver det en værdi at lave de her geofyske forundersøgelser.
+
+00:37:29
+Tak for tak for svaret Peter. Nu kan jeg også se at man kan sige nogen nu. Nu er det selvfølgelig primært møntet hen mod klimatilpasning.
+
+00:37:37
+Kan i se kan i se andre muligheder? Du nævnte også lige kort at i er i gang med at lave Sådan en cost benefitanal analyse for eksempel ved at lave geofysik kunne der være kunne der være noget værdi at hente inden for eksempel geo teknik eller indenfor andre områder.
+
+00:37:50
+Hvor snakker man om er mere og mere omkring jordvarme og etablering af jordvarme anlæg og det. Og de er jo også meget afhængige af effekten af dem er jo også afhængige af af den terræn og lagsæde, så så det så der kan de her undersøgelser også give et rigtig godt.
+
+00:38:09
+Datagrundlag for at kunne vurdere om om om det vil være et område, hvor man kunne inkludere jordvarme, terrænet jordvarme II.
+
+00:38:18
+II løsningerne.
+
+00:38:24
+Nu er det meget op med det her CO 2 binding for landbruget også tilbageholdelse af CO 2, hvor man går ud på de kulstoffoldige jorde og undersøger dem her ved Sådan en undersøgelse. Også bidrage med med med mere meget mere detterede datagrundlag, end end man kan opnå på baggrund af screeningsdata.
+
+00:38:46
+Ja altså det du egentlig siger, Det er den her detaljerede kortlægning. Det den kan egentlig den kan egentlig. Hvad skal man sige resultere i en meget langt bedre bæredygtig ressourcehåndtering af de røde.
+
+00:38:59
+Så her her i slutteligt, så kunne jeg godt tænke mig at nu har du du nævnte nogle af de værktøjer der var i jeres tool box? Er der noget nyt på vej? Er der nogle nye værktøjer?
+
+00:39:09
+Er der noget nyt teknologi som som som er står på spring? Er der noget hvor du tænker det det?
+
+00:39:15
+Det mangler vi, eller det kunne vi det, der kunne vi godt udvikle noget mere.
+
+00:39:18
+Altså vi vi undersøger hele tiden markedet og holder os hele tiden massure med hvad der, hvad der findes af ting. Og Vi har jo også i traditionelt brugt georater i høj grad til indenfor geoteknik og egentlig.
+
+00:39:33
+Introduceret i den her adurlegemet metode, fordi vi faktisk manglede 1 1 1 metode til til deteret kortlægning af de øverste 3 5 m.
+
+00:39:42
+Så de sidste år er der jo selvfølgelig udviklet også fra med med den her teammetode, som som jo også går for at være meget deter, men men men men den er ikke anvendelig på de her små hektars.
+
+00:39:58
+Niveau kortlægninger, der der da den bliver mere forstyrret over for elektrisk ledere og ikke har den opløsning oppe i toppen som som som som Vi har her med med med t metoden får man så noget noget dybere kortlægning så som selvfølgelig og det ser som kan være godt i forbindelse med.
+
+00:40:16
+Med etablering af nye kildepladser eller indenfor vandforsyningen. Men lige på de her klima relaterede opgaver og håndtering af regnvand.
+
+00:40:26
+Kan jeg ikke se at at Vi har noget og og vi holder selvfølgelig det her durlegemudstyr det det. Det er et canadisk baseret udstyr de de sælger flere og flere af dem.
+
+00:40:37
+Der kommer større og større interesse rundt omkring i verden, fordi det Det er et større og større problem. Det her med håndtering af af af regnvand.
+
+00:40:45
+Så Det er noget, Der er et stort marked i og og kortlægge den terrænende lagsag.
+
+00:40:53
+Men selvfølgelig holder vi os jo altid ajour med hvad der, hvad der findes og.
+
+00:40:57
+Og Der er jo også forskellige udviklinger på veje dronebaserede løsninger, som som er i støbeskeen og Sådan noget, som vi må jo se hvad hvad der kommer det gode ved det her udstyr. Det er jo, at Vi har det så tæt på jorden, og derfor får vi så faktisk en rimelig god datakvalitet ud af det også.
+
+00:41:15
+1000 tak for svaret Peter herstigt. Så hvis der ikke er nogen andre der har spørgsmål, så tror jeg stille og roligt. Vi lukker ned Peter har du noget her til sidst du du mangler at at fortælle eller sige?
+
+00:41:28
+Nej.
+
+00:41:32
+Jeg er altid velkommen til at ringe til mig og og høre, hvor vi lige præcis har været inden for kommunemæssigt. I ikke lige er opmærksom på det, så kan jeg jo tage kortet frem og vise jer, hvor vi Vi har været og fortælle lidt om de kortlægninger Vi har lavet i de enkelte kommuner.
+
+00:41:46
+Så.
+
+00:41:47
+Super jamen 1000 tak Peter tak for en rigtig spændende præsentation, så på vegne af dalen NK og Kristoffer sindby og mig selv theis rask Andersen, så vil vi gerne sige tak til til Peter og til alle deltagerne for den her rigtig spændende tiktok. Og som sagt der går lige en lille uges tid, så kan i finde den på på Vores hjemmeside.
+
+00:42:07
+Hej hej.
+
+00:42:08
+Hej hej.
+

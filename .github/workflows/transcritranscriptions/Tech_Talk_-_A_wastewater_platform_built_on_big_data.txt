@@ -1,0 +1,621 @@
+00:00:05
+Kære alle velkommen til dagens DNNDNNK tektk Jeg er Kristoffer sindby fra OK Nygaard og i teknikken har vi Morten herling fra DNNK siddende.
+
+00:00:18
+Vi har et super spændende oplæg i dag fra carify omkring en spildevandsplatform, som Søren vil komme meget mere ind på. Jeg skal sige, at oplægget varer cirka 30 minutter og efter oplægget så kan i stille spørgsmål i chatten, og i er meget velkomne til også at stille spørgsmål undervejs i chatten, så tager vi dem op med Søren til slut, og når klokken slår 13, så er vi færdige med dagens tektok og jeg skal huske at oplyse om at tektolken bliver optaget.
+
+00:00:49
+Så Søren 1000 tak fordi du ville komme, og så vil jeg lade præsentationen af dig selv ligge hos dig så værsgo.
+
+00:00:57
+1000 tak for det.
+
+00:00:59
+Kristoffer og tak til dig Morten også og velkommen til allesammen. Jeg er meget glad for at få lov til at at at sige lidt om hvad Det er hvad Det er for en platform i har bygget og hvad Det er vi laver i exerify i dag.
+
+00:01:14
+Ja og som kommer Thomas siger i er meget velkomne til at spille spørgsmål i chatten, og så samler vi op på dem bagefter.
+
+00:01:20
+Og jeg håber i allesammen kan se min skærm hvor der så er waste waterplatform build on big dater.
+
+00:01:26
+Den går igennem.
+
+00:01:27
+Det er godt.
+
+00:01:30
+Så det Jeg har tænkt, vi skulle i dag. Det var først en lille kort introduktion og baggrund til hvem Jeg er og hvad baggrunden er for det vi laver, så kunne jeg godt tænke mig at forklare jer om, hvad Det er Vores platform den kan.
+
+00:01:43
+Så har jeg tænkt, Vi skal måske lidt på platformen, så laver jeg en kort demo af den og så ganske kort beskriver jeg Sådan hvad Der er Vores hvad Der er Vores næste skridt, og så skulle der gerne være tid til til noget q og a bagefter.
+
+00:01:56
+Yes.
+
+00:01:58
+Som sagt, jeg hedder Søren Schou. Jeg er c founder og administrerende direktør i virksomheden clarife, inden vi kommer alt for langt i gang med med selve oplægget, så vil jeg lige sige på en personlig note, at jeg stammer, så vil jeg starte en en kort pause i min tale nu, så ved II hvert fald hvorfor nu er.
+
+00:02:18
+Og.
+
+00:02:20
+Det som hedder carriffy i dag. Det startede som en ide i mit hoved for for for godt og vel 3 år siden.
+
+00:02:27
+Jeg har en lang baggrund som som managementkonsulent. Jeg har arbejdet meget.
+
+00:02:33
+Med med det man kan kalde clean tech eller Green tex. Og Sådan dybest set.
+
+00:02:38
+Altså dybest set ingeniørløsninger på miljøproblemer arbejdet meget med forretningsmodelsdesign og gående markedsstrategi og og kommerciel strategi for den slags løsninger.
+
+00:02:50
+Og mens jeg gjorde det, da jeg var hos Deloitte, så så faldt jeg over det faktum, at hvis ens virksomhed lever af at løse miljøproblemer, så er data og miljøproblemer. Det er jo i virkeligheden ens markedsdata og.
+
+00:03:05
+Og miljømyndighederne, ikke bare i Danmark, men andre steder.
+
+00:03:09
+Stiller relativt meget data om miljøproblemer og forurening.
+
+00:03:15
+Offentligt til rådighed.
+
+00:03:16
+Og så tænkte jeg der må være der må være noget værdi II at i at gøre det her kommercielle potentiale lidt mere let tilgængeligt, så man kan sige Det er Sådan Det er Sådan rammen om det vi gør. Det er at sige, kan man bruge den her Sådan eksploderende mængde af offentligt tilgængelig data om forurening, kan man bruge den til noget spændende kommercielt, og Det er så det Vi har Vi har. Vi har kastet os over her.
+
+00:03:42
+Og så kan jeg sige, at vi at vi Vi har været relativt langt omkring i Vores i Vores afprøvning af, hvad det hvad det så er. Man kan med noget af det her data Vi har. Vi har set nærmere på ret mange forskellige slags data.
+
+00:03:55
+Det vi endte med nu her. Det er en spildevandsdata platform.
+
+00:03:59
+Og det vi udnytter, Det er at.
+
+00:04:02
+EU pålægger de enkelte medlemslande og dels indsamling, men også stille, men også tilgængeligt relativt meget data om hvad man vil kunne kalde industriel forurening herunder spildevand. Det er blandt andet det, der hedder.
+
+00:04:19
+European prutionen, European prution release and trans regeswee eller EPRTR Det er spildevandsdirektivet.
+
+00:04:27
+Og Det er industrial emmissions directive som hvor der serverer serverer de her direktiver er der en er der en forpligtelse for medlemsstaterne til at gøre en hel masse data omkring omkring spildevand, gøre det offentligt tilgængeligt, så det vil sige at Der er detaljeret information omkring spildevandet fra tusindvis af.
+
+00:04:52
+Af det vi kan kalde os en industrielle faciliteter som også som også.
+
+00:04:57
+Indbefatter, os.
+
+00:05:00
+Spildevandsrens rensningsanlæg.
+
+00:05:02
+Som er offentligt tilgængeligt, og Der er en lignende, Der er en lignende ordning IUSA. Der er også noget lignende i Canada og nogle andre OCD lande, men men altså primært Nordamerika og Europa.
+
+00:05:18
+Så Det er ligesom baggrunden for det Vi har givet os i kaste med her.
+
+00:05:23
+Ud over det her udover det her regulatoriske data, så bruger vi også nogle andre former for offentligt tilgængelig data herunder først og fremmest satellitbilleder, hvor her der har jeg taget fat i.
+
+00:05:36
+Et stort rensningsanlæg i New York IUSA. Og hvor når man når man ligesom ser på det her oppefra, så tænkte vi i hvert fald. Der er nogle af de her strukturer, dem må man kunne.
+
+00:05:46
+Dem må man kunne genkende eller for en algoritme til at genkende.
+
+00:05:49
+Så Vi har også leget lidt med at sige, hvordan kan man så bruge den information man har af at se anlægget oppefra? Hvordan kan man bruge den til at til yderligere tilføje information omkring hvert enkelt anlæg? Det kommer vi lidt mere tilbage til senere, så dybest set, så siger vi.
+
+00:06:06
+Al den data der Sådan er offentligt tilgængeligt omkring industriel forurening. Kan vi samle den i et overblik, kan vi gøre den let tilgængeligt?
+
+00:06:13
+Så Det er ligesom.
+
+00:06:16
+Indflyvningen fra den Sådan hvad er ideen bag det siden? Men nu vil jeg gerne præsentere hvad er så? Hvad er så løsningen her?
+
+00:06:27
+Hos, clory fie der.
+
+00:06:31
+Der kan vi godt lide at sige, at vi giver klar data og uklart vand eller clear data.
+
+00:06:37
+Un fare water.
+
+00:06:41
+Vores kunder er.
+
+00:06:47
+Er spildevands løsningsproducenterne, så dem, der producerer rensningsanlæg og sensorer og andet udstyr til at behandle spildevand fra industrielle og offentlige anlæg.
+
+00:06:57
+Mere specifikt så er så er Vores hoved Vores hoved kundegruppe, salgs og marketing teamsnem hos hos de her spildevandsløsningsproducenter.
+
+00:07:09
+Som Vi har personificeret ved Susan?
+
+00:07:13
+Susan's job det indebærer at identificere leeds, hvilket er en tidskrævende proces at at finde ud af, at i Sådan særligt gode leeds kræver er.
+
+00:07:25
+Svært fordi at den detaljerede spildevandsstation Susan skal bruge for at gøre det. Den er ikke let tilgængelig, og Det er her, claraify kommer ind i billedet, så vi tager data fra denne verdens fra denne verdens miljøstyrelser. USIPA tyske omvendt bundte samt den danske miljøstyrelse og så videre.
+
+00:07:42
+Data omkring omkring miljøtilladelser og.
+
+00:07:47
+Indrapporteringer og bioations commering med andre datakilder og gør det hele let tilgængeligt i Vores spildevands marketingsplatform.
+
+00:07:58
+Det er Vores platform gør muligt. Det er at at kortlægge og analysere.
+
+00:08:05
+Og spildevandsproblematikker på et facilitetsniveau og en facilitet. Her er så den enkelte fabrik eller spildevandsanlæg, eller hvad det nu måtte måtte måtte være.
+
+00:08:14
+Så Vi har bygget et et Sådan avanceret filter og en søgemulighed, der kan søge på de her omkring 100.000 faciliteter, Vi har.
+
+00:08:22
+Man kan så enten kigge nærmere på faciliteten på.
+
+00:08:27
+På Vores webplatform, eller man kan downloade eller man kan downloade eller man kan downloade.
+
+00:08:33
+En liste over de faciliteter man gerne vil se nærmere på, og Der er så data om hvad er det for nogle for nogle disch chices de har? Hvad er det for nogle pyrams de har og holder de sig indenfor de her pyrames?
+
+00:08:49
+For eksempel, så kunne det være, hvis nu vi gerne ville se på Sådan, hvem har hvem har?
+
+00:08:56
+Hvem udleder krom, så kan vi søge på krom i det her tilfælde for USA for den her liste på 1073 basilia set ud som man så kan Sådan se nærmere på, så Det er en måde Sådan relativt hurtigt at få sagt det Sådan. Hvem har en spildevandstrøm og måske nogle andre karakteristika der Sådan svarer til det Vi er på udkig efter?
+
+00:09:17
+Den her feature jeg viser jer lige bagefter teamet. Det består af mig og Vores tekniske direktør Martin.
+
+00:09:24
+Og.
+
+00:09:27
+2 Det er designtest og så en designer, og så er vi godt hjulpet af Vores af Vores advisory board.
+
+00:09:35
+Som som har dybe kompetencer indenfor både spildevand og fra detsmodeller forretningsmodelsmodeller baseret på miljødata og det at bygge data platforms.
+
+00:09:50
+Vores forretningsmodel Det er Det er altså service solgt som et abonnement.
+
+00:09:55
+Vi anslår, at Der er Sådan en 5 10.000 mulige kunder for os.
+
+00:10:00
+Globalt, men hvis Vi skal ikke nødvendigvis bruge alt for mange af dem for at det, at Det kan løbe rundt.
+
+00:10:08
+Inden vi gik så langt som til at bygge selve platformen, så har vi lavet Sådan 7 pilot salg hvor hvor vi hvor vi Sådan dybest set bare har har har solgt dataet uden at Det var igennem platform så dybest set bare solgt solgt.
+
+00:10:21
+Solgt det data Vi har. Vi har Sådan fået ud af af databasserne, og så lancerede vi så platformen den 4. september, og så har vi så fået 2 betalende kunder om bord siden da, så Det er Det er II den grad early days det her kan man sige.
+
+00:10:36
+Og som man ser fra udtalelsen fra.
+
+00:10:39
+Vores kunde emma fra den britiske producent af spildevandsrensningsudstyr arvia til nogetdy, så er det især tidsbesparelser.
+
+00:10:48
+Og kvaliteten af lead, som hun peger på, som som værdiskabelsen af Vores ydelser.
+
+00:10:56
+Vi lancerede som sagt med 4. September og siden da der har vi været ret fokuseret på at at komme afsted til både webtek og aqua tech 2 store vanteknologi messer IUSAI oktober og i Amsterdam i går i forgårs for at få talt med en helt masse mulige kunder og og Sådan få et indtryk af hvem kunne være interesseret i at købe det her, og hvad er det så for noget data Vi skal prioritere for at gøre det spændende for endnu flere?
+
+00:11:24
+Og så tænker jeg egentlig, vi lige kunne vi lige kunne se lidt på selve platformen.
+
+00:11:30
+Hvis nu vi gør Sådan der.
+
+00:11:33
+Ind.
+
+00:11:35
+Og jeg håber inderligt, at jeg stadigvæk deler min skærm, hvor der nu er Vores plantic page her, men det tror jeg jeg.
+
+00:11:42
+Vil gøre det, gør du?
+
+00:11:43
+Når du hører.
+
+00:11:45
+Her er Vores her er Vores landing page. Man kan putte en demo man kan hoppe på Vores freetriet heroppe, eller man kan åbne platformen, hvis man som mig er så heldig at have et login til den.
+
+00:11:59
+Vi skal lige have den med her.
+
+00:12:05
+Der kommer man så ind til Vores ind.
+
+00:12:10
+Ind til Vores explorer funktionalitet her som dybest set består af nogle Sådan søgemuligheder. Nogle søgemuligheder herude i nogle filtre og så et display af af de virksomheder, der Sådan falder under det lige nu har vi ikke søgt på noget, så der kan man se alle 100.000 faciliteter, så hvis du for eksempel at vi sagde, vi vil gerne se på, jeg vælger det IUSA her, vi vil gerne søge på.
+
+00:12:34
+Anlæg i penicill bania.
+
+00:12:36
+Så siger du dem er der 4000 dem er der 4500 af hvis så vi sagde vi ville gerne specificere at industrien skulle være. Jeg finder lige sauits Prince her.
+
+00:12:51
+Så får vi de her 1700.
+
+00:12:54
+Og så kunne det være jeg også ville sige, udover at jeg gerne vil specificere hvad Det er for en industri, så vil jeg gerne se på dem, som jeg ved udleder.
+
+00:13:04
+Organisk stof så jeg skriver BHD her.
+
+00:13:09
+Dem dem melder så 721 tilbage, og så kunne det også være at jeg gerne ville sige Sådan. Hvem har en? Hvem har egentlig overtrådt deres overtrådt deres permit på PHD.
+
+00:13:21
+Så kan jeg søge på Sådan forskellige former for for byations her og så få få de her 72 faciliteter frem.
+
+00:13:30
+Jeg kan enten.
+
+00:13:33
+Og så kan jeg vælge dem her og så eksportere dem og få dem ud i et XL format.
+
+00:13:38
+Jeg kan også kigge nærmere på en af dem. Lad os måske prøve at se på den her fridonia borrow, så åbner den en detaljeside her. Så kan jeg se.
+
+00:13:50
+CSC selve spildevandsanlægget her på et satellitbillede, og Jeg kan se Sådan hvad er dens? Hvad er de forskellige limons den har?
+
+00:14:01
+Kan jeg så se nærmere på her?
+
+00:14:06
+I må lige her må undskylde 10 sekunder, for Jeg kan se Jeg har fået notifikationer om hvad der ikke er ret meget mere stolt tilbage på min bærbare.
+
+00:14:14
+Det fikser vi lige.
+
+00:14:16
+Hellere få lidt i så kan jeg sige mens jeg husker i er velkommen til at stille spørgsmål i chatten, mens Søren forklarer, hvis Der er noget der skulle dukke op undervejs, og så ser det ud til at Der er strøm på igen der.
+
+00:14:28
+Er strøm på igen. Det er vigtigt.
+
+00:14:32
+Yes så kunne det også være at vi skulle lad mig lige se her lige Sådan vil jeg gøre vi sætter pelter.
+
+00:14:42
+Vision i stars.
+
+00:14:46
+Der.
+
+00:14:48
+Så kunne det også for for nogle af de her.
+
+00:14:52
+Nogle af de her faciliteter, der har vi der har vi ret destillerede data på, hvad de gør med deres med deres Sådan toksiske affald, så man kan Sådan for eksempel se på det her anlæg her, som som producerer 4 ejms, så kan man se på de har så de har så III 2021 omkring 50.000 pund.
+
+00:15:18
+Managende vis comphones.
+
+00:15:20
+Og så kan man så bryde ned her og sige, hvad har de egentlig gjort med dem her? Vi har som de fleste af dem offsidetes offside til TV side-kling og noget af det offside til dis spossal. Så for nogle af de her affaldsdrømme, Der er der relativt detaljerede data på hvad det så er, de har hvad Det er de har gjort med det.
+
+00:15:41
+Så talte vi om, før at vi at vi udover at bruge det her det her det her regulatoriske data, at vi så også har set lidt nærmere på.
+
+00:15:53
+På på satellitbillederne her. Der har vi bygget en algoritme, der kan se på, der kan se pointen. Det vi kalder set link tanks eller claraifieres eller bundfilstanke, tanke, spildevandsprocestanke og køletårne.
+
+00:16:08
+Så hvis du for eksempel jeg siger, Jeg vil gerne se på de.
+
+00:16:13
+Anlæg, der har køletårne her.
+
+00:16:17
+I lad os bare sige i alderdom.
+
+00:16:23
+Så kan jeg gå ind på.
+
+00:16:25
+Hovsa.
+
+00:16:27
+Den her for eksempel.
+
+00:16:29
+Kig på den.
+
+00:16:31
+Og så sige OK jamen den der har Vores algoritme så sagt den her køletårne her. Vores algoritme har sagt den har 14 køletårne. Det er så dem Der er her.
+
+00:16:39
+Den har også sagt at Der er en sætning tank som er den hernede.
+
+00:16:47
+Altså på den måde kan man ligesom bruge den algoritme til at sige noget mere om. Hvad er det så, hvordan Sådan noget infrastrukturen på det her enkelte site ud?
+
+00:16:56
+Og det.
+
+00:16:58
+Det er noget, vi arbejder på, og Sådan sige er der. Er der flere ting, vi kunne. Vi ville kunne genkende oppe fra en køletårnene, bundfældningstanke og.
+
+00:17:08
+Og spildevandsproce tanke.
+
+00:17:12
+Ja.
+
+00:17:15
+Og.
+
+00:17:19
+Så tror jeg egentlig, at vi gemmer den her for nu, og så lader.
+
+00:17:23
+Og så kan vi, hvis Der er nogen, der har nogen nogen Sådan ting vi Sådan særligt gerne vil kigge på, så kunne vi så kunne vi nærmere på det. For eksempel en ting vil jeg lige sige. Det er at vi Vi har Sådan bygget relativt Sådan forringet industrifilter her, så man ligesom kunne søge på, hvis du for eksempel man gerne ville vide noget om nogen der.
+
+00:17:43
+Lavede fjerkræ.
+
+00:17:45
+Fjerkræ processing her, så ville man kunne se på noget.
+
+00:17:48
+Pulty and exproduction Vi skal lige have fjernet det med køletårnet her og så finde ud af hvad. Hvad er det så for nogle? Hvad er det så for nogle anlæg her?
+
+00:17:58
+Yes.
+
+00:18:00
+Jeg tror lige vi hopper tilbage til powerpointen her.
+
+00:18:06
+Godt.
+
+00:18:07
+Og.
+
+00:18:11
+Lige nu, så er vi så er vi ret, så har vi været ret optaget af Sådan at komme afsted.
+
+00:18:17
+Til nogle messer wft tech og aquapotech. Vi skal afsted igen til maj til til i fart i München.
+
+00:18:24
+Og er lige nu i gang med at Sådan med at Sådan onble pilot kunder til det vi kalder.
+
+00:18:31
+Et synspunkt abonnement hvor hvor at Sådan fokus er på, at vi Sådan udvikler.
+
+00:18:38
+Mens vi.
+
+00:18:40
+Mens vi leverer, fordi Vi er, vi føler os overbeviste, om Vi har noget data, som er interessant, men men Sådan de præcise tværsnit, der skal bruges på det her data. Der er vi ikke sikker på, at vi ligesom har ramt dem alle sammen endnu, så Det er.
+
+00:18:54
+Der er vi Der er vi, Der er det i hvert fald Vores indstilling, at vi ligesom skal have nogle kunder på her, og så må vi.
+
+00:19:01
+Så må vi, så må vi Sådan sørge for at betjene dem godt. Sådan så så at selv hvis nu at at Vores frontend den ikke kunne levere lige præcis det i havde brug for, så ja, så må vi så gøre det manuelt den første gang og så bruge den information til at prioritere hvad Det er for nogle features Vi skal have bygget på Vores platform, så Det er det. Det er den måde vi ligesom går går til det på nu her.
+
+00:19:28
+Jeg tror egentlig at Jeg tror måske, at Jeg er kommet lidt hurtigere igennem det her end end der lige var var afsat tid til, men.
+
+00:19:43
+Men jeg håber at det gav, at det gav nogenlunde mening, og så tænkte jeg så er der så er der. Så er der god tid til at stille spørgsmål.
+
+00:19:51
+Det er super Søren. Jeg har et spørgsmål til dig og først og fremmest tak for præsentationen og.
+
+00:20:00
+En en gennemgang af hvad platformen kan.
+
+00:20:04
+Et spørgsmål til dig lidt når jeg sidder fra min side af, så siger du også selv at Det er meget til leverandører til forsyningsselskaber.
+
+00:20:11
+Er der en måde, hvor at forsyningsselskaberne kan drage nytte af den viden, der ligger, kan de eventuelt trække erfaringer, hvis de selv står med en udfordring, de skal løse på, hvilke leverandører der har løst det for andre. Eller har du andre ting, hvor at det vil give mening for forsyningerne og kigge i dataen?
+
+00:20:30
+Altså man kan sige det meste af det data Vi har. Det er jo noget forsyningen selv har indrapporteret så så så så derfor så så på den måde vil det nok ikke tilføre så meget med de direkte til dem.
+
+00:20:40
+Men man kan sige at en gang, når det ligesom lykkes os at få at få mange udstyrsleverandører på, så er det muligt. Vi ligesom kunne bygge en 2 side af den her platform, hvor at dem der har problemet også kunne finde dem der havde løsningerne lige nu, så er det.
+
+00:20:57
+Så er det så er det så er det.
+
+00:21:00
+Er det kun den 2 vej?
+
+00:21:03
+Ja der kommer også et spørgsmål her fra Malene.
+
+00:21:06
+Kamstrup kan du komme med nogle eksempler på dit tværgående data, for eksempel hvad indeholder det renset spildevand i Danmark?
+
+00:21:16
+Jamen lene kan du kan du sige kan du sige ja du mener med et tværgående data.
+
+00:21:23
+Der kan man egentlig lige få tid til lige at skrive et ekstra spørgsmål, og det må alle de andre også meget meget gerne stille spørgsmål herude, så kan Søren helt sikkert vise hvordan det fungerer.
+
+00:21:35
+Og gå tilbage til platformen.
+
+00:21:40
+Mace det.
+
+00:21:41
+Så man kan sige Sådan at at at at det Der er pointen med den, Det er at man kan se hvad hvad er den enkelte, hvad er det enkelte anlæg, hvilket nogle hvilket nogle pyramands har det? Hvilket noget spildevand må den udlede og så rapportering på hvad den så rent faktisk udleder, for eksempel hvor meget hvor meget organisk stof, hvor meget kvælstof.
+
+00:22:05
+Yes lige præcis ja bingo. Det er lige præcis det Der er tanken her.
+
+00:22:09
+Altså at at at Vi har de her selv rapporterede data, som vi jo ofte er på kvælstof og fosfor, organisk stof og tubeviditet og alle mulige andre ting og sager.
+
+00:22:23
+Det kan vi da lige finde.
+
+00:22:24
+Jeg skulle lige til at sige om du kunne vise.
+
+00:22:27
+Yes vi fjerner lige de her filtrer.
+
+00:22:31
+Velkommen til at skrive i chatten, hvis Der er noget i vil have vist eller yderligere set.
+
+00:22:41
+Hvis nu vi vælger at spildevandsanlæg her.
+
+00:22:44
+Så ville vi lad os bare tage den her rollen city.
+
+00:22:57
+Yes så man kan se det her. Det er så et eksempel fra USA, hvor at Der er altså at Der er så limit value på mange af de her parametre Der er BOD Der er en trit Der er disse solidge Der er BHD og så videre og så videre og Der er en limit value i den her kolonne og så er der så en reported value her og så er der så alle og så er der så alle den her specifikation af om Det er milligram polititter eller hvad enheden er og hvad det så er for en beskrivelse af det her.
+
+00:23:24
+Så kan man se her. Der er der mange af dem her, hvor at de så de så ikke har indrapporteret på mange af de her mange af limstiven de skulle have det ja.
+
+00:23:33
+Der kom der kommer lige et chat om i stedet for USA, om du kan vise fra Danmark af står der i chatten eller Danmark i Europa bliver der spurgt i, om Det er en mulighed.
+
+00:23:43
+Jamen Det er et godt spørgsmål, fordi lige nu så.
+
+00:23:49
+Har vi altså Vi har anlæggene.
+
+00:23:52
+For Danmark skal i lige prøve at finde.
+
+00:23:55
+Danmark her.
+
+00:23:57
+Men at få det her. Sådan detaljerede niveau på at indrapportering Det er. Det er noget vi gør for for Europa nu her, så Det er ikke Det er ikke Det er ikke noget Vi har på platformen.
+
+00:24:09
+Nu er det noget, vi kommer til at få i løbet af de næste 2 eller 3 måneder.
+
+00:24:13
+Og nu bare være for nu, bare være transparent, så Der er de her 2100 anlæg i Danmark.
+
+00:24:19
+Hvor Der er. Vi kan prøve at søge på.
+
+00:24:24
+Do it igen her.
+
+00:24:34
+Suit Street man facet så Der er en masse renseanlæg her, hvor vi, men indtil videre har vi kun hentet stamdata ind på dem, så Vi har ikke de her Sådan detaljerede.
+
+00:24:44
+For eksempel gennemsnit af n og PI menu i hvilket par liter, men Det er vi som sagt ved at bygge, så det vil det vil vi meget gerne tale os ved om om sol og 3 måneder.
+
+00:24:54
+Så Det er noget af det i er ved at bygge. Er der noget af det som?
+
+00:24:58
+Nu tænker Jeg er der nogle forsyninger der også sidder med og lytter med nu? Her er der noget af det, som der kunne være interessant at snakke med dem om i forhold til opsamling og få den data ind på jeres platform eller noget i har behov for den 2.
+
+00:25:08
+Vej eller at Jeg tror, at at Sådan det vi jo nyder godt af. Det er jo at at meget af det her data, det skal man.
+
+00:25:18
+Det det det skal man rapportere og så den og så og så den rapportering så offentligt tilgængelig.
+
+00:25:23
+Og og, og det gør jo så, at vi kan, at vi kan nøjes med at Sådan falde igennem det data, som Miljøstyrelsen har frem for at skulle have.
+
+00:25:33
+Aftaler med det enkelte anlæg, hvilket hvilket ville ville gøre det mere komplekst, kan man sige.
+
+00:25:38
+Ja.
+
+00:25:42
+Super.
+
+00:25:45
+Har du noget fra Europa af eller er det mest USA eller Europa? Det er det samme, hvor i er i gang nu her.
+
+00:25:51
+Det er det Vi er i gang med nu her, så Vi har stamdata på mange europæiske faciliteter men. Men Vi har kun de her Sådan detaljer på de amerikanske, men Det er Det er ligesom ud. Det er ligesom udviklingsprojektet, for for de næste polar 3 måneder.
+
+00:26:05
+Så er der noget at følge op på. Det er der stenene og Malene der har spurgt netop om de her europæiske data. Jeg tænker bare lige jeg ville stille spørgsmål ud om Det er noget.
+
+00:26:13
+Og særligt II kan bruge det til at at se i forhold til og så til at andre. Så kan i også skrive spørgsmål, fordi ellers så er vi ved at være ved vejs ende, hvis der ikke kommer flere spørgsmål mål ind. Men jeg tænker det kunne være interessant for dig Søren at høre hvad dataen kan bruges til for jer der lytter med.
+
+00:26:47
+Mens vi ser om der lige kommer et enkelt spørgsmål eller 2 ind her til sidst, så vil jeg huske alle på at denne tekttog bliver optaget og vil blive lagt på DNN ks hjemmeside i løbet af næste uge og inde på DNN ks hjemmeside vil i også kunne se de kommende arrangementer og tektolks.
+
+00:27:08
+Som kommer over den næste stykke tid.
+
+00:27:11
+Og Søren Jeg kan se jeg får ikke flere ting ind i chatten. Det kan du også godt se kan jeg se.
+
+00:27:17
+Ja, så hvis i tak for en meget meget interessant techtalk og den har jo lagt op til at den helt sikkert kommer til at skulle have en opfølgning, når vi begynder at kunne kigge på de danske og de europæiske tal i forhold til dataen.
+
+00:27:34
+Og Der er jo en. Kunne jeg forestille mig en del data der skal lægges ind og.
+
+00:27:39
+Proceseres for jeres del af.
+
+00:27:42
+Yes, så Vi har ligesom Vi har ligesom valgt at at sige kan vi få, kan vi få prøve ud relativt hurtigt der så har lidt snævrere geografisk fokus og så og så ligesom lærer af hvad vi får af input på hvilke nogle features der skal være samtidig med at at vi så ruller ruller ruller de europæiske lande på.
+
+00:28:02
+Super.
+
+00:28:04
+Men det så vil jeg sige 1000 tak for dit indlæg og tak til alle jer der lyttede med og husk at i kan se det på hjemmesiden i næste uge.
+
+00:28:17
+Også tak for mig. Tak fordi at at i lyttede med, og hvis i skulle have yderligere spørgsmål eller at Der er andre ting som som vi kan hjælpe jer med, så er min kontaktinformationer her.
+
+00:28:34
+Det er super og Jeg kan se der bliver klappet rundt omkring. Det er jo dejligt.
+
+00:28:40
+Så tak for i dag, Søren.
+
+00:28:42
+Tak for i dag.
+
+00:28:43
+Og vi snakkes ved.
+
+00:28:44
+Det gør vi nemlig. Hej.
+
+00:28:46
+Hej.
+

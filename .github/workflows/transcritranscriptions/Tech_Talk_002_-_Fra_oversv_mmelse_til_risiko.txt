@@ -1,0 +1,816 @@
+00:00:56
+Jamen så vil jeg have lov til at sige goddag til det andet tiktok i rækken hos DNMK. Jeg er rigtig glad for, at jeg faktisk får lov til at være vært ved det her møde. Så sidste gang fik jeg jo kun lov til at introducere rækken, men Vi er nu i en situation, at Vi er inde på et af de felter, som er helt centrale for det vi arbejder med IDNK som netværk imellem kommuner og forsyninger, borgere, videninstitutioner og andre, så skal vi jo arbejde for at lave bæredygtige byer og Vi skal arbejde på.
+
+00:01:25
+At få lavet noget god infrastruktur og få lavet en rigtig god udvikling fremadrettet og i det arbejde vi, vi går og gør her, så må vi jo huske på den infrastruktur, vi kigger på, og den meget, den infrastruktur vi laver, når vi laver den. Det er noget som som skal have en levetid på 50, måske 75 år. Med andre ord dem der skal betale det ikke engang nødvendigvis født endnu, så vi laver jo noget, der virkelig rækker langt ud i fremtiden, så Vi skal jo være i stand til at kigge ud i fremtiden og forstå, hvad er det egentlig der sker.
+
+00:01:53
+Og hvad er det så for en infrastruktur, vi får lavet som pas?
+
+00:01:56
+Altså til den situation, der nu vil være ude i fremtiden, så klimatilpasning er helt central for det vi selvfølgelig gør i Vores netværk og en stor del af klimatilpasning handler om den her bæredygtige bydel og bæredygtig udvikling, og Vi har jo faktisk også Forenede nationer, bæredygtighedsmål netop for som omhandler risikostyring og og katastrofe risiko. Det er for dem, der ikke ved det. SDG mål 11 b, hvor der rent faktisk står, at man skal som medlemsland være i stand til at følge op på den risiko, Der er.
+
+00:02:27
+Vi skal have planer, for det går vi ind og kigger på Danmarks statistik, så kan vi konstatere, at det faktisk ikke noget, vi i Danmark samler sammen på et nationalt plan. I princippet er der ikke nogen, der ved om risikoen den stiger, om den falder og om den udvikling, Vi er på vej på og med en Der er i den rigtige retning, så Det er nødvendigt for os at arbejde. Det er nødvendigt for os at forstå, hvad oversvømmelses risiko gør ved et samfund, og hvad samfundet kan gøre for at reducere den oversvømmelsesrisiko, Der er.
+
+00:02:54
+Nylig var der Jeg tror Det var i forgårs tv 2 Lorry blev rettet om et studie, som Københavns Kommune og Hvidovre Kommune havde lavet i fællesskab, som viser enormt store risiko for netop den her del af København, som viser, at stormfloder er noget, der kan påvirke Københavns Kommune og Hvidovre Kommune meget signifikant. Meget store millionbeløb, som kan faktisk ødelægge samfundet.
+
+00:03:17
+Det skal vi selvfølgelig ikke stoppe her. Vi skal jo videre. Vi skal jo forstå, hvordan Sådan en risiko udvikles, og Vi skal som mennesker være med til at udvikle, for vi bestemmer jo selv, hvor vi bygger, hvordan vi bygger, og vi bestemmer også i virkeligheden meget af de ting, som gør det muligt for os at leve i en samfund, hvor måske verden og klimaet forandrer sig, så Det er en stor glæde, at hr.
+
+00:03:40
+Karsten linebjerg Nielsen, som er professor og doktor fra DTU til at holde det egentlige indlæg om om risiko og oversvømmelsesmodellering.
+
+00:03:48
+Og det, der jo netop her er centralt. Det er at forstå hvordan oversvømmelsen og hvordan oversvømmelsesrisiko forandrer sig både i tid og sted. Så Jeg vil nu give ordet videre til Carsten arnbjerg Nielsen fra DTU velkommen til Karsten.
+
+00:04:00
+Tak skal du have ole?
+
+00:04:03
+Og tak for invitationen, så vi håber at at i kan høre og at ja, Der er jo ikke så mange tilstede her. Så lad os prøve at se hvordan det går. Jeg skal snakke om 2 risiko som ole sagde og og især kigge på hvordan forandrer det sig over tid og sted?
+
+00:04:19
+Jeg vil godt starte med et relativt simpelt eksempel.
+
+00:04:23
+Udfordringen fortalt ud fra mit synspunkt og i hvert fald mit hus derefter noget om om hvad er det for en ramme? Vi kan arbejde med risiko indenfor. Hvad er det, Vi er nødt til at vide omkring risiko for at kunne gøre noget og så til sidst prøv lige at se på hvad er det for nogle eksempler, som vi må overveje?
+
+00:04:39
+Vi har Sådan en tendens til at gå i løsningsmode nogle gange lidt for hurtigt, så derfor så prøve at se på. Hvad er det i virkeligheden Vi skal overveje, når vi begynder løsninger?
+
+00:04:47
+Så lige en enkelt slide på opsummering det her. Det er 2 billeder der kommer i mit facebook-fite for et par måneder siden.
+
+00:04:54
+Simultant.
+
+00:04:56
+Det ene Det var en en blogger som som viste et billede. Hun var oppe II flyveren mellem Århus og København og så det her fantastiske billede, og hun tog faktisk billedet, mens det her skybrud Det var lige henover over min lille landsby og samtidig så var der så en af mine badmintonvenner som postede det her billede af af sin egen have, og han synes jo Det var noget træls, og han var også lidt overrasket og.
+
+00:05:21
+Det havde han måske ikke grund til at være, og Vi skal nu komme ind på, hvorfor han ikke behøvede at være så overrasket.
+
+00:05:28
+Først lidt om word. Jeg bor her i Sådan et helt almindeligt traditionelt forstad soveby hvad nogen kaldte. Og da jeg havde boet der cirka et års tid, så fik jeg indkaldelsen til generalforsamlingen II grundejerforeningen og den tog Sådan lidt mystisk hud.
+
+00:05:44
+Den der tegning, så tænkte jeg hvad i alverden er det egentlig der gør det?
+
+00:05:47
+Men men men nå jeg kunne jo Sådan set ikke se det fordi.
+
+00:05:52
+Husene er indeni. De er bygget inden for 3 4 år efter at det her er bygget, så Det er ikke det Der er noget Der er meget ældre og så videre. Det kan være.
+
+00:05:58
+Men i hvert fald undrer det mig den der gruppe af huse derinde som ser ud ligesom Vores.
+
+00:06:04
+Ikke er en del af samme grundark.
+
+00:06:06
+For at kigge lidt på det, så har jeg lavet en lille badmintonkamp hvor vi kan kalde det vandfolket. Det er jens hjørn og per og mig som alle sammen arbejder med vand og så er det mode. De mindre er heldige som bor i samme byområde som er Claus og.
+
+00:06:22
+Og Lars, som i så billedet af og så Peter, som arbejder med henholdsvis af forskere ude på DTU og.
+
+00:06:29
+Sådan noget bankmand og noget noget revisor så lad os se lidt på hvordan det går med dem først, så er det jo væsentligt lige at se på hvordan det ser oplandet ud.
+
+00:06:38
+Og ham, der bor hernede Claus. Han får Sådan set manden for for 4 os andre ned til sig.
+
+00:06:46
+Den sidste vandperson, der ligger herovre, bor på en ret stejl pakke, så der der Det er noget andet, men i hvert fald sige Vores vand løber ned forbi ham her.
+
+00:06:56
+Og hvis vi kigger på lagningerne, tager vi at at de fleste af jer har prøvet at kigge på skaldo. Så må vi sige at at de 3 vandfolk bor steder, hvor det simpelthen ikke er muligt for vand at blive parkeret i området, mens.
+
+00:07:10
+Nogen specielt lars bor et område, hvor Der er rimelig stor sikkerhed for at de der vand vil samle sig først. Og hvis man kigger Sådan på det her område her, så kan man sige det her. Det kunne godt ligne en regnvandsbassin det her, men Det er meget fint firkant.
+
+00:07:25
+Det er det også, og når vi så går tilbage og kigger på det, så har vi nu forklaringen på, hvorfor det så ud som Det er.
+
+00:07:32
+Der er simpelthen nogen, Der er byudviklet det her område, som er beregnet til hvad det grønne område til den her grundejerforeningen tænkte, vi tager det her lige 50 hus mere.
+
+00:07:39
+Det er en Det er der en god business case i.
+
+00:07:43
+Og derved så er der nogen der har bygget her vel vidende at nogle af de her folk vil have en rimelig stor risiko fordi de bor i et meget højt område.
+
+00:07:50
+Samtidig er jo lige så interessant. Er det jo også det her regnvandsbassin og dimensionært til at tage imod vand for de her mennesker?
+
+00:07:58
+Må vi lave byudviklingen på det her område, så de her bassiner er jo blevet for lille, så det vil sige, at når nu vandet kommer herned og løber forbi her, så kommer det væsentligt tiere forbi, end det oprindeligt var planlagt. Det er det, vi snakker om, når vi snakker om, at ændringer i risiko, tid og sted er at det hus, der lå hernede, havde faktisk ikke nogen risiko, fordi der lå noget landbrugsjord.
+
+00:08:19
+Nu er der blevet bygget noget, og så er der kommet en risiko og ham heroppe. Der er nogen der har bygget, og så er de faste lige præcis hurtigt nok til at det ikke var dem der havde risikoen.
+
+00:08:28
+Det er det vi snakker om når vi snakker om forandringer i risiko i tid og sted, at nogen får en risiko de ikke havde. Andre får en risiko uden at vide det, fordi Der er nogle andre der har taget en beslutning om, at de skal have en risiko.
+
+00:08:41
+Så kan vi snakke om hvordan badmintonkampen ville ende. Hvis vi spillede med med med fjer og og ketchers og så videre. Det Det er måske noget andet, men men men lige her der vil vi nok sige at vandfolket har en viden som ikke vandfolk ikke har, og det påvirker Vores beslutninger på hvor vi bor.
+
+00:08:56
+På kommuneskalaen.
+
+00:08:58
+Der der nu viser jeg lige et billede af Aarhus.
+
+00:09:04
+Og hvordan byudviklingen i Aarhus er sket fra 1930 og så op til i 2010. Hvad er det?
+
+00:09:13
+Nogle områder i Aarhus by Der er blevet, Der er blevet byudviklet, og Det er det. Interessante er jo, at det vi så i lille skala på de her 10 huse, som jo ikke er nok til at skabe en ordentlig oversættelse.
+
+00:09:24
+Er i den grad nok til at skabe god oversættelse nede i Aarhus midtby.
+
+00:09:28
+Fordi de mennesker, der lå her, og som måske blev udviklet omkring 60.
+
+00:09:35
+Har de dem, der lå længst ude, og de havde ikke vagtsystemet. Det var tilpasset, og de lå derude. Nu har de lige pludselig fået en væsentlig større mængde vand putter, de i hovedet.
+
+00:09:44
+Den indtagning i risikoen er ganske stor, og hvis ikke Der er nogen, der ændrer i infrastrukturen, så har de også fået en stor risiko, som de skal forholde sig til.
+
+00:09:53
+Så på stor skala. Der er det noget, vi må forholde os til, fordi der simpelthen er mennesker, der på grund af byudvikling pludselig får en risiko, som de ikke forklarer over, at de har fået, og de heller ikke ved, hvad de skal gøre ved nødvendigvis.
+
+00:10:08
+Så så Det var introduktionen så lige lidt om hvad skal vi tænke på mens vi løser problemet, fordi vi kan jo bare bygge nogle større rør, men måske er det ikke helt nok for at kigge på det, så er vi nødt til at kigge lige på hvad er det for nogle elementer Der er i risiko.
+
+00:10:21
+Den ene. Det er selvfølgelig at der skal være en fare. Den har vi her fastlagt til.
+
+00:10:24
+Det er oversvømmelse. Det kunne Sådan set også være fede bølger eller.
+
+00:10:29
+Laviner eller hvad det nu kunne være afhængig af, hvor man er henne. Den næste ting, som er vigtig. Det er sommerhed.
+
+00:10:36
+Man må der skal være et eller andet der skal være på spil. Der skal være noget man kan tabe ved risikoen, hvis man er ligeglad med det der forsvinder, så er det jo ikke, så er der ikke nogen risiko.
+
+00:10:46
+Og det sidste er også, man er nødt til at blive eksponeret. Det hjælper ikke noget at oversættelse den sker 5 gader væk. Hvis jeg bor her så er det ikke mig der har nogen risiko, så har jeg ikke noget problem så de 3 elementer skal være der.
+
+00:10:59
+Hvis vi lige sætter billeder på. Nej undskyld først lige definere definerer risiko fra som Det er så i virkeligheden kroner per år hvor meget taber vi i gennemsnit per år ikke Sådan så vi hvert år vil tabe lige meget.
+
+00:11:13
+Men i gennemsnit kan vi regne ud, hvor meget vil vi bedste. Vi har et gennemsnitsår. Hvor meget vil vi så tabe?
+
+00:11:20
+Puttet nogle billeder på faren. Jeg tænkte skybrud det. Det er nemmest at tage, når man er den.
+
+00:11:23
+Holder stille i sin bil og venter på, at man kan køre videre.
+
+00:11:27
+Sårbarheden. Jeg ved ikke om man kan se det på skærmen, men her er et hus, Der er blevet oversvømmet oppe i cirka en meters højde. Det er blevet lidt mørkt.
+
+00:11:33
+Der er i hvert fald noget der der har været der formentlig har været sårbart indeni.
+
+00:11:38
+Det interessante ved det her hus og den her situation var at.
+
+00:11:41
+Manden var Sådan set ikke i gang med at redde sit hus.
+
+00:11:44
+Han gik rundt ude i sin have og prøvede at finde sine kapper.
+
+00:11:48
+Fordi han havde det mest fantastiske haveanlæg jeg nogensinde har set, og han var simpelthen mere bekymret for og redde hvad der reddes kunne ude i den fantastiske have, end han egentlig var i at prøve at redde flere ting der var inde i huset.
+
+00:12:01
+Huset Det kan forsikres, men men hans haveanlæg hans karper er nok ikke så nemme at få ind igen, så det giver også en ide om at sige Det kan være svært. Hvad er det for en risiko vi sikrer os i mod? Hvad er det vi kan gardere os imod sker?
+
+00:12:15
+Og hvad er det der bare er tab som ikke skal kan kan forhindres og som ikke kan være svære at fordække, så er der eksponering et billede fra Bodil stormklubben i 2013.
+
+00:12:28
+Hvor vi kan se Der er bygget et nyt hus, og vi står inde i huset.
+
+00:12:32
+Eller billedet, Der er taget inde i huset i hvert fald og der står 30 cm vand udenfor huset. Men fordi huset er nyt, så er det faktisk så tæt, så Det er ikke bare er er trykprøvet indefra, men Det er også tryk på et udefra, så de 30 cm vand der står ude med havet der banker på og gerne vil ind kommer ikke ind, og derfor står der ikke nogen eksponering.
+
+00:12:53
+Og dermed ikke nogen risiko.
+
+00:12:55
+Så der ligger mange muligheder i, hvordan vi arbejder med risiko at sige, men Vi skal have alle 3 elementer, Vi skal have en far, Vi skal have noget, vi kan tabe, og så skal vi også sørge for, at det der kan tabes og det Der er fare for, kan ske det mødes i en eksponering.
+
+00:13:14
+Jeg har taget et billede fra en.
+
+00:13:17
+En Det er faktisk en international klimapanel, der har prøvet at kigge på. Hvad er det man kan gøre, hvor vi plejer at hoppe til at sige Vi skal bygge dige eller Vi skal bygge nogle større rør. Det hedder at reducere den her eksponering, men Vi skal være opmærksomme på Der er 5 andre.
+
+00:13:36
+Tiltag vi kan gøre og bare lige for at sætte nogle ord på.
+
+00:13:40
+Så er er det for eksempel det at have det der hedder fillens, som handler meget om fler-strengende løsninger, per fleksibilitet indbygget i systemet.
+
+00:13:52
+Hvordan kan vi prøve at lære folk noget, hvis folk ved hvad de skal gøre, når der kommer en oversvømmelse, så har de meget mindre tab, end de har, hvis ikke de ved, hvad de skal gøre.
+
+00:14:02
+Som en simpel ting.
+
+00:14:04
+En større radikal transformation.
+
+00:14:07
+Jakarta er jo ved at blive flyttet som hovedstad. Det at flytte byen har i hvert fald en transformation. Det kan også være andre ting, men Det er Radikale ændringer, som ikke er inkommentelle.
+
+00:14:17
+Så er der den her bility det her med et hus Der er bygget så tæt, så hvad den ikke kan komme ind, kan vi putte en eller 2 måde lave noget på engelsk eller definit proofing. Vi har ikke et godt dansk ord for det endnu, men Det er klart noget vi vil komme til at arbejde mere med og arbejde med at selvom.
+
+00:14:33
+Vandet er her, og selvom Der er for meget af det, så gør det måske ikke skade de steder, Der er kritiske.
+
+00:14:39
+Så er der selvfølgelig også hele tendens i billedet. Hvad er det for beredskab, Vi skal have? Hvor mange pumper skal vi have og hvor mange juices og så videre?
+
+00:14:49
+Hvad er det, de kan gøre helt konkret for at mindske skaden, når de er ved at ske?
+
+00:14:55
+Og så er der det at flytte eller dele risikoen. Inden hoved på havet har vi det, der hedder stormoden.
+
+00:15:03
+Vi inde indeni inde i byen har vi det der hedder kloakforsyninger som dem der fordeler risikoen og sørger for, at risikoen er acceptabel for alle.
+
+00:15:13
+Og så har vi så herinde streg mellem dem allesammen og sige de optimale løsninger ligger nok i et mix af de her 6 tiltag.
+
+00:15:21
+Så hvor vi.
+
+00:15:23
+Som mange har som parkforsillinger taget på sig og sige, vi bygger større rør. Ja, men Der er også andre ting der skal ske, og Det er ikke kun en aktør der skal finde en løsning. Vi skal finde nogle nye løsninger sammen.
+
+00:15:39
+For lige at sige hvor langt vil i komme i Danmark, så har jeg lige taget et billede med det første klimatilpasningstiltag vi lavede. Det var lommepakker inde i Københavns Kommune, som sagde. Nu skal vi lave klimatilpasning.
+
+00:15:48
+Vi skal lave nogle grønne åndehuller inde i byen, som ligesom kan opsuge vand og sørge for at skabe et levende bymiljø og så bygge den her betonklods, som som har Sådan set har en befæstelighedsgrad, der er>
+
+00:16:03
+End en almindelig en gennemsnitlig befæstelseskrad er i København.
+
+00:16:09
+Der, der var ikke stor begejstring iblandt mange af aktørerne, når man så at at den første klimatilpasning mod mod stigende ekstremt meget end Det var at bygge mere beton. Vi er heldigvis kommet lidt længere, men bare lige for at sige København var først, men også at Der er rigtig mange ting, man skal lære Det var Det var den måde vi kommunikerede noget? Tråd vi til arkitekterne og de forstod noget andet.
+
+00:16:30
+Og Det er noget af det, vi kommer ind i, når vi snakker risiko, at vi misforstår hinanden.
+
+00:16:36
+Der er også stadigvæk mangler i paradigmet det her. Det er København, som Det var i 1864. Det var kystlinjen, man kan se i Danmark, er blevet noget større, og Det var jo en bevidst strategi dengang, at at vi skulle blive større.
+
+00:16:48
+I har Sådan set ikke færdig endnu. Vi er stadigvæk i gang med med at bygge på her med med nogle ekstra øer, og Vi skal være opmærksomme på, at hver gang vi bygger helt ude ved havet, så har vi nogle issues i forhold til at.
+
+00:17:02
+Havvand altså Det er den risiko i forhold til oversvømmelser, der ændrer sig mest i de kommende år.
+
+00:17:07
+Så det at placere flere og nye værdier herude er en en lidt farlig til verden.
+
+00:17:16
+Den 2 er generelt på byudvikling, ikke bare kystområderne. Jeg synes den her den er. Den er meget fin, sikrende, ambitiøs og bæredygtig.
+
+00:17:24
+By og boligudvikling med respekt for naturen, historien og kulturvenrigerne ved at fremme udviklingen i kommunens levende og autentiske bymiljøer, skal den her Kommune fremstå som en attraktiv bosætningsmune.
+
+00:17:35
+Det er jo en super flot formulering, hvor man kan være uenig i den.
+
+00:17:38
+Så går man ud ind og ser på hvad Det er for et område, Der er udpeget.
+
+00:17:42
+Og nu har jeg gjort det, så gnider jeg til at man ikke kan se det. Men de har simpelthen med stor præcision peget på den del af kommunen, som allerede nu er så udsat for stormfloder. Så hvis der havde været noget i forvejen, så ville det være udpeget som et område, hvor der var høj risiko for at blive oversvømmet.
+
+00:17:57
+Simpelthen fordi sandsynligheden for at blive oversat, når man ligger oppe i størrelsesordenen 5-10% om året.
+
+00:18:03
+Så der ligger noget i at sige, Vi er nødt til i Vores fremskrivning at se på, hvordan har det været historisk? Hvordan er vi blevet udviklet, hvordan kommer vi til at være i fremtiden og i det allerede nu tager i edet, at klimaet kommer til at ændre sig, hver gang vi tager beslutning om byudviklingen, så er vi nødt til at sikre os, at vi ikke bygger et sted, hvor vi låser os selv.
+
+00:18:28
+I forhold til verden. Det er vi i fuldt drama med at gøre.
+
+00:18:33
+En en 2 ting som er vigtig, Det er, hvad er det i virkeligheden? Hvordan er det, vi sikrer os service, hvis vi bygger rigtig store rør, rigtig store pumper og så videre nu, så vender vi i virkeligheden for til, at risikoen er absolut ikke eksisterende, så sænker vi den ned til nul.
+
+00:18:48
+Dermed er der en risiko for, at folk de faktisk glemmer, at Der er og skal være en risiko. Så hvis vi siger, vi bygger til en 10 årsag og i virkeligheden bygger til 1000 årsendelse, så vænner folk sig til, at Der er 1000 års hændelsessikring.
+
+00:19:01
+Og når man så kommer hen her og risikoen stiger, så får vi rigtig svært ved at fortælle folk. Ja ja du er blevet ramt af en tyveårsændelse. Det var faktisk også præcis, hvad du skulle blive på nuværende tidspunkt, fordi Vi er på vej op mod en 10 årsændelse.
+
+00:19:13
+Også skal ramme dig. Der er et kommunikationsmæssigt issue i, hvordan forholder vi os til at kommunikere til folk, hvis vi laver noget Der er for stort fra start?
+
+00:19:25
+Tilsvarende, hvis vi laver de her inventuelle, så er der en stor rygerfor at vi låser os selv fuldstændig fast, fordi hvis vi hele tiden arbejder Sådan lige små løsninger og hovsa hoppe ret fra 2-2, så får vi også det der hedder turny of incomment solutions. Det er at sige, hvornår er det ikke godt nok bare at blive ved med at kaffe kender det godt. Cyklen punkteret skal vi gider?
+
+00:19:49
+Vi har laft den eller er det nu Vi skal købe en ny cykel, fordi nu er den brugt op?
+
+00:19:52
+Det er lidt sværere med en ny by lige at købe en ny by, men Vi er nødt til hele tiden at tage beslutningen om at sige, hvornår kan vi lappe med et lidt større rør eller et lidt større kantsten? Og hvornår skal vi gøre Sådan noget der fundamentalt anderledes?
+
+00:20:07
+Så det her med, hvor langt tænker du i fremtiden? Vi tænker klima, og Vi har dybest set og siger der, hvor vi ved, der kommer et godt klimasignal. Det er på noget, Der er mere end 30 år ude i tiden.
+
+00:20:17
+Vi bygger konkrete projekter, der måske varer 5-10 år, hvis det går højt.
+
+00:20:23
+Der kan være langt imellem, og Vi skal huske, når vi tager beslutninger, så er der nogen, der siger, at Vi skal tænke langt ud i det for eksempel.
+
+00:20:32
+Beregninger af kloakkers infrastruktur at jamen de skal afskrives over de her 75 år, men normalt økonomisk tænkning gør Sådan set at man siger, Der er ikke nogen der kan producere hvad der sker med en 50 år i fremtiden.
+
+00:20:46
+Så, og Det er jo Sådan set også det Vi har oplevet med kloaksystemer er at.
+
+00:20:51
+Ja, Vi har haft et kloaksystem hvor nogle kloakker mere end 150 år gamle, men Der er ikke nogen af dem der har haft den samme funktion i løbet af 150 år.
+
+00:21:00
+Og så måske kommer der også noget teknisk forandring.
+
+00:21:05
+Jeg forudser, at det indenfor næste 50 år, så er teknikken der til, at vi hver altså har gode velfungerende biobrænseanlæg på husstandsniveau, så er vi Sådan set ikke længere brug for nogen spildevandsklakker, så hvis vi bygger og er alt for sikre på, at vi bygger nogle store spildevandschakker, for eksempel hvis vi bygger nye renseanlæg, så kan det godt være, vi foretager nogle fejl investeringer og låser os fast i, at Vi er nødt til at bruge det her renseanlæg.
+
+00:21:29
+Selvom vi Sådan set har at gøre med en forældet teknologi.
+
+00:21:33
+Så Der er hele tiden det her dilemma mellem at tænke langsigtet og kortsigtet.
+
+00:21:39
+Lige et konkret eksempel på det her som jeg snakkede om med Lars i starten.
+
+00:21:44
+Vi har en eller 2 jorde der gerne vil bygge nogle huse.
+
+00:21:48
+Han sælger området, han får lov af kommunen. Det bliver en del af af af planen for bygningen, så sælger han det til en eller 2 developer og man bygger en bygning.
+
+00:21:59
+Og så sælger han den til den der mand der nu skal bo IMK så kommer der en oversættelse i løbet af nogle år.
+
+00:22:06
+Hvad sker der så? Ja så bliver huset reserveret i viste området.
+
+00:22:12
+Så bliver der bygget en kopi af bygning et det der så sker typisk ved det vi kan se i data. Det er typisk inden for 2-4 år efter. Så sælger man det hus, fordi man bliver træt af den, man vil gerne sidde hen, hvor det ikke sker igen, fordi man er blevet meget opmærksom på den risiko, der var.
+
+00:22:27
+Så kommer der en ny lodsejer som får en oversættelse, som får en ny bygning.
+
+00:22:34
+Det er et issue. Vi er simpelthen nødt til at begynde at forholde os til. Hvordan kan vi?
+
+00:22:40
+Få lavet.
+
+00:22:42
+En et eller andet sted, hvor hvor bolden ikke bliver ved med at trille videre med den stopper faktisk her, at Vi har en risiko, og nogen skal forholde sig til den og behandle den i stedet for at prøve at tørre den af på de næste.
+
+00:22:54
+Det kan være.
+
+00:22:57
+At man siger, at hvis man kan stoppe den heroppe og sige en developer kan klare alle skader på oversvømmelser, og der sker de første 50 år efter det her område er udbygget, eller vi kan stoppe den her vil jeg sige et eller andet sted. Hernede vil jeg sige. Det skal i hvert fald stå i tilstandsrapporten, så Det er indberettet i husets pris.
+
+00:23:14
+Et eller andet sted er vi nødt til at stoppe den her bølge af, at vi tør risikoen af på nogen, der enten ikke ved det eller ikke har mulighed for at agere udenfor.
+
+00:23:27
+Mere generelt, så må vi sige, Vi er vant til i Vores sektor, og DNK kommer ud af den her sektor, hvor vi arbejder med vandinosstruktur.
+
+00:23:35
+Der Der er det.
+
+00:23:36
+Meget farende vi kigger på Det er Det er nedbør. Det er stigende afgangstand, og hvad kan vi gøre med skrøjer og så videre?
+
+00:23:44
+Vi er nødt til, at vi arbejder helt systematisk med at få mere ud af bystrukturen og sige, hvordan er det, vi indarbejder byen? Hvor er det? Det er OK at have oversvømmelser, hvor er det folk skal komme hen på at samles, og hvor er det, Vi har industrial produktion for eksempel.
+
+00:23:59
+Der er det mere demografi og og arealanmeldelse og så videre. Det er der risiko naturligt at høre hjemme. Men Vi skal huske, at det folk bruger det faktisk er byens funktioner, hvor Der er cafeer.
+
+00:24:10
+Hvor kan man gå med sin hund, hvor der støj, hvor Der er mulighed for at feste afhængig af alder og præferencer? Hvor har du mulighed for at slappe af i funktioner skal indarbejdes Sådan, så Der er forbindelse mellem layout og funktion.
+
+00:24:24
+Fordi Det har vi tit.
+
+00:24:26
+De har tabt i kæden, fordi nu kommer vi ind i alt det her med hvad vil folk gerne gøre, og hvad er villigheden til forandring? Og den er ikke nødvendigvis god.
+
+00:24:37
+Men, Vi er nødt til at få det her niveau med, hvis Vi skal andre forandre noget i risikobilledet den sidste.
+
+00:24:44
+Det er selvfølgelig det, som vi ikke kan gøre noget ved. Det er alt det med teknologisk udvikling. Hvad sker der med med klima generelt?
+
+00:24:52
+Og det, Det er ikke det her. Det er faktisk præ corona, så Det er ikke det, men men sundhed generelt og med klimaet, hvad er det der sker globalt set, som vi bare er nødt til at forholde os til omkring lighed omkring sundhed omkring det?
+
+00:25:05
+Som globale driver, der bare kommer ind, og som vi må sige Det er noget, Der er givet for en Kommune eller for et menneske, og det Der er interessant. Det er at se på det. Vi kalder det scenarie hernede, og vi kalder det strategier her, og det interessante er at for de forskellige aktører.
+
+00:25:23
+Der kan det som på nogle er en strategi. Er det for andre være et scenarie som den enkelte husejer, der kan have en strategi om at afkoble mit regnvand eller bygge en højre kantsten. Men hernede der kan det være at ændre om det overhovedet skal være et bolig i det område eller ej, så det at arbejde med helt systematisk at sige hvad er det Der er givet afhængig af hvor Vi er nede og hvad er det så Jeg kan påvirke med strategier for at forbedre tingene?
+
+00:25:52
+At være opmærksom på, jo bedre Vi er til at samarbejde mellem aktører, jo flere ting kan vi få lagt ind i Vores strategi.
+
+00:26:01
+Som konkret eksempel. Her har vi en undersøgelse, vi lavede i Australien.
+
+00:26:05
+Hvor man kiggede på det, og her har vi den stigning i risiko. Altså den årlige gennemsnitlige skade, afhængig af hvor mange mennesker der kom til. Det var en i Melbourne, så Det var en by med med rimelig kraftige vækst og så også hvad er ændringen II klimaet?
+
+00:26:24
+Og Det er klart, at hvis Vi har en meget lav byudvikling og meget lav klimaindflydelse, så har vi nogenlunde konstant risiko, men også at vi bare inden for de næste 50 år, så kan vi godt få noget, der bliver en omkring en hundreddobling bare II skybrudsomkostninger. Hvis Vi har meget massivt byudvikling og meget massiv.
+
+00:26:47
+De 2, der har vi i det her taget for at være scenarie af ting, vi ikke kan påvirke. Og så har vi så sagt, hvilke strategier kan vi bruge for at gøre på for at påvirke dem?
+
+00:26:58
+For at se på hvad vi kunne gøre som så har vi set på, hvad kunne man gøre med afkobling?
+
+00:27:04
+Det er nede i Australien. Der er der noget med med vandforsyning, så Det er det det bliver at lave rainwater hausting tanks altså afkoble til for eksempel vaskemaskiner og så videre.
+
+00:27:15
+Det andet var at sige, at i stedet for, som man gør i Australien, i byen og en hulens masse små engfamiliehuse, som ligger super tæt, så kunne vi prøve at lave det som herhjemme eller Sådan noget rækkehuse II paretager Sådan, så vi får en hel masse grønne områder i stedet for at plastfange til. Altså Der er steder i beboelsesområder i Australien, hvor du ligger med bestigelsesgrader op over 90%.
+
+00:27:39
+Så så det at få dem til at bygge varer, som vi gør i en forstad til København ville være en kendte forskel i forhold til, hvor meget vand blokken skal håndtere.
+
+00:27:49
+Så restriktioner på arealet. Det vi sagde. Det var simpelthen alle huse, der bor og bliver oversvømmet indenfor med har> 10 procents sandsynlighed for at blive.
+
+00:27:58
+Oversvømmet hvert år.
+
+00:28:00
+De skal.
+
+00:28:02
+Ja de skal rives ned. Vi korttes ikke til hvem der skulle betale foreløbigt, men bare sige de skal de skal skrive ned og i kan se på hvad er de her scenarier, så bliver det mere og mere effektivt, men Det er også det kræver også klart nogle andre der sender restriktionerne i det her. Det er at gøre ingenting det her.
+
+00:28:17
+Det har været en Forsyning kan gøre her kræver det at man har en Kommune, der sætter krav til hvordan vi laver byudvikling. Her går vi faktisk ind og siger der skal være en eller 2 der sørger for at de her folk kan komme derfra, fordi.
+
+00:28:31
+Ellers så bliver de boende ved, at de husene koster så meget til de falik, hvis ikke Der er nogen, der hjælper dem væk fra området og så går tilbage til til til forsyningen igen, vil jeg sige, hvad nu hvis vi bare lige bygger et nyt kloaksystem? Jeg ved ikke lige hvor realistisk Det er, at Det er på cirka 10 år men men men men det prøver vi hver eneste gang at et rør er blevet for lille, så skifter vi det.
+
+00:28:56
+Og i kan se, Der er en vældig stor usikkerhed på på eller en vældig stor reduktion.
+
+00:29:01
+I den årlige gennemsigtige skade altså risikoen, men hernede har vi så prøvet at kigge på kontrasterne uafhængigt af hvilke scenarier Der er? Hvilken strategi har så betydning? Fordi Det er jo det, Vi skal bruge til at tage beslutningen på.
+
+00:29:15
+Her har vi forskellen mellem, om vi.
+
+00:29:18
+Der er ingen grund til at se på forskellen mellem de her 2. Der er ikke rigtig noget, men forskellen mellem om vi laver byfortætning eller styrt bfortætten. Den er egentlig ikke ret stor.
+
+00:29:28
+Men når vi kommer herover og begynder at sige på flot soning, så er der virkelig markant forskel på middelklagen og især så har vi fjernet alle de steder, hvor risikoen er blevet så stor, så samfundet jo bryder sammen.
+
+00:29:42
+Den sidste ting, Det er lige hvilket perspektiv skal vælge.
+
+00:29:46
+Det her Det er Sådan da nationale skal vi have natur i Danmark. Vi har også noget med med kommunen. Hvad skal kommunen kunne gøre?
+
+00:29:53
+Og hvad skal den enkelte mand gøre? Her har vi igen et australsk hus, som som er har en tom stueetage, fordi Det er nødvendigt, fordi også det bliver også en for tit.
+
+00:30:02
+Så forskellige scenarier forskellige strategier, og jo mere vi går opad, jo flere scenarier, kan vi pludselig blive til en del af strategierne.
+
+00:30:13
+Så som opsamling. De har en kæmpestor udfordring. Risikoen blev større.
+
+00:30:18
+Folk forventer Sådan set mere af risikoreducerende tiltag. Vi kan ikke både have nulholdskultur og være innovative og førende. Vi er nødt til at acceptere, at der sker fejl undervejs i den her proces.
+
+00:30:31
+Helt basalt. Vi er nødt til at stoppe den her risiko-tegn. Folk tjener penge på at give andre folk risikere og min egen lille Hassan selvfølgelig derfra, hvor jeg kommer.
+
+00:30:42
+Vi har tidligere været rigtig god i Danmark til at arbejde med det, der hedder samfundsmæssige udfordringer.
+
+00:30:47
+Kilderne til den forskning og til den udvikling, Der er tørret ud de sidste 10 år.
+
+00:30:53
+Jeg tror Det er vigtigt, at vi får får det tilbage på dagsordenen.
+
+00:30:58
+Og for at kunne kigge på det mere struktureret.
+
+00:31:01
+Så.
+
+00:31:03
+Prøver jeg begynder at få vældige fingre der siger nu er det ved at være nu, så Det er nu så så med det tak på det nu tror jeg ole kommer på igen.
+
+00:31:18
+Jamen 1000 1000 tak for din præsentation. Det var enormt spændende at høre.
+
+00:31:24
+Undskyld Jeg har lidt lidt spørgsmål, men Jeg vil lige høre om Der er nogen også fra chatten der ligger ude ikke endnu, men de kan altid nå at komme men men så kunne jeg godt tænke mig at stille dig et par spørgsmål, fordi Jeg synes Det var. Du var jo inde på på noget helt centralt. Du sagde jo at Vi har gjort en hel masse tiltag for at holde vand væk fra mennesker.
+
+00:31:45
+Og det tiltag, der hedder at holde mennesker væk fra vand.
+
+00:31:48
+Det er vi måske ikke ret gode til, men er det ikke i virkeligheden lidt det dilemma, vi står i, at Det er en af de 2 veje, vi eller de 2 veje kan vi gå?
+
+00:31:57
+Og vi mangler nok ved jeg til at få mennesker væk fra vand.
+
+00:32:03
+Det gør vi i hvert fald.
+
+00:32:06
+Noget af det handler også om, at vi vi vandfolk, vi lægger meget vægt på.
+
+00:32:11
+På den bekymring Der er.
+
+00:32:13
+Men når hun ser på et hus i lad os sige solrød Strand.
+
+00:32:19
+Hvis værdi lige pludselig er steget med 5 mio. Kroner, fordi Det er havudsigt i forhold til hvis Det var de lå 100 m anderledes.
+
+00:32:26
+Så giver det også en idé om, hvor meget værdi det giver i hverdagen, og Det er den her balance mellem at få noget godt i hverdagen kontra og og miste noget en gang imellem.
+
+00:32:37
+Og noget, der handler om viden. Noget handler også om, at Der er nogle folk, Der er mere risikovillige, og Jeg tror Der er nogle folk Der er nogen tager en en bevidst beslutning om at sige det her. Det er det sted, hvor Jeg vil bo, og så må jeg leve med et eller andet.
+
+00:32:50
+Og så må jeg bygge i højden eller gøre noget andet så.
+
+00:32:54
+Der er nogle megadrivere omkring at have nærhed til havet og nærhed til vandløb, som trækker i den 2 retning og og selvom du og jeg nok ikke ville købe huset og Sådan nogen steder, så må jeg også acceptere at Der er andre der ikke er det.
+
+00:33:05
+Og og hvis jeg lige må fordi.
+
+00:33:07
+Jeg kan huske jeg lavede en den første undersøgelse jeg lavede omkring helt kontantpris med det her. Det var tilbage i 2012.
+
+00:33:14
+Sammen med tove panduro og lektor på Aarhus Universitet. Dengang var en ung grøn PHD studerende, og det generede mig voldsomt og sige, at vi kiggede på om, hvilke løsninger skulle Aarhus Kommune vælge en område?
+
+00:33:26
+Og.
+
+00:33:28
+Det vi vi starter med risiko og skybrud, men de tal som toke kom med omkring rekreative anmeldelser i området, var Sådan set større økonomiske tal, fordi Det var noget, der talte hvert år og hver dag og Vores der så talte dengang hvert 5 år eller hvert 10. år.
+
+00:33:44
+Så så der ligger noget i den her afvejning af glæden ved hverdagen i forhold til ja jeg ved ikke om man skal ikke holde den fisk, når Det er oversvømmelserne, men i hvert fald Der er det her dilemma.
+
+00:33:55
+Og Det kan jeg jo sagtens forstå. Det var gudskelov Sådan set flere solskinstande end regnvejrsdage. Selv selv når man arbejder med oversvømmelse, men at få mennesker væk fra vand, som du selv siger.
+
+00:34:05
+Det kan man jo også ved at bygge i højden, så Der er vel ikke nogen grund til ikke at bygge nede ved solrød, hvis man byggede på stylter, så kunne vi ikke rent faktisk have lært en lille bitte smule af af af folk som thaier, der har igennem nogle millioner eck millioner dog, men mange årtusinder år har boet på en på en flot plan, hvor de blev oversvømmet.
+
+00:34:25
+En gang om året, og derfor lærte at bygge et ækvalt. Så er vi måske dygtige nok til at overtage teknologi fra andre lande, og kunne vi faktisk overtage noget teknologi og metoder for den slags steder at indbygge dem i Vores egen planlægning og Vores egen bygningsstyringer, der ligger fordi Der er jo nogen, der søger byggetilladelse til at bygge på terrænniveau på solrød Strand. Men de kunne måske have fået byggetilladelse til at bygge på stylter i stedet.
+
+00:34:50
+Jamen Det er jeg helt enig med dig i altså teknologierne er jo kendt og og når man går rundt i Australien.
+
+00:34:56
+Specielt II brismen som Jeg er fantastisk by, men der kan man jo se der ligger der mange huse II området der simpelthen ligger hvor huset egentlig starter i 4 meters højde.
+
+00:35:06
+Og Det er fordi Det er dertil floden deroppe så så Der er klart et potentiale for at Vi skal gøre det. Vi skal bare også finde ud af, hvornår er det så man skal gøre det.
+
+00:35:19
+Så.
+
+00:35:22
+Jeg tror Der er en Der er gået i fælden her.
+
+00:35:25
+Nej Det er der undskyld ja men det Det er interessant at forstå noget mere. Tror Jeg vil jeg lige hurtigt læser spørgsmålet Der er kommet fra fra de tilhørere der sidder og følger livestream. Så er der jo spørgsmål om at forstå bedre de her oversvømmelsesrisiko og måske nogle af de her samfundsmæssige strømninger.
+
+00:35:44
+Er det rigtigt forstået, tror du?
+
+00:35:46
+Er på spørgsmålet, eller kan vi faktisk få det præciseret via den chat i forhold til samfundsmæssige? Ja, forskningen det samme.
+
+00:35:56
+Ja altså.
+
+00:35:59
+Det er stort.
+
+00:36:02
+Altså man må sige man kan. Man kan sige. i Danmark har vi lige lavet 1 1 1 lille undersøgelse som er blevet publiceret og Realdania hvor Vi har haft folk inde og der har det så været byplanlæggere eller regionalplanlæggere.
+
+00:36:16
+Jurister.
+
+00:36:18
+Antropologer.
+
+00:36:20
+Arkitekter og og risikovinklen, og så er der en mere, som jeg ikke lige kan huske økonomien.
+
+00:36:27
+Som som forskellige prismer, og Vi har lavet nogle tilsvarende undersøgelser, hvor hvor det hvor, hvor det så var mere geologer og og forskellige kulturelle institutioner der var inde i og i australsk sammenhæng. Jo og Det er det der skal til, fordi Vi er nødt til at lave det der på EU sprog nu er begyndt at hedde cocreation. Vi er nødt til at arbejde sammen med folk i stedet for at komme og sige enten i skal have et pige eller i må i få et dige.
+
+00:36:51
+Men så kom ud og sig OK. Der er en udfordring her. Hvordan kan vi løse den hvad?
+
+00:36:56
+Hvilke hjælp kan i få til at få viden? Hvilken hjælp kan i få til at være med til at tage beslutningen? Men Det er ikke, men Det er ikke Sådan, så Det er et tagselvbord, og i har også en del af ansvaret for at finde løsningen.
+
+00:37:07
+Det er en kæmpe opgave, netop fordi at Det er at løse et samfundsproblem i stedet for bare at sige det her. Det er et forsyningsproblem eller nogen bygger de.
+
+00:37:17
+Altså når vi gerne vil løse et samfundsproblem, så kan vi jo godt lide, at Der er nogen der tager styringen, så Vi har jo været rigtig glade for det. Der er nogen der stiller sig op og og gøre Radikale ting for at løse samfundets udfordringer. Men netop her med med med oversvømmelsesrisiko at at det, du i virkeligheden også advokerer for en slags opgør imod.
+
+00:37:36
+De har kollektive systemer Vi har altså. Vi har for eksempel ikke ikke skal have den, fordi naturligvis skal vi så længe Der er brug for dem, have kloakker. Men Det er jo en kollektiv investering.
+
+00:37:47
+Og hvis jeg bor et sted med med med med god regnvejrdsafledning som det kollektive system tager, så tager jeg jo ikke selv noget ansvar for at gøre noget. Så Vi skal måske flyve det mere og mere ansvar over på individerne i samfundet, men det må da også kræve en helt 2 type.
+
+00:38:03
+Uddannelse og kræve en helt 2 type af styring af samfundet. Hvis vi ikke har en national strategi som én national enhed udmønter, men i stedet for har 6 mio. Danskere der skal ud og og klimatilpasse landet og og gøre det oversvømmelsessækkert.
+
+00:38:19
+Ja.
+
+00:38:22
+Jeg er ikke helt sikker på jeg jeg jeg jeg plejer at være tilhænger af min kraftige.
+
+00:38:29
+Altså inde indenfor kyst som jo er det der bliver i Vores største risiko.
+
+00:38:33
+Der er jeg jo der plejer jeg OK at få landsplandirektiver som at sige Det er nødvendigt skridt i forhold til at kunne håndtere det.
+
+00:38:41
+Og samtidig så mener jeg også, at i den væsentligste forskel på, at man er tilhænger af nedsivning lokalt eller eller eller større rør II, klimatilpasningsdiskussionen, hvis man koger den derned er for meget at se i den ene sted der har du en et kloaksystem og den er en kloaksystem til at håndtere og distribuere den fælles risiko.
+
+00:39:03
+Fordi man som individ glemmer, at hvis Der er 4 huse i området, der har en stor forskningsrisiko, så er det hele området der taber. Det er ikke kun de 4 mennesker det reelt set bliver bedt om at være tabe, og der ligger noget i forhold til hvordan er det vi arbejder med sammenhængskraften i samfundet, hvor hvis vi bare lader det op til hver enkelt at håndtere den her oversættelsesrisiko, så taber vi noget andet, som er vigtigere end de konkrete oversvømmelsersdag, tror jeg.
+
+00:39:29
+Men men men så vi tager det også nu. Nu giver jeg udtryk for min holdning, at der der vil klart være andre der der.
+
+00:39:35
+Jeg synes at Det er fint at Det er individuelle løsninger det og Det er jo det vi så at da kystlovgivningen sidst blev lavet om, var det ud fra et ønske om at liberalisere at fjerne en hel masse regler, som som nogle mennesker ikke kunne lide og og det gav også større risiko til hver enkelt menneske, fordi vi sidder med nu i kystplanlægningen.
+
+00:39:55
+Og så igen. Jeg ved ikke hvad min.
+
+00:39:58
+Spils personlig holdning skal man jo nok holde holde lidt væk et eller andet sted hen, men.
+
+00:40:03
+Ja, og det må man gerne det. Det skal du også det skal, men det sker ikke nødvendigt. I stedet for at prøve at sige, men men Jeg har det jo lidt Sådan, at Jeg kan jo godt lide tanken om at at jo landet, selvom Der er mange individer, så kan man jo sige at at et land som Danmark, Det er jo måske 80% privat.
+
+00:40:17
+Det vil sige Vi skal ind på på private matrikler. Vi skal gøre det med accept fra dem, der ejer terrænerne, hvad enten Det er en stranding foran sommerhusområdet eller.
+
+00:40:28
+Eller hvad det måtte være for en type areal forhold, man kigger på en baghave i.
+
+00:40:32
+III en i en en villa dagens by så ville det være rart hvis man kan få de private i min optik bedre i spil til at gøre det.
+
+00:40:42
+Og og Det var egentlig lidt det jeg så som det individuelle.
+
+00:40:46
+Så så jeg tænker lidt måske for at at også kigge lidt på de her aktører fordi Jeg synes Det var en 2 del af det som er din præsentation som Jeg synes har været fantastisk spændende. Det er jo netop hvor hvor netværksbaseret Det er og hvor fantastisk vigtigt Det er at man får forskellige aktører bragt ind og og Det er jo faktisk noget af det vi prøver på at gøre i det andet på fordi vi mener at de her store udfordringer.
+
+00:41:11
+Kan man ikke løse som Forsyning eller Forsyning eller Kommune eller Universitet? Vi er nødt til at arbejde sammen og trække på samme hammel, og derfor er vi jo enormt glade for for for DTU og for for din indsats, som som jo er er er inden for en meget, meget dyb inden for et fagområde. Men hvordan er det for dig, som som forsker og medlem af Sådan et DNMK at få den her viden ud, hvor hvor meget af den viden har du?
+
+00:41:36
+En fornemmelse af, at noget du får lov at sidde med selv?
+
+00:41:39
+Og hvor meget af den viden er noget du føler, bliver i virkeligheden optaget i af alle de forskellige aktører, der udenom og måske efterspurgt på en 2 måde, hvad kunne vi gøre IDANNK for at hjælpe dig med at få den viden ud?
+
+00:41:53
+Jeg synes Det er 2 ting altså det ene er jeg Jeg har. Jeg har lige siddet og brugt tid på at slutte høringssvar til klimatilpasningslån, så dens bekendtgørelse Jeg har skrevet et notat som som lige som behandling på Københavns Kommune og Hvidovre Kommunes.
+
+00:42:07
+Teknik og miljøforvaltningen her her om om 1,5 uge. Det tror jeg Det er en del af det, vi. Vi er nødt til at være en del af samfundet og også at præge den del af udviklingen.
+
+00:42:14
+Det det tror jeg kommer.
+
+00:42:16
+Når vi snakker om DNK og den rolle Der er der, så tror jeg det vigtigste, Vi har brug for. Det er i virkeligheden, at Der er nogen, der har lyst til at lege med os, fordi Der er rigtig mange, der kommer til det her er svært for mig.
+
+00:42:27
+Så løs lige det her problem Universitet i stedet for at sige OK Vi har nogle forskningsspørgsmål i har nogle løse spørgsmål der skal løses, hvordan kan vi sammen finde en formulering og så gå ud i verden og finde penge til det?
+
+00:42:39
+Fordi.
+
+00:42:42
+Ingen tvivl om at universiteterne er voldsomt presset på økonomien for øjeblikket, og vi kan ikke bare sidde og løse problemerne uden uden at der på et tidspunkt kommer. Og det tidspunkt bliver snarere og større, hvor vi siger det her. Det skal være en konkret ansøgning om at få nogle konkrete penge hjem også til universitetet.
+
+00:42:58
+Ja.
+
+00:43:00
+Så så Der er altså et stadigvæk et stort forsknings og videnbehov så så du ved ikke alt du har ikke den store bog med alle svarene i.
+
+00:43:08
+Gert Det er jo. Det er jo på sin vis også meget godt at vide at at der at Der er noget at lave også i morgen både som formidlingsopgave, men også som som som faglig forskning og og udvikling. Hvor vil du sætte ind der hvor?
+
+00:43:20
+Hvor er de største huller i Vores viden? Er det på det fysiske på det samfundsmæssige på?
+
+00:43:27
+På covid-nens hvad, hvad hvad hvad hvor skal man slå.
+
+00:43:31
+Det hele, selvfølgelig.
+
+00:43:32
+Altså Jeg synes Det er svært for mig at tage en selvfølgelig. Jeg arbejder ikke i social science uden at der også er en teknisk komponent, fordi Det er det Der er min gebet og jeg skal kunne føle mig selv hjemme i det. Men men Jeg tror at Det er rigtig sjovt.
+
+00:43:45
+Det ligger i at fylde hullerne imellem det, fordi social tines kan kan noget. Vi kan noget andet, men det vigtige for at møde folk af de 2 fagområder begynder at snakke bedre sammen.
+
+00:43:56
+Og Det er også det, der skal til både for governens struktur, men også for at folk selv tager tager ansvar og forstår, at det handler ikke om at finde ud af, hvem kan løse problemet for mig. Men hvem kan jeg sammen med andre? Hvem hvem er det?
+
+00:44:08
+Jeg skal bare drage op med for at få løst det her problem.
+
+00:44:11
+Vi vil jo enormt gerne ide NK kende fællesnævnerne og have fællesnævnere imellem dem, der ejer problemerne, fordi Det er jo de fællesnævnere, der i virkeligheden af grobund for.
+
+00:44:22
+At vi kan gå ud og lave en slags sammenskudsilder og gode fester.
+
+00:44:25
+Hvor vi får forskellige kommuner og forskellige forsyninger med til at bidrage til løsning af nogle centrale samfundsmæssige problemer og naturligvis ikke kun kommuner og forsyninger, men Det er ofte dem, vi kigger på. Når vi kigger på, kan man sige den offentlige side er meget af det her, der har med vand at gøre. Men universiteter som skal levere forskningen og viden virksomheder, der skal levere produkter og skal måske udføre selve arbejdet og borgerne, som skal have et ønske om det bliver gjort.
+
+00:44:53
+Er jo de grupper Vi skal have spillet sammen, og Det er det Der er det centrale III Vores arbejde, så vi vil selvfølgelig gøre hvad vi kan for at at fortsætte den slags ting og netop det med, at Vi har en videnudbredning IDNNK og Vi har et tekt talk som det Vi har haft i dag, som Jeg vil takke dig meget for at du har at du har stillet op til Carsten. Det har været en fornøjelse at høre på det, men Jeg kan godt se, at Jeg er gået lidt op i de spørgsmål Jeg har stået før. Jeg har været den diskussion Vi har haft.
+
+00:45:19
+Så Vi skal komme lidt videre i teksten.
+
+00:45:21
+Og Jeg vil egentlig bare med det samme gøre lidt reklame for nogle af de næste ting talks der kommer så der kommer et tech talk igen om 2 uger som netop omhandler bæredygtighed er nogle af de her udstillinger. Hvordan kan vi sikre os, at det vi bygger og de anlæg vi laver er bæredygtige og har mindst muligt? Hvad kan man sige CO 2 fodaftryk i den etablering, så kommer der aftaler III.
+
+00:45:44
+December eller i tech talk i december, som om han er nedbørsmålinger.
+
+00:45:49
+Som kommer på og så er der igen tex talks i januar.
+
+00:45:51
+Så alle mulige gode grunde til at Stage un på DNNK kanalen være med på flere tiktok hver onsdag.
+
+00:45:59
+Fra cirka 12-1 så 1000. Tak for i dag.
+

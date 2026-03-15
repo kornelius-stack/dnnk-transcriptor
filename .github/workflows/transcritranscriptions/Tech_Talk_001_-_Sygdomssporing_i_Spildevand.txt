@@ -1,0 +1,633 @@
+00:00:00
+Så Vi har lanceret noget, vi kalder tekt talks og for at Vi har noget, Der er så fuldstændig aktuelt, som Det kan være, så handler det faktisk netop om sygdomsboring og i det her tilfælde om også om corona og hvordan det virker i spildevand. Så Vi har med os i dag 2 fantastiske mennesker, som som vil fortælle os noget, men først og fremmest vil jeg gerne præsentere verden for de her tiktok, som er Pernille fra Hillerød Forsyning.
+
+00:00:25
+Ja 1000 tak for det. Tak for at jeg får lov at være være med i dag. En af årsagerne til at Jeg er blevet inviteret til at være med II det her arrangement i dag.
+
+00:00:34
+Det er at vi gennem de sidste par måneder i en række forsyninger har arbejdet sammen om at prøve at eksperimentere lidt med det her med. Hvordan kan vi overvåge kunne covid 19 i spilde?
+
+00:00:46
+Og Det er selvfølgelig Hillerød Forsyning, som jeg selv kommer med, så er det profor Det er vanside og syd Det er Aarhus vand. Det er hjørringvand og Det er Kalundborg vand eller kold Kalundborg syning.
+
+00:00:57
+Hvor vi ligesom har prøvet at udveksle erfaringer, prøve at få taget nogle prøver og se hvad. Hvad er det egentlig vi vi ser, når vi monitorerer?
+
+00:01:04
+Og Det har jo givet sit anledning til, at Vi har haft en masse interessante diskussioner omkring hvad hvad er praktisk her? Hvad kan lade sig gøre, hvad giver mening? Og Vi har i virkeligheden alle sammen været Sådan lidt kastet ud på på det dybe vand for at prøve at navigere i det her.
+
+00:01:18
+Og Der er i hvert fald.
+
+00:01:21
+Nok flere ting der står så tydeligt men men men 3 ting er er altså meget tydeligt det det ene. Det er det her med at et hav af andre lande i Europa også der monitterer man allerede for det her og Danmark. Vi kan ikke Sådan helt blive enige om hvad vi vil eller ikke vil så på en eller 2 måde kan det jo se ud som om Vi er er bagud, men samtidig når man ser på de monitteringer Vi har via de hvide telte, så er vi måske i virkeligheden forude, men men ikke på spildevand men men Der er i hvert fald Sådan et eller andet med.
+
+00:01:48
+At, hvis Danmark vil være førende på vand, hvor er vi så henne? III den her debat.
+
+00:01:55
+En 2 ting som er meget tydeligere, har i virkeligheden været det for hver Forsyning, som har forsøgt at tage kontakt til til de sundhedsmyndigheder. Det kommunale sundhedsmyndigheder har sagt. Der er den her mulighed.
+
+00:02:05
+Hvad er i interesseret i data? Hvad vil i gøre ved det? Vi har en mulighed for at fortælle jer noget nyt hvad, hvad gør vi ved det og og i alle kommuner har.
+
+00:02:16
+Sponsen lavede Sådan lidt. Ja jo måske ved.
+
+00:02:21
+Og Det har i virkeligheden betydet, at dataene kunne udstandtes og sundhedsprylninger og Sådan noget. Så hvis det ikke rigtig interesserer sig, så er der jo ingen grund.
+
+00:02:30
+Der får de der film jeg nævnte, så har vi allesammen taget et par prøver for lige at at erfaring med det, og så har vi stoppet den igen fordi der.
+
+00:02:40
+Det 3 som som Jeg synes er interessant nu når Frank han kommer. Det er at Vi er jo blevet kontaktet af forskellige der der kan måle de her ting og Det er 2 er en af dem der kan måle på på RNA og DNA fra fra covid 19 og eurofins har også tilbudt sig med deres analyser og de har en noget forskelligt. De 2 parter har en lidt forskellig betolkning af hvor hvor sensitiv analysen er speciel når Vi har de de lave konsultationer, så Det er også Sådan en ting som Vi har Sådan har måttet navigere i og hvad hvem tror vi på og hvad?
+
+00:03:10
+Virkeligheden er Vores kompetence indenfor det til at lave Sådan en saglig vurdering er jo ikke tilstrækkelig til den rigtige at gøre endnu.
+
+00:03:17
+Men man kan sige det som, som i hvert fald er, er meget tydeligt i gruppen. Det er at at Der er nogle muligheder i det her ting. Der er nogle muligheder for, at forsyningen kan spille sammen med med sundhedsmyndighederne.
+
+00:03:28
+Jeg hørte et interview dem eller en artikel fra zetland mandag, hvor du sagde at spildevand i virkeligheden er et stort flydende regneark, og det synes jeg egentlig var et var et meget interessant observation, at Der er et hav af forskellige ting, vi kan måle. Så hvad er egentlig interessant at måle og giver det mening at lave?
+
+00:03:43
+Måle længere for covid 19 og hvad for nogle prodsætninger?
+
+00:03:46
+Så jeg glæder mig meget til at høre hvad Frank har at sige i dag.
+
+00:03:51
+Om de ord, så tror Jeg vil give ordet til min Frank.
+
+00:03:57
+Jo tak.
+
+00:03:59
+Så og kan i høre mig?
+
+00:04:04
+Så Det er godt og 1000 tak for at jeg blev hvad hedder det inviteret det? Det er jeg glad for hvad hedder det altså faktisk hedder et rigtig rigtig rart at få lov til at snakke lidt om spildevand fordi altså Det er faktisk noget Jeg synes er utrolig væsentlig så lige for lige at springe hen til til hvad hedder det første første slides her altså jeg blev bedt om at snakke lidt omkring, altså global overvågning baseret på spildevand, så Det er jo Sådan set ikke altså kun.
+
+00:04:31
+Coronavirus Det kan jeg også godt snakke om. Der hedder det meget længe om, men altså hvad hedder det altså spildevand har jo altså fantastiske perspektiver. Jeg synes egentlig det der med jamen altså et hvad hedder det et kæmpestort regneark?
+
+00:04:42
+Det er fuldstændig korrekt, men når man Sådan kigger ind i et kæmpestort regneark, skal man også begynde lige at se. Hvordan er det egentlig man finder de rigtige mønstre og hvord er det for nogle tal man kan tro på i Sådan et regneark, og Det er måske nok der hvor hvis man kun kigger efter en ting, jamen så kan man måske miste det der. Måske er det allervigtigste i Sådan et et stort regneark.
+
+00:05:00
+Jeg skal lige sige, at jeg kommer fra Danmarks tekniske Universitet. Jeg har arbejdet med overvågning ja de sidste 25 år. Det er jeg ved at være lidt for længe efterhånden.
+
+00:05:09
+Måske endda. Jeg er også leder af nogle forskellige referencelaboratorier, så Det er både for EU, for verdens sundhedsorganisation og også for altså færge. Og det betyder så også at altså mit primære arbejdsfelt, altså Det er altså i hvad hedder det.
+
+00:05:23
+Det hedder i det der hedder lown middle incom country altså Sådan Det er II udlandet.
+
+00:05:28
+Og Det er også lidt altså Danmark er et lille land og et vigtigt land selvfølgelig, men på verdensperspektiv Der er der rigtig mange andre lande, så Jeg er nok lidt Sådan som det vel hedder på moderne dansk mod de der. Hvad hedder det lande i udviklingslande som det hed i gamle dage ganske kort? Jeg er uddannet dyrlæge, Jeg har en PHDI yverbetændelse hos hvad hedder det kvæg.
+
+00:05:49
+Det har ikke noget som helst med overvågning at gøre, absolut ikke, så Det var egentlig lidt tilfældet at jeg.
+
+00:05:55
+Og så arbejdede med antibiotikaresistens. Det var egentlig.
+
+00:05:58
+Det det kom lige pludselig op i 1995, og så blev jeg bedt om at at skifte felter, og så er jeg egentlig ja. Jeg var på en sektorforskningsstation, jeg gjorde i barsel der blev sagt og og Det har jeg Sådan set gjort lige siden. Og så er jeg leder af de der referencecentre der.
+
+00:06:13
+Jeg tror måske nok, at jeg behøver ikke at snakke meget længe om for at Sådan at overbevise folk om at infektioner. Det er et væsenligt problem. Nu skal du selvfølgelig også lige huske på.
+
+00:06:22
+Der er selvfølgelig også andre problemer her i verden end de infektionssygdomme. Altså. Det er jo ikke noget der Sådan.
+
+00:06:28
+Fjerner menneskeheden fra hvad hedder det overfladen her? Altså klimaforandringer og deslige kunne måske nok lige være oppe hvor hvad hedder det? Det er.
+
+00:06:36
+Det er på den værre side en en infektionssygdomme, men Det er et stort problem, og Det er altså også Vi har altså Der er utrolig mange ting der kan gøre at vi bliver syge og der kan sker der kan gøre at der sker et eller andet med samfundet, Der er det der gør os syge hver eneste dag, som vi nogle gange måske har lidt med at glemme, at vi ikke vi kalder det de stille epidemier.
+
+00:06:56
+Det kan være Sådan et antibiotika assistent. Det er det der gør at man ikke den enkelte person person ikke lige kan blive behandlet derinde, at man måske har nogle dødsfald Sådan løbende henover året. Men Det kan altså være en kæmpe kæmpe kæmpe stor sygdomsbyrde.
+
+00:07:07
+Specielt hvad hedder de der altså udviklingslande der og Det er der nok der der koster rigtig mange af de der vi kalder davidy der skal også høre lidt på fornylig hvor man snakker om. Ja hvor mange livsår er det egentlig man mister med corona verden eller noget andet? Og Det er klart at Det er en femårig der dør.
+
+00:07:20
+Jamen har jo mistet flere.
+
+00:07:22
+Livsår end end Der er på 95.
+
+00:07:24
+Sådan. Sådan er det jo nu engang, og Det er nogle ting man skal nok lige have glemt en lille bitte smule også i den her corona eftermiddag, så er det dem der med lokale udbrud altså salmonella. Det kan være enorm.
+
+00:07:36
+Hvad hedder det omkostningsfuld bestallisemonet ministerie specielt for dem der producerer en bestemt fødevarer, og det ser vi igen og igen og igen, og Det er altså virkelig noget der skaber sig stor. Hvad hedder det økonomisk indbydelse og selvfølgelig også koster menneskeliv og selvfølgelig pandemier, som vi jo har altså nærmest hvert eneste år med influenza.
+
+00:07:52
+Og så selvfølgelig corona, men altså også kolera som i nogle dele af verden vil så sige at Jeg har personlig ven der. Hvad hedder det? Sundhedskommissær fra østafrika?
+
+00:08:02
+Hvad hedder det? Gibson kiwi kibi han de har jo ikke gjort noget ved corona, de siger jamen Det er simpelthen ikke det største sundhedsmæssige problem de har dernede i den del af Afrika, og det må jeg så sige det det. Det vil jeg i øvrigt nok helt personligt give give ham ret i konsekvenserne kan være ganske enorme sygdom.
+
+00:08:19
+Dødsfald og så selvfølgelig også økonomi.
+
+00:08:22
+Men hvis man går ind og ændrer på økonomien, jamen så kan det jo have nogle rigtig mange andre effekter af, at man ikke kan bekæmpe 2 form for sygdom og helbredelse, operationer, vaccinationskampagner og så videre senere hen. Så Det er en utrolig komplekst emne og noget som vi alle sammen. Hvad hedder det meget gerne vil være lidt på på forkant med så det vi behøver.
+
+00:08:41
+Det er jo egentlig ret enkelt, og det vil så i øvrigt hvad hedder det behøvede i risse mange år. Jamen Det er jo egentlig bare at i realtid at have.
+
+00:08:49
+Viden om forekomst af.
+
+00:08:51
+Alt hvad der kan gøres syge hvor er det henne altså hvad sker der? Er der noget der stiger? Er der noget der falder er der noget Vi skal være opmærksomme på, og hvad er det egentlig der giver mest skade her rundt omkring i verden?
+
+00:09:04
+Vi skal kunne sammenligne nogle steder og observere tendenser over tid. Altså Vi skal selvfølgelig kunne sammenholde det her med andre former for data, så altså så sige jamen hvad er det der driver de her epidemier? Altså hvordan er vi og dermed hvordan kan vi bedst bekæmpe dem?
+
+00:09:18
+Og så selvfølgelig skal hvad hedder det skal skal videreføre den her information til dem som tager en eller 2 form for aktion.
+
+00:09:23
+På det. Det kan være sundhedsmyndigheder, men Det kan jo også være den lokale læge heller ikke kan være folk selv, der måske skal tage en eller 2 form for aktion. Også firmaer, der skal udvikle vacciner, diagnostiske tests og så videre.
+
+00:09:34
+Noget af det vi kan se, Det er, at Det er utrolig svært og altså det her. Det kræver virkelig standardisering, fordi altså deling af data over tid eller imellem lande. Jamen altså det hvad hedder det kræver standardisering første gang vi blev bedt om at lave noget global overvågning.
+
+00:09:49
+Det var jo verdens sundhedsorganisation Det var i. Hvad hedder det lige omkring altså i år 2000?
+
+00:09:53
+Kunne vi samle data ind omkring salmonella forekomst fra hele verden. Det prøvede vi på problemet, og vi fik sørme også en masse data sendt ind. Det var så dengang.
+
+00:10:02
+Hvad hedder Det var på fax og hvad hedder det excel ark og Sådan noget der problemet er bare at folk de taster jo ind på deres eget sprog, så hvis man sidder med et excel ark eller en fax hvor det står på thai ja for min skyld hvad hedder det tysk eller hvad som helst? Det er fuldstændig umulige at gøre noget der. Desuden jeg talte at folk de var i stand til at stave salmonella på 50 forskellige måder.
+
+00:10:24
+Jeg ville ikke være i stand til at gøre det, hvis jeg forsøgte det. Men altså Det er bare. Det er totalt umuligt at hvad hedder det standardisere så noget af det Vi har kigget rigtig, rigtig, rigtig meget på de senere år.
+
+00:10:34
+Det er faktisk det sidste årti. Det er, at hvis nu man karakteriserer bakterier ved at man simpelthen bare sekventerer dem, det vil sige tager hele deres arvemasse, og Det er jo egentlig bare 4 bogstaver i et kæmpestort. Det er Sådan ja tekstfil at nu er der så en tekstfil Der er mange millioner hvad hedder det bogbogstaver lang, så Det er ikke Det er lang tekstfil jamen Det er faktisk automatisk standardiseret.
+
+00:10:54
+Og det giver jo nogle enorme perspektiver i faktisk at have noget Der er stabilt og standardiseret over verden og overtid, så Det er noget Vi er meget fokuseret på. Vi skal sekvenserer tingene og dermed dele sekvensinformation.
+
+00:11:06
+Det er jo også det Vi skal bruge, hvis Vi skal sammenligne over tid eller data og mulighed for at sammenholde med andre data. Og så selvfølgelig det der med, altså at hvis man vil have en blivende overvågning af et eller andet, som ikke er hvor man kun kigger efter noget, man kender, hvis man skal ud og lave en eller 2 overvågning. Og så sige jamen Jeg vil vide.
+
+00:11:22
+Jeg vil overbo for et eller andet. Jamen så skal man jo vide hvad man overbrove først, fordi ellers så må man jo ikke undersøge det. Altså hvis man ikke går ud og tager en prøve fra et menneske i dag, så må man i princippet kun tage den information som man har sat sig for at undersøge.
+
+00:11:35
+For ellers så skal man søge en ny etisk tilladelse. Det gør det jo meget, meget, meget svært at have en løbende overvågning, hvor vi ikke aner hvad vi egentlig skal lede efter, så altså ikke human data kunne jo være rigtig, rigtig rigtig Richard.
+
+00:11:47
+Og Det er jo selvfølgelig for os til at kigge på. Jeg ved godt Det er Sådan lidt. Hvad hedder det?
+
+00:11:49
+Det her er Sådan klassisk overvågningspyramide. Hvad hedder det noget hvor man siger, hvad er det egentlig der sker?
+
+00:11:56
+Når man Sådan tænker på en eller 2 form for spredning af en sygdom. Jamen Det er noget med noget kommer et eller andet sted fra, og Det er Sådan set ligegyldigt om Det er coronavirus eller antibiotikaresistens eller arabisk eller pokker. Det kan være ikke, men altså coronavirus formentlig hvad hedder det flagermus eller deslige så hopper det over til nogle hvad hedder det mennesker der så har koloniseret og Der er jo rigtig mange Der er kommuniseret raske sunde mennesker Der er kuliseret, nogen bliver syge, nogen kommer til læge, nogen bliver altså faktisk endda testet.
+
+00:12:24
+Og så videre og så videre og til sidst så siger man altså noget til sundhedsmyndighederne, men Der er Sådan en her det. Det er jo meget få, og Der er altså også en eller 2 form for tidsinterval. Hvad hedder det mellem?
+
+00:12:33
+Altså de første Der er kokoniseret og raske og fuldtids symptomløse til, hvor man altså faktisk får hvad hedder det. En notifikation til myndighederne ydermere specielt indenfor resistens er det Sådan, at man har første behandler man med noget, så er man noget andet og til sidst med noget 3 og Det er jo egentlig kun dem herovre. Maleritinteresserer sig for assistens.
+
+00:12:51
+Så det. Det er måske der fokus meget har været hidtil, men hvis nu vi flyttede fokus herud og faktisk sagde hov, kunne vi ikke se, hvad der sker hos de raske mennesker. Det kunne i hvert fald være et godt supplement til en eller 2 form for overvågning.
+
+00:13:04
+Og desuden hvis man kunne gøre det her anonymiseret jamen så hvad hedder det kunne man jo overvåge for alt og ikke kunne efter ganske få specifikke ting.
+
+00:13:12
+Og så så der var ikke Sådan nødvendigvis langt fra. Hvad hedder det til halling for os? Har det måske været der har været mange år for, for Jeg har haft set det fået en forståelse for det her.
+
+00:13:20
+Så Det var faktisk først Sådan cirka en en 10 år siden vi tænkte OK, det kunne da egentlig godt være at vi skulle ud og kigge i spildevand, fordi spildevand er jo fuldstændig fantastisk. Altså. Det er jo Sådan efter at have arbejdet med.
+
+00:13:30
+Hvad hedder det overvågning og altså totalt fejlet i hvad hedder det mere end 15 år hvor det hele er gået galt og vil ikke rigtigt det kunne få noget op at køre på verdensplan så den spildevand. Det er simpelthen der bare er løsningen for os alle sammen folk de går. Hvad hedder det fuldstændig frivilligt ud og leverer en prøve ikke også altså Jeg har prøvet at overbevise folk om at også studerende på DTU.
+
+00:13:50
+At hvad hedder det hver fredag eftermiddag? Altså også med med øl og det hele og vin i øvrigt ikke også. Jamen kom lige med ud, hvad hedder det altså bagved ikke også hvad hedder det smid bukserne og og buck jer ned og så kommer jeg lige med vatpinden her.
+
+00:14:01
+Det kan man altså ikke hvad hedder det fordanske studerende til? Altså Det er Det er uden lade sig gøre og så må man så vist nok heller ikke og i de her krængselider så må man slet ikke, men Der er jo noget etik i det også med spildevand man leverer fuldstændigt frivilligt en prøve den kommer ned. Hvad hedder det der i toilettet og lige så snart den ned i toilettet så tilhører den ikke folk længere så tilhører den vej.
+
+00:14:19
+Eller også tillader den i hvert fald altså jeg går Sådan til og ja eller hvem der altså det. Det er da helt fantastisk og Det er blandet i forvejen, der behøver ikke at selv at stå der og blande det. Hvad hedder det?
+
+00:14:27
+Laboratorier og alt det der bøvl med det fuldstændig? Hvad hedder det eminent? Der er selvfølgelig mange former for spildevandsanlæg, men tanken er der, og Det er så da bare om at prøve at udnytte det, så det det synes vi Det var.
+
+00:14:37
+Det var da alle tiders vi hvad hedder det Der er 2 muligheder når man så siger nu har vi en prøve, vi kunne jo godt gå ud og sige vi kigger efter en ting.
+
+00:14:46
+Men så i lige har sagt at Der er rigtig mange ting og vi vil gerne kunne kigge efter det hele. Så skulle vi ikke bare tage og prøve at vi tager bare og segmenterer helt skidtet dernede og så prøv at se kan vi finde ud af bagefter hvad der egentlig var dernede og Det er noget vi kalder metanilom altså, og Det er egentlig bare vi oprinser bare al arvemassen Der er i en prøve fuldstændig, og Det er altså også om Der er parasitter om Der er rester af mennesker og Der er alt muligt andet. Ikke også vi oprenser alt hvad Der er dernede.
+
+00:15:12
+Og så tager vi simpelthen og får så fuldstændig tilfældig. Blandt det tager vi så små fragmenter på cirka 300 basepar Sådan og så hvad hedder det? Sekventerer ud af det.
+
+00:15:21
+Det gør vi Sådan ja en 35 70 mio. gange. Det er fordi Sådan en stikprøve vi tager rigtig mange af, og så kan vi jo til bagefter jamen hvor mange hvad hedder det passer Sådan af det og med det og med det og med det og med det og så både se hvad der var og så samtidig kvantificere det.
+
+00:15:37
+Altså. Og jeg tænkte det der som vi vi gik ud allerførst, og så sagde jeg det må vi da prøve. Hvad hedder det se hvis nu vi tager nogle spildevandet fra hele verden.
+
+00:15:44
+Et lille pilot studie her 63 lande 79 byer hvad hedder det samlet ind og så simpelthen smide det over til hvor mange resistensgener er der per prøve og hvor diverse er de her? Vi mappede altså lige til 3500 resistensgener, så Det er ikke Det er ikke altså Det er kun lige resistens, Det er altså 3500 forskellige resistensgener, vi så også kan inficere her.
+
+00:16:04
+Og vi kunne Sådan set bare se lige i første omgang. Jeg tror næsten Jeg kan godt overbevise folk om at altså Europa og Nordamerika og resten af verden former eller danner ligesom Sådan 2 forskellige kloster. Det er noget vi arbejder.
+
+00:16:15
+Hvad hedder det meget videre med lige nu? Vi har også prøvet at sammenligne de her data med andre data og så se hvad kan forklare den her forekomst i resistens, når vi kigger på hele verden altså monitorerer hele verden, er det antibiotikaforbrug? Det er det faktisk ikke ret meget.
+
+00:16:30
+Det er mere Sådan noget april, hvad hedder det relateret til hvor udviklede landene er? Vi har kigget lidt nærmere på det og så se, når det ser altså ud til at det primært er faktorer. Relatorer relateret til sundhedssystemet og så specielt til hvor meget transmission og hvor meget hvad skal man sige rent vand og god sanitet Der er der gør hvor meget resistens man har, så den største driver for forekomst af resistens på verdensplan.
+
+00:16:52
+Det ser altså ud til at være altså god hygiejne. Hvad hedder det og godt hvad hedder det kloaksystem og så rent vand?
+
+00:16:58
+Hvis man skal være Sådan virkelig skære det ned til benet, så kan man altså godt bruge lidt mere antibiotika i nogle lande, hvis man har styr på de andre ting. Det har vi i øvrigt. Hvad hedder det?
+
+00:17:06
+Haft et et fint samarbejde med verdensbanken om, fordi Det er jo Sådan noget det de så aktuelt kan gå ud og investere i rundt omkring i verden, og så kan man så prælektere Sådan se verden ud og assistensmæssigt.
+
+00:17:16
+At i København har vi også. Hvad hedder det været interesseret i at se? Hvordan ser det ud i øvrigt?
+
+00:17:21
+Her i København har vi haft et rigtig fedt. Vi har fået hvad hedder det prøver 2 gange om ugen for alle 3 steder, bare både hvad hedder det asylanetten hvad hedder det damhus hvad hedder det og så avedøre og så simpelthen se det her Det er bare data over hvad hedder det 1,5 år og i bund og grund det man kan se Det er at restitomet hvor meget resistens Der er Det er enorm hvad hedder det stabilt.
+
+00:17:42
+Over tid.
+
+00:17:42
+Kluketten er lidt anderledes her, og Det er simpelthen hvad hedder det Der er lidt mere. Det hedder Sådan glukode tidresistens, men de har jo også den der fabrik Der er alpharma der jo netop hvad hedder det der producerer global sider derude på på Amager, så det kunne måske nok passe at Der er en form for selektion i kloakken på grund af det her antibiotikafabrik der.
+
+00:18:02
+Men, der findes jo andet spildevand. Noget af det Vi har kigget på. Det har været hvad hedder det virus så vi vi kigger.
+
+00:18:08
+Vi kiggede også efter coronavirus. Vi fandt altså ikke coronavirus. Det prøver fra 2016.
+
+00:18:12
+Der fandt vi ikke noget, men der kunne vi primært set noget omkring hvad hedder det altså nord syd gradient i forhold til det her, så de er humane associerede diarrevideoer det fandt vi altså ikke voldsomt meget af dengang i hvert fald. Vi fik her fortsætter nu vi. Vi har altså rigtig mange flere prøver, vi kigger på omkring det.
+
+00:18:29
+Mennesker.
+
+00:18:30
+Man må godt kigge efter human denne i det her. Jeg har spurgt etisk komité. Det må man godt må man gøre hvad som helst, når Det er spildevand.
+
+00:18:37
+Det tilhører ikke folk længere. Det kan ikke spores tilbage så længe individ, så vi kan se på hvordan at populationerne fordelt rundt omkring i verden og i bund og grund kan man så sige ja ja. Altså i Afrika der lever af afrikanere og så videre og så videre.
+
+00:18:47
+Men igen Det har jo nogle perspektiver i forhold til nogle områder, hvor man så siger, at her vil man altså godt lige vide hvad er den etiske eller etniske, hvad hedder det sammensætning i de her provisioner, så Det kan vi også kigge efter.
+
+00:18:59
+Og så lige hvad hedder det coronavirus? Det er ikke fordi jeg skal snakke meget om coronavirus. Jeg kan godt lide selvfølgelig lige lige nævne det MC Holland altså der har man i hvert fald lige den indladende fase.
+
+00:19:08
+Der starter man meget tidligt med at kigge efter PCR, Det er så ikke metakognisk segmentering, Det er jo her PCR man kigger kun efter en bestemt ting og ikke efter alt.
+
+00:19:17
+Og der kan du jo så se her, at de kunne i hvert fald finde noget i spildevand her og måske lige lidt tidlige i hvert fald i forhold til hvad hedder det de de kliniske prøver og så hvad hedder det? Hospitals indlæg længsel her fra Holland. Hvis man regner på det, så kan man så sige at altså det det afhænger rigtig meget af fordi.
+
+00:19:36
+Den kemiiske diastik var ikke særlig god den der gang så så hvad hedder det den hvis man regner med at der var cirka 50 inficerede for hvert man fandt?
+
+00:19:45
+I testproceduren her, så har man en sensitivitet der ligger ja et eller andet sted med man altså egentificeret ud af hvad hedder det et eller 10.000 mennesker dernede, så Det er Sådan nogenlunde der sensitiviteten ligger. Det er i øvrigt også det vi hvad hedder det nogenlunde regner med. Vi er på det niveau i Danmark, og Det er jo så det afhænger jo også lidt med.
+
+00:20:04
+Samler man meget tæt på et hospital, hvor det hvor spildevandet ikke løber ret langt. Jamen så er virus servicen nedbrudt som hvis man kører, hvad hedder det hvor Det er løbet længere?
+
+00:20:13
+Så Det er altså nogle forhold, der også lige skal tages i betragtning. Der i Danmark har vi utrolig få positive fund, og Det har Sådan set udelukkende været her på på Vestegnen. Altså.
+
+00:20:22
+Vi har faktisk ikke fundet hvad hedder det på fra lynetten.
+
+00:20:26
+Vi har selv været involveret i et et studie. Det var Sådan jeg øver på min formidling i Holland og Belgien, hvor vi tænkte, jamen, det kunne jo være, vi kunne kigge på. Var der mere diverse sekvenser ude i spildevand i forhold til det man ser med med i klinikken?
+
+00:20:39
+Så der, hvor jeg simpelthen tager ud og se på jamen har vi så totalt sekretær? Hvad hedder det ud fra at Sådan et det her? Det vi kalder træer, og Det er egentlig bare noget, hvor man så siger hvor ens er det hver hver lille streg her er simpelthen.
+
+00:20:52
+Hvad hedder det? En en helt toogtyvetusinde basepar lang. Hvad hedder det sekvens fra en virus og så ser man på hvor hvor procent Vi er ens er de, og så kan man lave de her Sådan simularitet, plot og alle de grønne her Det er så hvad hedder det hvor Der er noget Der er fundet i spildevand?
+
+00:21:08
+Og alt det andet. Det er så de de kliniske prøver. Diversiteten er ikke større, men altså vi kan jo sige, vi kan jo Sådan set finde det samme i spildevand som man jo Sådan set finder i de kemiske prøver.
+
+00:21:17
+Man må også sige, at selv II Holland Belgien hvor der jo var har været en højere intendens end Danmark. Der har vi altså ikke kunne kunne finde. Hvad skal man sige mere information end man egentlig havde i forvejen med den kliniske overvågning?
+
+00:21:28
+Det var jeg selvfølgelig lidt lidt ærgerlig over, men men Sådan er det.
+
+00:21:31
+Jamen Der er jo Sådan nogle svagheder man skal overveje. Altså Der er ingen tvivl om at Jeg vil meget gerne sige at at Jeg synes speederens overvågning skal indføres over hele verden, og Det kan kun gå for langsomt. Men man skal selvfølgelig også være være realistisk over for hvad er der af mulig svagheder der?
+
+00:21:48
+Og Det er altså som danning af mange mennesker, så Det er jo klart, at når man tager noget, der blandes af mange mennesker, jamen, så får man altså en mindre følsomhed af enhver form for test end hvis man tester hver enkelt for sig. Det kan ikke undgås, så Der er noget med sensitivitet, man skal forholde sig til. Altså hvad sker der i kloakken?
+
+00:22:04
+Altså man tager altså et eller andet og hælder ud, og så går der altså nogle timer. Hvad hedder det? Altså tager den her prøve, og Der er vækst af andre bakterier dernede og så Sådan nogle endelukys med coronavirus.
+
+00:22:15
+Jamen altså de bliver jo nedbrudt og så Der er nogle ting der måske forsvinder.
+
+00:22:17
+Og det forsvinder når ikke med den samme rate, uanset hvad Det er man hælder derud. Det er vi jo også nødt til at vide, så man ikke bare sige man behandler alt det ens i alle systemer. Det kan være vanskeligt at føre tilbage til individer, så det her Det er på populationsniveau.
+
+00:22:29
+Man skal stadigvæk bagefter ud og have fat i de enkelte mennesker, hvis man laver en eller 2 form for aktiv opsporing, og det vil så sige jamen, så skal man jo egentlig teste 2 gange hvis man lavede det andet i forvejen, og hvor god er altså koalitionen egentlig det man så sige? Det synes jeg også hvad hedder det? Man har en forpligtelse til, i hvert fald i et vist omfang.
+
+00:22:47
+Altså hvad hedder det går ud og som ikke bare er så hals overhovedet gået ud og siger ja ja det her Det er løsningen på alt, men altså faktisk lige forholder sig lidt kritisk til det.
+
+00:22:55
+Vi har selv prøvet et studie og så sige Det er jo det her omkring. Ja, hvad sker der egentlig i kloakken? Og vi tog 2 forskellige bakterier, en frikadella og en stafficoxylo.
+
+00:23:03
+Så Det er ikke fordi jeg regner med i hvad hedder det kender de bakterienavne. Vi har brugt meget tid på at udvælge dem, fordi det skulle være noget som ikke i forvejen findes i kloak og så skal det selvfølgelig være noget vi kan sige. Vi kan dokumentere at det her, Det kan ikke give sygdom.
+
+00:23:15
+Altså selv den her har jo altså været sprøjtet ind i grise og alt muligt. Ikke også jeg må sige den kan ikke give sygdom til noget som helst, inklusiv, selvfølgelig mennesker og så simpelthen sige vi tog simpelthen ja 180 l af hver af 2 kontorer. Det er Sådan altså fuldt opvokset Kultur og så hældt ned efter jeg hedder toilet i kokkedal.
+
+00:23:34
+Det er så her et release point og så hvad hedder det her, hvad hedder Det har vi så hvad hedder det samlet ind pas på man kan gøre regler og så videre her, men Det er vist ikke helt tilbage før barskt.
+
+00:23:43
+Ja tak for alligevel nogenlunde stæt så det Det er store mængder af bakteriekulturer og arbejder med, og Jeg tror også studerende synes at Det var lidt hvad hedder det. Det var lidt meget at køre med frem og tilbage i bilen, så det ikke spilder bakterier ud over det hele.
+
+00:23:57
+Interessant nok, og Det er selvfølgelig hvad hedder det forbløffende nok og skuffende nok kan man sige den her altså på trods af at vi tager på en gang og hellere 180 l ud og Det er total udvekslet bakteriekultur. Det er rigtig mange bakterier.
+
+00:24:12
+Vi fandt intet igen, når vi så kiggede ned. Hvad hedder det ved spildevandsanlægget?
+
+00:24:19
+Rummet for hygus der fandt vi meget, og hvis man ser det der, Det er jo svært at se en kurve her. Men altså her stiller hælder vi noget ud, og så har vi så samlet ind henover tiden og kan se det det peaker her og så falder stille og roligt ud, og så kan vi jo så regne ud hvad vil sensitiviteten cirka være og man kan sige at i bund og grund så kan vi kokkedal detektere Sådan cirka altså hvis der var en person som havde diarré ud af hvad hedder det altså 1000 så Det er sensitiviteten i hvert fald for den bakterier.
+
+00:24:47
+Men husk lige den 2. Genfandt vi altså ikke, så Det er ikke alt der opfører sig i heller isens spilørslanlæg, så konklusioner og så er jeg færdig altså spiders overvågning har meget, meget, meget meget og så forestiller vi lige meget store perspektiver det det synes jeg virkelig altså og og det og Det kan kun gå for langsomt.
+
+00:25:05
+Det er bare ikke relevant i alle situationer eller i hvert fald ikke lige relevant og. Og det det. Det synes jeg også.
+
+00:25:10
+Man skal være være ærlig overfor Jeg synes det bør og kan implementeres øjeblikkeligt for antibiotikaresistens på verdensplan og og det det Jeg kan slet ikke se hvad grunden skulle være til ikke at gøre det nu. Der er rigtig mange lande der ikke har nogen overvågning, altså det, Det kan kun give data vi ikke har i forarbejdet. Det kan kun supplere Vores viden og Det kan gøres nu.
+
+00:25:33
+Og her, men Jeg vil da sige, at Der er altså også stadigvæk behov for flere studier, før vi bare siger at det her Det er noget Vi skal gøre i alle situationer og overfor alting tak.
+
+00:25:43
+Og ja bare Det er jeg får jo penge fra en helt masse forskellige steder. Det er Sådan et patchwork altså og og det her Det er. Det er nogle af stederne.
+
+00:25:51
+Så tak for det.
+
+00:25:59
+Og Der er lyd på nu.
+
+00:26:01
+Tak for en fin præsentation. Jeg tænkte på det lyder jo rigtig, rigtig spændende og og og smart det med man kan samle spildevandet op der i kloakken eller på renseanlægget. Men er der ikke også noget i forhold til at når Det er koblet på helt almindelige riste, hvor Der er andre altså dyr og hunde og andre ting, er der ikke noget noget støj der kan komme i alt det her, når man lige pludselig også har har andet end noget letvand?
+
+00:26:24
+Jo.
+
+00:26:25
+Helt helt sikkert og og Det er Det er specielt gør sig jo rigtig meget gældende.
+
+00:26:30
+I nogle lande altså nu er det jo ikke alle der har et altså tro mig som kommer til til Afrika. Det er jo ikke altså ikke et spildevandsanlæg eller kloakanlæg i en skandinavisk forstand vi snakker om, men Det er simpelthen bare hvad hedder det? Altså en åben grøft ikke og så løber der alt muligt i det, så det skal vi også være være altså have noget mere viden om hvor hvor meget kan det egentlig forstyrre noget af det vi blandt andet gør?
+
+00:26:50
+Det er jo at vi kigger efter er der rester af forskellige dyr, altså er Der er der ris så mange rester af mennesker.
+
+00:26:57
+Menneske DR. Det var da faktisk derfor vi startede med at mappe til, om man så må sige menneske DNAI forhold til den, og vi kan se i hvert fald at heldigvis de her prøver. Vi har arbejdet med der.
+
+00:27:06
+Har det været så primært hvad hedder det altså ja altså hvad skal man sige 99,9% af det øvreo DNA Det har været menneske, så vi tror på at Det er bare Det kan forsøge at ryge tilbage til mennesker, men Det kan man jo justere, for Vi har også prøvet fra hvad hedder det mikset og Vores spildevand og Vi har jo selvfølgelig stort samarbejde hvor vi samler information ind i forhold til til resten af verden.
+
+00:27:24
+Men også i Danmark. Hvis nu vil brede det ud til Danmark. Der kan også være blandingssteder her, som man i højere grad skal være opmærksom.
+
+00:27:31
+Bare Ringsted, hvor hele hvad hedder det? Altså flowet kører jo fra slagteriet og ud. Hvad hedder det i det lokale spildevandsanlæg derned?
+
+00:27:38
+Jamen Det er da helt klart noget Vi skal være. Hvad hedder det Vi skal kigge på som du siger hvad er så værdien af at tage en prøve her kontra her ikke ja.
+
+00:27:48
+Den store mikrobielle diversitet Der er eller i det hele taget patogendiversitet, der kan være nede i det her system. Er der noget man kan, man kan øge sin sin sin sensitivitet, men måske kigge på nogle grupper i stedet for at kigge på enkelt organismer eller enkelte genudtryk, man kan finde i de prøver. Og så har i hørt blandt andet covid, siger man.
+
+00:28:07
+Det er jo i virkeligheden noget, Der er muteret og blevet 24 forskellige virus i dag eller noget i den stil.
+
+00:28:13
+Ja altså, så corona er jo en meget meget meget stor gruppe af af af virus ikke også altså og Vi har jo masser af corona virus i forvejen der cirkulerer hos både dyr og mennesker. Altså man man kan jo selektere både Sådan teknisk og Det kan. Det kan være den måde hvor vi behandler prøven på, altså store verser små partile.
+
+00:28:31
+Det gør vi i øvrigt i forvejen, når vi vi centrifugerer simpelthen her her centrifagerer ud, her er bakterierne, her er vi jo Det er en måde at gøre det på, og så er der jo hvad hedder det, men når vi så skal lave den der metaine segmentering jamen der der.
+
+00:28:43
+Tager vi altså alt DNA. Der er ikke lige Sådan nogen mulighed for at at agere der. Man kan lave noget capture secreting.
+
+00:28:48
+Det fungerer altså ikke så godt, vil jeg sige man mister noget information hver gang, og så kan man selvfølgelig lave PCR ambition af både af grupper og og af i bund og grund Sådan.
+
+00:28:59
+Vores erfaring lige nu er hvis man så skriver meticonvejen, så er det at Det kan simpelthen bedre at betale sig bare at segmentere dybere fordi altså hver eneste step koster alligevel penge, så Det er altså penge er bedre brugt og og og et sikkert resultat der. Men men selvfølgelig hvis man siger vi ser os kun for en ting som jo snakken er lige nu med coronavirus, jamen så vil det da være billigere at lave en PCR end at lave en metakognittering. Det er da Det er da helt sikkert.
+
+00:29:22
+Til gengæld så fanger man en ting og får slet ikke konteksten og og det synes jeg jo er brandærgerligt i hvert fald.
+
+00:29:33
+Nu siger du, Vi er klar til at lave antibiotika resistente bakterier og overvåge det, men gør det jo så ikke kan man sige så så hvad er det der? Hvad er det der står i vejen lige nu for at at komme videre med det projekt?
+
+00:29:47
+Jamen Det er så kan man sige altså i Danmark. Det skal jeg ikke udtale mig på verdensplan. Jeg har så blev vi som sagt jo selv referencellaboratorier på verdenssundhedsorganisation, så vidt Det er os der rådgiver dem på verdensplan.
+
+00:29:59
+Der er det jo at den måde man har den nuværende overvågning på og det de har det der global. Hvad hedder det suveræne og phantom crob assistents? Det hedder glass Det er at de får indrapporteret data fra forskellige lande, hvor de i forvejen laver klinisk diagnostik.
+
+00:30:14
+Så Det er jo egentlig gratis. De skal bare have data ind, hvis man skal implementere noget baseret på spildevand, jamen så skal man have nogen til at fysisk og tage prøven sende den et sted hen, den skal analyseres og den skal segmenteres, så Det er jo et spørgsmål om penge, ikke et eller andet sted hen på den nuværende overvågning. Der har man noget kørende i forvejen, fordi Der er nogen folk bliver syge, og i mange lande betaler de så for at finde få undersøgt hvad de bliver syge for.
+
+00:30:37
+Men det gør jo så også, at den her nuværende år er meget skæve vrede i forhold til Europa og Nordamerika.
+
+00:30:42
+Og nærmest ikke eksisterende i resten af verden, så det det ender jo med. Altså hvem skal nu betale?
+
+00:30:48
+Og altså. Vi har selv altså altså givet et bud på det altså også hvad hedder Det har jo egentlig stor støtte også af WO men men igen de skal jo også finde en eller 2 der så kan ud altså dobbelt o har jo ikke penge specielt ikke nu hvor hvad hedder det USA har trukket sig de har jo de har jo de har jo støttet os i det her. Det er jo dem der har betalt for forsendelsen af prøverne indtil videre, men de kan de kan simpelthen ikke tage regningen for det her.
+
+00:31:12
+Hvad? Hvad hvis man ser på et land som Danmark, som måske er lidt bedre økonomisk stillet end end end andre lande II verden? Hvad hvad er det der står i vejen?
+
+00:31:21
+Her er det også pengene.
+
+00:31:24
+Det det delvis vil jeg mene og så selvfølgelig også, at Der er jo penge i det danske system, men Der er jo masser af overvågningspenge nogle steder, men så er det jo også noget med, at hvis man skal have penge til noget, så skal man jo fjerne det fra noget andet. Så Jeg tror måske Der er nogle traditioner så meget i vejen der, og så er der jo ingen tvivl om, at Der er en konceptuelt i den der. Hvad hedder det?
+
+00:31:45
+Jeg tror jeg, jeg viste jo den der pyramide der ikke også, altså hvis man sidder som læge, så er man meget vant til at se her på det her de kritiske syge.
+
+00:31:52
+Det der med hvad hedder det raske mennesker? Det er lidt lidt fjernt, så Jeg tror måske også Der er noget Sådan rent traditionelt og konsekventuelt der. Der står en en anelse i vejen for det her, og Det er jo selvfølgelig ærgerligt, men Sådan er det jo.
+
+00:32:03
+Jeg vil så sige, Der er så også rigtig mange der hvad hedder, Det er meget støttende omkring Sådan et system, men at man igen hvem skal nu betale? Og Det er sundhedsministeriet skal så det de de kan jo bedst lide, hvis Det er noget der foregår på hospitalerne, ikke?
+
+00:32:17
+I det store jordskælv Det var i haiti for nogle år siden, der der døde. Jo flere 100.000 mennesker ved jordskælvet, men endnu flere af kolera efterfølgende. Nogle ting kan man jo næsten vide på forhånd, at det kommer til at ske, men det ville jo være fantastisk værdifuldt, hvis nogen af den her type data og viden blev brugt, til man faktisk kunne have leveret den forecast, så havde verdenssamfundet måske reageret hurtigere.
+
+00:32:38
+På den kontekst er der. Er der tale om, at Sådan noget kommer til at ske og i internationalt samarbejde?
+
+00:32:43
+Ja nu er det jo i øvrigt. Hvad hedder det faktisk os der påviste at det det det der kolera det det kom fra Nepal ved og netop er Det er total sikret. Det var et af Vores første store projekter internationalt, så det det det det kender jeg vældig godt, vil jeg sige i det der tilfælde der.
+
+00:32:59
+Men hvad hedder det? Det er der Vi har i øvrigt selv et et større projekt fra det, der hedder altså gates fonden, hvor vi hvad hedder det prøver af i 4 lande i Afrika og man kan lave en en overvågning af patogen og ikke resistens, men netop altså.
+
+00:33:14
+Bakterielle patoganer og Det er så i altså i show på hende, mozambique, tanzania og Nigeria, hvor vi prøver det af, og Det har de i hvert fald fundet interessant nok den her tankegang til at de har vil godt lige investere i at jamen det her det prøver vi af. Nu må vi så se hvor godt det kommer til at fungere, men indtil videre er er jeg Sådan set meget fortrøstningsfuld.
+
+00:33:32
+Jeg vil bare sige til jer Der er med online at i er velkommen til at stille spørgsmål Vi har. Vi har tid til det, så hvis Der er nogen så skriv dem bare.
+
+00:33:43
+I kan også gøre det anonymt, så hvad hedder det? Det er Der er også mulighed for.
+
+00:33:48
+Jeg skynder mig at stille et spørgsmål mere, så de prøver og og det bliver arbejdet i har lavet indtil videre så udgangspunktet Det er at få tilsendt spildevand. Det er jo ubehageligt dels at udtale prøverne også at sende dem. Hvornår kan man komme til at få et et udstyr, der i virkeligheden er autonomt?
+
+00:34:05
+Laver en en dyb sekventering, som man satte ned i en kloak, altså teoretisk set kunne man vel godt komme ud med en lille målecontainer, men hvor lang tid tager det at lave prøveforberedelsen, og hvor meget af det vil man kunne?
+
+00:34:16
+Automatisere til at få en kontinent overvågning.
+
+00:34:20
+Uha Det var Det var se de der spørgsmål. Hvad hedder det der? Nogen gange ville ønske hvad hedder det ikke jeg ikke fik fordi det Det er svært at spå specielt om fremtiden jo som salighed storm p sagde Der er ingen tvivl om at der Der er noget udvikling inden for segmenteringsteknologien, som altså er er godt på vej og der tænker vi nok primært på nogle af de her små a journalister, se nogle af de nye små segmenteringsmaskiner altså de der mindeejeren der de fylder ikke ret meget.
+
+00:34:47
+De er sat bare lige og sige på de er noget dyrere stadigvæk end de andre teknologier Der er. Men så er der prøveforberedelsen, og den er altså stadigvæk noget med at man skal have den her speedersprøve altså. Det skal jo se om det fungerer ned og og det gør man altså ikke bare med en lille.
+
+00:35:03
+Hvad hedder det håncenterfrue altså der skal altså lidt mere speed på ikke for at få bakterier ned, så skal de såes i stykker bakterierne her.
+
+00:35:12
+Og og det det det kræver altså også lige det kræver lidt udstyr, men så skulle det lige pludselig til at have ondt sig.
+
+00:35:17
+Automatiseret og jeg jeg tvivler på, at det bliver det inden for det næste det næste årti. Det må jeg nok erkende. Men det man kan sige med spildevandsovervågningen og måske lidt i forhold til den kliniske overvågning.
+
+00:35:28
+Det er at man har jo det der totalt fleksible system, fordi man kan jo altså i princippet kunne man jo starte nu hvor man altså hvad er deres tier 180 lande sender det hele sted hen det sekund land a er klar til selv at lave DNA afgrænsning, så kunne de jo nøjes med at sende DNA.
+
+00:35:44
+Det sekund de også skal sekventeres, så kan de bare sende data.
+
+00:35:47
+Altså. Og man kan jo stadigvæk være integreret i de samme system. Det kan man ikke med en klinisk overvågning, der kræver at man har et klinisk laboratorie etableret og kørende hele tiden.
+
+00:35:56
+Sådan så det. Det er noget man kan sige. Man kan implementere det nu og behøver ikke at bruge 2 mio.
+
+00:36:00
+dollars på at justere i et laboratorie, før man har nået op at køre min egen segmentering. Altså ja vi, vi tester det i øvrigt selv. Vi er ved at prøve at rulle netop min egen segmentering ud II hvad hedder det i tanzania?
+
+00:36:14
+Og det. Det håber jeg jo, så vi vi altså også får. Hvad hedder det startede støtte til at det bliver en succes, så Jeg vil da skyde på.
+
+00:36:21
+Vi har noget vi kan teste det her af indenfor altså næste næste års tid. Det er i hvert fald nogle enkelte steder, men med streg under enkelte steder tror jeg nok lige Jeg vil sige.
+
+00:36:36
+Jeg får at vide, at der ikke er flere spørgsmål, så først og fremmest vil jeg sige 1000 tak for et super interessant indlæg. Håber på virkelig også spildevandsbranchen. Vi synes Det er interessant at at tage den her rolle på, så man kan sige, Der er jo en masse nye ting de skal lære.
+
+00:36:50
+Hvad siger du?
+
+00:36:53
+Er det fint nu? Sorry.
+
+00:36:55
+Man kan sige, hvis hvis forsyningerne skal gå i gang med at gøre noget der, så er der i hvert fald en masse nye ord, Vi skal lære er Det er det meget tydeligt, og jeg ved fra erfaring. Der er også noget GDPR, vi lige skal have helt styr på hvordan hvordan vi vi får det til at fungere, men først og fremmest skal vi også have etableret nogle nye samarbejder. Det er jo samarbejder med jer.
+
+00:37:14
+Det er med sundhedsmyndighederne, hvor hvor Søren får, får man det til at fungere.
+
+00:37:19
+Så jeg tænker der. Der er virkelig mange mange step frem og tilbage og det mest logiske step lige nu er jo i virkeligheden at få lavet nogle nogle flere forskningsudviklingssamarbejde omkring de her emner.
+
+00:37:29
+Så det det håber jeg virkelig vi kan. Vi kan få sat gang i ja.
+
+00:37:33
+Men altså hvis i har interesse for og og råd til velmærke at investere i det jamen altså så er vi jo. Hvad hedder det meget villige til at komme med forslag til hvad der kan gøres, men men altså det Det er ikke gratis. Det må man jo nok erkende.
+
+00:37:45
+Desværre så Sådan noget her. Jamen altså i Vores hænder, så hvad hedder det? Så snakker vi jo nok omkring en 5000 kr.
+
+00:37:51
+per prøve ikke?
+
+00:37:53
+Men, men Det er Sådan Vi har prøvet.
+
+00:37:55
+Og hvis hvis jeg må så sige, men Vi har udstyr og så videre. Hvis de skal køre det, så må vi nok sige at det det bliver nok lidt dyrere at prøve, ikke?
+
+00:38:06
+Nogle kommercielle partnere, som er i gang med at at gøre sig klar og processionelle, så det her ligesom også kan gøre det billigt.
+
+00:38:12
+Nej nej men det det ej. Men vi kan altså nu siger jeg metaken Der er jo forskel fra en meteorinum analyse versus en enkelt analyse. Hvad hedder det nu?
+
+00:38:20
+Nu ved jeg ikke. Jeg tror sidst jeg regnede ud. Nu skal jeg løse ægget op på tal, men men Jeg tror da nogenlunde for som corona analyse så snakker vi noget med en 1500 kr.
+
+00:38:29
+ikke altså og det Det er ikke Det er ikke helt skævt vil jeg sige, men medierne om analyse hvor du har alle.
+
+00:38:36
+Der der der Der er forskel på at kigge på efter 1000 eller ja millionvis af sekvenser og så kun en og det det ja ja ja men hvis man nu skulle lave hvad hedder det enkelte analyser? Hvad hedder det en million gange? Hvad hedder det 1600 kr.
+
+00:38:51
+altså så er det billigt at lave det hele på en gang ikke ja.
+
+00:38:56
+1000 tak for at i kom i dag.
+
+00:38:59
+Så har jeg lovet lige og fortælle at den 11. Så har vi tænkt.
+
+00:39:43
+Tak for det det sidste jeg lige ville sige Det var at den 11. november der kommer der tiktok igen og Der er det professor Carsten arnbjerg Nielsen, der kommer og fortæller om, hvordan oversvømmelsesrisikoen udvikler sig over tid, så Der er i velkommen til at være med igen.
+
+00:40:00
+Og med det vil jeg bare sige tak for denne gang og håber i har haft 1 1 1 fin oplevelse i dag.
+

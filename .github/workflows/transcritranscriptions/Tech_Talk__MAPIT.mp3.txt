@@ -1,0 +1,1137 @@
+00:00:14
+Her er alle.
+
+00:00:16
+Velkommen til dagens Tech Talk.
+
+00:00:18
+I teknikken sidder Morten Halling, og jeg, Kristoffer Sindby, er dagens vært.
+
+00:00:23
+For god ordens sky skal det siges, at Tech Talk bliver optaget og lagt på DNSK's hjemmeside i løbet af en uge.
+
+00:00:31
+Lidt i forhold til det praktiske, så kan I stille spørgsmål løbende under Tech Talken, og I skal være meget velkommen til at gøre det undervejs.
+
+00:00:38
+Og så vil jeg samle dem op i slutningen af Tech Talken og stille dem højt, så I kan få svar på spørgsmål.
+
+00:00:45
+Dagens tech talk i dag er omkring giftværktøjer til bidragsfordelingsmodeller og arealbindingskort til kystbeskyttelsesprojekter.
+
+00:00:55
+Kasper Thybo fra Mølbak, landinspektør, vil fortælle meget mere.
+
+00:01:01
+Kasper, ordet er dit.
+
+00:01:03
+Værsgo.
+
+00:01:05
+Tak for det.
+
+00:01:06
+Så må vi se, om vi kan få teknikken til at virke.
+
+00:01:10
+Som sagt, er det dagsundet i dag, at jeg kommer med en kort introduktion om, hvad jeg er for en.
+
+00:01:16
+Så vil jeg vise jer ganske kort, hvordan vi laver vores ejerhjælp.
+
+00:01:24
+Efterfølgende vil jeg vise tre forskellige måder, vi kan hjælpe kommunerne med at simulere forskellige bidrag, og hvordan man kan vise de her kysbeskyttelsesbidrag på et kort, og så slutte af med nogle spørgsmål.
+
+00:01:41
+Jeg hedder Kasper Thybo, og jeg er områdeschef for det, vi kalder arealer og rettigheder i Møllebakke Landinspektør.
+
+00:01:49
+Jeg er jurist og uddannelse, men halvdelen af min arbejdskarriere, jeg har kåret bryllup med landinspektørbranchen.
+
+00:01:55
+Jeg har været i godt 12 år i denne her branche, hvor jeg i de sidste 8,5 år har været i Møllebakke.
+
+00:02:12
+Det, som er Møllbachs vision, det er, at vi ejer selv et GIS-værktøj, hvor vi har vores egen programmører, der kan udvikle nogle forskellige moduler.
+
+00:02:25
+Og det, vi gerne vil, det er, at vi gerne vil kombinere vores landsbygtsudøvelse med sådan et GIS-værktøj.
+
+00:02:32
+Og det, som vi især har søgt til med, det er at kunne georeferere, altså visualisere ejendomsoplysninger på et kort.
+
+00:02:41
+Og det kunne f.eks.
+
+00:02:42
+være de her CVT-redegørelser eller bidragsfordelinger.
+
+00:02:46
+Det er det, jeg vil komme nærmere ind på i dag.
+
+00:02:49
+Vi bruger også vores mappe til andre ting, men det må blive på en anden TikTok, jeg fortæller om det.
+
+00:02:56
+Hvis vi starter med arealbindingskortet til kødsbeskyttelsesprojekter, så er et arealbindingskort dybest set, at vi på et kort visualiserer en CVT-redegørelse, som så også indeholder oplysning om ledninger, som ikke er tinglys, som vi får fra ledningsejreregistret, som er lær, og vi kan også vise naturbindinger, dvs.
+
+00:03:21
+parvtræsøer eller kirkebyggelinjer eller skorbyggelinjer eller andet, der kan være tilhinder, eller i hvert fald være noget, man skal have forhold til, når man skal bygge et anlæg, som en kysbeskyttelsesanlæg er.
+
+00:03:36
+Og det, som er udfordringen, det er, at normalt, når man kontakter en landsbygttør for en servitutredegørelse, så får man typisk et Excel-ark, hvor man får listet alle servitutterne op, og hvor det er beskrevet, hvad det er for ting, de her servitutter regulerer.
+
+00:03:55
+Og så ved siden af det, et andet dokument, får man så en PDF-dokument, hvor man så har vist, hvor de her servitutter ligger henne.
+
+00:04:05
+Og så vil det typisk være sådan, at man i Excel-arket måske kan linke til selve sabbatutteteksten, det man også kalder akten, for at se hvad der står der egentlig i de her sabbatutter.
+
+00:04:18
+Men det synes vi var lidt bøvlet, at det ligger to forskellige steder, så derfor har vi med det her MAPIT-system vi har samlet det hele et sted.
+
+00:04:27
+Så det vil sige, at sabbatutterne bliver vist på kortet, og når man klikker på sabbatutten, så kommer der altså en pop-up-vindue, der viser hvad servicetutten regulerer, hvem er påtalet på rettighed, og så er der også et link, så man kan komme direkte hen til akten.
+
+00:04:42
+Og det vil jeg gerne lige vise en case på her, så hvis jeg lige følger mit link, så...
+
+00:04:51
+Det tager lidt tid, inden den lige bliver indlæst, så er vi nede i Svendborg her, kan I måske se.
+
+00:04:57
+Hvis jeg zoomer lidt ud, så I ellers lige vil opdatere kortet, så kan I se, at vi er på Sydfyn.
+
+00:05:12
+vi har Langeland her og Svendborg by herinde.
+
+00:05:15
+Vi har defineret et projektområde, men det man vil her, det er at man vil bygge det her kystbeskyttelsesanlæg, som vi kalder den blå kant, som er vist med den blå streg her.
+
+00:05:32
+Og så er det jo sådan, at man kan for eksempel vise alle de servitutter, som kommer i kambulance med anlægget.
+
+00:05:42
+Så hvis man vil vide, hvad det er for nogle lysblå felter her, eller turkisfelter, så kan man klikke på dem, og så får man at vide, at det er tale om en deklaration om etablering af parkeringspladser med krav om uhindret adgang.
+
+00:05:54
+Og man kan også se, hvem der er portalberettiget her.
+
+00:05:57
+Det er så de tilhverjende tilhverjende ejere af de her matriklenumre.
+
+00:06:02
+Og hvis man vil se nærmere ind i akten, så kan man følge linket, og så kan man, efter den lige har opdateret, så åbner den så.
+
+00:06:18
+Det plejer nok at gå hurtigere, når man ikke lige er på et time, så skal vise det samtidig her, men så skulle den gerne åbne pdf-filen, som at den så vil blot komme her.
+
+00:06:32
+Så kan I jo se her, så kan man så sættes ind og læse, hvad står der så rent faktisk i sabbatutteksten, og læse hele akten igennem her.
+
+00:06:41
+Og I kan se, at nederst der er eller kortbilader, som viser de samme firkanter, hvor man kan parkere, ligesom dem, som også var vist her på vores MAPIT-kort.
+
+00:06:54
+Så på den måde kan man få et nemt og hurtigt overblik over, hvad er der for nogle servitutter, som man skal forholde sig til, inden man projekterer anlægget.
+
+00:07:05
+Hvad står der egentlig i dem, og hvem er det, man skal tage fat i?
+
+00:07:08
+Hvem er den påtaleberettede?
+
+00:07:09
+Hvem er det, man skal have lov til at gøre noget i givet fald for at få løsnet op for det?
+
+00:07:17
+Og den grønne her, det er så for eksempel en ledning, der er tinglyst fra Spindborg Fjernvarme, som er påtaleberettede ligesåvel.
+
+00:07:26
+Her kan man gå ind og klikke på linket og læse servituden.
+
+00:07:30
+Men der er jo også, som sagt, nogle servituder eller ledninger, som ikke er tinglyst.
+
+00:07:35
+Hvis man klikker på lær, så vi har taget lærudtræk og lige fjerner dem, der er tinglys, så kan man jo se, at der faktisk også er nogle andre ledninger, man skal forholde sig til.
+
+00:07:44
+Og så kan man igen klikke, hvad nu det er for en orangeen, der krydser vores anlæg, og så kan man se, at det er jo en vandledning fra Svendborg Vand.
+
+00:07:52
+Så kan man kontakte dem og sige, at I har en vandledning liggende her, som vi måske kommer til at støde ind i, når vi skal bygge anlægget.
+
+00:08:00
+I har godt nok ikke tinglysledningen, men det skal vi jo alligevel forholde os til.
+
+00:08:06
+Foruden det, så er der også det, vi kalder naturbindinger.
+
+00:08:13
+Og I kan se, der kommer pludselig sådan en sort streg ind over her.
+
+00:08:17
+Og så kan man enten kigge i sin naturforklaring og kigge, hvad betyder den sorte?
+
+00:08:21
+Nå, det betyder en kirkebyggelinje.
+
+00:08:24
+Det kan man også, hvis man klikker på den, så kan man se, nå, det er en kirkebyggelinje.
+
+00:08:27
+Så det kan være, at man skal have fat i menighedsrådet for at sikre sig, at der ikke er noget, man kommer i konflikt med, når man skal bygge det her anlæg.
+
+00:08:36
+Og hvis jeg zoomer lidt ud, så kan man jo forsele sig, at kirken ligger herinde, og så er der en kirkebyggelinje rundt om.
+
+00:08:42
+Hvis nu anlægget havde ligget herovre på den anden side, så kan man sige, hvad er nu det gule her for noget?
+
+00:08:47
+Og der kan man se, at det er faktisk en skovbyggelinje, som man så også skal have forhold til.
+
+00:08:52
+Måske skal man have dispensation for at bygge anlægget inden for skovbyggelinjen.
+
+00:08:58
+Der kan også være naturbeskyttede søer, typisk kalde parf3-søer, som kunne være tilhinder for byggeriet.
+
+00:09:08
+Alt det kan vi vise inde i mappet her.
+
+00:09:12
+Og det er derfor, vi kalder det et arealbindingskort.
+
+00:09:15
+Det viser, om der er nogle bindinger på det areal, hvor man har tænkt sig at anlægge et kystbeskyttelsesanlæg.
+
+00:09:22
+Det er jo en god øvelse at lave fra starten, og som at give det også, når man skal til at projektere anlægget.
+
+00:09:29
+Så man måske kan overveje at projektere det, på en lidt anden måde, så det ikke kommer i kampolage med nogle af de her bindinger.
+
+00:09:37
+Så det var egentlig det, jeg havde tænkt mig at vise jer omkring arealbindingskortet.
+
+00:09:48
+Så går vi videre.
+
+00:09:50
+Vi har nemlig også lavet det, vi kalder en bidragsfordelingssimulator.
+
+00:09:55
+Og det er jo fordi, at når vi har at gøre med kommunale kysbeskyttelsesprojekter, Så er det typisk sådan, at noget af anlægget bliver måske finansieret ud af kommunekassen.
+
+00:10:10
+Noget af anlægget bliver finansieret ved, at man får penge fra statens kødspulje.
+
+00:10:14
+Og så er der altså også en stor del af anlægget, der skal finansieres gennem, at dem, der får glæde af anlægget, er med til at betale for det.
+
+00:10:22
+Og så står der i kødsbeskyttelsesloven, at dem, der får mere glæde af anlægget, skal også betale forholdsvis mere end dem, der får mindre glæde af anlægget.
+
+00:10:32
+Og det giver jo så anledning til, at kommunerne, som har de her projekter, skal lægge sig fast på det, man kalder en bidragsfordelingsmodel.
+
+00:10:41
+Altså, hvordan skal man beregne, hvor stort et fordelingstal de enkelte ejendomme i kommunen skal have.
+
+00:10:48
+Og i højde til, der er det sket ved, at man har et regnark med alle ejendommene, og det kan være fuldstændig umuligt at gennemskue, hvad det så betyder for de enkelte ejendomme, om der er nogen, kommer til at betale utrolig meget i forhold til andre, der betaler meget mindre, end de måske burde.
+
+00:11:08
+Og det kan være svært for politikerne på baggrund af det at kunne træffe en beslutning om den rette bidragsfordeling, der lige passer til det område, som bliver beskyttet, og hvad den politiske holdning er i den kommune.
+
+00:11:23
+Det vi nu kan gøre, det er, at vi kan lave en visualisering hvor man med forskellige farver på ejendommene kan se, f.eks.
+
+00:11:36
+hvilken risikofaktor de får tillagt deres fordelingstaller afhængig af, hvor højt i terrænet de ligger.
+
+00:11:42
+Og man kan også vise, hvad de enkelte ejendommen skal betale i bidrag i det ene og det andet scenario.
+
+00:11:50
+Tydeligt vil kommunerne bede os om at sige, prøv at regne ud, hvad bidraget bliver for alle ejendommen, hvis du lægger det her til grund, at du ganger med risikofaktor som man kan se her, at de højeste får en faktor 1, og de mellemste får en faktor 2, og de laveste beliggende ejendomme får en faktor 4, men det kan også være, at de siger, prøv med 1, 3 og 5.
+
+00:12:11
+Det kan være, at dem, der har kælder, skal have en ekstra risiko, og dem, der ikke har en kælder, skal betale lidt mindre.
+
+00:12:22
+I de forskellige scenarier, dem kan vi så illustrere for kommunerne, så de på den måde kan få et overblik over, hvad den bidragsfordelingsmodel, de er besluttet for.
+
+00:12:33
+Hvad kommer den konkret til at betyde for de enkelte ejendomme?
+
+00:12:38
+Så vi kan simulere forskellige scenarier, forskellige måder at beregne de her bidrager på, så man kan se det samtidig, eller se det hver for sig, så man på den måde kan beslutte sig for, hvad man vil have, eller det kan være, at det mundter ud, og man siger, så vil vi gerne have, at I laver et nyt scenarie, Så de aspekter, som vi nu kan se, bliver et problem, hvis ikke man gør det.
+
+00:13:03
+På den måde kan vi ved et iterativt proces prøve nogle forskellige scenarier af.
+
+00:13:10
+Så får man en overblik over, hvad det betyder.
+
+00:13:11
+Så vender kommunen typisk tilbage, og så beder de om at rette i formlerne for, hvordan man beregner bidragende.
+
+00:13:19
+Så gør vi det, og så illustrerer vi det på ny.
+
+00:13:22
+Og så til sidst, efter et par runder frem og tilbage, så vil kommunen typisk lægge sig fast på, hvilken model man kører med.
+
+00:13:31
+Når man har lagt sig fast på det, kan vi tilbyde kommunerne at lægge kortet ud på deres hjemmeside, så borgerne selv kan gå ind og klikke på deres egen ejendom og se, hvor meget de skal betale i bidrag.
+
+00:13:45
+De kan også se, hvad naboen skal betale, så de kan se, at de ikke betaler mere end dem, der har et tilsvarende hus ved siden af.
+
+00:13:53
+Ligeså vel som for eksempel en ejendomsmaler også vil kunne gå ind og se, hvad en ejendom betaler i bidrag, så ejendomsmaleren kan lave salgsopstillingen korrekt med alle de omkostninger, der knytter sig til ejendommen.
+
+00:14:07
+Og faktisk har vi også lavet det sådan, at borgeren kan gå ind, når man er inde og se på sin ejendom, så kan man også klikke på et link, så man får et notat, som er udarbejdet præcis til den ejendom, der helt ned i detaljen beskriver, hvordan man har beregnet både fordelingsstallet og bidraget.
+
+00:14:29
+Så hvis der er nogen, der sidder og synes, at kommunen har regnet forkert eller der må være sket en fejl, så kan de på den måde gå ind og forvidse sig om, at det hele er, som det skal være.
+
+00:14:41
+På den måde kan man spare kommunen for en masse ressourcer, hvor de skal bruge tid på at sende borgerne rundt fra den ene til den anden medarbejder for at kunne svare på de spørgsmål, de måtte have.
+
+00:14:53
+Men igen kan jeg lige trykke på nogle links her, jeg har taget med, så I kan se i virkeligheden, hvordan det tager sig ud.
+
+00:14:59
+Jeg har et eksempel her fra Stavns Kommune.
+
+00:15:01
+Og det, I kommer til at se, det er work in progress.
+
+00:15:05
+Det er ikke det, som kommunen endelig har lagt sig an på.
+
+00:15:08
+Det er for at illustrere, hvordan der bliver arbejdet med det.
+
+00:15:17
+Men her har kommunen så ved den blå, Her har de defineret det område, for de ejendomme, de i første omgang mener skal betale bidrag.
+
+00:15:27
+Jeg tror nok, de når frem til, at der måske er nogle ejendomme her, de også gerne vil have med.
+
+00:15:32
+Så det er slet ikke det endelige, det her.
+
+00:15:34
+Det er kun for at illustrere processen.
+
+00:15:37
+Der er jo en frygtelig masse prikker, og hvis man klikker på en prik, så vil man kunne se ejendomsadresse, og man vil kunne se, de fire forskellige scenarier, hvor meget den her ejendom kommer til at betale i bidrag over de næste måske 25 år.
+
+00:15:53
+Hvis man vælger enten det ene eller det andet eller det tredje eller det fjerde scenarie.
+
+00:15:59
+Så det er det, denne her visning kan vise.
+
+00:16:03
+Man kan også slå det fra herinde, og så kan man vise, hvis man nu har et scenarie her, de kalder for erosion 80-20, hvis man slår det til.
+
+00:16:16
+Så kan Mavit så vise, hvor mange...
+
+00:16:20
+Man kan se her, der ligger 16 ejendomme inden for det her område, og de er alle sammen grønne.
+
+00:16:24
+Og grønt, kan man se her, det betyder, at ejendommen skal betale mindre end 50.000 kroner i bidrag over de næste 30 år.
+
+00:16:32
+Og hvis man er gul, så betaler man mellem 50.000 og 52.000 i den lange periode, og rød, så er det mellem en kvart til en hel million, og lilla, så er du over en million.
+
+00:16:43
+Og på den måde kan man få et bedre overblik, end hvis det bare er en frygtelig masse prikker, der er ved siden af hinanden.
+
+00:16:51
+Og hvis vi går helt ned i den ene ende her, så kan man se, jeg kan også humle lidt ud måske, så kan man se her, at nede i det her område, der er der flere gule og nogle ægte røde og lilla ejendom, og ikke så mange grønne.
+
+00:17:04
+Det vil sige, her betaler man, der er der flere ejendomme, der betaler i den lidt høje ende, hvor når man er midt på strækningen her, så er der langt flest, der ligger i kategorien 50.000 eller lavere.
+
+00:17:17
+Og når man så kommer op i den anden ende her, så kan man igen se, at der pludselig er flere ejendomme, der kommer til at betale et højere bidrag.
+
+00:17:26
+Og tilsvarende kunne jeg så have klikket de andre scenarier af i stedet for, og så ville man måske få et andet billede eller et lidt tilsvarende billede.
+
+00:17:35
+Hvis man zoomer ind, så folder de her lavkager sig ud, og når man har zoomet helt ind, så er du helt nede på de enkelte ejendomme, og så kan man klikke her og sige, hvad skal den ejendom betale?
+
+00:17:45
+Nå, det er den, der ligger for tunveje nr.
+
+00:17:47
+2, og i det her scenarie ville den så skulle betale det her i bidrag.
+
+00:17:53
+Ja.
+
+00:17:56
+Og I kan se, der er også nogle andre lag, man kan slå af på.
+
+00:18:00
+Der er de her erosionslag, der har kommunen defineret for os, at hvis ejendommen ligger inden for den så skal de have en ekstra risikofaktor for erosion.
+
+00:18:15
+Og det kan man så også illustrere med de her lag, om nu prikken er inden for eller uden for stregerne her.
+
+00:18:24
+Indeni så har kommunen ønsket at sige, ej, men kunne du ikke prøve at vise i det ene eller det andet, eller det tredje eller det fjerde scenarie, hvor ligger de seks ejendomme, kommer til at betale mest, og hvor ligger de seks ejendomme, der slipper billigst, hvis vi nu tager et scenarie.
+
+00:18:39
+Så hvis vi zoomer lidt ud igen, så får man overblik over hele området, og så vil I kunne se, at de seks røde prikker, der er her, det er de seks, som ligger i top 6, og de seks grønne prikker, det er de seks ejendomme, der betaler mindst i bidrag.
+
+00:18:59
+Og ligesådan kan man med de andre scenarier også forvise, Top og bund 6.
+
+00:19:06
+Højtespringer og løftespringer, hvis man kan kalde dem det.
+
+00:19:11
+Så som en ekstra service, og nu håber jeg at det virker, at det kører lidt langsomt herovre.
+
+00:19:22
+Men det er i hvert fald muligt at få lagt matrikkelkortet på.
+
+00:19:26
+Jeg er ikke sikker på at jeg kan få det til at virke lige nu.
+
+00:19:29
+Og man kan også Det har i hvert fald virket.
+
+00:19:32
+Kommunen har set, at det virker.
+
+00:19:33
+Man kan også lægge havvand på land, så man kan se, hvor meget vind.
+
+00:19:39
+Hvis havstigningen bliver 3,5 eller 2,5 meter, eller 3 meter, hvor meget vil den oversvømme.
+
+00:19:49
+Det er også noget, kommunen har haft glæde af i deres vurdering.
+
+00:19:52
+Jeg er ked af, at det ikke virker nu, men det gør det normalt.
+
+00:20:01
+På den måde kan kommunen få øje på, hvor der er nogle outliers, hvor der er noget, som virker helt skævt.
+
+00:20:08
+Vi bliver nødt til at rette bidragsfordelingsmodellen til, så den tager højde for de her.
+
+00:20:13
+Det kan være, at man siger, at man skal inddele områderne i tre forskellige områder, hvor man i det ene område bruger en måde at regne bidrag ud på, og i det andet område en anden måde, og i det tredje område en tredje måde at beregne det på.
+
+00:20:26
+Det kan være hvad som helst, man ønsker sig.
+
+00:20:30
+Så får vi lavet nogle nye scenarier, som vi kan vise enten sammen med de gamle, eller hvor man så slettede de gamle og kunne vise de nye.
+
+00:20:41
+Det er i hvert fald her i Stævn, så har politikerne været rigtig glade for det, fordi de får et meget overskueligt overblik over, hvor problemerne er med den bidragsfordelingsmodel, de i første omgang havde tænkt sig.
+
+00:20:56
+Skal vi se, om jeg lige kan flytte den her, så jeg kan lukke.
+
+00:21:00
+I køgekommunen er vi kommet lidt længere end vi er i stillingskommunen.
+
+00:21:19
+I køgekommunen er de meget interesserede i at se, hvor ligger de ejendomme, får en risikofaktor 1, 2 eller 4 afhængig af, hvilken korte ejendommene ligger i.
+
+00:21:32
+Og det kan vi så vise med de her gul, rød og blå farver.
+
+00:21:40
+Og så er kommunen jo interesseret i at se, hvis vi nu for eksempel tager her, så ligger der nogle huse, der minder meget om en anden, og pludselig er der en, der er rød, hvor alle de andre er blå, og det kan de jo godt se.
+
+00:21:51
+Det bliver svært at forklare, og der kan vi jo så lægge Koderne er på, og man kan se, at 0 er lige akkurat over kode 2, mens alle andre ligger lige akkurat under kode 2, og det er derfor, at den pludselig skifter farve.
+
+00:22:06
+Det kan være, at kommunen i den forbindelse vil gå ind og måske få målt koden, for at se, om det virkelig passer, at den ikke også kan være blå, ligesom alle de andre.
+
+00:22:14
+Altså ligge i den højere risikozone, og ikke bare i den mindste risikozone, for det får igen betydning for, hvor stort et bidrag, de skal betale.
+
+00:22:24
+Og igen kan man slå det af og på, og man kan klikke ind på ejendom, og så se, der hvor Køge Kommune ville gerne vide de her oplysninger, man kan lægge hvilke som helst oplysninger ind.
+
+00:22:35
+De vil gerne vide, hvad ejendomsvurderingsnummeret var, og matrikelnummeret, og adressen, og grundhøjden, og hvor meget de skulle betale i bidrag med den ene, eller med den model, de efterhånden har lagt sig fast på.
+
+00:22:49
+I Køge har vi også været igennem det samme, jeg nævnte i Stævnsmer, vi har været igennem nok 17 forskellige scenarier, før de har låst sig fast på der, hvor vi er ved at være endt nu.
+
+00:23:00
+Så det er sådan lidt en iterativ proces, hvor kommunen har en eller anden idé om, det bør være sådan og sådan, og så viser vi det, og så siger de, at det går jo ikke, og så retter vi det til efter det, som de så godt kan se, at vi er nødt til at justere med, og så viser vi det igen, og så siger de, at nu ser det mere rigtigt ud, og vi skal måske lige have rettet sådan, og så kører det lidt frem og tilbage ind til de har låst sig fast på der, hvor de gerne vil være.
+
+00:23:25
+Til sidst vil jeg så vise jer, at det er faktisk det, der står her i bægeren.
+
+00:23:28
+Den anden fordel nemlig, at man så kan gå ind på kommunens hjemmeside og vise, hvad de enkelte ejendomme skal betale i bidrag, når man har lagt sig endelig fast på sin bidragsmodel, efter man har simuleret alle de muligheder, der er.
+
+00:23:43
+Hvis vi prøver at se her, så kan jeg vise, hvordan vi gør i Solrådkommunen, som er kommet lidt længere.
+
+00:23:51
+Og der kan man gå ind på en ejendom og klikke på den.
+
+00:23:55
+Og så vil man få at vide i pop-up-vinduet her, hvor meget er driftsbidrag, og hvad er det for en ejendom, vi taler om.
+
+00:24:04
+Og så kan man ved at folde de her ud, kan man se, hvordan har man beregnet, hvor mange andele ejendommen får, altså fordelingstalet for ejendommen.
+
+00:24:13
+Og hernede kan man så se, hvordan har vi så beregnet ud for de andele, hvor meget bliver det så i kroner og øre, det skal betale i bidrag.
+
+00:24:21
+Så det giver ligesom i overskrifter, hvordan hvor stort bidraget er, og hvordan det er beregnet.
+
+00:24:28
+Og hvis der så er nogen, som vil udfordre lidt at sige, hvorfor får jeg nu tillæg for oversvømmet bygning, og hvordan har jeg overhovedet hjemme til at give mig andele af den grund, og så hvordan har jeg gjort det, osv., så er det sindssygt indrettet, at i stedet for de så skal ringe til kommunen, som så har svært ved måske at finde de rette medarbejdere til at svare på det, så kan borgeren bare trykke på PDF her, kan det godt være, at det lige går lidt langsomt, men så kommer der simpelthen en notat op her, hvor vi så har flettet ejendommens nummer ind, så det her notat er skreddersydet til den enkelte ejendom, man har klikket på, og det er så et notat her, som så beskriver på, I kan se på tre-fire sider, fem sider endda, præcis hvordan det beregnede, og hvor man har tagnet fra, og hvordan Sådan mere udførligt, hvordan det er gjort, hvis der er nogen, der gerne vil spørge ind til det.
+
+00:25:31
+Så er det lidt selvforklarende, det system, vi har lavet til kommunen her.
+
+00:25:37
+Og det har vi i hvert fald en forventning om, gør, at kommunen sparer en masse tid på, ikke at skulle blive kimmet ned.
+
+00:25:46
+Og ofte vil spørgsmålet også være, at der er én medarbejder i kommunen, der kan svare på det ene, men der er en anden, der kan svare på noget andet.
+
+00:25:52
+Det er ikke alle, der kan svare på det hele nødvendigvis, og det kan være rigtig bøvlet at skulle henvise borgeren først til den ene og så til den anden.
+
+00:26:00
+Ja, så har vi lavet et system her, som gør, at borgeren kan få svar et og det samme sted, og faktisk selv kan gøre det på alle tider af døgnet, uden at skulle ringe til kommunen og få svar.
+
+00:26:16
+Jeg tror faktisk, at det var ordene for mig, og jeg håber, at jeg har holdt tidsplanen.
+
+00:26:27
+Jeg tager lige mikrofonen på igen.
+
+00:26:28
+Det har du i hvert fald Kasper, og tusind tak for et rigtig godt og fyldsgørende indlæg.
+
+00:26:35
+I skal huske alle sammen, at I har stadig mulighed for at stille spørgsmål i chatten.
+
+00:26:40
+Vi har små 20 minutter tilbage, så der er god tid til at gå spørgsmålene igennem.
+
+00:26:45
+Og der er kommet et stykke, som jeg lige vil tage.
+
+00:26:50
+Er bidragsfordelingssimulatoren automatisk i forhold til fordelingen?
+
+00:26:55
+Dvs.
+
+00:26:56
+kan den gå ind at finde de ejere, som overholder et vist kriterie, som kan findes via BBR eller andet sted, som for eksempel er, at alle McKellar skal have en faktor 4 spørgsmålstegn, eller skal man selv manuelt udpege for hver enkelt ejer, hvilke faktorer der skal bruges?
+
+00:27:13
+Og det var Martin, der spurgte om.
+
+00:27:14
+Det.
+
+00:27:16
+Jeg tror, det korte svar er, at det gør systemet automatisk.
+
+00:27:20
+Altså den måde, vi griber det an på, måske kan best illustrere ved at Vi får denne her blå streg af kommunen, og når vi har fået den.
+
+00:27:39
+Jeg kan måske bedre lige vise det, hvis jeg fjerner alle prikkerne og de andre streger.
+
+00:27:45
+Kommunen siger til os, at alle de ejendomme, de har sagt, er 150 meter fra kysten, de skal betale.
+
+00:27:53
+Gidsafdelingen i kommunen laver en bufferzone rundt om kystlinjen på 250 meter, og det er så den, de sender til os.
+
+00:27:59
+Når vi får den streg her, så kan vi indlæse den i MAPIT, som er vores gidssystem, og så kan vi sige til MAPIT, udpege alle de ejendomme, der ligger inden for den streg her.
+
+00:28:10
+Og så er det jo, at man får alle de her ejendomme, og så kan vores system også gøre det, den siger, at man trækker alle BBR-oplysninger, trækker alle tænklysningsoplysninger, træk alle oplysninger fra datafordeleren osv.
+
+00:28:27
+fra alle mulige offentlige tilgængelige databaser og gennem ned på hver enkelt ejendom.
+
+00:28:34
+Og så kan vi trække det ud i et regnerakt, som har i rækkerne hver enkelt ejendom, som er trukket ud her i mappet, og i kolonnerne har den så alle de data omkring ejendommene, som vi har trukket fra de her forskellige offentlige databaser.
+
+00:28:54
+Og et af oplysningerne det er, om der er kælder eller ikke er kælder, det kan man udtrække af BBR.
+
+00:29:00
+Jeg mener om, jeg kan ikke lige huske om det hedder kælder, ja, nej, eller om der står kældereal, og så har man enten 0 kvadratmeter eller et eller andet antal kvadratmeter.
+
+00:29:08
+Og så gør vi det, at når vi beregner bidraget eller fordelingstal, så peger vi hen på den kolonne og siger, der står mere end 0 i kælderkolonnen, så er der kælder, og det betyder så, at så skal bidraget fordelingstal have f.eks.
+
+00:29:28
+en partsdel 1, en ekstra partsdel eller en halv ekstra partsdel.
+
+00:29:35
+Og så er der nogle andre kriterier, der gør, at man kan tildele ejendommen nogle andre partsdele.
+
+00:29:40
+Og alle de partsdele bliver typisk summeret op, og så ganget med den risikofaktor, der er, enten risiko for oversvømmelse eller risiko for erosion eller begge dele.
+
+00:29:52
+Og på den måde beregner vi så fordelingstallet.
+
+00:29:55
+Så det er sådan, det i praksis foregår.
+
+00:29:57
+Det vil sige, der er ikke noget, der sker manuelt.
+
+00:29:59
+Det hele sker automatisk.
+
+00:30:01
+Der er ikke nogen fejlførere.
+
+00:30:03
+Der er ikke nogen hænder indenover, som manuelt går ind og gør et eller andet.
+
+00:30:08
+Det hele bliver trukket ud af...
+
+00:30:10
+Altså det er alt sammen fuldstændig objektivt trukket ud af offentlige databaser, de opløsninger, bruger til beregningen af de her fordelingstal, og dermed også, hvor stort et bidrag, man skal betale.
+
+00:30:23
+Jeg ved ikke, om det var tilstrækkeligt svar.
+
+00:30:25
+Det håber jeg.
+
+00:30:26
+Martin, så må du lige skrive igen, men Martin har også et opfyldt spørgsmål.
+
+00:30:30
+I ligger lidt i tråd med det.
+
+00:30:31
+Kan kommunen selv gå ind og ændre i bidragsfordelingssimulatorens input for at opdatere resultaterne, eller er det kun jer, der kan ændre, hvorefter kommunen kun har adgang til et gidskort med resultaterne?
+
+00:30:46
+Indtil videre har det vist sig mest hensigtsmæssigt, at det er os, der...
+
+00:30:52
+Sådan en regnark bliver hurtigt meget kompliceret, og alle, som arbejder med regnark, ved, at hvis man skal til at råde med en andens regnark, så forstår man ikke helt, hvordan det virker.
+
+00:31:03
+Så i praksis er det sådan, at kommunen siger til os, at vi ikke lige kan få rettet det der, og så vise det igen.
+
+00:31:11
+Det tager også ikke super lang tid at få rettet, eller tilrettet eller for at opbygge et nyt scenarie.
+
+00:31:17
+Så det er sådan, det fungerer.
+
+00:31:18
+Jeg vil ikke udelukke, at vi kunne lave systemet sådan, at kommunen selv kunne...
+
+00:31:22
+Altså, hvis jeg sidder...
+
+00:31:23
+Kommunen kunne i princippet jo også selv justere i de her regnarker, ændre på parametrene, og så sende tilbage til os og bede os om lige at læse det ind i mappet og vise det.
+
+00:31:39
+Kommunen kan også købe en licens til mappet, og så faktisk selv kunne sidde og gøre det hele.
+
+00:31:43
+Men min oplevelse er, at kommunerne har rigtig mange andre ting, de også kan holde styr på.
+
+00:31:51
+Og de er mange som regel lidt usikre på, om de kommer til at ødelægge det regneagt, der ligger til grund, hvis de nu selv piller i det.
+
+00:31:59
+Og derfor vil de egentlig helst have, at det er os, der gør det.
+
+00:32:01
+Men der er jo ikke i princippet noget i vejen, for vi kan lave en aftale om, at kommunen selv retter i data og ændrer på de der parametre.
+
+00:32:12
+Jeg har faktisk senest lavet et regnark, hvor hvis der var et eller andet parameter, man gerne ville skrue op og ned for, så havde jeg gjort sådan, at man kunne gå ind på et andet fængelblad i regnark og bare rette det tal, og så ville alle tallene i baggrunden rette sig ind, og så kunne man indlæse det tal.
+
+00:32:29
+Jeg springer lige.
+
+00:32:30
+Lidt i spørgsmålene, fordi det ligger lidt i forlængelse af det, du lige har sagt, men så får vi da svaret på det.
+
+00:32:36
+Først og fremmest så kommer det fra Henrik, og han starter med at skrive, fantastisk, det tænker jeg går på indlægget.
+
+00:32:41
+Og så stiller han spørgsmålet.
+
+00:32:43
+Kommunen hyrer jer fra Møllebak som rådgiver eller sælger i adgang til værktøjet MAPIT?
+
+00:32:49
+Indtil.
+
+00:32:50
+Videre er det sådan, at vi har lavet en samarbejdsaftale med de kommuner.
+
+00:32:56
+Jeg har jo vist det her.
+
+00:32:58
+Det er Stævns og Køge og Svendborg Kommune og Solved Kommune.
+
+00:33:03
+Vi har arbejdet med de her ting, jeg har vist i dag.
+
+00:33:06
+Det her foregår ved, at vi har lavet en samarbejdsaftale, altså ligesom en rammeaftale om, at de afregner efter medgået tid, og til nogle timepriser, vi så har aftalt.
+
+00:33:20
+Når vi viser det her til kunderne, så kan de jo godt se, at vi kan jo ret hurtigt få illustreret de ting, de godt kunne tænke sig.
+
+00:33:29
+Og dermed kan de jo også se, at vi bruger faktisk ikke, det er ikke noget, der tager voldsomt lang tid, har indbygget så mange ting, der kom ud af boksen, at det faktisk er ret hurtigt at få genereret de her ting, jeg har vist her i dag.
+
+00:33:42
+Og vi er selv ret skarpe på, hvad vi har brug for af grundoplysninger for at komme i gang og kunne levere noget, som kommunen kan bruge til noget.
+
+00:33:51
+For eksempel er det en forudsætning, at vi får den der blå streg ret hurtigt, så vi hurtigt er helt enige om, hvad er det for nogle ejendomme, vi skal regne på.
+
+00:34:00
+Det dur jo ikke, at der pludselig mangler nogen eller at der er taget for.
+
+00:34:03
+Mange med.
+
+00:34:04
+Ja.
+
+00:34:07
+Det håber jeg var svar.
+
+00:34:10
+Ellers så, Henrik, må du skrive igen med uddybende.
+
+00:34:14
+Så spørger Tommy.
+
+00:34:15
+Tager modellen højde for, at nogle af bygningerne og matriklerne ligger i forskellige koder?
+
+00:34:20
+Dermed kan for eksempel være 30% i 4 og 70% i 2?
+
+00:34:26
+Rigtig godt spørgsmål.
+
+00:34:27
+Det er jeg glad for, at jeg bliver spurgt om.
+
+00:34:30
+Nu er det bare drønærvligt, at det der med trillekort ikke at det driller mig i dag, men jeg ved ikke, hvordan jeg lige...
+
+00:34:40
+Hvis vi nu tager her for eksempel, så kan I se, nu har jeg desværre ikke matrikkelgrænserne med, men man må forestille sig, at der er en matrikkelgrænse, der går her.
+
+00:34:47
+Så det her hus, det ligger sådan halvvejs inden for den blå streg og halvvejs uden for den blå streg.
+
+00:34:52
+Og den har ikke fået en nål i sig, ligesom de andre har.
+
+00:34:56
+Og det er fordi, at adressepunktet på den her ejendom ligger her, hvor jeg peger nu, altså uden for den blå streg.
+
+00:35:04
+Og derfor kommer den ikke med.
+
+00:35:06
+Og det er det, der kom ud af boksen hos MAPIT, det er, at den spørger, ligger det officielle adressepunkt på ejendommen?
+
+00:35:14
+Det er den placering, der afgør, om ejendommen er med eller ej.
+
+00:35:19
+Og det er også den placering, som er afgørende for, hvilken kode ejendommen ligger i.
+
+00:35:25
+Fordi jeg tror, det, der bliver spurgt om, var det Tommy, der spurgte det.
+
+00:35:28
+Det er, hvis nu ejendommen ligger på en skrundende grund, er det så koden i den lave ende af grunden, eller er det koden i den høje ende af grunden, der tæller med i den der kode, og dermed kommer ejendommen så med i den ene eller den anden risikofaktor?
+
+00:35:42
+Og der er svaret, at det er der, hvor adgangspunktet til ejendommen er, som er det punkt, som vi beregner koden i.
+
+00:35:52
+Og hvis man vil have noget andet, så kan vi sagtens gøre det.
+
+00:35:55
+Men så kommer det ikke ud af boksen, så kræver det noget mere arbejde fra vores side for at definere det anderledes.
+
+00:36:03
+Men den hurtige og billige løsning er, at man bruger adressepunktet.
+
+00:36:06
+Hvis man gerne vil have, at det er et andet punkt på grunden eller et eller andet, så kan vi også det.
+
+00:36:14
+Det ved jeg, at vi har gjort i en af kommunerne, men det har krævet noget mere programmering fra vores it-folk side.
+
+00:36:23
+Så er der et spørgsmål fra Per.
+
+00:36:29
+Kommer I med anbefalinger til, hvordan man bør udpege dem, som skal være med til at betale?
+
+00:36:36
+Altså det blå omrids i forhold til stævlen.
+
+00:36:38
+Og hvis ja, hvad anbefaler I i så.
+
+00:36:41
+Fald?
+
+00:36:43
+Altså vi er faktisk lidt tilbageholdt med at anbefale det, fordi det ser vi helst kommunens advokater om, Der er en masse afgørelser på det område, som vi ikke er 100 meter mestre i.
+
+00:36:59
+Altså hvis man tager for stort et område med, så er der nogen længere tilbage i landet, der vil klage over, hvorfor jeg får slet ikke glæde af det der kysbeskyttelsesanlæg, så hvorfor skal jeg være med til at betale bidrag?
+
+00:37:11
+Og den vurdering af, hvornår er man inden for eller uden for loven der, det plejer at være kommunens advokat, Det er ikke noget, vi har dyrket nærmere.
+
+00:37:22
+Vi vil hellere fokusere på at hjælpe med at finde den rette bidragsfordeling under forudsætninger.
+
+00:37:30
+Så svaret må være nej.
+
+00:37:31
+Det tror jeg, vi ikke har råd at give om.
+
+00:37:34
+Det må snarere være en advokat, der har.
+
+00:37:37
+Råd at give om det.
+
+00:37:38
+Det svarer næsten på næste spørgsmål, men den er lidt mere uddybende i forhold til det.
+
+00:37:42
+Det er Tommy, der spørger.
+
+00:37:43
+Har I haft en advokat med speciale kystsikring indover modellen, som for eksempel Codex-advokaterne?
+
+00:37:49
+Ligeledes tager modellen højde for bygningernes antal kvadratmeter, ejendomsværdi og anvendelse.
+
+00:37:56
+Jeg ved, at Stevns.
+
+00:37:58
+Kommune for eksempel har en advokat med indover til at vurdere, om den bygdervsfordelingsmodel, de når frem til, er lovlig.
+
+00:38:06
+Mængden af ejendom, altså den blå streg om den, er trukket lovligt, om man vil.
+
+00:38:10
+Det ved jeg, de er.
+
+00:38:13
+Jeg kunne ikke forestille mig andet, at en køgekommune også har i hvert fald deres interne jurister eller en ekstern advokat til at bistå dem med det.
+
+00:38:25
+Og nu kan jeg ikke huske de andre spørgsmål helt.
+
+00:38:27
+Kan du ikke prøve at gentage?
+
+00:38:28
+Der var flere spørgsmål i samme åndedrag.
+
+00:38:30
+En.
+
+00:38:30
+Af dem var med advokaterne, men så spørger den også ind til modellen.
+
+00:38:36
+Ja.
+
+00:38:42
+Det kan kommunen jo vælge at gøre.
+
+00:38:44
+Det er jo kommunen, der digterer også, hvilken bidragsfordelingsmodel de gerne vil have.
+
+00:38:49
+Og hvis de siger, at det afgår, f.eks.
+
+00:38:53
+I den case, vi havde for Køge, er det afgørende for bidraget, om det er bolig eller erhverv, for eksempel.
+
+00:39:00
+Eller om det er et vejareal, eller om det er en privat fællesvej, eller hvad det er.
+
+00:39:06
+Og det kan man sige, det er jo anvendelsen.
+
+00:39:08
+Der er den afgørende for, hvor stort et bidrag, eller hvor stort et fordelingstal ejendommen får.
+
+00:39:14
+Og det har man valgt at gøre i Køge Kommune.
+
+00:39:17
+Så kan det være, at nogle andre kommuner vælger at sige, herregud, om det er erhverv eller bolig, det er fuldstændig lige meget, de skal have det samme.
+
+00:39:24
+Altså hvis det er sådan områder som det her, der er utrolig mange sommerhuse, og så er det måske, hvis alle husene ligner, at den har samme anvendelse i det område, så behøver man jo ikke at differenciere på anvendelse.
+
+00:39:35
+Så det er jo sådan lidt geografisk bestemt, hvordan de der bidragsfordelingsmodeller bliver skruet sammen.
+
+00:39:42
+Og det sidste spørgsmål, hvad var det nu?
+
+00:39:45
+Om man tager ejendomsvurderingen med, synes jeg, jeg kan.
+
+00:39:48
+Huske, at du spurgte om.
+
+00:39:49
+Ejendomsvurdering?
+
+00:39:51
+Ja.
+
+00:39:51
+Det kan jo være ejendomsvurdering, eller?
+
+00:39:54
+Altså.
+
+00:39:54
+Køgekommunen.
+
+00:39:55
+Da.
+
+00:39:55
+De startede med at snakke med mig, så sagde de, at de havde tænkt sig at tage den der risikofaktor og så bare gange med den offentlige ejendomsvurdering.
+
+00:40:02
+Og så må jeg være helt ærlig, sagde jeg til dem.
+
+00:40:06
+Altså, når man tænker på, hvor mange klager man må forvente, den nye offentlige vurdering vil få, så prøv at tænk på, hvor mange klager I vil få over jeres bidragsfordeling.
+
+00:40:13
+Og så slugte de en ordentlig kartoffel og sagde, okay, det kan godt være, at vi skal finde en anden måde at gøre det på, fordi vi vil ikke kritikere, at hele den her bidragsmodel bliver klæde til Blocksberg, fordi den læner sig op af en offentlig vurdering, som der også er stor usikkerhed omkring.
+
+00:40:32
+Så derfor har de valgt at læne sig op af nogle andre kriterier end den offentlige vurdering.
+
+00:40:37
+Som for eksempel, ja, er det bolig, er det erhverv?
+
+00:40:42
+Er der kælder, er der ikke kælder?
+
+00:40:45
+Og sådan nogle andre parametre.
+
+00:40:48
+Men det er jo en politisk beslutning og en politisk vurdering, hvad det er for nogle variabler, der skal indgå i den formel der, og hvordan man beregner fordelingstallet.
+
+00:41:01
+Hvis vi bliver spurgt, så vil jeg jo sige, at det er noget, I skal bestemme, men jeg kan bare se, at nu kommer I ud i nogle af de samme overvejelser, jeg kan se, I har haft i en anden kommune, som er kommet lidt længere end I er, og der kan jeg fortælle jer, at i den anden kommune, der valgte man så at gøre sådan og sådan, så det kunne I jo også overveje.
+
+00:41:22
+Så det er på det niveau, vi kan komme ind med nogle input til kommunen.
+
+00:41:28
+Så det var da en god idé.
+
+00:41:29
+Og så vil jeg jo i samme ånddrag sige, men det er jo nok en rigtig god idé lige at høre jeres jurist eller advokat, om det nu også er lovligt at gøre det lige fra jeres vedkommende.
+
+00:41:39
+Det er jo ikke sikkert, at man lige kan gøre det hos jer selv, og man kan hos en anden kommune.
+
+00:41:45
+Det kan være, at der er nogle andre ting, der spiller ind.
+
+00:41:47
+Så jeg vil altid opfordre til lige at få det legaliseringen, de er så fortjekket, at det er lovligt, det man nu har tænkt sig.
+
+00:41:54
+Men vi kan jo godt fra Møllbergs side fortælle lidt om, hvad vi har set, at andre har gjort, som inspiration.
+
+00:42:01
+Jeg vil også sige, vi rådgiver jo også på den måde at sige, jo mere kompliceret du vil gøre det, jo dyre bliver det, og jo mindre gennemskueligt bliver det både for politikerne og for borgerne, hvordan det der bidrag er beregnet.
+
+00:42:15
+Så jeg vil også sige, vi opfordrer jo også til, prøv nu at holde den der model så simpelt som muligt.
+
+00:42:21
+Dels for at vi ikke skal have en million iterationer frem og tilbage og en masse undtagelser.
+
+00:42:27
+Ja, fordi det bliver bare mange konsulentkroner til os, hvis I gør det rigtig kompliceret.
+
+00:42:35
+Men omvendt skal det jo heller ikke være så firkantet, at det ikke er lovligt.
+
+00:42:38
+Altså, det skal jo have en vis differentiering for at være lovligt, som jeg startede med at sige.
+
+00:42:44
+Så det er også et råd, vi giver.
+
+00:42:46
+Prøv at holde det så simpelt som muligt for alle skyld.
+
+00:42:48
+Alle parters skyld.
+
+00:42:50
+Der er.
+
+00:42:51
+Lige et par enkelte spørgsmål tilbage, Gasper.
+
+00:42:54
+Hendrik spørger, i hvilket format tegner man, som kommunen den blå streg og sender til jer?
+
+00:43:00
+Er det i cookies eller et hvert kort format?
+
+00:43:04
+Altså, vi vil jo blive rigtig glade af at klappe i hænderne, hvis vi får det i Geodesian, fordi det er det format, vi ender med at skulle have det i.
+
+00:43:12
+Men selvom vi måtte få det i et andet, så kan vi godt finde ud af at konvertere det.
+
+00:43:22
+Så det kan være et hvilken som helst teknisk tegneprogram, man har brugt, så skal vi nok få det konverteret til en GeoJSON og få lagt det ind i MAPIT, som er det format MAPIT bruger.
+
+00:43:33
+Men det er klart, at hvis vi kan få det i GeoJSON, så er det plug.
+
+00:43:36
+And play.
+
+00:43:37
+Sådan.
+
+00:43:38
+Henrik kom med et lille tillæg spørgsmål, om du tør at give et priseksempel på et projekt.
+
+00:43:43
+Eller om det ligger et andet sted mellem jer.
+
+00:43:45
+Og kommunerne?
+
+00:43:47
+Som jeg sagde før, det kommer helt an på, hvor mange iterationer man skal have, før man når i mål.
+
+00:43:58
+Og hvor kompliceret kommunen gør det.
+
+00:44:03
+Og det kan.
+
+00:44:04
+De med rette gøre.
+
+00:44:06
+Hvad med ledningsejende i området?
+
+00:44:15
+Er de inddraget i.
+
+00:44:16
+Modellen?
+
+00:44:17
+I den model, vi har på skærmen nu, er de ikke.
+
+00:44:20
+Det tror jeg faktisk gerne, kommunen vil have, fordi de har fundet ud af, at det skal vi simpelthen også have med på en eller anden måde.
+
+00:44:28
+Der skal man så tænke sig om, hvordan man kan finde ud af, et eller andet parameter for, hvordan man kan regne dem ned, og måske kan man gå i lær, altså ledningsejreregistreret, og så få afdækket, hvor mange meter af en eller anden ledning, det har, er nede i en vej, og så bruge det som faktor for, hvordan, altså så give dem et fordeltestal, som bliver beregnet ud for, hvor mange meter ledning, de har inden for et eller andet område.
+
+00:44:58
+Så det er klart muligt, men det komplicerer også sagerne selvfølgelig.
+
+00:45:03
+Men det kan godt lade sig gøre.
+
+00:45:05
+Det lyder.
+
+00:45:06
+Godt.
+
+00:45:06
+Jeg vil sige tusind tak for din præsentation, og til jer der sidder derude vil jeg også sige tusind tak.
+
+00:45:12
+Jeg er med på, at der lige er et par spørgsmål.
+
+00:45:14
+Dem tager vi med Kasper efterfølgende, og vi lægger dem op på optagelsen til slut, hvor han har fået lov at svare på dem, så I også får svaret på jeres spørgsmål.
+
+00:45:24
+Så på vegne af DNNK vil jeg sige tusind tak for jeres deltagelse.
+
+00:45:28
+Kasper, tak for dit indlæg.
+
+00:45:30
+Og husk at orientere jer i DNNK's klimakalender på kommende aktiviteter.
+
+00:45:36
+Så fortsat rigtig god dag til jer alle sammen.
+

@@ -1,0 +1,1272 @@
+00:00:06
+Jeg er DNNK.
+
+00:00:08
+Velkommen til dagens Tech Talk.
+
+00:00:10
+I teknikken sidder Morten Halling, og jeg på Stoffels Indby er dagens vært.
+
+00:00:15
+For god ordens skyld skal det siges, at Tech Talken bliver optaget, og den vil være tilgængelig på DNNKs hjemmeside i løbet af en uge.
+
+00:00:24
+Lidt om det praktiske, så imens Tech Talken er i gang, så er I meget velkommen til løbende at stille spørgsmål i chatten.
+
+00:00:31
+Til slut vil jeg tage jeres spørgsmål op, Uden yderligere er dagens Tech Talk i dag, hvor Jørgen Pedersen fra WSP vil vise, hvordan Zumba fungerer som et modelleringsværktøj til vandhåndtering.
+
+00:00:50
+Så husk, at I kan stille spørgsmål undervejs i chatten, og med det vil jeg give ordet videre til Jørgen, og så kan du selv præsentere dig herfra.
+
+00:01:01
+Ja, tak skal du have, Christoffer.
+
+00:01:02
+Jeg hedder som sagt Jørgen Torp Pedersen, og jeg er fagchef her i VSP, sidder i Høje Taastrup, og har været i VSP og tidligere i Orbicon i de sidste 13 år.
+
+00:01:13
+Jeg er oprindelig uddannet naturgeograf, og er en af de få geografer, der er i denne her branche.
+
+00:01:18
+Så tak fordi jeg måtte komme og fortælle om Zumba i dag, og tak til alle jer, der lytter med.
+
+00:01:26
+Grunden til, at vi har udviklet Zumba, det er, at vi har haft behov for nogle simple beregninger med en boksmodel, hvor vi kan rule nogle lange historiske regnserier igennem et opland og ned til et eller flere bassiner.
+
+00:01:38
+En af grundene til, at vi har brug for det, er, at vi kan se, at der er nogle udfordringer med SVK's regneark for både bassindimensionering og for lardimensionering.
+
+00:01:49
+For eksempel kan man prøve at regne på, hvor meget nedbørder falder på et opland over et år.
+
+00:01:53
+Det er ca.
+
+00:01:53
+650 mm.
+
+00:01:55
+Hvis man regner det ud til, hvor mange liter pr.
+
+00:01:57
+sekund, der falder pr.
+
+00:01:59
+hektar, så er det ca.
+
+00:02:00
+0,21 liter pr.
+
+00:02:01
+sekund.
+
+00:02:02
+Så i princippet burde vi ikke kunne lave et bassin med et afløbstal lavere end 0,21 liter pr.
+
+00:02:07
+sek.
+
+00:02:07
+Så kan bassinet simpelthen ikke nå at tømme ud lige så hurtigt, som det regner ind i det.
+
+00:02:13
+Og vi kan se, når vi åbner bassinkdimensioneringsregnerakket, lardimensioneringsregnerakket, det er det nye regnerak her fra 2023, der er udgivet i forbindelse med skrift 32, der har åbnet.
+
+00:02:24
+Ja, der kan vi rent faktisk godt få nogle bassinvolymer og nogle regnbødesvolymer eller faskinevolymer ud.
+
+00:02:31
+Selvom vi har afløbstallet, der er lavere end 0,21 liter pr.
+
+00:02:35
+sek.
+
+00:02:35
+pr.
+
+00:02:35
+hektar.
+
+00:02:37
+Det er jo i virkeligheden meningsløst.
+
+00:02:39
+Det er også her, hvor begge regneark kommer med advarsler for basængdimensioneringsregneark eller CDS-regneark.
+
+00:02:46
+Der kommer der en advarsel om, at afløbstallet er under 2 liter pr.
+
+00:02:49
+sek.
+
+00:02:50
+pr.
+
+00:02:50
+hektar.
+
+00:02:50
+Det kan give problemer i forhold til gyldigheden af den regionale model.
+
+00:02:54
+Der er også en bemærkning om, at tømmetiden er meget lang, så basængvolumet muligvis er underestimeret.
+
+00:03:00
+Og tilsvarende i LAR-dimensioneringsregnerakket, der får man en advarsel om, at tømmetiden er mere end 4 uger.
+
+00:03:06
+Så får man en advarsel om, at tømmetiden er lang, og at jordens nedsivningsævne muligvis ikke er velegnede til sådan nogle nedsivningsløsninger.
+
+00:03:17
+Og hvad gør man så, når man sidder med de her to regnerak og har fået at vide af sin kommune eller hvem det nu måtte være, at vi har et afløbstal for eksempel til en recipient på 1 liter per sekund per hektar, eller helt nede på en halv liter per sekund per hektar, som vi nogle gange ser.
+
+00:03:32
+Hvad gør man så, når man ikke kan bruge de her regnark?
+
+00:03:35
+Ja, der kan man så bruge Zumba, og det har vi gjort siden 2017.
+
+00:03:39
+Vi har haft Zumba siden 2017, og vi har anvendt Zumba nu på i alt 320 projekter, fysisk placeret i 68 af landets kommuner, og vi har i alt udarbejdet 2.575 Zumba-modeller i sidste fredags.
+
+00:03:53
+Der er sikkert kommet nogle til her.
+
+00:03:54
+de sidste par dage.
+
+00:03:56
+Vi anvender Zumba, altså den her boksmodel, når der er fokus på volumener frem for vandføringsevner, eller hvis vi har brug for at regne på de her lange tidsserier med historisk regn, altså LTS-beregninger.
+
+00:04:06
+Hvis der er to eller flere bassiner, der er koblet, når der er styring mellem bassiner eller laranlæg, når bassiner eller laranlæg har flere udløb.
+
+00:04:13
+Hvis vi gerne vil vide noget om årsbalancer, hvor det er vigtigt, at vandbalancen den passer.
+
+00:04:19
+Hvis fordampning er interessant, eller nedsivning er vigtig og interessant, så kan vi også bruge Zumba, det kan være svært af de andre, stykker software.
+
+00:04:25
+Vi kan også bruge Zumba til at påføre klimafaktorer til historiske regnsager, eller vi kan manipulere et regneinput, så vi kan bruge den regn, vi får ud af Zumba i nogle andre software.
+
+00:04:37
+Brug også Zumba, når det er vigtigere med en højtidsmæssig opløsning end med en korrekt hydrodynamisk beskrivelse, som man ville kunne få i en egentlig hydrodynamisk Mike-model for eksempel.
+
+00:04:46
+Eller hvis vi skal integrere flere forskellige datakilder og foretage joint probability-analyser, så kan vi også bruge Zumba til det.
+
+00:04:53
+Inden vi skal bruge sumper til at regne på stofkoncentration og rensegrader, og til sidst så bruger vi sumper i nogle rigtig store systemer også, som en form for scenarioberegninger, hvor vi for eksempel kigger på interne styring af bassiner, og det kan vi så efterfølgende verificere med Mike Urban modeller.
+
+00:05:11
+Så vi har brugt sumper til rigtig, rigtig mange ting, og det er ikke bare en eller anden skør idé, vi har fået her i foregås.
+
+00:05:17
+Det har faktisk givet værdi for vores kunder igennem rigtig mange år.
+
+00:05:20
+Det har gjort, at vi har kunne lave bedre og eller billigere projekter, end vi ville have kunne, hvis vi ikke havde haft Zumba.
+
+00:05:27
+Og vi er selvfølgelig en hel række folk, der har arbejdet med at udvikle det her.
+
+00:05:31
+Først og fremmest Moen, som er vores programmer, og så er en hunes masse mennesker, som er nuværende og tidligere kollegaer, der har spillet ind med gode idéer til, hvad Zumba skulle kunne.
+
+00:05:42
+Og nu tænker vi, at nu er det på tide, at andre end os kan få glæde af Zumba, og derfor frigiver vi Zumba til alle dem, der måtte have lyst til at bruge det.
+
+00:05:50
+Det vender jeg tilbage til i slutningen af talken her, så det var lige en teaser.
+
+00:05:55
+Hvis I har lyst til at bruge Zumba, så lyt med, for så kommer der en beskrivelse af, hvordan I kan få adgang til det.
+
+00:06:02
+Zumba er opbygget efter sådan et Lego-klods-princip, og det står af sum af vand i bassiner, Og som sagt er det en boksmodel, der routerer vand mellem forskellige magasiner.
+
+00:06:14
+Input til sumper er rigtig ofte SVK-nedbøger, altså nedbøger, der er målt ved Spillevandskomitéens regnmålerstationer.
+
+00:06:22
+De ligger jo tilbage fra 1979 på dem, der er ældst.
+
+00:06:26
+Det vil sige, at vi har ca.
+
+00:06:27
+45 års data, og de ligger med en opløsning på et minut.
+
+00:06:31
+Det vil også sige, at vi i princippet, hvis vi tæller alle minutterne med, hvor der ikke er målt nedbøger, så har vi omkring 24 mio.
+
+00:06:38
+minutter.
+
+00:06:39
+data i sådan en lang tidsserie.
+
+00:06:42
+Det gør også, at vi kommer til kort, hvis vi forsøger at lave det her i et regneark.
+
+00:06:45
+Der løber vi simpelthen tør for rækker.
+
+00:06:49
+Zumba fungerer helt basic ved, at vi lader det regne ned over et opland, så løber det ind i et bassin, og fra det bassin, der er der et eller andet udløb.
+
+00:06:57
+Det var det første tidsskridt, et minut.
+
+00:06:58
+Så kommer vi til det næste tidsskridt, der regner det også.
+
+00:07:01
+Der løber vand ind i bassinet, og der løber noget vand ud.
+
+00:07:03
+Og så holder vi øje med at styre på, hvor meget vand, der er løbet ind og ud af bassinet, og dermed, hvad volumet er i bassinet.
+
+00:07:08
+så kan der måske komme nogle minutter, hvor det ikke regner, så løber der bare vand ud af bassinet, indtil vores bassin er tomt.
+
+00:07:14
+Og det er i hele princippet i sådan en boksmodel, man holder simpelthen bare styr på de her volumler i forskellige tidsgrider.
+
+00:07:21
+Det her var selvfølgelig den mest simple model, man kunne lave, men man kan bygge alt muligt ovenpå med tidsforskydning og dæmpning, og jeg ved ikke hvad.
+
+00:07:27
+Men det er et spørgsmål om at holde øje på volumler, hvor meget løber der ind i bassinet, hvor meget løber der ud af bassinet, og hvad bliver så det resulterende volume i det bassin, vi sidder og kigger på.
+
+00:07:37
+Der er mange fordele ved sådan en boksmodel som denne her.
+
+00:07:39
+Den er nem at forstå.
+
+00:07:40
+Den kan regne rigtig hurtigt.
+
+00:07:41
+Den kan regne på lang tidsserie.
+
+00:07:43
+Den kan regne på det her med koblet hænde sig.
+
+00:07:45
+Der er ikke nogen huller i tidsserien.
+
+00:07:47
+Det vil sige, vi kan også regne på alle de minutter, hvor det ikke regner.
+
+00:07:50
+Så vi slipper for at skulle lave de her joblister, som vi nogle gange skal lave, hvis vi regner i Mic Urban eller i Mic Plus.
+
+00:07:56
+Der er fuldstændig styr på vandbalancen.
+
+00:07:58
+Og vi regner som sagt på historiske ledbøger og ikke på de her kunstigt genererede CDS-regn, som vi rigtig tit ellers bruger i vores øremodeller.
+
+00:08:06
+Der er selvfølgelig også nogle udlæmper.
+
+00:08:07
+Blandt andet det her med, at der er virkelig, virkelig mange data.
+
+00:08:10
+Hvis man laver sådan en boksmodel i et Reinaark eller et Python-skræbt, så har det lidt en tendens til at blive sådan nogle engangsmodeller, der er næsten umulige at ændre i efterfølgende.
+
+00:08:19
+Det gør også, at det kan være rigtig, rigtig svært at lave KS på.
+
+00:08:22
+Og så er der selvfølgelig også det her med, at vi ikke løser alle de hydrodynamiske ligninger.
+
+00:08:26
+Vi har ikke noget manningstal, vi har ikke nogen opstuning, energitab, ingen tidsforsærige og ingen dæmpning.
+
+00:08:31
+Men noget af det her kan vi løse ved at bruge Zumba.
+
+00:08:35
+Styr på alle de her datamænter.
+
+00:08:37
+Vi kan lave modeller, der er til KS'er, som vi nemt kan ændre i.
+
+00:08:40
+Og vi kan også lægge den her tidsforsænkning og dæmpning ind i vores boksmodel, hvis vi har lyst til det.
+
+00:08:47
+I Zumba der er en hel række elementer, altså de klodser, vi har i kassen.
+
+00:08:52
+Og der er fem overordnede grupper.
+
+00:08:56
+Den ene gruppe, det er tidssager, det er selvfølgelig nedbør.
+
+00:08:59
+Det kan også være den her korrigerede nedbør, hvis vi gerne vil klimafremskrive den.
+
+00:09:02
+Det kommer til, hvordan vi gør det.
+
+00:09:03
+Vi kan også tage tidsserier ind for vandføringer, som vi for eksempel kunne downloade fra vandportalen, hvis vandløb kunne være interessant.
+
+00:09:10
+Vi kan have tidsserier for fordampning, enten standardkurver eller nogle, vi downloader fra DMI's Open Data.
+
+00:09:16
+Vi kan også have nogle vandstandsmålinger, hvis der er registreret vandstand et eller andet sted, så kan man tage det ind i Zumba.
+
+00:09:22
+Det kan man bruge til enten at kalibrere efter eller at styre efter sådan en vandstand.
+
+00:09:26
+Vi kan også have tidsserier med mandingtal, hvis vi godt vil regne på naturligt dybde i et specifikt tværsnit.
+
+00:09:31
+Så har vi en tidsserie for temperaturer, som vi pt.
+
+00:09:34
+ikke bruger til det helt store endnu.
+
+00:09:35
+Det er work in progress.
+
+00:09:37
+Vi arbejder med også at kunne regne på temperaturer i bassiner for eksempel.
+
+00:09:41
+Og så kan vi lægge sådan nogle cykliske dagdata ind, hvor vi bare har et års variation, som vi gentager år efter år efter år.
+
+00:09:46
+Det kunne for eksempel være et spildevandsbidrag, eller det kunne være et fordampningstidsserie hen over året.
+
+00:09:52
+Så har vi et opland og forskellige typer bassiner, enten et tørrbassin, eller en sø, der har et vådevolum, det kunne være et rensevolum, og et nedsivningsbassin, hvor man kan definere k-værdier, det kommer jeg også tilbage til om lidt.
+
+00:10:05
+Så er der forskellige manipulatorer, det vi kalder flow-styring, bassinudløbet, altså hvor meget vand løber der ud af bassinet, det kan også være et QH-udløb, hvis vi kender den QH-kurve, der er fra et bassin.
+
+00:10:16
+Det kan være et fordampningsudløb, som vi kalder det, altså hvor vi tilknytter en tidsserie over potentielt fordampning.
+
+00:10:22
+Det kan være et matrixudløb, hvor man kan lave noget styring på baggrund af vandstanden i forskellige bassiner.
+
+00:10:27
+Så kan man kigge forskellige steder hen og sige, at hvis vandstanden er det her det ene sted, og det her det andet sted, så løber der så meget vand mellem mine bassiner.
+
+00:10:35
+Og endelig så har vi de her nedsivningsudløb, som man kan koble på sine nedsivningsbassiner, og hvor udløbet bliver afhængigt af det vanddækkede areal og nedsivningsevnen i bassinet.
+
+00:10:45
+Så kan vi manipulere med flow og tidsserie.
+
+00:10:47
+Der er en flow transformer, hvor vi kan gange forskellige faktorer på vores flow.
+
+00:10:53
+Vi kan summere flow, vi kan manipulere vores nedbør på månedsbasis for eksempel.
+
+00:10:58
+Vi kan fordele vores flow på månedsbasis, så flowet om vinteren løber et sted hen og om sommeren et andet sted hen.
+
+00:11:05
+Det kan vi for eksempel bruge, hvis vi laver vejbøde med vinterlukning på.
+
+00:11:08
+Der er en hård transformer, hvor vi kan lægge en havspejlsstigning ind på en målt havspejlsvandstandskurve.
+
+00:11:17
+Og så er der den her naturlige dybde, hvor vi kan regne vandstanden ud i geometriske profiler i et vandløb for eksempel.
+
+00:11:25
+Og endelig så er der de her stofmanipulatorer, hvor vi kan putte stof ind i vores model, og vi kan fjerne stof på forskellige måder.
+
+00:11:33
+Det kommer jeg tilbage til lidt senere.
+
+00:11:36
+Når man åbner Zumba, så ser det sådan her ud, og så starter man typisk med at definere, hvad er det for en nedbør, vi gerne vil regne på.
+
+00:11:41
+Her er det så en Glostrup SVK-nedbørsserie, vi har puttet ind.
+
+00:11:45
+Vi har vores opland, hvor vi definerer, hvor stort oplandet er, og hvilke initialtag, vi har på vores opland.
+
+00:11:50
+Så definerer vi et bassin og laver en hypsograf.
+
+00:11:53
+Det er altså sammenhængen mellem vandstand i bassinet og volumet.
+
+00:11:56
+Vi kunne også putte et areal på, hvis vi for eksempel havde fordampning eller nedsivning med inden.
+
+00:12:00
+Men vi laver den her hypsograf, fortæller, at vandet løber fra oplandet ind i bassinet, og i det bassin, der har vi et udløb her på 20 liter pr.
+
+00:12:08
+sekund.
+
+00:12:08
+Og så skal vi som udgangspunkt også altid have et overløbsen, så bassinet ved, hvad sker der med vores vand, hvis der løber mere vand ind i bassinet, end der er plads til.
+
+00:12:15
+Så kan vi køre modellen, og her har vi så kørt den for de her cirka 20 år.
+
+00:12:19
+Og det vi får ud af det, det er så en hel række tidsserier, hvor der per minut ligger forskellige egenskaber, som vi har bedt modellen om at gemme.
+
+00:12:27
+Her for eksempel, hvad er det for et volume, vi har i vores bassin.
+
+00:12:31
+Men det kunne også være flåde, eller nedbøgerne, eller udløb, eller overløb, eller hvad det måtte være.
+
+00:12:35
+Så er det sådan en helt simpel model.
+
+00:12:37
+Den så i princippet sådan her ud.
+
+00:12:39
+Altså, det regner på et opland.
+
+00:12:41
+Fra oplandet, der løber det ind i bassinet.
+
+00:12:43
+I bassinet har vi et kendt udløb på 0,6 liter per sekund per hektar, altså et af de her situationer, hvor vi har et meget lavt afløbtal, og vi har også det her overløb.
+
+00:12:52
+Når vi kører sådan en model her for 40 års data, så kan vi trække ud, hvor mange gange der er overløb.
+
+00:12:59
+I det her tilfælde, hvor vi har en reduceret hektar opland, der løber ind i et bassinet, der er 600 kubikmeter, med et udløb på 0,6 liter per sekund per hektar, der ser det umiddelbart ud som om, at vi har de her 11 overløb på 45 år.
+
+00:13:13
+Men når man zoomer ind på de her overløb, f.eks.
+
+00:13:15
+nummer 6, så kan vi se, at når vi kommer tæt nok på, så det der umiddelbart ligner et overløb, der er faktisk en hel række overløb.
+
+00:13:22
+Og det skyldes, at når først basenet bliver helt fyldt med de her lave afløbtal, så er de næste regn, der måtte komme, hvor basenet ikke når at tømme ud, de kan faktisk også godt resultere i overløb.
+
+00:13:32
+Så hvis vi zoomer endnu mere ind på sådan en enkel hændelse her, så kan vi se, at det, der ligner et overløb her, det er i virkeligheden fire år overløb.
+
+00:13:40
+I hvert fald, hvis vi definerer det som et nyt overløb, hver gang overløbsmængden har været 0 liter pr.
+
+00:13:45
+sek.
+
+00:13:46
+i bare et minut.
+
+00:13:47
+Så det betyder noget, hvordan vi definerer det her overløb, og der er sådan en overløbstæler indbygget i Zumba, hvor man kan definere de her overløb, og hvis vi siger, at det er et nyt overløb, hver gang overløbet har været 0 liter pr.
+
+00:14:00
+sek.
+
+00:14:00
+i bare et minut, I den her model vil vi have 22 overløb på de her 46 år, svarende til at vores bassin er dimensioneret til en 2,09 års hændelse.
+
+00:14:11
+Hvis vi ændrer på vores overløbsdefinition for eksempel sådan, at vi tæller det som et nyt overløb, hvis der går et helt døgn, så har vi pludselig 15 overløb, svarende til at vores bassin er dimensioneret til en 3 års hændelse.
+
+00:14:24
+Hvis vi siger, at der kan være op til en hel uge imellem før vi kalder det et nyt overløb, så har vi pludselig kun 11 overløb på 46 år, svarende til, at det er et fireårs-passing.
+
+00:14:35
+Og endelig kan vi lave den her annual max-analyse, hvor vi siger, at det, vi gerne vil med vores passing, er at sørge for, at der fire ud af fem år, der er ikke nogen overløb, og det femte år, der må der være et eller flere overløb.
+
+00:14:48
+Det er lidt analogt med det, man gør i i ekstremværdianalyse for vandføringer og vandstande i vandløb, hvor man kigger på de her annual max, for eksempel, når man laver en vintermedian max, så er det den måde, man gør det her på.
+
+00:15:02
+Der tæller man kun den største værdi med hvert år, og ikke de mindre værdier, selvom de må være ekstreme.
+
+00:15:08
+Så hvis vi gør det på den måde, så er vores placering pludselig dimensioneret til en femårsindse, og det er altså den samme model, det samme bassin, men afhængig af, hvordan vi vælger og definerer de her overløb, så kan vi få alle mulige forskellige volumener her til f.eks.
+
+00:15:22
+en femårssendelse.
+
+00:15:23
+Vi har SVK-dimensionering som en stiblet linje, hvor vi ved en afløbstal på 0,2 liter pr.
+
+00:15:29
+sekund pr.
+
+00:15:30
+hektar, altså noget, der begynder at blive meningsløst, der skal vi i følge SVK-regnearket have 900 kubikmeter, og når vi laver det med historiske regnserier i sådan en boksmodel, så skal vi have væsentlig større men præcis hvor stor det er afhænger af, hvordan vi definerer de her overløbshændelser.
+
+00:15:47
+Så det er rigtig, rigtig vigtigt, at man er enig om, hvordan man skal definere det her.
+
+00:15:51
+Så den første take home-mæssigt, det er, at definitionen af overløb har rigtig stor betydning for dimensionering af bassiner med lave afløbstal.
+
+00:15:58
+Det samme gør sig for så vidt gældende for initialtabet.
+
+00:16:02
+Som udgangspunkt har jeg valgt en model, hvor vi siger, at der er et initialtab på 0,6 mm pr.
+
+00:16:07
+regnhændelse.
+
+00:16:08
+Det vil sige, at jeg bruger Spillevandskomitéens regnhændelsesdefinition.
+
+00:16:12
+Hvis det har været tørvejr i en time, så starter vi forfra med en ny regnhændelse, og så trækker vi de første 0,6 mm ud som initialtab.
+
+00:16:20
+Men man kunne også godt lave en model, hvor vi siger, at der overhovedet ikke er noget initialtab, så får vi nogle væsentlig større volumener.
+
+00:16:26
+Og inden det, så kunne man lave, det har jeg gjort i en Zumba-model her, en model, hvor vi siger, at de her 0,6 mm bliver bygget op over 24 timer.
+
+00:16:34
+Så hvis vi er ud over 24 timer, så har vi et initialtab på 0,6 mm, Men hvis der kun går 12 timer mellem hver regnhændelse, så er der kun et initialtab på det halve, altså 0,3 mm.
+
+00:16:45
+Så hvordan man definerer det her initialtab, har også rigtig stor betydning for vores patientdimensionering ved de lave afløbstaller.
+
+00:16:52
+I den her sammenhæng er det også vigtigt at sige, at det jeg kigger på her, det er på baggrund af nutidig klima.
+
+00:16:57
+Der er slet ikke nogen klimafaktorer i det, jeg præsenterer her i de her figurer.
+
+00:17:02
+Hvis vi havde puttet klimafaktorer på, så ville vi rykke hele vores figurer til højre.
+
+00:17:06
+Og så passer det måske meget godt med, at vi begynder at få nogle problemer, når vi kommer under de her to liter per sekund per hektar, som også er grænsen for, hvornår man kan bruge Spillemandskomitéens regnark.
+
+00:17:17
+Når vi har de her lave afløbstal, så er der jo en tendens til, at vi får nogle meget lange tømmetider.
+
+00:17:24
+Især om sommeren, der kan fordampning også have en betydning.
+
+00:17:28
+Det er klart, at hvis vi skal regne fordampning ind i vores bassindimensionering, så skal vi vide lidt mere om vores bassin.
+
+00:17:34
+For eksempel, hvad er arealet til forskellige vandstandskorter?
+
+00:17:39
+Hvad er sammenhængen mellem vandstandskorten, volumet og arealet?
+
+00:17:43
+Hvis vi kender det, så kan vi også putte en tidsserie for fordampning ind.
+
+00:17:46
+Her har jeg bare puttet en standardkurve hen over året for sjælland ind som fordampning.
+
+00:17:51
+Men jeg kunne også have downloaded nogle data fra DMI og Open Source og få en lille tidsserie over potentielt fordampning.
+
+00:17:57
+Vi kan se, at det er den lillage streg, vi ser her.
+
+00:17:59
+Hvis vi putter fordampning ind i vores model og tager hensyn til det, så vil de lave afløbstal, så kan det have en ret stor betydning for, hvor stor lidt volume vi skal bruge, forsikkelsesvolumen vi skal bruge, hvis vi skal dimensionere til en femårshændelse.
+
+00:18:14
+En anden ting vi kan bruge somper til, ud over det her dimensionering med lave afløbstal, Det er at kigge på, hvad der sker, hvis vi har flere bassiner i række af hinanden, hvor det ene bassin løber ind i det andet bassin.
+
+00:18:25
+Det er noget, der kan være lidt svært at holde styr på, når man bruger Spildevandskomitéens regneark, fordi den forskellige bassiner med forskellige afløbstal, kan have forskellige dimensionsgivende vejeheder for, hvad det er for en regn, der rent faktisk giver det største volume i bassinerne.
+
+00:18:40
+Det kommer vi ud over, hvis vi bruger de historiske regnsager.
+
+00:18:43
+Her er et eksempel fra Skovsbo, som vi lavede for Forsbo et tidspunkt, hvor der er en regnvandshåndteringsplan at regnvand skal håndteres på terræn i forskellige bassiner, inden der op mod nord er et udløb til den, der hedder Syvbækken.
+
+00:18:57
+Vi kunne så sætte en model op for de her fire forskellige delområder med fire forskellige oplande og bassiner, og lade de her forskellige bassiner løbe ind i hinanden, og på den baggrund dimensionere de her bassiner, så vi lige præcis havde plads til en femårshændelse i hver af de her bassiner.
+
+00:19:15
+Det vil sige, at vi gennemsnitlig statistisk set har et overløb en gang per femte år for hver af de her bassiner.
+
+00:19:23
+En anden ting, vi kan kigge på, det er det her med nedsivningsanlæg.
+
+00:19:26
+Det her er også et projekt, vi har lavet for forårs, hvor vi har en hel række forskellige oplande, der alle sammen løber sammen i et rensebassin.
+
+00:19:33
+Det er det, der er tegnet med grønt her i midten.
+
+00:19:36
+Og for det rensebassin, der er der i princippet et overløb og et udløb til et nedsivningsbassin.
+
+00:19:42
+Og i den nedsivningsbassin, der har man været ude at måle nogle k-værdier, sådan så vi får valgt, I kan se, at bassinet er en sammenhæng mellem koden, volumet i bassinet, arealet, der er vanddækket, og hvilken nedsivningsevne der så er.
+
+00:19:57
+I det her tilfælde har vi den samme k-værdi til alle vandstanden, men havde vi f.eks.
+
+00:20:01
+haft et bassinet med en membran, så kunne man have defineret, at der ikke var nogen nedsivning, altså k lige med 0, indtil vi kom op over den kant, hvor membranen var, så ville man kunne regne nedsivningen ud, når bassinet stod op over vores membrankant.
+
+00:20:15
+Man kan også få det plottet inde i Zumba.
+
+00:20:17
+Hvad er sammenhængen mellem vores korte, vores areal og vores nedsivning i liter per sekund?
+
+00:20:22
+Det er den graf, I kan se til højre.
+
+00:20:24
+Når vi kører den her model, så får vi nederst med blåt.
+
+00:20:27
+Hvad er det for et volume eller vandstand?
+
+00:20:30
+Hvad er det for en vandstand, vi har i vores nedsivningsbassin?
+
+00:20:35
+Og hvad er vores fordampning?
+
+00:20:37
+Det er den, vi kan se øverst med grøn.
+
+00:20:39
+og vores nedsivning, som vi kan se med broen her i midten.
+
+00:20:43
+Grunden til, at den ligger på forholdsvis konstant niveau, det er, at vi har en plan bund i vores bassin, så lige så snart, der kommer vand i vores bassin, så har vi et forholdsvis stort areal til rådighed til nedsivning.
+
+00:20:55
+Det havde set helt anderledes ud, hvis vores nedsivningsanlæg havde været spidsbundet.
+
+00:21:01
+På den måde kan man regne på, at de her nedsivningsbassiner ret præcist på en måde, som jeg tror er rigtig svært at gøre med, og andre typer software.
+
+00:21:10
+En anden ting, som man kan bruge Zumba til, det er denne her skalering af nedbør, som jeg har nævnt et par gange.
+
+00:21:16
+Her er princippet, at vi bruger Spillemandskomiteens regional regnrække, i det her tilfælde den nyeste version, version 2023, som blev udgivet i forbindelse med skrift 32.
+
+00:21:28
+Og hvis vi kender, hvor vi er i verden, så kan man lave en sammenhæng mellem vejheden af regnen, gentagelsesperioden på regnen, intensiteten er.
+
+00:21:38
+Det sakser vi simpelthen ud, at det er regional regnrække, og så laver vi sådan en tabel, som den især til højre her.
+
+00:21:44
+For eksempel for en etårsindelse, så er en 10-minutters vejehed 11,04 mikrometer pr.
+
+00:21:49
+sekund, altså de her 110 liter pr.
+
+00:21:51
+sekund per hektar, som vi kender.
+
+00:21:53
+Hvis det er 30-minutters, eller 60-minutters vejehed, så er det 3,6 mikrometer pr.
+
+00:21:57
+sekund, osv.
+
+00:21:58
+osv.
+
+00:21:59
+Og den tabel her, den kan vi tilknytte vores regnserie i Zumba, så vi får en historisk regnserie, Der er sådan en tabel her tilknyttet.
+
+00:22:08
+Og når vi har det, så kan vi be Sumba om at regne middelintensiteter ud over forskellige vejeheder for hver enkel regnhændelse i vores regnserie.
+
+00:22:19
+Der er typisk de her 8-9.000 regnhændelser igennem sådan en periode på omkring 45 år.
+
+00:22:27
+Og når vi har regnet de her middelintensiteter ud, altså M5 og M10, altså middelintensiteten over 10 minutter, den maksimalere af dem for hver enkel regnhændelse, Så kan vi slå op i vores tabel og få at vide, for eksempel, at en mydelintensitet over 60 minutter på 4,72 mikrometer pr.
+
+00:22:44
+sekund, det svarer til, at vores gentagelsesperiode er en 2,9 års hændelse.
+
+00:22:53
+Så vi regner alle de her forskellige mydelintensiteter ud, og de tilsvarende gentagelsesperioder, og på den måde kan vi tage den højeste af de her gentagelsesperioder og tilknytte den til hver enkel regnhændelse, Og også hvad er det for en varighed, den her gentagelsesperiode er baseret på.
+
+00:23:10
+Så for den regnhændelse nr.
+
+00:23:13
+905, der forekommer den 23.
+
+00:23:15
+i 7.
+
+00:23:16
+1996, klokken 03.04, og som var 235 minutter, og indeholder 62,8 mm nedbør, det er en 55,5 års hændelse baseret på 360 minutters varighed.
+
+00:23:32
+Og det får vi ud for alle vores regnhændelser igennem hele sådan en tidssag her.
+
+00:23:38
+Og sådan en tabel kan vi bruge til at skalere vores nedebør.
+
+00:23:42
+Vi kunne for eksempel gange f-værdier på.
+
+00:23:45
+F-værdier det er værdier, der fortæller noget om vores historisk målte regnhændelse, hvordan matcher den regionale model.
+
+00:23:54
+Og hvis f-værdien er 1,0, det er virkelig en sikkerhedsfaktor, at man skal gange på sin historiske regnhændelse, for at den kommer til at ramme den regionale model så godt som muligt.
+
+00:24:05
+F-værdierne findes for forskellige gentagelsesperioder og forskellige vejrigheder for denne regnserie.
+
+00:24:10
+De her f-værdier kunne vi så gange på alle vores nødbørshenser, baseret på gentagelsesperioden og vejrigheden, for på den måde at notche vores historisk målte regnserie til at matche den regionale model efter bedste evne.
+
+00:24:24
+Vi kunne også bruge det her til at variere den hydrologiske reduktionsfaktor, hvis vi godt vil lave en LTS-beregning med alle mulige forskellige målte nødbørssensor med forskellige gentagelsesperioder.
+
+00:24:37
+Der ved vi jo her fra afløbsteknik for eksempel, at hvis vi har en lav gentagelsesperiode på vores nødbør, så har vi formentlig også en lav hydrologisk reduktionsfaktor, måske i størrelse over 0,7-0,8, mens hvis det regner rigtig meget, så er den hydrologiske reduktionsfaktor nok snarere i nærheden af én.
+
+00:24:56
+Og det kan vi eskalere med sumper, så vi regner gentagelsesperioden ud på hver enkelt nedbørsserie i vores tidsserie, og så kan vi gange en hydrologisk reduktionsfaktor på afhængig af gentagelsesperioden.
+
+00:25:06
+Og endelig kan vi bruge det her til at regne en klimafremskrevet historisk nedbørsserie ud, hvor vi putter klimafaktorer på hver enkelt regnhed til igennem sådan en lang regnserie her.
+
+00:25:22
+baseret på gentagelsesperioden for den enkelte regnhændelse og eventuelt også varigheden.
+
+00:25:27
+Der kan vi gå ind i Spillevandskomitéens skrifter og sige, hvad er gentagelsesperioden for 2, 5, 10 og 100 årshændelser, så vidt jeg lige husker, og også for årsnedbøger.
+
+00:25:39
+Vi kan også bruge skrift 32 af Regnerakket, der kan man få de her klimafaktorer også for forskellige gentagelsesperioder.
+
+00:25:46
+Det er dem, der er markeret med guld her.
+
+00:25:47
+Vi kan for eksempel bruge klimaetlast til at sige noget om, hvor meget forventer vi for eksempel, at døgnedbøgeren for en 100-års hændelse vil ændre sig i fremtiden.
+
+00:25:58
+Det er i det her tilfælde 1,12.
+
+00:26:00
+Det vi kan se ved T100 for en vejhed på 1440 minutter, der er klimafaktoren 1,12.
+
+00:26:07
+På den måde kan vi gange individuelle klimafaktorer på vores historiske regnserie og på den måde lave en form for klimafremskrevet historisk regnsag, vi kan bruge til at lave LTS-beregninger på.
+
+00:26:18
+Det er klart, at det regner, når man gør det på den måde her, på præcis de samme tidspunkter i fremtiden, som det gør i dag.
+
+00:26:24
+Der er ikke noget med, at der kommer nogle længere tørkeperioder, for eksempel.
+
+00:26:28
+Heller ikke noget med, at sommernedbøren nødvendigvis ændrer sig mere end vinternedbøren.
+
+00:26:34
+Det er præcis den samme nedbør, vi blot skal lære i fremtiden.
+
+00:26:38
+Det er ikke en officiel metode, som Spildevandskomiteen har nikket til, men det er vores bedste bud i VSP på, hvordan man kan lave sådan en klimafremskrevet tidsserie for nedbør.
+
+00:26:47
+Det gode ved det her, det er, at den er operationelt.
+
+00:26:48
+Det vil sige, at det er forholdsvis nemt at gøre, når først man har Zumba.
+
+00:26:51
+Den er deterministisk, det vil sige, at du kan regne det hele efter i hånden.
+
+00:26:54
+Der er ikke noget stokastisk inde i det.
+
+00:26:56
+Derfor er den også reproducerbar.
+
+00:26:58
+Hvis vi gør det samme to gange, så får vi præcis det samme resultat.
+
+00:27:01
+Og endelig så er den også kommunikerbar.
+
+00:27:04
+Det er rent faktisk til at forklare, hvad det er, man gør med denne her metode.
+
+00:27:09
+Det har vi brugt i et eksempel her, som jeg har fået lov til at vise fra Ishøj Forsyning, hvor vi kigger på Lille Vejleå, Store Vejleå og de laguner, der er tilknyttet, inden vandet løber ud i havet.
+
+00:27:21
+Der vil man godt vide, om der endda er en enkelt pumpe på Store Vejleå, men er der behov for i fremtiden at putte nogle større pumper på.
+
+00:27:30
+Det kan vi kigge på i dag, og det kan vi gøre med Joint Properability, altså hvor vi putter forskellige datakilder ind i vores Zumba-model.
+
+00:27:39
+Vi har vandføring i vandløbene, vi har noget nedbør over byen, og endelig har vi en vandstand ude i haven, som alle sammen er målt.
+
+00:27:46
+Det kan bygge ind i vores forholdsvis simpele sømbøm-model.
+
+00:27:49
+Vi har vores vandføring, vores nedbør og vores vandstand, og så bygger vi sådan en model og kigger på, hvad bliver vandstanden så inde i de her to laguner, der hedder Lille Vejlesø og Jægersø, som er markeret med sådan en grøn bassin, der hedder Laguner, i vores modelopbygning her.
+
+00:28:04
+Vi er så heldige, at der står en målestation inde i lagunen.
+
+00:28:09
+I en periode kan vi kigge på, hvad vores simulerede vandstand i lagunen er.
+
+00:28:14
+Det, I ser øverst til højre, er den blå.
+
+00:28:17
+Den kan vi sammenligne med den røde, som er den målte vandstand i lagunen.
+
+00:28:20
+Vi kan se, at vores model er ret god til at simulere den her variation, der er i vandstanden i Lille Vejlesø og i Jægersø.
+
+00:28:29
+Det er også det, der er vist nederst til højre, hvor vi har taget døgnmidlerne af de her.
+
+00:28:33
+vandstanden og plottet dem op mod hinanden, altså den målte vandstand mod den simulerede vandstand.
+
+00:28:41
+Vi kan se, at de ligger på en 1-1-linje, det vil sige, at vi ikke har nogen bajers i vores model, og vores AERIANMA er 0,85, så det er en rigtig god model til at simulere, hvilken vandstand der vil være i de her laguner.
+
+00:28:56
+Når vi så har gjort det, så er der i Zumba også en statistikmodul, hvor vi kan tage f.eks.
+
+00:29:01
+de her vandstanden, der er målt i lagunerne og lave ekstremværdifordelingsanalyse på det.
+
+00:29:07
+Her har jeg brugt en Lock Pearson type 2 modell til at beskrive de højeste vandstanden i lagunerne her.
+
+00:29:14
+Og så kan jeg komme med et bud på, hvad er den statistiske vandstand i lagunerne ved en 1 års indsætning, ved en 2 års indsætning, ved en 5 års indsætning, 10, 20, 50 og 100 års indsætning.
+
+00:29:23
+Så en gang hver 10.
+
+00:29:24
+år forventer vi, at vi har en vandstand i de her laguner på 0,87 meter dvr 90.
+
+00:29:31
+Nu kan vi så putte klimaændringer på, både på vores nedbøger, som jeg viste før.
+
+00:29:35
+Vi kan også trække klimafaktorer for vandføringer i Lille Vejleå og Storvejleå.
+
+00:29:41
+Dem kan vi få fra HIP.
+
+00:29:43
+Jeg har ganget 1,12 og 1,18 på.
+
+00:29:46
+Og endelig kan vi putte en havspejlstigning på på vores målte havspejle ude i havet.
+
+00:29:53
+Og så kan vi køre præcis den samme model en gang til med klimaændringer for at se, hvad det betyder for vores gentagelsesperioder.
+
+00:30:00
+Hvor vi før ved en 10-årssendelse havde en vandstand på 0,87 meter dvr 90 i vores laguner, så kan vi se, at hvis vi klimafremskriver til slut og 100, så vil vores 10-årssendelse i stedet for være 1,31 meter dvr 90, altså en stigning på 0,48 meter ved en 10-årssendelse.
+
+00:30:25
+Det kan vi jo bruge til at lave forskellige cost-benefit-analyser på, og kan det betale sig at lave nogle større pumper på det her system.
+
+00:30:32
+Hvad afhjælper vi af skader?
+
+00:30:34
+Vi kan tage de her vandstanden og trække dem ud i terræn og se, hvor mange bygninger vi eventuelt må ramme.
+
+00:30:40
+Vi kan også regne på stof, transport og stofomsætning, rensegrader og kvalitetsgrader.
+
+00:30:48
+Det kan vi gøre, som vi ser her til venstre, ved at tage et vandløb med forskellige fælles overløb eller udløb fra separate regnvandsbassiner.
+
+00:30:59
+og kigge på, hvad bliver stofbelastningen så ude i vandløbet i hændelser eller i kilo per år.
+
+00:31:05
+Eller hvad er koncentrationen af vores stof i vores vandløb, som vi ser til højre.
+
+00:31:09
+Det er lidt to sider af samme sag.
+
+00:31:11
+Men det kan være to forskellige ting, der skal afrapporteres.
+
+00:31:14
+Om det er det absolute stofmængde, der kommer ud, eller om det er et spørgsmål om, om vi har overskrevet de her miljøkvalitetskrav i forhold til koncentrationen ude i vandløbet.
+
+00:31:22
+Det kan vi også bruge sumper til at regne på.
+
+00:31:24
+Med hensyn til stoffjernelse, der kan vi gøre det på to forskellige måder.
+
+00:31:29
+Dels snakke med Jess Follersen, der har været hovedforfatter på den her baggrundsrapport omkring våde bassiner, og vi har fået lov til at tjusjæle hans matematik, så vi kan lave den her førsteordensnedbrydning med rattekonstanter af stof, som man gør i for eksempel VDP-software.
+
+00:31:45
+Det er den ene måde, vi kan fjerne stof i vores model på, og den anden er ved at putte nogle kendte rensegrader ind.
+
+00:31:51
+Hvis vi har forskellige typer regnvandsbassiner eller forskellige typer rensemekanismer, Hvis man så kender rensegradene, så kan vi putte det ind i modellen.
+
+00:32:03
+Så i den ene situation, der regner vi rensegraden, og i den anden situation, der kender vi rensegraden og putter den ind i vores model.
+
+00:32:10
+Vi er også i gang med at kigge på noget omkring tybe-tal, det er work in progress lige nu, hvor man kan definere den sammensætning af sit opland, hvis vi i det her tilfælde har et opland, der består 15 % tæt by, 25 % åben by, 25 % ny åben by, 10 % store veje og 25 % industri.
+
+00:32:32
+Hvad bliver så de vigtige koncentrationer af forskellige miljøfarlige stoffer beregnet på baggrund af nogle tybetalt, som vi er ved at få udarbejdet her i VSP i samarbejde med gode kollegaer rundt omkring.
+
+00:32:47
+Det er som sagt work in progress, men noget der kommer ret snart.
+
+00:32:51
+Vi kan også kigge på det her opblandingsforhold i vores vandløb.
+
+00:32:55
+Det her er en situation, hvor vi har tre forskellige kilder til vand i vores vandløb, og så bruger vi bare de her forskellige stoffer som tracer.
+
+00:33:05
+Hvis vi for eksempel har nogle nye bassiner, så kan vi give dem en tracer.
+
+00:33:08
+Det kunne være 100 milligram per liter nitrogen.
+
+00:33:12
+Det er det vand, der kommer ud af vores nye bassiner.
+
+00:33:15
+Og vores eksisterende bassiner får måske 100 milligram per liter fosfor.
+
+00:33:19
+På den måde kan vi kigge på opblandingsforholdet ude i vandløbet.
+
+00:33:23
+Altså hvor stor en procentdel af det vand, der løber i vandløbet, kommer fra de her forskellige kilder til forskellige tidspunkter.
+
+00:33:30
+Så kan vi gange forskellige typetal på, og så finde den egentlige koncentration ude i vandløbet på baggrund af de her opblandingsforhold.
+
+00:33:36
+Det er noget, som vores gode kollega Emma sidder og arbejder med lige nu.
+
+00:33:42
+Endelig er vi i gang med at lave et modul, hvor vi kan importere data direkte fra Orbus.
+
+00:33:49
+Det er noget, vi laver sammen med Lolland Forsyning, som har en Orbus database, hvor vi kan trække data ud.
+
+00:33:55
+De data skal vi manipulere i et regneark, og for eksempel fortælle, hvis det ikke allerede står i Opus, hvor er det så de her enkelte bassiner, hvordan er de koblet sammen, og hvad er pumpeydelserne, det er ikke altid det nødvendigvis står der, så der skal vi lige ind manuelt og rette nogle ting til, for eksempel på baggrund af en ledningsdatabase.
+
+00:34:13
+Når vi så har gjort det, så kan vi trykke Import til Zumba, og så får vi en Zumba-model ud, som vi ser her til højre.
+
+00:34:22
+Og endelig, som jeg nævnte, så kan vi også lave nogle rigtig komplicerede zumba-modeller.
+
+00:34:27
+Nu lyder det jo lidt som om, at sådan nogle boksmodeller er meget, meget simple.
+
+00:34:29
+Det behøver de ikke nødvendigvis at være.
+
+00:34:31
+Det her er et stort regnvandssystem.
+
+00:34:33
+Jeg tror, det er Hillerød, min kollega Heidi, der har siddet med det, og lavet en masse scenarier for, hvordan man kan styre de her bassiner, der er i det her system, internt i forhold til hinanden, så for på den måde at kunne optimere på, hvor ofte, eller rettere sagt, hvor sjældent de her bassiner skal gå i overløb.
+
+00:34:50
+Og der kan man med Zumba-modellen lave en hulens masse scenarioberegninger rigtig, rigtig hurtigt.
+
+00:34:55
+Og når man så har fundet noget, man siger, at det her, det ser sgu fornuftigt ud, så kan vi verificere det med en LTS-beregning i for eksempel Mike Urban eller i Mike Plus.
+
+00:35:05
+Og så nøjes med at bruge de her.
+
+00:35:06
+Det kan tage rigtig, rigtig lang tid at køre sådan en lang LTS-beregning i en dynamisk model.
+
+00:35:11
+Så der kan vi bruge Zumba til at lave alle vores scenarioer, og så kan vi nøjes med at verificere det i en model, der tager længere tid at køre til sidst.
+
+00:35:20
+Hvis I synes det her lyder som noget, det kunne være spændende at arbejde med.
+
+00:35:23
+I kunne bruge jeres brocheter.
+
+00:35:26
+Jamen så som sagt, så gør vi Zumba helt frit tilgængeligt nu.
+
+00:35:30
+Og hvis I kunne tænke jer en kopi af Zumba, så er det bare at skrive enten til Jens Toke, som er markedsansvarlig her i VSP Høje Torstrup, eller direkte til mig.
+
+00:35:39
+Så sørger vi for, at vi får sendt et link ud til jer, lige så snart vi har det hele klar.
+
+00:35:45
+Forhåbentlig i løbet af denne her eller næste uge, så I kan downloade en version af Der er selvfølgelig også lidt kom-igang-guides til, hvordan man får regnet data ind.
+
+00:35:56
+Der er en masse demo-eksempler i den Sumba-model, man kan downloade, så man kan se, hvad de forskellige elementer i Sumba kan.
+
+00:36:06
+Det var alt, hvad jeg havde.
+
+00:36:09
+Tak for opmærksomheden, og så ved jeg ikke, om der er dukket nogle spørgsmål.
+
+00:36:13
+Op undervejs.
+
+00:36:14
+Jørgen, først og fremmest vil jeg sige tusind tak for præsentationen.
+
+00:36:19
+Du siger meget, at det er simpelt.
+
+00:36:20
+Det er det måske, hvis man sidder med det hver dag.
+
+00:36:22
+Jeg synes, at der var nogle tekniske dele i det også, så der var noget, der lige skulle tænkes på.
+
+00:36:28
+Dertil vil jeg sige til jer, der sidder derude, at husk, at I kan skrive jeres spørgsmål i chatten, og så stiller jeg spørgsmålen til Jørgen.
+
+00:36:38
+Du var lidt inden omkring vandløb i forhold til stofberegninger, men hvordan i forhold til at regne på vandføring og de ting, kan Zumba bruges til vandløb?
+
+00:36:51
+Ja.
+
+00:36:52
+Vi har lavet en del vandløbsberegninger i Zumba, som jeg nævnte før.
+
+00:36:57
+Så kan man godt putte et mandingtal ind, og man kan putte et geometrisk tversnit ind.
+
+00:37:02
+Og hvis man så definerer et fald, det skal man selv gætte, så kan du få en vandstand ud i dit vandløb.
+
+00:37:09
+Man kan også bruge det, hvor man ikke regner på vandstand, men alene regner på vandføringer.
+
+00:37:15
+Hvis vi har en målvandføring i et vandløb, som vi for eksempel hiver ned fra vandportalen, Så kan vi oplandskorrigere den, indtil vi er lige opstrøms for et fremtidigt bassinudløb.
+
+00:37:27
+Så putter vi vores bassin på i Zumba, som jeg viste her, hvor vi får overløb fra bassinet ude i vandløbet, og det almindelige udløb fra bassinet ude i vandløbet.
+
+00:37:36
+Så kan vi kigge på, hvad er statistikken.
+
+00:37:39
+Vi kan bruge statistikmodulet, som jeg viste før.
+
+00:37:41
+Er statistikken på vandføringen opstrøms for vores bassin og nedstrøms for vores bassin?
+
+00:37:45
+På den måde kan vi sige noget om, ændrer vores vandføring ved en 2-årshindelse eller en 5-årshindelse, når vi etablerer det her nye bassin.
+
+00:37:54
+Det er et første led i en form for dynamisk robusthedsanalyse, som man efterfølgende kan kvantificere med en hydrodynamisk model som Mike River, Mike 11 eller Mike Plus vandløbsdelen.
+
+00:38:09
+Ja, man kan også regne på vandløb.
+
+00:38:12
+Så vil vi komme med et spørgsmål her fra Marina.
+
+00:38:15
+Først så får du tak for en fin præsentation.
+
+00:38:18
+Spørgsmålet går, hvordan indgår grundvand, hvis modellen.
+
+00:38:21
+Regner på åbne systemer?
+
+00:38:25
+Grundvand modulerer vi ikke direkte i Zumba.
+
+00:38:29
+Det kunne man godt gøre.
+
+00:38:30
+Vi har også haft nogle modeller, hvor vi har kigget lidt på det og sat en form for en navnmodel op.
+
+00:38:38
+Ellers kan man på tidsserie få målt grundvand ind, som man kan bruge til at styre sit bassin efter eller lave en form for indløb til sine bassiner på baggrund af en målt grundvand.
+
+00:38:50
+Vi har ikke et specifikt grundvandsmodul i Zumba, men med de her Lego-klods-elementer har vi også lavet nogle modeller, hvor vi rent faktisk også forsøger at modellere på grundvand, som man ville gøre i en navnmodel, hvor vi har nedbøgerne og jordvandsmagasiner, der kan fyldes op.
+
+00:39:12
+og tømmes med fordampning, og på den måde igennem få et bud på, hvordan varierer grønlandsstanden henover året.
+
+00:39:21
+Det håber jeg.
+
+00:39:23
+Var svaret på vores spørgsmål.
+
+00:39:24
+Ellers må du skrive lidt mere uddybende, hvis der skal mere på.
+
+00:39:28
+Jeg har faktisk et spørgsmål i forhold til fordampningsdelen.
+
+00:39:33
+Er det fordampningstal fra natur, altså træer og planter, eller er det overflade, eller er det begge dele?
+
+00:39:39
+Hvordan er den egentlig lagt ind?
+
+00:39:43
+Den.
+
+00:39:45
+Er lagt ind på den måde, at du skal definere en tidsserie, der fortæller, hvor mange millimeter per døgn, der kan fordampe fra din vandoverflade.
+
+00:39:55
+Den tidsserie står du selv på mål for, men det kan typisk være en tidsserie, som du har downloadet fra DMI.
+
+00:40:02
+Tidsserie over forskellige typer potentiel fordamning, jeg tror både det er Pennmans formel og McKin formel, DMI har til rådighed og som de lægger ud som åbent data.
+
+00:40:13
+Eller også så kan man lægge det ind som denne her standard tidsserie for enten Jylland eller Fyn over potentiel evapotranspiration.
+
+00:40:25
+Altså det er et tal, man trækker ind i den, og så regner den.
+
+00:40:28
+Derfra?
+
+00:40:28
+Ja, den regner på baggrund af det tal, du har defineret, eller den tidsserie over fordamning, som du har defineret.
+
+00:40:35
+Og.
+
+00:40:37
+I skal huske, at I kan stadig stille spørgsmål i chatten.
+
+00:40:39
+Vi har plads til et enkelt eller tre til.
+
+00:40:42
+Jeg har nu snakket definitioner.
+
+00:40:45
+Så i forhold til overløbstallet, hvem definerer det her?
+
+00:40:48
+Det er samarbejde mellem dem, der sidder med det, eller hvordan plejer I at.
+
+00:40:52
+Definere det tal?
+
+00:40:54
+Det er et rigtig godt spørgsmål, der står for.
+
+00:40:57
+Tak for det.
+
+00:41:00
+Som jeg forstår det, så er tommelfingerreglen fra Miljøstyrelsen, at man må koble to overløb sammen til ét, hvis der er mindre end et døgn mellem de to overløb.
+
+00:41:09
+Men jeg tror ikke, at det er en regel, der nødvendigvis er hugget i granit.
+
+00:41:14
+Så det er jo noget, man skal diskutere med sin kunde, typisk.
+
+00:41:18
+Hvordan tænker I, at man skal lave de her definitioner?
+
+00:41:22
+Der er faktisk også mulighed for at lave en bagatellkranse, så hvis vi kun har én kubikmeter overløb, så sorterer vi det fra.
+
+00:41:29
+Det er også noget, man kan diskutere med sin kunde, om det er rimeligt.
+
+00:41:33
+Men som jeg forstår det, så er der ikke noget entydigt svar på, hvornår en overløb er et overløb.
+
+00:41:39
+Og som sagt, så betyder det ikke det helt store, hvis vi har nogle høje afløbstalle for vores bassiner, men det kan have rigtig stor betydning, hvis vi har de her små overløb, eller de her afløb, lavere afløbstal, hvor vi kan få de her koblede overløb.
+
+00:41:51
+Det er også vigtigt at sige, at det her med hvordan vi kobler overløbene sammen, betyder alene noget for antallet af overløb, altså hvad for en T vores bassin er dimensioneret til, men ikke noget for hvor meget overløbsvand der er.
+
+00:42:04
+Det vil være det samme i alle tilfælde, uanset hvordan vi definerer de her overløb.
+
+00:42:09
+Altså hvor mange kubikmeter overløbsvand der er.
+
+00:42:13
+Så her til slut vil jeg sige tusind tak for en fantastisk præsentation, og der er ikke flere spørgsmål, der udslutter mig at have gjort det grundigt.
+
+00:42:23
+Og jeg vil sige, at hvis der er nogen af jer, der lytter med, der har lyst til at dele noget viden på en tech talk, har nogle ting, som de gerne vil udmelde, eller nogle emner, som de synes, vi skal se op, så må I meget gerne sende mig en besked, eller en af de andre netværksmedarbejdere i DNNK.
+
+00:42:39
+Helt til slut vil jeg gerne give en lille reklame for at gå ind og kigge på klimakalenderen, hvor I kan se alle de gode arrangementer, som kommer her hen over året.
+
+00:42:49
+Med det vil jeg sige tusind tak for i dag, og håber I alle sammen får en fantastisk dag herfra.
+
+00:42:57
+Tak.
+
+00:42:58
+For indlæggene.
+
+00:42:58
+Velkommen, tak fordi I lytter med.
+

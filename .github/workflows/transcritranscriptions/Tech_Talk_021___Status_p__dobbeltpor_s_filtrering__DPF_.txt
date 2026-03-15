@@ -1,0 +1,579 @@
+00:00:03
+Velkommen allesammen til dagens tiktok, og Jeg vil gerne byde velkommen på vegne af DNDK. Mit navn er Christoffer sindby og Jeg er fra OK nygård.
+
+00:00:14
+I dag har vi Marina Bergen Jensen fra Københavns Universitet på, som gerne vil fortælle om status på dobbeltporøs filtrering. Jeg skal huske på, at i kan stille spørgsmål undervejs i chatten, og så vil vi tage dem op efter præsentationen og tektuppen kører jo frem til kl. 13:00 i dag.
+
+00:00:34
+Og med det så vil jeg byde Marina hjertelig velkommen.
+
+00:00:39
+Og overlad ordet til hej Marina værsgo.
+
+00:00:43
+Ja men tak for det Kristoffer og tak fordi jeg må få lov at holde den her tiktok.
+
+00:00:49
+Det er jo en teknologi Jeg har arbejdet med i en stor del af min forsker karriere. De sidste 5 6 år har jeg fulgt det meste fra sidelinjen, men Jeg har fulgt godt med, så jeg håber og tror på at Jeg kan give en fornuftig status på hvordan den her teknologi har det i dag og dobbeltporøs filtrering. Det er jo en teknologi som er udviklet til rensning af vejvand til høj kvalitet.
+
+00:01:14
+Undskyld til høj kvalitet.
+
+00:01:16
+Og Det er baseret på segmentation af partikler og soktion af de opløste forureninger, og det fungerer på den måde, at vandet drives frem ved hjælp af gravitation.
+
+00:01:27
+Og det foregår i de her vandrette fremføringslag. De højporøse lag, Der er vist med blåt i den her figur, og så bliver forureningen opstamlet i de underliggende fangstslag.
+
+00:01:39
+Det smarte er på den her måde denne her tolags konstruktion, som betyder, at tilstoppning af filteret går langsomt.
+
+00:01:49
+Men hvis jeg Sådan skulle fortælle historien Sådan helt kort, så er det jo over 20 år den spænder over og og det at udvikle Sådan en en helt ny teknologi. Der er mange bump på vejen og jeg prøvede at tænke over hvad Sådan de 3 væsentligste måske har været. Og for det første så må jeg erkende at Det er ikke nok at man kommer med et succesfuldt laboratorie og pilotresultat.
+
+00:02:14
+Opskaleringen fra pilot og pilot anlæg til et kommercielt produkt.
+
+00:02:20
+En hyldevare Det er Det er en stor. Det er et stort step i Sådan en innovationsproces, så er der en 2 ting. På en måde kan man sige at dobbeltporisk filtrering måske har været lidt forud for sin tid, fordi teknologien på en levering vandkvalitet som er bedre end det der efterspørges.
+
+00:02:40
+Så på en måde har markedet været umodent.
+
+00:02:43
+Den 3 ting nu er der jo så et Der er flere fuldskala anlæg, men Der er et meget stort anlæg ude i Ørsted syd.
+
+00:02:51
+Der kører helt kommercielt med 110 l/s og der har været driftsudfordringer, så der har været behov for en driftseffektivisering, og Det er jo Sådan noget, man først skal finde ud af, når der reelt er nogle anlæg Der er i drift. Men Jeg synes at Det er fair at sige, at status i dag er, at situationen tegner ret lyst. Der er kommet styr på driften, markedet.
+
+00:03:11
+Det synes at modnes og produkterne til at at levere den her løsning. De er efterhånden alsidige.
+
+00:03:18
+Og gennemtestede.
+
+00:03:20
+Så det jeg så vil gøre nu. Det er at tage jer Sådan lidt igennem den udviklingshistorie der har været og og gnisten der startede det hele. Den er blevet tændt herude i ørestad på Amager, hvor du har den her nye bydel med ambitioner om at have et et lille miljømæssigt fodaftryk og hvor ideen er, at de her mange kanaler Der er Sådan en slags vartegn for den her bydel.
+
+00:03:48
+De skulle selvfølgelig modtage regnvand regnafstrømning. Det skulle ikke bare ledes ud af byen. Det skulle gøre gavn, og man havde god held, og det foregår stadigvæk, at man tager tagvandet direkte i kanalerne.
+
+00:04:01
+Det giver ingen problemer, men at man oprindeligt forsøgte også at blive vejvand direkte ud, så var det tydeligt at vandkvaliteten var for ringe. Der var turbacitet og den ønskede klare.
+
+00:04:14
+Klarhed i vandet den den fandtes simpelthen ikke så det. Det var jo klart, at man var nødt til at finde en eller 2 form for rensning.
+
+00:04:21
+Og Det var så her, at jeg blev involveret med en innovationspost.
+
+00:04:26
+Men Københavns Kommune de stillede, så de formulerede nogle krav til vand, der skal ledes ud til vejvand, der skal ledes ud i de her kanaler og de krav de er, at 95% af årsopstrømningen altså af vandet. Det skal renses Sådan, at man kommer ned på et suspenderet stofindhold på under 25 miligrampelitter.
+
+00:04:48
+Så er der krav på 4 tungmetaller zinkover kron og bly, og så er der også krav på fosfor. Det er jeg ked af. Det kan i nok ikke rigtig se, men der står at total fosfor skal være under 0,1 mg per liter.
+
+00:05:02
+Det er et krav der i dag er skærpet, så jeg mener det nu hedder 0,05 mg eller 0,08 mg per liter.
+
+00:05:11
+Men Det er altså det som en renseløsning skal kunne, og for at forstå lidt mere hvad vejvand er for en størrelse, så har jeg taget de her 2 slides med Det var noget jeg selv også har brugt meget tid på at forstå hvad Det er man er oppe imod. Det er jo Sådan at i tørvejr der akkumuleres forureningen på byens overflader. Nogle af forureningskomponenterne, de frigives fra materialerne selv bygningernes tagflader.
+
+00:05:37
+Bygningsfacader vejmaterialerne vejudstyr alt det Der er i en by i dag.
+
+00:05:41
+Afgiver hele tiden på grund af af vind og vejr, så bliver der set småpartikler af, og der kan også nogle gange frigives. Nogle opløste forbindelser, men ellers så handler det jo også om, at der afsættes en del forurening fra atmosfæren. Det kan være forbrændingsprocesser fra industrien.
+
+00:05:57
+Det kan Sådan set også godt være jordpartikler hvirvlet op fra landbruget, og de fine partikler kan komme højt op og transportere slankt og så falde ud af atmosfæren igen og efterhånden hobe sig op.
+
+00:06:10
+En meget stor øvrige kilde. Det er bilparken, Der er både slidpartikler fra bilernes karrosseri og fra dæk og fra bremseklodser, og Der er også forbrændingspartikler, og Der er også lækage af de forskellige væsker, der indgår i biler. Derudover så er der en masse hjælpestoffer, som vi bruger i en by.
+
+00:06:29
+Det er Sådan noget som plastblødgøre og detagenter, og Der er alle pesticiderne.
+
+00:06:35
+Så kan der også være patogene, og de stammer især fra Vores husdyr, og der kan også være fra fugle. Især hvis Der er Sådan nogle store fuglekolonier i nogle områder.
+
+00:06:45
+Endelig, så har vi vegetationen i byen. Den frigiver noget løvfald i efteråret, og der kan også være noget, der skyldes ud af, at byens natur. Og så har vi jo altså også problematikken omkring vejsalt i Danmark om vinteren, og hvor udfordringen jo er, at der ikke findes nogen.
+
+00:07:02
+Tilgængelig renset teknologi, der kan fjerne det her salg, så man er nødt til at bruge forebyggende metoder. Men Det er altså de her kilder, Der er og primære stofgrupper. Og når så regnen kommer, så skyldes styret så af i større eller mindre grad afhængigt af hvor lang tid siden Det er.
+
+00:07:20
+Det regnede sidst, der var kraftig. Regnen er og alt Sådan noget, men Der er altid en en del forurening i, og hvis man tager en vandprøve.
+
+00:07:28
+Og kigger nærmere på, hvad den indeholder.
+
+00:07:30
+Så kan vi se at for det første så er der noget, Der er få opløst form. Det er blandt andet de her tungmetaller, og Det kan være fosster, og der kan være en masse af de her forskellige organiske mikroforureninger. Og så derudover så er der også altid det, vi kalder suspenderet stof, som altså er jordpartikler, slidpartikler, som i sig selv er uønskede i vandet.
+
+00:07:51
+De skaber tobiditet og kan også være et miljøproblem, og derudover så kan de også Sådan være bestå af uønskede gummipartikler, metalpartikler og så videre.
+
+00:08:01
+Men så er der også det fænomen, at de er bærere af en stor del af de øvrige forureningsstoffer, og at der ligesom er en eller 2 form for ligevægt mellem forureningsstof på opløst form og på partikulært form. Og som samlet set så kan man så er situationen så den, at vi står over for mange forskellige stoffer. De optræder i varierende koncentrationer ofte lave der så skal renses til endnu lavere.
+
+00:08:26
+De findes på både partikulær form og på oplyst form.
+
+00:08:30
+Og desværre er det ikke nok at fokusere på first flush, altså den første andel af afstrømningen fordi first flush. Det ser man kun, hvor det Der er tale om et lille opland, lige så snart et renseanlæg modtager vand fra et større opland, så vil first flush blande sig med senere flush fra et andet sted i oplandet, så man får en mere jævn koncentration, og Det er også derfor kravet lyder på, at 95% af alt hvad det skal underkastes en rensning. Det er ikke nok at tage af de første 10 15%.
+
+00:09:00
+Og så ført til nogle overvejelser omkring løsning. Hvad vil være en god løsning? Og Der er så nogle ting, som som bliver nogle kendte teknologier, som bliver udelukket.
+
+00:09:10
+Fordi for det første så skal det jo altså være noget Der er målrettet både partikulært og opløst forurening for at komme langt nok ned i forhold til de krav, Der er stillet, og det betyder, at Sådan noget som ikke måtte bassin nok ikke ville kunne levere varen, fordi det primært fjerner.
+
+00:09:25
+Partikulær forurening.
+
+00:09:28
+For det andet så skal Sådan et anlæg virke året rundt, fordi afstrømning. Det kan forekomme året rundt, og Det er ikke Sådan så, at det kun er sommerafstrømning, Der er forurenet. Det er al afstrømning, Der er forurenet, og det betyder, at Sådan nogle beplantede grønne anlæg de faktisk ikke rigtigt dur fordi plante væksæsonen er fra cirka april til og med oktober.
+
+00:09:49
+Så den dur heller ikke, og så kan man også godt sige at er det smartere at akkumulerer forureningen. Eller bør man ikke snarere gemme den væk inde midt i en.
+
+00:09:59
+Bage et renseanlæg, der akkumulerer forurenet til de mænd, hvor børn og hunde og natur for den sags skyld kan slå sig ned.
+
+00:10:08
+Så måske er det OK at at at holde forureningen væk fra bybilledet?
+
+00:10:13
+Så vil det også være smart, hvis man kunne komme op med en teknologi, der ikke stopper til Sådan så at man ikke for eksempel som i de her skivefiltre. Der skal man jo hele tiden ud og lave returskylning for at bevare filtrenes effektivitet.
+
+00:10:25
+Og det forekommer urealistisk, at vi på store mængder vejvand skal have returskyllesystemer, så det vil også være smart at finde på noget andet der. Og endelig så vil man jo gerne have en grøn løsning, hvor der ikke skal tilsættes kemi med doseringsanlæg og så videre. Og Det er også smart.
+
+00:10:43
+Hvis vi kan undgå pumper, så alt det her. Det førte til en masse, der ikke kunne lade sig gøre, men så fik vi så denne her ide om, at man måske kunne efterligne opstrækkede moræne og den stof og vandtansport.
+
+00:10:55
+Der foregår her, og det i ser herude til højre. Det er en entaple modtaget fra en landbrugs et landbrugsareal øverst og serie pløjeren, men nedenunder der ser mineraljorden og der kan i se. Der er Sådan nogle gennemgående sprækker som den Der er indrammet her, og det viser sig, at de er de primære strømningskanaler for udvaskning af vand og stof fra landbrugsjord.
+
+00:11:19
+Vandet kører ned igennem de her sprækker, og undervejs så sker der en udveksling med den matrice, der ligger udenom.
+
+00:11:25
+Hvor vild ligesom at tildele det her Sådan 90 grader, så opstod ideen til de her 2 lag hvor vi fører vandet frem i en sprække. Der er røgporøs og hvor vi udveksler og opfanger forureningen i en underliggende.
+
+00:11:40
+I et underliggende lag så et højporøst fremføringslag og et lavporøs opsamlingslag, så det, der normalt stopper et filter til op i stramningsvejene. Det sørger vi for bliver placeret og opfanget dernede i fangslagene.
+
+00:11:54
+Det betyder jo så også at bremsemekan ja undskyld, så er der også mulighed for at placere et såbentmateriale i fangslaget, som kan være målrettet de opløste forureninger, for eksempel kalk eller coded kalkpartikler.
+
+00:12:09
+Nesmerne de bliver så de her altså partikulært materiale. Det skal fjernes hvis elimentation. De skal trykkes ud via tyngdekraften fra de her tynde tynde lag, hvor vandet strømmer laminat.
+
+00:12:21
+Lige så snart en partikel overgår fra det strømmende lag til det stillestående lag, så er den fanget, og så kan vi siden hen fjerne den derfra. De opløste forureninger. De fjernes ved sortion ved at de kommer i kontakt med en reaktiv overflade i perioden efter regn, hvor anlægget er drænet af, og Der er suget luften ind, så er der mulighed for, at de organiske forureninger, Der er tilbageholdt, de kan omsættes og noget af kapaciteten dermed genvindes.
+
+00:12:50
+Fra halm forsøg til fuldskala anlæg Det har så taget de her 2002 1001-2018 og Det er foregået ved, at de første 3 år der foregik forskningen i et laboratorium. Det er især her Det er en 2 m lang stålcelle, hvor Der er et højporøslag oppe i låget og et lag på ryst i bunden. Syntetisk vejvand.
+
+00:13:10
+Det sendes ind i den ene ende og så for hver halve meter, så er det så muligt at udtale vandprøver og ud influenza udløbet.
+
+00:13:17
+Og se om teknikken virker, og efter et par år med at skrabe penge sammen, så lykkes det også at få etableret det her. Pilotanlæg i byparken i ørestad, som var 50 m lang, og vi testede 2 forskellige versioner af dobbeltporøst filter til højre, der ser i et 18 læs opbygning og til Venstre en 6 lags opbygning, og hvor forskellen er at de højporøse lag i 18 lag.
+
+00:13:42
+Er kun 4 mm, altså en mere fintfølende.
+
+00:13:45
+Og så 6 mm i 6 lag, så bygningen fangslagene det lavporiske lag. Det er i begge tilfælde 10 mm og begge anlæg var i stand til at håndtere 2,5 l per sekund. Det gav egentlig nogle gode resultater og førte så til godt nok mange år efter at det her fuldskalaindlæg i ørestaden og syd som er 48 m langt og som kører med 110 l per sekund.
+
+00:14:10
+Er er etableret og under indkøring.
+
+00:14:14
+Hvis Vi skal kigge lidt mere på selve.
+
+00:14:18
+Pilotanlægget, som jo var det der ligesom gav proof of concept, så har jeg taget denne her illustration med hvor vi ser de 2 anlæg fra oven af de bliver født af et rør Der er stukket ind i en hovedledning her ude i vejen, hvor hvor vandet er kører ud i havet, fordi man mangler en renseløsning. Men hver gang det så regnede, så kom der så vejvand hen til Vores modtagebrønd, hvor vi kunne udtage prøver og så blev det splittet op med de her 2,5 l per sekund til 18 lag og 6 lags og bygningen.
+
+00:14:47
+Og så kunne vi tage individuelle prøver ud og analysere det, før vandet røg ud i den her grøft, og Der er lige et par billeder fra konstruktionen her her, der bliver.
+
+00:14:58
+Det lavporøse lag. Det består af 10 milimeter kalk syet ind i Sådan en slags membran lidt der minder om en bentonitmbran, og så ligger de højporøse af som Sådan noget nylernet ind imellem og til sidst blev hver den så pakket ind i Sådan en en svejs membran, så der ikke var nogen 2 vand igennem end det vi lukkede ind i den ene ende og.
+
+00:15:19
+Samlet op i den 2.
+
+00:15:21
+Sådan her har det set ud og ser Sådan set stadigvæk ud derude det her. Det er indløbsstrømmen, så bliver det splittet op på de 2 og så kører det under jorden i de 2 forskellige versioner. Vi har testet rigtig mange regnhillelser først, så havde vi ren kalk lagt det ind i måtterne og sidenhen så codede vi den kalk med noget jern og noget hummus.
+
+00:15:41
+Og det gav jo så en masse gode resultater og en af de største oplevelser, Jeg har haft som forsker. Det var nok dengang, da vi havde kørt anlægget ind og da.
+
+00:15:49
+Omsider var kommet rigtigt vejvand igennem, og jeg kom ud og løftede det her dæksel af eller faktisk de her nede modtage brøndene og så det beskidte vand og så løbe ned i den 2 ende og så i de 2 udløbsbrønde og bare kunne konstatere at vandet var klart det her. Det er et foto Der er sat op til et magasin, en historie i samme virke efterfølgende, men Det er her vi ser jeg holder op her. Det er indløbsvandet og så det der står i den kande hernede.
+
+00:16:15
+Det er det rensede vand.
+
+00:16:17
+Og Det var muligt at udtage prøver undervejs med Sådan nogle sondeslanger ned igennem anlægget, og der kan i se, hvordan vandkvaliteten forbedres fra cirka over 300 mg supenderet stof per liter ved indløbet og så 1-1 20 30 40 49 50 m og ved udløbet er det kommet ned på under 5 mg kaliter og når man analyserer det rigtigt og viser det grafisk, så ser vi indløbs koncentrationerne og hvordan de falder i.
+
+00:16:46
+I 6 læseropbygningen, og i appen læser bygningen, og vi kan også se, at kravet kravet om de 25 mg bliver liter. Det er overholdt, når vi kommer ud på omkring 30 m.
+
+00:16:58
+Og, Der er så også foretaget målinger på en masse andre stoffer og på en masse regnhændelser. Og her er det så sat op i Sådan et samlet ark, hvor vi kan se de 6 parametre som Københavns Kommune har sat krav til for eksempel 25 milligrams suspenderet stofbilletter og så den gennemsnitlige indkøbs koncentration.
+
+00:17:16
+Men min og max og 25 hændelser og standardafvigelse, og så kommer det så ud. Det falder fra 123-10 en kl. 05:30 slags opbygningen og helt ned til 1,4 i 18 lag.
+
+00:17:26
+Det er så på baggrund af de her 23-25 hændelser og tilsvarende kan man se fald for tungmetallerne og for fosfor og de her resultater var Københavns Kommune. Dem har de Sådan set godkendt og sagt, Det er vi.
+
+00:17:42
+Tilfredse med.
+
+00:17:43
+Nu vil jeg jo så gerne vise en lille film.
+
+00:17:48
+Nej ved i hvad Det er fordi i nu kan se jeg alligevel har taget fejl af tiden.
+
+00:17:54
+Måske skal jeg lige se.
+
+00:17:57
+Måske vil jeg anbefale, at i selv går ind og ser den her film. Den grafiske animation, der viser, hvordan det kører, men Det er, som Jeg har forsøgt at forklare det. Jeg tror på grund af at tiden så går jeg videre her, fordi Jeg vil gerne fortælle, at Vi har endnu 2 pilotforsøg gennemført i regi af vand i byerprojektet dels herude i vanløse, hvor der var flere veje der kunne kobles af sammen.
+
+00:18:24
+Og så kunne man lave et centralt fælles renseanlæg hernede, før det rensede vand bliver ledt ud i haslev å og i det pilot anlæg, der opdelte vi det dobbeltbøsse filter i 20 m forfilter, hvor der ikke var noget kalk, og hvor vandet simpelthen udelukkende renses for suspenderede stof og en 40 m hovedfilter med kalv. Det kom til at se Sådan her ud, og der blev så også kørt nogle forsøg lidt med samme opdeling i mårslæk ved Aarhus.
+
+00:18:52
+Og det første fuldskala anlæg. Det blev etableret i 2015, og det ligger oppe i allerede i lynge, hvor det modtager 9 l per sekund af blandet tag og vejvand i forbindelse med klimatilpasningsprojekt, hvor vandet bliver modtaget heroppe i 20 m langt skolebart forfilter. Og så løber det Sådan ned igennem et 40 m langt hovedfilter med kalk, før det rensede vand, bliver ledt ud i en ny reception.
+
+00:19:18
+Klimatilpasningen blev kombineret med et biodiversitetsløft af området.
+
+00:19:24
+Og som i også kan se, så er det her anlæg. Det er opført med nogle i hvor de dobbeltbrøse plader. Det ligger inde i nogle bokse, og det afspejler også, at der på det her tidspunkt er der kommet en producent ind i billedet.
+
+00:19:36
+Det er watercare der ligger i Assens, og Det er stadigvæk dem, der producerer bokse og plader til dobbeltsporøsfiltring i Øresund syd, der ligger der i dag et anlæg, der håndterer 110 l per sekund.
+
+00:19:50
+Det fungerer på den måde, at vejvand bliver modtaget fra nogle pumpeanlæg af fladls med pandekage, som man er nødt til at pumpe vejvandet ned ved bydelen. Men igennem anlægget, der løber det så ved gravitation. Det bliver splittet op på 4 parallelle strenge, der hver modtager 27,5 l per sekund og de står begge af først 2 DP f-tanke og som ikke indeholder kalk, men alene fjerner suspenderet stof og så en såbint-tank til sidst.
+
+00:20:18
+Ryger du ud på naturpark amagers område på sigt, når området er færdigudviklet, så skal det være et bytor ovenpå, så det hele bliver underjordisk. Og Det er så også baggrunden for, at jeg sammen med Claus mouritsen fra hofor sørgede for, at vi fik optaget en film derudefra, mens det stadigvæk var åbent. Og den vil jeg gerne lige vise jer, og den var altså cirka 7 minutter.
+
+00:20:43
+Det håber jeg i siger.
+
+00:20:44
+Klimaforandringer de betyder, Vi skal indrette Vores byer smartere.
+
+00:20:48
+Og her i østers syd på Amager. Der har man valgt at separere spildevandet regnvandet fra tagarealerne og vejvand i hver deres system.
+
+00:20:56
+Det vil sige, at det vand der lander på vejene, det håndterer vi lokalt. Vi renser det lokalt, og vi leder det også ud lokalt.
+
+00:21:04
+Ørsted syd står vi her, og der har vi 30 hektar, som Vi skal samle vejvand fra i alle de her steder, hvor der blev opført nye boliger.
+
+00:21:13
+Alt det vej vand får vi samlet i 2 punktstationer og lidt hen til et renseanlæg, som er det første af sin art i Danmark, og det gør, at vi kan rense vandet lokalt. Vi skal ikke bruge energi på at pumpe det ud til renseanlæg. Der er meget langt væk.
+
+00:21:25
+Vi har mulighed for at rense det med 110 l/s, og vi kan få det til at at løbe af sig selv herfra og ud til naturpark og Amager.
+
+00:21:34
+Området vi står i er under opførelser man nok kan høre fra dem, men og tiden kommer og når Det er færdigt, så er der cirka 25.000 mennesker, der skal bo herude, som kommer til at have sin daglige færd derude, og blandt andet kommer det til at kunne gå over på renseanlægget, fordi det bliver fuldstændig dækket ind her om et par år.
+
+00:21:52
+De her 110 l per sekund som anlægget af dimensioneret til bliver splittet op i 4 parallelle strenge som så hver modtager.
+
+00:22:03
+27,5 l per sekund de 4 strenge. De er fuldstændig ens bygget op. De består af 2 DBF tanke og en så bent-tank.
+
+00:22:13
+Og hver streng starter så med at have en indløbsbrønd? Det er den, vi ser her, hvor vejvandet efter den her meget grove forrensning i et sandfang bliver modtaget. Og så er det så her, at vandet bliver delt op i de her mange tynde lag, som hver DP f-tank består af.
+
+00:22:35
+Tanken er 16 m lang og cirka 2 m bred og 2,5 m dyb.
+
+00:22:43
+Når anlægget har kørt i et stykke tid, så vil DPF tankene have frafiltreret hovedparten af det suspenderet stof, altså det partikulære materiale, som kommer med ind med vejvandet. Og det betyder jo så, at kapaciteten efterhånden bliver brugt op og for at genvinde kapaciteten, så skal der foretages en.
+
+00:23:05
+En spoling af anlægget, og Det er det, som foregår gennem de her mange orange rør.
+
+00:23:10
+Det foregår så på den her måde, at.
+
+00:23:13
+Man spuner i det ene rør og får hvirvlet det her cediment op, og så suger man samtidig i det næste rør så Sådan en sektion for sektion får man spolet anlægget rent slamsuren går så stille og roligt igennem den første boks og den næste boks så tager så de andre strenge. Det tager måske en dags tid.
+
+00:23:34
+Når vi nu følger vi jo så ligesom vandets vej ned igennem anlægget, og man skal forestille sig, at vandet nu løber i Sådan nogle meget tynde lag. Hvert lag er kun cirka cirka 4 mm tykt, så det de partikler Der er i vandet. De kan let blive presset ud af tyngdekraften.
+
+00:23:53
+Tyngdekraften presser ligesom hvert partikel længere og længere ned i det strømmende lag og på et tidspunkt.
+
+00:23:59
+Så overgår partiklen til at blive fanget i det stillestående lag, som er.
+
+00:24:04
+Indeni de her DPF plader, så princippet er en simpel gravitationsbaseret rensemekanisme, hvor de tynde lag, det vil sige en kort faldhøjde, sikrer, at selv på så kort en afstand og med så forholdsvis kort opholdstid kan vi altså komme af med hovedparten af partiklerne.
+
+00:24:25
+Vi kommer nu til den første mellemtrønd, så nu er DBF tank nummer et slut, og vandet går så ind i den her mellembrønd og.
+
+00:24:35
+Løber så videre ind IDPF tang nummer 2 og hvis man lige tager et hurtigt kig ned i Sådan en tank, så vil man kunne se udløbsrøret, hvor vandet fra DPF tank nummer et kommer. Og så kan man faktisk også godt se indløbet til DP f-tank nummer 2, og man kan se de her mange parallelle lag, som tanken indeholder det vejvand, som man modtager i Sådan et anlæg som det her. Det vil jo ligesom alt andet vej vand.
+
+00:25:01
+Være sammensat af noget partikulær forurening og noget opløst forurening og det partikulære forurening. Det er jo især jord og støv, som stammer fra.
+
+00:25:13
+Afsat fra atmosfæren hvirvler op af trafik og diverse aktiviteter tabt ved bygge fra byggepladser og fra transport. Og så er det en række slid produkter fra dæk og asfalt og bygge og bygningsoverflader. Alt hvad en by indeholder.
+
+00:25:32
+Der bliver en lille del af det løbende slidt af og en del af det havner så på vejens vejoverfladerne og bliver så samlet op, når når regnen kommer.
+
+00:25:42
+Så er der så også en del af forureningen, Der er på opløst form. Det vil sige den. Den følger bare med vandet og kan ikke trykkes ud af tyngdekraften.
+
+00:25:49
+Men skal fjernes på 2 på 2 vis, for eksempel ved subtionsprocesser, og Det er så det der sker nede i såbent tanken såbent tanken. Den har jo præcis samme dimensioner som DP f-tank et og 2.
+
+00:26:03
+Men den indeholder ingen plader, den indeholder alene så bent materiale og Det er så det man kan se hvis man tager et kig ned i Sådan en tank her der kan man se. Boksen er helt fyldt med filtermateriale, og vandet bliver fordelt ud over filtermaterialet og kan så trænge ned igennem.
+
+00:26:20
+Den eneste måde vandet kan komme ud igen. Det er ved at søge ind i nogle drænrør, Der er lagt ned i bunden, og som tager vandet hen til udløbsbrønden.
+
+00:26:34
+Nu skulle vi jo gerne være sluppet af med hovedparten af det partikulære stof, så det Der er tilbage. Det er forurening på oplyst form, og tanken er så, at filtermaterialet fanger den væsentligste del af forureningen på opløst form. Sådan så Det er forsvarligt at lukke vandet ud i naturområder.
+
+00:26:54
+Herfra den sidste såband-tank, som er det rene vand, Der er renset, så samler vi det over Vores udløbsprønt, når Det er, at Det er kommer fra alle 4 tanker samles. Det er her er klar til at blive ledt direkte ud i naturpark Amager, og den løber af sig selv. Ren gravitation.
+
+00:27:11
+Her ved udløbet fra renseanlægget. Der er vandet nu renset, og Det er blevet ligdt direkte ud. Naturen, som gør rigtig god.
+
+00:27:18
+God gavn for floraen og for faunaen herude vandet her. Det kan vi sortere. Vi er jo fra Vores kloaknet, så vi ikke får belastede kloaknet.
+
+00:27:26
+Når der blandt andet er store regnmængder, der kommer væltende ned samtidig med, så får vi det genbrugt. Det er mulighed at genbruge det. Man kan for eksempel bruge til toiletskyl, hvis man vil det, men Det er også muligt at bare lede det direkte ud i naturen, som vi gør her.
+
+00:27:41
+Potentialet for det her renseanlæg er, at vi kan bruge det mange, mange steder i Danmark. Det har giver stor værdi for Vores natur for Vores miljø og samtidig med så hjælper det os også til at at få en bedre rensning end de systemer, man kender i dag.
+
+00:27:59
+Ja det vi ser her til højre, Det er indløbsvand, og her er det udløbsvand. Jeg vil lige slutte af med at fortælle lidt om, hvordan Det er gået med driften efter den her film er lavet derude, fordi som sagt i filmen, så bliver sediment dripenderet, og så bliver det suget op og får resupenderet. Der benytter man Sådan en rotations højtryksløse, der sprøjter ud i en 90 graders vinkel.
+
+00:28:27
+Og da de gjorde det første gang derude, ikke hvor alt foregik manuelt, så krævede det faktisk 3 mand og det tog 2,5 måned godt nok inklusiv noget ventetid på vand, men der foregik det ved at man manuelt sænkede spoledysen ned i det ene rør og så sugede i det andet. Det tog for lang tid at hofor har så udviklet det her aggregat som muliggør at man faktisk kan spole 4 rør samtidig og så mens man spuler de.
+
+00:28:51
+4 næste, så suger man slammet op fra de 4 der lige er skuet.
+
+00:28:56
+Og det betyder, at nu kører semi automatisk og og kun kræver 2 mand i 5 dage.
+
+00:29:04
+Man kan også regulere nedsænkningstiden Sådan. For eksempel spoler 1,5 minut ned og og så jeg måske overhovedet ikke spuler på vej op gå forventer, at der kan laves lidt mere optimering på driften, men man forventer også, at så længe, at Der er så meget byggeaktivitet som Der er i ørestad, så er det nødvendigt at spole det hvert 3 måned. Der er simpelthen så meget segment og pille ud.
+
+00:29:24
+Når bydelen er færdigudviklet, så forventer man at Der er mindre SS og at spugle frekvensen. Regenerationsfrekvensen kan sættes ned. Jeg har også et lille optagelse med et gopro kamera, som Jeg har fået fra hofor fra Claus Olsen her.
+
+00:29:41
+Der ser i de prøver at sænke et gopro kamera ned i et af stuilerene, efter at Det er skubbet.
+
+00:29:53
+Så skal jeg lige sige at øh han ser desværre.
+
+00:29:59
+Hvad kan skrive? Vi skal forestille jer at det hele skal tiltes 90 grader.
+
+00:30:05
+Til Venstre, men her kan man se de bane plade efter skygning, så Det er Sådan set et godt resultat.
+
+00:30:16
+De brunelige aflejringer er ifølge automatiksen unik, der sætter sig.
+
+00:30:23
+Loftet hvert spalte.
+
+00:30:35
+Perspektivering.
+
+00:30:37
+Ifølge Claus mouritsen fra hofor og Claus er jeg simpelthen tovholder på hele ørestads søanlægget, der siger han, at dobbeltporøs filtrering, det indgår i de kommende overvejelser omkring yderligere installationer i København. Der er altså ikke taget stilling til noget.
+
+00:30:54
+Fra producenten watercare fortæller direktør Henrik rønnest, at Det har været svært at få hul igennem til markedet, men der begynder at ske noget nu.
+
+00:31:04
+Og hvis det i vest i Odense der skal det installeres et DPF anlæg og her der benytter man et ø 3000 rør som filterhus. Det vi ser herovre. Det er godt nok kun et 350 mm, men i kan se Der er gjort klar til spule adgang og så kan man se herinde i hvordan man forestiller sig at eller hvordan alle pladerne bliver placeret inden i røret.
+
+00:31:25
+Det smarte ved et rør er jo at så er det et standard element der kan indbygges under veje og og andre steder.
+
+00:31:32
+Og de fortæller også, at WHS filtrering har opnået batstatus og er valgt over et watt bassin, så fortæller de også, at Der er positive erfaringer med dobbeltbord i filtrering til fjernelse af fosfor fra magtren. Og man tænker også, at man kan anvende en Sådan løsning til at fjerne fosfor, når man nu begynder at vådelægge lavbundsjorde i forbindelse med klimatilpasning.
+
+00:31:58
+Og Det er Sådan et forsøgsanlæg de ser her forskningsmæssigt. Der tænker vi, at nu hvor anlægget er kommercielt, og der findes anlæg i drift, så kan man også godt forsvare forskningsmæssigt og videreudvikle på det og tilpasse løsningen til andre behov, for eksempel recirkulering af industriskildevand, måske forrensning af sø og flødevand til drikkevand eller som vist her genbrug af gråvand i husholdninger, hvor hvor vand fra.
+
+00:32:25
+Bruse nicher og vaskemaskiner og håndvask og så videre. Det opsamles i en tang, hvorfra vandet sendes igennem bokse med dobbeltporøse lag, og hvor vor 2 boks indeholder ilt og hver 2. Boks indeholder vand, så man kan få en passiv iltforsyning.
+
+00:32:44
+Det har vi kørt nogle forsøg med i de bokse i ser her, og Det har været super lovende resultater, men gråvand er et rigtig svært område at forske på, fordi Der er meget lidt interesse for det i Danmark.
+
+00:32:55
+Her ser i Det har jeg så kørt ude ved en badeanstalt Sofie badet ude på Christianshavn, hvor et offentligt bad, hvor Der er sæberester og hud og snavs og så videre i indkøbsvandet. Men hvor må man også med med med med synet kan se at det bliver gradvist klarere ender med at blive så klart at det faktisk uden problemer kan bruges til vaskeprocesser og måske også efter selvfølgelig en hygiejnisering som et nyt badevand.
+
+00:33:24
+Til sidst så har jeg bare lige samlet de rapporter der findes på dansk. Der kan man faktisk finde dem alle sammen inde på klimatilpasning DK og så vil jeg også godt lige gøre opmærksom på, at Naturstyrelsen henviser til DPF som en renseanlæg. Jeg har også samlet de grafiske animationer og filmoptagelser.
+
+00:33:41
+I har set nogle af dem Der er ITV 2 lovindslag for pilotanlægget ude i Ørsted for 11 og Der er så en en grafisk animation Rambøll lavet på et tidspunkt.
+
+00:33:51
+Og så er der den jeg ikke nåede at vise jer, og så er der det i så her ude for hofor. Og til sidst så har jeg også taget de videnskabelige artikler, der enten direkte handler om dobbelt postfiltrering, eller hvor teknologien indgår.
+
+00:34:04
+Ja tak Det var det.
+
+00:34:07
+Mange tak Karina super super spændende oplæg og jeg må sige jeg blev fanget og fascineret, særligt efter den her måde. Hvordan i kopierer ligesom.
+
+00:34:19
+Jordens egen teknik og så har bygget det ind i et anlæg, vi kan bygge ind i Vores byer.
+
+00:34:25
+Den her Det er ret spændende.
+
+00:34:27
+Ja Jeg har et spørgsmål til dig i forhold til.
+
+00:34:31
+Hvor ofte måler i på fuldskala anlæggene? Er det nogfore der står for den eller er i på KU også inde over den del?
+
+00:34:37
+Så Det er profor der står på. Det står for det, og Vi er højst inde over det som som lidt sparringspartner i ny og næ.
+
+00:34:46
+Men så det der vil jeg henvise til Claus mouritzen fra hofor.
+
+00:34:51
+Ja jeg ved at Der er planer om og der bliver målt, og Der er planer om yderligere målinger.
+
+00:34:58
+Nå.
+
+00:34:59
+Ja mon ikke der var lidt.
+
+00:35:00
+Lys her på den hvad?
+
+00:35:03
+Ja minetering er bare rigtig vigtig og også nu er der jo lavet lidt om på anlægget i forhold til pilot anlægget der kørte. Der lå kalken jo inde i alle lagene. Nu er der jo lavet en DP f-tank, som er uden kalk eller 2 DPF tanke som alene fjerner det suspenderede stof, og så kommer der den her såbent tank som er fyldt med såbent materiale og altså det så det betyder også at Det er skruet lidt anderledes sammen end end end det vi egentlig lavede proof of concept på, så Der er også behov for nogle flere målinger.
+
+00:35:32
+Ja.
+
+00:35:34
+Der er kommet et spørgsmål, men den tænker jeg mest du har på din dine slide eller om du kan skubbe lidt tilbage så folk kommer og noterer den Der er blevet spurgt om vi kan lægge linket til filmen i chatten. Jeg tænker den er film hvis de står her at folk kan nå at at se.
+
+00:35:48
+Den og i skal huske at lægge dem over i chatten.
+
+00:35:51
+Det ville være super der, så kommer den derover.
+
+00:35:54
+Og jer derude i skal huske på. I skal endelig bare stille spørgsmål til Marina på på oplægget hvis Der er nogle ting.
+
+00:36:05
+Jeg har tænkt Marina, mens du lægger dem op i chatten, så vil jeg høre om.
+
+00:36:11
+Driften nu når der ikke er hvad hedder det?
+
+00:36:15
+Byggeri derude mere hvad er forventningen så til hvor beskidt det egentlig bliver?
+
+00:36:19
+Ja altså de forventer i hvert fald en meget stærk reduktion der altså når Der er de der byggeaktiviteter og det blæser og det støver, så havner der bare rigtig meget i vandet og de har indset at de er nødt til at spule hver 3. Måned.
+
+00:36:33
+Som Det er nu fordi det simpelthen er meget, men hvor sjældent Jeg tror måske de forventer at være det halve eller en gang om året når Det er fuldt.
+
+00:36:43
+Og Det er jo rigtig vigtigt at holde pladerne rene for ellers så er der ikke kapacitet til at at tilbageholde mere, så løber det igennem.
+
+00:36:51
+Ja fordi så vil det jo bare stå stille skulle jeg til at sige.
+
+00:36:54
+Og så løber det hen overslagene? Ja.
+
+00:36:58
+Og så vil man ikke rense.
+
+00:37:00
+Nej, så får du en grændsning, og så havner det hele ovre i sig bent tanken ja.
+
+00:37:06
+Super.
+
+00:37:07
+Ja skal.
+
+00:37:08
+Vi lige se. Jeg tror du har lagt den ovre i der jeg lægger den lige ud de links du har lagt op du har lagt dem i Vores mødet chat.
+
+00:37:18
+OK Det er godt nok også nogle meget store bogstaver.
+
+00:37:22
+Nu ligger jeg den lige over her, så.
+
+00:37:30
+Så ligger alle linksene II chatområdet.
+
+00:37:36
+Ja.
+
+00:37:38
+Der.
+
+00:37:40
+Jamen her til sidst parida, så vil jeg sige 1000 1000 tak for at du vil fortælle om hele den lange rejse og de små bump, der har været på vejen til at det nu er begyndt at blive implanmenteret. Og så er det jo fascinerende at at at høre lidt til hvad for nogle områder i bevæger jer ind i og tænker over at det også kan bruges i.
+
+00:38:01
+Så det vil jeg glæde mig til at følge med på sidelinjen. I hvert fald at høre om.
+
+00:38:06
+Og på vegne af DNA ko så vil jeg sige tak for dit indlæg og tak til alle jer der har lyttet med.
+
+00:38:13
+Undervejs.
+
+00:38:16
+Så tak for det indlæg Mette.
+
+00:38:18
+Ja velbekomme og også tak herfra. Det var en fornøjelse.
+

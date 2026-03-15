@@ -1,0 +1,291 @@
+00:00:04
+Hej allesammen.
+
+00:00:08
+Jeg synes Jeg har set flere af jer her før.
+
+00:00:11
+Så Det er jeg jo lidt bange for, at jeg kom til at sige noget jeg allerede har hørt om. Ikke andet så nogle gange så er det jo rart at høre til et par gange, så er det bedre fast.
+
+00:00:20
+Jeg er jo blevet inviteret til det her rigtig spændende workshop til at tale om omkostninger i forbindelse med boligoversvømmelser.
+
+00:00:29
+Netop fordi vi netop har kigget på hvad betyder det for for boligpriserne?
+
+00:00:34
+Jeg vil bare lige tage et lidt lidt bredere sigte lige i starten her.
+
+00:00:39
+Så når vi kigger på på omkostninger i forbindelse med en oversvømmelse, så har vi både de materielskader, de i materialskader og de materiale skader. Det er jo så inventar, bygninger, der kan gå i stykker og immaterielt. Det kan være Sådan noget som tab af infektionsværdier, som måske ikke rigtig har nogle markedsværdi, man har værdi for dig.
+
+00:00:59
+Det kan være tabt tid i forbindelse med, at du skal bruge tid på renovering og så videre.
+
+00:01:03
+Det kan være ubehag og stress.
+
+00:01:05
+Stress, måske et klinisk stress, men.
+
+00:01:09
+Men stresfulde oplevelser.
+
+00:01:13
+Ved oversvømmelser og renovering og så også det, at Der er en usikkerhed. Lige pludselig er man opmærksom på, at der faktisk at man er udsat, og Det er i sig selv jo også en omkostning.
+
+00:01:24
+Og hvis man kun tager de materiel skader med, så får man måske hele billedet, og Det var ligesom Vores udgangspunkt. For da vi begyndte at kigge på på huspriserne, fordi forventningen må være at folk er forsikret, og når de er forsikret, så får de jo Sådan set en en kompensation, som burde dække de materielskader.
+
+00:01:45
+Ja så sidder malte gør Sådan måske ikke helt.
+
+00:01:50
+Og og min kobber antagelse, så vil jeg nok håndtere for at det Det er vi Sådan cirka. Ja, Det kan godt være at Der er nogen der føler sig lidt underkompenseret, og Der er sikkert også nogen der vil føle sig dejlig overkompenseret. Og hvis der sidder nogle repræsentanter for forsikret pension, så kan de sikkert uddybe det bedre end mig.
+
+00:02:06
+Yes men så pointen er, at Der er altså de hersens 2 elementer i Vores omkostningskort. Det er vigtigt at lige at forholde sig til begge.
+
+00:02:15
+Og så.
+
+00:02:18
+Bare for at sige nå, men hvad er så for nogle forsikringsudbetalinger? Hvor store er de så og nu er? Nu er det blevet lidt småt kan jeg se.
+
+00:02:24
+Men altså hvis vi kigger på stormfod. Det er den her række her ikke og der Kirsten havde et tal på 450.000 og jeg havde har et tal på 445.000, så vi ligger i det der område der når Vi har en oversættelse fra en stormfod, altså uafhængig hvilken boligtype Det er.
+
+00:02:41
+Hvis vi kigger på skybrud, så er vi altså væsentligt lavere. Så er vi altså nede omkring 70.000 kr. Per oversvømmet bolig uafhængig af hvilken type bolig Det er.
+
+00:02:52
+Og så kan man selvfølgelig dele det ind i rækkehuse og sommerhuse og så videre, og så får man lidt nogle andre nogle andre instrumenter det sjove ved de her tal. Det er at de er supergode til at predictere samlet skadesomkostninger, hvis man puljeboliger. Altså hvis du har et boligområde Der er risiko sat og som de plejer oversvømmet, så er de her gennemsnitstal faktisk ret gode at gange op med.
+
+00:03:13
+De klarer sig næsten eller nogle gange endda lige så godt som.
+
+00:03:18
+Meget avanceret machine learning modeller. Det er jo en sjov ting. Det gør at Sådan nogle her tal som dem her bliver ret operationelle og Vi skal på vejen skal lades omkostninger.
+
+00:03:29
+Så det vil jeg klart anbefale, at man gør fremadrettet.
+
+00:03:32
+Og der kommer en rapport lige om lidt, hvor vi også viser, at det at Det er gældende.
+
+00:03:38
+Yes men Det var den ene del af det. Det var den i materiale skader ikke og det Jeg er godt klar over at Der er en eller 2 form for selvrisiko der sikkert et eller andet beløb der skal betales, men Det er nok. Det er nok en mindre procentdel af den samlede kompensation Vi er ude i her ikke.
+
+00:03:55
+Så så den 2 del Det er jo det hersens immateriale skade.
+
+00:04:01
+Og man kan ligesom gå 2 veje man kan man kan spørge folk.
+
+00:04:05
+Og man kan se, hvordan de faktisk opfører sig.
+
+00:04:09
+Og vi gjorde begge dele.
+
+00:04:11
+Og og det vi fik ud af det. Det var nok ret interessant resultater. Der er jo både udfordringer med begge dele.
+
+00:04:18
+Det der med at spørge folk. Det er jo der var en der sagde jamen hvad hvis nu Der er gået 5 år og kan du så huske hvor hvor dårligt du egentlig havde det? Eller har du ligesom omformuleret tankerne og alt Sådan noget, så Der er alle mulige problemer med at spørge folk og på samme måde så.
+
+00:04:33
+Hvis man prøver at kigge på folks adfærd, så laver man altså også nogle ret hårde restriktioner og så derfor begge metoder ganske relevant at anvende når man prøver denne her type.
+
+00:04:45
+Værdisætning af de hersens ikke materielle omkostninger.
+
+00:04:49
+Og og og vi lavede blandt andet det her spørgeskema, og så går vi jo så ud og og så sendte vi ud gennem e-boks, ligesom i sikkert også har prøvet. Jeg vil anbefale altid at svarer på alle spørgeskemaer man modtager e-posen.
+
+00:05:02
+Jeg gør i hvert fald, men Det er også Sådan professionel køte, ikke?
+
+00:05:07
+Men en af de meget sjove ting, vi vi fandt i Vores spørgeskemaer og og Det er jo ikke Sådan helt tilfældige steder. Vi spørger. Vi spørger steder, hvor de faktisk har haft oversvømmelser.
+
+00:05:17
+Så kan det godt være at de selv dem Der er blevet spurgt har haft oversvømmelse, men de bor på en vej, hvor Der er nogen der har været til enten på en stormfod eller et skybrud. Oversvømmelse.
+
+00:05:27
+Så får vi af de generelt uvidende, men de er ret selvsikre.
+
+00:05:33
+Ikke, og det passer jo meget godt. Det ved jo godt, at hvis man ikke ved så meget, så er man ret sikker på at man har ret, og jo mere man ved jo mere usikker bliver man på det hele ikke.
+
+00:05:42
+Og og og Vi er desværre i en situationer, Vi er ret udvidne også her til stede. Det er led ret meget, og derfor er vi. Kan vi finde alle hullerne i året ret usikre i virkeligheden ikke.
+
+00:05:51
+Så Det er en vigtig pointe, men hvis nu man så spørger den der, så faktisk har opsøgt viden. Det var en mindre del af de her mennesker, som vi brugte. De har for eksempel spurgt deres nabo for eksempel ikke eller spurgt ejendomsmægleren, da de købte huset.
+
+00:06:08
+Ja ikke. Der er også nogle Der er gået til kommunen. Det er dem Der er herovre ikke, men i kan godt se den her.
+
+00:06:13
+Søjle er ikke enorm.
+
+00:06:14
+Høj vel i forhold til de andre søjler.
+
+00:06:18
+Så Der er et vidensniveau her som mangler.
+
+00:06:22
+Når man så spørger folk, fortæller dem. Du er faktisk placeret af et risikosat område. Hvad vil du betale for, at vi mindskede risikoen med for eksempel 25% af 50%?
+
+00:06:35
+Og der kan vi faktisk se, at at folk er villige til at betale per år i en tiårig række altså så over 10 år, så betaler hver eneste år omkring 2000 eller 2500 afhængig af hvilken process for skybrud og.
+
+00:06:50
+Og i forhold til stormflod, så er det.
+
+00:06:52
+Lidt højere og den måde man ligesom bliver præsenteret for. Det er man ligesom bliver præsenteret. Er du villig til at betale 50.000?
+
+00:06:58
+Ja, det vil jeg gerne. Nå Der er nogen der bliver spurgt om er du villig til at betale 500 ja men det vil jeg gerne ikke også på den måde, så ville vi Sådan en så falder projekten til sidst, så er der nogen slet ikke nogen der gider at betale, og vi havde troet at når vi ramte 4000 at så ville folk bare sige nej nej nej, men faktisk så brød brød de Vores skala i Vores spørgeskema, hvilket var lidt uheldigt for Vores spørgeskema design.
+
+00:07:20
+Men, hvilket så betyder at at de her estimater er nok lidt underkantstestimater, når de er et udtryk for gennemsnittet ikke, og Der er ligesom der vi mangler nogen ude i halerne her, som faktisk er villige til at betale meget, hvilket bare betyder at folk har uvidende. Men hvis de bliver gjort opmærksom på det, så vil de virkelig gerne betale for det ikke så de har faktisk en præference for at undgå, selvom de er forsikret ikke.
+
+00:07:48
+Så kiggede vi også på på boligpriser, så vi lavede Sådan nogle store hudprismodeller, og så kiggede vi i området.
+
+00:07:56
+Hvor der havde været oversvømmelse, og vi den måde, vi identificerede overstået husk på. Det var simpelthen at bruge.
+
+00:08:02
+Det datasæt forsikring pension tidligere gav mulighed for at anvende, så det går frem til 2017 eller 18. 2017 og så 2012 det tidsrum havde Vi har vi oversvømmelser fra.
+
+00:08:15
+Forsigtigt nogen pension, som vi så har koblet til til til huset og så hvilke huse der så var solgt. Og det samme gjorde vi så for data fra stormflodsrådet, der nu hedder natur skaderum.
+
+00:08:26
+Og så fik vi også data.
+
+00:08:28
+Så man kunne identificere direkte, hvem havde været oversvømmet, og hvem havde ikke været oversvømmet?
+
+00:08:32
+Og og Sådan rent metodisk så rent Sådan teoretisk, så et af grundlæggende gør Det er at vi kigger på at at de kigger på 2 grupper og så ser vi om de følger den samme udvikling over tid. Altså den samme prisudvikling. Og hvis der så den ene gruppe som så er den Der er oversvældet.
+
+00:08:49
+Hopper denne her gang hopper den op, men den kunne hoppe ned. Ikke så har vi et udtryk der siger noget om.
+
+00:08:57
+At folk er opmærksomme på problemet og er villige til at at betale skal have en kompensation for eksempel.
+
+00:09:02
+For at købe et hus, Der er oversvømmet ikke så hvis du køber et hus Der er tidligere oversvømmet, så var ideen. Jamen så vil folk sige ah men Jeg vil gerne have det 200.000 kr. lavere fordi Der er jo den her risiko.
+
+00:09:16
+Og og Sådan set så fandt vi også noget og og Det er heller ikke det, vi fandt blandt andet Det var at huse, Der er risiko sat.
+
+00:09:28
+Fra stormflod.
+
+00:09:30
+De bliver købt med en rabat på omkring 10%, og Det er Sådan set ikke kun hot der finder det. Nationalbanken fandt det sammen, og Det var jo godt.
+
+00:09:40
+Derudover så fandt finder vi så at de huse der faktisk har.
+
+00:09:44
+Hvad oversvømmet Vi har en ekstra nedsættelse i deres i deres pris.
+
+00:09:52
+På på henved omkring 28-36%, men Det er kun midlertidigt en treårig periode, hvor efter det korrigerer sig, og Der er ikke nogen grund til, at man kan ligesom sige. Jamen Det er fordi at så har man ligesom afhjulpet risikoen. Det synes ikke at være forklaringen.
+
+00:10:09
+Og Det var vi lidt overraskede over, men da vi så kiggede ud i litteraturen, så fandt vi så at.
+
+00:10:17
+Lignende studier fra fra USA og England, der finder samme samme resultat, altså en midlertidig nedsættelse af af af prisen i de hersens boligområder eller på de boliger, der har været oversvømmet.
+
+00:10:31
+Altså vi kan indificere direkte hvilke bolig og IUSA og England der bliver de nødt til at sige i det her område har der været oversvømmelse. De er lidt, de er noget grovere deres identificering, men altså grundlæggende finder de samme resultater, og Det er nogle meget større datasæt, fordi i har haft nogle meget større og voldsomme oversvømmelser.
+
+00:10:49
+Så ja, Sådan er det.
+
+00:10:54
+Hvilket så bare betyder, at når vi snakker skadesomkostninger på bolig og PT. Sådan som det ligger nu.
+
+00:11:00
+Så er det de materielle skader, der dominerer skadested. Hvert fald hvis man kigger på direkte adfærd og. Og måske skal man måske ikke være så bekymret for de her boligpriser PT.
+
+00:11:15
+Og Det er både et problem og måske positivt afhængig af hvilket perspektiv man har.
+
+00:11:21
+Ja.
+
+00:11:24
+Ja, så hovedbudskaberne er.
+
+00:11:28
+Der er relativt store skadesudbetalinger i forbindelse med oversvømmelser, specielt for stormflod. Der er det altså ret højt.
+
+00:11:38
+Folk søger ikke så meget viden om risiko, så Det er generelt.
+
+00:11:42
+Uvidende om den situation de er i.
+
+00:11:46
+Når man spørger dem, så har de faktisk præferencer for at undgå risiko. Det er bare ikke noget de har opmærksom på.
+
+00:11:52
+Og det reflekterees også til dels i ejendomsmarkedet, hvor at folk de faktisk glemmer risikoen.
+
+00:11:59
+Ikke.
+
+00:12:02
+Og og Sådan som jeg siger det, så har vi i hvert fald. Vi ved meget mere nu om, hvad de materiel skader og de materielle skader er. Når vi prøver at kvantisere dem økonomisk, men da helt klart, at Der er så forskere, synes jeg i hvert fald.
+
+00:12:16
+Der er plads til at ridse væsentligt mere i lakken.
+
+00:12:23
+Sådan som jeg ser det, når når vi kigger på ejendomsmarkedet, så grunden til at at markedet ikke reagerer, som vi forventer som økonomik. Jeg forventer, at folk er gearet rationelt, og derfor når de så fik en oversvømmelse, så ville de opdatere deres risikovurdering af, hvor de bor og også af deres naboer og så på den måde. Næste gang de så har købt et hus, så vil de så.
+
+00:12:47
+Indarbejde den nye viden de har.
+
+00:12:48
+Omkring risikoen.
+
+00:12:51
+Men det. Det sker altså ikke i dag.
+
+00:12:55
+Og jeg tænker, at en af de løsninger Der er det, er at folk har behov for et prissignal til at agere på.
+
+00:13:03
+De har selvfølgelig behov for at betale en forsikringssum, som reflekterer den risiko, Der er. Og hvis de gjorde det, så ville det også betyde at at ejendomsmarkedet, der reagerer på risikoen og folk generelt vil være opmærksomme på den risiko og samtidig måske endda kræve, at der faktisk skete noget.
+
+00:13:21
+Fordi de godt kunne se at naboen hen ad vejen. De betalte ikke lige så meget forsikring som dem, og på den måde ville der være et pres i lokalområdet, for at der faktisk lige noget.
+
+00:13:32
+Modsat som.
+
+00:13:34
+I sikkert kender til det her fænomen at primitilpasning ofte starter med en oversvømmelse. Så kunne det jo måske være rart med et moderat pres hele tiden fra de de mennesker, der faktisk er udsat og måske også et stærkere driver for at få aktiviteter i gang.
+
+00:13:52
+Så jeg tænker forsikringsselskaberne skal have lidt hjælp med at blive bedre til at selvforsikringen korrekt.
+
+00:13:59
+Det vil være godt.
+
+00:14:01
+Og og det betyder jo også egentlig indirekte kritik af den måde, vi for eksempel har lavet storfodsordningen PT. Som Jeg er jo ikke den eneste økonom, der har været ude at sige, at Det er problematisk. For eksempel har var jeg de økonomiske vismænd er ude at sige det for et års tid siden, så.
+

@@ -1,0 +1,708 @@
+00:00:06
+Kære alle.
+
+00:00:08
+Velkommen til dagens tektop på DNK.
+
+00:00:11
+Mit navn er teis fra Andersen, og jeg forvirrer univers til College sammen med Morten hulling fra dann k vil jeg gerne på vegne af danne k by jer alle sammen. Velkommen til dagens takt.
+
+00:00:20
+I dag vil erland Rasmussen og jørn bo Nielsen fra fra CBMC Group og Jacob fra Skanderborg Kommune præsenterer deres værktøj og vise eksempler på dens anvendelse.
+
+00:00:28
+Din admin 2 Det er et værktøj til omkostningseffektivt dynamisk moulering af oversvømmelser.
+
+00:00:34
+Og lidt praktisk information, inden vi starter. Selve præstationen varer cirka 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål i chatten. Og så vil jeg publicere dem.
+
+00:00:45
+Og så vil erland Jørgen og Jacob besvare dem i slutningen af tektuppen. Og for god ordens skyld skal jeg informere om at tik token, den bliver optaget. Det var alt for nu, og så vil jeg give ordet til erland Jørgen og Jakob.
+
+00:00:58
+Jamen tak for introduktionen theis som i kan se her på den første slide, så har vi kaldt Vores præsentation. Det er for oversvinduets beregninger med integreret modeller for afløbs systemet og endvi går rigtig i gang, så vil jeg da lige fortælle jer hvad programmet er. Vi vil starte med at fortælle hvem Vi er og fortælle derefter.
+
+00:01:18
+Hvorfor er det egentlig vi interesserer os for at integrerede modeller, og så går vi så over og fortæller lidt om, hvordan kan man modellere?
+
+00:01:25
+Oversvømmelser på overfladen og hvordan regner man så også på afløbssystemet? Og så til sidst så vil vi så gå i gang med at fortælle lidt om hvordan hvis man er egentlig interesseret i det her? Hvordan kommer man godt i gang med Sådan 1 1 1 øvelse her og til sidst så kan vi lige summe op lidt, men som sagt så vil jeg lige starte med at præsentere de 3 personer som.
+
+00:01:50
+I vil komme til at møde i dag, både og høre os, men også se osager.
+
+00:01:55
+Og bor jeg Vi er fra en lille virksomhed som hedder CBMC Group og Vi har begge en rigtig lang. Skal man sige erfaring indenfor vand og miljø, hvor Vi har været i en 2 virksomhed i en menneskealder vil jeg sige og Vi har siddet med med de her problemer.
+
+00:02:14
+Og Det har vi så fortsat med i egen regi sidenhen dog Sådan, at Vores hovedfokus efter vi blev selvstændige. Det har været på oversvømmelse og klimatilpasning.
+
+00:02:24
+Og specielt under danske forhold.
+
+00:02:29
+Ligesom i Vores tidligere karriere, så har vi jo så satset meget på software eller digitale løsninger, og de 2 værktøjer, som vi vil komme til at møde i dag, er det primært det det første her, men de 2 værktøjer, som vi vil nævne i den her forbindelse. Det er dels Vores 2 d model, som vi kalder dynamic 2 d, som er en bydunderingsmodel til at modellere overfladen.
+
+00:02:52
+I 2 dimensioner og det andet værktøj, som vi også, som vi startede Vores karriere på. Det er det, vi kalder newcat, som er et værktøj til risiko, planlægning og så videre, som kan både tage oversvømmelseskort ind fra skybruddet, men også fra vandløb og og og og havet og Sådan noget. Den 3 person i vil komme til at møde her på Center her.
+
+00:03:16
+Det er Jakob Madsen fra.
+
+00:03:18
+Skanderborg Kommune.
+
+00:03:19
+Men Jeg synes selv at Jacob han kan få lov at knytte et par kommentarer til sin egen person der så Jacob. Du får lige ordet her.
+
+00:03:29
+Jeg takker Allan jamen altså som sagt Jacob Madsen, Jeg er uddannet ingeniør og klimaplanlægger og har arbejdet med klimatilpasning i forbindelse med DK 2020 indledningsvis nede i Haderslev Kommune, hvor jeg arbejder rigtig meget med regionens oversvømmelseskort og så det program, der hedder skadeøkonomi, og så under det der hed fole Hansen er det vi kalder folehaven tilbage i sommeren en gang og 20.
+
+00:03:54
+Da Skanderborg, så gik vi i gang med klimatilpasningen, hvor det gik heroppe, og der fik jeg så mulighed for at bruge det her.
+
+00:04:00
+Værktøj Der er lavet 2 d du kan også skades økonomi og vi lavede en meget stor undersøgelse på højtstående grundvand, så Det er ligesom min rolle egentlig klimatilpasningen.
+
+00:04:12
+Godt.
+
+00:04:13
+Jamen, så går vi videre i programmet og.
+
+00:04:17
+Det det allerførste man måske kan spørge sig selv, om Det er, hvorfor er det egentlig, Vi er interesseret i integreret modeller af stramninger både på overfladen, men også stramningerne II afløbssystemet og Det er det faktisk 2 sæts gode grunde til at interessere sig for det ene. Det er den sunde fornuft, fordi Vi har et dagligtssystem i de glorkede områder her i Danmark, og Det er selvfølgelig designet til at fjerne noget af regnvandet op til et bedst niveau, og Det er det man typisk kalder.
+
+00:04:48
+Serviceniveauet.
+
+00:04:49
+Så det. Det er selvfølgelig vigtigt at at tage den del med II regningerne også, men selv ved andre regnhændelser kraftigere regn, som vi kalder skybrud. Jamen, så vil det stadig fjerne en en væsentlig mængde vand, så Det er man selvfølgelig også nødt til at tage hensyn til, og det skal man så selvfølgelig også gøre.
+
+00:05:10
+Det andet sæts argumenter. Det er selvfølgelig, at Der er et komment lovkrav. De fleste af jer kender sikkert den her servicebekendtgørelse af 22 76, som stiller krav om, hvad man skal bruge af modelværktøjer, såfremt at forsyningen skal være med til at finansiere en del af af mere af klimatilpasning, end man må i dag eller under de gamle regler.
+
+00:05:37
+Og specifikt kan man jo nævne her, at i de plougerede områder, der står der faktisk, at der skal man foretage en beregning med en dynamisk hydraulisk model, som skal være koblet til en tilpasset højdemodel. Så Det er ligesom de argumenter der man man tager fat i, når når man siger, hvor får jeg det egentlig, at Vi skal interessere os for integreret modeller?
+
+00:06:00
+Og hvordan er det så man skal gribe Sådan nogle oversvømmelser om det vil jeg lade min gode kollegaer bo om at fortælle lidt mere om, så værsgo bo fortsætter.
+
+00:06:11
+Ja tak.
+
+00:06:13
+Ja Jakob nåede lige og og nævne fodler, og Jeg tror før vi kaster os ud i Det er fuldt integrerede modeller, så vil vi lige hive en gammel kæphest i manegen igen.
+
+00:06:25
+Og og fortælle lidt om, hvordan man egentlig kan modellere overfladevand på en fornuftig måde.
+
+00:06:31
+Altså oversvømmelser på overfladen.
+
+00:06:34
+Vi har i Danmark eller tradition for at bruge 2 forskellige måder at gøre det på og den den første. Det kan vi kalde en stationær model. Det er den man inklusiv bruger, hvis man ændrer sine data i kamp eller hvis man bruger skattekoriet.
+
+00:06:49
+Og som sagt Jacob nævnte fole og det her. Det er er output fra fole og Det er taget fra kamp det her, og det viser maksimum oversvømmelser eller det viser oversvømmelser i fole ved 150 milimeter nedbør og hvorfor lige 150 milimeter? Jamen Det er fordi Det var et skybrud man oplevede i fole i juli 2021, som i hvert fald uofficielt blev målt til til den til den størrelse.
+
+00:07:15
+Der er ikke nogen officiel huller lige i området.
+
+00:07:18
+I kan se fuglen nede på i Venstre hjørne.
+
+00:07:23
+Bygningerne dernede og i kan se. Der er ikke nogen særlig oversvømmelser at se II denne her sammenhæng, hvis man tager dataene fra den stationære model.
+
+00:07:34
+Hvis man så i stedet kigger på en dynamisk model, så ser billedet jo unægtelig noget anderledes ud.
+
+00:07:40
+Der ser man store oversvømmelser både i fugle og i oplandet, opstrøms for fugle og nedstrøms og fugle.
+
+00:07:49
+Reelt blev der målt op til 75 cm på gulvet hos smeden i fole han ligger i det som det nord cirka det nordøstlige hjørne af af landsbyen her.
+
+00:08:01
+Og i realiteten så tog det redningskorpset omkring et døgns tid at få vand ud af kældre og vand ud af huse og og vand ud af vejen og i området omkring forude.
+
+00:08:16
+Så Det er jo en en meget væsentlig forskel med resultaterne, og man kan jo så undre sig over, hvorfor er der så stor forskel på en stationær undinalisk model?
+
+00:08:28
+Lina forklaringerne den nok væsentligste forklaring kan vi se illustreret her, hvor vi ser en lille bæk, der løber igennem folkeskmedens hus er i øvrigt lilla.
+
+00:08:41
+Længst til højre lilla markerede her. I kan også genkende at Det er data fra kamp, vi ser på igen her.
+
+00:08:48
+Bækken den løber under 1 1 1 række veje, når den løber igennem folk og de veje. Jamen de udgør Sådan nogle indsnævringer.
+
+00:08:59
+Det er en stationær fuldstændig ligeglad med. Hvis du bare er hul igennem, så løber alt vandet alt det vand der kan løbe det løber igennem de huller og kører videre ved strøm, så i princippet ud af modellen, hvis hvis Det er det Det kan.
+
+00:09:13
+Det samme gælder jo så ikke for en dynamisk model. Den har behov for tid til at få vandet igennem de huller, og hvis der ikke er tid til at få vandet igennem i tide, jamen, så fører det til opstubning af opstrøms og oversvømmelser, som som dem man så i fugle.
+
+00:09:31
+Så der står hul igennem, så forsvinder vandet ud af den stationære model med det samme. Den har ikke tiden med Jeg har den.
+
+00:09:38
+Det har så den konsekvens også at stationære modeller ikke er særligt velegnet til at kigge på klimabrandskrivninger, fordi det handler jo om mere nedbør. Og det vi ser her. Det er så forslutningen som i det samme delområde, hvis der falder 15 milimeter nedbør.
+
+00:09:56
+Og herovre hvis man hvis der falder 150 m millimeter ned dør.
+
+00:10:02
+Det i kan se er, at de områder, der bliver oversvømmet, er præcis de samme i de 2 tilfældelser. 15 mm nedbør er nok til at fylde de huller, der ikke har nogen afløb i fugle.
+
+00:10:15
+Og 150 milimeter hvidbøger giver ikke nogen ændring i resultaterne. Farverne, som igen er taget fra kamp de de ser ud som om de indikerer, at Der er mere vand i det højre billede end i det venstrebillede.
+
+00:10:27
+Men Det er rent kosmetik, fordi hvis der var mere vand jamen så ville vandhullerne også brede sig længere ud, så så Det er præcis det samme vand Der er i Venstre og højre billede her.
+
+00:10:40
+Så en stationær model den den kalder altså ikke bruges til at fremskrives af de her ekstreme nedbørsmængder, som vi typisk kigger på, når vi kigger på klimaændringer.
+
+00:10:50
+Så man kan sige, at pålidelig oversvømmelseskort de fortsætter, man bruger dynamisk-modeller. Det gælder både i større byer, hvor vi også har en tradition for at gøre det. Men det gælder også på landet og i landsbyer, hvor vi måske har mindre grad af traditioner for at bruge dynamiske modellen til Vores klimatilpasningsøvelser.
+
+00:11:11
+Og ja Det er specielt uomgængeligt, hvis man vil se på effekten af klimaændringerne. Kun en dynamisk model. Vi vil give en troværdig effekt af en højere bangintensitet.
+
+00:11:25
+Og med Det er, at så må du hellere overtage igen og fortælle lidt om hvad, hvad Det er vi gør.
+
+00:11:30
+Ja altså i kan se. Der starter vi jo så med at bruge blusespot også ligesom så mange andre, men vi havde faktisk en mulighed for at arbejde for en Kommune, hvor vi også kunne anvende Vores nyudviklede dynamic 2 d model i den forbindelse til at lave de her oversvømmelseskort her.
+
+00:11:51
+Så det vi det vi gjorde, Det var at vi vi.
+
+00:11:55
+Anvend den her model her, og så laver vi selvfølgelig også sammenligninger med blodspot resultaterne, og der så vi jo faktisk, at der var en væsentlig forskel i udbredelsen, men også i den her klimafremskrivning, Sådan som bogen lige har er nævnt her. Og det fik vi ikke i øjnene op for betydningen af anvendt dynamisk modeller versus de her stationære modeller og det andet eksempel. Det var selvfølgelig.
+
+00:12:21
+Fole skybrud.
+
+00:12:23
+Så vi brugte faktisk en stor del af Vores corona nedlukning til at udvikle Vores egen software pakke den her dynamic 2 d model her. Og hvorfor gjorde vi egentlig det? Fordi der eksisterede jo allerede andre modeller, men i Vores øjne, Der er de meget tunge at arbejde med, og de kan typisk for meget, og de måske heller ikke lige præcis rettet mod den konkrete opgave, som Vi har kastet, så som er.
+
+00:12:51
+Klimatilpasning og oversvømmelses kort og så videre, så vi beslutter os for at udvikle Vores egen der.
+
+00:13:02
+Så så Det er er ligesom det. Det endte med II Vores regi her. Og hvad er det så den her model den den kan?
+
+00:13:09
+Ja den kan jo Sådan set at den har alle de her samme egenskaber som som mange andre modeller har til oversvømmelsesforretninger, og det gælder for eksempel, at den kan tage noget distribueret nedbør ind. Den kan tage noget nedslidning ind og en række forskellige.
+
+00:13:23
+Bedragelig struktur som pumper og overløb på forskellige rørunderføringer og så videre her.
+
+00:13:30
+Men udover det, så har vi så her for nylig også udviklet 2 integreret afløbs systemer, som Vi har integreret fuldt ud. II den her.
+
+00:13:42
+Man kan jo sige Det kan så mange andre modeller også så opereres lige at den her model den adskillelse sig fra de andre model.
+
+00:13:52
+Modeller inde på det her område, der hvor Vi har har forsøgt at lægge kræfterne. Det er på en stor del af det tidskrævende. Vi har prøvet at strømline modelopsætningen i en Sådan grad, at det bliver til en, hvis ikke en fuldautomatisk, så en semi automatisk proces.
+
+00:14:12
+Og alle, der der arbejder med med den her type modelværktøj. De ved simpelthen godt hvor tidskrævende en proces Det er op til og så tilpasse en model til et konkret område her.
+
+00:14:25
+Så de har fokuseret meget på at udvikle nogle værktøjer, som dels henter de relevante data fra de offentlige kilder. Vi Vi har til rådighed, og det gælder især ISDFI, men også værktøjer, som kan opbygge modellen for os. Og det samme gælder faktisk også afløbssystemerne, som vi kommer til at tale om på nogle af de efterfølgende slides her.
+
+00:14:49
+Så har vi selvfølgelig også fokuseret meget på de danske forhold, men men også gået Sådan tilstrækkelig fleksibelt, at skulle vi få muligheden for at brede os ud på de danske grænse. Jamen, så har vi så også mulighed for det og modellen. Den kan selvfølgelig levere resultaterne i en række forskellige formater, som man typisk vil kunne eksportere det her over i noget gis halløj.
+
+00:15:11
+Hvis Det er det man sidder og analyserer sine resultater i.
+
+00:15:14
+Eller andre værktøjer. Og alt i alt vil jeg sige, at hvis man forsøger at sætte Sådan en model op her, så det eneste man egentlig har behov for Det er en shape fil på det område, man er interesseret i resten og så selvfølgelig også betale for hvilken opløsning man ønsker sig, men resten er stort set fuldt automatiseret. II den her proces.
+
+00:15:36
+Så.
+
+00:15:39
+Med, det vil jeg ikke berøre mig mere på på 2 d modellen. Altså hvis Det er Der er spørgsmål jamen så er i selvfølgelig velkommen til at stemme i chatten og vi kan også tage noget bilateral hvis Det er en større interesse for det her, men ellers ville det så gå over og tale lidt om afløbssystemet. Hvordan er det egentlig man man regner på det, men endelig kaster os ud i hvordan man man gør det.
+
+00:15:59
+Så synes jeg lige Jeg vil vise den her figur, hvordan vi regner på det og og den her figur her den kender i sikkert det.
+
+00:16:08
+En figur, Der er taget fra spildevand komiteens skrift af 31, men har egentlig sin oprindelse i Danmarks klimakogbog tilbage fra 2011 tror jeg som viser.
+
+00:16:20
+Den indre cirkel Det er på teknologisiden og så på den ydre cirkel der der har man de forskellige anvendelsesområder, end når det gælder klimailpasning der.
+
+00:16:29
+Og hvis vi starter i den ene ende af skalaen, jamen, så finder vi de statiske terræn modelværktøjer, som vi også typisk kalder på blu-spotmet. Metoderne her og fordelen ved den her teknologi. Det er selvfølgelig, at den del af af hurtige, men men den er også billig.
+
+00:16:46
+Så what snup solid kan princippet bagi er at man anvender det man kalder et nettoreegnsprincip. Det vil sige man tager sit skybrud.
+
+00:16:56
+Og så fratrækker man simpelthen den mængde vand som afløbssystemet er designet til. Det er, at man har designet dagligssystemet til en tigersendelse. Jamen, så trækker man så den vandmængde fra der svarer til en tiårsendelse.
+
+00:17:10
+Så hvis man for eksempel har et skybrud på 40 mm. Jamen, at afløbssystemene design til at klare. Lad os bare sige 30 mm jamen, så den Netto regn man lægger ovenpå terræn.
+
+00:17:21
+Det svarer sig til forskellen mellem de 2, det vil sige.
+
+00:17:24
+10 mm.
+
+00:17:27
+Og i den 2 ende af spektret, der har man så de helt avancerede modeller, som mange sikkert kender som en mike dir giden. Flot modelopsætning og de er typisk meget detaljerede, men de er også meget beregningstunge, og de kræver typisk specialistviden til både at sætte dem op, men også og til at anvende dem.
+
+00:17:48
+Og derfor er det jo meget normalt, at både kommuner og forsyninger, hvis Det er, at de ikke selv har den indarbejdskabitet, jamen så må de hyre konsulenter ind for at klare den type opgave der.
+
+00:18:00
+De modelværktøjer man har for eksempel ovre i den helt tunge ende, de er nødvendige, når hovedfokus er på design og projektering af et egentligt afløsesystem. Men når vi taler om risikokort og oversvømmelser på på overfladen, jamen, så har vi så valgt ICBMC på at lægge os.
+
+00:18:23
+Kan man sige mellem de helt avancerede på den teknologisidende helt avancerede modeller. Og så.
+
+00:18:29
+Det de kalder Vores 2 d Der er nemlig 2 d model der så vi lægger os i det spektrum mellem en myten flot og så en ren 2 d model.
+
+00:18:41
+Men qua Vores automatiseringsproces som Vi har nævnt tidligere. Jamen, så mener vi jo selv, at vi kan høre til en helt 2 pris end end det man typisk vil skulle betale for den helt forkromede løsning med en my gruppen flot model.
+
+00:18:57
+Den ene model Vi har udviklet her. Det er det, vi kalder en serviceniveau nivomodel, som er en kombination af af aflivsmodellen. Servicemodellen, der også Vores 2 DI overmodel.
+
+00:19:11
+Den 2 er en igennem Vores afløbs. Hvad hedder det overflade model Vores standami 2 d model koblet til en dynamisk.
+
+00:19:21
+Røremodel.
+
+00:19:23
+Bo vil du sige et par ord om de 2 forskellige modeller der?
+
+00:19:28
+Ja det vil jeg bestemt.
+
+00:19:32
+Vi kan jo starte med at sige, hvad Der er fælles for de 2 modeller, og Det er, at de beregner strømningerne i afløbssystemet synkront med strømningerne på overfladen.
+
+00:19:44
+Det tidsskrift for tidsskrift sker det sker det samme tidigt de 2 beregninger.
+
+00:19:50
+Og at de 2 modeller overflade modellen er afløbsmodellen interagerer på hvert tidsskrift, der kan strømme vand.
+
+00:19:57
+Op og ned mellem de 2 modeller på hvert tidsskrift.
+
+00:20:03
+Hvis du så kigger specifikt på serviceniveaumodellen.
+
+00:20:09
+Så indfører vi 2 antagelser. Den ene er, at vi kan finde en maksimalt kapacitet, som vandet kan strømme væk fra et deloplagt med.
+
+00:20:20
+Det er uniformt for for hvert enkelt delopland som i kan opdele et antal deopblandinger og så sige at for det her deler bland Der er der for eksempel et tiårs serviceniveau, og så ved vi, hvad det svarer til at fjernelseskapacitet af vand.
+
+00:20:37
+Og Det er så den vi indføler i mine dækning.
+
+00:20:43
+Vi antager at, at vandet fjernes primært fra de befæstede arealer. Selvfølgelig også sportshal men, men ellers får de befæstet arealer.
+
+00:20:53
+Og det vil sige, vi regner serviceniveauet om til en fjernelseskapacitet og på hvert beregningstrin så fjerner vi så først tagvandet og derefter vand fra de befæstede områder, som vinfiltrerer til baglænsystemet.
+
+00:21:14
+Og ja hvis hvis lige jeg glemte lige at sige at hvis der så er for meget vand hvis nu tagvandet er det ene eller tagvandet plus tilstrømning opstrømsfrafører til for meget vand. Jamen så i stedet for at indfiltrere vand fra de bevidststående måde, så eksfiltrerer vi vand, som vi altså kan få vand ud fra avlsystemet igen.
+
+00:21:33
+Serviceniveaumodellen den mener Vi er velegnet til at beregne oversvømmelseskort, hvor formålet er at at at lave risikokort i forbindelse med planlægning af af klimatilpasning og så de børn til 3 trin i figur 4 3 fra vejledning til fastsættelse af serviceniveau.
+
+00:21:57
+Hvis jeg så springer til den dynamiske røvmodel, så har den yderligere den feature at strømningen i rørsystemet bestemmes af trykniveauer og kapaciteter i de enkelte rør udvalgte rør de rør der forbinder de enkelte deler blandet i Vores afløbsmodel, og det vil sige, at hvis Der er.
+
+00:22:23
+Et et opland.
+
+00:22:25
+Nedstrømt, som bliver fyldt op, og Der er plads i et opland popstrøms, så kan vandet løbe tilbage igennem med rørene og og oversvømme det oplandsområde også så med Vores dynamiske rømmodel, så kan vi få tilbage stuvning og vi kan få skiftende strømningsretninger i rørsystemet.
+
+00:22:50
+Det mener vi opfylder de betingelser der, Der er stillet i serviceniveaubekendtgørelsens vejledning om brug af dynamisk koblet dynamiske modeller. Så det mener jeg, at vi kan bruges hele vejen frem til og med de samfundsøkonomiske beregninger, som er nødvendige, hvis man skal retfærdiggøre.
+
+00:23:10
+Forsyningernes investeringer i klimatilpasning.
+
+00:23:19
+Så hvis jeg lige resumerer hele konceptet kort, så kan vi sige det man gør er at man opdeler afløbssystemet i en række mindre oplande. Man beregner hvad arealerne og de oplandet er og befæstelsesgraden for hvert opland. Man udregner også rør volumen for hver oplandene, og så identificerer man de ledninger, som forbinder de her deloplande og udregner deres kapacitet maksimalt kapacitet og deres kapacitet under forskellige trykforhold.
+
+00:23:46
+Så man kan få hovedvand frem og tilbage i de rør.
+
+00:23:50
+Og det som erland nævnte en semi automatiseret proces. Hvis der findes en markørbon database på området, så kan vi gå ind og og automatisk beregne hovedparten af af det her. Der skal selvfølgelig træffes nogle beslutninger om.
+
+00:24:05
+Hvor de enkelte deleoplandet skal lægges.
+
+00:24:08
+Og Det har vi så et eksempel på, hvordan det ser ud i denne her figur, hvor 1 1 1 model, hvor der i mikeurbon var en lodretning af 800 rør tror Jeg er.
+
+00:24:19
+Forenklet ned til 25. Deloplandet som vi så har brugt II beregningen ud fra viden om hvad serviceniveauet er og så videre. Ved hjælp af de befæstelseskort vi også har kunne finde i de offentligt tilgængelige data.
+
+00:24:35
+Ja måske man skal jo sige jaja bog eller knyt en kommentar til at have at hvert de forargede områder som i ser på på slien her. De består faktisk altså et bassin.
+
+00:24:45
+Og så nogle tilløbsrør og så et afløbsrør. Det svandt så som bo serie ikke kan komme ud af systemet. Jamen så kan vi i servicemodellen niveaumodellen.
+
+00:24:57
+Der kan vi så sende det direkte op på overfladen. I den dynamiske model kan vi sende det tilbage igen med det her flowudbørste til de andre dele blandt andet.
+
+00:25:07
+Hvorefter det så kan komme op på overfladen der hvis ja senest er tilstede fordi ja så så hvad kan løbe i alle retninger i den dynamiske?
+
+00:25:17
+Ja og og Det var så teorien og og.
+
+00:25:22
+Jeg tror Vi skal skifte nu til noget mere praktisk, som sikkert interesserer mange mennesker.
+
+00:25:27
+Og Jacob, Jeg tror du vil fortælle os lidt om nu.
+
+00:25:31
+Skal i lige skulle introducere Hassan som Jacob. Han sagde så da Skanderborg skulle i gang med deres dekurtive 20 projekter. Brugerne den erfaring Jacob havde fra fole af eller fra Haderslev Kommune.
+
+00:25:41
+Den så valgte man så i Skanderborg at basere deres syvtyve.
+
+00:25:45
+DK 2020, projekt på oversættelseskort fra dynamiske modeller og qua den automatiserede proces, så blev hele kommunen inddelt i alt 36 hydrologiske oplande, og i kan se i selve omridsigt med den sorte linje her på på figuren. Det er Skanderborg Kommune, men vi rækker jo ud over kommunegrænserne qua det, at Vi skal ud og have fat i de holdologiske oplandet, som alle sammen berører.
+
+00:26:11
+Det indre af af Skanderborg?
+
+00:26:13
+Kommunen her alt i alt så er det her modelområde cirka 800 knap 800 km2 og Vi har cirka 6,5 1000 rør og cirka 350 broer og vejunderføring og Sådan noget, og det blev alt sammen automatiseret, så vi kunne sætte den her model op i den opløsning, som man ønskede dag. Og hvad så kommunen fik ud af det kort? Jamen det vil Jacob fortælle om på de næste slides her så.
+
+00:26:41
+Jacob vil du ikke tage over her og så fortælle lidt om hvad hvad kommunen fik ud af de her kort?
+
+00:26:48
+Det var 2 opgør når og tak for lige at give den tekniske introduktion til oversvømmelseskortlægningen. Det kan man jo godt høre. Det er jo specialiseret viden, man skal have få ligesom at komme i mål med mange af de her ting, og jeg sidder jo nede på en Kommune, hvor Vi har fingrene nede II maskinrummet så at sige Vi skal have fundet på nogle ting i forhold til de ting, som kommunalpolitikerne kommer med, og en af de ting, som du jo i lå i det her.
+
+00:27:11
+Det var, at man havde tilsluttet sig til det her DK 2020.
+
+00:27:14
+Egentlig det der lå jo nogle rammer i form af den der klare madaction plantning framework.
+
+00:27:19
+Som man skulle forholde sig til i den her forbindelse, og noget af det vi skulle. Det var jo blandt andet at kigge på klimaforandringens betydning for risikobilledet i kommunen, og så skulle vi forsøge at koble det her til det her med CO 2 reduktioner.
+
+00:27:32
+Og altså. Det er jo en en særlig ting, når Vi skal i gang med det her med areal anvendelsen og udviklingen af by og land, og vi snakker VE anlæg og meget andet, så Det er meget vigtigt. Det var det der blev skitseret, og nu skal vi ind og kigge på det her fra en lidt bedre og mere innovativt synspunkt, så det fik vi i gang med med de her 2 d dynamiske kort.
+
+00:27:52
+Skal du så den næste hallo?
+
+00:27:58
+Så inden IIDK 2020, så blev vi lige pludselig udfordret på jamen, hvad er det for nogle værdier, vi putter ind over Vores oversvømelseskort? Oversvømmelser de viser faren et bygnings overbygning. Et kort overbygninger kunne vise os noget om Vores værdier.
+
+00:28:14
+Det kunne også for eksempel være biodiversitet eller Vores varer og trafiknet, og det blev vi lidt udfordret på, men hvordan gør vi så det?
+
+00:28:23
+Og hvis vi tager den næste Allan.
+
+00:28:27
+Der var det jo Sådan at med de der kort jeg bestemte i Dynamo 2 d der fik jeg faktisk muligheden for at lave en række ret avancerede beregninger, fordi at hver kort repræsenterer 3 tidshorisonter nutid og det man kalder RCP 4,5 og RCPO en halv og det vil sige jeg kunne se hvad for nogle hændelser der ligesom.
+
+00:28:52
+Blev værre i fremtiden som følge af klimaforandringerne.
+
+00:28:56
+Skal.
+
+00:28:57
+Vi prøve at tage den næste stopper.
+
+00:29:01
+Og til det, der var jo heldigvis et værktøj skadesøkonomi, som blev udviklet af DTU og geofyl. Det må anbefalede at KLIDK 2020, så Det var ikke nokblod da vi prøvede at køre den og den fik vi så kørt for bygninger. Vi har kørt den for mig og trafik og Vi har kørt den for økosystemer indtil videre og det ligger måske lidt i pipelinen og vi prøver at køre nogle af de andre modeller når vi kommer lidt videre med det her arbejde.
+
+00:29:27
+Men lige pludselig kan man sige Der er nemlig 2 d oversvømmelser skortene.
+
+00:29:31
+Og det her værktøj skadesøkonomi jamen, så havde jeg faktisk en fuld park til at lave de beregninger for de sektorer, som så er inkluderet i skadesøkonomien her.
+
+00:29:40
+Så skal vi.
+
+00:29:41
+Prøve at tage den næste stærkt.
+
+00:29:43
+Så baseret på de her dynamisk 2 d oversvømmelseskort og skadesøkonomi, så kunne vi i Skanderborg her bygge det, vi kalder en IAD model, hvor vi kan gå ind og lave sensitivitetsberegninger på de inputbarametre, som indgår i skadesøkonomi. Vi kunne stille på afskærmningshøjden for fundamentet på, hvor stor en perimeter, der skulle rammes af nordsømmelse før den indgik, og så kunne vi egentlig sidde og analysere på de her resultater i forhold til.
+
+00:30:11
+En række oplande i det her tilfælde har jeg sat den op som.
+
+00:30:14
+I det femtobblande. Derudover så kan man gå ind og kigge på jamen hvad er det for nogle bygninger der bliver ramt baseret på de eller på de bygningskategorier man har IBBR registeret, så fik vi lige pludselig en hel masse ret værdifulde information ud på kommuneniveau, som altså i forhold til at køre den på en blus på og lige pludselig gav langt mere mening.
+
+00:30:38
+Skal vi tage den næste eller hvad?
+
+00:30:44
+Og hvis man zoomer lidt ind og kigger på hvad Det er vi kan se.
+
+00:30:49
+Når vi når vi kigger lidt nærmere på Vores byer, jamen.
+
+00:30:51
+Altså så er det cirka det her billede.
+
+00:30:53
+Som vi kan se nu, og det går jo også ud om i det åbne land. Vores oversvømmelserskort.
+
+00:30:59
+Så.
+
+00:31:01
+Man kan få både ligesom det store billede, men man kan også zoome ind og få et detaljeret billede, hvis Der er områder man gerne vil undersøge nærmere om, hvordan det forholder sig. Og en af de ting, jeg bemærker, når jeg screenet igennem kommunen med Vores nye oversvømmelseskort. Det er blandt andet, hvor fint Vores planafdeling har friholdt de her store blå kilder, hvor byudvikling, som ikke står med den her problematik.
+
+00:31:28
+Nu har vi brugt den 30 mm Netto nedbør her. Jeg har sammenlignet selvfølgelig med med de data vi havde tilbage fra 13 og og 14 og Det er et et meget sammenligneligt billede vil jeg sige, som jo er baseret på nogle meget avancerede mike modeller fra dengang, hvor vi nu ligesom får et et nyt datakrundlag som både inkluderer.
+
+00:31:52
+Bydelen men så også det åbne land.
+
+00:31:55
+Det synes Jeg har været enormt gavnligt.
+
+00:31:58
+Skal vi tage den næste?
+
+00:31:59
+Det er den.
+
+00:32:03
+Så et af de ønsker, vi havde i kommunens.
+
+00:32:07
+Politiske niveau jamen Det var. Kunne vi lige få kigget på hvordan at de her oversvømmelser II klimafondningerne ville påvirke Vores biodiversitet og et af de områder, som poppede stærkest ud, da vi lavede den øvelse. Det var et område herude ved kloster fælled omkring gammel ry, som jeg husker det, hvor at det man kunne se Det var, at de områder, som egentlig bliver overført svømmere, Det var.
+
+00:32:30
+Nogle områder, som var meget robuste overfor de her oversvømmelser, og Det var der, hvor naturværdierne de også var høje. Så på den måde, så var det egentlig et rigtig godt argument for at friholde nogle af de her lavtliggende områder TV områder.
+
+00:32:46
+Så så det tænkte jeg. Det var super genialt at vi kunne få det svar også med de her oversvømmelser korte.
+
+00:32:52
+Skal vi tage den næste op?
+
+00:32:58
+Ja altså skal man lave en eller 2 form for opsummering på det materiale i forhold til oversvømmelser, som vi så har her i kommunen? Jamen jeg plejer at omtale det som om at det som at tage briller på, når man siger at Der er nærmest 2 det i forhold til blues bot lige pludselig så ser man et et langt tydeligere billede af. Jamen hvordan er oversvømmetserne de kunne fordeles her i kommunen og det altså.
+
+00:33:19
+Det er jo selvfølgelig lidt en ny tilgang til til det her.
+
+00:33:22
+Og det skal man jo nok have noget tid til, ligesom at inkorporere ordentligt. Det er jo en lang proces Sådan noget der.
+
+00:33:29
+Men mit bud er at vi nu står med et solidt datagrundlag på oversvømmelser siden til planlægningsarbejde i de kommende år.
+
+00:33:38
+Indtil man måske om en årrække vælger at gå ind og så lave nogle nye patienter på de klimafremskrivninger, som skal udarbejdes baseret på, hvordan det går med reduktionerne ICO 2 området.
+
+00:33:50
+Yes jamen det tror jeg Sådan set var det.
+
+00:33:52
+Tilbage til renteformand.
+
+00:33:54
+Tak for det Jacob. Spændende at høre om og nu er det jo sikkert mange af jer der sidder derude eller nogen af jer der sidder derude og tænker hvordan kom man ind overhovedet i gang med Sådan en øvelse her er det ikke ret svært og vanskeligt og Sådan i Vores optik, Der er det faktisk ikke så vanskeligt at komme i gang selv, så Vi har lavet Sådan en lille spiseseddel her for hvordan man kan komme i gang her. Vores opskrift på eller anbefalinger om i vil.
+
+00:34:21
+Og Det er simpelthen 3 enkle skridt man skal tage og det første. Det er selvfølgelig i skal prøve at identificere. Har vi overhovedet nogle fugler II Vores område Der er det noget Vi skal bekymre os om.
+
+00:34:34
+Og Det kan man selv gøre ved at køre 100 års skybrudsendelse igennem på hele området. Man er interesseret i, at hele kommunen eller de psykologiske opblandet, man er interesseret i. Det kan også være en 50 år.
+
+00:34:47
+Det bestemmer man jo Sådan set selv, men når man har gjort det, så kan man så regne på skaderne, der måtte være i området svarende til den hændelse der. Og igen er det ikke Vores anbefaling, at man starter med det store forkromede for eksempel.
+
+00:35:01
+Tager alle de her mange parametre med man kan tage i de forskellige skills modeller her. Man starter meget simpelt for at få en en idé om, hvor er vi henne II verden her og så sammenligner man simpelthen med resultaterne fra de eksisterende kort, man man har her for at finde ud af hvor hvor. Hvor står vi så henne?
+
+00:35:23
+Og Det kan jo godt være at den øvelse der den siger jamen den kan jo gå 2 veje enten kan i jo konkludere jamen Vi har ikke nogen der minder om foleområdet her, så kan i jo så sove trygt om om natten der.
+
+00:35:38
+Velvidende at i har gjort et udmærket stykke arbejde, der så i er nogenlunde på den sikre side, men Det kan jo også godt være i finder et eller flere områder som måske.
+
+00:35:49
+I risikoszonen der og så kan i jo lade dem indgå i jeres planlægning fremadrettet, så det vil være en relativ overkommelig opgave også at tage det næste skridt, hvis Det er det II ønsker.
+
+00:36:05
+Hvor i kan gå videre og så med den her model i nu har fået sat op. Jamen, hvad er det for nogle fremtidige scenarier, vi kigger ind i? Hvad er det for nogle forskellige skitseforslag, man man kan begynde at se på der?
+
+00:36:19
+Og så ultimativt, så kan man jo regne et eller flere løsningsforslag igennem igen og til den her bekendtgørelse 2-76. Hvis Det er det i ønsker. Men Det er jo noget i selv bestemmer i ønsker i bestemmer selv hvor langt i ønsker at gå, og Det er bestemt ikke nødvendigvis give, at man skal øge for eksempel det generelle serviceniveau i området.
+
+00:36:40
+Ofte der kan man ved nogle simple lokale tiltag i reducerer risikoen for.
+
+00:36:44
+Oversvømmelse i et opland ganske betragteligt, så hvis Vi skal prøve at sammenfatte her afslutningsvis dens sektor her, jamen, så kan vi anbefale det i at komme med 3 anbefalinger. Den første Det er måske ikke så overraskende, at Vi er ansat vil anbefale dynamiske modeller i relation til klimatilpasningsprojekter.
+
+00:37:08
+Det andet Det er, at man skal bruge sin sunde fornuft og også lovkrav, for det vil sige benytte integreret modeller baseret på hydrologisk fastlagte opland. Og Det er vigtigt med det sidste også, men det står faktisk også i bekendtgørelse 2076, at Det er det man skal gøre.
+
+00:37:27
+Og til sidst så kan vi jo bare konstatere eller konkludere at det det faktisk er overkommeligt at komme i gang med at integrerede modeller.
+
+00:37:36
+Så med de her 3 boligtserier, så tror jeg faktisk at de vil afslutte. Nu vil jeg da lige høre om Jacob eller bo har nogle sidste kommentarer. Ellers er vi vist klar til at tage nogle spørgsmål.
+
+00:37:50
+Det er fint. Det er ikke noget for mig.
+
+00:37:52
+Jakob.
+
+00:37:55
+Nej nej, men Det er fint. Lad os hør nogle spørgsmål.
+
+00:37:59
+Theis så har vi nogle spørgsmål?
+
+00:38:01
+Det har vi i hvert fald først og fremmest. 1000 tak erland Jørgen og Jacob for en rigtig spændende tik tok. Jamen Vi har fået 3 spørgsmål nu her, og Der er stadigvæk mulighed for at stille spørgsmål og dem vi ikke når i de sidste 7 minutter her.
+
+00:38:12
+Dem har jeg aftalt med erland Jørgen og Jacob, at dem vil de svare på, og så skal de nok vende tilbage i forhold til at besvare alle spørgsmålene. Men der første spørgsmål, Det er kommet fra Cecilie og hun spørger, hvordan fordeler i vandet fra de enkelte?
+
+00:38:24
+Afløbsoplandet på overfladen.
+
+00:38:26
+Er det på enkle brønde samlet i lavninger?
+
+00:38:30
+Nej, den måde vi vi håndterer det på. Det er at Det er ligesom eksfiltration, det vil sige det modsatte af en infitration, og vi endfiltrerer fra alle befæstede områder. Det er typisk varige parkeringspladser og så videre, når vandet skal op på overfladen igen, så fører vi det op de samme steder.
+
+00:38:49
+Det vil sige på alle de befæstede områder.
+
+00:38:53
+Skal vi sige Det kan være at Cecilie mente at hvordan fordeler vi regnvandet, når når nedbøren rammer, og der kan vi sige, at for Vores vedkommende så kommer alt vand via terrænet.
+
+00:39:06
+Så vi vi lader det regne på på terrænet, og så lader vi vandet løbe derfra til det kommer hen til et befæstet område, hvor det så kan søge ned i kloakken. Dongtavandet fører vi direkte ned i pointsystemet.
+
+00:39:18
+Og udenfor de befæstede områder, der har vi almindelige nedsivning II modellen.
+
+00:39:23
+Ja som kan være tidssted.
+
+00:39:28
+1000 tak og så håber jeg udtaler navnet rigtigt migte.
+
+00:39:35
+Hun har et spørgsmål, hvordan sikrer i at vandet får afløbssystemet stuer op på terræn de rigtige steder, når i ikke har hele afløbssystemet med i beregningen?
+
+00:39:45
+Ja det gør vi Sådan set heller ikke. Altså det det den måde vi håndtere det på er som sagt, at vi inddeler et område i de her deloplande, og så antager vi at vandet Det kan infiltrere for de befæstede områder der og på samme måde så x filtrerer det, så Det er ikke Sådan, at vi kan differentiere fra de enkelte brønde i et deakt. Så er man nødt til at underinde sit deler bland.
+
+00:40:11
+Men Det kan man jo så gøre. Altså man kan få den opløsning som man ønsker i det her. Men Det er klart, at hvis man går ind og og laver en meget høj opløsning, så nærmer man sig nok til, at Det er lige så godt kunne betale sig bare at køre en række af den flot.
+
+00:40:23
+Ja.
+
+00:40:25
+Altså der II. Teorien er der jo ikke noget i vejen for at man tager Vores afløbsmodel og inddeler på de enkelte rørstrækninger, men så er man som bo siger over i en egentlig mai-køkken.
+
+00:40:39
+1000 tak så har Simon det spørgsmål afløbssystemets faktiske kapacitet overholder i virkeligheden ikke altid forudsatte serviceniveau som for eksempel TV med 10. Hvordan tages højde for dette, når der simplificeres så meget i en uploadet MU model?
+
+00:40:56
+Ja rigtig godt spørgsmål. Altså den måde vi angriber det på er at vi vi tager de informationer der ligger i mikeburden databasen.
+
+00:41:07
+Og Det er klart, hvis Der er ukorrekte informationer i den, jamen, så vil de også blive. Hvad skal man sige implementeret II Vores model, så Vores model bliver jo ikke bedre end den majorten model man har præsteret den på.
+
+00:41:21
+Så kan man sige, når det gælder serviceniveau modellen, så er der jo ikke noget der tilsiger. Vi skal bruge det som officielt er serviceniveauet. Hvis hvis Det er officielt er 10 år.
+
+00:41:33
+Hvis nu forsyningen eller kommunen kan fortælle os. Den er nok kun 7 år, så bruger vi selvfølgelig det, men det det kræver Der er noget erfaringsmateriale man kan man kan bygge på.
+
+00:41:44
+1000 tak så har bo et spørgsmål er det muligt? Jo Jeg tror faktisk Der er kommet 2 spørgsmål fra bono vi tager det første først. Her er det muligt at få resultater omkring vandbevægelse og hastigheder på terræn.
+
+00:41:57
+Ja.
+
+00:41:58
+Altså det vi typisk altså vi vi gemmer ligesom i mikemodellerne man man gemmer det der hedder vanddybde og så de 2 horisontale fluer udover det så regner vi statistikkerne ud også ligesom man gør i mig modellerne. Det vil sige du får maksimale vandstand gennem hele simuleringsperioden og du får den maksimale hastigheder igennem, altså strøm hastigheder i kan en hel periode og hvornår de indtræder og så videre.
+
+00:42:23
+Så det får man jo også med, så man får også sine strømningsvarige ud fra Vores 2 d model.
+
+00:42:29
+Tak så havde bo et spørgsmål nummer 2 som er kan i sige noget om beregningstiden ved brug at der Der er nemlig ikke 2 d versus for eksempel mike 21 21 21 FM.
+
+00:42:42
+Konceptet bagi dynamic 2 d minder meget om den klassiske mike 21, så Det er nogenlunde de samme regnekastigheder, man man vil finde. Der vil jeg tro.
+
+00:42:55
+FN er lidt mere vanskeligt at udtale sig om, fordi der opererer man på et andet net. Det vil sige nogle nogle trekantelementer.
+
+00:43:05
+Altså det det vi kan sige. Det er jo også at det det bordellen regner.
+
+00:43:11
+Noget der ligner 2 mio. punkter per 6 sekunder, så kan man så stille sig til spørgsmål hvor hvor mange punkter har man så i sin model og hvor længe skal man så simulere? Det?
+
+00:43:21
+Afhænger selvfølgelig af Det er hardware man man man også kører på, men de her 2 mio. Det er for eksempel på bogs laptop computer.
+
+00:43:31
+Så Det kan give lang regningstid, og det kom lidt an på opløsningen og så videre.
+
+00:43:36
+Det er derfor vi for eksempel i Skanderborg blev enige med Skanderborg Kommune om, at vi satte en model op for Skanderborg Kommune med en opløsning på 160 cm.
+
+00:43:48
+Og Det er også derfor, at Skanderborg Kommune blev delt op II de her 36 deleoplande, som er i de 15 opblandet, som blev beregnet hver for sig.
+
+00:43:59
+1000 tak jamen ved du hvad? Der er ikke flere spørgsmål, og Vi er også ved at løbe tør for tid, så det passer jo perfekt sammen, så Jeg vil meget gerne sige tak til erland Jørgen og Jacob for en spændende check tok og som altid kan i finde denne og ældre tik toks på dann ks hjemmeside og her kan i også finde de kommende arrangementer i klimakalenderen. Og hvis nogen af jer kunne tænke jer at afholde en tiktok, skal i indtage fat i maj eller en 2 for det her.
+
+00:44:19
+NK så på vegne af DNANNK 1000 tak Jørgen erland og Jacob.
+
+00:44:26
+Ja tak.
+
+00:44:27
+Ja selv tak.
+

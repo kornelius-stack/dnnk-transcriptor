@@ -1,0 +1,1350 @@
+00:00:05
+Godmorgen og velkommen til denne her Godmorgen med DNNK.
+
+00:00:11
+Mit navn er Cornelius Pahls, og jeg arbejder som sekretær for det nationale netværk for klimatilpasning.
+
+00:00:18
+Jeg vil gerne byde alle sammen velkommen til denne her webinar-følgetong, som kommer overordnet set til at handle om tørke og hede, hvor vi i dag vil dykke ned i klimatilpasning af naturtyper, herunder tørke og stigende vandtemperaturer i vandløb.
+
+00:00:38
+Det vil blive præsenteret af Annette Boddrup-Pedersen fra Aarhus Universitet og NIRAS.
+
+00:00:46
+Med lige en kort introduktion til indholdet i dag, så er det, at med de her klimaforandringer, så bliver tørkeperioder hyppigere og længere.
+
+00:00:57
+Det skaber de her udfordringer for naturetskyber, som heder, enge og skoveområder, som samtidig medfører stigende temperaturer i et vandløb, og det gør så, at vandløbene opvarmes, og det ændrer vandkvaliteten og skaber ugunstige forhold for mange arter.
+
+00:01:18
+Som nævnt er Annette Bortrup-Pedersen fra NIAS og Aarhus Universitet, og hun vil give sine perspektiver på klimatilpasning af de her naturtyper og vandløb.
+
+00:01:32
+Webinaren ud over i dag har vi den 11. oktober.
+
+00:01:39
+Hjørne Olsen kommer og fortæller om tørke- og klimatilpasning i landbruget.
+
+00:01:47
+Efter det har vi en række, som I også gerne skulle have fået en mail om.
+
+00:01:53
+Ellers kan I gå ind på hjemmesiden og se de forskellige webinarer. Der er den 24.
+
+00:01:57
+oktober om data landindvinding, og så er der den 30. oktober om vandforvandling i praksis, den 6.
+
+00:02:05
+november om hede i byer, og så den 20. november om tørke- og grundvandstand.
+
+00:02:11
+Men inden jeg giver ordet videre, så vil jeg gerne opfordre alle sammen til at stille spørgsmål og komme med kommentarer undervejs.
+
+00:02:19
+Jeres kamera og mikrofon er slukket, men I er meget velkommen til at stille spørgsmål i chatten, og så skal jeg nok sørge for, at de bliver stillet efter oplægget.
+
+00:02:29
+Webinaret vil også blive optaget.
+
+00:02:34
+Og efterfølgende vil det blive lagt ud på vores hjemmeside og YouTube-kanal.
+
+00:02:40
+Men ellers så vil jeg egentlig bare give ordet videre til oplevelseholderen, Adette.
+
+00:02:46
+Og sige tusind tak, fordi du ville komme og fortælle om det her.
+
+00:02:54
+Ja, selv tak, Cornelius. Det er rigtig fint, og tak for introduktionen.
+
+00:02:59
+Ja, for sådan en biolog som mig, og man får mulighed for at tale om mange naturtyper og effekter af tørke og de klimaforandringer, vi ser, så har jeg alligevel valgt at sige, at jeg bliver nødt til at dykke ned i en, fordi godfriheder over ingen grundvandsafhængige naturtyper på land og så vandløbende, som jo også er en grundvandsafhængig naturtype, det blev bare for meget.
+
+00:03:23
+Så jeg har valgt at fokusere på vandløb, og så kan det ske, at jeg får en lejlighed til at fortælle lidt om, hvad det betyder for andre natursjov.
+
+00:03:30
+Men det var så mit valg i dag. Og... Lidt forsinkelse på mit skifte her.
+
+00:03:54
+Det, jeg vil komme omkring i dag, er lidt omkring vandføring, tørke og de biologiske samfund.
+
+00:04:00
+Så vil jeg give nogle eksempler på tørke og stigende temperatur i danske vandløb.
+
+00:04:06
+Og også på, hvordan det kan påvirke de biologiske samfund.
+
+00:04:13
+Til sidst vil jeg prøve at perspektivere det ind i forhold til vores klimaforandring, vandforbrug og hvordan vi kan tilpasse vores forvandling, så vi måske kan afbyde effekterne af de her klimaerforandringer i vores vandløb.
+
+00:04:26
+Det håber jeg rammer, hvad I sidder derude og må på. Allerførst vil jeg vise en vandføringskurve.
+
+00:04:39
+Det kan ramme lidt ved siden af, for nogle af jer er vant til at kigge på data, men jeg har den erfaring, at det er godt at starte samme sted.
+
+00:04:47
+Det her er en vandføringskurve, som man kan kigge på, når man går ind på dataforsyningen.
+
+00:04:53
+Den viser variationen i vandføring i et vandløb over tid. Det er det, jeg udtrykker for vandføring.
+
+00:05:01
+Hvor mange kubikmeter per sekund passerer et givet sted i det her vandløb.
+
+00:05:07
+Så får man en idé om, hvor meget vand kommer der egentlig. Jo højere vandføring, jo større vandløb.
+
+00:05:16
+Som regel er jo mindre vandføring, jo mindre vandløb.
+
+00:05:20
+Sådan en vandføring i et vandløb, altså den mængde vand, der kører igennem et vandløb, den er egentlig både bestemt af noget overfladeafstrømming, som er relativt til nedbørret, og så er der så også et grundvandsbidrag til vandføringen.
+
+00:05:37
+Den her grundvandsudstrømming er faktisk ret væsentlig, og især når vi snakker perioder med at ringe nedbørst, så er det ligesom der, hvor vi skal buffre og sikre, at der stadigvæk er vand til de vandlivende organismer.
+
+00:05:51
+Og så er der også ydermere den ting, at det grundvandsbidrag, der er til vandløbet, det har en anden vandkemi end overfladevandet, altså nedbørsvandet.
+
+00:06:03
+Og det betyder, at det også på den måde kan spille en rolle for de biologiske organismer.
+
+00:06:08
+Så vi har et system, hvor vi har en variation i en vandføring over tid, og vi har en kombination af noget vand, der har lidt forskellige egenskaber og dermed også giver lidt forskellige betingelser for de biologiske organismer.
+
+00:06:23
+Hvis vi nu prøver at zoome ind på den her figur, og så tænker det over i noget mere konceptuelt, så har jeg taget den her figur med, fordi jeg synes, den på mange måder meget godt illustrerer de her forskellige elementer, der spiller en rolle, når vi taler vandføring og de biologiske samfund i Vandø.
+
+00:06:44
+Der er tale om fire principper. Prinzip 1, 2, 3 og 4.
+
+00:06:49
+der på forskellige måder integrerer noget omkring den her kurve, altså den her vandføring i vandløbet.
+
+00:06:56
+Discharge er det engelske ord for vandføring.
+
+00:07:00
+Og der kan man se, hvis man kigger på det første princip her, så de her meget høje vandføringer, altså den her forskel, er faktisk meget afgørende for, hvordan de fysiske forhold bliver i vandløbet.
+
+00:07:12
+Og de fysiske forhold er jo det, man kan sige helt basalt set er afgørende for, hvad det er for et levested, vandløbet er for de vandlevende organismer.
+
+00:07:23
+Så selvfølgelig er det meget afgørende, om vandløbet har meget vand eller har lidt vand, og hvor stor variation der er i den vandmængde.
+
+00:07:32
+Det betyder også noget for kompleksiteten i habitaterne, fordi når vi først har et vandløbsprofil med en vis mængde vand, så variationen i vandet betyder noget for, hvor stor strømhastigheden bliver.
+
+00:07:44
+så har vi en meget variabel strømhastighed i vandløbsprofilet, og så har vi mere varieret habitatforhold, altså livestedsforhold.
+
+00:07:51
+Hvorimod hvis vi hele tiden har den samme vandføring, så er det meget ensagtede strømforhold.
+
+00:07:57
+Så det betyder noget, og så har vi endelig noget omkring forstyrrelse af habitaterne, og forstyrrelse, når vi snakker biologiske økosystemer, er som regel godt.
+
+00:08:05
+Forstyrrelse her, det er jo hvor store omlejringer der er af vores sediment på bunden, som alt sammen emitterer.
+
+00:08:12
+både at understøtte habitater, men også bidrage til variationen i habitaterne.
+
+00:08:16
+Så det er afgørende for den biotiske diversitet. Næste princip handler lidt om livshistorie.
+
+00:08:25
+Fx gydning hos fisk og rekruttering. Der har jeg taget et lille eksempel med for øjet.
+
+00:08:31
+Nu fremhæver jeg øjet sammen med organismer, men alle biologiske organismer i vandløb har en eller anden form for tilpasning til vandføringsregimen.
+
+00:08:40
+altså den her variabilitet, der er i vandføringen over tid.
+
+00:08:44
+Hvis vi kigger lidt tættere på øret, så kan vi se, at det, der faktisk er signal for øret til at begynde at vandre op i vandløbene for gyde, det er faktisk noget omkring, at vandføringen stiger, fordi så er den sikker på, at der er vand hele vejen op til gydeområdet, og så også, at der er en faldende temperatur.
+
+00:09:01
+Og når der så er en fossile vandføring, altså den ved, hvad den reagerer på, så sikrer den også, at den kommer op til noget, hvor den faktisk kan gyde, hvor der er nogle intakte gydeområder, og hvor vandniveauet er passende.
+
+00:09:13
+Temperaturforholdet er afgørende for, hvornår den gyder, og den her forudsigelighed i temperaturen gør selvfølgelig også, at det hele bliver timet korrekt, så når den kommer op, så er der den rigtige mængde vand, temperaturen er den rigtige, og gydeområdet er intakt.
+
+00:09:28
+Og så er der også noget omkring den kemiske sammensætning, der så også spiller.
+
+00:09:32
+Og så har vi denne gode jævne ildtilførsel, som sikrer, at de her æg overlever og kan blive til ørede ømel.
+
+00:09:39
+Så I kan godt se, at der er mange ting, der på en eller anden måde skal spille sammen og falde sammen tidsmæssigt, for at denne her bliver 100% succesfuld med sin gødning.
+
+00:09:48
+Og som jeg siger, det her princip gælder også.
+
+00:09:50
+Vi kan tage nogle plantearter, hvor det er deres knubber eller deres brændingsenheder, der skal times.
+
+00:09:57
+Eller det kan være en døgnflue, som også skal time sin livscyklus i forhold til denne her vandføring.
+
+00:10:02
+Det er ligesom fundamentet for de her organismer, at vandføringen har et mønster, som er kendt.
+
+00:10:08
+Så er der også nogle sammenhænger, og det er det princip 3 på langs og på tværs i vandløbet, der gerne skulle være intakte.
+
+00:10:16
+Sådan at for eksempel en oversvømmelse er for usigelig, så det kan være en art, som en gedde kan komme op og finde ro med lavvandet, hvor der er stille vand.
+
+00:10:28
+Den kontinuiteten på langs, er selvfølgelig naturligt, fordi den skal kunne vandre nedstrøms og så op i systemet.
+
+00:10:37
+Og så er der faktisk også en del forskning, der viser, at når vi begynder at bryde de her mønstre, så er der faktisk spillerup for de invasive arter.
+
+00:10:46
+Så kommer de lettere og i højere grad i spil i de her vandløb.
+
+00:10:50
+Så det var lige sådan en indføring biologisk set.
+
+00:10:53
+Hvorfor snakker vi vandføring, og hvorfor er vandføring og vandføringsregime, som vi kalder den her variabilitet i flov, så centralt for de biologiske organismer?
+
+00:11:02
+Jeg vil give nogle eksempler på, at det er et fænomen i danske vandløb, at de er begyndt at tørre ud.
+
+00:11:07
+Begyndt siger jeg, at jeg ikke ved meget om det.
+
+00:11:10
+Jeg tror ikke, at nogen har forsøgt at spore sig ind på det her i Danmark, og hvor stort er det her problem.
+
+00:11:16
+Vi har haft muligheden for et større projekt i Astens Kommune, hvor vi har kigget på 65 vandløb, og har haft kontinuerligt lukning af vandstanden i en del af de vandløb.
+
+00:11:25
+Vi har lavet noget oplandskorrektion, så vi har vandføringsdata fra fire år, enormt desalveret data i bittesmå vandløb.
+
+00:11:38
+Mange af vores permanente vandføringsstationer sidder ved større vandløb, og der er risikoen for udsøgning ikke nær den samme.
+
+00:11:45
+Hvis vi kigger på de 95 vandløb, så viser det sig, at 24 af de her vandløb oplever perioder, hvor der slet ikke er vandføring i vandløbet.
+
+00:11:54
+Hvis I kigger på den her lille figur, så er den fra Balleløbet, et af vandløbene i kommunen, hvor I kan se, at de lyseblå søjler markerer perioder, hvor der slet ikke er vandføring.
+
+00:12:04
+Det er sammenfald, men hvor den mørke blå rammer nul.
+
+00:12:08
+Så I kan se, at der er lange perioder, hvor der ikke er vand i det her vandløb.
+
+00:12:15
+Den røde kurve illustrerer samtidig temperaturen, så I kan se, at vi får også meget høje maksimaltemperaturen i vandløbet.
+
+00:12:21
+Faktisk helt op over 25 grader en af dagene. Det er det samme, som Kim har sammenfattet.
+
+00:12:29
+Det er en specialstuderende, som er i gang med at arbejde med de her data.
+
+00:12:32
+Hun har lavet den her lille figur, hvor hun har beskrevet, hvor mange dage vi har ingen vandføring i det her vandløb.
+
+00:12:38
+I 19 kan vi se, at vi rammer mere end 100 dage. På de øvrige år er det lidt lavere.
+
+00:12:44
+Så er vi oppe omkring de her over 50 dage i 2022.
+
+00:12:48
+Samtidig kan vi se, hvor lang varigheden er af de her.
+
+00:12:52
+Eller hvor mange gange vi bliver ramt af nul vandføring. Hvor det så er over 10 gange.
+
+00:13:00
+Jeg rammer nærmest 15 gange her i 19.
+
+00:13:03
+Så rigtig mange gange, hvor vi ikke har vandføring i det her vandløb.
+
+00:13:08
+Ja, og temperaturen har jeg ligget omkring. Det var et af vandløbene.
+
+00:13:13
+Hvis vi så lige kigger på, for at I lige får en idé om de andre, så kan I se, at der er meget stor variation.
+
+00:13:19
+i hvor hyppigt og hvor længe de her varigheder eller perioder med udtøjning af vandløbene er.
+
+00:13:26
+Selvom de ligger inden for et snært geografisk område. Så kan man tænke, hvorfor må det?
+
+00:13:32
+Det kan der være mange gode svar på, men det vil jeg ikke komme ind på nu.
+
+00:13:35
+Der er en stor varieabilitet, selvom vi er inden for et meget snært geografisk område.
+
+00:13:41
+Et af vandløbene oplevede en udtøjning på mere end 100 dage.
+
+00:13:45
+Det er tre fulde måneder, vi snakker om.
+
+00:13:49
+Godt, det var sådan lidt, nu har vi ligesom sagt, hvorfor er vandføring vigtig.
+
+00:13:53
+Vi har dokumenteret, at lav vandføring findes i danske vandløb, og er nok mere udbredt fænomen, end vi måske har tænkt det var, eller i hvert fald jeg blev overrasket.
+
+00:14:02
+Så nu vil jeg illustrere, hvordan påvirken kan være for de biologiske samfund, sådan mere, kan man sige, hvis vi forestiller os vandføring, eller ændre i den som sådan en en stressfaktor eller en stressaggradiens.
+
+00:14:23
+Den er vist her på x-axen, hvor vi kan forestille os, at her er der ikke nogen ændringer i vandføringsregimet, og her er der et højgrad modifikation af vandføringsregimet.
+
+00:14:33
+Og så kan man sige, at de biologiske samfund, i hvor høj grad er de så påvirkede, her har vi så naturligt, det vil sige i svaren til ikke nogen påvirkning, og her er der så fuldstændig påvirkning i så høj en grad, at man kalder det degradet på engelsk.
+
+00:14:47
+Jeg kan næsten ikke lige finde dansk ord, men det giver vist sig selv.
+
+00:14:51
+Og så er der så de her tal, der indikerer, hvor høj grad påvirkningen, hvor stor er påvirkningen fra 1 til 6.
+
+00:14:58
+Og figuren, der ligesom binder det sammen.
+
+00:15:01
+Og her ved 1, der er der så ikke nogen påvirkning, så der har vi nulunde naturlige, eller vi har naturlige forhold.
+
+00:15:07
+Det vil sige, vi har de samfund, som vil være under uforstødet forhold.
+
+00:15:12
+Så kan I se, at der ikke sker så hurtigt en forandring her i starten.
+
+00:15:15
+Der kan man godt påvirke lidt, uden der er den helt store effekt på de biologiske samfund.
+
+00:15:20
+Man kan godt miste nogle få arter, og der kan ske en lille smule ændring i dominansforhold, men det er meget minimalt.
+
+00:15:29
+Så når vi kommer herned, så sker der noget mere, og især i det her område mellem 3 og 4, der sker der meget store ændringer.
+
+00:15:36
+Der begynder vi for alvor at miste arter, og det er de følsomme arter, der forsvinder.
+
+00:15:42
+Det med bare til art er et rigtig dårligt mål for, hvor sundt og godt et vandløb har det.
+
+00:15:47
+Der er nogle arter, der er følsomme, og så er der nogle, der er robuste.
+
+00:15:51
+Det er de følsomme, der forsvinder først.
+
+00:15:53
+Så et system er faktisk mest følsomt, der hvor stressen er lille.
+
+00:15:57
+Når vi rammer de der 2-3, fra 2 til 3, og så ned mod 4, hvorimod I kan se, at når vi først er nede og påvirker en del, så sker der egentlig ikke så meget mere.
+
+00:16:07
+Det er faktisk vigtigt at have i baghuden, at når vi først har forstyrret et system, rigtig meget, så er det lige for jer, som biolog, at sige, at så er det bedre at forstyrre lidt mere der, end at begynde at forstyrre et nyt system, fordi vi netop har den her sammenhæng.
+
+00:16:21
+Samtidig med, at vi ser de her ting, når vi snakker biodiversitet eller det biologiske samfund, så er der også nogle funktionelle karakteristik, der vil ændres i de her vandløb, respiration, fotosyntese, altså produktion, Sådanne ting begynder også at ændre sig undervejs.
+
+00:16:40
+Her er det mere for at sige, at det er også en del af det, der understøtter de biologiske samfund, så det spiller selvfølgelig også en rolle, og også koblet op til de økosystemtjenester, som vi normalt forholder os til, når vi snakker vandløb, blandt andet omsætning af kvælstof, så vi begrænser udvasningen til havet.
+
+00:16:57
+Så zoomer jeg lidt ind på to projekter, vi har lavet tidligere, da jeg kun var på Aarhus Universitet.
+
+00:17:04
+hvor vi har lavet nogle eksperimentelle studier.
+
+00:17:07
+Hvad sker der, når vi fjerner noget vand fra et vandløb?
+
+00:17:10
+Det var Vålbæk og Sandevandsbæk, begge to engang med Silkeborg.
+
+00:17:14
+Det er to forskellige slags vandløb, hvor det ene vandløb er beliggende i et opland, der er domineret meget af landbrug, og hvor det andet er mere upåvirket.
+
+00:17:24
+Helt upåvirket vandløb har vi jo ikke i Danmark, men i hvert fald langt mere upåvirket, og det kan I også se på de her tal.
+
+00:17:29
+Der er dels relativt sammenlignelse i størrelse med deres vandføring, og det er en middelvandføring.
+
+00:17:35
+Og så et nitratindhold og et fosforindhold, hvor I kan se, at fosforindholdet og nitratindholdet er lavere i sandemandsbækken end deroppe i volebækken, hvor det er relativt højt mod nitratindholdet.
+
+00:17:48
+Fosforindholdet er ikke specielt højt.
+
+00:17:51
+Så skabte vi simpelthen rent fysisk, lavede vi, og det er også utroligt, at vi måtte det, fordi det var nok ikke gået igennem miljøvurdering.
+
+00:17:58
+Men vi fik faktisk lov til at lave sådan en Vi havde lavet en fysisk modifikation af vandløbet, så vi fjernede hovedparten af vandet fra hovedløbet.
+
+00:18:08
+Vi lavede det i sådan en design, så vi havde strækning, opstrømst og kontrol.
+
+00:18:14
+Så fjernede vi noget af vandløbet ved at lave et omløb, hvor vi havde vores egentlige forsøgstrækninger.
+
+00:18:20
+Der havde vi tre forsøgstrækninger. Dels noget, vi kaldte stagnerende.
+
+00:18:24
+Det var der, hvor vi havde reduceret vandføring.
+
+00:18:27
+Vi havde stadig det samme vandløbsprofil, så det svarer til den naturlige situation.
+
+00:18:31
+Hvor vi reducerede mængden af vand, og det betød, at vandet blev stagnerende.
+
+00:18:36
+Strømhastigheden ændrede sig, og vandet blev mere stillestående.
+
+00:18:40
+Vi havde også et sted, hvor vi delte helt udtørret, hvor vi kun havde vand i små depressioner på vandløbsbunden.
+
+00:18:51
+På den måde havde vi skabt forskellige typer af forhold.
+
+00:18:56
+Vi kiggede på, hvordan det ser ud, Både i forhold til fysisk-kemiske data eller forhold, og så også i forhold til de biologiske forhold.
+
+00:19:07
+Og det vi så, I kan se de to vandløb her, de er illustreret her i den her figur.
+
+00:19:12
+Dels har vi det impactede, altså bålbæk herovre, og så sandemandsbækken her nedenunder.
+
+00:19:20
+Og den her linje, det her er sådan en effekt-size, kalder vi det.
+
+00:19:25
+Det er sådan en, der måler forskellen, måler op imod kontrol.
+
+00:19:28
+Så I skal forestille jer, at den her linje, der kører vandret her, det er kontrolssituationen.
+
+00:19:33
+Noget, der ligger oven i kontrol, vil sige, at der ikke er nogen effekt af vores forsøg.
+
+00:19:37
+Vores forsøg starter her.
+
+00:19:38
+Hvis det ligger under eller over, så er der en effekt i forhold til de parametre, vi har kigget på.
+
+00:19:45
+Parametrene er tegnet herude.
+
+00:19:48
+I kan se, at noget af det, vi kiggede på, var pH, det var opløst ild, det var ledningssævne, det var vandhastighed, det var vanddybde og det var temperatur.
+
+00:19:57
+Og så Det her er så vores before-periode.
+
+00:20:03
+Det er, fordi vi gerne lige vil sikre os, at de her tre strækninger, hvor vi laver tingene om, ligner det en eller anden i udgangspunktet.
+
+00:20:10
+Det er ret stærkt statistisk design, når man så bagefter skal analysere data, og det gjorde det.
+
+00:20:14
+Så startede vi vores forsøg, ændrede simpelthen vandføringen, og så havde vi de her tre situationer etableret med drought, pool og stagnant.
+
+00:20:25
+Og det havde vi i begge vandløb, I kan se, at det, der sker i begge vandløb, det er, at vi får mere af det finegrunde organiske materiale, ophubet på vandløbsbunden, som forbruger ild.
+
+00:20:40
+Og så så vi også, at temperaturen steg.
+
+00:20:45
+Hvis I tænker lige tilbage på min lille fortælling om øret, så kan I godt se, at begge af de her forhold har selvfølgelig betydning for øret.
+
+00:20:51
+Fordi dels får vi aflæring af sediment på bydeområderne, Hvis vi forestiller os, at der var det, når vi får polaring af fint organisk stof.
+
+00:21:02
+Temperaturen spiller en rolle både for bydning, men også for egnes og fiskenes overlev til efterfølgende.
+
+00:21:10
+Det er dels fordi, vi har et stigende temperatur som funktion af klimaet, men også fordi ildens opløslighed i vand ændres med temperaturen.
+
+00:21:19
+Så man kan sige, at der er en dobbeltop på det.
+
+00:21:21
+Det er det, jeg har taget ind i den her lille figur, hvor I kan se, hvordan den virker.
+
+00:21:26
+Så kiggede vi både på vandløbsfiskesamfund, vi kiggede på plantesamfund, og vi kiggede på smådyrsamfundene.
+
+00:21:34
+Og fordi jeg kun har 40 minutter i dag, så har jeg valgt at fokusere kun på et af elementerne.
+
+00:21:42
+Og det blev så smådyrene. Og det siger I lidt.
+
+00:21:46
+I skal forstå figuren på samme måde som den forrige figur. Vi har kontrollinjen her.
+
+00:21:55
+Og så har vi forsøgstraf her. Og så har vi organismerne, det her er så smådyrne herude.
+
+00:22:03
+Hvor igen, hvis vi kommer op over stranden, så er der flere af de her organismer.
+
+00:22:08
+Er vi længere nede, så er der færre af de her organismer. Igen har vi vores forskellige forsøg her.
+
+00:22:16
+Og vi har så igen vålbæk heroppe og sandevandsbækken hernede.
+
+00:22:23
+Vi tog nogle prøver, inden vi startede forsøget. Det her er ikke forklaret, det står for uger.
+
+00:22:31
+Her kan I se, at vi kørte forsøget seks uger, hvor vi ikke ændrede.
+
+00:22:38
+Så kørte vi fra uge seks og frem til uge fem, hvor vi havde ændret formålet.
+
+00:22:45
+Så tog vi jævnligt prøver af samfundet, for at se, om vi kunne se effekterne.
+
+00:22:51
+Og der kan I se, at vi ser noget, og vi har også lavet nogle række statistiske tests på det her, og dem vil jeg ikke gå i detaljer med.
+
+00:23:00
+Det, der er vigtigt for mig at vise, det er, at der er nogle effekter, og det vi ser, det er, at vi får flere af de her organismer, det er blandt andet kironamider, myggelavre, og vi får færre af de her baeitis, som er døgnflue.
+
+00:23:16
+Så vi får nogle relativt forudsigelige ændringer i de her samfund, Svaren til også, hvad vores hypoteser var.
+
+00:23:23
+Men man står altid i de her sammenhænge langt stærkere, når man har eftervist det.
+
+00:23:29
+Og man faktisk også kan lave den statistik, som vi har lavet på de her data.
+
+00:23:32
+For så ved vi, at det er ikke noget, vi forestiller os. Det er ikke fundet i vores hoveder.
+
+00:23:36
+Det findes også i virkeligheden. Jeg kan lige få et set her. Nu så I de her vandløb på Fyn.
+
+00:23:42
+Og hvordan vi nu sidder og arbejder med de her data. Og kan se, at de faktisk udtør.
+
+00:23:47
+Og Kim der, som er i gang med at se på data, hun...
+
+00:23:50
+Hun skal også kigge ned i de biologiske samfund, fordi vi har taget prøver af både smådyr, planter og fisk, og se, om vi kan se en effekt af de her episoder med udtøring på de biologiske samfund.
+
+00:24:05
+Det er vi meget spændte på, når hun kommer videre med de data.
+
+00:24:11
+De her ændringer, som vi ser i de her smådyrs samfund, det spiller faktisk også en umiddelbar rolle, når vi snakker vandløbsvurderinger.
+
+00:24:20
+Det vil jeg gerne bringe lidt i spil nu, for det kommer jeg til at samle mere op på lige om lidt.
+
+00:24:26
+Det er jo sådan, at alle vores vandløb, eller ikke alle vores vandløb, vi har omkring 18.000 km vandløb, der er miljømålt for, i henhold til vandremdirektivet, hvor vi har sat egentlig miljømål, og hvor rigtig mange steder, der har vi faktisk et miljømålet af god økologisk tilstand.
+
+00:24:47
+Hvor vi gerne skal nå den oekologiske tilstand, der ikke er påvirket af menneskelig aktivitet.
+
+00:24:54
+Alene det, at vores klima er i forandring, og at vi måske topper det op med lidt vandindvinding, gør, at vi nok rigtig mange steder kan se ind i en situation, hvor det kan være svære at nå miljømålene, fordi vi får ændringer i de her artsamtsætninger, alene som funktion, at vi får mindre vand i vindløbene.
+
+00:25:12
+Jeg kommer lige tilbage til det med vandlinen, fordi det er en ting, vi også kan prøve at isolere og se på effekt med.
+
+00:25:21
+Så det tror jeg, det var det, jeg ville sige om det her slide.
+
+00:25:28
+Så kommer vi til det næste, og nu går vi lidt ind i perspektiveringen, og det er lidt mere diskuterende.
+
+00:25:34
+Vi har jo et klima i forandring, og det er det, jeg illustrerer heroppe.
+
+00:25:42
+Vi har mindre sommernedbør, og vi har stigende vandtemperatur.
+
+00:25:47
+Det er lige toppet op med, at når det er sådan et klima, så har vi et større behov for at vande markerne.
+
+00:25:58
+Når vi gør det, så tager vi noget af det vand, som ellers vil tilfælde vandløbene mange steder.
+
+00:26:05
+Det betyder, at vi kan minske mængden af grundlands tilstrømning til de her vandløb.
+
+00:26:09
+Så vi har et klima i forandring, som problematikken intensiveres af, at vi har et større behov for markning.
+
+00:26:16
+Det betyder, at vi får det her ændrede vandføringsregime i vandløbet, som vi har redegjørt for, og også for effekterne af det.
+
+00:26:23
+Nu har jeg fået en titel med, om vi kan klimatilpasse vores natur.
+
+00:26:28
+Vi kan ikke klimatilpasse vandløbsnaturen.
+
+00:26:31
+Vandløbsnaturen er der, og den er der under de vilkår, der nu engang er.
+
+00:26:36
+Hvis vi ændrer på vilkårene, så ændrer vandløbsnaturen sig.
+
+00:26:40
+Det er ikke sådan, at vi fortæller vandløbsorganismerne, at det skal nok blive godt i morgen.
+
+00:26:45
+Så kommer der mere vand, det hjælper ikke noget.
+
+00:26:47
+De er der, og de er der under de forhold, der nogle gange er.
+
+00:26:51
+Men det vi kan, det er måske, at vi kan forsøge at afbyde effekterne.
+
+00:26:55
+Og vi kan måske også blive bedre til at vurdere på effekterne.
+
+00:27:00
+Og det er det, jeg vil bruge den sidste tid på at snakke lidt ind i.
+
+00:27:03
+Fordi det var det, I var blevet lovet i jeres titel.
+
+00:27:06
+Det var, hvordan vi kan tilpasse vores forvaltning og planlæggende for afbrydeeffekterne af den her ændrede vandfølgingsregime på de biologiske samfund.
+
+00:27:14
+Og det er jo alt andet lige det, vi rigtig gerne vil.
+
+00:27:16
+Vi vil jo gerne sikre, at vi både har mulighed for at have den biodiversitet, vi nu engang gerne vil have ude i vores vandløb.
+
+00:27:26
+At vi kan leve op til de miljømål, der er for vores vandløb.
+
+00:27:29
+Vi også kan sikre, at vi har afbryder på markerne, og at vi alle sammen har det Jeg synes, at man kan sige, at tingene kan sammeksistere.
+
+00:27:40
+Det kan godt blive svært, når vi har det her klima, der forandrer sig.
+
+00:27:45
+Lige nu vil jeg gå lidt ind i, hvordan vi gør normalt, når vi skal vurdere, om man kan lave en påvirkning på et vandløb.
+
+00:27:58
+En påvirkning, der kan gå ind og betyde noget for vandføring i et vandløb.
+
+00:28:03
+så har jeg skitset op, at vi har noget med at kigge på medianminimum.
+
+00:28:09
+Det er et statistisk mål for de laveste vandføringer over en given periode.
+
+00:28:14
+Det er den klassiske metode, man har brugt i rigtig mange år, hvor man sagde, at vi må tage en mængde vand, indtil vi kommer i nærheden af medianminimum.
+
+00:28:25
+Måske mere, lidt afhængigt af, hvad det er for et slags vandløb, vi kigger på.
+
+00:28:29
+Når vi er nede i medialen, er vi i særlig fokus på den, fordi vi er bange for, at vandfødder kan ramme udtøring.
+
+00:28:37
+Men som jeg også redigede i starten af det her foredrag, så sker der rigtig meget på de biologiske samfund, inden vi rammer den egentlige udtøring.
+
+00:28:46
+Så det er klart, der må man sige, og det er også det, man har gjort, at der er en eller anden grænse for, hvor meget man kan tage af vandet, så vi i hvert fald sikrer, at vi ikke kommer i nærheden af den her medialen.
+
+00:28:57
+Sådan en anden metode, som blev udviklet omkring 2014, det var noget med at bruge, jeg ved ikke om I kender den, nogle, hvad kan man sige, sådan lidt empiriske ligninger, bygger på, at man har lavet nogle, hvad kan man sige, vurderinger af ændringer i EQR, og det er altså økologisk tilstand for både planter, smådyr og fisk, som funktion af ændringer i en række statistiske vandføringsparametre.
+
+00:29:24
+Nu snakkede jeg før om median minimum, Men det er mere de integrerede ting omkring ekstreme hændelser.
+
+00:29:32
+Altså varighed og hyppighed af nogle mere ekstreme forhold med meget lav vandføring.
+
+00:29:39
+Eller meget høj vandføring.
+
+00:29:41
+Altså ude, hvor vi er, som figuren også viste, i yderpunkterne af vores vandføringsgruppe.
+
+00:29:49
+Problemet med de her ligninger er, at tanken er god.
+
+00:29:53
+Problemet er dels, at vi har svært ved at modellere de statistiske vandføringsbarometre, så der er en meget stor usikkerhed.
+
+00:30:00
+Og to, det er, at det er en periode over 10 år, vi har bygget de linjer op på, og organismerne responderer inden for en tidsskala, der er langt kortere.
+
+00:30:14
+Så der er selvfølgelig nogle indbyggede problematikker i de her linjer, som gør, at de er lidt vanskelige at bruge.
+
+00:30:21
+Og hvis man bruger dem, og det har jeg gjort, så kan man også se, at de er meget lidt følsomme over forændringer i vandføringen.
+
+00:30:27
+Så i min verden er de slet ikke følsomme nok til at kunne vise en påvirkning.
+
+00:30:36
+Så kan vi arbejde lidt noget med EcoFlow.
+
+00:30:39
+Det er et koncept fra EU, fra forskningsverdenen, som kigger lidt mere på, hvad det nødvendige flow skal tilføre, hvis sådan set kan begynde at være mere bekymret for, at der er påvirkninger i biologisk samfund.
+
+00:30:52
+Nu skal I tænke tilbage på den figur, jeg havde der med 1, 2, 3, 4, 5, 6.
+
+00:30:56
+Altså, hvornår er det, vi begynder at ramme der omkring fra 2 og så 3, 4 stykker?
+
+00:31:02
+Altså, hvornår er det, vi rammer der? Fordi det er ligesom der, hvor tingene begynder at gå galt.
+
+00:31:05
+Når vi først er nede ved 5, 6, som I kan huske, så er tingene ligesom gået galt.
+
+00:31:09
+Det er et koncept, vi sidder og arbejder med nu på NIA, og så prøver på at se, om vi ikke kan bruge det til noget.
+
+00:31:17
+Og der er også noget med at gå ind og kigge på en robusthedsindikator, som vi kigger lidt på sammen med et forsøgningsselskab.
+
+00:31:23
+De her to ting tror jeg i langt højere grad kan gå ind og give os noget godt.
+
+00:31:29
+Problemet er bare lidt, at vi har ikke egentlig værktøjer her lige nu. Det er noget, vi mangler.
+
+00:31:34
+Det er noget, vi bør have.
+
+00:31:35
+Og det er noget, vi i hvert fald skal have, hvis vi skal forsøge at tilpasse vores forvaltning til afbydeeffekter og ændre et vandføringsregime i Vendø.
+
+00:31:43
+Jeg håber meget på, at der bliver øge fokus fra, jeg ved snart ikke hvems side, men i hvert fald en forståelse for, at vi er nødt til at putte noget hud ind i og få arbejde med de her ting, så vi kan blive bedre til at få udsige effekter af det, vi gerne vil med vores vand.
+
+00:32:00
+Nu snakkede jeg om markvand indenfor. Vi kan også snakke om vores drikkevandsbesyning.
+
+00:32:07
+Alt det her går ind og påvirker mængden af grundvand, der flyder til vandløbene.
+
+00:32:12
+På den måde bør vi forholde os til det samme.
+
+00:32:16
+Så har jeg lige puttet et ekstra element på i forhold til vandløbsforvandlinger.
+
+00:32:20
+Det er noget med at mitigere de her temperaturstigninger i vandløbet.
+
+00:32:24
+Altså hvordan vi ligesom kan afbøde effekterne.
+
+00:32:27
+Og der tror jeg i højere grad, at vi skal tillade opvækst af træer langs vandløb.
+
+00:32:31
+Jeg siger ikke plantning af træer. Jeg siger opvækst af træer.
+
+00:32:34
+Og det er fordi, jeg har en eller anden idé om, at vi kan godt hjælpe det på vej, men det skal også have lov til at udfolde sig rigtigt.
+
+00:32:40
+Og vi har faktisk i et andet studie, vi lavede i det samme EU-projekt, det her Refresh-projekt, Der har vi dokumenteret, at det er en positiv temperaturnedsættende effekt i mindre vandløb.
+
+00:32:52
+Og have en skovdækket strækning. Det er noget, vi nok bør se ind i.
+
+00:32:58
+Det er noget af det, vores studie i Assens Kommune viste, at undervandsplanterne bevarer dem, når man vedligeholder vandløb.
+
+00:33:07
+Det kan også dæmme op for de meget lave vandføringer.
+
+00:33:11
+Nu skal vi dokumentere det i data, men det så ud, at det kan den refugie for smådyr og fisk i perioder med rigtig lav vandføring af vandløbende.
+
+00:33:21
+Jeg tror, det var lidt det, jeg havde. Så jeg ved ikke, hvordan jeg ramte den af tiden.
+
+00:33:28
+Jeg har været hurtig. Super.
+
+00:33:32
+Tak. Det er så fint.
+
+00:33:36
+Det er nu, I har muligheden for at stille spørgsmål, hvis I har et Ellers så vil jeg i hvert fald lige benytte lejligheden til at sige, inden jeg lige stiller nogle spørgsmål her, så at i næste uge, der har vi et oplæg fra Jørgen E.
+
+00:33:59
+Olsen, hvor han kigger på tørke i Landbruget, og hvilke klimatilpasningsstrategier vi kan tage i brug.
+
+00:34:07
+Og det er fredag den 11. klokken 8. Jeg kan se, at der ikke er kommet nogen spørgsmål.
+
+00:34:21
+Der kommer et her. Kommer de følsomme arter tilbage efter en kraftig påvirkning?
+
+00:34:28
+Og ved vi, hvor lang tid der går? Det.
+
+00:34:33
+Er et rigtig godt spørgsmål. Der er jo mange svar her. Følsomme arter er jo også mange forskellige.
+
+00:34:45
+Følelsesarter som nogle relativt godt eller veludbredte arter, som døgnflure eller som baetis for eksempel, så ved vi, at hvis der går noget tid, så kommer de nok tilbage.
+
+00:34:59
+Når jeg siger, at nogle arter har lettere hvidt end andre, så handler det alt sammen om, hvor hvidt udbredte er de i dag i danske vendløb.
+
+00:35:07
+Så de arter, der i dag er, Begrænset til få vandløb.
+
+00:35:11
+Hvis de forsvinder fra et vandløb, så er det langt mere kritisk, end hvis det er en art, der er udbredt.
+
+00:35:17
+Så lidt afhængigt af, dels hvor udbredte de er, og hvor følsomme de er, så kan det være alt fra, at du går op igen den følgende sæson, til at de måske ikke kommer igen.
+
+00:35:31
+Jeg vil gerne tilføje en ting her, for det er faktisk også lidt vigtigt.
+
+00:35:36
+Hvis vi så sikrer, at vi ikke ændrer på den økologiske tilstand, kan det så være det samme som, at vi ikke mister nogle følsomme arter.
+
+00:35:44
+Og nej, desværre kan vi miste rigtig mange følsomme arter og stadig være i høj og god tilstand.
+
+00:35:49
+Så vi skal huske på, at når vi måler økologisk tilstand, så måler vi ikke biodiversitet i vandløb.
+
+00:35:54
+Det er ikke det samme. Så vi er nødt til at interessere os lidt mere for arterne.
+
+00:36:00
+Der er jo en sammenhæng, når vi har følelseomarter, har vi jo også som regel høj og god tilstand.
+
+00:36:07
+Men vi kan også miste følelseomarter, fordi så er det de mere almindelige halvfølelseomarter, der er tilbage, som stadig kan sikre, at vi har god økologisk tilstand.
+
+00:36:15
+Så det tror jeg var mit svar på det. Så.
+
+00:36:18
+Har jeg et spørgsmål fra Stine.
+
+00:36:20
+Fuldt i forandringen i de to vandløb efter påvirkningsperioden, Nej, det gjorde vi ikke. Desværre.
+
+00:36:26
+Er det jo tit sådan, at de der projekter, de finansierer en periode, og så stopper pengene, og så stopper aktiviteten.
+
+00:36:32
+Det er lidt ærgerligt.
+
+00:36:33
+Men tiden kan jo fortælle dig måske, at det er dejligt, at Voelbeck er blevet kendsynet. Så.
+
+00:36:39
+Nu er det jo helt anderledes. Du nævnte to metoder. Du har lavet noget EcoFlow.
+
+00:36:48
+Kan du fortælle lidt mere om, hvordan man udfører det i praksis?
+
+00:36:52
+for eksempel i forhold til dataindsamling og beregning, i forhold til at give det en bedre vurdering af påvirkningen?
+
+00:37:00
+Det.
+
+00:37:00
+Vi prøver lige nu at kigge på, det er, at når vi har...
+
+00:37:03
+Vi kan ligesom forestille os nogle forskellige scenarier.
+
+00:37:05
+Vi kan forestille os scenarier, hvor vi slet ikke tager noget vand.
+
+00:37:11
+Så kan vi forestille os scenarier, hvor vi tager en mængde vand, og et scenarie, hvor vi tager lidt mere vand, og lidt mere vand, og meget mere vand.
+
+00:37:19
+Så vi har ligesom nogle forskellige scenarier.
+
+00:37:22
+Så prøver vi at se på vejigheden af, hvordan det her vandføringsregime ændrer sig.
+
+00:37:31
+Det er alt sammen på modelplan. Det er ikke noget, vi gør i praksis.
+
+00:37:34
+Det er noget, vi modellerer os frem til.
+
+00:37:36
+Så ser vi, hvor mange dage vi har, hvor vi ændrer vandføringen i en eller anden grad, med en eller anden vejighed.
+
+00:37:45
+Så ligger der fra EU nogle standarder, det hedder en SEND-standard, Og ligesom oversætte de her lengder eller vejheder af ændringer i flow, og graderne af ændring i flow, over i en påvirkningskategori.
+
+00:38:00
+Og den er så sat fra 1 til 5.
+
+00:38:03
+1 hvor 1 igen næsten ingen påvirkning er, og 5 er meget store påvirkninger.
+
+00:38:06
+Så kan man samle det op i et samlet udtryk for en påvirkningsgrad på et vandløb.
+
+00:38:13
+Vi sidder og gør det på nogle vandløb nu, og er ved at udvikle pudding.
+
+00:38:18
+Jeg tror faktisk, det er en bedre vej frem. Men igen, det kræver, at du...
+
+00:38:23
+Vi gør det helt konkret med, at vi har en forsyning, der gerne vil bruge mere vand, hvor der er en påvirkning af vandløb, og så prøver vi at se, hvis vi har et nul-scenarie, hvor der slet ikke bliver taget vand, og så kører vi en 3-4-scenarie med forskellige slags vandindtag, og så ser vi på den her påvirkningsgrad.
+
+00:38:41
+Jeg håber, vi kan koble Den konceptuelle forståelse over i den graf, jeg viste, hvor vi havde den her fald fra 1 til 6.
+
+00:38:51
+Jeg håber, I kan huske grafen.
+
+00:38:52
+Så vi får en konceptuel forståelse af, hvordan kan den her påvirkingsgrad være, så vi ikke kommer ned under 2-3 stykker, fordi så er vi både i overensstemmelse med vores lovkrav i forhold til vandremmedirektiv og vurdering af påvirkning, Og også i forhold til, at vi kan give et godt svar, når man siger, hvor meget vand vi kan tage.
+
+00:39:14
+Hvis vi kigger på robusthedsindikator, går det lidt mere på, om vi i højere grad kan bruge planterne.
+
+00:39:23
+Planterne er rigtig gode, fordi vi kan umiddelbart se dem.
+
+00:39:27
+Det var noget, jeg ikke fik sagt under fordraget.
+
+00:39:31
+Nu snakkede jeg meget om udtøjning og små vandløb, fordi tænerne var tørke.
+
+00:39:37
+Vi kan også se i større vandløb, at der kan være forandringer.
+
+00:39:42
+Det, der sker, er, at vandhastigheden falder.
+
+00:39:46
+Når vandhastigheden falder, kan vi forvente, at vi får flere flydebladsplanter.
+
+00:39:52
+Det kan være åkanner. De fylder relativt mere i vandløbene.
+
+00:39:57
+Det kigger vi også på i nogle andre studier inde på Aarhus Universitet.
+
+00:40:02
+Om vi kan se en sammenhæng med, at de vandløb, der er mest påvirkede, af ændringer i vandføringen, og vi finder flere flydebladsplanter.
+
+00:40:10
+Det går mere på at se, om vi kan bruge plantesammensætningen umiddelbart til at fortælle om, hvor stor grad af påvirkning er der på vandføringsregimen.
+
+00:40:20
+Men vi mangler det samlede på en god måde til at bruge brugbare værktøjer. Super.
+
+00:40:31
+Nicoline spørger, Spørg til, om temperaturstigninger også sker i de større vandløb? Ja.
+
+00:40:43
+Det gør de. Der ser vi også temperaturstigninger. Det er ikke kun solindstråling.
+
+00:40:55
+Vores grundvandstemperatur er også stille under forandring. Så vidt jeg ved.
+
+00:41:01
+Vi har kunnet måle temperaturstigninger i større vandløb. Men ikke i den grad.
+
+00:41:06
+De der data jeg havde med fra de her små vandløb på Fyn, det var meget voldsomme temperaturstegninger.
+
+00:41:14
+Det er jo fordi indstråling spiller en rigtig stor rolle, fordi det er meget overfladvand, der føder de her vandløb, samtidig med at der ikke er ret meget vand og stor indstråling om sommeren.
+
+00:41:26
+Hvad.
+
+00:41:27
+Betyder tørke og varme temperatur for nogle af de her andre naturtyper end vandløb?
+
+00:41:33
+Du nævnte indlændingsvis, Vandløb var en af mange. Det kunne være de her rig-kær. Ja.
+
+00:41:43
+Rig-Kærne. En grundvandsafhængig natur er jo også voldsomt følsom.
+
+00:41:49
+Men en grundvandsafhængig natur er jo ikke på samme måde også overfladevandsfødt, så den er jo meget afhængig af, at tilstrømmen af grundvand er den samme.
+
+00:41:59
+Så den vil jo blive meget påvirket af, af vores grundvandsmagasiner, hvis de på nogen måde ændrer sig.
+
+00:42:08
+Tilstrømmen af vand ændrer sig.
+
+00:42:12
+Når vi kigger ind i den grundvandsafhængige natur, som rige kære, tidløs råd æg, råd hede og hængesæk, de har mange fine navne, så er det klart, at hvis overfladevandet, altså nedbøgsvand, kommer til at spille en forholdsvis større rolle, De skal ikke spille nogen rolle i de grundvandsafhængige naturtyper.
+
+00:42:37
+Hvis der begynder at ske en infiltrering af overfladet vand, fordi grundvandstilstrømningen ikke er god nok længere, så begynder der at ske rigtig meget i de her naturtyper, og det er tit bare få centimeter.
+
+00:42:49
+Der skal man huske på, at rødezonen er ganske snævre, når vi snakker de her små, f.eks.
+
+00:42:55
+rigekæresarter.
+
+00:42:56
+Så det, der sker, Om der er fuld vandvægtning af grundvand i rådzonen eller ikke, er helt afgørende.
+
+00:43:03
+Hvis grundvandsstanden falder, begynder der at ske en omsætning i tørven.
+
+00:43:07
+Hvis der kan infiltrere overfladet vand, er det en anden vandkemi, end vi har i grundvandet.
+
+00:43:13
+Så ændrer vi fuldstændig forudsætningerne, fordi grundvandsafhængigheden er to typer.
+
+00:43:18
+Men der handler det meget om grundvandsressourcen, og at grundvandstilstrømningen ikke må ændres, for så kan vi se ændringer.
+
+00:43:27
+Grundvandstilstrømmen måtte vi decidere at have overtryk, så kan vi jo godt have en påvirkning af grundvandsressourcen, uden det påvirker rigekærende.
+
+00:43:35
+Men hvis vi er dernede, hvor vi lægger en lige på kanten til, at det har en betydning for tilstrømmen i selve rådszonen i rigekæren, så kan vi have en kæmpestor påvirkning.
+
+00:43:48
+Så bliver.
+
+00:43:49
+Der spurgt til, kan for stor vandføringer også blive et problem for arterne i vandløb?
+
+00:43:55
+Og så her tænker jeg fx, Nathalie for eksempel. Når der er mange skybrud. Det er.
+
+00:44:06
+Også et rigtig godt spørgsmål. Nu var det lidt tørket over emnet i dag.
+
+00:44:10
+Jeg havde lige så meget lyst til at snakke om de der meget høje vandføringer.
+
+00:44:13
+De kan også spille en meget stor rolle for vandløbens biologi.
+
+00:44:18
+Og ikke bare for vandløbens biologi, men også for andre ting.
+
+00:44:23
+Hvis jeg lige starter med de andre ting, så hvis vi har meget høje vandføringer, kan det betinge en meget kraftig erosion, både i vandløbets bund og langs vandløbets sider, og dermed sætte en masse sediment i transport fra selve vandløbet.
+
+00:44:38
+Det sediment er tit rig på næringsstoffet, i hvert fald hvis vi snakker om brinkmateriale, og det kan så komme ned og skade både nedstrøms i vandløbet, hvor det pålejres, det kan også aflejres på, som vi snakkede om, gydebanker, det kan også komme ned i søer, det kan komme endnu længere.
+
+00:44:54
+Så det her sediment er ikke godt at forbrække transport.
+
+00:44:57
+Så får vi også et unaturligt stort vandløbsprofil.
+
+00:45:00
+Når vi ikke længere har de store vandføringer, får vi relativt for lav vandstrøm i vandløbet, med alle de negative konsekvenser, det har for de biologiske samfund.
+
+00:45:09
+Derudover kan man også, når man har meget store vandføringshændelser i vandløbet, få skabt så stor en påvirkning, at vi får decideret at evidere plantesamfundene.
+
+00:45:22
+De kan simpelthen blive opruttet.
+
+00:45:28
+De kan komme helt i transport, så hele grødet ud og bliver transporteret ned i strøm.
+
+00:45:32
+Så det er jo samtidig levesteder for smådyr og fisk.
+
+00:45:36
+Når det så er sagt, bliver jeg også nødt til at sige, at vandløb er naturlig forstyrret økosystemer.
+
+00:45:41
+Så de er jo robuste roffer for de her vandføringsændringer, som jeg har vist på grafen.
+
+00:45:48
+Somtid er den høj, og somtid er den lav.
+
+00:45:50
+Men når de bliver ekstremt høje, at der kan ske en negativ påvirkning.
+
+00:45:56
+Og der kan jeg lige tilføje, og det er jo så et større vandløb.
+
+00:45:59
+Jeg var i Polen her for et par uger siden, og faktisk hele året ved Hvide Rusland, og se på nogle af de der meget, i hvert fald fysisk set, uforstyrrede vandløb.
+
+00:46:07
+Og noget af det, at de mangler for alvor derovre nu, det er faktisk vand.
+
+00:46:11
+De mangler faktisk deres, hvad kan man sige, peak flows.
+
+00:46:15
+Og det betyder, at det vand, der normalt skulle føde de der rige kære, og sørge for, at vandstanden i vandløbene var høj, er faktisk ikke længere til stede, så pigfløvsene er der, men det kører hurtigt nedstrøms, og så mangler de vand i løbet af sommerne.
+
+00:46:28
+Det betyder, at vandløbsbunden faktisk er evoderet ned.
+
+00:46:30
+Så lige så stille kommer vandløbsprofilet til at ligge dybere og dybere, samtidig med, at når det kommer dybere og dybere ned, så sker der en afdrejning af deres rigekær.
+
+00:46:40
+Så det er en frygtelig trist situation, og det er så betinget af klimaforandringer alene, fordi nedbørsmønstrene er så forandret.
+
+00:46:49
+De har ikke længere en snigt til at lægge på samme måde, som de har haft tidligere.
+
+00:46:53
+Så ja, der kan ske store ting, også når.
+
+00:46:55
+Vi snakker store vandføringshændelser. Hvordan får de så at generatibere det? Det de.
+
+00:47:03
+Gør nu, det er sådan set en trist løsning, men det er ligesom den løsning, de forsøger.
+
+00:47:08
+De etablerer noget, som jo er kunstige foranstaltninger, sådan nogle små opdæmninger på det store vandløbsprofil.
+
+00:47:18
+så de holder vandet inde i området.
+
+00:47:20
+På den måde forsøger de at bevare en vandstand i vandløbet, så de forsøger at minske afdreningen fra rigekernen.
+
+00:47:26
+Problemet er, at det vand, der så er i vandløbet, det kan næsten forestille sig, at det bliver mere stillestående.
+
+00:47:31
+Og så får vi i højere grad de her flydebladsplanter ind, så får vi i højere grad arter ind, der har karakter af søvegetation, samtidig med, at der så sker en...
+
+00:47:41
+Altså næringsstofferne, der bliver relativt mere nærings tilgængeligt i det her vand, Så det betyder også ændringer.
+
+00:47:50
+Så vi ser faktisk også store ændringer selv i systemet, og vi forestiller os, at det ikke skulle være særligt på fjernet.
+
+00:47:57
+Så bliver.
+
+00:47:58
+Der spurgt til, hvordan kan naturbaserede løsninger være med til at gøre vandløbssystemet mere robust overfor både tørke- og skybrud?
+
+00:48:10
+Og er der nogle løsninger, vi bør implementere mange.
+
+00:48:14
+Flere i? Jeg synes i høj grad, at man bør kigge ind i og tænke vandløbende.
+
+00:48:24
+Det er et vandløbende for alle, hvor kan. Det er jo, at de er...
+
+00:48:28
+Nu skal I forestille jer, hvad starter et andet sted.
+
+00:48:31
+90 procent af danske vandløb er modificeret fysisk. De er gravet lidt ned.
+
+00:48:36
+De er gjort lidt for brede.
+
+00:48:38
+Det har man gjort af en grund, fordi man gerne vil afvende de vandløbsne arealer i forhold til at have landkonstruktion.
+
+00:48:45
+Nu er det sådan, at mange af de arealer, og også med en røm træpart lige om hjørnet, nok i virkeligheden skal ud.
+
+00:48:52
+Hvis man i højere grad får tænkt vandløbene op i terrænet, altså får dem genslynget, får dem bragt højere op i terrænet, så når vi har de store afstrømninger, så kan vi bruge årdalen som en buffer for det her vand, så i stedet for at det transporteres nedstrømt, Det kan ligge i en periode ude i Ådalen og gøre gavn der, kan man sige.
+
+00:49:18
+Dels i forhold til omsæt, men i forhold til rigtig mange ting er det fint, at et vandløb er i samspil med Sinodal, som jeg også fortalte inden den spiste.
+
+00:49:25
+Så det er i hvert fald en naturbaseret løsning.
+
+00:49:27
+Det er på en eller anden måde at bruge nogle forskellige slags greber.
+
+00:49:30
+Der er mange forskellige greber til at få vandløbet nærmere i samspil med Sinodal.
+
+00:49:36
+Som kan virke både i forhold til at begrænse risikoen for oversvømmelse og nedstrøms, kan mitigere eller afbyde nogle af de negative effekter, vi snakkede om lige før med de høje afstrømninger.
+
+00:49:46
+Er tilsvarende med tørke, hvis vi får lukket nogle af gryfterne, som jo drener vandet hurtigt igennem ådalen ned til vandløbet og så videre ud, hvis vi får brunt dem og i højere grad buffer vores vand i ådalen, så det kan strømme langsomt til vandløbet, så kan vi også mitigere de her mere risikofyldte tørkesituationer.
+
+00:50:06
+Så ja, Jeg ser mange muligheder for at få vandløbnye spil i forhold til naturbaserede løsninger.
+
+00:50:12
+I forhold til også at understøtte miljømålene, som vi har for vandløb.
+
+00:50:19
+Jeg ser faktisk, at der kan være en rigtig.
+
+00:50:22
+God overensstemmelse mellem de to ting. Nogle mindre vandløbsvandføring.
+
+00:50:35
+kan være afhængig af tilførsel fra renset spilevand fra et rensanlæg.
+
+00:50:40
+Hvis rensanlægget så nedlægges, er der både negative konsekvenser på grund af manglende vand og positive effekter på grund af fjernede næringsstoffer og MFS'er.
+
+00:50:50
+Og det er svært at vurdere disse effekter mod hinanden i forhold til miljømålene.
+
+00:50:59
+Ja, det er meget konkret, og det er også rigtig godt, fordi det er jo også de problemstillinger, man sidder med hver dag i kommunerne, eller i hvert fald mange gange.
+
+00:51:06
+Det er, hvad er lige bedst her.
+
+00:51:08
+Enten så har vi et vandløb, der ikke får vand, eller også så får det spildevand, og det her spildevand har det sådan en kvalitet, der er god nok.
+
+00:51:15
+Og prøver jeg hver eneste gang, hvor vi ligesom møder sådan noget, så bliver vi nødt til at forholde os til den konkrete sag og sige, hvad er egentlig bedst lige her.
+
+00:51:22
+Så det er svært at sige noget generelt her.
+
+00:51:26
+Det mest, jeg kan komme til, er at sige, at alle de vandløb, der i dag er vandløb, det er ikke så sikkert, at de skal blive ved med at være vandløb.
+
+00:51:37
+Når jeg siger det sådan, er det fordi, nu gav jeg tallet 18.000 vandløb, vi har sat miljømål for.
+
+00:51:44
+Hvis vi kigger på naturbeskyttelsesloven, har vi 30.000 vandløb, der er omfattet af naturbeskyttelsesloven.
+
+00:51:50
+Hvis vi kigger på vandløbsloven, er det 60.000 km vandløb, der er omfattet af vandløbsloven.
+
+00:51:54
+Mere for at sige, at den der Men hvornår er et vandløb et vandløb?
+
+00:51:58
+Hvis vi kigger på naturbeskyttelsesloven, så er der i hvert fald noget af et vandløb, der ikke har en naturstilstand eller en referencetilstand som vandløb.
+
+00:52:04
+Og ja, så har vi en naturbeskyttelseslov, der siger, at vi skal bevare den tilstand, der nu engang er her.
+
+00:52:09
+Men hvis referencen, altså det, det naturlige har været, har været en mose, så er det måske synd at insistere på et vandløb.
+
+00:52:16
+Så ville naturen måske alt andet lige have gavn af, at vi lige gentænkte, hvad er referencen her?
+
+00:52:22
+Og da er det sjovt at kigge på gamle borde.
+
+00:52:25
+Det Høje Målbordsblad og endnu ældre kort, videnskabsselskabskort.
+
+00:52:29
+Så kan man se, at al vores ihærlighed med at modificere det danske landskab, har også gjort, at vi har mange vandløb i dag, som ikke har en reference som vandløb.
+
+00:52:39
+Men det er klart, at hvis de ligger som en del af vores vandplaner med miljømål, så har vi en forpligtelse til at sikre det.
+
+00:52:44
+Men man skal måske også nogle steder kunne tillade sig at udfordre den udpegning, der er.
+
+00:52:50
+Fordi det er meningsfuldt at udfordre den.
+
+00:52:53
+Og det var sådan en helt anden svar til et spørgsmål, der var meget konkret, og der vil jeg sige, hvad der er rigtigt, det vil jeg igen vende tilbage til at sige, så skal man lige se lidt mere.
+
+00:53:01
+Så skal jeg i hvert fald, hvis jeg skal kigge lidt tættere på, hvad det er for en type.
+
+00:53:04
+Af vandløb. Super.
+
+00:53:08
+Ja, der er ikke lige nu bare flere spørgsmål, så jeg tænker, at der bliver takket for input.
+
+00:53:16
+Der er måske, nej, jeg vil ikke sige noget der. Nej.
+
+00:53:22
+Ja, så vil jeg i hvert fald bare sige tusind, tusind tak, fordi du stillede op med det her oplæg her.
+
+00:53:30
+Jeg er i hvert fald blevet ret meget klogere. Udgangspunktet har måske heller ikke været så højt.
+
+00:53:35
+Det er ikke min faglighed, kan jeg altså afsløre med et vandløb.
+
+00:53:38
+Men det er i hvert fald vildt interessant.
+
+00:53:41
+Men ellers vil jeg bare sige tusind tak til alle jer, der har lyttet med og logget ind og stillet spørgsmål.
+
+00:53:47
+Det er jeg meget taknemmelig for. Så tusind tak til dig. Og have en rigtig god.
+
+00:53:54
+Dag. I lige måde, til alle sammen. Hej.
+

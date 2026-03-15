@@ -1,0 +1,996 @@
+00:00:04
+Godmorgen.
+
+00:00:06
+Og velkommen til godmorgen med DNAK.
+
+00:00:10
+Mit navn Det er Cornelius pans, og jeg arbejder i sekretariatet for det nationale netværk for klima tilpasning, og Jeg vil gerne byde jer velkommen til det her til dagens webinar, hvor Vi skal dykke ned i emnet tørke og klimatilpasning i dansk landbrug.
+
+00:00:25
+I sidste uge, der havde vi fordi det her. Det er en del af enføljeton, så havde vi i sidste uge fornøjelsen af at dykke ned i en webinar omhandlende små vandløb og tørke i, og de stigende vandtemperaturer, hvor Annette bottrup Petersen fra niras, Aarhus Universitet hun delte sin indsigt i, hvordan stigende vandtemperaturer og længere tørkeperioder de påvirker vandløb.
+
+00:00:49
+Og forklare, hvordan de her forskellige udfordringer med vandkvaliteten og kan skabe ugunstige forhold for for mange arter, og Der er afhængig af små vandløb for at overleve, hvis i gerne vil se det eller gense det, så kan i gå ind på Vores hjemmeside under fanen, vidensbank og og så så finde den frem den bliver lagt på nu her efter det her webinar.
+
+00:01:14
+Dagens webinar Det er bygget videre på det her fokus, men ved at skifte over til til landbruget, hvor tørkeperioder også udgør store udfordringer. Og vi vil se nærmere på, hvordan vi kan sikre, at Vores landbrugspraksis bliver mere modstandsdygtige robust over for længere tørkeperioder, stigende temperaturer og ændringer II vandtilgængelighed.
+
+00:01:38
+Så i dag. Der har vi en fornøjelse at byde velkommen til Jørgen i Olesen fra Aarhus Universitet, som vil, som vil give os indslag i, hvordan de her klimaforandringers påvirkninger på på landbruget er. Han vil præsentere nogle praktiske løsninger med og fremtidige tiltag, der kan hjælpe dansk landbrug på med at navigere ind i en fremtid præget af klimaudfordringer.
+
+00:02:01
+Og vi vil også komme ind på emner som nye dyrkningssystemer og vandforvaltning og teknologiske innovationer, der kan styrke landbrugets modstandskraft over for uforudsigelige klimaforandringer. Det her webinar Det er jo en del af den her serie, så om 2 ugers tid 24. Oktober der skal vi høre mere om der har i mulighed for at høre mere om data og vandindvinding og den 30.
+
+00:02:25
+Oktober der kan man høre om vandforvaltning i praksis.
+
+00:02:29
+Den 6. november så så kommer det til at handle om hede i byerne, og Det er så ovre på Frederiksberg i København og og 20. November.
+
+00:02:37
+Der er det tørke og grundvandstande.
+
+00:02:41
+Og før jeg lige giver ordet videre til Jørgen Olsen, så vil jeg gerne opfordre jer allesammen til at stille spørgsmål og komme med kommentarer undervejs. Jeres kamera er som regel slukket, og mikrofonen er også lukket. Men men skriv dem i chatten, så skal jeg sørge for, at de bliver stillet efter oplægget.
+
+00:03:00
+Ja, og så vil jeg bare give ordet videre til dig og håber jeg ikke har lovet mere end.
+
+00:03:07
+Vi kan holde.
+
+00:03:10
+Det er så fint.
+
+00:03:15
+Jeg tillader mig nu alligevel at snakke om lidt som hjertet brænder så så jeg kommer til at gå også lidt ud over det her med dansk landbrug jeg. Jeg er nemlig interesseret i hele verden.
+
+00:03:31
+Men, men den er dansk landbrug jo Sådan set også en del af og. Og og hvis jeg lige vi starter et andet sted ikke.
+
+00:03:40
+Fordi det hele hænger jo sammen. Ikke, så er vi jo udfordret af virkelig mange problemstillinger.
+
+00:03:50
+Her på den her klode og klimaet er et af dem og og noget Vi har selvfølgelig også prøvet at gøre noget ved. Det er de klima, udlændinge og belastninger, der ligger der, men Vi har jo også masser af andet, der skal håndteres, og noget af det gælder jo også ud i kommunerne. Vi har næringsstofudledninger, især af kvælstof.
+
+00:04:09
+Det er også en global problemstilling. Vi har natur og de Universitet, Der er presset.
+
+00:04:16
+Vi har faktisk også på globalt plan et ferskvands forbrug eller udnyttelse af fastland og de ressourcer, Der er præst. Det gælder ikke så meget i Danmark. Der er nogle gange alt for meget af det, som som så skal håndteres og i virkeligheden.
+
+00:04:32
+Hvis vi nu kigger på på de problemstillinger, Vi har med at gøre her, så handler det virkelig meget om land land.
+
+00:04:41
+I sidste ende.
+
+00:04:42
+Og på den måde passer det jo også sammen med med mit indlæg her og det. Vi skal jo også erkende ikke. Det er jo at det her med at kunne levere fødevarer, men jo i virkeligheden også bioenergi og materialer ja i det hele taget energi, faktisk i en en verden, der ikke kun er fossilbaseret.
+
+00:05:03
+De er jo også er en del af hele den her prins linje.
+
+00:05:09
+Nå, det her er nogle figurer jeg selv har lavet. Derfor stoler jeg kun.
+
+00:05:13
+Og og og de viser, hvis man nu tager udvikling ikke i Danmark med temperatur over de sidste årtier.
+
+00:05:23
+Temperaturen stiger faktisk ganske meget en halv grad per årti. Det er omkring det dobbelte af det globale.
+
+00:05:31
+Temperaturstigning faktisk lidt over.
+
+00:05:34
+Så Vi har jo, og det gælder faktisk hele Europa.
+
+00:05:37
+Stærkt stigende temperaturer.
+
+00:05:40
+Bliver stigende nedbør i Danmarks hvordan vi her sammen med øh med også stigende terror. Jamen Det har jo med bariabilitet at gøre, når det handler om tørke, og den vender jeg tilbage til, når det i virkeligheden ikke kun nedbør der bliver spiller en rolle der. Det er lige så meget også hvad er formningen?
+
+00:05:58
+Men Vi har en stigende nedbørsmængde på omkring 15 mm per år 10 Det er nok i virkeligheden.
+
+00:06:05
+Undervurderet fordi Det er min lavet en ændring i deres.
+
+00:06:11
+Stationsnet for en 5 20 år siden, som betød at i hvert fald en del af Jylland endte nedbøren med at blive underinstalleret.
+
+00:06:20
+Så men vi kan jo kigge på det på på 2 vis også stillinger. Jeg er lige tilbage til et problemstilling vi også kigger ind i og Det er mindst lige så alvorligt når vi nu snakker landbrug og og og så meget andet. Det er jo en øget variabilitet.
+
+00:06:38
+Og Det er især på temperaturen, at vi ser det. Ja, vi ser det også på nettet mængder, der bliver mere ekstrem, men Vi har en øget variation fra år til år i temperatur. Det er især om sommeren, vi ser det.
+
+00:06:51
+Om vinteren er det til gengæld faldende, og Det er fordi vi får mindre sne og og, og Det er der ekstremt kulde. Men om sommeren der ser vi nogle gange meget høje temperaturer, og Det er så knyttet.
+
+00:07:03
+Også typisk til tørkeperioder og andre år.
+
+00:07:06
+Jeg regner det bare ikke og og så så så er tingene også køligere.
+
+00:07:12
+Hvis vi nu tager det her med nedbør og og og og afstrømning. Ikke hvis vi kigger på udviklingen af mål, kan man sige i vandløbene ikke. Så har vi den her stigende afstand.
+
+00:07:24
+Det ser i Jylland, at det forekom, så Vi har selv i lille Danmark jo en geografisk variation på det her. Det hænger så også sammen med, at Det var i Jylland. I forvejen regner mest med, og så der vi også har fået de.
+
+00:07:40
+Største stigninger og største afstemninger, så.
+
+00:07:42
+Selvom vi nu måtte regne en øget fordampning ind, så er nedbørmængderne har oversteget den fordampning. Det er så Der er mere valg, der skal væk også også her er der selvfølgelig en stigende variation fra år til år.
+
+00:07:58
+Jeg har taget den her, og Det er fra det der klima atlas i virkeligheden som jo og er beklager i mange tal her, og Der er ikke mange, der skal fokuseres på, tænker jeg.
+
+00:08:10
+Men Det er bare til Information fordi Der er klimaatlas. DMI har lavet på grundlag af modelberegningen i virkeligheden med regionale klimamodeller, som man jo skulle tro og retvisende min påstand er, og det synes jeg.
+
+00:08:26
+Og og Det er ikke kun mig der mener det, fordi jeg samarbejder også med gode kolleger og planlægger i centraleuropa.
+
+00:08:35
+Som sidder og kigger på nogle af de samme modelleregninger i forhold til hvor repræsentative er de faktisk fra klimatilpasning også pænt.
+
+00:08:43
+Vores vurdering er, at i estimater Vi har et temperaturudvikling. Her er for lave. Hvis vi kigger ind i middel temperatur her for 2011-2040, så står der, at vi, der skulle forvente en stigning på omkring 0,7 grader.
+
+00:09:03
+Og Det er så over en 30 årig periode.
+
+00:09:06
+Det giver jo omkring 0,2 0,3 grad per og 10. Jeg viste lige før, at stigningen faktisk er en halv grad per år 10.
+
+00:09:18
+Vi har betydelig hurtigere udvikling nu, end det, der i virkeligheden ligger. Øh, i det grundlag, Vi har for klimatilpas.
+
+00:09:28
+Lidt samme gælder her.
+
+00:09:31
+Det er også lavere end den udvikling, vi rent faktisk ser, og så koster jeg jo endda, at den udvikling vi ser også af under estimeret, fordi vi ikke måler korrekt.
+
+00:09:41
+Så bare for at sige de ting Vi skal tilpasse os til her. De er alvorlige end det, der i virkeligheden ligger en del af det grundlæggende.
+
+00:09:53
+Så har jeg taget den her med, og Det er fra en artikel der ligger tilbage mere end 10 år. Jeg synes den er ekstremt illustrator, fordi det handler om stigende variabilitet.
+
+00:10:06
+Øh, og den er lavet af James Hansen. Det er ikke Hansen, Det er Hansen. Han var i en årrække.
+
+00:10:14
+For et par årtier siden direktør for noah, altså det nordamerikanske.
+
+00:10:22
+DMI så at sige.
+
+00:10:24
+Nå han har kigget på sommertemperaturer.
+
+00:10:29
+Og hvordan sommertemperaturer. Juni, august afviger fra et langsigtet gennemsnit, og Det er så det i kan se her til højre for enkelt år, og det startede med 55 og 55 og 75 og og Der er ikke så meget rødt deroppe. Det kommer der længere nede og det røde.
+
+00:10:47
+Det er jo der hvor vi når op i noget Der er over 2 grader og og Det er meget mørke over.
+
+00:10:53
+3 grader over over kan man sige det langsigtede igen.
+
+00:10:59
+Der bliver mere af det der kommer flere af de her hedebølger ind ind over og hedebølger er jo også ofte koblet til tørken.
+
+00:11:09
+Den kobling er der så er vi her til Venstre, der kan i se fordelingen af, hvordan er det at sommertemperatur afviger fra normalen går vi tilbage i de gode gamle dage i halvtredserne, så kan i se Det var en smal, for den varierede ikke så meget.
+
+00:11:27
+Og og selvfølgelig var gennemsnit også lavere, når vi så bevæger os frem i en tid her, så rykker fordelingen til højre i gennemsnittet.
+
+00:11:37
+Beer Høyer gennemsnitlige varmere.
+
+00:11:40
+Men Det er mindst lige så interessant her, at for den jo bliver bredere. Det gør, at hyppigheden er ekstrem.
+
+00:11:50
+Altså der hvor det bliver virkelig varmt for Sådan over 3 gange eller 4 gange eller så over det og det langsigtede gennemsnit giver langt hyppigere end hvis vi havde haft den gamle fordelt, hvor det ikke varierer så meget fra år til år. Så vi vi kigger jo ind i 1 1 1 klima nu og og Det er ikke noget vi forventer Det er når det allerede er der Der er mere variabelt end Det var i gamle dage.
+
+00:12:15
+Så det bliver mere ekstremt og og går vi ind i nogle af epcrapporterne, så har de præcis det samme her og det her. Det viser landbrugsmæssigt eller økologisk tørke. Det er der, hvor afgrøder eller naturen eller Sådan noget bliver påvirket, og Der er også.
+
+00:12:38
+En stigning i det og en signifikant stigning i det en række steder rundt omkring i verden.
+
+00:12:44
+Ikke så meget hos os i nordeuropa, men.
+
+00:12:49
+Både i vest og central Europa og nede i middelhavsområdet også her i Europa og så i øvrigt II store dele af verden i Danmark er det faktisk ikke så stort et problem. Vi har mange andre problemer, men men men, men lige præcis det med tørke. Det er et langt, langt større problem, hvis vi går længere ned i central og så videre.
+
+00:13:13
+Og det, og Det kan jo også ses. Kan man sige i de trends Der er det her er FPS miljøagentur, der har kigget på det.
+
+00:13:25
+Og den trend der har været, viser jo også at.
+
+00:13:29
+Både i Syd og centraleuropa ser de en trend mod at om sommeren, Der er mindre fugtighed i jorden.
+
+00:13:39
+Og det påvirker selvfølgelig landbruget. Det gør det mere udsatte og sårbart og dyrke afgrøderne. Det gælder ikke så meget oppe hos os og, og heller ikke hvis vi fremskriver.
+
+00:13:50
+Hvad kan man sige frem til 2050? Forskellen mellem syd og nord i Europa Det er langt, langt større.
+
+00:13:58
+Og Det er jo noget af det der jo så også kan man sige, måske ikke så afgørende, kan man sige, for for hvad vi lige præcis gør i dansk landbrug. Men Det er jo i hvert fald afgørende for, hvordan europæisk.
+
+00:14:12
+Landbrugspolitik og fødevarepolitik og så videre kommer til at se ud.
+
+00:14:18
+Så hvis vi igen kigger frekvenser i ekstrem tørke her, så siger vi samme tendens her og og noget af det, der jo i kan se Spanien her.
+
+00:14:31
+Er ekstremt påvirket af det og og Det er jo heller ikke noget der.
+
+00:14:37
+Der nødvendigvis kun hører fremtiden til.
+
+00:14:41
+Vi har jo set oliven oliepriserne eksplodere.
+
+00:14:46
+Det er en konsekvens af den tørke, der jo allerede nu breder sig i Spanien og mor selv der, hvor man vander olimtræerne ikke kniber jo med at finde tilstrækkelig mand til det formål, og vi ser også i fremskrivning af, at det breder sig op også oppe i Frankrig.
+
+00:15:05
+Ikke så meget i Danmark igen.
+
+00:15:08
+Så igen i Danmark er vi en smule forskånet faktisk for det her Søren, Det kan godt være, at vi kommer til at mærke mere ekstreme tanker i nogle år, men det bliver ikke det almindeligt.
+
+00:15:22
+Ja som er det der sker når vi nu snakker tørke og så videre. Det er jo faktisk lige så meget at Det er fordi fordampning og stige hvor meget Der er af tilgængelig vandmængde i jorden.
+
+00:15:39
+Og klimaændringen det fører jo nogle gange til andre, og den bliver faktisk fører klimaer II princippet ofte til mere intense nedbør mængder, også mere koncentrere i nogle perioder, men også længere perioder med tørt vejr. Så Det er den her større variabilitet, så derfor kan vi jo sagtens få mere ekstremt tørke i nogle år i Danmark.
+
+00:16:06
+Og vi får nu en fornærmning, fordi med stigende temperatur.
+
+00:16:11
+Der.
+
+00:16:13
+Øges luftens damptryk uden nødvendigvis at den aktuelle mængde af fugt i atmosfæren øges, og det øger fordampningspressen.
+
+00:16:25
+Og og i kan se hvordan hvis man nu regner på det ikke på en typisk dansk sommerdag, hvordan relationen her er mellem temperatur og hvor meget der så kan fordamp. Men hvis det altså vand nok til rådighed.
+
+00:16:40
+Det hænger sammen selvfølgelig med også hvad planterne gør, fordi for at planterne kan have deres fashyntese op til CO 2 og lave det i nu her med lave sukker og tørstof og så videre.
+
+00:16:56
+Så skal der jo CO 2 ind. Det kræver at vi spalte åbninger Vi har i bladene der hvor CO toen kommer ind. Ja at Der er åben for dem, men når Der er åbent for det, så er der også åbent for valget.
+
+00:17:08
+Kan fordampe ud af bladene, og det gør de igennem de her spaltevåbning og hastigheden, hvormed man så at sige farer ud der.
+
+00:17:19
+Det afhænger jo af forskellen. Damptryk mellem hvad Der er indblandet, og det vil typisk være 100% med det med vand og så hvad Der er udenfor og med stigende temperatur. Så er stiger også det her.
+
+00:17:34
+Damptrix forskel og underskud.
+
+00:17:37
+Mellem hvad der inde i pladen og hvad Der er udenfor og. Og det betyder jo i virkeligheden, at højere temperatur øger fordampningspresset, uden at der nødvendigvis kommer mere CO 2 ind.
+
+00:17:53
+Så det betyder i virkeligheden, at højere temperatur betyder, at planterne producerer mindre tørster kan få brugt vandmængder.
+
+00:18:03
+Så Vi skal bruge mere vand i fremtiden til at producere det samme ude på på Vores landvindsmarked.
+
+00:18:13
+Vi har kigget på. Hvad er så i virkeligheden effekten? Fordi Der er også noget der går i den 2 retning.
+
+00:18:19
+Ikke her fordi med med klimaforandringer eller udlændinge CO 2, der stiger CO 2 koncentrationen jo også oppe i atmosfæren, så noget af det her kan også modvirkes af det øgede CO 2. Det gør det i hvert fald for nogle plantearter, ikke for alle. Det gør det for eksempel for for at vide så med stigende.
+
+00:18:38
+Temperatur og se i fremtiden, og så videre.
+
+00:18:41
+Så er det så kan noget af det her effekt modvirkes så at sige af det højere CO 2.
+
+00:18:48
+Men det gør det ikke for Sådan en afgørelse som maj, så majs bliver virkeligheden lidt mindre konkurrencedygtig.
+
+00:18:55
+Nu er jeg meget, meget effektiv i forvejen, så Det kan godt være den. Alligevel vil det vi det Vi har kigget på er. Hvad er egentlig trusler?
+
+00:19:04
+Kan man sige i Europa, herunder også i Danmark fremadrettet? Det er rigtig meget stentørrende, men Det er også mest koncentreret i den sydlige og centrale del af Europa.
+
+00:19:18
+Kigger vi på det globalt, og Det er så gjort her med lidt andre metoder, hvor vi ikke direkte har regnet effekt på udnytte, men hvor Vi har kigget på.
+
+00:19:31
+Og Det er så det globale plan.
+
+00:19:34
+I læden.
+
+00:19:35
+Hvor stor et areal stor en andel af det ledareal Vi har globalt er påvirket af alvorlig service, og Vi har også kigget på det historisk endda tilbage til 18. 80, hvor Vi har gode data fra, og Det har ligget meget stabilt der på knap 10% årligt areal med alvorlig tørke.
+
+00:20:01
+Men Det er allerede steget nu frem til 2010, og Det er så allerede historik, kan man sige ikke Der er Der er fra 19 91-7 10 nå vi omkring en 50% højere. Nu ligger vi omkring det dobbelte faktisk.
+
+00:20:19
+I areal, Der er hvert år påvirket af alvorlige service, og det gælder også i mange af de hvide eksporterende lande.
+
+00:20:29
+Og Det har jo konsekvenser for krundpriser.
+
+00:20:33
+Det er en af de årsager til, at Vi har set stigende svingninger i de globale kornpriser i det seneste år.
+
+00:20:43
+Når vi så laver den her analyse af man driver verdens korndpriser og det primært stærke.
+
+00:20:53
+Det gælder ikke. Det gælder ikke for alle kornarter.
+
+00:20:58
+Ris for eksempel er ikke påvirket af det her, fordi ris styrkes i oversvømmet arealer i subtromisk og kropiske områder, men hvede lykkes primært, hvor Det er mere tørt, og hvor der ikke nødvendigvis er mulighed for vanding.
+
+00:21:15
+Og verdens videre priser rives af tørke omkring 70% af den variation vi ser i hvede. Priserne er bestemt af altså.
+
+00:21:26
+Og det gør så, og hvis i nu kigger på jorden her til højre.
+
+00:21:31
+Hvis vi kigger på, hvordan kunne det have udviklet sig, hvis vi nu bare tager udgangspunkt i den relation, der har været her de sidste 20 år og forsøger at fremskrive det?
+
+00:21:44
+Fremadrettet.
+
+00:21:47
+Hvordan kunne de her gennemsnitlige kortpriser så udvikle sig?
+
+00:21:52
+Og og der ser vi, at når vi begynder at komme over en global temperaturstigning på en 1,5 grad eller så, så begynder det virkelig at blive alvorligt og og. Og vi forventer jo, vi forventer jo ikke, at vi kan holde os. Kan man sige temperaturmæssigt under de her 2 grader?
+
+00:22:11
+Det er måske mere end 3 grader eller der omkring en beslutning af det her århundrede.
+
+00:22:18
+Og Det er jo. Det er jo noget, der ligner en tredobling i virkeligheden af de her kornpriser. Selvfølgelig må man betydelig variation igen fra år til år på, men ganske alvorligt for verdens fødevarer forsøgende.
+
+00:22:31
+Det har selvfølgelig også konsekvenser for for for for Danmark.
+
+00:22:35
+Ikke nødvendigvis for hvor meget vi producerer, men for hvor stort presse kan man sige vil blive også på, at Danmark og Dansk landbrug bidrager.
+
+00:22:47
+Til den her Forsyning med fødevareudvalget vi ser forsyningsproblemer allerede nu på 2 vis. Jeg har nævnt det med olivenolie her.
+
+00:23:00
+Det.
+
+00:23:00
+Øh, nu har jeg pris og det kommet ned, men altså det det noget jeg skal nok holde sig fordi det det her med sydeuropa og tørk og så videre er ikke en engangsforestilling. Det er noget vi forventer bare vil være. Vi ser det også med noget af grøntsagerne.
+
+00:23:15
+Hvor vi også har oplevet tankesituationer og noget af det her selvfølgelig også koblet til, at en del af de produktioner, vi snakker om her at koncentrerede i bestemte områder i verden.
+
+00:23:27
+Appelsiner Det har ikke været så meget. Den gens har også været meget dyr, men Det har været sygdom.
+
+00:23:34
+Vi ser også sygdomme og skadedyr, der jo også er koblet ikke så meget i den senere administrer i Europa, så ser vi jo, at en stor del af nåletræerne i centraleuropa døde.
+
+00:23:47
+Og og det at koble til at tørke.
+
+00:23:51
+Fremmer.
+
+00:23:53
+Forekomsten af bagtbiler.
+
+00:23:57
+Fordi de trives bedre i svækket træer, så store dele af, hvis i tager til sydtyskland, Tjekkiet og så videre. Deres måltræder døde.
+
+00:24:07
+Og Det er koblet til det her. Vi forventer masser af stigende problemer omkring det her med korn. Især hvad har jeg nævnt også tomater?
+
+00:24:18
+Noget er det samt kaffe. Det er varme. Ja lige nu er det faktisk jo massivt med tørke også i Brasilien og Vietnam.
+
+00:24:26
+Fremadrettet er det måske lidt mere også noget varme kakao. Det er både varme og nogen steder faktisk også lidt oversvømmelse.
+
+00:24:34
+Selv Sådan noget som håndvær i Europa forventer, vi bliver påvirket af.
+
+00:24:40
+Og i det for nu at bedrøvelighederne ikke har nogen grænse.
+
+00:24:47
+Så så har vi en 2 udfordring, der jo også tænker jeg kommer til at påvirke nogen af jer i jeres dagligdag og og Det er jo den kobling Der er til at klimaændringerne og deres effekter på Vores landbrug og fødevareproduktion og så videre er ned til i øvrigt at øge miljøbelastningen.
+
+00:25:07
+Og og Det er jo noget, som vi jo gerne vil starte her med at sige, vi gerne vil have reduceret.
+
+00:25:14
+Så det handler om kvæststof og fosfor. Udledning af det handler om jorden og dens kvaliteter. Det handler om beuniversitet.
+
+00:25:21
+Det handler om.
+
+00:25:23
+Vandmangel rundt omkring i verden, og det handler om pesticider.
+
+00:25:29
+Og det hænger sammen, kan man sige på tværs af alt det her er vurderingen i virkeligheden, at klimaændringer nok vil forstærke det her forurening og ressourcer?
+
+00:25:44
+Ressourcepungen.
+
+00:25:47
+Tager vi bare Sådan noget som genstof belastningen, og Det er fra den samme artikel her, der kom for ja en lille måneds tid siden. I yeah science.
+
+00:25:56
+Som kigger på, hvor stor er kvælstofforureningsproblemstillet og hvor meget forværres det af klimaændringer. Det er især den stigning, der forventes øget som som følge af nedbør.
+
+00:26:16
+Fordi.
+
+00:26:18
+Ekstremt nedbør og så videre har en tendens til at skylle det her Venstre ned. Det har vi også set herhjemme, især i det her år. Rigtig meget af den der øgede Venstre fulde ind, Vi har haft til fjorde og og det Marie i år har jo været en konsekvens af alt for meget vand.
+
+00:26:36
+Og og og det samme ser man andre steder og og kvælstofforurener ikke kun et dansk problem. Det er et globalt enormt problem.
+
+00:26:45
+Vi har også kigget på det her og og Det er ikke engang formentlig. Det er nogle år siden, Vi har kigget på hvad hvad hvad hvad sker der i virkeligheden med dansk landbrug, typisk dansk landbrug, når Vi har de her klimaændringer? Og Det er ikke kun en konsekvens af evigt afstrømning af nede ved, som Det var her.
+
+00:27:08
+Vi kan også se, at øget temperatur.
+
+00:27:10
+Fordi øgede temperaturer jo øger omsætningen af.
+
+00:27:15
+Det organiske stof fra Roskilde pendestoffer. Det er jorden og dermed også øger udledningerne af andet.
+
+00:27:23
+Der er mange problemstillinger kan man sige altså. Som Jeg tror i kan forvente at se øget udvaskning. Det er også det figurerne her til højre og siger med de her.
+
+00:27:35
+Klimaændringer, og uanset næsten hvilken.
+
+00:27:40
+Det er min model man i øvrigt der vælger at kigge på. Der har vi den effekt.
+
+00:27:44
+Øh, hvis vi ser jo også med stigende temperaturer, at øh det også kommer til at påvirke jordens kvalitet.
+
+00:27:52
+Fordi og også udlændinge i virkeligheden er CO 2, fordi højere temperaturer gør at mikroorganismerne i jorden de arbejder hurtigere, så de nedbryder også de organiske stoffer. Det kulstof der i jorden hurtigere, så det fører til øget CO 2 udledninger og lavere frugtbarhed i Vores jord.
+
+00:28:12
+Igen ligger Danmark et forholdsvist godt sted for det, men Der er rigtig mange andre steder i verden, hvor det her virkelig bliver et problem også blå sundhedsmæssigt.
+
+00:28:22
+Så ser vi i øvrigt risiko for sygdom og skadedyr med et øget behov for pesticerer på 10-20%. De har 10 bips. Det er faktisk en beregning Vi har lavet.
+
+00:28:31
+i Danmark er der godt nok mere end 20 år gammel, men men stadigvæk. Det er stadigvæk vil jeg mene gældende.
+
+00:28:39
+Så tager vi da den 2 artikel i 2 Det var II science så har den også kigget på på vand tilgængelighed fordi Der er rigtig mange steder i verden hvor man jo udnytter grundvand og overfladevand grundvand til landbrugsproduktioner.
+
+00:28:56
+Og Det er jo også truet af tilandringer i virkeligheden, fordi Det er nævnt tidligere er at det kræver mere vand at producere samme mængde af afgrøder, når temperaturen stiger.
+
+00:29:11
+Og den her artikel her hos egen har også kigget på det her med pesticidforbrug og fundet præcis det samme i virkeligheden, som vi fandt fra Danmark for 20 år siden. Det er jeg Sådan set glad for. Nej, Det er jeg egentlig ikke glad for.
+
+00:29:25
+Det her er jo super problematisk, fordi en del af det, vi forsøger på at gøre.
+
+00:29:33
+Og og lave mere.
+
+00:29:36
+Bæredygtige fødevareproduktionssystem.
+
+00:29:40
+De betragteligt svære under alle de her klima freminde.
+
+00:29:46
+Så klimaer øger den de risici, der ligger i Vores fødevareproduktion, og Det er koblet til ekstreme handelser også nogle gange nye biologiske samspil og så videre. Der sker fordi at klimaet og og med ændrer sig.
+
+00:30:07
+Så Det er noget med hedebølle og sætte terrken. Terken er virkelig især på den globale plan ekstrem alvorlig for den her fodbold.
+
+00:30:17
+Den der kobler jo også til nogle af de andre ting, og nu nævnte jeg det der med appelsinerne. Det er Det er en sygdom. Det er ikke.
+
+00:30:24
+Det er ikke en en. Det er en bakteriesygdom. Det kan den faktisk også vanskelig og bekæmpe med midler, fordi der ville vi jo skulle bruge nogen af de samme.
+
+00:30:36
+Fremme medicin så at sige som som vi jo bruger også til mennesker til at også husdyr til at at bekæmpe bakteriesygdom der.
+
+00:30:46
+Og det vil vi meget nødigt, fordi skaber resistens og og og hvis vi får skabt nogle af de her motiver resistente bakterier, så kan vi ikke engang helbrede os selv, så Der er også nogle steder her, hvor det her er virkelig svært at håndtere, og hvor der skal andre ting til for at vi, for at vi kan klare det. Og så er der jo det her med ekstreme handelse og øget variabilitet. Den der uforudsigelighed.
+
+00:31:12
+Der er også muligheder i det, og noget af det ser vi jo allerede. Altså hvad er der af nye afgrøder? Majs har vi jo allerede her nu fået til Danmark.
+
+00:31:21
+Ja, de kom for en 2030 år siden. Det var fordi vi fik det varmere mere. Vi begynder at kunne se kernemejs også at til korn.
+
+00:31:28
+Det er måske begrænset hvor meget vi kommer til at tror jeg i virkeligheden at se det, fordi vi jo også har regulering og så videre omkring det så.
+
+00:31:38
+Og og kernevejs er faktisk også en af årsag til, at vi nok ikke kommer til at se så meget af. Det er at.
+
+00:31:43
+Maj er mere følsom overfor tørken Sådan og som vinterved er fordi vinterviden for rødderne længere ned i jorden og dermed også bedre kan tolerere end forårsage, tørke og samt tørke end mejsen kan, så kan det godt være, at noget af det, man umiddelbart kunne se der var muligheder for ny afgrøder, faktisk ikke kommer på grund af den her øget variabilitet og og det man er nødt til at slås med der.
+
+00:32:09
+Så er man der.
+
+00:32:11
+Ja det begynder også at brede sig til danske marked.
+
+00:32:16
+Måske i første omgang til at gå ind i noget af den her stigende efterspørgsel efter plantebaseret fødevarer.
+
+00:32:24
+Øh, solting ser vi ikke så meget endnu, men det bevæger sig nordpå Europa.
+
+00:32:29
+Min har vi naturligvis også her.
+
+00:32:33
+Der hvor Jeg tror måske, at der kan godt blive lidt andet og som jo ikke er mest i figurerne her. Det Det er nogle andre muligheder, kan man sige, når vi får længere veksle, samt hvad vi jo gør.
+
+00:32:46
+Så kan det blive relevant at kigge ind i dobbelt afgrøder systemet.
+
+00:32:51
+Det kan være en kornafgrøde efterfulgt af en græsafgrøde eller noget andet, som Det kan også være en efterafgrøde, men men noget man kan udnytte og høste til en eller 2 form for biomasse.
+
+00:33:06
+Det vil helt klart have nogle fordele. Det vil nok også kræve noget ny regulering i virkeligheden i forhold til at få få tilskyndet til til noget, og Det er fordi Der er nogle betydelige samspil til, hvordan vi regulerer Vores fælles samfund med. Men hvis vi kunne få høstet og fjernet mere af den biomasse og det kvælstof, Vi har ude på Vores markeder, så er det jo en af de måder, Vi har.
+
+00:33:31
+På at læse Vores og mindske Vores venstreforlængelse.
+
+00:33:36
+Og så handler det også om det man kunne kalde resiliens.
+
+00:33:42
+Altså robusthed agtigt ikke?
+
+00:33:47
+Og og en af de måder, man kan sikre en øget robusthed på er jo en øget øget genetisk variation i de afgrøder, Vi har derude, og det behøver ikke at være, at Vi har flere arter, kunne det også være, men vi kan også være sorter.
+
+00:34:04
+Sorter, der reagerer forskelligt på, hvordan klimaet er, fordi når Vi har øvet variation fra år til år, hvordan nogle år bliver det køligt og vådt og andre måske tørt. Vi ved ikke på forhånd, hvad den bliver.
+
+00:34:19
+Og og og hvordan det passer vi os så til det. Jamen måden kunne jo være at vi faktisk blander nogle af de her sorter Sådan at vi sikrer os en lille smule måde. Vi har både nogle sorte, der klarer sig godt nok.
+
+00:34:34
+Ja og nogen der klarer sig godt nok. Det er vådt og nogen der klarer sig godt når Det er varmt eller køligt og og så videre. Det er i hvert fald en mulighed i det her.
+
+00:34:43
+Vi er nødt til at kigge ind i hvordan øger vi, kan man sige modstandsdygtigheden, resiliensen II det dyrkende systemer Vi har også II sorte og rart med<3
+
+00:34:55
+Men i øvrigt er der jo et massivt.
+
+00:34:58
+Behov for teknologi øh hele vejen igennem her og ikke kun til at sikre, hvad skal man sige?
+
+00:35:08
+Også mod de her klimaændringer, men jo samtidig til at sørge for at imødekommer de mange andre bæredygtighedsmålsætninger Vi har med lavere.
+
+00:35:18
+Øh, lave næringsstofudledninger, mindsket pesticidforbrug og så.
+
+00:35:27
+Så er der rigtig meget der skal ind over det her og og i virkeligheden er man nok nødt til at tænke tænke det hele vejen igennem, fordi det det II princippet er jo det nede II bunden af den her figur ikke går. Så hvad er det vi gør ude på Vores arealer Der er det afgørende.
+
+00:35:44
+Men det vi gør ude på Vores arealer, er jo afhængige af, hvad er det der sker efterfølgende? Ikke i kæden. Udnyttelsen af biomasse er nogen vil produceres derude på markerne, og Der er noget, der sker på vandbrugsbesterne.
+
+00:36:01
+Men Der er jo også noget, der sker op på lidt større skala i industrien i processeringen af det her.
+
+00:36:09
+Hvor vi jo har en eksisterende industri, for eksempel mejerier.
+
+00:36:14
+Eller.
+
+00:36:15
+Kar presselmælk eller slagterier, eller hvad vi nu har. Vi har jo stigende grad også fået en biogassektor ind, som jo også udvikler sig nu også til måske at håndtere nogle klynser og produktioner, biokuller og hvad ved jeg og og en bedre integration en helt 2 Forsyning, men vi kigger også ind i en ny form for grøn biografisering, hvor Det kan være andre afgrøder vi dyrker ude på markerne.
+
+00:36:40
+Og så leverer både noget.
+
+00:36:45
+Det kan være noget foder til dyrene, men jo også biomateriale og måske også over til.
+
+00:36:53
+Til biogassen til energiformål og så videre. Og i sidste ende er det jo selvfølgelig et spørgsmål også om hvad efterspørgsel for moren.
+
+00:37:02
+Alt det her skal tænkes sammen, og Vi er nødt til at tænke nye teknologier ind i det. Og når jeg siger teknologier, så er det ikke kan man sige kun nye dimser og dutter og Sådan noget, men Det er jo alt fra landskab design. Det er hvordan vi laver Vores biomasse produktionssystemer.
+
+00:37:20
+Hvad hvordan laver vi det her? Bio raffinering? Hvad er den recirkulerer de næringsstoffer og fordeler det rundt i landskabet?
+
+00:37:28
+Hvor hvad er det for nogle teknikker Vi har på biokemien nede i hvor Det er raffineret også i virkeligheden ude på landbrugsblade kan vi lave noget mikrobielt manipulation i virkeligheden også ude med Vores afgrøder, og hvor hvordan selekterer vi så man forædler vi på det? Hvordan speedervi det op, og Der er helt ny teknologi ind. Det kræver så at nogen af dem her også bliver godkendt og kommer i brug og så videre og bliver anerkendt.
+
+00:37:55
+Og og så har vi alt det der hedder præsentationsforbrug hvor?
+
+00:37:58
+Der er masser af 9 sensorer. Noget ude på traktorerne, noget i droner og noget noget i med satellitter og Vi har også robotter og så videre der kommer ind. Der er masser af nye teknologier og noget af det Vi er nødt til at få i brug, både for at vi kan sikre den her nødvendige klimatilpasning, men jo også for at vi kan løse bæredygtigt.
+
+00:38:22
+Ja så det her med og også at fokusere på cirkulære løsninger, og Det er jo der Jeg har puttet både bioraffereing og bioreakt og biovats og smider ind i det her. Det er afgørende både af hensyn til resiliensen i systemet, fordi i nogle af de her afgrøder, Vi har her, kan vi jo godt skubbe, hvis Der er en tørke, så kan det være, at Der er andre tider af året, at produktionen er højere.
+
+00:38:49
+Og hvis vi så kan udnytte forskellige former for.
+
+00:38:53
+Biomasse i Vores bio raffinering, så er vi mindre så bare.
+
+00:39:00
+Men, Der er meget der ligger i det her, og hvis vi kigger fremad rettet.
+
+00:39:08
+Så er det måske, at Vi skal tænke en lille smule anderledes og og det handler så også tilbage til det her. Hvad er det fremadrettet vi vil kunne bruge firmaets afgrøder til?
+
+00:39:19
+Og det, der i hvert fald er brug for gennem fremadrettet. Det er ind i et samfund, der jo i virkeligheden ender med at blive kulstof begrænset.
+
+00:39:29
+Fordi Vi har ikke villet ikke have adgang til deres fossile CO 2 længere eller fossile.
+
+00:39:37
+Vi har brug for afgroede farer så meget CO 2 som muligt. Ikke kun for at lave fødevarer, men for at bidrage både til biomaterialer, biog byggematerialer og alt muligt andet her, men også til energi.
+
+00:39:53
+Så Vi skal også holde på så meget kvæster for fosfor som muligt, for at menneskelig miljøbelastning, Der er af det. Vi har også brug for at få kombineret med en energiproduktion uden på Vores arealer.
+
+00:40:09
+Og Det er altså nogle nye muligheder i det her. Jeg ved godt, at lige nu er der meget diskussion omkring de der solcelleparker. Vi har jeg jeg.
+
+00:40:19
+Jeg tænker at det der solcelle pakke Vi har startet med at få lavet er lidt for dumt. Vi skal kigge på det på en 2 måde og Det er der det der begreb at det vil være lige at introducere op lige om lidt har en tror jeg en rigtig, rigtig stor rolle, så det handler om hvordan gør vi det her klogt fordi Vi har begrænset areal på den.
+
+00:40:41
+Så Vi skal helst udnytte Vores areal til flere formål samtidig.
+
+00:40:48
+Michel skal måske også kigge ind i andre afgrøder, for eksempel flerårige kornafgrøder.
+
+00:40:54
+Men det kræver altså, at der kommer en indsatsudvikling i forskningsindsats på det måske også andre forretningsmodeller for det, fordi problemet er jo, at der ikke er noget incitament for eksempel for forædere til at forædle på flere årige kornafgrøder, fordi de vil ikke sælge så meget såsæd. Og Det er den indtægt, de har.
+
+00:41:14
+Der er også noget II vi vil lige kæder. Vi snakker om at der i virkeligheden går imod den ønskelige udvikling.
+
+00:41:23
+Og så skal i jo tænke tolerance over for klimaks ekstreme og noget af det jeg nævnte her. Det er mere tolerant overfor klima, og så tager vi bare det her agro voltotek altså det man kunne kalde solcelle landbrug, og Det er der, hvor man har stillet solcellerne op, så de faktisk fungerer som læhhaegn. Det vil sige, de står nord syd.
+
+00:41:45
+De producerer mest energi, morgen og aften.
+
+00:41:51
+Godmorgen og aften. Det er præcis der.
+
+00:41:56
+Energiprisen er højest el-prisen er højst. Det her kan sagtens betale sig. Der er lavet analyser også på EU basis af at lave det på den her måde, og det viser, at Det er en samlet samfundsmæssig en bedre forretning.
+
+00:42:13
+Fordi at det dækker det. Det dækker bedre. Det energiefterspørgsel Der er.
+
+00:42:19
+End ved den sædvanlige placering af solcellerne, som bare så at sige dækker overfladen.
+
+00:42:25
+Samtidig kan vi jo have afgrøder ind imellem.
+
+00:42:29
+Det jo samme som som det her i virkeligheden bjerg og som gamle læhegn også gjorde. Det var, at de er jo med til at at beskytte mod for høj fordampning, og det her er også en tilpasningsting deltør.
+
+00:42:49
+Og går man til Frankrig, så er man ved allerede nu at benytte det som et som også som tilpasningsside.
+
+00:42:57
+Det er ikke så udbredt i Danmark, men jeg håber virkelig meget, at det her også vil blive tilskyndet at tage i ro i Danmark. Vi skal integrere tingene. Vi skal udnytte arealerne bedst muligt.
+
+00:43:09
+Ja og og hvis jeg så lige skal slutte af, og det bliver med den her.
+
+00:43:16
+Og det handler heller ikke helt så meget end bare om at tilpasse sig. Det mener jeg, men i virkeligheden. Hvad er det for nogle løsninger Vi skal kigge på, som opfylder?
+
+00:43:27
+De har mange forskellige formål, Vi har.
+
+00:43:30
+Kigger vi ind i den sædvanlige afgrund Vi har. De har i Danmark rigtig meget enårige afgrøde kor.
+
+00:43:36
+Der, der skal vi jo sikre at de er lidt mere diverse.
+
+00:43:41
+Det også af hensyn til.
+
+00:43:43
+Klimakastning og så videre og af hensyn til jamen siger jeg og leveret til en.
+
+00:43:51
+En plantesering.
+
+00:43:53
+Øh, efterspørgsel som bælteplanter, men bælgplanter og og så snakker vi nogle af Vores bælgches afgrøder. Vi er faktisk ikke særligt. Det er nogle af de der for først til kan man sige, så Vi skal.
+
+00:44:08
+Vi skal også have fundet ud af i virkeligheden, hvis vi nu skal slås med øl tørreden. Hvordan laver vi nogle delstatssystemer, der også kan tolerere det, fordi Der er vi ikke nu.
+
+00:44:19
+Så kan vi kigge ind i hvordan vi høster korn og føreoprørere og så videre, så vi kan bedre etablere i efterafgrøder, Der er både af hensyn til, at vi får samlet godt nok af de kristne moms, som vi kan formindske kvæststof udledninger, men også at Vi har en ny ressource her ind i den der grønne bi raffinering, altså dobbeltafgrøder og muligheden for det burde jo også blive større i kraft af.
+
+00:44:45
+Højere temperaturer og længere lektier.
+
+00:44:48
+Hovedafgrøder.
+
+00:44:50
+Der skal i nok især over i noget mere græspaser ud af noget af det der majs, selv om majs er rigtig god foder afgrøder men.
+
+00:45:00
+Men noget Der er faktisk baseret og måske også mere resilient og det kraftigt det kræver der tror jeg flere arter end det også. Nogen Der er mere dybt rodede end end end det vi kigger ind i lige nu.
+
+00:45:14
+Fordi det at have nye rødder er med til at at at sikre at funktionen også er der i tørv.
+
+00:45:25
+Så flerårige dyrkningssystemer Det er lidt af det samme.
+
+00:45:29
+Og og hvis vi tænker noget ind, hvor vi også har det her læ.
+
+00:45:34
+Aspekt ind Det kan sagtens være skovlandbrug, altså lære og så videre. Og det man kunne jo tænke ind i skovland brugen. Det er jo også nogle træer og noget vegetation.
+
+00:45:42
+Der er et andet produktionsformål, for eksempel nødder, som vi jo meget gerne også skulle have ind også til det mere plantebaseret.
+
+00:45:53
+Og så integration med en miniproduktion. Her er han allerede mellem solceller. Der er masser af ting der skal gøres på management siden både når det handler om børsning og sikre uddannelse og teknologier og til bedre at sikre præcision med det.
+
+00:46:09
+Vi gør også i planteforeningen skal det gøres en hel del.
+
+00:46:13
+Biografering har jo også nævnt, og så skal vi jo også prøve at at holde fast. Det er faktisk også en vigtigt klima tilpasning ting landbrug at jordskundhed sikres.
+
+00:46:26
+Når det at holde fast i en sund jord, der har godt med organisk stof.
+
+00:46:30
+Det kan vi gøre med flere afgrøder, og vi kan gøre med det her bio, og Der er vi igen den der integration med biogas og energisektoren, så Der er afgørende for det her kontekst, så Der er rigtig meget, vi godt kan gøre, og meget af Det er på vej. Der er også noget af det her, tror jeg. Vi skal skynde lidt mere.
+
+00:46:50
+Hov, og Det var alt alt fra mig.
+
+00:46:57
+Ja fantastisk 1000 tak.
+
+00:47:00
+Jeg skal starte med at med at dele nu. Eller hvad gør jeg?
+
+00:47:02
+Det er det. Det er ikke så så afgørende, så bliver vi ikke så store på skærmen. Det er fint.
+
+00:47:10
+Det er 1000 tak og Det er nu i har mulighed for at stille et spørgsmål eller komme med kommentarer og inden vi lige tager det, så kan jeg lige sige at.
+
+00:47:21
+I næste uge eller Det er jo så efterårsferien om ugen efter det, så har vi besøg af Morten Vestergaard og.
+
+00:47:27
+En repræsentant for sikke som også vil komme og fortælle om om om videre i den her føljeton her.
+
+00:47:35
+Yes og jeg ser om der kommer nogle spørgsmål her der står her. Du nævnte at vi ikke.
+
+00:47:43
+Måler nedbør korrekt, kan du uddybe det?
+
+00:47:47
+Ja der skete det altså. Det er mere værd at rette op på det. Jeg håber faktisk de har fået det gjort ikke men men der skete det da man får Det er vel en 15 år siden der kan jeg dårligt huske lige præcis årstallet.
+
+00:48:01
+Man gik væk fra at måle ned manuelt. Der var jo et stationsnet på en knap 400 station, hvor man hvor hvor der gik en en person ud hver morgen og tømte nedebøgermåleren og så skrev det op og indrapporterede det. Det blev så fordi det blev brunt lang tid.
+
+00:48:21
+Det var for dyrt og samtidig lagde man jo også gerne kunne have en lidt større tidsmæssig oplæsning i det her.
+
+00:48:28
+Den der Borgen her.
+
+00:48:30
+Der bliver lavet om til et automatisk stationsniveau, som desværre ikke er så tæt. Jeg vil ned i knap 100 stationer og dele af Jylland er altså lidt tyndt på det der, og Det har ført til et spring i. Hvad hedder det?
+
+00:48:49
+Niveauet af ned målt i dele af Jylland.
+
+00:48:56
+At Det er Sådan noget, DMI arbejder med at korrigere for så ja Jeg er ikke helt op. Jeg tror de har fået det gjort, men de gamle tidsserier er jo påvirket af det her.
+
+00:49:07
+OK jeg altså. Jeg har en baggrund selv som landskabsarkitekt, og Jeg kan ikke lade være med at sidde og tænke på hvordan alt det her om du har et eller andet holdning eller en mening til hvordan det her. Det vil måske komme til at ændre landskabet.
+
+00:49:21
+Altså du nævner de her agri solcelleanlæg og Det er jo Der er jo alle de her læhegn, og Det kan landskabsarkitekter rigtig godt lide de her læhegn og.
+
+00:49:29
+Strukturer også lige dem her.
+
+00:49:32
+Jamen de er jo de de mener i hvert fald mere om stregen på papiret.
+
+00:49:37
+Jamen jeg tænker faktisk også, at man kunne godt kigge på den der skal du se. Nej tænke indover. Man kunne faktisk godt få dem til at give pæne.
+
+00:49:45
+Jo, det tror jeg også.
+
+00:49:47
+Men altså kan man kunne man altså kan hvordan? Hvordan tror du altså areal anvendelsen og Sådan noget hvis er der behov for mere?
+
+00:49:54
+Areal Vi er udfordret på at.
+
+00:49:59
+At Vi har fort areal til alt det vi gerne vil bruge Vores areal, ikke?
+
+00:50:04
+Og og Det er jo Sådan set også den udfordring, der ligger i den der grønne trepart, som er nogen af dem, Der er kommet ind i ministeriet omkring. Hvordan får man løst den her gordiske knude?
+
+00:50:15
+Der Sådan set, da handler om at det vi Jeg tror, vi vil komme til at skulle bruge Vores areal 50% mere end det areal Vi har til de mange formål, og det gør jo og i virkeligheden det. Det det italesætter et andet proment også af reguleringsmæssigt, fordi en del af de lovgivning og så videre. Vi har der, der indgår den forudsætning at at et areal kun kan bruges til et formål.
+
+00:50:39
+Det går jo ikke?
+
+00:50:43
+Jeg har fået et nyt spørgsmål. Her er der eksempler på det her r krig voldtight det jeg forsøgte at undgå at sige II Danmark det der.
+
+00:50:52
+Grundforsøgsmæssigt endnu da og og vi Vi har et mit Institut.
+
+00:51:00
+Povs Universitet her Vi har 2 hovedlokaliteter og Vi har lidt Vi har lidt Vi har 2 forsøg. Det her er et af forsøgene som Vi har her ved Viborg.
+
+00:51:11
+Det ser Sådan ud og og Det er jo der vi kan måle os. Faktisk fordi vi havde et tolk ord her for det sidste år, hvor hvor hvor augreen faktisk havde det bedre her end end end end der, hvor vi ikke havde det her, så har vi et andet forsøgsareal på Sjælland. Det ser anderledes ud.
+
+00:51:29
+Der har de nemlig muligheder for at de her solceller de kan vippe.
+
+00:51:34
+Det det ser ikke helt så smukt ud. Vil jeg så sige her fra en arkitekt? Det syntes jeg, men Det er det at bekæmpe vippe gør at at at man kan udnytte arealet ind imellem de her solceller på en lidt 2 måde, der faktisk også kan være kina tilpasningsmæssigt med sit fint, fordi hvis man kan vippe dem, så kan man lægge dem ind, så de kan lave skygge og skygge kan også også med til at hindre.
+
+00:52:00
+Hindre fordamning Det kan også være med til faktisk at hindre at der dannes stuk om.
+
+00:52:06
+Natten og og book om natten er noget af det, der fremmer nogen af sygdommen ikke. Så Det kan jo Sådan være en en måde at at mennesket for eksempel Sådan noget fortolkning.
+
+00:52:19
+Så Der er masser af muligheder i det her, ikke?
+
+00:52:23
+Om det ja Det kan jeg godt se hvordan vi kan lige nå et spørgsmål til Jeg har lovet vi slutter 5 i så hvordan ser det ud på det samlede eller hvordan ser du på det samlede dyrehold?
+
+00:52:35
+Hvor meget vil det hjælpe på udvaskningen, hvis vi skar ned på kødproduktionen? IDK og hvordan vil det se ud i forhold til robusthed overfor tørke og ekstrem regning, hvis vi hvis mere af landbruget blev omlagt til foderdyrkning?
+
+00:52:50
+Til nej fra foderdyrkning til skov landbrug.
+
+00:52:54
+Ja ja.
+
+00:52:56
+Altså Jeg tror man skal tænke både skov landbrug og det her er kommunalt er endt som nogle muligheder. Ikke til at at sikre lidt større residens overfor tablet især.
+
+00:53:08
+Men dyreholdet.
+
+00:53:12
+Det er jo især formentlig kvægholdet Vi har et problem med.
+
+00:53:18
+Øh fordi Det er der at vi nogen steder ser meget høje.
+
+00:53:25
+Den står forskud på de her bedrifter og og når vi så sidder og kigger ind i ikke det, der skal til reguleringsmæssigt for at opnå.
+
+00:53:37
+Hvad skal man sige? Udlændingskravene givet at man i øvrigt gør alt det andet? Altså det handler jo om, at udtaling af jord og reduktion af.
+
+00:53:46
+Eller ændringer i dyrkningens mønster og og så videre.
+
+00:53:50
+Hvis det her skal overholdes og så så er det nok en 10 20%. Det skal være projektet på danske dyrehold med.
+
+00:53:57
+Det samme skal andre lande også rundt omkring os, og Det er så den der knæproduktion og mælkekrit produktion, fordi Det er jo Det er der jo også sket. i Europa er på grund af at man afskaffede mælkeproter, men også for en 25 år siden.
+
+00:54:11
+Så er mælkeproduktionen jo koncentreret i nord nordvest.
+
+00:54:15
+Europa og de er alle sammen samme problemer med de her for høje nærændstof udledninger, så alle kommer til at skære ned på det her.
+
+00:54:26
+Det kan kun.
+
+00:54:28
+Ja sige at vi får stigende priser. Øh på mælk, ost og smør.
+
+00:54:36
+Super ved du hvad?
+
+00:54:39
+Jeg tænkte, jeg beslutter her og.
+
+00:54:41
+Ja vi slutter på den hyggelige tone, ikke?
+
+00:54:44
+Ja ja ja, men det Det var et hyggeligt oplæg også.
+
+00:54:48
+I hvert fald 1000. Tak for oplægget. Jeg synes Det var meget interessant og tak for de spørgsmål der kom.
+
+00:54:55
+Og ja, så må i alle sammen have en god dag.
+
+00:55:00
+Og vi ses.
+

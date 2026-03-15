@@ -1,0 +1,267 @@
+00:00:04
+Ja men det jeg skal snakke om Det er de erfaringer som som jer og som Vi har gjort os med med skadesberegninger i danske kommuner og og en stor del af det Jeg vil præsentere i dag. Det er fra da jeg var ansat i en lille rådgivervirksomhed, der hedder LNHW water, hvor vi lavede skadesberegninger for en masse kommuner i relation til DK 2020 projektet. Så Det er Sådan en opsamling indsamling af alle de skadesberegninger, vi lige har lavet for for de kommuner.
+
+00:00:29
+Og Det er selvfølgelig ikke alle kommuner.
+
+00:00:31
+Herudover, så var jeg rundt sammen med KL til Sådan et kompetenceudviklingsforløb for gis og klima medarbejdere i kommunerne, og der gjorde vi så også nogle rigtig gode erfaringer, og det blev holdt sidste år, der kørte lars og jeg rundt på de danske landeveje og og diskuterede alt det her med risiko og skadesberegninger med med de danske kommuner.
+
+00:00:53
+Den første del med skadesprængden bliver der mange tal meget data, så det håber jeg at i at i er med på i forbindelse med DK 2020, der har jeg været involveret i skadesprængninger for de her 9 kommuner her.
+
+00:01:06
+Og det omfatter skadesberegninger for nedbørstormflod og vandløb. Alt i alt er der, er der beregninger for 201 oversvømmelseskort, så Det er 201 forskellige skadesprængninger eller 2 måneder et forskelligt oversvømmelseskort, som så i alt giver de her 976.
+
+00:01:21
+Skadesberegninger yes nye kommuner alle 9 kommuner har regnet skadesberegninger for nedbør stormflod og kun få af dem for vandløb. Og så er der lidt forskel på, hvilke sektorer Der er blevet beregnet. Langt de fleste har regnet bygninger, og så er der lidt færre for nogle af de andre sektorer og hele formålet med at samle al den her data sammen for nu det at være at kigge på jamen hvor meget betyder de her forskellige sektorer for den samlede skade?
+
+00:01:46
+Det har i hvert fald været et af ønskerne.
+
+00:01:50
+Kirsten har lidt præsenteret, hvad der bliver beregnet, så det vil jeg gå ind gå ind på, men Det er de her for de her 6 sektorer Vi har samlet data sammen for, og man kan Sådan set sige, at resultatet af hvor meget af de enkelte sektorer de betyder. Jamen, det afspejler selvfølgelig også de metoder Der er brugt til at regne skaden ud, og Det er jo ikke for alle de her sektorer. Vi har verdens bedste metode endnu, og Det er jo noget af det, vi gerne vil arbejde videre på og udvikle.
+
+00:02:15
+Nogle forudsætninger, fordi Der er mange herinde som laver beregninger selv, og Det er meget, meget vigtigt, som Birgit også var inde på. Hvad er det for nogle forudsætninger man lægger i sine beregninger? For langt de fleste af kommunerne, så er der lavet beregninger fra 5, 10, 2050 og 100 år under nuværende forhold og fremtidsforhold.
+
+00:02:31
+Det vil sige 10 forskellige oversvømelseskort per Kommune per oversvømmelsestype.
+
+00:02:39
+De fleste tilfælde har de brugt RCP 8 5 scenariet, som er et højt.
+
+00:02:43
+Giv mig sin egen.
+
+00:02:46
+Og Det er forudsat er areal anvendelsen i fremtiden er den samme som i dag.
+
+00:02:53
+Nogle andre relevante forudsætninger? Det var ikke tanken, da vi lavede de individuelle beregninger, at de ligesom skulle samles, så Der er lidt forskel. Men i de fleste tilfælde jamen der har vi sat Sådan en en nedre grænse, der skal 20 cm vand til før der udløses en skade på en bygning.
+
+00:03:06
+5% af bygningsparameteren skal være berørt før Der er en skade.
+
+00:03:12
+Oversættelseskortene er lavet med en blanding af meget komplekse modeller, altså meget for eksempel mike modeller eller andre et d 2 d modeller og hele vejen over til bluesbot for områder, hvor der måske ikke ligger byer, og Det har ret stor betydning, når jeg kommer med et eksempel til sidst på, hvor stor betydning det rent faktisk kan have, hvordan man griber det her an.
+
+00:03:32
+Og så lidt omkring skadesfunktionen. Jamen altså skaden er vanddybdeafhængig for stormflod.
+
+00:03:37
+Og vandløb Venstre nedbør, at der skal der bare den her vanddybde til, før der udløses en skade. Men i alle tilfælde så starter skaden først ved 20 cm vand.
+
+00:03:50
+Resultatet.
+
+00:03:52
+Er at samle alle de her data sammen på y aksen, der har vi hvor stor en andel af skaden.
+
+00:03:58
+Og på x aksen har vi de forskellige sektorer, og hvor vi så er bygninger, herovre og så videre henad de forskellige farver angiver oversvømmelsestypen. Den mørkeblå er nedbør, den lidt lysere hav og den lyseste af vandløber, så en samlet, når vi samler det hele sammen.
+
+00:04:14
+Og fra denne her figur bliver det ret tydeligt, at bygningsgader.
+
+00:04:19
+Og de metoder vi bruger her udgør langt størstedelen af skaderne uanset oversvømmetstype. Uanset om Det er i dag eller i fremtiden. Det ser faktisk endnu værre ud i fremtiden.
+
+00:04:27
+Altså, Det er en større andel, hvis vi kun kigger fremtid især på hav.
+
+00:04:34
+Oversvømmelser for nedbør påvirker flest mennesker.
+
+00:04:39
+Og det ligger til. Det er årsagen til Det er til dels af, at når vi kigger på hvor mange mennesker der påvirker dem, så kigger vi på der hvor mennesker bor, så det vil sige. Der vil være en masse sommerhuse, hvor folk ikke har bopæl, som jo så også bliver berørt, men i den her måde at kigge det og og se det på jamen så er det flest mennesker for nedbør.
+
+00:04:58
+Turisme størst på storflad er måske ikke så overraskende, at det vil være i sommerhusområder og kystnære områder, at Vi har turisme i Danmark.
+
+00:05:10
+Og måske lidt overraskende. Jamen i alle tilfælde var jeg og trafik fuldstændig ligegyldigt, altså i den måde vi opgør det på her.
+
+00:05:20
+Og der kunne måske godt ønske os, at vi blev lidt dygtigere til at opgøre og få alle skaderne med. Men i hvert fald måden vi, som Vi har gjort det på her. Og så er der nogle af de sidste her, som heller ikke betyder synderligt meget.
+
+00:05:32
+Hvis vi prøver at zoome lidt mere ind på mennesker der påvirkes, så prøvede jeg lige hurtigt her i går for at få lidt lidt nye tal. Det er altid sjovt at præsentere om noget nyt i stedet for at gentage så selv. Jamen, hvis vi kigger på nedbør.
+
+00:05:44
+Under nutidig klima jamen så er det cirka 2-6% af befolkningen som bor i helårsboliger der påvirkes.
+
+00:05:51
+Og Det er baseret på de her 9 forskellige.
+
+00:05:54
+Kommuner og Det er et gennemsnit på cirka 4%.
+
+00:05:58
+I fremtiden vil det stile til 6%.
+
+00:06:00
+For nedbør, så det giver en eller 2 fornemmelse af størrelsesordenen. Det er kun de 9 kommuner der kan sagtens være andre kommuner, hvor det ser meget værre ud, men det skal nok være nogenlunde repræsentativt.
+
+00:06:09
+Kigger vi på storflåde, jamen så er det langt mindre del af befolkningen. Det er tilbage til det her med, at vi kigger på helårsbolig og ikke på sommerhuse, så der vil være måske x antal personer per sommerhus, så er der også som også bliver berørt, men måske ikke i samme omfang som hvis Det var deres bopæl.
+
+00:06:24
+Det tal stiger markant mere i fremtiden, måske helt op til 9%, men et gennemsnit på 3% bliver berørt.
+
+00:06:34
+De her gennemsnitstal. De fortæller ikke hele historien, så hvis vi prøver at zoome lidt ind her. Det er fra Kalundborg med stormflod og nogle af de ting, man skal lægge mærke til her.
+
+00:06:41
+Vi har en skadesberegning nutidigt klima og fremtidig klima for de her sektorer her. Der er flere forskellige ting. En er at bygningsskaden i alle tilfælde udgør den største del.
+
+00:06:51
+Det er den her mørkeblå, så den samme mørkeblå farve som som anna også havde med, så Det er jo dejligt, så er det let genkendeligt. En 2 ting er at skaderne i fremtiden bliver altså voldsomt meget> de er i dag, hvis vi ikke gør noget, og hvis bygerne ser ud, som de gør i dag.
+
+00:07:10
+Zoomer vi lidt ind og kigger på nogle delområder, for Det er jo ikke sikkert man vælger at beskytte en hel Kommune på en gang, så vil man se nogle lidt andre tendenser også. Der kan være nogle områder for eksempel her i Kalundborg. Jeg ved ikke hvor mange Der er bekendt med det.
+
+00:07:21
+Jeg var ikke før jeg lavede de her kort her, men der ligger nogle sommerhusområder der hedder bjerg nordstrand bjerg sydstrandsø, som hvor at måske turisme.
+
+00:07:29
+Udfordringen er noget> hvis man bare kigger generelt og samlet set på det.
+
+00:07:33
+Så noget af den gevinst, man rent faktisk får ved at gå meget detaljeret til værks, som måske også kigge på nogle mindre geografiske områder. Det er at der faktisk er nogle af de skader man måske ikke så ofte har med, som kan betyde rigtig meget.
+
+00:07:45
+Så at have den her detaljerede tilgang til det, selvom det måske tager lidt mere tid, kan måske have en stor gevinst i forhold til hvad det egentlig er for nogle omkostninger eller hvad for nogle tiltag og hvad man beskytter.
+
+00:07:56
+Og det her. Det vil være på helt samme måde. Det ser, hvis jeg havde taget Vejle med, kunne jeg finde den samme.
+
+00:08:00
+Hvis jeg tog nogle af de andre områder med, kunne jeg finde nøjagtig det samme.
+
+00:08:04
+På storm flødestil.
+
+00:08:07
+Kigger vi på bygningstyper, og her er det igen eksempel for stormflod. Jamen i dag de orange her er sommerhus. I dag er det nærmest udelukkende sommerhus, som er i risiko mere eller mindre sat lidt på spidsen.
+
+00:08:21
+Kigger vi i fremtiden, jamen så vil det i lige så høj grad være være helårsboliger og erhvervsbygninger. Erhvervsbygninger her den mørkeblå helhedsboliger her den gule, så man kan sige så at sige vandet bevæger sig ind i byerne i fremtiden.
+
+00:08:33
+Lige nu ligger det måske og påvirker sommerhusområderne i kystområdet, men.
+
+00:08:37
+Om 0,5 m eller en hel meter, eller hvor meget man lægger sig i. Jamen, så er det altså byerne, der står for skud, og det fremgår ret tydeligt her.
+
+00:08:46
+Og det tilsvarende igen for alle de andre kommuner også på stormflod.
+
+00:08:53
+Så har vi været inde i det her med, og som måske er noget af det vigtigste, vi gerne vil have ud af det her også. Jamen, hvad er det egentlig, vi ved noget om? Hvad er det, Der er?
+
+00:09:00
+Hvad er det, Vi er sikre på? Hvor har vi data, hvad er vi usikre på, og det her er Vores frit og måske tildeles Miljøstyrelsen. Det var noget, vi arbejdede.
+
+00:09:09
+Vi har også lavet for Miljøstyrelsen i hvert fald et bud på, hvordan det ser ud i dag.
+
+00:09:13
+Og ja der har vi hvor på x aksen har vi betydning for den samlede skade, hvor Vi har bygninger, og Det kan godt være, at de andre skulle have været meget længere nede, når det kom til stykket. Men i hvert fald bygninger er vigtigst her på den 2 akse her der kigger vi lidt på jamen, hvor nemt er det egentlig at arbejde med? Altså er det svært.
+
+00:09:28
+Er det svært at hente data. Er det svært at lave beregninger er det komplekst, og så har vi de her farver med hvor hvor usikre er vi på det estimat på det skadesberegning vi egentlig laver grønt, jamen så er vi rimelig sikre og rød.
+
+00:09:39
+Så ved vi måske ikke så meget om det.
+
+00:09:42
+Og logikken bag Vores valg af farve her. Det er faktisk for bygninger, der har vi jo forsikringsdata. Vi ved, hvad Det har kostet.
+
+00:09:49
+Mens jeg for nogle af de andre sektorer der, har vi ikke tilsvarende datagrundlag.
+
+00:09:54
+Og så kan vi jo diskutere om vi om de er gode nok, eller om vi gerne vil have mere data, men alt andet lige, så har vi data.
+
+00:10:00
+Og Det har vi faktisk også. Vi har indsamlet noget på turismedelen, og Vi har indsamlet noget på mennesker og helbredsdelen. Det er måske ikke lige så grundigt og omfattende, men vi ved trods alt lidt, og så er der nogen sektorer vi måske med.
+
+00:10:11
+Vi ved mindre.
+
+00:10:17
+Det kan i hvert fald stimulere en diskussion, tror jeg både hvordan Vi har gjort det her, men altså måske også give et billede af, hvor Det er vi bør gøre mere.
+
+00:10:25
+Nu skal vi se den 2 del hvor Vi har taget nogle erfaringer med. Jeg skal prøve at gøre det kort, så vi kan få frokost og holde panel og Sådan noget bagefter også. Der var vi rundt til ikke alle landets kommuner, men de de 5 geo samarbejder som landet er inddelt i, og Jeg tror 2/3 af de landets kommuner havde repræsentanter med og en af de ting vi spurgte mig om Det er hvor har de største udfordringer?
+
+00:10:47
+Fra.
+
+00:10:49
+Om Det var nedbør stormfed grundvand, vandløb og så videre. Og der var det klart overvejende noget der har med vand at gøre. Det er det, Der er det store problem.
+
+00:10:55
+Det er ikke hedebølger. Det er ikke tørke. Hvis vi kigger Sådan generelt set på det, så bliver suget dag.
+
+00:11:01
+Det kan godt være, det ændrer sig i fremtiden.
+
+00:11:07
+En 2 vigtig pointe til det her med oversvømmelseskortene, fordi skadesberegningen er udelukkende eller i hvert fald i rigtig mange tilfælde baseret på at Der er lavet et oversvømmelseskort. Og her har jeg prøvet at sammenligne 3 forskellige metoder blusespot fra kamp skal jeg gå live, hvor Der er noget mere eller mindre komplekst infiltration? Det er den nye skal gå live med de nye infiltrations retter, og så Det er det som mit gamle firma lades, hvor man har en en arbejdssystem model med.
+
+00:11:33
+Og bare lige ved at kigge på det her, så ser de jo meget forskellige ud. Der er noget med at vand herovre og lidt mindre her og så den mindste herovre hvis man nu laver en skadesberegning på de her 3 og sammenligner og Det er samme nedbørsinput, så det skulle gerne være samme hændelse vi kigger på her, så får man 1250 bygninger kamp. Jeg håber ikke Der er nogen der bruger kamp på den her måde her, men men og man får cirka halvdelen det skal gå og så får man 1/3 af skalgus hvis man bruger en mere kompleks.
+
+00:12:00
+Så hvordan skal man forholde sig til det?
+
+00:12:05
+Jeg ville jo heller ikke mene det her. Måske var den allerbedste metode, men altså Det er bare for at sige Det kan være altafgørende for skadesberegningen. Hvilken model man bruger.
+
+00:12:19
+Det kan også have stor betydning for, hvilke områder man får udpeget.
+
+00:12:23
+Så Det er bare lige at have det mente at det at Det er altså rigtig rigtig vigtigt.
+
+00:12:30
+En 2 ting og Det er noget af det det Det er det sidste Det er, at selvom Vi har alle de her data højtopløseligt, de er rigtig gode. De bliver opdateret og Vi er dygtige alle sammen til det vi gør, så er der stadig fejl når man begynder at lave beregninger og Der er store fejl.
+
+00:12:46
+Som vi ikke bare hvis jeg sidder bag mit min skærm, kan nødvendigvis finde ud af hvorfor om Det er en fejl eller ej, så lokal viden er altafgørende for, at vi får rettet nogle af de fejl til. Og jeg ved godt, at Det er kommunernes ansvar at få opdateret de her tilpasningslag, men i alle tilfælde så vil der være fejl tilbage og i det her tilfælde, som er for Vejle, der var sgu vil det her i virkeligheden ikke være blevet oversvømmet. Og hvis vi ikke havde fundet den fejl og pillet ud, jamen, så ville Vores konklusion være, om Det er det her, det hotspottet.
+
+00:13:16
+Det er det Vi skal beskytte.
+
+00:13:19
+Og så nogle fejl har der været i alle 9 kommuner på stormflods delene, og Det er sikkert endnu værre på nedbørstedelen og endnu sværere at gøre noget ved.
+
+00:13:28
+Så Det er bare for at sige, at Det er meget, meget vigtigt, at man lige tager sin lokale wandløbsmedarbejder med ind over, når man i kvalitetssikrer de her ting.
+
+00:13:37
+Den sidste. Jeg bad jo alle de andre oplægsholdere om også at komme med Sådan lidt anbefalinger. Hvordan kommer vi videre i at få noget mere viden?
+
+00:13:43
+Jamen altså.
+
+00:13:45
+Noget af det, vi ikke ved noget om, og som måske godt kunne ligge højt herovre til højre. Det er noget omkring virksomhedernes produktionstab.
+
+00:13:55
+Og Det har vi simpelthen ikke med nu på fornuftig vis kystdirektoratet og nogle andre har nogle metoder til det, som og bedst fra nios har også en metode, men der kunne man godt arbejde mere med det, for det kunne være vigtigt og Det er helt oplagt at gøre det nu, fordi Vi har et kæmpe område Danmark, hvor Der er en masse virksomheder Der er blevet berørt.
+
+00:14:16
+Opdatering af skadespunktsfunktioner. Vi har allesammen nævnt forsikringer om pension og sagt, vi vil gerne have data, men det vil være oplagt at gøre en gang imellem, når Der er sket noget lige får opdateret, at er vi nu også på rette vej eller ser det helt anderledes ud.
+
+00:14:29
+Og så er vi også egentlig interesseret i at kunne se i forbindelse med oktober stormflod. Der er en masse havnenær infrastruktur og store skader, der som i hvert fald ikke i Vores model er repræsenteret.
+
+00:14:39
+Så måske lidt mere fokus på infrastruktur og måske også lidt mere på vejinfrastruktur og de her forsinkelser kunne vi også godt gøre det bedre, end vi gør i dag.
+
+00:14:49
+Det var alt jeg ad.
+

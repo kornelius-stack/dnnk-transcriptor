@@ -1,0 +1,618 @@
+00:00:07
+Det er alle.
+
+00:00:08
+Velkommen til dagens tik tok på DNK mit navn Det er teis rost Andersen og for vi University College sammen med Morten halling fra DNNK vil jeg gerne på vegne af dianning k byde jer alle sammen velkommen til dagens tiktok. I dag vil Dennis trolde fra water web tools fortælle om asabplatformen, som gør det nemt at få indsigt i den overfladiske afstemning og derfor et særdeles relevant værktøj i forbindelse med klimetal pasning og klimatilpasningsløsninger og planlægning af disse.
+
+00:00:34
+Inden jeg giver ordet til Dennis, så er lige lidt praktisk information. Selve præsentationen vil vare cirka 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål. Men i kan stille jeres spørgsmål gennem chatten, og så vil jeg løbende publicere dem, og Dennis vil besvare dem i slutningen af tekt toppen og for en god ordens skyld skal jeg informere om at tik toppen bliver optaget.
+
+00:00:52
+Det var vist alt, og så vil jeg give ordet til dig, Dennis.
+
+00:00:56
+Tak stejs først vil du gerne lige sige tak for invitationen og for at jeg får lejlighed til at fortælle lidt om de løsninger vi går og arbejder med her II water web tools.
+
+00:01:09
+Ganske kortere om om de overordnede rammer, der som vi arbejdede med, så arbejdede vi faktisk med de 3 store udfordringer med vand. Det er oversvømmelse, Det er tørke, og Det er vandkvalitet. Lige i dag vil jeg fokusere på Vores løsninger i forhold til oversvømmelse.
+
+00:01:23
+Og hvis vi lige kan kigge på en dansk kontekst og i forhold til oversvømmelser, så er jeg sikker på, at i allesammen husker at oversvømme som i er i Tyskland i 2021, og det gav lejlighed til, at den danske regering ligesom lavede et eftersyn på, hvilke teknologier blev der brugt til at lave varsling i forhold til oversvømmelser i Danmark. Og det viser, at der var ingen i brug i hvert fald nationalt på det tidspunkt, og derfor blev der så igangsat til et stykke arbejde for at at lave et nationalt varselsystem for oversvømmelser som.
+
+00:01:53
+Men nu er på en tovholder på.
+
+00:01:56
+Og sagens her for en måneds tid siden blev der igen afsat et ret stort beløb på finansloven i forhold til at at lave et et nationalt varselssystem for oversvømmelse.
+
+00:02:07
+Hvis man ligesom kigger lidt på hvorfor oversvømmelser eller varslinger oversvømmelser er en god ide i Sådan en dansk kontekst. Jamen, så er den anslået værdi ved at have prognoser tilgængelig omkring 90-140 mio. Kroner årligt.
+
+00:02:21
+Det er et ret konservativt estimat vil sige. Det blev lavet i forbindelse med det projekt, der hedder hydrologiske informations og prognoservice hip.
+
+00:02:31
+Hvis man kigger lidt til erfaringer fra USA, så er der Sådan en tommelfingerregel der siger så lidt som en times varsling på en aversions. Det kan reducere omkostning i forbindelse med en oversvømmelser på omkring 10%, så Der er store beløb ved potentielt at hente ved at at have varsling tilgængeligt.
+
+00:02:50
+Hvis vi kigger lidt til udlandet, jamen, så er der endnu større potentiale for sige økonomisk potentiale for at tage brug af af varsling II forhold til oversvømmelser også i forhold til vandkvalitet.
+
+00:03:03
+Der er blevet lavet blandt andet lavet en meget stor og decideret cos spænding analyse på drikvandsreservage IUSA, som Jeg har talt eksempel med her fra.
+
+00:03:12
+Og her viser det sig at at hvad kan man sige, hvis man har varsling og prognose data tilgængelig til at træffe beslutninger i forhold til at drive for eksempel et reservoir, som kan være til drikkevand? Det kan også være til til oversvømelses reduktion. Jamen, så får man en høj betalingsvindel hos forbrugerne.
+
+00:03:30
+Der blev også lavet en analyse på Sådan et enkelt nøglereservoir i Sådan ovre i Californien. Noget der hedder link med dusino og den samlede gevinst ved at have prognoser data tilgængeligt i forhold til at træffe beslutninger. For hvordan skal man drive som reservoir?
+
+00:03:44
+Det blev anslået til over halvtres millioner kroner årligt for et enkelt reservoir, og Det er gevinster ikke kun i forbindelse med. Og hvad kan man sige at reducere omkostning til drift? Det er også i forhold til, hvis man ser omkostninger i forhold til oversvømmelser.
+
+00:03:57
+Men også i forhold til bedre rekreative værdier, bedre fiskeri og så videre.
+
+00:04:02
+Og for at sætte det lidt Sådan i kontekst i forhold til skabet, så findes der altså mere end 8000 reservoir IIUSA, så Der er potentielle en meget, meget stor gevinst at hente ved at at bruge obersmelle prognoser til at træffe beslutninger til at drifte reservoirs.
+
+00:04:21
+Hvis vi kigger lidt på de løsninger, som som vi ligesom har har arbejdet på igennem årrække nu, så har vi udviklet det, der hedder esaplatform og e saab det står for ascale prognose, og Det er fordi at Det er en. Hvad kan man sige en skalerbar løsning Vi har udviklet. Det er noget vi kan bruge i Danmark.
+
+00:04:37
+Det er noget, vi kan bruge USA. Det er noget, vi kan bruge i Kina, fordi Det er baseret på nogle modelspsykologier, der kan drives på data, Der er globalt tilgængelige.
+
+00:04:46
+Kan man sige som som bruger af platformen, så har man en intuitiv platform, som giver sig overblik over ikke bare prognosdata, men også realtidsdata. Hvis man eksempelvis har sensorer installeret II vandløb eller i overløb eller i grundvand.
+
+00:05:00
+Og så er det den platform vi bruger til ligesom at samle alle de forskellige løsninger Vi har inden under den her paraply, der hedder SF platform, og jeg skal nok lige illustrere hvilke løsninger Vi har inde i den nu, som kunne være relevant også i en dansk kontekst.
+
+00:05:15
+Men det som platformen gør Det er at den henter, kan man sige lokal hverdag. Det er vejrudsigten.
+
+00:05:21
+Så er der en række modeller, Der er kompatible med platformen, som så kan køres på baggrund af den her vejrudsigt.
+
+00:05:28
+Og platformen er udviklet på en måde Sådan at i virkelig, hvis Der er en model type, som ikke lige nu er kommet tit med platformen, så kan vi simpelthen bare bygge et interface i den her model. Så hvis i sidder derude med en model type, som vi ikke supporterer nu jamen så vil vi godt kunne bygge den ind i platformen og på den måde gjort den operationel.
+
+00:05:46
+Vi har også udviklet sin IOT platform til essapp, og det betyder, at hvis man har en sensor, der sidder ude i et overløb eller i et valgløb, jamen, så kan vi koble den ind i Vores platform, og det her data kan så også visualiseres via den her weplatform.
+
+00:06:05
+Og endelig, så kan man sige alt det data vi producerer om. Det er reeltidsdata for sensorer, eller om Det er prognoser der kigger frem i tid. Jamen Det kan man tilgå via psykologisk webplatform, men man kan også downloade det via API er.
+
+00:06:17
+Hvis nu man eksempelvis har sin egen softwareløsning, men bare gerne vil hvilken sige høste noget af det data vi producerer og integrerer ind i sin egen løsning, så er det også en mulighed.
+
+00:06:27
+Det kræver ingen installation overhovedet for at komme i gang med denne her platform. Man logger simpelthen bare på Vores hjemmeside, og så får man så adgang til sit prognoseområde, som så opdateres med prognoser typisk 4 gange dagligt.
+
+00:06:44
+Hvis vi kigger lidt ind i motorrummet II platformen, så har vi lige nu 4 løsninger.
+
+00:06:50
+Du kan starte herovre fra fra Venstre side. Der har vi noget vi kalder SA rule, så Det er en en oplandsløsning, så den giver indsigt i afstrømning af vand igennem vandløb og risiko for oversvømmelse fra vandløb og også overfladisk afstrømning ude i det store åbne landskab.
+
+00:07:08
+Lige til højre for den der har vi noget vi kalder ASA pressobar, så Det er en løsning Der er tænkt til til søger og til bassiner og til reservoir, og den giver indsigt i kan man sige volumen af af vand II et givent reservoirer, men også vandkvaliteten. Og hvis i kan se at teksten så skriver jeg at at at den giver indsigt 9-6 dage frem og grunden til at der står 9-6 dage. Det er at at vi kan i virkeligheden høste lidt forskellige typer af vejrudsigter.
+
+00:07:32
+Hvis vi tager den europæisk baseret vejrudsigt, som vi kan hente via yer eller den norske.
+
+00:07:37
+Meteorologisk servicen, så har vi data, der kigger 9 dage frem i tiden. Der findes også et amerikansk vejrudsigt produkt, som vi kan høste globalt, som dækker hele verden, som kigger op til 16 dage frem i tiden. Men Det er klart, at jo længere tid man kigger frem, jo mere usikker bliver er vejrudsigten selvfølgelig, og jo mere usikker bliver også de her prognoser vi producerer, men i princippet kan vi kigge 16 dage frem i tiden.
+
+00:08:02
+Så har vi den, vi kalder SM urban, som er en af de lidt nyere løsninger, som vi lige har afsluttet et projekt med. Og den vil jeg. Jeg vil vise jer et eksempel lige om lidt.
+
+00:08:11
+Det er tiltænkt som en til bykerner kan man sige, hvor man har høj værdi. Det kunne være kulturel værdi i bygninger, infrastruktur og den simulerer blusespots. Jeg tænker, mange af jer er bekendt med med skaldo, altså Det er i virkeligheden den samme type beregningsmetode, der ligger bagved.
+
+00:08:29
+Simpelthen bare koble op på en vejrudsigt, så ser bobelt vand sammen sig på overfladen II forhold til den vejrudsigt der nu kommer ind.
+
+00:08:38
+Og endelig har vi så Vores løsning, man kalder SF live, og Det er den løsning, der muliggør, at vi kan koble en sensor eller flere forskellige typer sensorer ind i Vores platform og visualiserer data i realtid.
+
+00:08:52
+Noget af det, vi også arbejder på lige nu. Det er faktisk at gøre brug af det her live sensor data i Vores model prognoser. Det vil sige, vi kan assimilere realtidsdata ind i Vores modeller, så vi kan give en endnu mere.
+
+00:09:05
+Kan man sige pålidelig prognose? For hvad kommer der til at ske i de kommende dage i forhold til oversvømmelser eller i forhold til vandkvalitet?
+
+00:09:15
+Og så har jeg bare lige taget 2 eksempler med på på ting som som lettere i pipelinen og grunden til Jeg har kaldt med spørgsmålstegn ved SF swimming. Det er fordi Vi har ikke en oberstand lyst til det nu. Det er noget vi vi kigger lidt ind i så SF twem Det er noget Vi har idyllup med Vejle spildevand for at se kan vi lave en operationel afvikling af svimming afløbsmodellen og i første omgang vil det være med henblik på at kunne smide afviklingen som døgnmodel.
+
+00:09:42
+Så når man kommer hen sidst på året, så var man meget nemt. Kunne trække data ud og lave kan man sige sine årsrapportering i forhold til mængden af overløb.
+
+00:09:51
+Så har vi også gang i et projekt lige nu, som hører under det, der hedder erhvervsuton indenfor vandteknologi, hvor vi i samarbejde med Aarhus Universitet og KMC og fastholdt de brande og sago rådgivende firma kigger på en løsning, der kan give en prognose på markvanding, så hvor meget markvanding er der behov for? For i forhold til planternes behov i de kommende dage?
+
+00:10:18
+Så Det er noget af det, vi avler på lige nu.
+
+00:10:23
+Hvis vi ligesom kigger bag, hvad kan man sige teknologien for for de her prognoser?
+
+00:10:29
+Så er det en række forskellige modelværktøjer, vi gør brug af. Og som sagt, så kan vi godt udvikle platformen Sådan at Der er flere typer modeller, der der supporteres.
+
+00:10:38
+Hvis vi lige tager den øverste Der er den, hedder swots. Det er verdens mest anvendte hydrologiske model.
+
+00:10:44
+Så den er den er gennemtestet og og brugt i mere end 3000. Vi skadelige publikationer blandt andet til at estimere effekter af klimaforandringer på coobant, tilgængelighed og oversvømmelser.
+
+00:10:59
+Jeg vil ikke gå i detaljer Sådan med med de enkelte modeller her, men det jeg bare vil sige at de har tilfælles. Det er at de alle sammen har en forankring i forskningen og de er open source. Det vil sige at selv modellerne de er faktisk fuldstændig gratis og frit tilgængelige og og nogle af dem videreudvikler vi selv.
+
+00:11:15
+Men hvis vi gør det, jamen, så giver vi det Vi har udviklet tilbage til til andre forskere eller brugere af de her modeller, ligesom hvis der nu er 1 1 1 super dygtig gruppe IUSA eller Tyskland, der videreudvikler på noget af de her modeller. Jamen så får vi også glæde af det.
+
+00:11:28
+Vi har simpelthen bare bygget noget software ovenpå de her modeller, der gør, at vi kan afvikle dem operationelt for en af udfordringerne med de her modeller. Det er også, at de kan være lidt sige teknisk besværlige og afvikle. Det har vi nu gjort supernemt for brugere, hvis man bruger essa platformen.
+
+00:11:46
+Man kan sige.
+
+00:11:47
+De har modeller Vi har udvalgt. De er også udvalgt på baggrund af nogle modeller. Vi har brugt i mange, mange år på Aarhus Universitet, og det fik jeg ikke fortalt i begyndelsen, men men Vi er faktisk et spin outfirma fra Aarhus Universitet.
+
+00:12:00
+Og og og den gruppe som som jeg levede på Aarhus universitets er ja er verdensmester citerede gruppe, når det kommer til vandkvalitetsmoddeling.
+
+00:12:08
+Og de modeller, vi udvikler er, er gennemtestede. Ja, i over hele Europa, i Afrika, Asien og i nordmeka har vi brugt dem II forskellige projekter.
+
+00:12:21
+Dem, som især bruger Vores løsninger. Jamen Det er hvis i vandforvalter firmaer og forskeres, så Det er forsyningsselskaber og kommuner især. Det er også forskningsinstitutioner, og så er det rådgivende ingeniører og det de har det fælles.
+
+00:12:32
+Det er, at de arbejder med områder som for eksempel vandforsyning, oversvømmelse og regression og kommunikation. Også bæredygtige miljøforvaltning.
+
+00:12:40
+Og Jeg vil lige vise jer på et eksempel lige om lidt på på brugen af af de her løsninger.
+
+00:12:47
+Jeg kan sige, hvad kræver det for at komme i gang med at bruge Vores platform? Det Det er ligesom kun 2 ting.
+
+00:12:53
+Det kræver onboarding ved os eller tredjepart. Det vil sige der. Vi skal have nogle, der bygger de her modeller op, som man bruger den.
+
+00:13:00
+Det vil sige de her open source modeller. Jamen de skal ligesom bygges op og tilpasses det område, man nu arbejder med.
+
+00:13:07
+Det er vi rigtig dygtige til at gøre i Vores firma, men Det kan også være, Der er nogle rådgivende ingeniørfirmaer i Danmark eller i udlandet, som også kan give en hånd med og og bidrage med det.
+
+00:13:18
+Så man skal ligesom have bygget en model op og typisk så kalibrerer man eller træner-modellen mod lokalt afstrømsdata. Når modellen så er tilpas den, så er det så man kan plugge den ind i essa portalen, og her betaler man så typisk et årligt abonnement for at at vi ligesom holder den i drift hele tiden og og sørger for den den leverer realitidsdata og prognoser.
+
+00:13:41
+Vi har en række eksempler på på projekter, der kan bruge af Vores platforme lige nu, og Jeg vil prøve at illustrere lige 2 eksempler, et et udenlandsk og så et dansk eksempel. Men vi starter lige med med at hoppe til udlandet og kigger på et reservoir IIUSA.
+
+00:13:59
+Fordi her har de mildest talt store udfordringer med med med vand tilgængelighed og også vandkvalitet og typisk problem, som de har i drikkevandsreservaret. Det er at Der er dårlig vandkvalitet, som vi også kender fra. Ja, over 70% af de danske søer.
+
+00:14:13
+Det kan typisk medføre, hvis Det er et dybt system, at der sker iltsvind ved bunden, og Det kan så resultere, at der sker en en produktion af mangan, og det betyder da, at man har nogle omkostninger til rensning, for man har ikke videresælget drikkevand med.
+
+00:14:25
+En høj konstruktion man gerne. Det skal simpelthen rettes væk.
+
+00:14:30
+Der er også en udfordring med mere ekstrem vejr. Det betyder, at der kan komme flere oversvømmelser, og Det kan selvfølgelig give skadselomkostninger og i værste fald også tab af liv.
+
+00:14:39
+Og som jeg nævnte tidligere, så er der mere end 8000 reservoirer IUSA og hvis man kigger i Europa, så er der mere end 7000 reservoirer i Europa. Så hvis man er hvad kan man sige forvalter af Sådan et system? Det kunne også være et mindre bassin.
+
+00:14:52
+Kan man sige en dansk kontekst, så kan man spørge sig selv, jamen hvornår giver det mest mening at at pumpe vand væk fra det her reservoir og tit så har man også mulighed for at pumpe fra forskellige dybder, hvis nu Det er et større drikværksreservoir som nok er det mest mening i forhold til at sige være forberedt på en kommende oversvømmelse eller i forhold til.
+
+00:15:10
+Og ser sit behov for rensning, som man pumper vand ud med for eksempel en lav koncentration af mankanen.
+
+00:15:17
+Det er noget af det, vi kan give et bud på i via SR platformen og grunden til at jeg gerne vil dette eksempel med fra USA. Det er at Det er et eksempel, hvor man gør brug af. Lad os sige 3 af Vores løsninger på en gang, så her gør vi brug af både root learning, altså Vores oplandsløsning og den integreres ind i Vores ressore løsning.
+
+00:15:33
+Det vil sige at mængden af vand der kommer fra oplandet, det bør proppet ind i, kan man sige Vores løsning for reservoiret til de 2 systemer de snakker sammen via Vores platform.
+
+00:15:42
+Og endelig så har Vores partner IUSA også en censor der kører op og ned igennem vandsøjen lige deromkring, hvor at de har deres indtægt, hvor det pumper drikkevand ud.
+
+00:15:50
+Så der vil jeg også gerne have at kan man sige data i realtid fra det her område.
+
+00:15:55
+Så Vi har simpelthen integreret de 3 løsninger sammen inden i platformen, og det betyder også som jeg ser lige om lidt at man som bruger ikke skal åbne 3 forskellige vinduer. Det er helt. Det er ligesom integreret ind i en løsning, selvom de gør brug af 3 individuelle, kan man sige produkter under SF platformen.
+
+00:16:12
+Og Jeg kan se det her. Det er drikkevandsreservoir, der ejes af noget, der hedder terrorentreen waterydistrict, så de de leverer drikkevand til ford work og noget af das Dallas cirka 2 mio. mennesker II alt og de har udfordringen med et dårligt vandkvalitet og i nogle felt også oversvømmelser.
+
+00:16:29
+Så kan man sige for at ligesom at komme i gang for dem, så kræves der, at Der er ligesom 4 trin. Som sagt så skal man onboarde, og det kræver at man sætter modellen op, og Det kan man typisk gøre på baseret på globalt tilgængelig data.
+
+00:16:42
+Step 2 så skal tilpasser man typisk også modellen baseret på globalt eller lokalt data, hvis man har det tilgængelig, hvor man optimerer, kan man sige modellens formåen til at beskrive de lokale forhold. Og når man så har en model Der er god til at beskrive de lokale forhold, jamen så kan man plotte det ind i essa platformen, og Det er noget vi gør, så der konfigurerer vi setuppet på Vores bac- end platformen.
+
+00:17:05
+Og igangsætter. Hvad kan man sige? Den operationelle afvikling af bordellen?
+
+00:17:08
+Også den operationelle download af sin lokale vejrudsigt? Og endelig så er der noget konfiguration i forhold til, hvordan man gerne vil have præsenteret projektet på på fronterne, altså på selve kan man sige webinterfacet af platformen, og her kan Vores kan man sige partner eller kunder kan kan selv bestemme om man gerne vil have det som et privat eller et offentligt projekt privat. Det betyder, at man skal ligesom logge ind med med sit password for at kan tilgå.
+
+00:17:31
+Prognosen.
+
+00:17:33
+Offentligt så betyder det så kan alle logge ind og eller åbne platformen og bruge Vores gæsteadgang og få adgang til det. Alt det prognose der nu kommer.
+
+00:17:44
+Bare lige for som eksempel på frit tilgængelig data, som vi typisk bruger. Hvis nu Det er Europa, jamen, så findes der nogle rigtig gode vejrprodukter e og 5 Det er nok verdens mest verdens bedste reen allces vejr produkt som giver konsistent vejr fra 1950 og så frem til i dag, og Det er det vil sige 1 1 1 assimilering af en vejr prognosomodel og observationer i et produkt.
+
+00:18:08
+Så skal man have en højdemodel. Der findes også nogle gode produkter i Europa, og så skal man have en god og anerkendelse og så 1 1 1 jord-kort som har en parametering i forhold til jordens psykologiske egenskaber. Alle de ting findes der på global skala.
+
+00:18:25
+Hvis man kigger i en dansk kontekst, jamen så findes der også de her kort i Danmark II endnu finere opløsning og Det er selvfølgelig også nogle vi gør brug af hvis nu Det er dansk projekt.
+
+00:18:37
+Når man så går i gang med unbrotten, så bruger man en række værktøjer til at for det første at sætte den op. Nu kigger vi lige på SF rol som Vores. Hvad kan man sige oplands eksempel, så bruger man først et cookies og så en plugin til cookies til at opbygge det vil sige grundmodellen.
+
+00:18:53
+Derefter kan man gå ind og og lave nogle modifikationer til sin sin modelopsætning i noget, der hedder sort editor og enten så er det Sådan en kalibreringsværktøj der hedder sort food box.
+
+00:19:01
+Igen, så er alle de her værktøjer. De er gratis tilgængelige, så man skal ikke bruge penge på at sige købe de her værktøjer. Det der koster Det er selvfølgelig den tid det det koster at at at lave den her modelopsætning og få den kaldt på plads.
+
+00:19:15
+Det kan være man har kompetencerne inhouse til at gøre det alternativt så kan man henvende sig til nogen, for eksempel også og og få det gjort.
+
+00:19:26
+Som som måske kunde når nu projektet er sat op, så vil man se Sådan et billede som det her, hvor man kan se oplandet man kan se Der er nogle vandløb eller floder, der løber ind i reservoiret, og man kan så klikke herude i det her panel for at få tilgå data, der giver indsigt i reeltid, men også kigger frem i tid, og man kan også klikke ud på kortet og som interagerer med det her. Data der præsenterer sig den her panel.
+
+00:19:50
+Og det man så kan se oppe i toppen der i virkeligheden. Der er der noget der hedder rude. Det er ligesom oplagtsløsning og så den den kigger på nu.
+
+00:19:55
+Det er et ressoir, men Det er så selve reservoirløsningen og endelig over til højre, der har vi live. Det er så den profilerende sensorystem der kører op og ned lige ved indtægt. Alt sammen er integreret ind II et system så så så klienter skal ikke ud og og åbne 3 forskellige vinduer og det hele det ligger samlet her.
+
+00:20:14
+Alle kunne sige plots alt det der produceres af også interaktivt, så man kan man kan zoome og klikke og også downloade data til lokal behandling hvis man vil det.
+
+00:20:29
+Godt så Det var ligesom 1 1 1 udenlandsk eksempel hvor hvor i kunne se at vi integrerer flere af de her løsninger under SA platformen ind II en. Hvis vi lige kigger til til Danmark, så har vi for nyligt afsluttet et projekt sammen med DMI under det der hedder den nationale Center for klimaforskning.
+
+00:20:50
+Og der kiggede vi mod Vejle, som er et område der som jeg måske er bekendt med, der har udfordringer med oversvømmelse, blandt andet på grund af topografien, hvor man har ret stejlabyså der kommer op fra den nordlige del, og så har man vejleå, der kommer fra løber fra fra vest mod øst, som så mødes inde omkring midtbyen.
+
+00:21:08
+Og ydermere kan man også have udfordringer med med med høj vandstand og selvfølgelig i fjorden.
+
+00:21:16
+Så det vi kiggede på her. Det var ligesom sige teknikken bag den løsning vi kalder s app urban altså den der giver blu-spots på på overfladen som funktion af af skybrud eller lang intense regnhelser og. Og i første omgang så havde vi brugt en løsning der der ligesom var en glaspladeløsning, så Det var ligesom worst case i forhold til at visucere potentielle oversvømmelser og funktion af af skybrud.
+
+00:21:40
+Det vil vi gerne prøve at gå et et skridt til dybere med og prøver at gøre det lidt mere realistisk ved at tage højde for for tab via en filtrationer og kloak.
+
+00:21:50
+Så det. Det gjorde vi så i et projekt sammen med med DMI.
+
+00:21:55
+Og tilgangen er, at man man skal have en ret detaljeret højde model.
+
+00:21:59
+Eller digitale elevationmodel.
+
+00:22:02
+Og så ligesom hvis i har brugt skaldummet, så kan man læse noget nedbør ind på den og så kan vand så samle sig på overfladen og give nogle plusbots.
+
+00:22:09
+Men, før vi gør det i den her beregning, så så beregner vi det. Vi kalder et et købenummer, som giver et udtryk for, hvor meget vand når det falder på overfladen vil så løbe af på overfladen kontraintfiltrere i igennem jorden eller kloaksystemer. Det vil sige, vi beregner en form for for Netto nedbørste.
+
+00:22:26
+Vi trækker noget fra, kan man sige den vejrprognosen, så trækker vi noget fra som som vil tabes via infilation for eksempel.
+
+00:22:34
+Så vi får et væsentligt mere nøjagtigt bud på, hvor meget der reelt vil vil samle sig på på overfladen.
+
+00:22:41
+Og selve den løsning, vi bruger, hedder marstrøm, som som beregner de her blu-spots, og Det er også Sådan. Hvad kan man sige? En open source, algoritme, et bibliotek og og teknologien er som sagt meget lige skalpo, så Det er den her.
+
+00:22:56
+Hvad hedder det? Det terministiske 8 node-metode, hvor man man kigger på, hvis nu den ejendom rammer på overfladen? Hvor har man den største hældning overfladen?
+
+00:23:04
+Det er så der at at dråben vil løbe hen imod.
+
+00:23:09
+Og så lige kigger på på resultaterne fra fra effekten af at tage højde for de her tab og jeg skal sige der. Der kommer snart en rapport ud som vil komme ud på det nationale Center for klimaforskningshjemmeside vedrørende det her. Hvis vi kigger her første omgang, så er det den traditionelle glasplade metode ved en regnhængsel, der skete.
+
+00:23:28
+Det var den 19. 20. oktober 2021, som også resulterede i en oversvømmet til Vejle.
+
+00:23:34
+Og det man kan se i de blå områder. Det er så her, hvor der var oversvømmelse. Ifølge hvad kan man sige en traditionel glaspaddemelseshoved, hvor man bare læser det her nedbør ind ovenpå.
+
+00:23:43
+Hvis man derimod tager højde for tab via inflationer kloak. Jamen, så får man selvfølgelig 1 1 1 væsentligt mindre også udbredelse, og det man så også kan se. Det er at især de områder hvor Der er haver, altså hvor Der er mulighed for infiltrationen, Der er der en væsentlig mindre forudsagt oversvømmelse, hvorimod hvis man kigger på områder, for eksempel hvor Der er parkeringspladser, jamen så er det meget lige, kan man sige glasblade metoden, fordi Der er ikke et særligt stort tab.
+
+00:24:08
+Vand vil simpelthen samle 3 på på overfladen, hvis Det er asfalt.
+
+00:24:13
+Den her selve SF urban den er ikke den kører ikke operation lige nu for for Vejle. Men hvis man har lyst til at kigge lidt mere på på vejleområdet, så har vi haft det tidligere projekt også i regi af det her nationalcenter for klimaforskning, hvor vi kiggede på Vores SF ro løsning, og der kan i selv prøve at hoppe ind og lege lidt med den. Hvis i vil på Vores webshols dot com.
+
+00:24:34
+Og prøve at sætte det data, der vi nu producerer i forhold til vandføring i vandløb. Man kan som som bruger også af systemet sætte advarselsniveauer, for eksempel hvis nu vandstand eller vandføring overstiger et vist niveau, så vil man måske gerne have en heads op, og så kan man angive en en advarselsniveau, som så Vores platform ville vil visualisere for sig under. Hvad kan man sige sin prognose vindue, som er typisk lige dage frem i tiden eller helt op til 16 dage i fremtiden?
+
+00:25:05
+De fleste af Vores brugere, de vil tilgå løsningen via Vores tekstopløsning, så man hopper simpelthen bag på Vores hjemmeside og og åbner platformen op og får så adgang til de her prognoser.
+
+00:25:16
+Jeg vil bare lige nævne Vi har. Har også Sådan en appløsning som er tænkt til at at sige.
+
+00:25:23
+Bred data mere ud til til borgere indtil videre lige nu. Der er den største bruger af den her løsning af kommuner, hvor vi hjælper med at informere omkring badevands kvalitet.
+
+00:25:32
+Og, der har vi for eksempel indgået samarbejde med friluftsrådet, hvor alle de steder, der har blå flag eller det, der hedder badepunkt eller vinterbadepunkt. Dem kan man nu finde inde II Vores app appen hedder badested. Den er helt gratis, så vil sige i har en iPhone eller en Android, så kan i gå ind og og finde den her bachelor app og se om i kan finde jeres eget badested inde i appen.
+
+00:25:53
+Det vi så også tilbyder. Det er, at hvis man har lyst til dem, så har vi sensorsystemer. Vi kan lægge ud i de her badesteder, og så betyder det, at man får realtidsdata ind i basis af appen, som fortæller noget om for eksempel hvad er badevandstemperaturen lige nu.
+
+00:26:06
+Og Det er noget især vinterbader tilsyneladende er jeg meget interesseret i at følge med i her II vinterhalvåret.
+
+00:26:15
+Her til sidst, som hvis vi kigger lidt frem, hvor er vi henne, og hvor vi vil gerne hen. Altså skal man sige, Vi er stadigvæk relativt nye Vi er har 4 år på bagen, men Vi har gang i nogle ret store projekter i Danmark, Sverige, Spanien. Og så har vi også pilotprojekter nu IUSA, særligt i Texas, men vi vil meget gerne vokse især på det danske marked, men også kigger til det amerikanske, spanske og tyske marked i virkeligheden.
+
+00:26:36
+De markeder, hvor man også er afhængig af af overfladevand til deres drikkevandsforsyning, fordi Der er den type løsning, som vi tilbyder i.
+
+00:26:43
+Særlig værdifuld.
+
+00:26:47
+Så Vi er meget åben for gode samarbejder, som kan hjælpe os med at få udbredt Vores løsninger og det selskab og forsyninger også vidensinstitutioner. Især dem som er er har interesse i at bidrage til lyst og kigge på hele verdens kredsløb. Det er der, hvor Vi har nogle særlige kompetencer, vi også kan kan byde ind med.
+
+00:27:03
+Hvis vi til sidst lige skal se på på holdet der der ligger bag a firemanden, så har vi mig selv og Anders deroppe i toppen. Vi har en en.
+
+00:27:11
+Sammenlignelig baggrund som som miljøingeniør, så Vi har sit teknisk lille i forhold til at at opsætte og kalibrere nogle af de her forskningsbaseret og og nogle gange lidt besværlige modeller og og for at gøre dem mere anvendelige via SA platformen, så har vi teamet op med med Anders og Kristoffer, dernede i bunden, som er Vores softwareingeniør, og som er hovedarkitekterne bag Vores SF platform, og som gør det nemt at at bruge det data, vi producerer.
+
+00:27:38
+Så lad os indgå et partnerskab med Kim Der er consulting, som er et firma IUSA, og der har vi haft mekan her til at hjælpe os med at blive lidt klogere på på markedet IUSA, og hvordan vi ligesom skal målrette det vi vi præsenterer i Vores platform til til en amerikansk kontekst. Og Der er vi selvfølgelig også inde i at at høre fra jer, altså er Der er der noget, Vi skal være særligt opmærksomme på for at gøre det ekstra relevant for for et dansk marked.
+
+00:28:03
+Og så har Jeg har ikke lige noget at få sat. Jeg har faktisk. Vi har lige ansat eller fået samarbejde med DTU og antallet der hedder Tobias som som nu hjælper os også med at få udbredt de her modelløsninger rundt omkring i verden, så vi fordi Vi har lidt travlt med onboarding delen og nu kan vi så sætte yderligere skub på den del.
+
+00:28:22
+Og med det vil jeg ligesom slutte slutte af med præstationen. Mange af de her detaljer, jeg fortalte om, kan i finde inde på Vores hjemmeside også Walls itech dot com.
+
+00:28:31
+I er altid hjælpere velkommen til at kontakte os via telefon eller mail, og vi hopper også altid gerne på et videomøde, hvis man er en sag lige og hør lidt med i detaljer, hvad vi kan med de her platforme om om Det er noget Der er relevant for jer.
+
+00:28:42
+Så Jeg tror Jeg vil stoppe der tiys.
+
+00:28:46
+1000 tak Dennis 1000 tak for en rigtig spændende techtalk. Der er allerede kommet en række spørgsmål, man i selvfølgelig stadigvæk meget velkommen til at stille flere spørgsmål, men lad os starte med spørgsmål nummer et. Det kommer fra Steffen som spørger hvordan kvalitetssikres de data, der for eksempel kommer fra for eksempel IOT enheder eller tredjeparts i platformen.
+
+00:29:07
+Det kan man sige der der tilbyder vi forskellige niveauer af af kvalitetssikring. Det vil sige. Vi tilbyder også, at man faktisk, at man bare for tredjepartsdata ind i Vores platform, så man simpelthen bare selv står for kvalitetssikring.
+
+00:29:17
+Vi læser bare det rå data ind og udstiller det rå data.
+
+00:29:22
+Vi har selv udviklet en en række. Kan man sige kvalitetssikrings algoritmer, som kan kvalitetssikre, især hvis man får højsøtet data, så kan filtrere outlires fra, så så Det er lidt op til, kan man sige Vores.
+
+00:29:35
+Kundens behov og også i virkeligheden til til den enkelte kontekst, afhængig af hvilken type data man kigger på. Men vi der findes forskellige teknologier, som vi kan tage i brug, hvis man ønsker det. Alternativt kan man også selv stå for det, så det vi trækker for eksempel for tredjepart, det bare bliver udstillet via Vores platforme.
+
+00:29:52
+Tak skal du have Dennis, så har lauritz et spørgsmål som går på Dennis, har i haft nogle nogen som helst data jeg kalibrere på?
+
+00:30:02
+Ja Det kan man sige. Det har vi faktisk i alle de tilfælde, hvor vi sætter en en reel model op i Vejle for eksempel. Der har vi jo lange tids for grejså og vejleåsystem i forhold til vandstand og og vandføring II vejleå og grejså.
+
+00:30:16
+Og Det er selvfølgelig selvfølgelig det vi træner modellen op imod og og og i det her tilfælde var vi meget inse og kunne ramme peak flows, altså de høje vandføringer og og har også sammenlignet med med nogle andre tidligere projekter.
+
+00:30:28
+Blandt andet IDK modellen, hvor vi kan se at.
+
+00:30:30
+At, selvom vi vi bruger en forholdsvis kort tid på at gøre det, så så rammer vi væsentligt bedre end end end tidligere erfaringer fra samme område, så så vandføring eller vandstande er et eksempel på nogle af de ting, vi kigger på. For opland, hvis man kigger på reservoirs eller søger om der har vi også typisk tidsserier fra et ressvarende sø, og Det kan være.
+
+00:30:54
+Temperaturprofiler Det kan være ildprofiler. Det kan være næringsalkonstruktioner Det kan være klorofylkonstruktioner, som vi giver et udtryk for alle.
+
+00:31:01
+Koncessionen.
+
+00:31:03
+Og man kan sige de erfaringer, vi bruger her. Vi springer som sagt ud af af verdens mest citerede gruppe indenfor vanviditetsmulering, så så Det er noget af det, Vi har Vi har. Det vil sige justeret igennem så snart 15 år og og være gode til at justere en model op imod virkeligheden og og også kvalificere usikkerheden i den forbindelse.
+
+00:31:21
+Så så ja, det gør vi meget, og det gør vi ofte i forbindelse med Sådan onboarding proces.
+
+00:31:28
+1000 tak så har arkenes gav et spørgsmål omkring højtstående grundvand. Er det noget i har taget med?
+
+00:31:38
+Ja i princippet er det fordi vi kan sige den her den løsning som den nu hedder SF rol den. Den bygger ovenpå den hyologiske model, som hedder swat eller den nye generation, som hedder swot plus og afhængig af igen Vores klienters ønsker, så kan man repræsentere grundvand på med forskellige kompleksitetsgrader. Man kan bruge Sådan ret simpel som nærmest som en boks model, så noget det hedder linear ressovar.
+
+00:32:01
+Man kan køre en en todimensionel grundvandsmodel under overfladen eller man kan køre fuldblone.
+
+00:32:07
+Tredimenseland, som snakker sammen med overfladisk afstrømning og så paramatisere, kan læbrerer vi så typisk også modellen op imod de data, der nu er på på på grundvandens stand. Det er Det er ikke en løsning vi bruger ofte når Vi har behov for at kan man sige beskrive peak altså ekstrem hændelser, fordi at at den ekstra arbejdsindsats det kræves at sætte en 3% op kontra en mere simpel tilgang i forhold til grundvand.
+
+00:32:33
+Kan ofte ikke betale sig, når man kigger på performance på modellerne.
+
+00:32:36
+Så selv en simpel model og beskrivelse af grundvand, for eksempel fra Vejle var bedre end end end andre eksempler, som er lavet tidligere for Vejle, hvor man har har kørt 3 d grundvandsvurdering ind over for eksempel.
+
+00:32:52
+Tak skal du have, så er der et spørgsmål for ja nu håber jeg, at jeg udtaler det rigtigt migte som spørger, hvordan bestemmer i tab i afløbssystemet?
+
+00:33:05
+Man kan sige, vi valgte at tage tage en tilgang, som er baseret også på den her curpen number tilgang, og man kan sige kørerenummer er jo er en tilgang Der er baseret på empirisk data, som vi siger det. Det historiske data som de her.
+
+00:33:19
+Københavns er er målt op imod så det som baseret på erfaringer for hvor meget overfladisk afstrømning får man fra et system, der for eksempel er separat kloakeret kontra et af fællesklookeret.
+
+00:33:31
+Og så kan vi så samtidig også forsøge at kalibrere de her Københavns. Det er typisk en af de ret sensitive parametre i den her model. Dem kan vi kalibrere op, hvis man nu har observationer fra.
+
+00:33:40
+Det kunne være et et nærliggende vandløb, som som der aflastes til jamen, så kan vi justere de her Københavns, men Det er Sådan baseret på på København og tilgangen, at vi beskriver afstrømning fra et et sit kloakområde.
+
+00:33:54
+Tak skal du have, måske i kan lige i forlængelse. Det siger også dig til at at noget af det, vi selvfølgelig også kigger på nu, men som som vi ikke har en en endnu en operation løsning til.
+
+00:34:02
+Det er jo selve swimming modellen, som som nogle af jer måske kender, og jeg ved i hvert fald flere forsyningsselskaber gør brug af swimmodellen, som kan sige som er er sammenlignet med med Michael urban.
+
+00:34:13
+Det er blot en open source version og og Det er også en vi kigger på at kunne opreationalisere, så man kan beskrive den direkte afløb igennem afløbssystemer og også omfanget af overløb.
+
+00:34:26
+Tak skal du have Dennis, så kommer der et klassisk spørgsmål her, hvad koster det?
+
+00:34:32
+Ja.
+
+00:34:34
+Man kan se jeg nævnte som der Der er ligesom 2 trin for at komme i gang. Der er ligesom onboarding delen hvor man bygger modellerne op og så er der hvis jeg selve driften er det selve abonnementsdelen og og typisk så omboardning delen. Den er klart dyrere end end selve driftdelen af abonnementsdelen.
+
+00:34:52
+Unbodning delen afhængig af hvilken modeltilgang, afhængig af hvor store områderne er kan typisk kan også nogle 100 tusinder, hvis Det er helt vildt, så er det måske oppe II en million kroner. Størrelsen hvorimod når først man har bygget den her model. Jamen så selve abonnementsdelen Det er Jeg kan sige.
+
+00:35:08
+Vores bitte løsning er under 10.000 kr. om året, men hvis man så har kunne sige at integrere flere løsninger end et som så kommer måske op og snakker 50.000 kr. om året maks 100.000 kr.
+
+00:35:17
+om året i den størrelsesorden i hvert fald.
+
+00:35:20
+Men som sagt, kan man sige opbygningen af de her modeller, fordi de er open source. Modellerne selv er gratis. Det kan man måske selv gøre.
+
+00:35:26
+Man kan også selvfølgelig hyre os til at gøre det.
+
+00:35:29
+Men den her onboarding kan man sige proces er er fleksibel i forhold til hvem der udfører den opgave, kan man sige.
+
+00:35:38
+Så jeg håber, det svarede Sådan nogenlunde på på spørgsmål, selvom at det ikke bare Sådan super konkret. Det gav i hvert fald nogle størrelsesordener.
+
+00:35:45
+Jeg tænker om ikke andet så så så er din kontaktoplysninger står på skærmen, så må folk lige skrive til dig hvis de vil have et tilbud.
+
+00:35:53
+Så er der et spørgsmål fra per som spørger, hvordan håndteres jordens informationsevne i situationer med koblet og regnhændelser? Jordens invitationsevne er jo ikke en konstant størrelse.
+
+00:36:04
+Nej, og hvad kan man sige det kommer an på hvilken af Vores løsning man man ligesom kigger til.
+
+00:36:10
+Hvis man kigger på den vi kalder SA rol så har den den har faktisk 1 1 1 dynamisk.
+
+00:36:17
+Jordsøjlemodel, så så den beskriver jordens vandindhold dynamisk som fusion også det tidligere regnhadelser, så så den har nogle hukommelse i forhold til mængden af vand II jordsøjlen også om man kan sige om om jordsøjlen er mættet, så kan det selvfølgelig ikke løbe mere ned, så vil alt løbe ad på på overfladen.
+
+00:36:33
+Det er en del af af den model der hedder swat hvis man kigger til den løsning, vi kalder SF overens, som som sagt ikke er kører oversat nu. Der findes der Sådan et et par af de her parametre blandt da den ene. Det er den her kørerenummer Der er den 2 parameter der hedder alfa, så man kan forsøge at justere afhængig af Sådan af sæsonen, som forsøger at tage højde for om om jorden er er risiko for at være vandmættet, for eksempel når man så afvikler den her, men den Det er en lidt mere simpel tilgang.
+
+00:37:00
+Kunne tænke os at udvikle hvilken af de her 2 modelsystem de snakker sammen, så Vores SF urban får informationer over fra kan man sige det dynamiske jordsøjemodel i forhold til graden af mætning af jordprofiler for på den måde bedre case mere. Hvor meget vil der så løbe af på overfladen og og danne oversvømmelser? Det Det har vi ikke udviklet endnu, men men det Det er der bestemt mulighed for at man kan gøre.
+
+00:37:23
+Tak skal du have. Ja Jeg har selv et par spørgsmål så så jeg jeg stiller dem og så hvis Der er nogen der der brænder ind med noget så så skal det være nu. Ellers så lukker vi stille og roligt ned, men jeg kunne godt tænke mig at høre fordi som jeg forstår det så kan i jo både integrere live data og så kan man sige hvad skal man sige?
+
+00:37:39
+Stationær data historiske data hvis man kan kalde dem det.
+
+00:37:44
+Hvor meget hvor meget live data hvor hvor meget har i brug for for at kunne lave hvor hvor meget giver det at have live data i forhold til validiteten af jeres varslingssystemer?
+
+00:37:54
+Altså det helt ærlige svar. Det er at det Det kan vi faktisk ikke talte på endnu. Vi har en række projekter, hvor vi faktisk kvantificerer.
+
+00:38:00
+Det kan sige hvad hvad giver det af ekstra pålidelighed ved at have data inden nu, hvor vi assimilulerer forskellige grader af, kan man sige af censorddata ind, så prøver vi Sådan ligesom at finde også for at finde 1 1 1 hvad kan man sige, får kunden en en den billigste mulige løsning, så så Der er ingen grund til at sige have 4000 sensorer ud, hvis hvis man får en meget meget pålidelig løsning vil have 10 censorer ud for eksempel.
+
+00:38:21
+Så Jeg kan ikke sætte tal på lige nu. Jeg kan bare sige Det er noget ved det og det vi faktisk kigger meget ind i.
+
+00:38:27
+Og så lige i forhold til det her med modeller og deres pålidelighed skal vi sige. Nu har jeg haft meget fokus på den oberstende afvikling og og prognoser på baggrund af modeller i virkeligheden, så kan vi sige 1 1 1 større del af det vi laver også. Det er virkelig at bruge modellerne i en en længere.
+
+00:38:41
+Hvad kan man sige tidshorisont i en 2 kontekst, hvor vi så kigger 10 år frem eller måske endda 50 eller 100 år frem? Altså hvor vi kigger i klimakontex og Det er faktisk det som de her modeller som vi bruger er anvendt mest til hvis man kigger i imod den videnskabelige litteratur.
+
+00:38:55
+Og Det er selvfølgelig også noget af det, vi tilbyder at at at man kigger tilbage på onfordring, altså typisk, så kan man sige Vores klienter. De er vant til at betale de her summer for at få opbygget Sådan en model i forhold til at kigge på hvad skal hvordan planlægger vi? Kan man sige bebyggelse 20 år frem er der risiko for øget oversvømmelse.
+
+00:39:14
+Hvad vil du nu skal have landbrug i et område, hvis man investerer det, er der så ikke nok vand om om 2030 eller 40 år?
+
+00:39:20
+Den slags prognoser laver vi også, kan man sige, og når man først har bygget modellen op.
+
+00:39:24
+Selvom Det er behandlet for langt prognosen, så har man jo kan man sige betalende, og så kan man så gøre den oper selv og så også køre korttidsprognoser igennem Vores system.
+
+00:39:36
+Tak for svaret, så har jeg et spørgsmål omkring, som jeg forstod i jeres azaburban.
+
+00:39:44
+Kan i har i har i overvejet at gå retning af, at det måske mere bliver også kan blive Sådan et. Hvad skal man sige, et asset management eller et eller hvad skal man sige planlægnings tool, hvor man for eksempel kunne lægge nogle klimatilpasningsløsninger ind i modellen og så se konsekvenserne af det. Nu viste du for eksempel, hvor store konsekvenser der var ved at man for eksempel havde ned nedsivnings komponenten med ind i det.
+
+00:40:02
+Er det noget, i arbejder ind i og og man på den måde kan bruge det som et planlægnings stuen?
+
+00:40:10
+Altså det ærlige svar lige nu er er nej man kan sige især fordi man kan sige nu har vi selvfølgelig. Vi har selvfølgelig også bevidste omkring skalpo og og Det er jo bare 1 1 1 virkelig god løsning, hvor man kan mange af de ting.
+
+00:40:21
+Så så så der hvor Vi er anderledes, kan man sige det. Det er mere på prognosedelen, hvor der allerede findes et et ret godt værktøj. Kan man sige på markedet i forhold til til den slags scenarie, som du nævner her teis så så.
+
+00:40:35
+Ikke umiddelbart er det ikke Vores tanke at at gøre det, dog ikke at Det er fuldstændig udelukket. Det er bare ikke lige noget der ligger lige for, fordi der findes. Siger jeg gode alternativer allerede nu på det.
+
+00:40:48
+Der er jo heller ingen grund til at opfinde.
+
+00:40:49
+Den dybe talk en 2 gange.
+
+00:40:50
+Så det giver da fuldstændig ret i.
+
+00:40:53
+Jamen vi hedder det. Jeg har ikke flere spørgsmål. Jeg ved ikke hvis der ikke er flere spørgsmål for for for folk ude bag bag skærmene, så tror jeg egentlig tror ikke der dukker noget op nu her.
+
+00:41:04
+Så tror jeg egentlig bare på vegne af denne k. Jeg vil sige 1000 tak til dig Dennis.
+
+00:41:10
+Må jeg sige, og Jeg vil sige 1000 tak til alle dem der der deltog. Og som sagt så vil så er tiktokken optaget og den vil ligge på DNN ks hjemmeside indenfor for et par dage. Og hvis Der er nogen af jer der der der der godt kunne tænke jer også at afholde en en tiktok, så tag endelig fat i danin ko, så så finder vi helt sikkert en tid til det.
+
+00:41:29
+Ja så igen 1000 tak Dennis.
+
+00:41:32
+Tak fordi II lyttede med tak fordi i fik lejligheden for at præstere noget af det vi arbejder med.
+
+00:41:37
+Og så ses en god dag.
+

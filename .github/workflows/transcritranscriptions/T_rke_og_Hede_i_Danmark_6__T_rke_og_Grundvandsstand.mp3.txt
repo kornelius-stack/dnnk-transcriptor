@@ -1,0 +1,969 @@
+00:00:05
+Godmorgen og velkommen til godmorgen DNDK mit navn Det er connejuice pels.
+
+00:00:11
+Og jeg, jeg arbejder i sekretariatet for det nationale netværk for klimatilpasning.
+
+00:00:16
+Og det glæder mig at byde velkommen til det her spændende webinar i Vores serie om tørke og hede i Danmark, hvor dagens fokus det vil være på tørke og grundvandstand.
+
+00:00:31
+Og Vi har fornøjelsen af at præsentere, eller Jeg har fornøjelsen af at præsentere Torben sundborg og ida Carlsen. Seidenfaden fra georgs, der vil dele jeres dele jeres.
+
+00:00:42
+Viden om, hvordan klimaforandringer påvirker tørke og grundvandstanden i Danmark og resultater på den her rapport om klimaforandringens effekt på vandmiljøet og så de hydrologiske modeller og scenarier, der giver indblik i fremtidens vandforvaltning frem mod 2050 og 2100.
+
+00:01:04
+Praktisk information, så vil der være mulighed for at stille spørgsmål i chatten undervejs og efter oplægget, så tager vi dem så op, og jeg sidder og holder øje med dem, så de kan meget vel kunne bestille dem. Og i har også mulighed for at tænde jeres mikrofon og.
+
+00:01:21
+Og så selvstille spørgsmål, hvis i skulle have lyst til det, men ellers så vil jeg egentlig bare give vid ordet videre til til ida og og Torben og 1000 tak fordi i stiller op.
+
+00:01:34
+Jamen Det var da så lidt. Det var en fornøjelse.
+
+00:01:37
+Og få lov til at vise det vi arbejder med, skal jeg vise Vores slides Joachim, som vi forhåbentlig kan se nu.
+
+00:01:49
+Er det på Det er super.
+
+00:01:53
+Ja som sagt, så kommer vi jo fra geos og mit navn er ida seember og jeg arbejder i hidologisk afdeling som seniorforsker og sammen med Torben så vil vi prøve at tage igennem den lidt omkring den her sammenhæng mellem tørke og og kulmandsstand, særligt II fremtid og i forbindelse med klimaforandringer.
+
+00:02:16
+Og Vi har lige startet med at liste nogle af de formål, som Vores præsentation har oppe her, som også er noget af det som convenience nævnede før.
+
+00:02:27
+Og og det vi gerne vil tage jer igennem. Det er selvfølgelig både den den klimaforandring, vi forudser fremtiden, og hvordan den påvirker grundvandsstanden. Man får at forstå.
+
+00:02:35
+Den kigger vi også ind i den historiske periode, og hvordan har vi set påvirkningerne fra tørke på grundvandsstanden i den historiske periode?
+
+00:02:46
+Så det gøres bedre i stand til at forstå hvad det vi det vi klimaforandringerne ser ud i fremtiden.
+
+00:02:52
+Og så skal vi snakke lidt om den her.
+
+00:02:55
+Forskel mellem en de våde vintre og de tørre somre, som vi også typisk ser II klimamodellerne, og hvordan det påvirker grundvandsstanden, og det kommer ligesom lidt tilbage til. Og så skal vi også komme lidt ind på, hvordan kan vi så tilpasse Vores?
+
+00:03:13
+Grundvandsforvaltning og er der noget, vi kan gøre, når vi, hvis vi bliver bedre til for eksempel at overvåge de ændringer, som vi forudser, der kom?
+
+00:03:23
+Som bliver bedre, som bliver robuste i forhold til den risiko, Der er for for tørk.
+
+00:03:32
+Så her har vi lige læst Vores indhold i dagens præsentation, og som nævnt så vil vi lige starte med noget selvfølgelig en en overordnet indføring i hvad hydrologisk tørke egentlig er for noget, og grundvandsokke er for noget, og så skal vi snakke lidt om de her historiske events, og så kigger vi ud i fremtiden og på de her. Til sidst vil vi så komme ind med de her sekundære effekter, som er effekterne fra.
+
+00:03:56
+Menneskeskabte effekt der kommer ovenpå klimaforandringer, altså den måde, vi reagerer.
+
+00:04:00
+På for eksempel en tørke og hvordan den måde, som som samfundet reagerer, også påvirker det respons, vi ser i grundvandet, og det kommer vi tilbage til til sidst.
+
+00:04:11
+Så først og fremmest tørke, hvad er tørke egentlig og selve tørke Sådan. Litteraturen er enorm omfattende og meget forvirrende. Der er ekstremt mange definitioner på tørke, og det gør det også svært at have et fælles sprog om.
+
+00:04:29
+Hvad tørke er, hvad ikke tørke ikke er. Og her har vi et lige for tiden stort tørkeprojekt på geo sammen med DMI og KDS.
+
+00:04:40
+Hvor vi arbejder blandt andet med at lave en definition af tørke i en dansk kontekst, og den definition har jeg lige sat ind her, og at tørke bliver defineret her som et fald i den gennemsnitlige vandtilgængelighed, altså et naturligt fald. Det vil sige tørke. Det er en naturfænomen, og Det kan også forekomme i steder, hvor der ellers normalt er vådt som for eksempel Danmark.
+
+00:05:04
+Og Det er selvfølgelig en helt 2 form for tørke, end hvad man oplever nede i syden hvor der.
+
+00:05:07
+Ja som udgangspunkt er det svært, men derinde kan man selvfølgelig også opleve tørke. Det er bare på en 2 måde, og Det er i relation til det Der er normalt her. Så tørke er altså ikke for eksempel overudnyttelse af grundvandsmagasinerne, fordi man har en dårlig vandhåndsskursusforfatning.
+
+00:05:25
+Det er tørke, ikke tørke. Det er det her naturfænomen, men selvfølgelig har man en dårlig forvaltning af grundvandsressourcerne eller andre ressourcer vandressressourcer.
+
+00:05:34
+Så kan tørke forværre det, eller så kan det blive gøre at man er mindre robust over for tørken.
+
+00:05:41
+Den hydrologiske tørke, som vi kalder det, dækker de tørketilstande, som vi finder i heleogiske kredsløb, så Det er det, de tørketilstande, Der er i ordet. Det kan også være i overfladevand, at søer og så videre. Og så er det selvfølgelig også i dybere i dybere og det øvre grundvand.
+
+00:05:56
+Og her kalder vi det typisk for dem grundvandsstørke, og så er et tørke lidt anderledes end mange andre.
+
+00:06:02
+Eventbaserede fænomener naturfænomener, fordi Det er en langsom proces. Det er altså en det, man kalder en den langsomme dræber.
+
+00:06:12
+Giver den kan Sådan lidt populært og Det er fordi tørken den jo ikke opstår fra dag til dag, men den opstår over flere dage uger, eventuelt år i nogle nogle lande og jo længere tid den tørke vare, jo længere tid vil den typisk dække, eller jo mere vil den typisk dække flere og flere komponenter i vandelskredsen, så den tidslige faktor er altså rigtig vigtigt, når man arbejder tør.
+
+00:06:38
+Overordnet set så plejer man at kategorisere tørke i de her forskellige kategorier. Jeg har allerede nævnt psykologisk tørke.
+
+00:06:46
+Der er jo også meteorisk tørke, som egentlig er der, hvor de typisk starter, altså et deficit eller et mangel på nedbør eller eventuelt kombineret med meget høj temperatur og høj fordampning.
+
+00:06:56
+Og typisk så er det Sådan at at tørken, som jeg sagde, udvikler sig henover tiden og starter op i den klimatiske del. Og det første, Der er ofte responderer Det er det Der er øverst i jordlagene, altså det vi kalder en jordværkstørkelse. I nogle steder kalder man det også en landbrugstørkke, og Det er her, hvor jordlagene er særlige hovedzonen.
+
+00:07:19
+Og når med tiden vil tørken så potentielt kunne progradere den ned gennem de økologiske system.
+
+00:07:25
+Hvor og afstramning og de øvre grøntvanstand er det der resten bliver først.
+
+00:07:30
+Og senere med tiden kan det så også.
+
+00:07:34
+Kom ned i det dybere på grund af det, så Det er den her tidslige udvikling, som jeg nævnte før.
+
+00:07:41
+Og så til sidst kan man så sige de her forskellige tørke i forskellige dele af det hydrologiske system kan så manifestere sig i forskellige miljømæssige og sociale og økonomiske konsekvenser, som vi oplever i samfundet.
+
+00:07:55
+Og hvorfor er chance så vigtigt i Danmark? Man kan sige, vi snakker jo rigtig meget om for meget vand.
+
+00:08:02
+I de seneste år har vi snakket rigtig meget om så meget vand. Vi ser det jo også hele tiden med oversvømmelser og højtstående grundværk, men Vi har også historisk set i Danmark oplevet flere store tørkevents.
+
+00:08:14
+Og Jeg har lige mistet nogle af dem her, og så kan vi nok også alle sammen huske de ved os. De sidste par år har vi haft 2.
+
+00:08:22
+Ret store tørke den særlige sommeren 2018 var var meget tør, og i starten af 2023 havde vi også en meget tør situation, og det førte til flere.
+
+00:08:34
+Konsekvenser og og overskrifter som for eksempel dem, der kommer her, især landmændene.
+
+00:08:40
+Oplevet en en kraftig nedgang i deres udbytte i 20.
+
+00:08:46
+Der var også konsekvenser for de små å løb. Der var for eksempel turbåde, der ikke kunne sejle fordi at vandstanden var så længe. Og så havde vi selvfølgelig også.
+
+00:08:57
+Problemer for faunaen og floraen II årene. For selvom at ørrederne døde, da man løbende tørre ud.
+
+00:09:04
+Der var også rapporterede konsekvenser for skovene. Altså den her lave grundanstalt gjorde, at nogle af tæerne havde havde ret svært ved at klare sig i. Det var os fra fra alle.
+
+00:09:15
+Og og udeamer var 18 også det år hvor at der blev snakket rigtig meget om sætningsskader. Den her udtørring af det øvre jordlag kan i nogle områder, hvis man har den rigtige eller den forkerte geologi, gi sætninger II jordstrukturen, som gør at der kan opstå ravner eller andre skader på huse, og Det var faktisk også om sommeren 2018 som startede hele den her snak omkring.
+
+00:09:44
+At tørkke og sætningsglæder skulle være en del af naturskadebåds erstatning. Så og det og det blev den for 2022.
+
+00:09:53
+Nej, men så var der også overskrifter som som dem her, altså vandværker, der opfordrede til at vi skruner ned fra Vores vandforbrug, og der var også eksempler på at man fik at vide at man ikke skulle vande, og Der er det vigtigt lige at nævne i den her sammenhæng, at i 2018 og i 2023 var det altså ikke på grund af manglende vandressourcer er vi blevet bedt om at spole. Det handlede primært.
+
+00:10:21
+Om kapacitet eller infrastrukturproblem i selve vandforsyningen, altså ledninger simpelthen ikke store nok til at kunne imødekomme efterspørgslen eller pumperne var ikke store nok. De kunne pumpe nok vand op, så Det var altså det. Det er vigtigt at huske, at det faktisk ikke lige der vand nok.
+
+00:10:38
+Det er fordi.
+
+00:10:40
+At vi de ikke vandmærkerne ikke kunne følge med?
+
+00:10:44
+Der er dog også en begrænsning på, hvor meget man må pumpe op i de forskellige vandmærker i de forskellige indvendingsbordinger, og det betyder også, at man ikke bare kan skrue op for pumpningen. Der er de områder, hvor man bruger alt den alle den tilladelse der bomber lige så meget op som man Der er tilladt. Der vil man heller ikke kunne bare kunne skrue op i en sommertørke, for så ville man ikke kunne pumpe senere på året, så Der er selvfølgelig også.
+
+00:11:10
+På en begrænsning.
+
+00:11:15
+Så vil jeg lige give en lille indføring. Hvorfor? Hvad er der så specielt ved?
+
+00:11:20
+Det danske hydrologiske kasse, når vi snakker terke, og Der er nogle ting, som gør sig gældende, som man skal huske, når man undersøger hydrologisk tørke og grundvands tørke. Og hvordan gælder det, at Vi har den her ekstrem høje grad af interaktion mellem Vores overfladevand og også grundvand? Og det betyder, at grundvandstilstrømningen til ond til til åer og så videre.
+
+00:11:40
+Det er i høj grad vedligeholder minimumsafstrømning om sommeren.
+
+00:11:44
+Det vil sige, at grundvandet faktisk øger urstheden i Vores i Vores.
+
+00:11:52
+Bålløb om sommeren. Det betyder så også, at hvis Vi har en grundvandsstørkke, så påvirker det os direkte afstrømning i årene, fordi Det er den, der vedligeholder den her minimumsopstrøm.
+
+00:12:01
+En 2 ting Det er at vinternede børn. Det er det Der er rigtig afgørende for, hvor meget vi får fyldt op i Vores grundvandsmagasinet, så Der er den her sæson.
+
+00:12:12
+Forskellen mellem, hvornår får vi fyldt grundvandsmagasinerne op? Og hvornår oplever vi det, man laver sommertørker, så så den den del af også video måske. Og så er Danmark også lidt speciel på den måde, at selvom Vi er i et lille land, så har vi ekstremt store geologiske variationer.
+
+00:12:28
+Både en dybere liggende geologi, men også oppe II jordsonen af volzonen. Og så ved vi jo også at vandressourcerne i Danmark er skal tilgodese rigtig mange forskellige aktører, og Vi har ikke det samme behov alle steder i landet, for eksempel ovre på øerne på Sjælland. Der har vi et meget stort tryk, fordi Vi har mange mennesker, og Der er et stort behov omvendt er ressourcen mindre her end den er for eksempel i Vestjylland, hvor at man.
+
+00:12:55
+Så der så ikke bor lige så mange mennesker, så Der er altså også den her den her.
+
+00:13:01
+Ressource og behov forskel som er ulige, eller?
+
+00:13:08
+Og så vil jeg give ordet til min kollega talk.
+
+00:13:11
+Ja tak skal du have. Jeg vil sige lidt om hvordan grundvandstanden den responderer på på tørke.
+
+00:13:22
+Og det kunne så både være for et altså forskellige magasiner. Jeg vil holde mig til et magasin, men i et magasintype nemlig ovre fra Tinglev i Sønderjylland.
+
+00:13:34
+Hvor de har nogle gode målinger, og Jeg vil prøve at kigge på 1 1 1 helt et magasin der ligger helt oppe i toppen af jordprofilet og så et der ligger i 400 meters dybde.
+
+00:13:46
+Vi starter fra oven.
+
+00:13:48
+Og Jeg har snuppet nogle nogle data fra DMI som her viser.
+
+00:13:55
+Tørkeindexet det det det tørkeindeks, som som nok er kendt for de fleste fra DMI.
+
+00:14:03
+Her er det illustreret for dage, hvor tøry indekset har været på 9 eller eller højere, og man kan se at 2008 hvor man ud med 25.
+
+00:14:16
+Dage 2023 som ida var 26 dage.
+
+00:14:21
+Det her, Det er så for det første halve år. Altså man kan sige det inkluderer vækstsæsonen hvis man tager hele.
+
+00:14:29
+Hele året, så ser det Sådan her ud, men stadigvæk er 2018 1 1 1 1 hæftigt år med hensyn til til tørke indeks og tørke i det hele taget.
+
+00:14:41
+Så jeg tænkte at det kunne, eller vi tænkte, at det kunne være interessant at kigge videre på på 2018 og sammenligne det med et normalt år og her der har vi kigget på på data.
+
+00:14:54
+I det hun nævnte der vi også bruger modeller men men i det her tilfælde er det data fra grundvandsstanden dot DK.
+
+00:15:01
+Hvor Der er en masse kvalitetssikrede pejlinger, og de fleste af de boringer, som er illustreret her på på kortet til højre.
+
+00:15:12
+Det ja det det Det er terræn jeg bruger jo eller i hvert fald filtersat terrænet.
+
+00:15:19
+Lad os prøve at gå over og se, hvordan det ser ud.
+
+00:15:23
+Der er mange ting på den her figur.
+
+00:15:26
+Hvis vi starter året fra Venstre, så har vi underanstanden i meter under terræn oppe IY aksen.
+
+00:15:34
+På x aksen har vi tiden, og Det er så fra januar 2014 og frem til januar 2015, så et års data, som vi ser her, og vi ser hvordan.
+
+00:15:50
+Hvordan grundvandstanden den varierer indenfor det år. Jeg vil lige sige inden vi kigger på det, så til højre, så har vi Sådan et geologisk profil.
+
+00:16:00
+Og Vi er øverst har nogle røde farver svarende til smeltevandsalg, som legenden nævner, fortæller.
+
+00:16:07
+Og Jeg vil vise resultater fra det øverste indtag, og så har vi cirka 10 meters dybde eller 5 m i hvert fald ganske tæt på terræn.
+
+00:16:17
+Og så vil jeg også vise en enkelt slide fra indtag et, så Det er næsten 400 m underteg.
+
+00:16:28
+Lad os prøve at sammenligne den med.
+
+00:16:31
+Land til Venstre Det var fra 2014 og den til højre her. Det er fra 2018 altså det år, hvor der var tørke og man kan se at de 2 figurer eller de 2 grafer følger nogenlunde hinanden, indtil vi når til til tørken her i 2018, så reagerer.
+
+00:16:50
+Tørke responserer anderledes end end for et normalt år.
+
+00:16:56
+Er det så noget der betyder noget? Ja, Det kan vi prøve at regne lidt på eller i hvert fald prøve at kigge på nogle tal, og der har vi prøvet at finde ud af hvad hældningen på den der kurve. Det er Sådan cirka og den giver noget med at Der er et fald på 0,4 m over 3 måneder svarende til 13 cm per måned.
+
+00:17:17
+Hvis vi kigger på tørke. Ups.
+
+00:17:21
+Situationen herovre, så har vi, at det resulterer i et.
+
+00:17:25
+I et fald på cirka 17 cm per måned.
+
+00:17:29
+Så det vil sige det ser måske lidt lidt voldsomt ud med den figur der, men.
+
+00:17:35
+Men faktisk er der ikke den store forskel på et normalt år og så på et tørkeår ifølge i data her.
+
+00:17:48
+Det vi også kan se Det er at der sker en en relativ hurtig.
+
+00:17:53
+Stigning i grundvandsstanden når man kommer hen på efteråret og der begynder at komme nedbør.
+
+00:18:01
+Hvorimod det går noget langt længere tid.
+
+00:18:05
+II et tørkeår før vi får den samme stigning, så Vi har en meget, meget tør umat zone.
+
+00:18:12
+Som det tager noget tid at flytte op, inden vi kan få en stigning i grundvandsspejlet.
+
+00:18:17
+Som som vi ser over til Venstre.
+
+00:18:24
+Her der ser i resultater eller målinger fra indtag et og så hernede i cirka 400 mega dybde.
+
+00:18:32
+Og den ser meget fin ud den graf. Det er nærmest den rette linje her og man kan se at det giver et et fald II grundvandsbejlet eller i trykniveauet, som for øvrigt er negativ, og det betyder Der er et et overtryk på 3 m over terræn i det tinglev-ringe 400 m under terræn hvordan det så opstår det en 2 historie.
+
+00:19:00
+Men Vi har i hvert fald en et fald II trykniveauet på 8 cm per måned i et normalt år og i et tørke år.
+
+00:19:11
+Et lige stærkt der.
+
+00:19:15
+Lad os se om jeg tør trække egentlig en gang til.
+
+00:19:19
+Nå, men i hvert fald i tørk over herovre. Der mener jeg at at faldet er på 11 12 cm per måned. Det vil sige.
+
+00:19:26
+Der er egentlig ikke den store forskel.
+
+00:19:29
+I faldet i trykniveau i et normalår og i et tørke år.
+
+00:19:34
+Hverken i indtag 5 som var helt terrænnært eller i indtag et som er placeret hernede II stor dybde.
+
+00:19:47
+Det er også det Vi har skrevet her, at Der er lille effekt på grundanstalden, og så har vi prøvet at kigge på 53 udvalgte boringer.
+
+00:19:57
+Der.
+
+00:19:59
+Forhåbentlig. Det har vi i hvert fald ansat af styret mere af klima end af andre påvirkninger.
+
+00:20:06
+Og hvis vi igen kigger på juni, juni, august altså sommer situationen her, så kan man prøve at kigge på forskellen i trykniveau mellem 2014 og 18, og den giver værdier på mellem minus 0,6 op til 2 eller 8 0,8 m, og i min er der en centimeters forskel mellem de 2, og det betyder at Det er stort set.
+
+00:20:32
+Det samme respons man får fra fra det.
+
+00:20:37
+Normale året, som vi gør fra tørkeåret.
+
+00:20:41
+Ja Det var vist det vi siger her.
+
+00:20:47
+Lad os prøve at kigge videre på, hvorfor Det er Sådan.
+
+00:20:51
+Jeg har lavet lidt talgymnastik her, hvor Jeg har fundet på noget nedbør og Det er de blå søjler herude. Der ser vi nedbøren 1 mm per dag, så Jeg har ansat jer mest nedbøren om vinteren og mindst nedbøren her om sommeren. Til gengæld så går fordampningen den potentielle fordampning den går den 2 vej Der er mindst potentielt fordampning om vinteren, hvor de her.
+
+00:21:17
+Det er mållanderne fra januar til december.
+
+00:21:20
+Og Vi har den potentielle fordampning her om sommeren maksimalt på 3 3,5 mm per dag.
+
+00:21:30
+Hvis vi trækker de 2 fra hinanden, så får vi noget vi kan kalde Netto nedbør.
+
+00:21:35
+Og vi kan se, at Der er en positiv nettelse nedbør her i vinterhalvåret, altså der der, der giver anledning til noget grundunstandelse, og her i sommerhalvåret eller i juni juli, august Der er Der er national bånd negativ, og det vil sige, der bliver indikerer der, at der ikke er noget på bornholmsdannelse. Det er der ligesom ikke noget.
+
+00:21:56
+Vand til at at løbe nedad.
+
+00:22:02
+Det her, det svarer så til til 1 1.
+
+00:22:07
+Tørkeperiode, som Vi har præsenteret for, og de for lidt siden, altså det kunne være Sådan et 2018 18 år, hvor Vi har tørke i juni, juli, august.
+
+00:22:19
+Og Sådan når der betyder det ikke så meget om Vi har tørke eller vi ikke har har tørke for hvis tørken eller hvis tørken den ligger i en periode, hvor der alligevel ikke dansk grundvand under normale omstændigheder, ja så hjælper det eller gør det jo ingen forskel om vi så får endnu mindre regn fordi.
+
+00:22:40
+Der i forvejen ikke er noget grundlovsdannelse, så i begge situationer et normalt år og 1 1 1 1 tørkeår som.
+
+00:22:48
+Som ligger midt på på sommeren, giver ikke den store forskel i grundlovsdannelse og dermed påvirkning af det økologiske system.
+
+00:22:58
+Og Det er vist også det, der står på den her.
+
+00:23:01
+Vandindholdnings og rødzone bliver mindre.
+
+00:23:05
+Og der der der sker selvfølgelig en udtørring i den situation at at af modzonen, og det gør jo selvfølgelig at.
+
+00:23:16
+At behovet for markvanding stiger.
+
+00:23:20
+Vi får mere oppumning af af af grundvand, og det vil så resultere i et fald i grundlovsdag.
+
+00:23:28
+Og da.
+
+00:23:30
+Som ida fortalte at vandløb og grundvand hænger stærkt sammen i Danmark, så vil den det fald i grund afstand. Jo selvfølgelig medføre en reduktion i vandstanden i vandløbene, og Det er jo kan være uheldigt. Det kan også være vådområder vand snakker om, og Det er jo selvfølgelig lidt lidt lidt uheldigt, men men basalt set finder vi ikke.
+
+00:23:50
+Altså kan man se på den foregående analyse af vandressourcen er relativt stor.
+
+00:23:55
+Der er ikke Der er ikke?
+
+00:23:58
+Kritisk.
+
+00:24:01
+Kritiske problemer hvis der kommer en en enkelt terke Sådan midt på sommeren.
+
+00:24:07
+Og her over til under, så kan vi se at at markvandlingen den stiger faktisk støt, og Det er indberetninger for landbruget, så ifølge deres indberetninger, så har vi Sådan en stigende.
+
+00:24:19
+Indvinding til til markvanding, og Det kan jo selvfølgelig.
+
+00:24:24
+Være lidt uheldigt i forhold til til tørken.
+
+00:24:31
+Her der kommer vi tilbage til de 53 boringer, som som jeg viste for lidt siden.
+
+00:24:38
+Der forhåbentlig er Jeg har vi i hvert fald tror vi på, at Vi er klimastyret frem for styret af andre mærkværdige ting.
+
+00:24:47
+Og i det her tilfælde, der får vi en ændring i trykniveauet om sommeren her.
+
+00:24:55
+Fra 2014-1997, som var et et meget tørt år mellem 1,7 og 7 m på hver sin side af af nul med et middel på 35 cm.
+
+00:25:10
+Så i det her tilfælde, der får vi en.
+
+00:25:14
+En ændring.
+
+00:25:16
+I grundvandsstandelsen, som vi ikke havde før, og det skyldes, at.
+
+00:25:23
+At II situationen i 1997. Der havde vi en vintertørke, altså mindre fromandsdannelse om vinteren kombineret med en sommertørke.
+
+00:25:36
+Og så er det man pludselig får et et respons, som er lidt uheldigt.
+
+00:25:42
+I forhold til tørken?
+
+00:25:45
+Og Det er Det er også det vi kan se her. Der har vi de 2 også 53 boringer og man har fordelingen af forskellen.
+
+00:25:58
+Ja i forskellen i grundvanstand i sommerperioden. Man kan se, den trækker længere til højre end i 97 end den gør II 2014.
+
+00:26:16
+Godt så vil jeg overlade til til ida.
+
+00:26:22
+Nej ja altså vi. Vi undersøger selvfølgelig de her observationer, og Der er vi jo selvfølgelig også lidt begrænset af, at Der er ret stor påvirkning af menneskelig indvendinger og markant og så videre i mange af de her point. Og så når vi gerne vil undersøge den, hvis man kan sige den del af klimastyret signal, kan det være ret udfordrende, at Vi har de her 53 boringer.
+
+00:26:44
+Men hvis vi gerne vil kigge mere landsdækkende, så er vi nødt til at tage fat i Vores.
+
+00:26:50
+Ups modeller og fordelene ved at bruge en model er også, at vi kan undersøge de forskellige dele af kredsløbet samtidig.
+
+00:26:59
+Altså. Vi kan både kigge i vandholdet i jorden. Vi kan kigge på vandføringen og grundvandet i en samlet en samlet pakke, og her bruger vi den national politologisk model DK modellen, som beskriver hele det her kredsløb og også kan tage de her menneskelige påvirkninger af e og der bruger vi det der hedder hydroliske indekser og indekserne.
+
+00:27:19
+Det er egentlig hvis man skal sige det meget simpelt end en beskrivelse af hvordan.
+
+00:27:26
+Systemet afviger fra.
+
+00:27:27
+Det, Der er normalt for sæsonen, når man kigger altid over 30 år og ser hvad er der normalt over de her 30 år og så relaterer vi dags datus tilstand i forhold til de og i kan se her ude til til højre der kan i se de de hydrologiske indekser det her Det er fra den 18. Men de genererer så også i nær realtid, så hver dag laver vi et nyt kort.
+
+00:27:54
+Og der kan man simpelthen følge tilstanden. Hvordan ser det så ud lige nu? Og farverne her indikerer jo så hvordan hvordan det afviger fra normalen?
+
+00:28:03
+Den grønne er, at Vi er i normalområdet. Det vi normalt forventer fra den her årstid og blå er til den våde side, mens de røde indikerer, at Vi har. Vi har et ekstra tørt system og på den her måde, der kan vi Sådan set både overvåge, men også.
+
+00:28:19
+Tracke, hvordan en tørke ændrer sig?
+
+00:28:23
+Over tid og følge dens dens udvikling. Den er langsomt.
+
+00:28:27
+Ligesom i det kaldte tids serien.
+
+00:28:31
+Der er selvfølgelig nogle fordele, og Der er nogle ulemper ved den her måde at gøre det på. Fordelen er, at Det er Sådan ret intuitivt at aflæse og den måde, vi laver ændringer, som betyder også, at man kan sammenligne på tværs af forskellige klimatyper, så man kan sammenligne Vestjylland med Sjælland eller Vestsjælland Vestjylland med Sjælland og. Og Det er det.
+
+00:28:49
+Det kan være en stor fordel ulempen er, at Det er ikke en decideret defit. Vi kan ikke sige, hvor meget vand Der er mangler i systemet.
+
+00:28:57
+Fordi det hele tiden er relativt til sig selv. Det er Sådan en form for standardisering i de her indeks.
+
+00:29:04
+Man kan også i stedet for at kigge på de her regionale kort og se på forskellene hen over landet. Der kan man også lave Sådan et et nationalt gennemsnit, så får man for eksempel Sådan en lille firkant her, og hvis man så er interesseret i at kigge på de sidste 30 år, så kan man så kan man lave et plot som det her, og Det er lidt et et vildt flot. Så jeg prøver at køre lidt igennem det her.
+
+00:29:26
+Men hver af de her firkanter svarer egentlig Sådan et månedligt gennemsnit for.
+
+00:29:31
+For et af de kort. Vi så vi så før og som før, så har vi vandindhold i jorden her, vandføring, det øverste og det dybe grundvand herude. Og så går vi egentlig på tværs her om Det er så de forskellige måder og op af y-aksen, der har vi årene, det vil sige, vi kan gå helt tilbage til halvfemserne og se hvordan.
+
+00:29:54
+Hvordan ser signalet ud måned for måned for de her forskellige dele af de hydrologiske system?
+
+00:29:59
+Og her har vi så tilføjet nedbør også fordi det Det kan være rigtig rart at se. Hvad er det Sådan der driver de her forskellige tørker, som vi ser Det er signal.
+
+00:30:11
+Og igen farverne indikerer jo så vådt eller tørre ekstra.
+
+00:30:16
+Og det der nok falder tydeligst i øjnene. Det er den her meget, meget tydelige hydologiske tørke i 95 96 faktisk også gik den ned til 97, så var den som Torben han lige nævnte før, og det den stammede egentlig fra den her vilde vintertørke 96 97 faktisk 2 år i træk, hvor vi havde kraftigt reduceret nedbør.
+
+00:30:42
+Og tørre somre også.
+
+00:30:44
+Og det betød faktisk, at vi havde en en grundvandsstørke, der kom helt ned i det dybe grundvand.
+
+00:30:49
+Og faktisk varede 27 måneder.
+
+00:30:53
+I modsætning så så den her jordtøj som som Torben også nævnte. Hvor meget var faktisk den kraftigste jordtøj Vi har i de her 30 og 34 år?
+
+00:31:03
+Men responset som i ser her er faktisk kun en mindre grad, og Det var også det som som vi kunne se i tidshager.
+
+00:31:13
+Hvis vi så kigger lidt fremad, hvad kan vi så? Hvad kan vi så forvente med de fremtidige klimaændringer? Og her har jeg vist her viser vi de her 21 klimamodeller.
+
+00:31:26
+De er rangeret her fra dem med den største ændring i Århus nedbør, så den heroppe, altså den der har den største nedbørsændring fra nu til.
+
+00:31:37
+Slutningen af århundredet.
+
+00:31:38
+Og hernede er den, der har den mindste og farverne indikerer om Vi har hvor meget ændring er, og hvor hvilken retning Det er.
+
+00:31:46
+Og der kan man måske Sådan bare umiddelbart se, at Det er rimeligt blot det hele. Vi har kun enkelte, der faktisk siger mindre nedbør, så vi vi ser ind i en våd fremtid faktisk 16% mere end nedbør til slutningen af det her område.
+
+00:32:01
+Så det ser jo fint ud i forhold til tørke.
+
+00:32:04
+Og vi kan jo så se, at der kan være lidt stor forskel, hvor klimamullerne siger, at ændringen sker, så Der er ikke Sådan nogle Sådan super tydelige rumlige strukturer, og der har også været forskel på hvor usikre modeller den er.
+
+00:32:18
+Men hvis vi så kigger på sommerfedbjørn, så er billedet noget andet. Det er stadigvæk den samme sortering af den vådeste årlige nedbørs højeste ændring i årlig nedbør til den laveste, men her kan man også selv de modeller, som at nogle af de tørreste på års nedbør. Der er faktisk nogle af dem, som som ramte siger en lavere sommer nedbør.
+
+00:32:39
+Og helt generelt er nogle der som som virkelig vågner ud i forhold til en.
+
+00:32:45
+Et fad i sommerne børn.
+
+00:32:48
+Selvom at gennemsnittet er er, er øget sommerudbør, så er der altså ret store forskelle her, og modellerne er bestemt ikke enige om, hvad vi kan forvente af personer.
+
+00:32:58
+Og hvis vi så lægger ovenpå det, det signal, som vi ser i fremtidige potentielle fordampning, som er her igen sorteret i forhold til nedbør, så er det de samme sorteringer som før, der kan man se. Der er faktisk en ret kraftig bøgning II potentielle fordampning, så sammenlignet så, så lægger man det ind over hinanden, så ser vi altså frem til meget våde, mindre og generelt.
+
+00:33:22
+Ikke knap så våde eller decideret, måske endda tørre sommer, men højt fordang.
+
+00:33:29
+Og hvordan manifesterer det som som i grundvandsstanden og det her? Det er et plot af terræn og et grundvand. Vi har den samme sortering som før, og farverne indikerer stigende eller fanden grundvandsspejl.
+
+00:33:39
+Og det her, Det er så midler, så Det er ikke ekstremt. Det er kun Vores middel kundeanstalt, og der kan man også sige selv for de fordi dem vi normalt ville kalde våde heroppe på øverste række, så er der altså områder, hvor Vi har en dybere eller et fald i grundvandsvejken til II fremtiden, men Der er også mange steder, hvor vi ser en en kraftig.
+
+00:33:58
+Øgning altså en.
+
+00:33:59
+Mere terrænet er god forstand.
+
+00:34:03
+Og hvis vi kigger Sådan det her, Det er jo så en helt masse 21 modeller. Men hvis vi kigger i forhold til det gennemsnitlige signal, Det er det i kan se herude. Her er vi i dybden til grundvandsspejlet, vandindhold i rødzone og vandføring i vandløbet for de forskellige måneder, og så kan man se klimabåvirkningen.
+
+00:34:20
+Det er så de her søjler igen. Farverne indikerer om vi går mod våde eller tørre, så hvis vi kigger på gennemsnit over de her modeller, så ser vi altså den her tendens til det våde grundvandsbejl, mens brudzonen faktisk viser.
+
+00:34:32
+En en uldtørring øget uldtøring. Og som om fordi Vi har den her øgede potentielle fordampning.
+
+00:34:40
+Hvorimod i vandføring der bor i vandløbene. Der har vi både øgning og også måske meget, meget lille øgning om om sommerens og.
+
+00:34:49
+Og start efter, hvis vi så kigger på på den de allertørreste altså de allertørste en procent af tiden, så ser vi stadigvæk en våd tendens i grundvandsbejlet, men ingen meget, meget kraftige udtørring i rådsonen. Og det betyder ligesom, at det gør en historiske perioder, at behovet for vanding og drikkevand. Den vil altså øges i fremtiden, fordi vi bliver mere presset II.
+
+00:35:16
+I rodzonen og mere presset i landbruget.
+
+00:35:19
+Og Det har jo selvfølgelig stor betydning for for grundvandsspejlet, og Det er særligt betydning i de områder, hvor vi allerede har et ret højt forbrug, hvor Vores ressource måske er under pres på grund af kraftige indvendinger eller de steder, hvor Vi har meget følsomme økosystemer, hvor en øget indvending den den vil. Den vil give rigtig store udfordringer.
+
+00:35:46
+Og så vil jeg lige komme ind på på den her mappe, og Vi har lavet et studie herovre i Skjern, hvor vi prøvede at kigge på. Jamen, hvad sker der egentlig med grundvandet, når hvis vi øger markvand?
+
+00:35:57
+Og hvordan man påvirker det tørke signalet.
+
+00:36:02
+Og her har vi kørt med de samme klima modeller. Jeg vil ikke gå ind i detaljerne, men Jeg vil bare lige frustrerede her, og det vi ser her, når vi når vi kører fremtidige scenarier i det her opland. Det er, at vi faktisk, hvis man kigger på det antal af, tørker i nutiden og fremtiden, at vi faktisk får en ret kraftig eller en en, ikke en kraftig.
+
+00:36:25
+Ingen ændring i antallet af tørker til fremtiden.
+
+00:36:29
+Hvis man kigger på alle 5 typer, men kigger vi på de allermest ekstreme tolketyper, så får vi faktisk over en fordobling af de forskellige tørker. Det her Det er jordens og grundvandsørken og og afstrømningstørken. Så så selvom at vi ikke generelt får nyt flertal, så bliver de aller aller mest ekstreme, altså mere hyppige, og det vil jo øge presset i de i de situationer.
+
+00:36:53
+Og der tror jeg, jeg lige springer over det.
+
+00:36:57
+Og så kan vi gå over til tov.
+
+00:37:00
+Ja tak for det.
+
+00:37:04
+Det var egentlig meningen, at vi ville sige noget om det her arbejde, som vi lavede for et par år siden.
+
+00:37:11
+Hvordan klimadelkerne påvirker vandmiljøet.
+
+00:37:15
+Men ved nærmere eftersyn, så så inkluderede det arbejde faktisk ikke noget med tørke, så vi blev enige om at Det var ikke super relevant lige her i den her sammenhæng. Så så så det vil jeg undlade at at sige noget om.
+
+00:37:35
+Tilpasningsmuligheder hvordan hvor hvilket klimatilpasningsmetoder kan man bruge for?
+
+00:37:43
+For for det her problematik som Vi har snakket om.
+
+00:37:48
+Vi kan selvfølgelig kun vanding i Vestjylland.
+
+00:37:54
+Og der vil man jo.
+
+00:37:58
+Gå efter at at forbannere fra det dybe magasiner. De er lidt mindre sårbare.
+
+00:38:04
+Og så er det jo selvfølgelig vigtigt, at man at man ikke kan støder ind i Sådan en situation med med vintertørke efterfulgt af samtørke. Og så kan man spørge sig selv, hvordan børnsen ved man om man lige støder ind i Sådan en situation.
+
+00:38:23
+Og det kræver jo nok noget noget. Hvad hedder det?
+
+00:38:29
+Monitering.
+
+00:38:30
+Så vi der. Vi skal have nogle målinger af, hvad der foregår derude for at gå på sine om det.
+
+00:38:42
+Så.
+
+00:38:44
+Hvis man kan.
+
+00:38:46
+Bruge en modellers så kan man selvfølgelig begynde at opstille.
+
+00:38:52
+Nogle scenarier for, hvordan den næste halve år blev udviklet sig, og som nævnte en sæsonkonomser.
+
+00:39:00
+Vi har en model, der kører i reals side allerede.
+
+00:39:04
+Og der var nok ikke. Vi håber på den snart vil nogle sæsonen så også i hvert fald på testbasis, så det vil være super interessant.
+
+00:39:16
+Ja.
+
+00:39:21
+Hvis man havde den viden?
+
+00:39:23
+Så vi. Det ville jo selvfølgelig også være muligt at være lidt mere.
+
+00:39:28
+Hvad skal man sige?
+
+00:39:30
+Lidt mere dynamisk i sin i sin i sin, når man giver tilladelser til til vantevending.
+
+00:39:38
+Fordi så havde man et overblik over om ressourcen kunne bære det, eller om den ikke kunne bære det, og det kunne være nogle selvladelser til for eksempel power 2 x eller eller tilsvarende som som man kunne.
+
+00:39:51
+Man kunne få et et, hvad skal man sige et grundlag for at at give en en tilladelse som som man ikke har i dag?
+
+00:40:03
+Og så er der endelig indvendingstilladelse til til markvandling, hvor man godt kunne forestille sig, at der vil blive et behov eller et et øget pres på at få lov til at få grundvand op til til til markvand.
+
+00:40:21
+Og det vil man igen med med passende brug af modeller og og og overvågning kunne sandsynliggøre, om Det var om Det var en god ide eller ej.
+
+00:40:33
+Konklusion.
+
+00:40:39
+Vi finder det Vi har lavet, viser at.
+
+00:40:44
+At.
+
+00:40:46
+Man får faktisk ikke den store. Typisk får man ikke den store påvirkning af grundlovnstanden grundlovsdannelse, når Vi har en en sommertørke, fordi udgangspunktet Det er at det, der bliver sjældent et dannet særlig meget grundvand om sommeren alligevel, og hvis der så kommer 1 1 1 tørke som.
+
+00:41:06
+Som giver mindre prøveanstalt, så ja< nul. Det er jo stadigvæk nul så så så derfor er der ikke den store effekt af det.
+
+00:41:17
+Hvis det virkelig skal slå igennem, så skal vi have en en vintertørke efterfulgt af en sommertørke. Så har vi noget eller et et problem, fordi så er grundvandstanden lav og det vil sige når vi pumper vand op til.
+
+00:41:32
+Til til til mark berling for eksempel, så så har vi et ressourceproblem.
+
+00:41:43
+Og de eksempler som ida nævnte helt i starten af af foredraget.
+
+00:41:52
+Om vandknaphed Det er typisk forbundet med kapacitetsproblemer og ikke ressourceproblemer.
+
+00:42:05
+Og vi kan, når vi kigger på på klimamodellernes resultater, så kan vi se, at.
+
+00:42:14
+Der er vi forventer at at der kommer flere ekstreme tørker antal. Det samlede antal af tørkere med stort set være uændret ifølge klimamodellerne, men de mest ekstreme vil blive mere ekstreme.
+
+00:42:29
+Og Det er jo selvfølgelig lidt uheldigt.
+
+00:42:36
+Ja det bliver specielt de terræn er grundvandet der der.
+
+00:42:41
+Hvor Det er kritisk for.
+
+00:42:44
+Minimumsvans afstramning i vandløbene, som du er født af brandmand og selvfølgelig også sårbart i tandlægeforbindelse.
+
+00:42:54
+Vi tror tæt på, at overvågninger og modelprognoser.
+
+00:43:01
+Vil give en mulighed for at afhjælpe de de de mest kritiske situationer eller også de mindre kritiske situationer. Og Det er i hvert fald give et et grundlag for at tage en beslutning om. Må vi vente vand II det her år eller eller skal Vi skal vi udsætte de store valgprojekter til senere.
+
+00:43:25
+Stavs jamen Det var vist det vil lige sige. Tak for opmærksomheden.
+
+00:43:30
+Super 1000 tak.
+
+00:43:35
+Jeg.
+
+00:43:36
+Har fået et spørgsmål, så det hopper jeg lige ud i her fra fra Søren og kommer vi til at vælge mellem varkvanding og vand til klimalogbund.
+
+00:43:53
+Ja Det er jo et rigtig godt spørgsmål.
+
+00:43:57
+Altså der vil i hvert fald være behov for hvis man giver nogle af de her ekstra tilladelser.
+
+00:44:04
+Og tillader mark-vandlings og punding andre steder, end man gør i dag, at man holder skarp for øje, at det skal være bæredygtigt. Ikke så vi ikke får den her.
+
+00:44:17
+Nedsænkning af grundvandsstanden både for valget, men men også også for de lavbundsjorde, som vi så nu er i gang med at med at modge, så så Det er jo helt klart et en ting som man skal man skal have med i den vurdering, hvis man giver ekstra tilladelser under tørke sig og. Og Det er også et et felt, som er super interessant den her måde. Jamen.
+
+00:44:38
+Hvad med de de de naturlige tørker som vi får? Hvordan påvirker de så den effekt vi kan få på klima lavtbund?
+
+00:44:44
+Ja men Det er en helt 2 snak men.
+
+00:44:48
+Ja og.
+
+00:44:52
+Hvis der nu er nogle andre der sidder derude og brænder af med nogle spørgsmål, så må i jo, så må i endelig bare skriv dem. Det er nu Der er en mulighed for.
+
+00:45:02
+Og.
+
+00:45:05
+Ellers.
+
+00:45:08
+Ja Det er fordi Der er kommet et spørgsmål, så jeg venter lige på om der kommer nogle flere. Ellers så tænker jeg at medmindre i har noget i vil.
+
+00:45:16
+Vil uddybe yderligere eller i ikke fik nævnt.
+
+00:45:22
+Der er vi kan måske sige at at vi jo er i gang med det her tørkeprojekt, som som har kørt II år som samarbejde mellem de 3 institutioner jeg nævnte tidligere, og der har vi også fået mulighed for at arbejde videre med det med det næste år, så der håber vi også kunne komme lidt mere II dybden med det, fordi tørke tørke studier er generelt lidt underbelyst i Danmark. Det er jo ikke noget Vi har tradition for at kigge så meget på.
+
+00:45:46
+Så så det så det glæder vi os rigtig meget til at kunne kunne komme lidt længere ned.
+
+00:45:51
+I materientering de næste års tid.
+
+00:45:54
+Ja, Der er lige kommet opfølgende spørgsmål fra Søren er det kun i Vestjylland, at vandeløb tørrer ud?
+
+00:46:04
+Nej det Det er det så absolut ikke.
+
+00:46:08
+Vi har jo også ja, når man kommer tættere på København, så er der jo selvfølgelig også.
+
+00:46:14
+Nogle vandløb, der ikke har ret meget vand om om om om sommeren.
+
+00:46:19
+Det har vi bare været vant til, fordi Det har stået på i de sidste 100 år, så Sådan Sådan ser vandløbene ud på Sjælland.
+
+00:46:28
+Men men det. Det er jo selvfølgelig en effekt af at at der sker noget i tørring, som er lidt lidt uhyggelig og nogle af dem de får jo så også helst sætte vand op II starten af noget grundvand der bliver pumpet op, så man så man har en en vandføring i.
+
+00:46:45
+I de vandløb.
+
+00:46:48
+Så så så Der er helt sikkert udtørring i resten af af landet, man kan sige i resten. Det er jo kun i Vestjylland, at man generelt får tilladelse til at at lave markvanding eller på grundvand op til at at bruge til markvanding.
+
+00:47:04
+Så så så så Det er nyt. Hvis hvis der bliver givet tilladelse til det fremover til i den østlige del af markvanding også. Men men Jeg tror da at at landbruget vil forsøge at at presse systemet for.
+
+00:47:25
+At at få noget, altså for at få lov til at putte vand op i østdanmark, og Det kan jeg da godt forstå, fordi hvis hvis Der er masser af vand i vandløbet og.
+
+00:47:33
+Der er åbenbart ikke er nogen vandmangel, så så hvorfor ikke altså så så det. Det er jo en afvejning, der selvfølgelig kræver noget noget indsigt i hvad der foregår.
+
+00:47:44
+Ja.
+
+00:47:46
+Så er det spørgsmål fra Britt her eller en kommentar eller hvad. Det er en en ting er udvikling II det åbne land, men interessant er også i forbindelse med nærhed af by og ikke mindst ny by eller byområder på grund af øget befæstelse.
+
+00:48:04
+Og.
+
+00:48:06
+Så har jeg et spørgsmål fra Niels, kan i sige lidt om formål og få ventet output af tørkeprojektet, som i gennemfører sammen med DMI og KDS.
+
+00:48:18
+Ja altså man kan sige det det tolkeprojekt som kører lige nu, som er en del af forskningsreserven. Det har været det man kalder vidensopbyggende projekt, så det handler rigtig meget om at samle erfaringer fra andre lande og forsøge at netop blive enige om, hvordan vi definerer og arbejder med tørke i en dansk kontekst.
+
+00:48:41
+Og i forbindelse med Det har vi her på kemios arbejdet mest med den nye hydrolatiske tørke og kiggede tilbage i tiden, så Det var noget af det resultater, jeg viste med de her hydrologiske indeksser vi undersøger også forskellige datamuligheder for overvågning, altså forskellige satellitprodukter og også forskellige sensornetværk. Hvordan man de kan underbygge overvågningen, og tanken er så, at når vi bevæger os over i tørke 2% af den næste.
+
+00:49:09
+At nogle af de her erfaringer de skal så måske forhåbentlig udmøntes i.
+
+00:49:15
+At vi kan ikke give noget input til nogle planlægningsværktøjer eller forsøge at belyse og udvikle nogle af de her planlægningsværktøjer. Vi når nok ikke til at det Det er kørebart om et år. Det er tiden nok knap til, men at vi kan prøve at komme et skridt videre i forhold til at at understøtte nogle af de her prognoser og overvågningsværktøjer som som Torben også.
+
+00:49:35
+Og Sådan.
+
+00:49:38
+Jeg ved på, DMI har de arbejdet rigtig meget med den her nedbørs diskontinuitet, som er opstået, da man skiftede.
+
+00:49:45
+Ålerudstyr, og den har man også arbejdet rigtig meget med i tørke regi. For Det er super vigtigt at have fat i den der.
+
+00:49:52
+Generelle troværdige lange tidsser, når man kigger på de her ekstremer, så det Det har de virkelig arbejdet hårdt på og og prøve at lyse. Og IKDS er man undersøger man den meget den økonomiske side af af tingene, så man er interesseret i. Hvad har det egentlig kostet os i Danmark med de her tørker historiske tørker?
+
+00:50:12
+Og hvilke, hvilke sektorer er påvirket?
+
+00:50:16
+Ja og Der er selvfølgelig mange andre ting der også bliver kigget på, men Det er Sådan lidt overordnet træk.
+
+00:50:21
+Ja, Der er et spørgsmål fra mie tror II. Tørke kommer til at påvirke udledningstilladelser til vandløb. Eventuelt hvordan?
+
+00:50:33
+Ja Det er et godt spørgsmål.
+
+00:50:35
+Det er et godt spørgsmål.
+
+00:50:36
+Det ved jeg ikke. Vi har et godt svar til det.
+
+00:50:41
+Har vi det Torben?
+
+00:50:43
+Det tror jeg ikke Jeg har.
+
+00:50:45
+Altså det kunne man jo godt. Det kunne man selvfølgelig godt forestille sig. Altså hvis udledningen holder minimums afstrømning oppe Sådan, så er det jo på en eller 2 måde en fordel, men Det er ikke noget, Vi har kigget ind i.
+
+00:51:00
+Spørgsmål.
+
+00:51:04
+Jeg nu er der ikke lige umiddelbart flere spørgsmål, så jeg tænker egentlig bare at at at vi runder af og. Og så kan jeg lige sige, at vi optager webinaret og det bliver lagt ud på i Vores vidensbank.
+
+00:51:20
+Som man kan se den her føljetomme af de her 6 tørke hedde her og gå igennem det hvis man har lyst til det i bagkataloget og ellers så vil jeg bare ja igen 1000 tak til jer 2 for at stille op og Det var Jeg synes Det var virkelig interessant.
+
+00:51:36
+Og ja.
+
+00:51:40
+I må have en en god dag allesammen.
+
+00:51:44
+Tak i lige måde. I lige måde.
+
+00:51:46
+Hej.
+
+00:51:47
+Hej.
+

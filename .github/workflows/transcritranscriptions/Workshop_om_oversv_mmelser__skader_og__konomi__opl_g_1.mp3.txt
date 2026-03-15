@@ -1,0 +1,285 @@
+00:00:04
+Ja.
+
+00:00:05
+Jamen, Jeg er jo glad for, at vi i dag har Sådan et alsidigt og forskelligartet publikum, fordi at Vi har jo både kommuner og Forsyning. Vi har forskere, og Vi har hele lager, og Vi har forsikringer og andre, så Det er virkelig spændende. Og Det er jo ret sjovt, fordi da det her møde startede med at skulle forberedes, der havde vi jo foreslået per og jeg Sådan lidt bredere program, hvor man kunne diskutere mere i dybden med alle de der forskellige typer oversvømmelser.
+
+00:00:35
+Og så blev Steffen ved med at insistere på, at økonomi var jo det vigtigste. Det er vi jo slet ikke vant til i og for sig, men det må han jo have haft en tanke med, så noget af det som vi tænker på i dag. Det er at Det er en god idé, hvis Vi er meget åbne omkring.
+
+00:00:51
+Hvor har vi et godt datagrundlag, hvor vi godt forberedte, og hvor kan vi gennem samarbejde mellem alle de parter, Der er involveret i det her.
+
+00:01:01
+Gøre det bedre, så vi kan godt være lidt åbne og kritiske omkring hvad vi kan, og hvad vi ikke kan.
+
+00:01:08
+Og som i ved jo, så er det jo det der med at Vi har valgt fra alle sider. Vi har jo både krystoversvømmelse. Det er det, som vi nok har arbejdet mest med, men Vi har jo også skal vi bruge ekstremt regn, hvor at der jo også er et samspil med kysterne og med grundvandet og andre ting, så har vi vandet som jo vandløbene, som vi også spiller sammen med de andre oversvømmelser.
+
+00:01:32
+Og så er grundvandet blevet noget, som nogen taler uendelig meget om.
+
+00:01:37
+Og som vi ikke vil komme så meget ind på i dag, men hvor vi nok synes måske, at de tal Der er blevet lagt frem om.
+
+00:01:44
+Langt over 300.000 boliger er truet af det. Det er måske ikke så stærkt det datagrundlag, men det vil jeg ikke se mere om, men som i ved, så er der jo for tiden en kæmpe efterspørgsel efter at skadesberegninger. Der har jo været mange hændelser, og det gør, at mange mennesker begynder at tale om det her.
+
+00:02:05
+Faktisk, så var jeg selv ude for at jeg var på camping her i sidste uge, at det der gartnere som lige holdte en pause i køkkenet. De begyndte at sidde og snakke om det her. Det er altså meget alvorligt, og der forsvandt 1 m af Vores kyst eller Vores krans sidste år, og og Det var også kystdirektoratets skyld.
+
+00:02:20
+De vil jo ikke lade os gøre noget, og jeg forsøgte at forklare dem, og jamen Det er jo kommunen der må bestemme det. Eller Det er virkelig noget, som der bliver talt om.
+
+00:02:28
+Blandt folk, der ellers ikke er insighter, så er det jo også det, at nogle private aktører, de kan blive pålagt betaling. Der er jo både lodsejere, sikringsselskaber og den finansielle sektor, som kan blive tvunget til at nedskrive deres aktive. Og når det sker, så er det selvfølgelig lidt mere alvorligt, end at vi bare i fremtiden taler om en teoretisk om en krimi forandring.
+
+00:02:51
+Ligesom jeg står på Steffen kryds nå, så er det jo også det, at kommunerne og forsyningen er ansvarlig for store planlægnings og implementeringsopgaver. Beredskabet har selv udtalt, Vi har talt grundigt med dem også i forbindelse med nogle projekter, men Det har også været frem med offentligheden.
+
+00:03:09
+At de er totalt underbemandede. De har ikke nok udstyr, altså pumper og alle de andre ting, så alt i alt tegner sig et et billede op, hvor situationen den virkelig bygger op.
+
+00:03:23
+Men som Jeg har skrevet om rød skrift.
+
+00:03:27
+Finansiering og hvem der skal betale af uafklarede? På den måde er det meget svært at implementere projekter i fremtiden, fordi Der er ikke nogen afklarethed om det, og man kan også risikere at stride af lokal, selvom man egentlig har planlagt nogle gode projekter fra kommunerne.
+
+00:03:44
+Der er stort behov for økonomiske og samfundsmæssige analyser.
+
+00:03:49
+Men også får mere gennemskuelighed i data og forudsætninger, fordi Der er en tendens til, at der bliver lavet mange rapporter, hvor man egentlig ikke rigtig ved, hvad Det er. Der er fortsat, så kommer jeg nærmere ind på.
+
+00:04:03
+Lige kort, så vil jeg sige, at Det er jo Sådan at når man skal lave Sådan nogle beregninger.
+
+00:04:08
+Det økonomiske beregninger som kommer hen sidst i figuren her, så starter man jo med klimascenariet. Vi skal jo vide, hvordan det vil ændre sig i fremtiden. Hvad bliver havstanden, hvor tit vil man have storme, hvor kraftig ved stormende blive, hvor meget nedbør vil der komme, hvis vi så ved det, hvor detaljeret geografisk niveau, så kan vi i næste.
+
+00:04:34
+Puk streg den fysiske påvirkning, og Det kan vi jo gøre med oversvømmelsesmodeller og vide, hvor det egentlig er. Der skal en skade. Vi ved hvor vandet.
+
+00:04:41
+Ja, og Der er vi jo så heldige i Danmark, så Vi har så unikke digitale datasystemer, så vi ved jo helt ned på meget, meget deltieret niveau. Hvad Der er på Vores landjord, og Der er faktisk ikke nogen af andre lande, som jeg kender til verden, som overhovedet har noget i den retning. Så Vi er virkelig velforberedt her.
+
+00:05:04
+Undskyld, ja, så kommer vi til økonomien, og der beregner vi omkostningerne ved at de ting vi ved Der er på landjorden, bliver oversvømmet.
+
+00:05:11
+Og hvis vi så vil beregne forvandlet risiko, så handler det både om, hvor stor en skade sker der, hvis en given ting bliver oversvømmet og tit ved den hændelse ske.
+
+00:05:22
+Det er faktisk den information Vi skal vide, hvis Vi skal vide om Det kan betale sig at investere i klimatilpasning. Det er Sådan den teoretiske verden, men Det er jo ikke altid Sådan. Kommuner eller andre tænker at de kun vil beskytte, hvis Det er det virkelig kan betale sig.
+
+00:05:36
+Man kan jo godt have andre synspunkter omkring ekstreme hændelser.
+
+00:05:40
+Hvis man kigger på klimatilpasning DK, så har vi jo forskellige åbne analytiske værktøjer.
+
+00:05:48
+Som man kan bruge. Vi har jo kystdirektoratets øh model, den der kystplanlægger som beregner nogle indekstal for skader man ikke samlet økonomi på et helt detaljeret geografisk niveau.
+
+00:06:02
+Som man selv kan tage ud og arbejde videre på, så har vi jo kampmodellen, som er under udvikling og den kampaltikkert fortælle mere om den er jo en meget brugervenlig screeningsmodel, som selv en kommende boligejer og nemt bare lige kan gå ind og kigge på. Og Jeg har hørt at faktisk ejendomsinvestorer bruger den også fordi de er så nærige, så de gider ikke betale for nogle mere grundige analyt. De går bare ind og kigger lidt der har været et problem her OK Det er der ikke, så bygger vi et stort ejendoms.
+
+00:06:29
+Kompleks, så har vi det. Der er ikke noget, vi som bliver brugt så meget i dag, men Det er mere til at vurdere et konkret projekt, og så har vi jo Vores model, der hedder skaldensøkonomi, og den vil jeg selvfølgelig fortælle lidt mere om.
+
+00:06:44
+I Vores model skades økonomi. Det var jo en medal, vi udviklede under at innovationsfondprojekt.
+
+00:06:50
+Der endte med, at kommunerne blev meget optaget af den der model, fordi de synes, at den var meget brugbar i forhold til de planlægningsopgaver de havde i forhold til DK 2020 og i forhold til deres planlægning. Så derfor så allerede inden projektet går færdig, så blev modellen overtaget af kommunerne. Gevi gav modellen til kommunerne.
+
+00:07:11
+Her ved siden af i dag fortalte jeg lidt mere konkret om, hvordan vi analyserer dem. Det var Sådan en open source model, hvor Vi har et digital datasystem for hele Danmark. Her har vi så de der forskellige sektorer som i ser her.
+
+00:07:27
+Og dem som Der er Sådan penge ikon udenfor. Det er der, hvor Vi har økonomitalal, bygninger, vej og trafik, mennesker og helbred, turisme, rekreative områder, landbrug.
+
+00:07:39
+Og så har vi nogen, hvor vi mere har Sådan nogle form for indextal.
+
+00:07:43
+Nu er det heldigvis Sådan, at vi også har urs her i dag. Han kan fortælle noget mere om nogle af de der sociale og menneskelige forhold, og Vi har toke pandro, som vil sige lidt mere omkring ejendomsmarkedet, og hvad man kan sige om det.
+
+00:07:57
+Nu må jeg lige sige lidt om, hvad det egentlig er for data Vi har i de her forskellige moduler, fordi Det er noget hvor at vi godt vil arbejde videre på og forbedre det datagrundlag.
+
+00:08:09
+Indenfor bygninger, der der ved i jo BP er Det er jo et landsdækkende detaljeret register, så vi ved jo ret meget om bygningerne i det omfang, hvor BBR er fuldt optaget opdateret. Der har vi jo.
+
+00:08:26
+Data fra naturs gaderådet for alle udbetalinger, som der har været i forbindelse med stormflod. Dem sammenkæder vi med den vanddyde, der har været omkring bygningen.
+
+00:08:37
+Så har vi estimeret Sådan en skadehedsfunktion, som man kan se, at hvis Der er 2 m vand uden for bygningen, hvor meget er der så blevet udbetalt? Og Det er det som vi bruger. Så prøver vi også, og Det har vi også lidt fra forskellige bygningstyper.
+
+00:08:51
+Så har vi nogle forudsætninger om værditab for salg af huse, men de Det er noget af det, jeg håber toke dage vil komme med nogle bedre tal, fordi at Det er jo faktisk et reelt problem, og Nationalbanken har lavet nogle analyser, men.
+
+00:09:08
+Det ville være godt at have nogle forbedrede taler, og Jeg tror Det er noget der vil ændre sig i fremtiden fordi at.
+
+00:09:15
+Realkreditinstitutterne og ejendomsmæglerne begynder at interessere sig for det her område. Så har vi det der med mennesker og helbred, og her regner vi med nogle direkte økonomiske omkostninger forbundet med tab af arbejdsevne, fordi man skal bruge en masse tid på at klargøre sin bolig igen og tale med forsikringsselskabet, og man kan have nogle feriedage.
+
+00:09:36
+Og.
+
+00:09:38
+Endehusende Der er også sygedage. Vi bruger også vi bruger nogle tal for værdien af tid her.
+
+00:09:44
+Så er der transport. Hvis en vej bliver oversvømmet, så kommer der jo trængsel ligesom i myldretidstrafikken, når man bruger mere tid.
+
+00:09:52
+Så har vi industri.
+
+00:09:55
+Der bruger vi tal for, hvor meget hvor mange beskæftigede Der er i de lokaliserede virksomheder. Man vil gerne arbejde med mere bedre økonomiske tal for hvad omsætning og værditilvækst kunne være tabt.
+
+00:10:10
+Så har i rekreative områder. Der har vi nogle tal fra Aarhus Universitet.
+
+00:10:15
+Som er baseret på hvor mange besøgende Der er, og Det er specielt.
+
+00:10:20
+Hvad det hedder i naturområder, men Vi har selv lavet nogle tal også for byer, så har vi nogle biodiversitet, som er Sådan nogle indeks. Tager vi turisme?
+
+00:10:30
+Som egentlig er noget Der er ret velbeskrevet, fordi visit Danmark. De har ret mange tal, så vi ved både noget om, hvem der plejer at komme i et givet område, og hvor mange penge de plejer at bruge, når de er der.
+
+00:10:42
+Så har vi lavet noget omkring landbrug også hvor vi kigger på afgrøde data fra Danmarks Statistik og priser.
+
+00:10:50
+Og det faktisk betaler åbenrå Kommune. Det er Sådan en meget sjov eksempel, fordi de synes den del af modellen burde være bedre. Jamen så betaler de for at at få det opdateret, når nu kommer Torben.
+
+00:10:59
+Det er godt, så kan vi snart vide noget mere om ejendomstal nå.
+
+00:11:04
+Så vil jeg sige lidt om metoder, som vi arbejder lidt med. Vi er jo interesserede i at vide noget mere om, hvordan det her egentlig påvirker mennesker.
+
+00:11:14
+Der vil vi begynde at kigge på, hvordan påvirker det ting, som mennesker finder værdifuldt, som de egentlig gerne ville gøre for at realisere, hvad deres nytte ville en kalde den nu? Ja.
+
+00:11:27
+Og Det var både det der tiden på at håndtere oversvømmelser, som man talte om, men de har jo også hentet fritid fordi at og Det har jo også en værdi. Så er der også mulighederne for at sælge en ejendom. Der kigger vi lidt på liggetiderne, fordi Det er jo et stort problem, hvis du gerne vil væk fra et område, hvor Der er oversvømmelse, du faktisk ikke kan sælge din bolig ikke alene får den en lavere pris, men du kan heller ikke sælge den.
+
+00:11:50
+Så har vi også psykiske konsekvenser.
+
+00:11:53
+Og, der har vi tidligere lavet en undersøgelse ude fra jyllinge nordmark og halvtres procent, der oversøger med husstanden. De svarede og 2 3 af dem selvrapporterede forskellige mentale ting altså Sådan noget med at i kan finde rapporten på nettet, at at man har været deprimeret eller haft PTSD eller angst eller nogle af de ting er Sådan egentlig diagnoser. Det er noget, vi vil gå videre med.
+
+00:12:19
+Andre ting er mere Sådan.
+
+00:12:20
+Altså lidt blødere ting og man er stress i en periode og ikke kan sove et andet område med metoder.
+
+00:12:28
+Ja vi vil gerne arbejde mere med byudvikling, fordi vi tror jo ikke, at Det er klimatilpasning, der styrer alt, hvad en Kommune skulle gøre. Det vil jo være ligesom halen, Der er logret med hunden, så hvis i ser det mere som at Det er en del af byens udvikling, at der også er klimarisiko. Vi arbejdede i Aabenraa med at lave nogle alternative lokalplaner sammen med kommunen, om der skulle være Erhverv eller.
+
+00:12:55
+Rekreative områder eller boliger i havneområder. Og så gik vi ind og brugte kommuneplaner og.
+
+00:13:01
+Og til oplysninger fra kommunen og lavet en et ændret kort for anvendelse, og så regnede på, hvad var det ville betyde? Så kigger vi også på bylivsregnskab.
+
+00:13:12
+Fordi det findes jo fra København. Det findes også fra Odense og det vi gør Det er Det er at kigge på. Der er jo tællinger af hvor mange mennesker passerer en given rute og opholder sig på et givet sted.
+
+00:13:24
+Så nu, hvis mange mennesker gerne vil være i hvad det hedder den røde plads eller hvad det nu hedder på i Nørrebro, så er logikken jo at de er der fordi at det giver dem en værdi. Det var en økonomisk indikation kan man sige, så derfor så kan man godt bruge bylivsregnskaber til at se.
+
+00:13:43
+At byens rum som og den del af det, som mennesker lægger vægt på, lider af.
+
+00:13:50
+Så Det er noget af det, vi også vil bruge, og så vil vi selvfølgelig kigge på så alle naturområder og gå mere i dybden med det, og der regner vi jo med måske Aarhus Universitet eller andre, så går vi jo også meget ind i Sådan noget med risikoaversion er der nogle ting, som Vi er særligt iver efter at beskyttet, selvom det måske ikke er så sandsynligt, at de kunne blive oversvømmet, og Der er pointen jo, at Der er en forskel på, om det måske er en.
+
+00:14:15
+Industrivirksomhed, hvor man dog trods alt kan.
+
+00:14:17
+Regner det økonomisk tab ud og siger Det kan du komme især for at du kan bygge det op igen, eller om Det er sundhedsvæsenet i 2011. Der havde man jo den der det der skybrud i København, hvor at rigshospitalets kælder og strømforsyning blev oversvømmet, og man måtte evakuere intensive patienter. Det er jo ret alvorligt, hvis nogen dør endnu mere alvorligt, måske i Vores bevidsthed er hvis børn.
+
+00:14:43
+Bliver påvirkende.
+
+00:14:44
+For eksempel hvis kloakvand kommer op på jorden. Vi kan have kulturelle ting, værdier og måske bare ting, der kan repareres og gøres rent, og de priser, som vi vil sætte på, som Vi er villige til at betale for at undgå, at der sker noget med det. Der er jo på en måde at afspejle karakteringen af de her forskellige værdier.
+
+00:15:04
+Så er det jo også indenfor metoder og data.
+
+00:15:09
+Hov, Det var ikke så koldt. Nå jo altså vi går meget. Vi vil jo gerne have at vi nu skal til at tale om bidragsfordelinger og finansiering, fordi ellers bliver det her jo ikke til noget, så derfor så vil vi godt scelne mellem hvad er private goder og værdier.
+
+00:15:24
+Bygninger, industri og Sådan noget det tal Jeg har lavet om. Men hvad er fælles goder?
+
+00:15:29
+Eller falsk værdier, og Det er jo Sådan noget med sundhed og byliv og andre ting. Og Jeg synes ikke, at Det er særlig realistisk, at private forsikringer af huse for alle fælles kurderne også. Men hvis vi virkelig skal gøre det her i virkelighedens verden, så er vi nødt til at være meget detaljeret i at måle på, hvad Det er, der påvirkes.
+
+00:15:48
+Og Det kan vi jo også gøre, fordi Vi har så detcieret data, så Det var noget vi godt.
+
+00:15:54
+Kunne tænke os.
+
+00:15:56
+Ja så planer for Vores model, den er jo gratis tilgængelig i kommunernes system. Alle jer kan jo også godt bruge den.
+
+00:16:05
+Og så vil vi gerne sikre, at vi kan have nogle bedre.
+
+00:16:11
+Industridata og nogle delmodeller, og så har vi jo de mellemskelige konsekvenser, og så har vi også nogle EU projekter. Nu vil jeg altså gerne bruge den sidste tid mere på det her, altså det grønne. Det er jo det positive.
+
+00:16:25
+Det ved jeg ikke. Vi har et unikt dansegundlag. Vi er dygtige.
+
+00:16:28
+Vi kan sagtens gøre det her og alle jer, der også gør det i praksis i kommuner og rådgivere i er højt kompetence. Vi har nogle nye aktører som forsikringer, den finansielle sektor. Det er vi jo glade for, fordi de kan give nogle andre synsvinkler, og så er der også politisk fokus.
+
+00:16:45
+Offentligt tilgængelige værktøjer. Men Jeg synes, at Det er rystende, at Vi har så lidt dering af data og samarbejde mellem myndigheder og forskellige aktører.
+
+00:16:56
+Jeg synes at det bør være Sådan at alle myndighedsdata bør være offentligt tilgængelige. Det gælder altså alle ministerier og styrelser. Vi har manglende kvalitetssikring af beregninger.
+
+00:17:06
+Altså Jeg har fornemmelsen af, at forskellige rådgivere og andre, der laver den samme beregning. De kan nå til vidt forskellige resultater, og deres rapporter er jo ikke offentligt tilgængelige, så Det er der jo ikke nogen, der kan se. Så har vi et problem med Københavns klimatilpasning.
+
+00:17:20
+Som er isoleret fra en åben faglig proces. Det er bare nogle forskellige myndigheder og rådgivere, der selv sidder og render lidt.
+
+00:17:27
+Og når de fremlægger det, så vil vi selvfølgelig gå ind i en diskussion.
+
+00:17:30
+Og hvordan med den der analyse fra hele Danmark, der var lovet i klimatilpasning plan et, så ved jeg slutte med den her med strudsene. Hvor ankommer vi videre? Går vi efter den gammeldags strudsestrategi, den går ud på at stikke hovedet af busken, og så håber jeg, problemet går væk eller ved mere som ham, der den nysgerrig.
+
+00:17:48
+Han ser lidt dum ud af ham strudssen der, men altså han vender dog blikket rundt og kigger sig omkring, så vi vil gerne have et systematisk samarbejde om opdateret datagrundlag.
+
+00:17:58
+Naturskaderådet forsikring myndighed, Der er nogen statistik stilling og alle data.
+
+00:18:04
+Og vi vil selvfølgelig gerne have, at der bliver finansieret nogle projekter. Vi vil gerne samarbejde med alle dem, Der er eksperter på de her områder også udfører kurser. Det har KL gjort hele landet rundt i kommunerne.
+
+00:18:19
+Ja, og så vil vi gerne have en politisk og faglig afklaring af bidragsfordelingen. For ellers tror jeg altså ikke, at kommunerne vil få tallene nemt ved at implementere de her projekter.
+
+00:18:29
+Ja tak.
+

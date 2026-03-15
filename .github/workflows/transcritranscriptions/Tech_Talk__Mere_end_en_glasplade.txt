@@ -1,0 +1,891 @@
+00:00:10
+Det er alle.
+
+00:00:12
+Velkommen til dagens spændende tik tok i regi af DNK. Mit navn Det er teis trods Andersen og forvirring University College sammen med Kristoffer sindhyl Larsen fra OK Nygaard vil jeg gerne på vegne af DNAK byde jer velkommen til dagens tektok.
+
+00:00:25
+I dag vil sara fra skal kunne fortælle og vise nogle af de spændende og nye muligheder, som skal kunne lege tilbyder i forhold til klimatilpasningsløsninger og klimatilpasningsplaner.
+
+00:00:35
+Lidt praktisk information, inden vi starter selve præsentationen varer cirka 30-35 minutter, hvorefter der vil være cirka 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål i chatten. Og så vil jeg publicere dem, og sara vil besvare dem i slutningen af tekst, toppen og for god ordens skyld skal jeg informere om at tik toppen den bliver optaget.
+
+00:00:54
+Det var lige alt for mig nu, og ellers så vil jeg give ordet til sara.
+
+00:00:59
+Tak og velkommen til.
+
+00:01:01
+Nå tak fordi at jeg måtte komme med på Sådan en tiktok her. Vi holder jo også Vores egne webinarer som de fleste sikkert kender til, og hvis i ikke gør så skynd jer at tilmeld jer. Men Det er rigtig fint at kunne få lov at at gæste jeres webinarrække her også.
+
+00:01:18
+Og Jeg har Sådan et kort program her for min præstation i dag. Jeg vil først og fremmest og det meste af tiden snakke om det nye skybrud, som er en kæmpe stor udvikling af scandbio, som vi frigav her lige inden sommerferien.
+
+00:01:32
+Jeg vil forklare modellen bag altså hvad vi laver bag scenen for at få det til at fungere. Og så vil jeg demonstrere hvordan det fungerer live. Og så tænkte jeg lige vi kunne have tid til lidt spørgsmål allerede der.
+
+00:01:44
+Fordi bagefter hopper jeg over til Sådan nogle meget korte præsentationer af nogle andre ting, der dels er kommet ud og dels er i støbeskeen.
+
+00:01:54
+Men altså den nye større blodskort.
+
+00:01:57
+Det helt nye er, at vi nu tager højde for infiltration og afledning til kloaksystemet i Vores skybrudskort.
+
+00:02:05
+Og jeg skulle skynde mig at sige tak til MUDP for en meget stor del af den her udvikling har været lavet i regi, at projekt som MUDP finansieret og som var et samarbejde mellem skaldo og DTU miljø nu d 2 state og en lang række såkaldte slutbrugerrepræsentanter, herunder tegnestuen vandkunsten, mobilenberg, Skanderborg Forsyning og lidt flere.
+
+00:02:29
+Så tak til alle der har været med undervejs.
+
+00:02:32
+Og ja hvad er så ideen her? Jamen altså som de fleste af os sikkert ved at skal gå kendt for at være en såkaldt glasplademodel altså hvor alt vand der lander på jordens overflade strømmer af, og det ved vi jo alle sammen ikke sker i virkeligheden. Hvad sker der så i stedet for?
+
+00:02:50
+Det der skal i stedet for kan man beskrive ved nede ved hjælp af såkaldt nedbør afstrømningsfunktioner og de her funktioner varierer afhængige af om, hvad der sker på overfladen, og hvad der sker under overfladen. Sådan meget groft forsøgt illustreret med den her ubehjælpsomme børnetegning på højre side.
+
+00:03:10
+Det gør vi Sådan her. I skal gå live. Vi starter med at tage udgangspunkt i arealdækket.
+
+00:03:16
+Altså hvad er jordens overflade dækket af?
+
+00:03:19
+Og Det var en af grundene til, at vi lancerede det, vi kalder for scaldus befæstelseskort, som de fleste af jer sikkert har opdaget. Det har været på banen et stykke tid nu. Det ser Sådan her ud.
+
+00:03:32
+Hvis man kigger på det langt væk fra og hvis man zoomer ind med et autofoto nedenunder, så ser det Sådan her ud. Altså Vi har overordnet 3 klasser.
+
+00:03:42
+Befæstet ubehøstet og vand. Der er ikke lige noget vand på det her billede og inden for det befæstede deler vi det op i bygninger og alt andet befæstede veje, fliser indkørsler og så videre, så man kan se på det her billede. Er vi ret gode til at finde de der befæstede områder, der ofte er rundt om bygningerne?
+
+00:04:05
+Det billede vi kigger på nu her er fra er baseret på autofoto fra sidste år altså 2021, og Vi er på vej med en opdatering. Det kommer jeg ind på senere.
+
+00:04:16
+Men altså Vi har de her klasser befæstet og ubehæstede og valg. Og hvad gør vi så om vi lad os lige starte med den nemmeste? Det er vandet.
+
+00:04:24
+Jamen her beholder vi glasplademodellen, som vi kender den altså alt vand bliver til vand.
+
+00:04:29
+100% afstopning.
+
+00:04:31
+Så går vi til Venstre, hvad sker der, når der når det regner på et ubevidst areal?
+
+00:04:37
+Jamen her vil man jo som regel snakke om, at Der er noget der har noget med jordtypen at gøre. Det har noget med jordens tilstand at gøre, altså om den er kompaktteret eller lider af såkaldt traktose. Og Det har også noget at gøre med hvad for en vegetation Der er oven på jorden.
+
+00:04:52
+Det har vi så forsøgt at integrere.
+
+00:04:55
+Vi har fundet frem til et jordtype kort.
+
+00:05:00
+Hos, Institut for akrøfologi, Aarhus Universitet.
+
+00:05:05
+Som vi synes er en lille smule bedre end det geosort vi ellers havde, inden Vi skal på live, fordi at det her det forholder sig til de øverste 30 cm af jorden, hvor geoskortet jo siger noget om jordtyggen en hel meter under jordoverfladen. Og når vi ser på hvad der sker i noget. Det regner jamen så er det selvfølgelig den øverste del af jorden, Der er mest interessant.
+
+00:05:25
+Det her kort opdeler hele. Det dækker hele Danmark i en ret høj opløsning på 30,4 cm og deler.
+
+00:05:34
+Vores jord op i 11. Klasser fra de kalder det JB et JB 11 fra 1-9 går det fra sandet til leon 10 er stil og elbe er humus.
+
+00:05:47
+Og som man også tydeligt kan se på det her billede, så er det den klassiske opdeling af, at Vi er mere learrede østpå og og mere sandet bedst på.
+
+00:05:58
+Og så i forhold til det her med kompagtering og vegetationsgrad. Jamen altså alt videnskab lige retur plus nogle forsøg Der er blevet lavet på DTU også i forbindelse med det her projekt viser, at hvis man tager en meget lav vegetationstype som en græsplæne, som der også sker en masse trafik på jamen, så sker der en kombaktering af jorden.
+
+00:06:21
+Som nedsætter nedsætningslovnen, hvorimod hvis Vi har nogle store træer eller frodige buske og der ikke er så mange mennesker der går ind under dem, jamen så har vi en meget løsere jord.
+
+00:06:34
+Og de ting er jo ligesom Sådan ret.
+
+00:06:37
+Korreleret med hinanden, så derfor kan man til i en vis grad slå dem sammen.
+
+00:06:45
+Vi har så til det formål brugt et et polygonlag, som hedder skovområder for at sige jamen her er der med sikkerhed noget høj vegetation, hvor jorden nok er ret løs nedenunder.
+
+00:07:00
+Og alt andet indser vi, anser vi. Indtil videre er lav vegetation og kompoteret.
+
+00:07:06
+Det er selvfølgelig et meget stort hvidt billede enten eller Sådan er det ikke i virkeligheden, og vi arbejder på at nuancere det, og det vender jeg også tilbage til.
+
+00:07:14
+Men altså, det ser Sådan her ud lige nu. Vi har geo Danmark skovpolygoner til at bestemme vegetationstypen, og Vi har det her hjortypekort fra Aarhus til at bestemme jordtypen. Og så har vi altså simpelthen CN kurver for løse jord og CN porver for kompakt til jord.
+
+00:07:31
+Og hvad er så en CN kurve? Ja.
+
+00:07:33
+Måske CN står for at køre number og kommer fra USA og meget direkte oversat kalder vi det for kurvenummet.
+
+00:07:43
+Som simpelthen siger, at mængden af afstrømning i milimeter henover en hændelse er en funktion af mængden af nedbør henover hændelsen.
+
+00:07:53
+Et initialtab og så noget, de kalder potentielt maksimalt tab efter afstrømningen. Start en i asialtabet sætter man som en funktion af det her maksimale tab, og det maksimale tab udregner man ved hjælp af det her. Kurvenummer, så i sidste ende er der 2 ubekendte i den her ligning.
+
+00:08:10
+Det er coronummeret og den her proportionalitetsfaktor lambda.
+
+00:08:17
+Stene på og ser Sådan her ud, hvis man fastsætter lambda til 0,2, så så ser det Sådan her ud og originale rapport omkring den her metode.
+
+00:08:28
+Altså på nummer fra 40-100, hvor 100 = 100% afstrømning.
+
+00:08:33
+Vi har ikke bare taget det for gode varer. Vi har arbejdet rigtig længe og kørt en helt masse forskning omkring hvorvidt det her holder vand også i Danmark.
+
+00:08:44
+Og Vi har valgt at lave 1 1 1 lidt avanceret tilpasning til Danmark, så Vi har kørt en masse simuleringer af infiltration ved hjælp af Horsens infiltrations ligning, hvor Der er som kræver 3 parametre for hver jordtype.
+
+00:09:00
+Og dem har vi så gjort gange 2 gange for både en kompakt og en mindre kompakt version af jordtypeerne. Og så har vi kørt nogle CDS regn, som alle sammen har haft 4 timers varighed og gået fra 2-500 års gentagelse. Og det giver de her prikker man ser på grafen grafen har.
+
+00:09:20
+Nedbør på x aksen og afstrømningen på y aksen og så de forskellige jordtyper i den komsporterede form. Og det man kan se. Det er at at de simuleringsresultater, Vi har fundet, som er af punkterne og og og firkanterne og trekanterne og så videre.
+
+00:09:36
+Bliver matchet ret godt af de her cerenver, så så Det har været en måde ligesom at at validere og at at at den her CN kurve måde kurvenmetode er er er en fornuftig metode at bruge, og Det er den måde Vi har valgt kurvenuerne til de forskellige jordtyper.
+
+00:09:55
+Vi har valideret det her søgt og validere. Man kan aldrig tale om fuldstændig validering på forskellige måder. Vi har sammenlignet med nogle internationale studier af CN værdier, som også har dækket Danmark.
+
+00:10:05
+Vi har sammenlignet med de direkte observationer fra Aarhus, som Christopher og kompagni har udført, som i øvrigt er exceptionelt fantastisk forskning, som der ikke findes meget af på verdensplan. Desværre.
+
+00:10:18
+Og der kan man se her på billedet at.
+
+00:10:22
+Hvis man ser på de jordtyper som som er den jordtype, som områderne er klassificeret som at nærliggende ydtype op og ned.
+
+00:10:32
+Så så rammer man ret godt indenfor det med altså observationerne falder ret fint indenfor de her.
+
+00:10:37
+Kurvenumre som Vi har valgt til at klassificere de her eller beskrive afstrømning fra de her jordtyper som lystrup og viby ligger i.
+
+00:10:47
+Og så har vi også testet følsomheden over for variation af CDS regn, for Vi har altså valgt at bruge en CDS regn på hele landet på trods af de regionale variationer, der jo findes. Og vi viser med den her graf her at.
+
+00:11:00
+Selvom Der er variation ACDS regn, som når man kører det igennem den her maskine med afstrømning og nedsivning med Horsens og så videre, så er variationen i resultaterne så lille, at man godt kan snakke om, at den samme kurvenummer er repræsentativt på tværs af landet.
+
+00:11:18
+Og jeg kunne snakke om det her meget længere, men men jeg tænker at Vi har ikke så meget tid og Det er heller ikke alle der synes at de her tekniske detaljer er lige interessante. Hvis man synes det, så skal man hoppe ind i det her whitepaper, hvor det hele er rigtig grundigt dokumenteret, og jeg håber at det svarer på alting. Og hvis det ikke gør, så skal man altid være velkommen til at ringe eller skrive til mig.
+
+00:11:40
+Hvordan ser det ud i virkeligheden eller II skald gået haps i virkeligheden? Her er et eksempel på en fin sandblandet lerjord, som jo er den mest dominerende i østdanmark, og hvis man ser på den kompakte form af den, så kan man se på kurven her, at der begynder at ske nogle få millimeter afstrømning ved ved en CDS regn med en samlet dybde på 20 mm.
+
+00:12:04
+Hvis man tager den løse version af samme jordtype altså den Der er under en skov polygon, så skal man op omkring de 30 millimeters samlet regn dybde, før der skal noget afstrømning.
+
+00:12:17
+Hvis vi tager en grov sundet jord, som er den mest dominerende i vestdanmark.
+
+00:12:21
+Så i den kompakte form skal vi også op omkring de 30 mm regn, før at der sker noget afstrømning og i den løse form forventer vi faktisk ingen afstrømning, uanset hvor meget det regner.
+
+00:12:34
+Det var den Venstre delte den ubevidste del af det her beslutningstræ, så hopper vi over i den befæstede del.
+
+00:12:42
+Hvad sker der her?
+
+00:12:43
+Jamen hvis vand falder på et tag eller en vej, så strømmer jo stort set alt af. Men det strømmer jo også som regel ikke særlig langt før det møder en nødlivsbrønd og kommer ned i kloakken. Så her har vi valgt at sige, at det der gør sig gældende er det som de fleste rådgivere har brugt i lang tid.
+
+00:13:02
+Altså at vi siger afstrømningen på de befæstede advokater er regn minus kloak eller kloakens kapacitet.
+
+00:13:10
+Hvad ved vi så om kloakkerne?
+
+00:13:12
+Jamen fra plan data har vi et tema med kloaksystemer i Danmark, som ser Sådan her ud, hvis man åbner det i skrift.
+
+00:13:20
+Der er 6 klasser af kloaksystemer, og så er der alle dem der så ikke er dækket af af nogle kloakpollegon.
+
+00:13:30
+Og det koger vi ned til 3 forskellige kategorier. Altså hvis Vi er udenfor en flok polygon eller plugpolon indikerer, at der kun er et spildevandssystem, så holder vi fast i glasplademodellen med 100% afstrømning, hvis Der er et separat system eller kun regnvandsystem, så indfører vi et initialtab svarende til 1 5 års CDS. Og på fællessystemerne har vi tilsvarende et initialt på svarende til en tiårs CDS.
+
+00:13:58
+Og det ser Sådan her ud, inden i skal appolin.
+
+00:14:03
+Det her er selvfølgelig megausimplet, og selvfølgelig er der stor forskel på kloaksystemernes kapacitet rundt omkring i landet, afhængig af ikke kun om de er separate eller fællesklookeret, men også hvornår de blev.
+
+00:14:15
+Anlagt og så videre og så videre.
+
+00:14:17
+Vi er nødt til at lave en eller 2 form for generalisering her, og derfor lander vi på den laveste fællesnævner altså at en separatlock en separatlookeret.
+
+00:14:31
+Uanset hvor i Danmark den har et initiatab på 29 mm og de fælles kloakeret på 34 mm.
+
+00:14:39
+Og så må man jo tilpasse det lokalt hvis man har bedre informationer lokalt.
+
+00:14:45
+Og Det var den tekniske teoretiske gennemgang. Nu tænker jeg, at jeg hopper over.
+
+00:14:53
+Hvis Jeg kan få lov her jeg stopper lige den her og så hopper jeg over i skal gøre live og viser hvordan det ser ud.
+
+00:15:06
+Lige dele en 2 del af min skærm her.
+
+00:15:10
+Sådan.
+
+00:15:13
+Og så et lillebitte tip til dem, der ikke har opdaget det endnu. Hvis i også ligesom mig arbejder i chrome, så er der Sådan 3 prikker her øverst til højre, hvor at man kan vælge at sige brug den fulde skærm. Den kan også bruge FL betasken.
+
+00:15:28
+Og så udnytter vi skærmen lidt bedre frem for at at spilde plads på de der bjælker for oven og få noget.
+
+00:15:36
+Jeg hoverer over København, for Det er her jeg bor, og Det er det, jeg kender bedst. Så derfor eksemplificerer jeg det her i København. Jeg vil gerne opfordre jer alle til enten mens vi snakker eller bagefter åbent skal du live og vælge et område i kender og se, hvordan i synes at det nye scoopbuskort performer.
+
+00:15:58
+Men hvis vi nu zoomer ind på Vesterbro her, som det jo var et af de områder, der stod fuldstændig under vand under skybruddet hjælpe.
+
+00:16:07
+Og så tænder for skybudskortet.
+
+00:16:13
+Så vil i se her?
+
+00:16:15
+At, Der er kommet en sløjfe lige fra.
+
+00:16:18
+Sådan her Der er kommet de her meget elegante, næsten undseelige små dråber ved siden af skybrudskortet, og Det er dem man skal trykke på for at få adgang til at aktivere den her nedsætning. Og når jeg trykker på dem, kan jeg sige ja, Jeg vil gerne forholde mig til nedsøgning og afledning til klo.
+
+00:16:39
+Og det der sker, så Det er at billedet stort set ikke ændrede sig, hvis jeg siger nej, eller jeg siger ja, tja hele Vesterbro står under vand, men Det er jo fordi at skandolager vand tid starter med at hælde 100 mm regn på terræn og Det er alligevel temmelig varmt. Så hvis vi nu skifter det med bare 20 mm.
+
+00:16:58
+Så vil vi straks se en større forskel, altså hvis vi ikke havde forholdt os til nedsivning, så ligger store dele af istergade og.
+
+00:17:09
+Og gassenværksvej her totalt under vand og så snart vi aktiverer nedsvømningen og afledningen, så ser det meget bedre ud.
+
+00:17:18
+Man kan undre sig over, at der stadigvæk er lidt vand på terræn.
+
+00:17:22
+Men altså ingen model er perfekte og der Der er selvfølgelig en god forklaring på det.
+
+00:17:29
+Hvis man bruger vandoplandsværktøjet.
+
+00:17:33
+Og så stiller sig nede i den her vandpyt her.
+
+00:17:37
+Så vil man se, at den hovedsageligt af vander fra en masse varer, ikke?
+
+00:17:44
+Og hvis man så tænder for det her plandatalag.
+
+00:17:50
+Så vil man opdage er der en eller 2 grund, så er der altså en del af Vesterbro her som fremstår som uklokerede. Det passer nok ikke, og Det er så Sådan et lille fy fy til Københavns Kommune om at opdatere deres data, som de indberetter til til plan data. Vores model bliver aldrig bedre end den data den får ind, og Det er jo de fleste datalag vi henter kommer fra.
+
+00:18:17
+For eksempel geo Danmark eller plan data på det altså kommunerne selv, der indberetter, så så hvis man som kommunal ansat møder noget underligt i sin egen Kommune, så skal man nok have fast i sin gis ansvarlig for at diskutere, hvorfor det ser Sådan ud.
+
+00:18:32
+Der er også vand på terræn her.
+
+00:18:36
+Inden i skydebane parken og Det er lidt nemmere at forklare. Det er fordi at Der er en masse ubefelthed areal her. Det kan være vi lige skal tænde for befæstelseskortet.
+
+00:18:48
+Det gemmer sig der.
+
+00:18:54
+Der er selvfølgelig en del ubehæftede arealer inde i Sådan en park, selvom Vi er inde i København, og der også er noget befestning og det der sker. Det er at.
+
+00:19:04
+Jordtypekortet.
+
+00:19:06
+Siger ikke overraskende, at jordtøpen i hele det her område er den her.
+
+00:19:11
+Ja Det er faktisk JP 4 ikke JP 6 her, men Det er i hvert fald.
+
+00:19:15
+Stadigvæk 1 1 1 lerblandet yo type.
+
+00:19:20
+Og Vi er selvfølgelig inde i byen, så vi forventer, at jorden er kombakteret.
+
+00:19:24
+Og derfor har den en ret stor afstrømnings funktion, og dem ser man i øvrigt her, hvis vi lige går tilbage til skybrudskortet og de der dråbe der jamen den her knap her gør, at man får adgang til at se de her afstrømmningskurver og nuke enige om, at vi bare under noget ubefæstet og med noget JD 4.
+
+00:19:46
+Og der kan vi se at her ved ved 20 mm sker der allerede 1 mm afstrømning fra den her jordtype, og Det er nok til at.
+
+00:19:58
+Der samler sig noget vand på terrænet her, hvis vi nu lavede et filter og sagde jamen i er ligeglade med de første 10 cm, så ville det selvfølgelig være bare meget mindre vand vi så så.
+
+00:20:10
+Jeg sætter den lige til nul igen, for Jeg synes Det er forvirrende, når noget af vandet gemmer sig.
+
+00:20:15
+Så snakkede jeg. Jeg skal lige tjekke hvad klokken er blevet.
+
+00:20:20
+35 godt vi kan godt snakke lidt mere slutposkort.
+
+00:20:26
+Jeg vil bare lige vise det her med at man selvfølgelig også kan ændre de her ting i sit arbejdsområde. Hvis Det er det man vil. Så hvis vi nu igen tager vandoplandet til den her reppit her.
+
+00:20:38
+Hvor at vi opdagede, at Der er noget ukllookeret herovre.
+
+00:20:43
+Så laver jeg lige et arbejdsområde her?
+
+00:20:47
+Af typen skygposkort.
+
+00:20:50
+Og tager en god hurtig god rundt og.
+
+00:20:58
+Og som i sikkert ved, så er det der sker nu. Det er at vi klipper en del af.
+
+00:21:04
+Højdemodellen med alle tilhørende data, som vi så kan rode lige så tosset. Vi vil i.
+
+00:21:12
+Vi kan editere ikke terrænet, hvilket er det man ofte vil gøre, hvis man vil bygge et dige eller grave en grøft eller et bassin. Men vi kan også diktere jeg andækket.
+
+00:21:26
+Jeg slukker lige for den her.
+
+00:21:28
+Og tænder for de der kloakpulikoner igen.
+
+00:21:34
+I alt dernede.
+
+00:21:36
+Sådan så Vi har altså det her område inde i midten, hvor Der er masser af befæstede både befæstede gader og befæstede bygninger, som fejlagtigt er er klassificeret som uden kloak.
+
+00:21:52
+Og Det kan vi så ændre på.
+
+00:21:56
+Ved at sige.
+
+00:21:59
+Vi opretter et nyt areal dække type herinde.
+
+00:22:03
+Som bare hedder klorakeret lige for.
+
+00:22:10
+For eksempel skyld. Der skal jo gå lidt hurtigt, og så kan vi tage det her værktøj her.
+
+00:22:17
+Som vi bruger til at markere.
+
+00:22:21
+Hele den her.
+
+00:22:23
+Det her område her.
+
+00:22:29
+Det er Sådan lidt svært at se med alle de lag Jeg har på her. Hvor langt det går tror jeg Jeg har det meste af det og så kan vi vælge altså uanset eller vi kan vælge hvad for nogle kategorier Vi skal ændre til hvad for nogle kategorier og i det her tilfælde der vil jeg gerne sige, at alt hvad der var andet befæstet før skal nu gå hen og være det her kloakerde.
+
+00:22:53
+Og også at.
+
+00:22:56
+Den opretter vi?
+
+00:22:58
+Så laver vi den lige en gang til?
+
+00:23:01
+Ja.
+
+00:23:04
+Ja ja Jeg vil kigge lidt hurtigt.
+
+00:23:08
+Jeg ville godt have valgt nogle flere klasser. Det kunne jeg godt have gjort på samme tid, men jeg.
+
+00:23:13
+Ikke ikke lige trykker det rigtige sted. Vi markerer lige hele området en gang til.
+
+00:23:17
+Og så siger vi også at.
+
+00:23:20
+Hvorfor vil den ikke det eller også have nogle flere?
+
+00:23:25
+Sådan her alle dem, Der er bygninger. De skal altså også være kloakeret.
+
+00:23:32
+Sådan der. Det var pludselig jeg manglede Sådan. Nu kan vi gøre begge dele på en gang.
+
+00:23:36
+Andet befæstede og bygninger skal begge 2 være denne her nye kloakerde form.
+
+00:23:44
+Alle dem udenom var allerede kloakeret. Det er kun herinde, vi havde problemer med, at de var uklokerede.
+
+00:23:49
+Godt, så har vi fået ændret typen, så går vi ind i slutbryortet her.
+
+00:24:00
+Og tjekker afstramningsfunktionerne.
+
+00:24:03
+Og den har jeg ikke opdaget endnu. Nej, Det er fordi jeg kigger det forkerte sted. Vi slår lige det her helt frem.
+
+00:24:09
+Og er lige nødt til at køre en beregning for at få adgang til.
+
+00:24:14
+Afstrømningsfunktionerne.
+
+00:24:16
+Nu går tiden sikkert super hurtigt.
+
+00:24:19
+Jeg har lige et par minutter endnu.
+
+00:24:25
+Det skal den alligevel tygge i et stykke tid på det her.
+
+00:24:29
+Det er nok fordi jeg kom til at lave de her 2 polygoner oven i hinanden. Det kan godt være at den fløjes lidt i det her.
+
+00:24:37
+Så er der oplyse ja.
+
+00:24:39
+Sarah du har 6 6 7 8 minutter endnu, så så der Der er fin tid.
+
+00:24:44
+Det er godt. Det er bare fordi der var nogle ting. Flere ting jeg også gerne ville vise.
+
+00:24:48
+Det skal jeg også lige gemme lidt tid til.
+
+00:24:50
+Godt. Nu har vi den nye awesome support indenfor Vores arbejdsområde, og når vi tænder for nedsivningen, så får vi også adgang til at redigere i de her afstrømningsfunktioner. Nu er vi jo inde i et arbejdsområde, og derfor er alting manipulerbart, så Vores nye kloakeret areal dække kategori her.
+
+00:25:10
+Den får som udgangspunkt glas. Det er altid default, men Det kan vi gå ind og ændre i.
+
+00:25:15
+Så Jeg vil gerne ændre den til at være befæstet og fælleskloeret.
+
+00:25:22
+Og så kan jeg i øvrigt også redigere i det.
+
+00:25:27
+Så når jeg går ind og siger befæstet og fælleskaleret, jamen, så kan vi se her at initaltabet som udgangspunkt er sat til 34 mm. Men lad os bare sige at jeg kender Vesterbro godt og ved at Det er nogle ældgamle kloakker som er totalt underdimensioneret. Sådan er det ikke i virkeligheden.
+
+00:25:42
+Vi leger bare ikke også, men så siger jeg ej Jeg tror sgu at der kommer vand på dreng allerede efter 25 mm.
+
+00:25:49
+Vi kan også gå den 2 vej og sige nej, men Det er faktisk dengang for 150 år siden der byggede man sgu nogle klokkeer der gerne ville noget, så vi sætter den faktisk op til 40 mm.
+
+00:25:58
+Det er bare eksempler. Det er for at sige det styrer i selv det her med hvad initalte tabet skal være? Det gemmer jeg og lukker.
+
+00:26:06
+Og så kan jeg opdatere simuleringen her.
+
+00:26:18
+Godt.
+
+00:26:19
+Så lukker jeg lige den her og tænder for oversvømmelsen igen.
+
+00:26:23
+Og som jeg havde håbet på.
+
+00:26:28
+Så er der meget mindre vand hernede, hvor der står vand på gaderne før Det kan vi. Hvis i ikke kan huske det, så kan jeg lige vise det. Vi kan også lige slå arealdækket fra, så kan man måske bedre orientere sig.
+
+00:26:44
+Og det der youtube-korps som dækker det hele og kloakpulikken og Thomas, der kan det hele Sådan nu er vi tilbage.
+
+00:26:51
+Og hvis vi så tager scyguskortet fra før.
+
+00:26:55
+Og laver det lilla som i kan se forskellen.
+
+00:26:59
+Jamen, så kan vi se, at førhen havde vi altså en hel del vand hernede, og efter at Vi har kørt den nyeste mulering, så er der ikke noget vand hernede i det her kryds og meget lidt vand andre steder på gaderne, som vi også ville forvente når der kun regner 20 mm.
+
+00:27:17
+Selvfølgelig, hvis jeg skruer op på den her, så begynder der også at komme vand på terræn igen. Vi skal nok forbi de 40 mm. Yes, jeg havde jo sat klokken, så jeg kunne klare 40 mm og lige præcis når vi kommer forbi de 40 mm, så kommer der også masser af mad ligger andet præcis som forventet både i virkeligheden og i modellen kan man sige.
+
+00:27:37
+Det var det jeg ville sige, eller det jeg ville vise jer det Jeg har tid til at vise jer i det nye slutuskort lige i denne her omgang.
+
+00:27:44
+Og så så tror jeg vi vi lige tager de andre pointer meget hurtigt igennem, og så tager vi spørgsmål til sidst.
+
+00:27:51
+Så den 2 ting vi også frigav her i løbet af sommeren, som Jeg synes at i skal kende.
+
+00:27:58
+Det er noget helt andet, og derfor zoomer vi udenfor København.
+
+00:28:03
+Og sætter.
+
+00:28:06
+Den lavningsfri strømning til.
+
+00:28:09
+Så finder vi et eller andet sted Sådan ude på landet agtigt.
+
+00:28:13
+Der er for eksempel.
+
+00:28:16
+Det her bogsystem omkring leg, der mødes omkring lejre, hvor at i kan se Der er 3 større vandløb der mødes her. Der er det glip bogenhed og Det er lidt pinligt, men Det er et lidt de større vandløb på Sjælland.
+
+00:28:29
+Og hvis vi så tager vandopfaldsværktøjet her og sørger for at vælge lavningsfri, strømning og i skybrud.
+
+00:28:39
+Og sætter det på en af de her.
+
+00:28:42
+Dele bander blandet.
+
+00:28:44
+Så kan i se at i kender sikkert alle funktionaliteten med at at få at vide. Jamen hvor ligger vandopladende til til 1 1 bestemt strømningsvej eller eller vandløb som Det er i det her tilfælde.
+
+00:28:57
+Og så ved i sikkert også, at man så kan se for eksempel hvad er business graden. I det her tilfælde er der 92% ubebefæstet. Vi er.
+
+00:29:05
+Vi er ude på landet her. Hvad er jordbundstypen? Jamen 68% her er fint sandblandet lerjord og så videre.
+
+00:29:13
+Strømningsveje Det er så det nye, altså det vi kan nu. Det er, at vi kan vise. Hvad er den længste strømningsvej igennem det her opland?
+
+00:29:20
+Den er så lige præcis 26 km og 208 m lang.
+
+00:29:25
+Og den har en gennemsnitlig hældning på 2,13 promille.
+
+00:29:30
+Og ikke nok med det, så kan vi selvfølgelig også se hvad strømningsvejen herfra og ud til nærmeste hav eller sø der.
+
+00:29:40
+Det er så 1 km ekstra ekstra, men det virkelig flotte. Det er at vi også kan udregne et histogram over de her længdearealforhold.
+
+00:29:48
+Altså vi kan se en fordeling af hvor lang tid det tager eller ja tid med næste skridt. Hvor langt en strømningsvej Der er.
+
+00:29:58
+Fra forskellige dele af oplandet. Hvis jeg nu klikker på for eksempel den her.
+
+00:30:04
+Så kan jeg se at Det er cirka 16% af oplandet, der har en strømningsvej, Der er under 8 km lang.
+
+00:30:12
+Og resten det. Det er så længere, og det bliver så også skraveret herude pladsen med med det. Jeg klikker her.
+
+00:30:20
+Så Det er altså.
+
+00:30:22
+1 1 1 små 10% der har en strømningsvej, Der er længere end 20 km for eksempel.
+
+00:30:31
+Og og som jeg kom til at røbe lige før, jamen så er Sådan en længde areal i stykker selvfølgelig et skridt på vej mod at lave et tid arealistogram. Altså vi arbejder på at omsætte det her til hydrografer, og Vi er Sådan set ret langt med selve teknologien. Vi er i testfasen.
+
+00:30:47
+Og sammenligner det med med andre metoder, så Det er Det er noget af det her. Exciting news II støbeskeen jeg lige røber en lille bitte smule af.
+
+00:30:59
+Så hopper jeg lige ud og skal på live igen.
+
+00:31:04
+Og tilbage til mit.
+
+00:31:06
+Mit powerpoint.
+
+00:31:10
+E og runde a.
+
+00:31:17
+Hvordan?
+
+00:31:22
+Ja i får lige den her slide bistor i ved det, når i får mine slides tilsendt efter arrangementet, så er der links her til.
+
+00:31:30
+Den meget grundige dokumentation, Vi har lavet omkring det her med superskortet.
+
+00:31:35
+Og så vil jeg gerne nævne nogle vigtige ting. Altså Det er vigtigt at vide, at alle de her funktioner selvfølgelig kan tilpasses i ens arbejdsområder, så hvis man synes at vi gætter lidt forkert på afstrømningsfunktionen, så er det bare om at tilpasse den til den lokale viden, man har.
+
+00:31:51
+Og Der er selvfølgelig også nogle begrænsninger i det her.
+
+00:31:55
+Vi har arbejdet rigtig meget på at lave den her fornuftige nedsøgningsfunktion, men den gælder altså kun i den samme celle, som regnen falder på.
+
+00:32:03
+Så snart vandet begynder at strømme på terræn, kunne det jo i princippet møde en celle, der ikke er nettet, hvor det godt kunne trænge igennem. Men det tager modellen altså ikke af højde for som Det er lige nu.
+
+00:32:15
+Og så er der den her eviggyldige.
+
+00:32:18
+Begrænsning man skal huske når man arbejder skal du på live at Vores strømningsveje ikke har nogen udbredelse.
+
+00:32:24
+De er bare en linje på kortet, men i virkeligheden vil de have en eller 2 udbredelse, der breder sig over det areal, de strømmer igennem, og Det er her hvor at.
+
+00:32:37
+Man er nødt til at bruge en hydrodynamisk model for at at blive klogere på det.
+
+00:32:44
+Og som i kan se her, så havde jeg tænkt mig at fortælle om den her integration med hydrodynamiske 2 d modeller, men Vi er blevet enige om at gemme det til et senere tidspunkt, så det må i altså have til gode og i må holde øje med Vores nyhedsbrev om, hvornår vi Vi er klar til at fortælle lidt mere om det.
+
+00:33:04
+Vi arbejder også på integration med kost nyttemodeller, så vi kan hjælpe jer derude med de her obligatoriske cost nytte evalueringer i forbindelse med klimatilpasningsprojekter. Men Det er heller ikke klar til at at vise noget af endnu.
+
+00:33:20
+Så det eneste jeg Sådan lige vil give jer en en sidste smagsprøve på det her den med den den nye areal dække kort.
+
+00:33:26
+Eller befæstelseskort, som vi også kalder det, hvor vi tygger på det nye auto fotos fra 2022.
+
+00:33:35
+Men vi tygger lmbik bare igennem med den model vi brugte sidste år. Vi har forbedret modellen og introduceret nogle nye klasser, så vi nu under det befæstede også kan identificere klipper. Dem er der jo ikke så mange af i Danmark, men alligevel.
+
+00:33:49
+Og måske også bare i, men Det er stadigvæk en måske. Til gengæld er vi helt sikker på, at vi under det ubehæstede vil kunne skelne mellem bar jord lavetation og høj vegetation, hvilket jo også kommer til at forbedre afstrømnings modellen. Så det det glæder vi os rigtig meget til, og Jeg kan ikke sige med sikkerhed hvornår det kommer, men Jeg kan love det bliver inde over om.
+
+00:34:13
+Det var det jeg havde, så tror jeg også, Jeg har haft den Sådan nogenlunde hånd tiden. Det har jeg ikke tegnet.
+
+00:34:17
+Det gjorde der i hvert fald Sarah 1000 1000 tak for en rigtig, rigtig spændende præsentation. Der er kommet en del spørgsmål, og hvad hedder det? Jeg tænker egentlig bare sara, vi starter fra en ende af, og de spørgsmål, vi ikke når dem har sejret låget og svarer på, og det kommer så med i præsentationen efterfølgende.
+
+00:34:35
+Spørgsmål nummer et, Det er fra Esben, og han spørger den CDS, der fjerner vand i kortet for de kloakerde områder, er det med eller uden en klimafaktor?
+
+00:34:45
+Det er uden.
+
+00:34:46
+Vi Det var et nemt valg. Vi skal kunne vise, at Vi er en nuværende situation.
+
+00:34:54
+Så så altså vi antager at kloaksystemet er nogenlunde dimensioneret til nuværende forhold, og hvis man hvis man gerne vil se ind i fremtiden og se jamen hvad vil situationen være, når Vi har opgraderet Vores kloaksystem til at kunne klare en større regn, så er det nemt nok som jeg viste jer at gå ind II et arbejdsområde og og redigere funktionen.
+
+00:35:16
+1000 tak for spørgsmålet så hvad hedder det spørgsmål nummer 2 Det er hvad anbefaler du at man anvender i dit daglige arbejde med for eksempel sagsbehandling giver det mest mening at benytte den nye beregning med infiltration, og hvad hvis man interesserer sig for skybruddssituationer? Hvilken model anbefaler i, at man bruger i det tilfælde?
+
+00:35:36
+Jeg anbefaler til alle tilfælde at bruge den nye kort med nedsivning og infiltration med at afledning til kloak.
+
+00:35:45
+Fordi at Det er mere realistisk. Vi har arbejdet rigtig hårdt på at finde nogle meget retvisende funktioner.
+
+00:35:54
+Som ikke overdriver mængden af vand på terræn.
+
+00:36:00
+Der er selvfølgelig altid nogle nogle ubekendte og som som nogle måske har set, har der været meget snak om på LinkedIn her på det seneste omkring det her med, når når der har været tørke længe, at så kan jorden blive så hydrofobisk at.
+
+00:36:15
+At at man simpelthen bare praler af med det samme og i den situation kan man få meget meget voldsomme.
+
+00:36:22
+Oversvømmelser.
+
+00:36:24
+Det er en ekstrem situation, som Vores nedsøgningsmodel ikke tager højde for. Vi tager udgangspunkt i en nogenlunde normal fugtighedssituation for jorden.
+
+00:36:35
+Så så, så hvis man har Sådan en ekstrem ekstrem situation hvor at at at at jorden simpelthen afviser alt vand nærmest enten fordi den er helt helt tør eller fordi den er helt helt våd, så vil afstrømnings mønsteret se anderledes ud. Og så vil du måske nærmest sig glaspladen.
+
+00:36:50
+Så jazzblademodellen er stadigvæk Vores absolut worst case scenario. Så meget sjældent vil indstartende, mens den nye scobidskort er det, Der er det mest sandsynlige risikoscenarie at arbejde med.
+
+00:37:06
+1000 tak for svar sara så er der et nyt spørgsmål som går har i planer om metoder til at håndtere vand som bipasses på tværs af vandoplanding via kloakken?
+
+00:37:19
+Ikke endnu nej godt spørgsmål. Det sker selvfølgelig, at de der oplande fungerer anderledes eller krydser hinanden det. Det er endnu ikke det mest almindelige, men men men nej, som Det er lige nu, så så kan vi ikke tage højde for det Vores model i forhold til afløbssystemet er jo virkelig simplificeret.
+
+00:37:36
+Altså Det er nedsivningsmodel.
+
+00:37:39
+Hvor at at vandet forsvinder fra den celle, det falder på, selvom Det er jo i realiteten skal transportere sig, før det kommer op på terræn.
+
+00:37:47
+Den underliggende hypotese er at, at når først valget kommer op på terræn, så vil det jo strømme langs de.
+
+00:37:56
+Langs terrænet som så som skal gå live forudser men igen ja altså den slags kompleksitet i kloaksystemet er vi ikke i stand til at tage højde for, Sådan som det ser ud lige nu, og Der er man nødt til at have en en koblet.
+
+00:38:09
+Rørmodel med terræn model.
+
+00:38:12
+1000 tak sara næste spørgsmål. Det er fedt at i er gået så grundigt til værks med at få afstrømningen modelleret korrekt. Det viser i hvert fald glad glasplademodellens store mangler har i undersøgt, hvor god jeres nye metode er at sammenligne med et fuldt koblet model, hvor afløbssystemet også er med.
+
+00:38:30
+Nej, Jeg har ikke lavet en systematisk sammenlægning.
+
+00:38:34
+Nu er det jo Sådan, at også når man kører en fuld koblingmodel, at man så laver antagelser omkring nedsivning for eksempel.
+
+00:38:42
+Så så så en en koplemodel viser jo heller ikke sandhed.
+
+00:38:47
+Men men Sådan meget. Groft sagt, så vil jeg sige, at forskellene vil handle om det her med at.
+
+00:38:53
+1 1 1 1 fuld koblet rørmodel med overflademodel, som er hydrodynamisk også på overfladen.
+
+00:38:59
+Kan du tage højde for det her med at at at strømningsvejene har en udbredelse og det Jeg tror Det er det, der egentlig vil være mest udslagsgivende. Men Jeg vil stærkt opfordre alle, der sidder med nogle hydrodynamiske modelresultater til at lave sammenligningen og blive klogere på, hvordan ting opfører sig i deres interesseområde. Og Det er jo i øvrigt nemt i dag med modelspaces, fordi man simpelthen kan trække sine hydrodynamiske resultater ind i skabely og arbejde med dem, der og blive opmærksom på, hvor Der er.
+
+00:39:25
+Nogle områder hvor de ting?
+
+00:39:27
+Viser forskellige ting, og det bliver der selvfølgelig været.
+
+00:39:30
+Tak skal du have sara, så er der en der siger at ville bare lige goppe op. Gøres obs på at Der er mulighed for at hente data for initiativtabet i trækroner, som vil gøre resultaterne endnu mere præcist.
+
+00:39:43
+Ja tak for det Det er. Jeg er enig i at store træer i sommer halvåret hvor Der er blade på dem holder meget vand tilbage.
+
+00:39:52
+Det tror jeg nogenlunde kommer med altså meget groft kommer med III modellen fordi at at at vi også antager en meget meget løs jord under de her store træer så men men Det er rigtigt det kunne man det kunne man sagtens indarbejde også hvis man ville.
+
+00:40:07
+Ja og dejligt at blive ved med at komme spørgsmål ind. Vi har 2 tilbage her, så hvis Der er nogen der lige har nogen her slutteligt, så må i endelig lige publicere dem så skal så kommer de med nu, men 2 tid til spørgsmålene fra nu. Det er i skriver at i har et nyt hydrodynamisk adhorn.
+
+00:40:23
+Er det det du har præsenteret i dag? Synes det lød lidt som et tidsperspektiv og Jeg tror du har svaret på det at det Det er Det er noget der kommer II næste runde.
+
+00:40:32
+Ja vi vi vi legede med tanken om at præsentere det i dag, og Vi er bare nødt til lige at at trykke lidt på bremsen der, men det kommer.
+
+00:40:39
+Jamen Det er altid godt så har så kan så har vi til 1 1 tekt nummer 2 så det Det er dejligt.
+
+00:40:45
+Så har vi et spørgsmål her, som som går i geo Danmark teknik i skalco findes nedbørsfrist kunne den ikke bruges som proxy for strømning til kloak for veje.
+
+00:40:57
+Ja, Det er jeg opmærksom på. Vi har så mulighed. Det kan også godt være, at det bliver indarbejdet på et tidspunkt.
+
+00:41:04
+OK opløsning.
+
+00:41:07
+Ja.
+
+00:41:07
+Vi har et par minutter tilbage. Er der nogen, der har yderligere spørgsmål? Ellers så har jeg i hvert fald lige et enkelt.
+
+00:41:14
+Har i når i nu har lavet den her nye opdatering i forhold til med nedsivning? Har i prøvet at validere det i forhold til? Hvad skal man sige rigtige regnehændelser, hvor i har været ude at se, at når i har kigget på jeres den tidligere skabeliv, at der var måske nogle udfordringer i forhold til nogle områder i forhold til nu, hvor i nu har integreret nedsivning?
+
+00:41:32
+Så nogle gange er det rart at have Sådan nogle rigtige cases. Man kan gå ud og sammenligne med her altså.
+
+00:41:36
+Har du været ude på Vesterbro og kigge?
+
+00:41:39
+Altså Det er jo Vores alle sammens drømme at vi havde nogle nogle virkelig gode feltdata til at sammenligne Vores modeller med, men Det er der jo desværre ikke. Altså heldigvis forekommer 100 årsregn ikke hver sommer, så så Det er ikke så opdag der står vand nede på vesterbrogade eller på istedgade.
+
+00:41:57
+Ja nej Vi har. Vi har absolut ikke forsøgt at sammenligne med reel oversvømmelses udbredelse. Det det det mangler der simpelthen ordentlig observationsdata af, men.
+
+00:42:10
+Den dag, hvor der kommer en stor nødløsning, så er hele skal gå hele skal gå kontoret. De er ude og og og.
+
+00:42:14
+Kigge om det.
+
+00:42:16
+Det lyder godt Der er kommet et spørgsmål til her ved slutningen fra Søren, der spørger ved vandmættet eller frossen jord, er der vel 100% afstrømning?
+
+00:42:26
+Ja og det tak for spørgsmålet fordi det det det minder mig om at sige at antagelsen her er jo som skybrudskortet hedder, så hedder det om skybrud og skybrud forekommer mest om sommeren.
+
+00:42:40
+Så så der ligger 1 1 1 1 underforstået antagelse om at jorden er Sådan semi semitør semibod hverken for rød eller for tør og Det er fordi Det er en fornuftig antagelse i sommerhalvåret i Danmark.
+
+00:42:55
+Hvis vi skulle kigge på, hvad der sker i vinterhalvåret, hvor jorden generelt er mere våd og nogle gange end Der er frossen. Jamen, så ville en CDS regn heller ikke være passende fordi at at regn falder meget mere jævnt II vinterhalvåret så så Det er altså et skybrud og og og fokus har været på at simulere hvad der vil ske i en typisk skybrud i sommerhalvåret.
+
+00:43:19
+1000 tak sara så tager vi sidste spørgsmål og så så bliver vi nok nødt til at stoppe for nu. Det sidste spørgsmål bliver det muligt i den nærme fremtid at skelne mellem forskellige typer af befæstede arealer, for eksempel forskellige typer af belægninger som grus fliser med mere, hvor man har hvor hvor 100% af vandet ikke afstrømmer, men måske kun 80-50 til 80%.
+
+00:43:42
+2 ting for det første så ja vi arbejder hele tiden på at forbedre klasserne i areal d kortet, og vi tager det Sådan lidt i skridt. Så som sagt så.
+
+00:43:52
+Vil vi måske kunne skelne veje i den nye generation, der kommer i løbet af efteråret?
+
+00:44:01
+Men men i forhold til hvordan det påvirker skybudskortet, så vil det jo ikke have den kæmpe store betydning, fordi at for så vidt er de her arealer er tilsluttet til kloak, så er det jo det der initialtab. Vi påfører alle kloakområdet, der bestemmer hvor meget vand Der er på terræn i.
+
+00:44:20
+I Vores model.
+
+00:44:22
+1000 tak sara Jeg kan se Der er kommet 2 ekstra spørgsmål. Dem må vi simpelthen tage efterfølgende, så Vi skal nok vende tilbage til jer.
+
+00:44:30
+Så nu nu nærmer klokken sig nemlig et så jeg virkelig tak til til dig Sarah for en super spændende checktalk og som altid kan i finde denne her og ældre tjek talks på DNNKS hjemmeside. Her kan i også finde kommende arrangementer i klimakalen, og hvis nogen af jer kunne tænke jer at holde en tiktok i fremtiden, så kan i endelig tage fat i mig eller en 2 fra DNNK.
+
+00:44:49
+Og ellers vil igen vil jeg bare sige 1000 tak for en rigtig spændende tiktok og tak for i dag.
+
+00:44:54
+Tak fordi jeg måtte være med.
+

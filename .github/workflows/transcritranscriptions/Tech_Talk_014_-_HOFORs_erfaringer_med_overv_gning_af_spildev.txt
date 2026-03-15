@@ -1,0 +1,624 @@
+00:00:05
+Kære alle på vegne af DNNK vil jeg gerne sige jer. Tak fordi i vil bruge de næste 30-45 minutter sammen med os mit navn Det er theis roskov Andersen fra via University College og sammen med Kristoffer sindhyl Larsen for OK Nygaard. Så vil vi gerne sige tak, fordi i er kommet her til til det her.
+
+00:00:22
+Den her tik tok i regi af DNNK.
+
+00:00:26
+I dag skal vi høre et super spændende og højaktuelt emne, nemlig hvorledes du får arbejder og deres erfaringer med at overvåge covid 19 i deres spildevand. Så man må sige Det er et super højaktuelt emne.
+
+00:00:39
+Lidt praktisk information før før ida fra hofor tager over.
+
+00:00:44
+Ida har sit oplæg i starten her og i kan løbende stille spørgsmål ude i chatten, og så bliver de publiceret, og så kigger vi på dem efter efter ikas præsentation, så så i skal ikke holde jer tilbage, hvis vi starter et spørgsmål der dukker op under idræts præsentation, så skal i bare skrive det, så så tager vi det efterfølgende. Jeg skal også sige for god ordens skyld, at den her tekt fuck den bliver optaget, og det vil sige den kommer til at ligge inde på DNADKS hjemmeside efterfølgende, så.
+
+00:01:08
+Hvis Der er noget i ikke lige fik fat i med videre, så kan i altid tage fat i ida og så så høre lidt mere om det. Men Jeg tror egentlig bare Jeg vil give ordet til ida Marie Knudsen for hofor gulvet er dit ida.
+
+00:01:21
+Tak for det.
+
+00:01:24
+Ja hej jeg hedder ida Marie Knudsen, og Jeg er miljøingeniør og arbejder som planlægger i forsyningsselskabet hofor.
+
+00:01:33
+Og Jeg vil i dag gøre gøre rede for, hvordan vandselskaber kan kan bidrage til til test for coronavirus i spildevand og så dele Vores erfaringer med dette i forbindelse med den nationale overvågning, der har været og overvågningen i København.
+
+00:01:49
+Men Jeg vil lige starte kort med at trække en en parallel til til fortiden og anledningen til at at vandselskaberne opstod prøver jeg lige at.
+
+00:02:08
+Jeg kan ikke lige få slidene til at hoppe Sådan der der var den så som sagt jeg starter lige med at hoppe lidt tilbage i tiden.
+
+00:02:17
+Nemlig til Vores udgangspunkt som som vandselskaber. Det er ved koleraepidemien i attenhundredetallet. De danske byer var var forsynet med åbne kloakker, og gaderne var var nogle steder fyldt med dyreeksperimenter og drikkevandet var plumret.
+
+00:02:37
+Og det førte til til dels til denne her koleraepidemi.
+
+00:02:42
+En del af løsningen på det problem vil blev dannelsen af det kommunale vand og spildevandsforsyninger. Så blev byerne kloakeret, og drikkevandet blev blev ført frem til husene i søværnsrør og koleraen vente aldrig tilbage.
+
+00:02:58
+De danske vandselskabers primære opgave i dag. Det er at levere drikkevand rent drikkevand.
+
+00:03:04
+24. 7 og minimerer risikoen for kontakt mellem mennesker og spildevand. Så med det i tankerne.
+
+00:03:14
+Hvordan startede interessen for coronavirus så hos hos vandselskab? Og det gjorde det faktisk ud fra en frygt om, at virus i spildevand kunne smitte Vores driftsfolk.
+
+00:03:26
+Og måske også smitte gennem gennem badevand ved overløb fra kloakkerne i havnen.
+
+00:03:32
+Allerede i maj 2020, der skrev man i et af Vores brancheblade om, at spildevand kan afsløre coronavirus, og Det var Sådan set startskuddet for at for os i på forhånd at komme i gang.
+
+00:03:45
+Vores viden om om afløbssystemet og Vores erfaring med med prøvetagning. Det er Vores primære bidrag til denne her opgave om overvågning af af spildevandet.
+
+00:03:57
+Men opgaven for os den er ny, og lovgivningen manglede faktisk langt hen ad vejen, så hofor har sammen med andre.
+
+00:04:09
+Blandt andet samarbejdet med Statens Serum Institut siden september sidste år og arbejdede på at udvikle nogle egnede procedurer for overvågning af spildevand og en egnet testmetode.
+
+00:04:21
+Og det her det. Det bidrog også til en ændring af epidemiloven, som blev vedtaget i juni måned, og den her lovændring. Den betyder, at spildevandselskaberne fremover.
+
+00:04:32
+Kan supplere den allerede etablerede opsporing af coronavirus og den her nye opgave med overvågning af spildevandet. Den kommer ikke til at koste Vores vandkunder noget. Det er en opgave, der bestilles og betales af enten seruminstituttet eller ejerkommunerne.
+
+00:04:51
+Til gengæld der håber vi, at samfundet som helhed kan spare nogle penge ved denne her metode, da den nemlig II vidt omfang forhåbentlig kan reducere brugen af de mere dyre individuelle humane test, så den her milepæl med med ændringen i epidemiloven. Den blev da også markeret med et møde med sundhedsminister Magnus Heunicke. Det var mig og min kollega jes Claus kaas.
+
+00:05:19
+Der mødtes med ham, og det synes jeg da ikke i skulle smides for et billede af.
+
+00:05:25
+Så.
+
+00:05:27
+Med denne her med det juridiske grundlag på plads for for opgaven, hvad er det så vi forventer at opnå med med spildevandsbaseret epidemiologi?
+
+00:05:38
+Forventningerne er, at metoden kan være et supplement til allerede eksisterende metoder, altså.
+
+00:05:45
+Test og vaccination.
+
+00:05:49
+Coronavirus når man bliver syg med det, så går de ind og påvirker ens tarme og dermed så udskilles virus også via feces, og Det kan man måle spildevandet.
+
+00:05:59
+Vi håber på, at Sådan nogle her målinger, de kan fungere som en slags early warning, da virus frigives op til en uge, før man rent faktisk får symptomer.
+
+00:06:10
+På den her måde, så er det også en måde vi på. Vi kan detektere asymptomatiske smittebærer. Metoden er ligeledes uafhængig af folks adfærd omkring test og og en måde, hvorpå vi kan få et indblik i trends i ud i udviklingen af infektionsniveauet for for en hel befolkningsgruppe.
+
+00:06:32
+Og afhængig af hvor man måler, så kan man skalere og få en høj eller lav opløsning afhængig af størrelsen på den befolkningsgruppe. Man overvåger spildevandet fra.
+
+00:06:46
+Så det her potentiale det.
+
+00:06:51
+Det vil gerne Det var vi interesserede i og SSI var interesserede i at at få at få det undersøgt på et nationalt niveau. Så det første Jeg vil vise jer her. Det er nogle af resultaterne fra den nationale overvågning, som ledes af SSI og klima, energi og forsyningsministeriet.
+
+00:07:09
+Som en del af den her pilottest er der gennemført prøvetagning for cirka 20 renseanlæg rundt omkring i Danmark. Der er lavet daglige døgnprøver i juli august måned.
+
+00:07:22
+Som i kan se, så er de her renseanlæg fordelt Sådan.
+
+00:07:26
+Ud over hele Danmark og de fordeler sig også i forhold til størrelse. Der er nogle meget små og nogle meget store.
+
+00:07:33
+Ho formejer ikke renseanlæg. Det gør biofos.
+
+00:07:36
+Men vi ejer de store pumpestationer, der pumper til renseanlæg. Lynetten blandt andet.
+
+00:07:44
+Hver uge.
+
+00:07:46
+Der publicerer SSC resultaterne for den her spildevandsanalyse, og så sammenholder de det med insistdenstallene, og Det er det i kan se her.
+
+00:07:56
+Den gule graf viser det gennemsnitlige antal borgere per hundredetusinde, Der er testet positive for covid i oplandet til renseanlægget eller pumpestationen over de seneste 7 dage, og den røde kurve viser det gennemsnitlige antal virus RNA kopier per liters spildevand.
+
+00:08:14
+Og Det er den enhed vi vi vi opgør coronavirus i.
+
+00:08:21
+Antallet af virus RNA kopier per liters spildevand. Det er så normaliseret for nedbør, således at der kan tages højde for fortynding på grund af for eksempel regnvand.
+
+00:08:31
+Normaliseringen af foretaget ved, at man måler den daglige mængde spildevand, der løber ind til et renseanlæg, og så sammenligner man med tøjvask, flow og de dage, hvor mængden er indløbet af spildevandet er højere end end gennemsnitligt tørvass flow. Så øger man antallet af virus kopier tilsvarende.
+
+00:08:50
+De her resultateraviser her de er fra i sidste uge, og der kan man se, at de fleste af stederne er der et relativt stabilt niveau.
+
+00:09:00
+Og særligt i de store oplande som for eksempel lynetten og og avedøre.
+
+00:09:07
+Der er dog Sådan en stigende tendens, siden vi startede de her målinger.
+
+00:09:11
+Et rigtig godt eksempel på det jeg nævnte før om early warning. Det kan vi se fra fra Skagen. Der har vi 1 1 1 høj stigning III spildevandet efterfulgt af Sådan forsinket stigning II antal borgere, der bliver konstateret smittet.
+
+00:09:33
+Og det falder sammen med det der hedder u 29, som også er kendt som som Hellerup ugen, altså hvor at Der er et indflugt af af masser af turister.
+
+00:09:42
+Og det kunne altså ses i spildevandet før at det kunne konstateres med humantest.
+
+00:09:51
+Her det næste Jeg vil vise jer der bevæger vi os lidt ned i skala, altså for for renseanlæg.
+
+00:09:57
+Og ned til bydele og kvarters niveau og faktisk også helt ned til bygningsniveau, og Det er resultater fra Vores projekt med overvågning i nordvest i København.
+
+00:10:11
+Det har kørt parallelt med denne her nationale overvågning, og Der er det så sundheds og om sundheds og omsorgsforvaltningen i Københavns Kommune, der har været projektleder.
+
+00:10:21
+Og Vi har.
+
+00:10:24
+Bidraget med at at at udtage prøver.
+
+00:10:30
+Københavns Kommune havde samme.
+
+00:10:34
+Havde samme forhåbning som SSI om at kunne.
+
+00:10:38
+Kunne kunne se om man kunne bruge den her metode til en generel overvågning af udviklingen i alt sammen smittet og eventuelt også.
+
+00:10:46
+Forsøge at forebygge smittespredning ved at kende den. De den geografiske.
+
+00:10:52
+Oplysning af smitten så første del af det her projekt er fokuseret altså på bydelen nordvest.
+
+00:10:59
+Og efterfølgende resten af Københavns Kommune. Det her kort her jeg viser her. Det viser de områder i nordvest, hvor Vi har, hvor Vi har udtaget prøver.
+
+00:11:09
+De varierer meget i størrelse og varierer også med typer af bebyggelser.
+
+00:11:14
+Så Vi har altså haft et i det her projekt et ønske om at validere Vores metode ved at undersøge, om der var en sammenhæng mellem data på spildevandsanalyser.
+
+00:11:24
+Og sammenlignende det mellem de humane testresultater.
+
+00:11:27
+Vi havde også et ønske om at se om størrelsen prøvetagningsoplandene havde nogen betydning for kvaliteten af data.
+
+00:11:36
+Inden inden jeg viser jer resultaterne, så vil jeg gerne lige beskrive kort processen i.
+
+00:11:45
+Fra fra prøvetagning til kommunal håndtering.
+
+00:11:48
+Fordi Der er mange trin og de trin, som Jeg vil fokusere på her. Det er de trin som fåre. Har det primære ansvar for, og Det er udpegning af prøvetagningssteder og valg af prøvetræningsudstyr, opsætning af prøvetagningsudstyr.
+
+00:12:03
+Derudover så er der jo selvfølgelig også et laboratorieinvolveret II. Selve analysen af spildevandsprøverne og i test for mutationer. Københavns Kommune har altså ansvaret for tolkning af data og den endelige håndtering.
+
+00:12:16
+At den viden, man får ud fra data.
+
+00:12:22
+Når vi som hr form skal skal udpege egnet prøvetræningssteder og brønde, så går vi efter at kunne identificere et afgrænset marked, hvor vi ved præcis hvilke matrikler der bidrager til spildevandet til den specifikke brønd Vi har udpeget.
+
+00:12:39
+Det er ikke altid lige nemt.
+
+00:12:42
+I Københavns Kommunes kloaksystem, fordi at det består af en masse ringforbindelser og under regn, så betyder det, at vand løber ind og ud.
+
+00:12:51
+Af de forskellige kloakkerblande.
+
+00:12:54
+Så i første omgang, så kigger vi og Det er vist her til Venstre, så kigger vi i Vores kort, hvor vi får noget information om kvoter og dimensioner, og så prøver vi der igen at udpege en brønd med et afgrænset kloakerbland, for at vi så får testet om det rent faktisk er et isoleret kloakker bland, så så tager vi også Vores hydrauliske model, hvor vi kan hvor vi kan køre nogle analyser med nogle forskellige regnhændelser, og hvor vi kan se hvordan kloaksystemet opfører sig.
+
+00:13:23
+Der igennem, så Det er vis til højre her at den den den brønd Der er udpeget her med en lille rød mit lille rødt flag.
+
+00:13:32
+Den den hører altså til et helt isoleret kloakopland, og der har vi så sat en prøve en prøvetager op og får en en spildevandsprøve fra det kloakker bland hvor vi ved præcis hvilke matrikler der bidrager til.
+
+00:13:50
+Når Vi har fundet den her brønd, så kommer Vores dræbende sætter udstyret op, og Det har jeg taget nogle billeder med af her. Og her ser vi så også sundheds- og omsorgs borgmesteren i Københavns Kommune, sisse Marie melding, der var mere ude at starte op, da vi startede Vores målinger i nordvest i maj måned.
+
+00:14:08
+Man kan også se prøvetagerne her, Der er ved at blive sænket ned i brønden.
+
+00:14:13
+Dets hele sidder nedenunder brønddækslerne, og så har vi en en sugeslange der ligger nede i.
+
+00:14:18
+I bunden af brønden og tager en en prøve hvert kvarter hele døgnet. På den måde får vi en tidspoportionel døgnprøve fra spildevandet.
+
+00:14:30
+Og hvis vi så ser lidt på på resultaterne.
+
+00:14:34
+Som sagt, så kiggede vi på at hvad størrelsen og oplandene betød for resultaterne, og det vi kan se. Det var da vi vi kørte med både med med oplande med med 700 borgere og op til 40.000 borgere. Og det vi kan se.
+
+00:14:46
+Det er jo større oplandet er altså jo flere.
+
+00:14:51
+Borgere, Der er indenfor det opland, jo mere stabilt bliver signalet i spildevandet, og Vi er jo mere stabilt bliver det data vi får ud altså en i et meget lille opland. Vi er ens smittede.
+
+00:15:03
+Kunne kunne bidrage meget til signalet og og og give nogle meget varierende resultater.
+
+00:15:11
+I forhold til spørgsmålet om vi får noget brugbar melid data, forsøgte vi også at sammenholde Vores hund. Den humane data med data fra spildevandet.
+
+00:15:21
+Og her fik vi faktisk også et meget pænt fedt det det 2 grafer vi kan se her altså de 2 øverste grafer. De viser en tendenstallet altså fra humand-data og de spejler nogenlunde.
+
+00:15:35
+Det det mønster der vi ser i spildevandet. Altså at vi ser en stigning og et fald og en stigning igen til sidst.
+
+00:15:42
+Vi har dog ikke kunnet påvise det her eardie warning effekt.
+
+00:15:49
+Og det. Det skyldes til dels, at den her afprøvning fandt sted i en periode, hvor at der var rigtig mange, der blev testet, altså også inden de havde symptomer.
+
+00:16:03
+Med den erfaring vi fik i nordvest. Der har vi udvidet Vores Vores prøvetalingsområde til at dække hele København, og Det er det, i kan se et kort af her. Der har vi inddelt København i cirka 12 områder.
+
+00:16:20
+Udgangspunktet har været at placere prøvetagning i forbindelse med Vores pumpestationer, så Vi har et målt døgnflow derfra.
+
+00:16:29
+Som vi kan se her, så er øst og vestamager blevet 2 separate oplande.
+
+00:16:35
+Nørrebro og Vesterbro er relativt stort i forhold til nogle af for eksempel folehaven, som er en del mindre.
+
+00:16:45
+Vi arbejder stadig på at analysere data herfra, fordi Det er Det er relativt nyt, at Vi er gået i gået i gang, men noget af det data, Vi har fået, og som Det er vist her.
+
+00:16:57
+Og Københavns Kommune ønsker at at vise data på denne her måde som en slags Sådan dashboard, der viser koncentration, men også trend over tid.
+
+00:17:08
+Med dataene både er normaliseret for.
+
+00:17:11
+For fortyndning, men også normaliseret i forhold til antal borgere og det som man kan se resultaterne her fra København. Det er at at Der er stor variation på koncentrationen af virus fra de fra de enkelte opland.
+
+00:17:25
+Så konklusionerne for de 2 projekter i Københavns Kommune. Det er, at Det er teknisk muligt at optage analyserbare prøver i det københavnske spildevandssystem, men at Der er en del led i processen om at behandle data, der skal effektiviseres for at vi får tilstrækkelig hurtig data, så man kan nå at reagere på.
+
+00:17:48
+Derudover, så har vi også vist at analyseresultaterne viser en sammenhæng mellem spildevandsdata og data fra humane test, men at det i maj og juni måned har altså ikke har været muligt at afgøre, om om metoden kan give Sådan et et forspring i smittehåndteringen, fordi der har været så omfattende testaktiviteter. Men det billede er jo så også ved at ændre sig nu hvor langt færre bliver testet.
+
+00:18:16
+Så med den erfaring Vi har nu på baggrund af de her projekter.
+
+00:18:21
+Vi har. Vi har været en del af både nationalt og i København har vi fået bekræftet mange af fordelene ved.
+
+00:18:27
+Overvågning af spildevand men Vi har også identificeret nogle begrænsninger og nogle udfordringer.
+
+00:18:33
+Øh. Blandt andet skal processen omkring normalisering af data afklares og også effektiviseres.
+
+00:18:42
+Og betydningen af proces og industrispildevand har vi heller ikke kortlagt endnu.
+
+00:18:49
+Metoden tråden her kan endnu ikke.
+
+00:18:52
+Sige hvor mange i et opland Der er smittet. Den kan give os en koncentration, men i og med at Det er meget forskelligt, hvor meget man som person udskiller af virus, når man er syg så.
+
+00:19:04
+Har vi ikke har vi ikke nok datagrundlag til at sige kunne korrigere koncentrationen med antal smittede endnu. Men altså det arbejdes der meget på. Vi er også stødt ind i en del tekniske komplikationer.
+
+00:19:17
+Det går blandt andet på prøvetagning omkring brønddybderne, at de simpelthen er så dybe i de Vores gamle kloakker, at den her sugeslange ikke ikke kan suge nok.
+
+00:19:29
+Spildevand op til II prøvetæren.
+
+00:19:33
+Derudover, så er forholdene i afløbssystemet også Sådan, at Der er mange ting, der kan gå galt. Der er mange ting, der kan sætte sig fast på prøvetagningsudstyret, ligesom at skybrud kan drukne Vores udstyr. Det er også sket, så Vi har haft problemer omkring stabiliteten af prøvetængens udstyr, som der klart også kan forbedres.
+
+00:19:54
+Derudover kan vi også se, at vi måske kan løbe ind i, at faktisk ikke har nok prøvetager til rådighed, hvis der skulle ske en stigende smitte, og der skulle komme en større efterspørgsel fra kommunerne om at at der skal prøves. Vi har også.
+
+00:20:10
+En en formodning om at Sådan noget som slam ophobning i afløbssystemet kan påvirke Vores resultater.
+
+00:20:17
+Så i perioder med ingen regn efterfulgt af af.
+
+00:20:20
+Er intens dreng kan at der kan ske noget opvævning af slam, der kan der kan påvirke resultaterne, særligt hvis hvis også.
+
+00:20:29
+At virus akkumulerer i det her slam vi ved heller ikke hvad afvaskning af af virus fra overflader betyder, om vi overhovedet har en betydning.
+
+00:20:38
+Og det samme gælder henfald af virus. Det ved man ikke meget om om hvordan det hvordan det opfører sig i kloakken.
+
+00:20:48
+Så men Det kan man sige, at metoden i nogen grad er er umoden.
+
+00:20:54
+Og i hvert fald kræver længerevarende afprøvning i forhold til at få lidt mere data.
+
+00:21:03
+Hvad er så fremtiden for for spildevandsbaseret et af demogi altså metoden?
+
+00:21:10
+Er efterprøvet i udlandet og og og til dels også herhjemme.
+
+00:21:18
+Og.
+
+00:21:20
+Fremtiden for brugen af denne her metode vil i høj grad afhænge af udviklingen af coronavirus i samfundet. Altså skal vi til at skal vi registrere, om Det er til stede eller ej. Altså hvis det forsvinder helt eller skal vi, kan vi forvente at coronavirus er noget, der vil være her altid, og vi derfor skal holde øje med trends?
+
+00:21:41
+Og i om det stiger eller falder det vil betyde noget for for hvor ofte Vi skal til prøver, men også hvor Vi skal tage prøver. Skal vi tage prøve helt ud på renseanlæggene eller skal Vi skal vi zoome længere ind og være mere geografisk specifikke.
+
+00:21:58
+Der Vi har også nogle spørgsmål omkring hvordan de her prøver kan tage sig om om om Det kan gøres med stikprøver, eller om det skal være meget automatiseret.
+
+00:22:09
+Døgn prøver enten tidspunktionelle eller flowroptionelle.
+
+00:22:14
+Vi har også den forhåbning om at, at der i fremtiden vil kunne opstå nogen noget produktudvikling omkring omkring den her prøvetagning. Og Vi har set eksempler på nogen, der har udviklet prøvetagere, der også indeholder Sådan en form for automatisk PCR testanalyse i prøvetreren, så man kan mindske nogle af de mange processer og trin.
+
+00:22:37
+Som Der er i den her metode fra start til slut.
+
+00:22:43
+Overordnet set kan man sige at spildevandet spejler den generelle folkesundhed, og kloakken repræsenterer derfor Sådan en ret enestående overvågningsplatform for mange. Hvad kan man sige andre sundhedsrisiko? Og hvis vi lige ser lidt ud over den nuværende pandemi som et hoved interessant altså ikke bare i forhold til covid 19, men også generelt i forhold til at detektere.
+
+00:23:10
+Og identificere andre virus og for eksempel også overvåge forekomsten af multiresistente bakterier, som jo både er ja et stigende problem herhjemme, men også internationalt.
+
+00:23:23
+Så altså på mange måder kan man sige og spildevandet er Sådan en slags flydende excel ark fuld af informationer der ligger og skvulper rundt i kloakken og anvendelsesmulighederne er mange og.
+
+00:23:38
+Corona har i den grad vist at spildevandsbaserede epidemiologi. Nok er kommet for at blive i et eller andet omfang.
+
+00:23:48
+Så med det med de ord så tak for jeres tid. Og så hvis der skulle være nogle spørgsmål.
+
+00:23:56
+Så må i meget gerne stille dem.
+
+00:23:59
+1000 tak ida Det var jo sindssygt spændende.
+
+00:24:03
+Generelt så i kan skrive spørgsmål ude i chatten og så så skal jeg nok bringe dem ind. Men Jeg har i hvert fald en masse spørgsmål ida så så du slipper.
+
+00:24:11
+Ja først der vil jeg sige og og og høre, at en betegnelse som at spildevand kunne være flydende. Excel ark det, Det har jeg aldrig hørt før, men jeg elsker det. Det er fantastisk.
+
+00:24:22
+Men du nævnte nogle af tingene, men jeg kunne godt tænke mig. Måske om du kunne udfolde lidt. Du nævnte det der med om Der er andre sygdomme som kunne være relevant at tjekke op på.
+
+00:24:29
+Jeg tænker i har vel udstyret derude nu, for eksempel. Nu kommer vi sandsynligvis ind i en ny. Hvad skal man sige?
+
+00:24:34
+Influenzasyge sygdomsperiode? Er det noget i kunne kunne tænke jer at prøve at at arbejde videre med med at teste for andre? Hvad skal man sige gængse sygdomme?
+
+00:24:44
+Ja altså helt bestemt nu. Hvad kan man sige? Nu har vi jo som sagt fået det juridiske grundlag på plads med den her ændring af epidemiloven, der jo rent faktisk gør det muligt at at vi kan påtage os den.
+
+00:24:57
+Det som en fast opgave, for eksempel som forsyningsselskab og det, der skal jo være en forespørgsel. Selvfølgelig, så det skal jo være enten en forespørgsel fra kommunerne eller fra staten eller fra Statens side om om at.
+
+00:25:11
+At overvåge spildevandet men men Det er helt klart en mulighed at overvåge også for influenza. Det er jo samme samme princip som for coronavirus, altså man leder efter virus RNA, som som er III fese og dermed i spildevandet. Så Det er bestemt noget vi ser ind i.
+
+00:25:31
+Og som Sådan en, hvad kan man sige en permanent en permanent opgave for for selskabet?
+
+00:25:37
+Uden tvivl.
+
+00:25:40
+Ja og du nævnte det også lige kort så så bare for at printe. Knus skyld det vil sige de prøver i tern nu dem dem kenter i fysisk og kører til til hvad skal man sige dataanalyse men men som du nævnte til sidst altså det i gerne vil Det er at at i gerne vil have det automatiseret.
+
+00:25:57
+Så analytikeren er klart nogle fordele ved altså hvis hvis Det er noget man man man gerne vil implementere som en fast del af af forsyningsopgaver, så så så der helt klart nogle nogle ting omkring.
+
+00:26:10
+Processen, der skal effektiviseres, fordi der Der er rigtig mange led lige nu.
+
+00:26:16
+I forhold til at få opsat prøveudstyr og afhentet prøver og transporteret prøver, analyseret, prøver og så og så lave tolkningen af data også og der ligger rigtig meget arbejde II alle i alle de dele af processen og der Der er det klart der der kunne der kunne der kunne vi sagtens se nogle fordele i hvis man kunne produktudvikle på på.
+
+00:26:40
+På på den her prøvetagning blandt andet, men også udvikle på laboratoriets analysemetoder, så man kan få svar endnu hurtigere end man kan i dag.
+
+00:26:52
+Ja, fordi som som jeg hører dig, så så kan man sige du nævnte fordi noget man selvfølgelig kigger ind i, som i også har kigget ind i. Det er selvfølgelig hvor store små koncentrationer kan man detektere, og Det er selvfølgelig også hvor hvor hvor tæt hvor tæt vil man på, hvor, hvor, hvor, hvor tæt på den enkelte borger vil man egentlig kunne dette? Men du nævnte at de havde et eksempel, hvor hvor i havde 700.
+
+00:27:13
+Jeg ved ikke om man kaldte dem deltagere eller husstande.
+
+00:27:18
+Og der forstod jeg det. Sådan kan det passe, at hvis Der er en af dem, Der er syge, så kan i faktisk måle det. Altså er det nok.
+
+00:27:22
+Til er i faktisk det boner ud i jeres målinger.
+
+00:27:26
+Det er det. Det er Vores erfaring er med med de.
+
+00:27:33
+De prøver Vi har taget. Det er at at følsomheden den er meget høj, altså i forhold til hvad hvad man kan finde på laboratoriet og så så ja, Jeg vil sige altså det hvis Der er en der har det i et opland på 700 så kan så vil man det vil man kunne se i spildevandet.
+
+00:27:51
+Men som sagt så er der forskel på hvor meget virus man udskiller, når man er syg. Der er nogen der udskiller meget lidt og nogen udskiller slet ikke noget så så man kan endnu ikke bruge den her metode til at.
+
+00:28:06
+At få noget at viden om, præcis hvor mange Der er smittet i oplandet. Man kan konstatere og altså binært ja eller nej om Der er smitte, men ikke hvor mange endnu. Men det vil kræve det vil kræve meget mere erfaring i forhold til hvordan sygdom virker på så på kroppen.
+
+00:28:24
+Men så Der er Der er rigtig mange der arbejder på også at kunne finde en måde at kvanticiere. Altså hvor mange er smittede når man får en en prøve, men den er meget følsom den den her analysemetode.
+
+00:28:38
+Det er den, og så ramler man sig nogle gange ind i noget GDPR også med med noget persondata så så Vi skal heller ikke ned på et opland med med færre end end 20.
+
+00:28:51
+20 personer det. Det er Sådan grænsen for, hvad vi kan måle på. Men vi måler også på hofors kontorbygning ude i ørestad.
+
+00:28:59
+Det har vi gjort i et år nu, og der har vi, der har vi kunne se. Der har vi kunne se det i spildevandet, hvis Vi har haft den smittet i Vores bygning, og så har vi fået en. Hvad kan man sige en varsling på et par dage, før der så er en der har meldt sig syg?
+
+00:29:16
+Og Det har Vores corona beredskab i Vores bygning jo brugt i forhold til om om vi skulle skærpe nogle af de forholdsregler. Der var altså med at med afstande og afspritning og så videre.
+
+00:29:31
+Jamen jeg mente potentialet er jo kanon stort her. Det Jeg kan jo godt. Altså Det er jo fantastisk.
+
+00:29:37
+Så skal jeg lige høre det, fordi det naturlige næste skridt selvfølgelig er jo så, at hvis vi så har en en stor smitte i Vores spildevand, og man så har et overløb af en eller 2 årsag, er det så udgør det så en en coronasmitterisiko eller er vi stadigvæk ude i at Det er så små koncentrationer? Alt andet lige at at det gør det ikke.
+
+00:29:56
+Ja ja altså Det er Det er vurderet at det ikke er nogen sundhedsrisiko fordi at virus ikke er aktivt.
+
+00:30:04
+Det virus, Der er i spildevandet.
+
+00:30:08
+Så altså og og derudover som som du siger, så er det jo også i meget små relativt små koncentrationer, når der, hvis der for eksempel er overløb.
+
+00:30:19
+Til havnen fra kloakken, så de er så Vores første frygt.
+
+00:30:25
+Var om om Vores stresspersonale var udsat for en smitterisiko ved at håndtere spildevandet. Den det.
+
+00:30:32
+Det var Det var der så ikke?
+
+00:30:35
+Fandt vi ud af, men Det var i hvert fald udgangspunktet for at begynde at arbejde med det her for at kvantificere, hvor meget om man kunne måle corona i spildevandet. Men ja nej, så det Der er ikke nogen sundhedsrisiko ved det ved at håndtere spildevandet.
+
+00:30:49
+Og det. Det var godt at høre fra jeres for jeres medarbejderes skyld i hvert fald.
+
+00:30:54
+Så har jeg et slutteligt spørgsmål, men Jeg vil selvfølgelig også stadigvæk opfordre deltagerne til, hvis i har nogle spørgsmål til ida, så skriv dem endelig i chatten.
+
+00:31:01
+Men det Det er Sådan en det næste. Det er egentlig hvad hvad? Hvad tænker i med hofor?
+
+00:31:04
+Hvad er næste skridt for jer, hvis i Sådan lidt selv kunne få lov til at bestemme hvor? Hvor langt kunne i tænke jer at gå i det her?
+
+00:31:12
+Jamen.
+
+00:31:14
+Vi vi håber da at kunne fortsætte det som som en som en del af Vores.
+
+00:31:18
+Vores en af Vores opgaver som Forsyning altså at at hjælpe Vores Vores ejerkommuner med at med at overvåge spildevandet og så som sagt ikke blot for corona. Men hvis der skulle være nogen nogen nogen særlige behov i nogen områder for at overvåge for nogle andre smitsomme sygdomme?
+
+00:31:37
+For det kunne jo også være, at nogle særlige udsatte bygninger.
+
+00:31:43
+Eller områder, hvor at med med borgere, der var særligt udsat for.
+
+00:31:49
+For smitsomme sygdomme. Vi kunne hjælpe til det altså. Vi håber da som som som Forsyning, vi vil meget gerne fortsætte med det her.
+
+00:31:56
+Det ser vi da et stort potentiale II forhold til at at hjælpe Sådan den generelle folke folkesundhed og være igen at knytte den her det her bånd tilbage til da vi startede som forsyningsselskab med at med at afhjælpe den kolera-epidemi, der var i København.
+
+00:32:18
+Så det ser vi da. Det ser vi da som en som en vigtig opgave for os.
+
+00:32:25
+Ja bestemt.
+
+00:32:27
+Sidste spørgsmål fra min side i hvert fald. Det er udstyret, hvis man nu Sådan. Hvis man sidder som Forsyning og gerne vil vil starte op på det her.
+
+00:32:37
+Kan du give Sådan et estimat om hvor hvor meget hvor meget i har brugt på et udstyr og og og tid og den slags ting.
+
+00:32:46
+Ja altså II pilot i pilotprojekterne der har vi der har vi lejet en del af udstyret.
+
+00:32:53
+Hvis det her. Det bliver noget vi Vi skal ud og tilbyde til alle Vores ejerkommuner, så vil vi gerne selv eje udstyret, og så kommer vi til at investere i prøvetagningsudstyret, så så i og med at det her, hvad kan man sige, at vi stadig er 1 1 1 proces med at at finde 1 1 1 form og en procedure for?
+
+00:33:14
+Og opgaven så har vi prøvet os lidt frem med lidt lidt forskellige ting, men som udgangspunkt så skal man også gøre sig klart hvad det hvor Det er man vil måle henne og hvad Det er for nogle typer af målinger man vil lave fordi prøveudstyret kan kan lidt forskelligt. Altså det her med at man tager tidsprofesielle prøver altså tager 1 1 1 delprøve med et fast tidsinterval eller man vil tage flowposition eller prøver som er man tager.
+
+00:33:41
+Tager prøver indstillet efter, når en bestemt mængde vand er løbet igennem.
+
+00:33:46
+Og Det kan være forskelligt fra sted til sted, hvad der giver mening at gøre på mange renseanlæg. Der er det flow proportionelt prøvetagning.
+
+00:33:56
+På ved bygninger der har vi valgt at lave tidsprofes prøvetagning, og Det er noget, Det er noget af det et andet udstyr som ikke er helt så ikke så stort og robust.
+
+00:34:07
+Så Der er altså nogle Der er nogle forskellige overvejelser der, men vi.
+
+00:34:11
+Vi vi kan i hvert fald bare konstatere at forholdene i kloakken de er på en måde, der gør, at.
+
+00:34:17
+Hvis man vil have 1 1 1 1 høj succesrate for sin prøvetagning, så skal man have noget meget robust udstyr og noget udstyr som som kan tidsindstilles og som som har som kan som kan sænkes og implementeres i Sådan nogle meget dybe brønde hvor de skal have motoren der skal suge vand op skal være meget stærk, fordi Vi har i hvert fald kunne konstatere at.
+
+00:34:43
+Vi har haft mange fejlslagne prøvetagninger, fordi kloakkerne bare.
+
+00:34:49
+Ja det Det er et hårdt et hårdt miljø. Der er mange ting der kan sætte sig fast og og de her gamle kloakker er også tit rigtig dybe. Så ja så det Vi har.
+
+00:35:02
+Vi har gjort os en del en del erfaringer der må man sige, men som udgangspunkt vil Jeg vil jeg altså.
+
+00:35:12
+Vil jeg råde folk til og og og tænke over og finde, hvad kan man sige noget udstyr der passer til det behov man har?
+
+00:35:19
+Og hvor stationært det skal være. Det er jo, Der er jo også nogle overvejelser der.
+
+00:35:24
+Super 1000 tak ida hvis der ikke er flere spørgsmål for deltagerne så tror jeg stille og roligt. Vi lukker ned og så vil jeg på vegne af DNNK sige 1000 tak til dig ida for dine superspændende præsentation og forbrugerens skyld vil jeg selvfølgelig sige at den er optaget, og den kommer til at ligge inde på DNNKS hjemmeside, så for DNNKS side vil jeg sige 1000 tak ida.
+
+00:35:46
+Selv tak. Det var hyggeligt at være med.
+
+00:35:49
+Ja og hvad hedder det hvis i har? Hvis i hvis Der er nogen af jer der har emner eller ting i gerne vil have med i en tiktok eller lignende, så er i selvfølgelig velkommen til at til at skrive ind indtil til os igen en ko. Så får vi den med snarest muligt så på gensyn.
+

@@ -1,0 +1,720 @@
+00:00:08
+Det er det velkommen til dagens tik tok IDNK, hvor vi i dag skal høre mere om, hvad en byudvikling betyder for vandbalancen og derved økologien i de nedstrøms liggende vandløb. Mit navn er theis rask Andersen og forvirrer University College, og sammen med Morten handling fra Danny k der vil jeg rigtig gerne byde jer allesammen velkommen til til dagens tiktok.
+
+00:00:27
+Og lidt praktisk information, inden vi starter selve præsentationen varer cirka 30-35 minutter, hvorefter der vil være 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål i chatten. Og så vil Nikolaj og Peter fra VSP og tour fra Aarhus Kommune vil besvare dem i slutningen af check toppen. Og for god ordens skyld skal jeg informere om, at den chektorken bliver optaget, og i vil i vil kunne finde den i løbet af en uges tid inde på DNKS hjemmeside, og Det var Det var alt for mig.
+
+00:00:52
+Og så vil jeg ellers give ordet til Nicolai, Peter og thor velkommen til.
+
+00:00:58
+Mit navn er Peter hvad synes dus og som theis lige har sagt, så holder jeg præsentationen sammen med med Nikolaj, men Vi har også thor med fra Aarhus Kommune. Aarhus Kommune var jo opdragsholderen til den opgave her, hvor man begynder at se på et helt meget stort vandopland med massiv byudvikling i nemlig oplandet til euroen og EU indsø, som vi ser her.
+
+00:01:20
+Egentlig med 2 formål. Det ene formål var at se vurdere en oversvømmelsesproblematik som er meget nærværende i Aarhus IEU systemet. Hvor man hvordan kan man lave vandparkering, eller hvordan kan vi forsinke vand og så videre?
+
+00:01:33
+Og det andet aspekt af undersøgelsen? Det var, hvordan kan vi lave en byudvikling, der understøtter vandbalancen i økosystemerne og dermed også understøtter det liv, Der er i vandløbene og og ikke gør det værre, men måske endda.
+
+00:01:46
+Bedre, og Det er noget af det, som vi gerne vil præsentere for jer i dag.
+
+00:01:52
+Jeg skulle meget gerne se om jeg ikke kunne få en slide frem med Nikolaj og jeg og så og thor.
+
+00:01:59
+Og jeg præstationen foregår Sådan, at jeg taler den første cirka første halvdel, og Nikolaj taler den cirka den sidste halvdel. Sådeles vi lidt om afslutningen, og Vi er utroligt glade for, at thor ville være med til at den her session, fordi at Det er også interessant at se et perspektiverne i det her arbejde ud fra en kommunal synsvinkel. Fra hvordan vil man så arbejde fremadrettet med byudvikling og og vandhåndtering i det kommende byområder og måske også de eksisterende?
+
+00:02:27
+Det kommer vi tilbage til. Forhåbentlig.
+
+00:02:30
+Vi har lavet en lille meget kort agenda med 3 punkter på og til en start, så er det her arbejde også udsprunget lidt af ikke kun oversvømmelser, men også den her bekymring for at man har en byudvikling, som man ikke ved hvor meget påvirker.
+
+00:02:48
+Vandløbene som Det er i dag, og det Vi har gjort, Det er, at Vi har modelleret vandbalancen II.
+
+00:02:55
+I oplandet og prøvede at se på de økologiske parametre, som er i de her vandløb, som er for nogles vedkommende rigtig meget præget af af denne eller bliver præget af den her biovende.
+
+00:03:08
+Og så har vi også set på den her af samme grund effekten i det her vandløb afhænger af, hvordan håndterer vi regnvand i de her nye byområder? Skal vi eller separat parkere, som vi plejer, havde jeg nær sagt, eller skal vi håndtere vandet på nogle andre måder, der kan tilgodese vandløbene? Det kommer jeg lidt tilbage til også.
+
+00:03:29
+Egon spander bland er på 72,5 km2 i ser det her.
+
+00:03:34
+Og vi kigger på kortet til en start, så vil i kunne se at Der er at i kan se æren der også står vandløb. Nu står vi zumba. Det er så fordi Vi har brugt zumba til det her men men Det er jo egon der løber der og vi kan se EU engsø som den store blå klat, og så kan vi se nogle befæstede områder i oplandet og nogle ubestede og de befæstede.
+
+00:03:55
+Det er dem Der er markerede med lysekro og de.
+
+00:03:59
+Grønne Det er dem Der er ubefstede men.
+
+00:04:02
+En del af dem bliver grå i fremtiden, altså mørkegrå, fordi det i ser med mørkegrå er den nye byudvikling II oplandet, og Det er altså cirka 665 hektar man forventer.
+
+00:04:15
+Og åben land bliver til by i løbet af de næste ja 25 år eller frem mod 2050.
+
+00:04:25
+Og Det er jo ret meget by, så som der står ude til højre. Vi har nogle sårbare vandløb, Der er problemer med oversvømmelse.
+
+00:04:32
+Og Det er det største bydelingsområde i Aarhus.
+
+00:04:35
+Og kommunen bekymrer sig om den her påvirkning af økosystemerne, og som der står nederst til højre side, så en refleksion om, at vi egentlig har givet udlægstilladelse på uddannelsestilladelse til lokalplaner og byudvikling.
+
+00:04:49
+Sådan over tid, uden at vi egentlig har blik for hvad betyder det samlede billede, hvis vi bliver ved med at gøre, som vi gør nu, så Det var faktisk også en af en af baggrunden til det her arbejde her.
+
+00:05:03
+Det vi satte os for godt og vil vide noget mere om Det var nogle af de parametre i ser her. Vi vil godt vide noget mere om oversvømmelser i det indlæg. Her har ikke fokus på oversvømmelserne faktisk overhovedet det overhovedet ikke ind på, men Det er faktisk halvdelen af arbejdet.
+
+00:05:16
+Men det vi kommer ind på Det er er er hverdagsregn og håndtering af det og økologi. Men Jeg vil godt vide noget om vandføring i vandløbene. Vi vil godt vide noget om temperatur og vandstande og vanddøb og.
+
+00:05:29
+Økologiske parametre.
+
+00:05:31
+Her på engelsk økologic volley ratual EQR, som Vi har lavet nogle beregninger med også og nogle selvfølgelig også genvidende viden om hastighed og også meget gerne noget om ilt.
+
+00:05:43
+Og hvordan gør man så det, når man står med Sådan en 665 hektar ny by i fremtiden, som ikke er der i dag? Og Vi har nogle målinger af, hvordan Det er, at afstrømning af vandløbene i dag og så videre.
+
+00:05:55
+Og der har vi så brugt den model der hedder sumba, som Vi har udviklet som nogle af jer måske kender, men som er en boks transportmodel som kan flytte rundt på vand, afhængig af hvordan vi fortæller hvordan den skal flytte rundt på den, og det betyder, at det kræver en vis viden omkring, hvordan vand bevæger sig, fordi den er dum i den forstand. Den kan bare flytte rundt på noget, og den kan også have noget temperatur og noget andet i sig, og den kan styrken af det her regnet på meget lang tid serie og så kan man se på og en lang årrække.
+
+00:06:25
+Dynamikken og hvordan du ser ud over lang tid.
+
+00:06:29
+Men Det var i den forstand, vi skulle fortælle den, hvordan vand fordeler sig og Sådan nogle ting, og det kræver selvfølgelig en vis viden, og Det har vi så bidt os ind, at Vi har i hvert fald til en vis grænse om i hvert fald nok til at putte ind i som model for at se, hvordan det virker.
+
+00:06:42
+Det i ser her. Det er et udsnit af modellen og noget af det by noget af det noget af det eksternt by noget af en ny by. Noget af Det er eller søer.
+
+00:06:52
+Noget af det ubefesteret noget af det primære grundvand, noget af det sekundære grundlag.
+
+00:06:56
+Og vi får danneser et lidt bedre overblik, så har bare ladet Sådan et lille udsnit helt principielt.
+
+00:07:03
+Hvor i kan se på den øverste figur her, at Vi har nogle nye byområder. Vi har noget målt nedbør igennem 30 år. Vi har noget klimafremskrivning af det.
+
+00:07:13
+Vi har noget fordampning også fra DMI fordampningsgrid, som vi kan downloade tidserier fra og også putte ind i modellen. Og så har vi jo målt afstrømning af vandløbssystemer også mange dekader tilbage.
+
+00:07:25
+Så alt Det er jo meget fint at putte sammen, og så har vi jo noget flow i Vores vandløb, og så kan vi også kigge på engsøen og se, hvordan den bliver fyldt op, om den går i overløb eller og og hvordan det flow vi nu ser i systemerne også bliver kommenteret i en vandstand ude i havet dernede ved egåens udløb, hvor Vi har oversvømmelsesproblemerne med med boliger.
+
+00:07:49
+Sådan en model.
+
+00:07:52
+Skal krediteres til Vores kollega Morten ingholm Larsen, som ikke er med her i dag. Det er ham, der stillede den op og ham, der regnede på den. Så hvis i kommer til nogle meget konkrete spørgsmål omkring det her, så vil vi gerne bringe den videre.
+
+00:08:04
+Men spektakulær men og utroligt hurtigt til at regne på, så Det er meget nemt at lave nogle varianter og se hvordan, hvad vil effekten være set over flere årtier?
+
+00:08:16
+Vi har beregnet overfladeafdrømning. Vi har beregnet nedsivning til sekundært grundvand eller rettere beregnet på den måde, at vi fordeler det simpelthen. Og hvor meget kommer der til?
+
+00:08:24
+Primær grundvand har vi også fortalt modellen, og så fortæller den jo os set over tid. Hvordan fungerer det her så sammen?
+
+00:08:32
+Og bare et eksempel også tænderne den i sidder forneden en blå kurve, der viser målt afstrømning.
+
+00:08:37
+Eller sludder og beregnet afstrømning II et opland, som det ser ud i dag, hvor Der er primært landbrugsarealer, og så hvor Vi har konverteret landbrugsarealerne. En del af dem til by. Så siger i plus det med rød, hvor Vi har nogle meget høje peaks?
+
+00:08:52
+Jo og Det er et scenarie, hvor Vi har en traditionel kloaksystem.
+
+00:08:57
+Og Vi har også kalibreret målingerne mod mod mål mod vandføringer og og det passer faktisk rigtig fint sammen.
+
+00:09:06
+Når man så kigger på fremtiden, så kan man forestille sig forskellige scenarier af de her 665 hektar en ny by måske også noget af det eksisterende by.
+
+00:09:14
+Og her ser i, og dem går ikke i detaljer med, men Det er noget, vi tidligere har lavet i Aarhus Kommune. Miljøvurderingen at spillevandsplanen omkring hvilken påvirkning får hydrologien, når man laver ny by og afhængig af også, hvordan man håndterer det altså regnvandet i den her ny by.
+
+00:09:34
+Også der har i 5 scenarier et landbrugsareal uden dræn. Der er sneget et landbrug med dræn som scenarie 2 1 scenarie 3 som er et seperat kloak, hvor der pludselig er en ny by på området og snart 4 hvor Vi har 100% lang nedsyn og i scenarie 5 hvor 100% lar og dræn under laren fordi laranlæggende fordi vi godt ved at det ikke kan nazive det hele specielt ikke omvendt.
+
+00:09:59
+Og hvis man skal lige pege på 2 ting her, så vil jeg sige, at hvis i kigger på øverste lagkager, så kan i se ebao transpedition astriddampningen fra landbrugsarealer i dag og ikke kun i det hele taget er ret høj, så en ret stor del af den nedbør der falder i det åbne land fordamper igen. Så Vi har måske 25% tilbage som vi så kan fordele mellem grundvand og og vandløb.
+
+00:10:23
+Når vi lægger laver ny by, så lægger vi låg på fordampningen.
+
+00:10:27
+Og vi faktisk afleder en læseligt større del af vandet. Vi får en væsentlig mere vand, og det vand kan vi lide vandløbene enten med en terrørkak eller nedsiv til det sekundære grundvandsbejl eller nedside til det primære grundvandsspejl eller fordeling her mellem faktum er bare at.
+
+00:10:46
+Vandløbene i de 3 nederste scenarier kan potentielt få meget mere vand, end de kan i dag. Når Vi har landbrugsarealer.
+
+00:10:54
+Og Det er jo tankevækkende, at vi laver by og får mere vand, fordi Vi har mindre forgang.
+
+00:11:00
+Og, Der er der stor forskel på, hvordan det vand kan ledes ud og håndteres på.
+
+00:11:05
+Vi kan have som til Venstre her en traditionel kloak og et bassin, som vi kender med selvfølgelig noget fordampning fra et Sådan et bassin, men stort set næsten alt. Næsten 100% ryger ud i vandløbene forsinket eller eller uforsinket.
+
+00:11:21
+Forskellen til Det har jeg, hvis man har et larsystem, infilations bassiner eller regnbøde med dræn nedunder ser i til højre, hvor Vi har.
+
+00:11:31
+Vurderet nogle mængder?
+
+00:11:33
+Baseret på rapporter, der tidligere lavet på, hvordan Sådan noget Sådan nogle vandbalancer på specialetjord ser ud, som Vi har her i Aarhus. Og Det er ikke vil ikke være helt forkert at sige, at en stor del af det der nedsiver fra Sådan en bassin, det vil måske 40% af hvis den vej via dræn og årstidsafhængigt ud til vandløbene. En del af det ved at nedsive til det sekundære grundvandsspejl og finde vej til vandløbene.
+
+00:11:59
+Måske andre 40%.
+
+00:12:02
+Set over året og en del måske 20% vil finde vej nedtil primært grundvandsvej.
+
+00:12:09
+Og Det er nogle fordelinger, som Vi har taget udgangspunkt i de tidligere rapporter og vurderet. Det er de her det her regelsæt. Vi så prøver at bruge til at sammenligne Sådan 2 scenarier for vandhåndtering, som vi ser her.
+
+00:12:20
+For hvilken forskel giver det her, når man.
+
+00:12:25
+Sætter dem op ved siden af hinanden, og Det var måske det, jeg skulle have gjort på næste slide. Men på næste slide har jeg faktisk prøvet at vise en vandbalance på et landbrug. Landbrugsareal helt uden drink hvordan det ser ud den lagkage fra oven i kendte i godt for før.
+
+00:12:37
+Men.
+
+00:12:38
+Til den lagkage nedenunder. Det var den som viste en ny by som vil placere h arealerne med nogle egne bede i og har noget nedsivning og nogle afledning til noget drink.
+
+00:12:51
+Så der får vi jo lige pludselig en grundvandsdannelse i det sikker magasin på 26% her. Det skal selvfølgelig tages med et gran salt, men retningsgivende og en stor del af det vand vil kunne finde ud til Vores vandløb.
+
+00:13:05
+Forsinket måske med på en uges basis, og så har vi noget der hedder kommer meget hurtigt ud nemlig. Det hedder udløbetræenter via dræn 21%, og så har vi jo stadigvæk noget fordampning fra de grønne arealer i byen, og så har vi selvfølgelig også noget en primær grundvandsstandsdannelse.
+
+00:13:20
+Og Der er jo ret stor forskel på de 2 her og det kommer vi tilbage til lidt senere i fremlæggelsen, hvor vi kommer ind på nogle af de her resultater, som Vi har set. Når hvis man begynder at tænke også sebrakloak kontra larm og dræn hvor vandet fra kommer væsentlig hurtigere ud i specielt systemerne.
+
+00:13:41
+Afslutningsvis for min del. Der vil jeg lige pointere også, at Vi har jo også altså nogle i fremtiden nogle udfordringer, vi kommer til at se de her tørre somre, selvom at Det er ikke altid man tror på det, men i særdeleshed også våde vinter, men vi får endnu mere vand om vinteren, og vi kommer til at mangle vand om sommeren, og det betyder, at du bliver endnu større udfordringer i Vores tegnende grundvand i Vores byer, men såvel også som økologien ude i Vores vandsystem.
+
+00:14:11
+Og så tror jeg, Jeg vil give ordet over til dig, Nikolaj, hvis du er her.
+
+00:14:15
+Jeg er her Peter. Og tak for den flotte overgang her.
+
+00:14:21
+Det er fordi at en af de ting, som som især var bekymrende for for for Aarhus Kommune, Det var jo det her. Jamen kommer vi til at at ødelægge Vores vandløb, eller kommer vi til at påvirke dem så negativt, så vi ikke kan få målopfyldelse II de her vandløb, og hvordan kan vi undgå det og?
+
+00:14:46
+Det var egentlig det, vi prøvede at at at trække ud af modellen. Det var at se på på de her økologiske effekter.
+
+00:14:52
+Og og lave den her byudvikling, og man kan sige Det er jo et meget, meget dybt kaninhul man kan springe ned i, når man først begynder at skal regne på ilteret temperatur og vandstander og vandhastigheder og så videre.
+
+00:15:09
+Vi har prøvet at at at tage en forholdsvis simpel tilgang i første omgang, og så må vi jo se om om man får lyst til at dykke mere ned i det, og man er tryg nok ved ved de betragtninger i kommer. I kommer til at høre nu her.
+
+00:15:25
+Reco Jeg tror lige ja altså man kan jo sige at at det jeg kommer til at fortælle jer om Det er lidt. Hvordan påvirker man egentlig afstrømningsmønstret ude i vandløbet og vandmængderne ude i vandløbet og og bandet?
+
+00:15:39
+De her perioder med kritisk lav vandføring som som kan være problematiske især i fremtiden, og vi kommer også til at se lidt på en temperatureffekt, som vi også har prøvet at regne på.
+
+00:15:51
+Så lad os prøve at kigge på det. Lad os prøve at se hvad vi.
+
+00:15:55
+Vurderer, der kunne ske med den her byudvikling II vandløbene og det jeg kom til at vise jer nu her. Det er bare et eksempel fra et enkelt nedslagspunkt. Altså i modellen er der en række observationspunkter, kalder vi dem både på hovedløbet og på de her tilløb, og Det er selvfølgelig meget forskelligt, hvor stor effekten af byudviklingen er.
+
+00:16:19
+Alt efter hvor stor en del af oplandet der har bebygget i det eksempel. Jeg kom til at vise jer nu. Der er det nok det allermest.
+
+00:16:28
+Hvad skal man sige? Påvirkede vandløb? Vi kommer til at at at se på i kan se hele den der store grå plamage der og omkring det her lille tilløb, vi kigger på.
+
+00:16:39
+Det er alt sammen planlagt til at være by, så så det her det vil.
+
+00:16:44
+Det vil være det sted, hvor man i højeste grad vil mærke konsekvenserne af en ny by.
+
+00:16:52
+Altså prøve at skifte til den næste.
+
+00:16:55
+Som som Peter ligesom indikerede så en grundlæggende ting ved byudviklingen. Det er den her liggende låg på fordampning III fra arealerne, og det skulle jo så medføre, at der kom mere vand i vandløbet faktisk uanset om man gør det ene eller det andet med regnvandshåndtering. Og Det er også det, vi vi ser.
+
+00:17:19
+II beregningerne her.
+
+00:17:21
+Her har jeg taget nogle karakteristiske afstrømninger ud, som de ville have været, eller som de er i dag. De nuværende forhold og og som de ville have været, hvis vi allerede for 10 år siden havde lavet den her nye by og i det her eksempel, Der er det jo så med lar og dræn.
+
+00:17:41
+Bare lige for at holde det simpelt og det i kan se Det er, at der sker en markant ændring af af vandføring II især i sommerhalvåret.
+
+00:17:50
+Hvor fordampning jo er størst, og hvor det også at slukke for fordampning så at sige derfor også har den største effekt, så Sådan noget som en sommermedian minimum som jo er en af de skal man sige kritiske vandføringer man kigger på i forhold til negative effekter på vandløb. Jamen den den bliver fordoblet i det her tilfælde.
+
+00:18:12
+Om vinteren ser vi også en stigning, men i kan se middel vintermiddelværdien. Den er for eksempel ikke.
+
+00:18:19
+Ja meget anderledes end de nuværende forhold, og det hænger simpelthen sammen med at at fordampning ikke spiller så stor en rolle om vinteren.
+
+00:18:28
+Ja altså prøv at skifte til til den næste.
+
+00:18:33
+Fordi man kan også vælge at at dykke lidt mere ned. III måden man vurderer de her ting op mod hinanden på.
+
+00:18:42
+Og i mange år havde man en en, hvad skal man sige? Tommelfingerregel om, at man ikke måtte reducere.
+
+00:18:50
+Median minimumsvandføring med mere end 10% II modsatte vante.
+
+00:18:58
+Og den har vi prøvet at at overføre til at at gøre den her vurdering eller sammenligning.
+
+00:19:06
+Pantificerbar så i det her lille vandløb, der kan i se, at der har vi i modellen. Der har vi talt hvor mange dage om året i gennemsnit.
+
+00:19:17
+Kommer man ned på median minimumsanføring?
+
+00:19:22
+Og kommer man ned på 90% og 80% og så videre er median minimumsanføring og Det kan jeg se. Det er at under de nuværende forhold jamen der kan man sige at i gennemsnit 15 dage om året Der er man på median minimum eller lavere det kumuleret værdier det her.
+
+00:19:43
+Hvis man så går ind og laver traditionel regnvandshåndsortering i de her store byområder omkring det her lille vandløb og effektivt for rooted vandet ud, så snart det nærmest er faldet over byen via regnvandsbassiner.
+
+00:19:57
+Jamen, så er der ikke noget vand tilbage fra de her arealer til at opretholde en en medial minimum, og så kommer vi op i værste tilfælde af det her nok. Der kommer vi op på 50 dage om året. Man vil være nede på en medial minimum madføring.
+
+00:20:14
+Omvendt, hvis man så formår med med lar og dræn og og og det her med at få syet vand ned og forsinket det grundvandsmagasin.
+
+00:20:26
+Jamen så så kan man faktisk gå ind ligefrem og og reducere antallet af dage, hvor man er er nede på median minimum eller eller derunder så så det giver Sådan en indikation af hvor hvor stor en indflydelse Det kan have og tænke vandhåndtering sammen med vandbalancen.
+
+00:20:44
+II vandløbene.
+
+00:20:47
+Prøv at skift til den næste, Peter.
+
+00:20:55
+Vand er jo selvfølgelig en ret grundlæggende ting for at Vi har måler fyldelse i vandløbene, men vand skal også have en vis kvalitet og noget af det, Der er rigtig vigtigt, og som i kan se her trukket ud fra et notat. Det er så helt lavet til Odense Kommune, tror jeg Det var.
+
+00:21:13
+Jamen Det er at Der er ilt i vandløbet og.
+
+00:21:18
+Kan også se at at Der er også nogle temperaturforhold i vandløbene, man skal.
+
+00:21:24
+Tilgodese eller være opmærksom på?
+
+00:21:27
+Og hvis i ser nederst på slidet der der kan i se at det at det selvfølgelig især i ilt for for smådyr og for fisk.
+
+00:21:37
+Men, Der er også noget med temperaturen, og Det er så sat i parentes de der plusser ved temperaturen, og Det er fordi at Der er en sammenhæng mellem ilt og temperatur, så temperaturen påvirker iltniveauet. Så indirekte har temperaturen 1, 1 1 væsentlig betydning.
+
+00:21:54
+Og Det har vi det. Det har vi prøvet at dykke mere ned i, og det skal vi se her lige om lidt.
+
+00:22:01
+Men før vi vi kigger nærmere på effekten på temperatur og og dermed ilt, så så skal vi lige se lidt på på på på en fremskrivning af hvad man kunne være bekymret for. Så hvis du prøver at skifte Peter.
+
+00:22:17
+Så er der det her fine numreogram hedder det, hvor man ligesom beskriver sammenhængen mellem temperatur og iltmætning og iltindhold i vandløbet. Og hvis du prøver at klikke Peter så noget af det man kan være bekymret for når man kigger i krystalkuglen og ser på klimaforandringer eller temperaturen den stiger og det smitter af på vandene. Hvis du prøver at klikke igen.
+
+00:22:41
+Og og det vil ligesom forskyde temperaturen i vandet, den ene vej og den måde nogen programmer virker på. Det er at man egentlig har en lineal, hvor man Sådan set bare krydser. Hvad skal man sige?
+
+00:22:53
+De forskellige skæringspunkter, og så ser man så, at hvis der stadigvæk er en iltmætning i vandløbet på 50%.
+
+00:23:00
+Jamen så vil temperatur iltindholdet i vandløbet falde.
+
+00:23:05
+Hvis du så klikker en ekstra gang.
+
+00:23:08
+Så kan man sige jamen, hvis den her byudvikling nu forskyder vandbalancen mod mindre grundvandsdannelse og mere afledning af overfladevand, jamen, så er der en risiko for, at vi får en endnu røre temperatur i vandløbet. Vi kommer Sådan set til at accelerere effekten af de her klimaforandringer, og hvis vi ikke har gjort noget i vandløbet, jamen så så set yderligere fald i ilt indhold II vandløbet.
+
+00:23:32
+Og.
+
+00:23:35
+Memoryseret nok ikke tabellen fra før, men men hvis man kommer ned på på iltniveauer på 4 4,5.
+
+00:23:46
+Milligram per liter så så er det rigtig svært at få målopfyldelse i vandløbene.
+
+00:23:52
+Prøv at skift igen Peter så det Vi har kigget på det her. Det er hvis man nu med den her byudvikling arbejder med at få øget grundvandsdannelsen.
+
+00:24:02
+Så vil vi få mere køligt grundvand ud i vandløbene.
+
+00:24:06
+Og så vil vi modvirke i effekten af klimaforandringer, og så hvis du klikker igen.
+
+00:24:14
+Her kunne man så samtidig arbejde på, at vandløbene også blev mere robust i form af en bedre generning. Og Det er måske noget, vi kan komme tilbage til efter den her seance af hvad Det var, fordi der har thor faktisk også været i aktion II år.
+
+00:24:31
+Så det det perspektiv i har haft på på at se på de her temperatureffekter.
+
+00:24:39
+Hvor vi i modelopsætning har arbejdet med at grundvandet har 1 1 1 temperatur på 8 9 grader.
+
+00:24:46
+Så når vi øger udsivning af grundvand, så har det også en kølende effekt ude i vandløbet, og Det har vi så prøvet at at regne på. Og lad os lad os prøve at kigge på hvad vi hvad vi så.
+
+00:24:59
+Her har vi ligesom stillet worst case for traditionelt regnvandshåndtering op mod best case i forhold til regnvandshåndtering med larm og dræn.
+
+00:25:09
+Og det i ser Det er at at om vinteren så vil man få en højere temperatur i vandløbene, og Det er.
+
+00:25:17
+Så længe Det er under 10 grader, så er det ret positivt faktisk. Man får nogle mere grundvandslignende.
+
+00:25:24
+Temperaturer i vandløbet, og det svarer altså til til højre vintertemperatur.
+
+00:25:29
+Om sommeren, der kan i se, at der der formår man med med med regnmar ting eller dræn nedsivning og temperaturen nede på mellem 10 og 12 grader, hvorimod, hvis Det er aflivets med med traditionelt regnvandshåndtering.
+
+00:25:45
+Jamen så så så får man en væsentlig højere sommertemperatur.
+
+00:25:51
+Og så skal man så være opmærksom på, at nu sidder vi og kigger på det mest absolut mest markante. Ikke eksempel Vi har i Vores modelopsætning, og så når vi kigger på selve hovedløb på egåen der der kan vi ikke se den samme store forskel. Det Det er jo fordi Der er så meget vand II orden, der trods alt ikke stammer fra fra by.
+
+00:26:13
+Lad os prøve at skifte videre til den næste.
+
+00:26:17
+Og Det er ikke fordi at hvad er det det hedder?
+
+00:26:22
+Vi skal dykke meget ned i det, vi kan vende tilbage til det, men en 2 måde man kan kigge på det på udover de her gennemsnitsmånedstemperatur. Det er at man kan tælle dage ligesom vi gjorde før, og i det her tilfælde. Der har vi kigget på sommerhalvåret og og kan tælle at jamen hvis man går med byudvikling af traditionelt regnvandshåndtering, jamen så har man.
+
+00:26:45
+Hvad er det det hedder?
+
+00:26:48
+10 og 18 og 18 dage hvor hvor man har 1 1 1 temperatur Der er 1-3 grader højere end under de nuværende forhold hvis man går med med med.
+
+00:27:04
+Regnmarkshåndtering med larm og dræn, så vil man ikke kunne opleve nogle dage, hvor man har højre temperatur, faktisk nok nærmest tværtimod.
+
+00:27:12
+Og tilsvarende, så så kan man se, hvis man ser på den nederste del af tabellen, der under nuværende forhold i gennemsnit. Der har man 17 dage om året, hvor man ligger i et interval Der er.
+
+00:27:25
+Ikke optimalt hvert fald mellem 17,5 og 19,5 grad. Hvis man hvis man går med regnvandssortering eller traditionel håndtering, jamen så øges det til at man har 23 dage og det Det er 1 1 1 problem, men 6 ud af de dage der.
+
+00:27:42
+Da da man op over 19,5 grad og 4 dage i gennemsnit om året. Der er man mere end 21,5 grad og det Det er jeg ret kritisk, hvis man kommer derop. Det vil man også kunne se den tabel jeg jeg viste senere, og så skal man huske på at det her Det er gennemsnit for hele tidsserien som er.
+
+00:28:01
+Det kan jeg ikke huske om den er 20 år eller eller længere, og det vil sige i særlig tørre og varme år, som måske er noget vi kommer til at opleve mere af i fremtiden.
+
+00:28:11
+Der vil det her tal væsentligt anderledes ud. Der vil være langt flere dage, hvor man vil op i nogle væsentlige højere temperaturer. Det vil man kunne gå ned og se bordelresultaterne.
+
+00:28:23
+Så springer vi til den sidste her.
+
+00:28:27
+Og den er lidt kompleks, og Jeg vil ikke bruge så meget tid på det andet end at sige, at man har igennem de seneste år arbejdet med at udvikle en beregningsmetode, hvor man kan se.
+
+00:28:43
+Håber den afstrømningsmønstret og hvføringsregierne hvordan? Hvordan ændringer i det. Det påvirker økologien II vandløb, og Der er både noget med, hvordan man påvirker baseflowet.
+
+00:28:58
+Der er noget med, hvordan man påvirker.
+
+00:29:01
+De høje afstrømninger i det her tilfælde, at Det er den der hedder du duer. 3 hvor man har en vandføring Der er mere end 3 gange vil dal-manføring, og så er det betydning af af pulser.
+
+00:29:16
+III vandet og der der har man opstillet de her formler.
+
+00:29:22
+Hvor man får en indikation af, hvilken vej det går med CR værdierne og den økologiske kvalitet.
+
+00:29:31
+Desværre, så mangler der stadigvæk noget arbejde med de her formler de er.
+
+00:29:38
+Noget usikre, og Vi har også nogle eksempler på, at de ikke viser det rigtige.
+
+00:29:43
+Og Det kan måske komme tilbage til på på på et andet tidspunkt, men ikke desto mindre er de med til at beskrive.
+
+00:29:53
+Hvordan et ændret afstrømningsmønster påvirker økologien, så så så man kan få en forklaring på, hvordan det skulle virke.
+
+00:30:01
+Lad os prøve at skifte til den næste her.
+
+00:30:08
+Og Det er egentlig mest for at se vise. Hvordan kan man bruge de her beregninger til at at få et billede af hvad der sker? Og hvis i ser på den der hedder dur 3?
+
+00:30:18
+Det var den der kraftige vandføring og den er malet rød og Det er den fordi den har negativ effekt på på vandplanter, der kan i se under de nuværende forhold. Der er der 55 dage III gennemsnit Der er haft, men man har den her dur 3.
+
+00:30:35
+Om året under de nuværende forhold, hvis man bare leder vandet ud via traditionelt regnvandshåndsorientering, og selvom Det er neddroslet til det niveau, Aarhus Kommune har vurderet i robust analyse, så sker der alligevel næsten en fordobling af antallet af dage, der potentielt set har en negativ effekt på vandplanterne i vandløbet, hvorimod, at den her nedsivningudsivning fra.
+
+00:31:00
+Grundvandsmagasinerne, som går med den model.
+
+00:31:03
+Jamen så ligger man Sådan lidt på det samme leje som man hele tiden har gjort.
+
+00:31:07
+Det i også skal lægge mærke til her. Det er at at for eksempel den der hedder BFI basel, jamen der ligger man på nul 0,5.
+
+00:31:19
+I indeksværdi.
+
+00:31:22
+Hvis man går med traditionel regnvandshåndtering, jamen, så halverer man den her indeksværdi, hvorimod hvis man går med.
+
+00:31:30
+Regnvandshåndtering med lader og dræn, så får man et stabilt vandføringsmønster, der minder meget om det.
+
+00:31:37
+Der er Der er naturlige vandløbet, men bare med en større vandføring.
+
+00:31:43
+Sætter man alle de her tal ind II formlerne, så så får man egentlig, at der sker en markant negativ effekt. Det er de her equap værdier i seng nederste i tallene en markant negativ effekt af traditionelt regnvandshåndtering, hvorimod hvis i hvis man går med regnvandshåndtering med lår og dræn.
+
+00:32:04
+Sætter det ind i de her meget forholdsvis usikre formler, men stadigvæk. Så så peger de i retning af, at man faktisk får skabt nogle nogle bedre.
+
+00:32:16
+Forhold målt på afstrømningsmønstre II vandløbet, så Det er Det er tankevækkende, at man ser ud som om, at man ifølge formlerne nærmest kan forbedre eller superoptimere økologien II vandløbene, og derfor tror jeg også man skal være en lille smule kritisk over.
+
+00:32:34
+For for de her formler.
+
+00:32:37
+Lad os prøve at skifte til næste, som jeg husker skulle være Vores resultater og hovedpunkter. og Peter jeg tænker Det var dig der.
+
+00:32:47
+Det var i hvert fald som vi snakkede lige om, at så kunne jeg lige få et lille pip med her til sidst altså Sådan lige for at wrappe det op. Altså hovedpunkterne er lidt at det her med, at når man sammenligner traditionel regnskab eller eller eller landbrugsarealer for den sags skyld med med med projekter, hvor man bruger jordmatricen, hvad enten Det er larm og dræn eller eller ren nedsyn eller infrastruktionscing uden.
+
+00:33:10
+Udbredt så betyder det bare en 2 vandbalance, og det betyder simpelthen, at vi får mere vand i Vores vandløb.
+
+00:33:15
+Og Det kan vel være mange tilfælde meget, meget positivt, og vi får også de her færre dage med kritisk lav venføring, som som Nikolaj lige var inde på. Og vi ser også den her temperatureffekt, som er tydeligt både vinter og sommer, men altså specielt det om sommeren den ikke kommer så højt op, som hvor vi jo ved at varmt bassinvand er på en hedebølge ligger jo på 25 30 grader, så lad os få noget køligt vand i Vores vandløb.
+
+00:33:42
+Og også meget gerne ilttet det.
+
+00:33:44
+Og så det her med, at vi beregner den højre EQR kan man også sige. Det er positivt, og selvom Der er som den nederste står at Det er behæftet noget usikkerhed.
+
+00:33:53
+Og sikkert er potentialet for forbedring af de her formler men og som smiley nummer 2 der så står der den analyse og forsyner Aarhus Kommune med argumenter for at etablere leg med dræn i den fremtidige regnvandshåndtering, og det vil sige begynder at sætte krav i til.
+
+00:34:10
+Developer eller i sin vanddisponeringsplaner til at eller i sin strategier i det hele taget.
+
+00:34:15
+At begynde at arbejde med jordmatricen i den kommende vandhåndtering i de her mange hektar byudvikling, vi ser frem til her i Aarhus.
+
+00:34:24
+Og så det ses, så er der lige den her med, at når vi kigger på de større vandløb, så kan vi ikke se den store forskel, når vi kigger ned IE ouens hovedløb, der har vi jo et alle de alle de parameter med os, og der kan vi ikke se den samme forskel som vi kan for de små bynærvandløb, men de små bynær vandløb er jo også lige præcis rigtig vigtige i forhold til oplevelsen af natur og og dette giver til til bydelen. Så tænk at vi skulle forbedre valget, som i dag ligger i et åbent land, men bliver endnu bedre i en kommende by.
+
+00:34:57
+Ja hans kone Nikolaj ja.
+
+00:34:58
+Så så altså det det Vi har arbejdet på her ikke Det er. Det er at prøve at at at at sætte en model op, og Sådan sker især også overveje. Hvad er det for nogle resultater der kan trækkes ud?
+
+00:35:11
+Der, der ligesom kan beskrive, hvad effekterne kunne kunne være det her.
+
+00:35:16
+Og og på den måde, at man kan ligesom kan bruge det i en overordnet planlægning af, hvor skal vi investere i måske lidt mere omfattende vandhåndtering og.
+
+00:35:27
+Den her nedsøgning og hvor vil det ikke betyde så meget for kvaliteten i vandløbene.
+
+00:35:33
+Og Det er Det kan man jo bruge til. Hvordan vil man designe fremtidens byer? Kan vi kan vi kan vi på bedre måde ligesom forudse nogle problemstillinger og kan vi så aktivt?
+
+00:35:50
+Designers ud af det eller måske ligefrem forbedre nogle forhold der der ikke er er gode i forhold i forvejen og og det. Det gælder jo ikke kun nye byer. Der er jo også mange steder hvor man man skal ud og sanere gamle fælles kloak og.
+
+00:36:08
+Lave regnvandshåndtering på grund af klimatilpasning og så videre.
+
+00:36:13
+Og der der vil man også kunne gå ind og se om man kunne optimere systemet nu når man er i gang med at.
+
+00:36:19
+Og renovere på det.
+
+00:36:21
+Så jeg tænker Det er Vores Vores hovedpunkter.
+
+00:36:27
+Så er det tid til spørgsmål.
+
+00:36:29
+Ja 1000 tak, Peter, Nikolaj og og thor for en spændende tik tok, Der er kommet spørgsmål løbende ind i chatten og og i kan selvfølgelig alle tilhørere kan selvfølgelig stadig kan stille spørgsmål i chatten, og hvis vi ikke når alle spørgsmål nu her inden kl. 13:00, så har jeg aftalt med med Peter, thor og og Nikolaj, at de vil svare på alle spørgsmål, så det det skal nok komme med II den video vi lægger ind på DNNKS hjemmeside.
+
+00:36:53
+Det første spørgsmål, Der er kommet, Det er fra Søren, og Jeg tror det, det relaterer sig til din del Peter, for han spørger, Der er vel ikke fordampning af betydning i vinterhalvåret?
+
+00:37:04
+Nej Det er han. Det har jeg jo Søren fuldstændig ret i.
+
+00:37:08
+Vi har jo Sådan et fordampningsbest fordampningsbridge, så fordampning er jo er jo. Det er jo primært om sommeren og selvfølgelig også primært fra de grønne arealer. Så så døende er jo negligcibel om vinteren, selvom at vind godt kan betyde noget.
+
+00:37:26
+1000 tak så er der et spørgsmål for Lasse som som spørger er der regnet på hvilken procent hvis i effekt de forskellige scenarier har på det samlede opland?
+
+00:37:38
+Ja Det er det ligger implicit i beregningerne. Ja, det gør det, fordi Vi har jo kørt mange års tidsserier igennem og Jeg kan ikke. Jeg kan ikke huske om Det er 20 år eller om eller hvad ved vi kørte igennem, men der har vi jo tal for det hele, og så er det jo bare et spørgsmål om hvilke hvilke resultater man er interesseret i at se på, så det det bruger man kunne se Lasse.
+
+00:38:01
+Jeg fik ikke jeg lige trykkede på den forkerte, så Det var et billede i stedet for mikrofonen der kom frem her, men det kører derud af med spørgsmålene Der er lars har et spørgsmål. Han spørger simulerer i også næringsstoffer og MFC til de forskellige receptenter, for eksempel grundvand eller å.
+
+00:38:18
+Det vil jeg gerne svare på.
+
+00:38:20
+Det gør vi ikke i det her tilfælde, men det kunne man godt gøre. Man kunne godt med med med med både de alarmløsninger og de her traditionelle løsninger. Der kunne man godt simulere, hvor meget stof bliver der egentlig ledt ud fra de forskellige løsninger og fra landbrugsarealerne, før man laver byen, så man kunne godt lave Sådan en sammenligning af landbrugsarealer.
+
+00:38:42
+Ny by med lejer ny by med traditionel kloak.
+
+00:38:45
+Og så sige, hvilken forskel er der egentlig på på outputtet både af ernæringsstoffer og miljøfarlige stoffer? Og Jeg vil sige den her summer model. Vi har faktisk brugt den netop til til det i andre sammenhænge.
+
+00:38:59
+Det der skylder vi måske også sige, at Vi er lige i gang med en udviklingsarbejde, hvor vi hvor zumba bliver suppleret med rensninger til alle typer for vandhåndtering, altså regnbeder og bassiner og så videre. Det er vi ved at implementere i zumba nu, så man kan få den del bedre belyst.
+
+00:39:15
+Og mere dynamisk.
+
+00:39:18
+Spændende. Så er der kommet et spørgsmål fra iben, som spørger forudsætter figur plus beregninger af alt vand. Også ekstrem regn håndteres i leganlæggene.
+
+00:39:30
+Nej, det gør det ikke.
+
+00:39:33
+Lar anlæggene er dimineret og såvel som bassinerne til til 5 års hændelser, så Vi har overløb i modellen fra de her anlæg ude i resplinterne.
+
+00:39:45
+Undskyld. Jeg vil bare fortsætte Peter.
+
+00:39:48
+Amen Det var bare. Jeg kan jo ikke se iben i øjnene og høre om Det var svar nok, men så må du jo skrive til mig iben.
+
+00:39:56
+Ja og som ja, og Det er jo altid hvis i vil have uddybet nogle af svarene med videre eller høre mere, så så så kan i jo også se kontaktoplysningerne står på sliden her, som som Peter har har vist. Dorthe har et spørgsmål, hvad med vejsalt?
+
+00:40:12
+Vejsa, Der er jo altid en joker i, og Der er meget, Der er forskellige meninger af det. Vi har ikke modelleret vejsalt i det her.
+
+00:40:21
+Men det kunne man nok godt, men vejsalt er jo altid noget med de skulle diskutere i forhold til når man har.
+
+00:40:27
+Naturbaserede systemer med planter i til at håndtere regnvand.
+
+00:40:32
+Nogen siger, at planterne er en dvale og ikke til skade af det, og nogen siger de tager skade af det, så Det er et godt spørgsmål, og det kræver nok et langt svar.
+
+00:40:41
+Og også en debat, tror jeg.
+
+00:40:45
+Så er der kommet et spørgsmål her, som hedder i har simuleret nedsivning i lerjord, men er der taget stilling til, at nedsivning er meget langsom, og at der sandsynligvis vil ske hyppige overløb på terrænet, eller at lejeanlægget ikke virker optimalt for eksempel oversvømmelser i byen?
+
+00:41:04
+Ja Det kan man godt sige. Der er implicit fordi at Vi har jo eller baseret på de rapporter og undersøgelser Der er lavet både med målinger og deterministiske modeller omkring lerjord kan man sige på årsbasis om hvor meget der kommer ned i jorden, og Det er jo klart at være Sådan, at det vil være om vinteren. Vi vil have de største udfordringer mere nede i cykelboerne, højt vandspejl, hvor hvor grundvandspejlet om sommeren vil en del af nedbøren jo nedslive og Det er jo de der forudsætninger Vi har bygget det ind i modellen.
+
+00:41:33
+Og som den så regnede dynamisk på.
+
+00:41:37
+Det svarer på tiden.
+
+00:41:39
+Jeg kan godt sige at modellen er jo er jo ret grov II sin opsætning og og og derfor hvis man skulle ind mere Sådan lidt mere detaljeret planlægning eller vurdering, så så ville man skulle gå ind og vurdere lidt mere specifikt på nedsættelsesforholdene og så så kunne man optimere modellen ud fra det, ikke?
+
+00:42:01
+Jo.
+
+00:42:03
+1000 tak så er der kommet noget ros og Det kan vi så kun Det kan jeg kun tilslutte mig og iben siger nej sagde jeg går ud fra at at du har svaret på hendes spørgsmål. Det er Sådan Jeg tror det i hvert fald.
+
+00:42:14
+Og så.
+
+00:42:16
+Må i skrive Det er.
+
+00:42:19
+Måske?
+
+00:42:21
+Slutteligt slutteligt her. Hvad hedder det thor? Jeg kunne godt tænke mig lige måske slutteligt høre om du kan kort lige sige hvordan i har hvordan i bruger modellen i jeres arbejde i Aarhus Kommune.
+
+00:42:32
+Jamen altså Det har jo givet os noget ro i maven i forhold til hvordan Vi skal håndtere byudvikling og regnemardshåndtering i forhold til de her små sårbare vandløb, som Vi har mange af i Aarhus Kommune. Vi har jo ikke så mange store vandløb, men Vi har mange rigtig små, og Vi har også eksempler på vandløb rundt omkring i kommunen, hvor vi kan se, at en stor del af oplandet er er befæstet, og hvor Det er vandløb med rigtig fine fysiske forhold. Men hvor miljøtilstanden halter efter.
+
+00:42:56
+Og hvor vi jo så tænker at at det formentlig på grund af byudvikling med traditionelle bassiner, så Det er jo helt klart givet os givet os noget noget noget power til at kunne sige, at Vi skal altså have håndteret vandet på den her måde for at kunne tilgodese vandløbene.
+
+00:43:10
+Og så har det også givet os noget ro i maven i forhold til at kunne sige at at vi Vi skal fokusere Vores kræfter på de små vandløb, altså på den nære rekspibent, fordi Det er jo langt fra alle tilfælde, Vi har mulighed for at lave Sådan en stor model som det her.
+
+00:43:24
+Men, der viste modellen jo netop at nede i hovedløbet af ego. Der skulle der rigtig meget til før vi kunne se en effekt.
+
+00:43:32
+Så Vi skal Vi skal lægge Vores lægge Vores krafter i den her respirent.
+
+00:43:38
+1000 tak for det thor så er der ikke flere spørgsmål man kan sige. I får stadigvæk ros og Jeg har aldrig oplevet at oplægsholderen i også simpelthen har fået at vide i er kloge, så Jeg synes jo det det. Det er jo en rigtig rigtig god godt sted at at at runde af på, så Jeg vil egentlig på vegne af dvel k sige 1000 tak for en for en rigtig, rigtig spændende tiktok og hvad hedder det som altid så kan i finde denne og ældre tik toks på DNKS hjemmeside.
+
+00:44:03
+Og i kan også finde de kommende arrangementer i Vores klimakalender.
+
+00:44:06
+Og sluttelig vil jeg også sige, at hvis nogen af jer kunne selv tænke jer at holde en tiktok fordi hvis i har noget spændende i gerne vil formidle til til netværket her i Danmark. K jamen så tag endelig fat i mig eller en 2 fra Danny k så igen så vil jeg sige 1000 tak Peter Nikolaj og Thorup for en rigtig spændende tiktok og ellers til alle jer andre, så vil jeg sige vi ses derude i en eller 2 sammenhæng enten online eller fysisk, så kan i have en rigtig rigtig god dag.
+

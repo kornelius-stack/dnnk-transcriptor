@@ -1,0 +1,726 @@
+00:00:05
+Kære alle velkommen til dagens tiktok på DNNK mit navn Det er teis roskov Andersen og Jeg er forbi University College sammen med Kristoffer sindby Larsen fra åben Nygaard og Morten handling fra DNAK vil jeg gerne på vegne af DNK byde jer alle sammen. Velkommen til dagens tektop idag vil jes bollersen fra Aalborg Universitet fortælle om hans forskningsresultater i forbindelse med undersøgelserne af rensning af regnvand for mikroplast.
+
+00:00:28
+Og lidt praktisk information inden vi starter, og jeg giver ordet til jess. Selve præsentationen vil bare cirka en 30-35 minutter, hvorefter du vil være cirka 10 minutter til spørgsmål. Og i kan stille jeres spørgsmål løbende igennem hele tiktokken ude i chatten.
+
+00:00:42
+Og så vil jeg sammen med jess gennemgå dem i slutningen af tiktokken, og de vil blive besvaret. Og for god ordens skyld skal jeg informere om at tik toppen bliver optaget og vil ligge på DND ks hjemmeside i løbet af et par dage.
+
+00:00:54
+Og Det var alt, og så vil jeg give ordet til dig jes. Velkommen til.
+
+00:00:58
+Tak hvis vi går nogle år tilbage. Dengang fokus begyndte at komme på mikroplast. Det vil sige tilbage i 2016 17 18.
+
+00:01:07
+Der var der mange, der spurgte sig selv om, hvordan skal man egentlig rense regnvejr mikroblast? Og der blev sat mange projekter i værk til. Og hvad skal vi sige udvikle nye metoder for hvordan man renser regnvand for mikroblast?
+
+00:01:20
+Så i dag vil jeg prøve på at fortælle lidt om, hvordan man Sådan egentlig.
+
+00:01:26
+Kan rense fra regnvand og hvad der egentlig for mikroplast og hvordan hvor effektivt de rense metoder så så er.
+
+00:01:36
+Og Jeg tror altid Det er værd at bemærke, at når man renser regnvand, så renser man ikke kun for en ting. Der er mange, mange, mange mange ting II regnvand som vi jo alle ved senest historien om kobber og udledning til til overfladevandet i forskellige steder. Og ja, så vi kan ikke nøjes med kun at rense fra mikroplast.
+
+00:01:58
+Vi er nødt til at have en teknologi der grænser for alt muligt, inklusive det som vi som fremtiden måtte bringe.
+
+00:02:05
+Og hvad har vi så egentlig af af teknologier på banen? Vi har jo mange forskellige teknologier og af teknologier til rensning af regnvand.
+
+00:02:16
+Når vi tænker på på på regnvand, så er det værd at bemærke at at hovedparten af stof i regnvand er partikulært, og hvis man altså fjerner det partikulære stof, så fjerner man også en stor del af forureningen. Og Det er selvfølgelig også måske lidt logik for burhøns, men værd at bemærke at mikroplast er partiklært.
+
+00:02:37
+Der fjernes i øvrigt også noget afhænger af opløst stof afhængig af stoffets natur. Så kan man gå ind og ramme ordne de forskellige rensemetoder afhængig af af hvad nu, hvad nu de kan, og hvad nu det ikke kan men men men hvis vi nu.
+
+00:02:53
+Kigger på hvad Det er for nogle grundlæggende kategorier. Sådan nogle rensemetoder falder i jamen, så er det jo igen samme årsag. De løsninger, der fungerer på bundfældningen, for eksempel dem for eksempel regnessbassiner, kan også være andre teknikker.
+
+00:03:07
+Men for eksempel våde regnvandsbassiner og så dem, der fungerer. Filtrering, for eksempel et et sandfiltre, eller hvad det nu måtte være. Og så er der også en en meget sjælden brugt afart, nemlig dem der fungerer kemisk fæltning eller subjektion, men Det er de 2 første løsninger, der fungerer ved bundfældning og løsninger, der fungerer.
+
+00:03:25
+Filtrering Der er det mest anvendte i dag, og Det er også dem, Jeg vil fokusere på med resultater her II det her indlæg.
+
+00:03:35
+Så hvis vi nu ser på de gode gamle regnvandsbassiner.
+
+00:03:40
+Hvis ellers man husker at anlægge dem rigtigt.
+
+00:03:44
+Så har de ganske god renseffekt, og de er Sådan relativt set billige at anlægge og drive. Der er sikkert nogen der vil brokke sig over og sige de er ikke så billige at drive igen, men i forhold til så mange andre løsninger, så er det her trods alt relativt billigt at drive og.
+
+00:04:04
+De har gennem mange mange år siden halvfjerdserne faktisk været været vist og været ret effektive overfor dem.
+
+00:04:11
+En stor række forureninger, metal og fosfor og Sådan nogle ting.
+
+00:04:18
+Men hvad som er mikroplast?
+
+00:04:20
+Ja det første studie vi og med vi så kan man både mene både sige mit laboratorium, men også verden i øvrigt.
+
+00:04:30
+Lavet på det her. Det var i 2018, hvor vi kiggede på et et bassin II wilkeby Viborg, og Det var et. Det er et relativt gammelt bassin.
+
+00:04:41
+Det er på 107 m3 reduceret hektarer. Det vil sige lidt< det vi normalt ville ville lave dem i dag.
+
+00:04:48
+I dag der sættet var mig et beskedent, og vi var ikke særlig gode til at måle plast på det tidspunkt. Det var noget af det første vi gjorde og så, men det vi kom frem til på det tidspunkt som et groft overslag. Det var, at vi havde en renseffektivitet for mikroplast i det her bassin på måske en 85% agtigt.
+
+00:05:11
+Det var meget Sådan i nærheden af, hvad man ville forvente at få suspenderet stof i øvrigt.
+
+00:05:19
+Siden har vi så kigget noget mere på de her på de her bassiner og.
+
+00:05:26
+Målt på både på hvad Der er i vandet og hvad Der er i silmenterne af bassinerne. Det gjorde vi tilbage II 2019 agtigt, og hvis man går ind og kigger på, hvad vi finder. Det er nok lidt nemmere at relatere sig til masserne.
+
+00:05:40
+Mikrogram per kubikmeter i vandet. Det vil sige, Det var et nana gram per liter, vi snakker om her. Ikke også altså.
+
+00:05:46
+Så så så så ligger vi der i måske mellem 100 og og årtusinde mikrogram per per kubikmeter. Det er værd at bemærke at de her data ikke indeholder ikke partikler fra bildæk fordi det analyseres med en 2 analysemetode end end al 2 plastik, men så så Det er alene du ved Sådan polyproblemet og polytylen og alle de der ting og sager.
+
+00:06:14
+Hvis vi så kigger på hvad der var II cementet i de samme bassiner, så kan vi se, hvis vi nu fokuserer lidt på på på den her figur ude til højre og den der hedder. Se her masse koncentration der står der der står mikrogram per kilogram, og der ligger vi måske op på 1000 mikrogram per kilogram. Det vil sige 1 mg per kilogram.
+
+00:06:35
+Det vil sige en en del ud af en million.
+
+00:06:39
+I sitamentet her i de her bassiner. Det var det. Det var plastik igen.
+
+00:06:44
+Uden bildæk skal jeg lige huskes på mærket her, så Det er kun de her polyfilen, polystyren og hvad de ellers alle sammen hedder plastiktiktyper.
+
+00:06:54
+Hvis vi så kiggede lidt på på, hvor effektive bassinerne så generelt var tilbageholdende, så så det ud som om, at jo større bassinet var i forhold til belastningen, jo mere effektiv var det man skal passe meget meget på med at overfortolke de her data, fordi i virkeligheden er det kun et enkelt punkt der trækker og der trækker trækker grafen op her, men det tydede der trods alt på at Det var lidt at Det var lidt i den retning at at at det fungerede.
+
+00:07:21
+Hvilket jo giver god mening i øvrigt, jo større bassinet er, jo mere kan det tilbageholdende.
+
+00:07:29
+Nå men hvad så med citymenterne igen det her? Det er cd fra et fra et regnvandsbassin i Aarhus ved ved Brabrand ned tæt på Brabrand sø.
+
+00:07:42
+Og Det er veldimensioneret, fordi Det har jeg dimensioneret i tidernes morgen, så der skal ikke komme nogen her og sige, at det ikke er veldimensioneret.
+
+00:07:50
+Men der var vi så ude her en 10 år efter at Det var dimensioneret og tog en masse forskellige cementprøver og Det er de resultater man ser herude til højre.
+
+00:08:01
+Der står her bøjlen, polymerison non boyen polymers det vil sige boyen polymeris. Det betyder de partikler, der egentlig burde flyde det her polititalene polyproblem.
+
+00:08:10
+Og så alle de andre dem der burde synke til bunds PVC for eksempel altså som er men men i sit finder vi alle slags alle slags plast også dem der man egentlig skulle synes skulle flyde på vandoverfladen. Det kommer vi tilbage til, men hvad jeg egentlig vil med den her figur nu her. Det er at vise, at når man tager prøver i cement i Sådan et bassin her, som er på 5500 m2.
+
+00:08:33
+Så er Det er det man kan ikke bare tage ud og tage en enkelt prøve, og så tror man man har et tal.
+
+00:08:39
+Fordi Der er meget, meget stor vej for forskel så den her l 5 og den her l 6 Det var dem der havde de største indbyrdes forskelle, så der var cirka en faktor faktor 100 mellem mellem højest laveste koncentration og der var ikke nogen systematik i hvor der var høje konstruktioner hvor der var lave konstruktioner, så det det det skal man nok holde for øje, hvis man vil prøve tage, og det gælder i øvrigt også andre stoffer end end end plast. Man kan ikke bare tage en klap citiment og så tro man har tal.
+
+00:09:06
+Så har man et tilfældigt tal i stedet for 1 1 1 koncentration i Sådan et bassin.
+
+00:09:13
+Men nå tilbage til hvorfor? Hvorfor vi egentlig finder partikler i cementet som flyder ovenpå som burde flyde ovenpå. Altså polypropylen burde flyde ovenpå.
+
+00:09:22
+Det er lidt lettere end vand, men hvis man går ind og kigger på hvordan det bevæger sig i vandet det her. Det er en CFD modellering compil Dynamics modellering, så kan man se at at.
+
+00:09:35
+Vandet jo på et tidspunkt rammer væggene i bassinet, altså bunden i bassinet, og så er der en vis sandsynlighed for, at når en partikel rammer en rammer bunden, at så klistrer den til til bunden og bliver hængende der og det. Det er derfor at at de her i gåseøjne lettere end vand partikler faktisk i gåseøjne synker til bunds eller blev hængende i setamentet.
+
+00:10:00
+Nå, men Det var jo egentlig ikke det vi skulle. Vi skal jo snakke lidt om hvor hvor hvor godt Sådan et bassin egentlig renser.
+
+00:10:07
+Ja, hvordan kan man egentlig måle det? Jo, er det ikke bare indlysende som jeg skriver her på sliden man kan vel man kan vel bare måle indløbet, og så måle udløbet og så regne det ud. Det skulle vel ikke være så svært?
+
+00:10:23
+Ja jo Det er altså meget, meget, meget meget bøvlet at at at måle indløbet fordi man kan ikke bare måle en regnhændelse i indløbet en regnhændelse, udløbet og så tro man man man får tal.
+
+00:10:35
+Fordi Der er meget stor rebilitet indløbet, der også var labilitet i udløbet, og i øvrigt så vil indløbet, hvis man måler sammenhængende værdier, indløb og udløb, så måler man ikke på den samme hændelse, fordi Der er opholdstider på måske 14 dage inde i bassinet, så så så så det virker ikke, så man er nødt til at måle over måske sammenhængende et års tid.
+
+00:11:00
+Kontinuerlig måling for at kunne for at kunne bruge indløbsmålinger udløbsmålinger til at finde ud af, hvor meget der egentlig bliver tilbage.
+
+00:11:08
+Det gælder alle slags stoffer og det her. Det er så eksempel på zink.
+
+00:11:15
+Så.
+
+00:11:17
+Ja Det var lige det jeg stod og snakkede lidt om før her. Man skal altså måle meget lang tid.
+
+00:11:23
+Og og i bund og grund, så kan man godt gøre det, og Vi har gjort det, Vi har bygget. Vi har.
+
+00:11:30
+4 anlæg i Danmark, hvor vi kan gøre det her men men Det har altså krævet, at vi byggede installationer, ligesom det i siger ned til højre, og Det er fra fra Silkeborg et bassin i Silkeborg, som Vi har målt på, så Det er altså ikke Sådan noget, man bare lige gør man skal. Man skal have det store muldvarpeskind frem.
+
+00:11:46
+For for at lave den slags undersøgelser.
+
+00:11:49
+Så vi vil gerne have en genvej.
+
+00:11:53
+Vi kan jo måle, hvor meget Der er i centimentet.
+
+00:11:56
+Mikro plads til det her tilfælde, og så kan vi jo også relativt nemt måle eller relativt i hvert fald nogenlunde nemt måle, hvor meget mikroplast Der er i vandet under tørvejr.
+
+00:12:06
+Og.
+
+00:12:09
+Så kan vi antage at det vand, der løber ud under en regnhændelse, har samme koncentration som vandet under tørvejr. Det er en ganske rimelig antagelse, fordi de typiske regnhagelser små og skubber egentlig bare noget af det, der tørværs.
+
+00:12:26
+Det der gamle tørvejr vand ud i den 2 ende så så så specielt for de små måske op til mellemstore hændelser er det en ganske fornuftig antagelse og langt, langt langt. Det meste vand kommer under den slags den slags hændelser.
+
+00:12:40
+Så kan vi jo estimere hvor meget vand der løber til bassinet, og så kan vi regne ud, hvor meget Vi har tilbageholdt. Det gjorde vi i et i et studie, som Vi har afsluttet for nyligt, hvor vi kiggede på 4 bassiner et lille vig Hedensted, Mariager Odense, hvor vi målte indløbsvandføringen i en periode og brugte til til at bestemme det. Det tilkoblede reduceret real.
+
+00:13:05
+Og så beregnede vi ud fra det og fra de respektive rainserieindløs vandføringen over hele bassinens levetid, hvis vi gør det.
+
+00:13:15
+Hvis vi gør det, så så.
+
+00:13:18
+Har vi så de her de her bassindata som stor kedelig tabel her, der egentlig bare viser hvor hvor store bassiner der være er der synes jeg Det er værd at bemærke, at vi altså havde bassiner med her. Rangerende fra sølle 27 m2 overflade per reduceret hektar.
+
+00:13:34
+Til 1000 m2 overflade reduceret hektar, så vi havde meget stor spektrum af af af bassinet af bassinet typer med. Der er forskellige bemærkninger til de her bassiner. Man skal altid huske på at at en bassiner er ikke et bassin, som ikke er et bassin vel.
+
+00:13:50
+De er alle sammen forskellige i Lemvig. Der har man valgt at lave et todelt bassin og som er et forbass seng og et hovedbassin for eksempel.
+
+00:13:58
+Hvilket er vældig fint.
+
+00:14:01
+Og i Mariager der var det Sådan lidt en sjov sag der Mariager. Det er det der med ganske ganske lille bassin.
+
+00:14:07
+Det var voldsomt belastet. Det var meget tilslammet, så der var Sådan set måske kun 20 cm vand og som i kan se på billedet så så så er der rigtig rigtig meget plads i den her og Det er fordi der var tilkoblet en eller Der er tilkoblet en plastgenvindings fabrik.
+
+00:14:23
+Til det her bassin, som på det tidspunkt ikke havde styr på deres udledning. I dag har de styr på udledningen. De har også været en del af den her undersøgelse, så så så de er gamle tidersønner.
+
+00:14:34
+Hvad gjorde vi? Jamen, vi gik ud, og så målte vi vandfasen over en periode på 2 måneder, hvor vi udtog prøver på 1 m3 vand hver gang 3 gange og antog som sagt at en løbet udløbet fra bassinet er lig med koncentration under tørvejr.
+
+00:14:54
+Og så beregnede vi jo ud fra en simpel gang sammen tilgang. Hvor meget?
+
+00:15:00
+Masse Der er IIII udløbet.
+
+00:15:08
+Så tog vi prøver at sætte dementet, og det gjorde vi at tage et antal nedstik rundt omkring i centimet og så fordele Vores cementets bund, så blande dem og så analysere på, hvad der var i citementerne, hvis vi gør det.
+
+00:15:23
+Så find finder vi, at Vi har havde fjernelsesgrader uden bilt gummi på de her data nu her på omkring 85-95 procents tilbageholdelse.
+
+00:15:35
+I de her almindelige våde rammesbassiner selv det her sølle lille bassin i Mariager, der der næsten ikke havde noget, havde noget volumen. Det var stadigvæk effektivt til tilbageholdende tilbageholdende plasten.
+
+00:15:50
+Specielt de her maja bassin. Det er lidt usikkert nu her selvfølgelig fordi fordi Det har den der specielle industribelastning så så så så.
+
+00:15:59
+Men men stadigvæk relativt ganske, ganske pæne tilbageelsesgrader. Kigger vi så på bildækgummi jamen så ser det Sådan set endnu bedre ud, hvor vi ganske enkelt ikke kunne måle noget i udløbet på de tre bassiner. Det var kun på det mindste bassinerne, hvor vi kunne måle noget i udløbet, så der kommer vi op på en fjernelsesgrad på 100% eller det vil sige.
+
+00:16:19
+Selvfølgelig er den aldrig helt helt ikke 100 men men så tæt på 100, som vi nu kan måle.
+
+00:16:25
+Og det skyldes sandsynligvis, at de her bildækgummipartikler er relativt store og relativt tunge. De er omkring 50 mikrometer i størrelse, og så er de Sådan sammenklistrede med noget asfalt og med noget støv og Sådan noget der så de har en ret høj identitet måske 1,5 1,6 helt omkring, så så de bundfælder relativt perfekt.
+
+00:16:49
+Hvad så med de store stykker plads til? Jamen de bliver også tilbageholdt relativt effektivt, så alle de stykker plast vi kiggede på alle de plast delte plads vi kiggede på, blev tilbageholdt ganske effektivt. II de her bassiner.
+
+00:17:01
+Hvis vi så lige kigger på igen. Jeg går tilbage til, kigger lidt på mekanismerne, som Jeg synes er lidt spændende. Altså dem der egentlig burde flyde, altså politilene polypropylen.
+
+00:17:14
+Hvor meget blev egentlig tilbageholdt af dem?
+
+00:17:16
+Det vil sige altså fjerntidsgraden, når man kun kigger på dem der flyder er lidt dårligere end end end end hvis man kigger på dem der burde synke. Det vil sige dem der burde flyde Det er Det er de røde her med røde kasser dem der burde synke. Det er den grønne kasse.
+
+00:17:32
+Ikke også kan du se Det er ikke helt så godt men men men så ringe er det jo altså heller ikke så så så selvom selvom de egentlig burde flyde ovenpå, så ender de faktisk i sitamentet.
+
+00:17:42
+Hvorfor gør de så det? Altså? Jeg er jo hydrauliker.
+
+00:17:46
+Jeg er jo af hjertet hydrauliker, som så har lært mig noget biologi og kemi undervejs i historien.
+
+00:17:53
+Og.
+
+00:17:55
+Jeg mener, at Det er ret indlysende, at Det er fordi at de her bassiner de er turbelente Der er vand og turbulent og den så så så så partiklerne bevæger sig med strømningen, strømningerne II vandet og så af og til så rammer Sådan en her partikel den rammer bunden og så klistrer den på bunden.
+
+00:18:13
+Og Det er såmænd også noget, Vi har målt på, hvor hurtige de partikler egentlig bevæger sig og så videre. Det skal vi ikke ind på nu her, men men det her, det, det det. Det er ikke kun.
+
+00:18:23
+Det er ikke kun, hvad skal vi sige en antagelse. Det er også noget vi, vi rent faktisk har vist, at Det har noget med turbulens at gøre.
+
+00:18:32
+Igen, hvis vi lige kigger lidt på på på på det her med hvad der burde flyde og hvad der ikke burde flyde så kan man så kan man så kan man så kan man se at det her Det er størrelsesfordelingen eller bedre sagt ikke størrelsesfordelingerne. Det er bundfældningshastigheden, hvis ellers partiklen havde stået II en spand man ikke rotte rundt i, altså i laminært flow.
+
+00:18:55
+Så kan man sige at at at partiklerne i vandet har en lidt større tendens til at til at ville flyde end dem i segmentet, og Det kan man også finde ud af, når man så kigger på på på hvad man så finder. III vandet versuset det her Det er mikroplast og Det er inklusiv bildæk den øverste Det er bildæk i vandet. Der finder man primært polypropil.
+
+00:19:20
+In Der er de flydende plasttyper.
+
+00:19:23
+Og stort set ikke noget af noget som helst andet, men sit setementet der finder man dem alle sammen og og og også rigtig meget bildæk.
+
+00:19:34
+Hvis vi så lige kaster os over den den 2 sæt løsninger som som som kan bruges i det her sammenhæng. Det er løsninger der fungerer ved filtrering.
+
+00:19:44
+Det vil sige for eksempel infiltrationsanlægs anlæg og Sådan nogle ting og sager.
+
+00:19:51
+Filtersystemer de er jo. Det er ligesom et kaffefilter generelt ret effektivt til at fjerne partikler, og det sker ved at ved at partiklerne sætter sig fast i jorden. Og typisk så sker der det, at hvis vi ser på fotografiet herovre for eksempel, at der ligger sig altid noget i toppen.
+
+00:20:10
+Det er jo fordi Det er de små fine partikler, der kommer med regnvand ned og de klistrer sig så oppe i toppen. Det her Det er et billede fra 1 1 1 regnbed IUSA.
+
+00:20:19
+Men Det er jeg Sådan set lidt lige meget, men Det kan tydeligt se at at der sætter sig en hel masse snask op i toppen, og så kommer partiklerne i en lidt ret meget længere ned.
+
+00:20:29
+Det betyder i øvrigt også, at hvis man har noget et nedsivsbassin, så er den hydrauliske ledningsevne i bassinet ender med at blive styret af det her klisterlag her. Det er konventionslag og ikke så meget den underliggende stævnerliggende sand det. Det er så også en sidebemærkning, Der er værd at tage med, når man overvejer at dimensionere den slags systemer.
+
+00:20:49
+Et eksempel på løsninger, der fungerer ved filtrering. Det er perimabel asfalt. Det er noget, Vi har kigget på i nogen detalje her for nylig permabel asfalt, hvor man hvor hvor man har et permalt snyd slidlag, et permabel bærerlag og så et en permabel underbund.
+
+00:21:07
+Som så kan bruges også til både rense og forsinke regnvandet, så kan man så enten opsamle det og lede det til til til overfladevand eller man kan lade det sive til grundvand.
+
+00:21:18
+Det gjorde vi ved at.
+
+00:21:20
+Samarbejde mens c.
+
+00:21:23
+Hvor de hvor de så var ude at støvsuge de her de her bemable belægninger, Sådan snit en gang om året. Og så fik vi så, så fik vi så en en spandfuld, havde jeg nær sagt, så kørte de så et læs af det her over til over til os, og så havde vi Sådan den her bitte bitte opsamlingsbeholder, så vi fik Sådan et lillebitte prøve ind her, som vi så skulle analysere på, da jeg lidt> vi normalt plejer at rende rundt med laboratoriet. Men Sådan er det jo når man arbejder med virkelige systemer.
+
+00:21:51
+Og Det er en meget meget træls tabel det her. Det er jeg godt klar over. Det første jeg godt vil kan lige have jer til at kaste et blik på Det er det tal der står her.
+
+00:22:00
+Det er bildækpart partikler i milligram per kilogram. Det vil sige 2,8 g per kilogram. Det vil sige Det er 0,29% af alt altstøvvet.
+
+00:22:14
+Det var bildæk i den her prøve her de andre de andre var lidt mindre.
+
+00:22:17
+Og Det er Det er så Det er så noget, der viser, hvor meget vi egentlig tilbageholdte i den i den her asfalt, så der blev faktisk tilbageholdt relativt meget. Hvor stor en rensegrad det tør vi ikke sige, fordi Vi har ikke. Vi har ikke hvad der egentlig løb igennem, men Jeg er ret sikker på, at Der er formentlig er stort set alt blevet tilbageholdt, om ikke i selve asfalten, så i de i de.
+
+00:22:42
+Underliggende lag.
+
+00:22:46
+Et andet system, som som vi byggede Det er en helt 2 tankegang. Det er et regnvandsbassin efterfulgt af et filterbassin som blev bygget eller sagde vi det vil sige? Motor Vejdirektoratet betalte, og Det er vi altid glade for.
+
+00:23:03
+Og.
+
+00:23:04
+2 forsøgsanlæg på på motorvejen fra Aarhus til Silkeborg, og hvor Der er hvor regnvandsbassin først. Og så er der filter her og så er der hvor regnvandsbassin og så er der filter her.
+
+00:23:19
+De her bassiner de var designet, og Det er jo en 12 15 år siden vi designede dem og oprindeligt de første de første tiltag til det de er bygget op med et lag af filter sand blandet med sphagnum og de er for guds skyld ikke blandet med med hvad hedder det med kompost, fordi hvis man hvis man blander kompost i, så får man så mange problemer og Det har ikke været nok.
+
+00:23:44
+Så Det har jeg prøvet nemlig så så.
+
+00:23:47
+Så lad nu lade være med det, hvis vi vil blande Sådan noget her, så blande noget uomsættelige organisk stof i for eksempel spagnum og så nedenunder specielt det nordlige bassin Sådan Det er Sådan nok Sådan Jeg vil bygge dem i dag der ligger der kanksten og så drænlag ned i bunden, så vandet løber ind filteret igennem det her sand sphagnum lag ned II kalkfilteret her og så og så bliver det drænet ud i bunden.
+
+00:24:13
+De her bassiner de var dimensionerede til en meget stor kapacitet. De første filtersystemer jeg byggede. Det var i tilbage i nullerne i et life trashup projekt i det det det floppede fuldstændigt, fordi det klokkede til stort set da nul så den her gang, så byggede jeg dem stor nok til, at jeg var sikker på det gik godt.
+
+00:24:32
+Så så hvis Det er noget, så er de her, så er det her anlæg altså lidt overdimensioneret, men Det er dimensioneret således at.
+
+00:24:41
+Der er sgu kapacitet nok til de næste 50 eller 100 år i det her system.
+
+00:24:46
+Filtersystemet lås pby nord som sagt indløb, hvor drimas bassin filter udløb.
+
+00:24:54
+Der tog vi så prøver i cementet. Vi tog prøver i det, forrensede vand. Vi tog prøver II filtersystemet og vi tog prøver i udløbet for at se hvor effektivt de her de her de her de her bassiner nu var og II det her vejvansbassin der fandt vi II set.
+
+00:25:17
+Omkring 390 mikrogram per gram. Det vil sige 0,39 mg per gram. Det vil sige 0,0.
+
+00:25:24
+4% af alle sit her. Det var plast II udløbet der var der. Der var der ret ret små koncentrationer altså 17 nanogram pelitter III det forrensende vand.
+
+00:25:40
+Hvis vi så går ind og kigger på hvad rensegraden var beregnet på samme vis som som som det jeg snakkede om tidligere for de 4 bassiner, så var vi oppe på 99,1 eller andet procent i bassinet alene. Det vil sige Det var ganske, ganske ganske, ganske effektivt.
+
+00:25:56
+Og, der blev også opsamlet en hel del.
+
+00:26:00
+Plast omkring 9 kg per år III det i det nordlige parsering som som servicerede som servicerer omkring 1,8 per hektar reduceret hektar reelt.
+
+00:26:16
+Nå nej, 1,5 hektar sidder der reelt.
+
+00:26:21
+Og og ja, Det er Sådan set lidt det samme. Det er bare med med antal partikler i stedet for.
+
+00:26:28
+Blandt andet, hvis vi kigger på bildæk, så også igen, så så så har vi så har vi så har vi 1 1 1 ganske høj tilbageholdelse også her og Det er primært bildækspartikler og Det kan jo vel ikke komme bag på nogen fordi Det er yvandsbassin. Det er primært bildæk partikler man finder i ganske, ganske ganske høj kostationer set i forhold til mange andre systemer.
+
+00:26:52
+Men som sagt udløbsstruationerne er ganske lave.
+
+00:26:56
+For så med selve filtret.
+
+00:27:00
+Jo, men Det er bestøder som sagt at sand-tørrv kan ikke se en drænsand, og det prøvede vi på under forskellige forhold. Vi stresstede det vil sige vi. Vi stuvede vandet op II bassinet her under regn, og så når det så var tørvejr og solen skinnede, så tog vi.
+
+00:27:15
+Så tog vi ud og så åbnede vi på spjældet, så det væltede vand ind på det her. Så vi så vi ligesom fik nu fik den Sådan en på sin adustusen og så måtte vi så udløbet. Vi målte også i udløb under almindelig drift.
+
+00:27:27
+Men men men, men det her var simpelthen for at vise hvad sker der, hvis i virkelig stresser det her system.
+
+00:27:34
+Og det viste at at at at indholdet af bildækgummi typisk var 21 mikrogram per kubikmeter i udløbet. Det vil sige 21 nandogram per liter. Det var relativt lave koncentrationer og og og.
+
+00:27:51
+Under normal rift der kunne vi slet ikke måle noget som helst.
+
+00:27:55
+Så så så det her filter. Det var i stand til at at stort set fjerne.
+
+00:28:03
+Den resterende ganske, ganske ganske lille konstruktion. Der var altså så så, men man skal huske på at når man sætter et filter efter for drømmesbassin, så går man altså fra at komme fra 99,9% eller måske 99,99% til at få de sidste 0,1 eller andet procent procent mad. Så det skal man altså lige overveje om om det nu er pengene værd om jeg så må sige.
+
+00:28:26
+Nå tilbage til til det gode spørgsmål, kan vi så fjerne mikroplast for regnvand? Ja, Det kan vi. Og vi kan faktisk gøre det med de metoder, Vi er vant til at bruge, og som vi bruger til II dagligdagen til at rense Vores Vores regnvand.
+
+00:28:43
+Det synes jeg selv er 1 1 1 1 1 ganske ganske god historie som som Jeg synes jeg godt vil Sådan.
+
+00:28:51
+Fremhæve lidt ikke også altså Vi skal ikke bygge et eller andet specielt.
+
+00:28:55
+For at fjerne en mikroplast, vi kan fjerne dem med de gode velkendte teknologier. Vi har for eksempel dem jeg nævnte. Der kan selvfølgelig også være andre teknologier.
+
+00:29:05
+Noget af det, jeg sparede, jeg får i den her indlæg. Det er noget af det, som jeg ellers elsker at snakke om. Det er analysemetoder og Sådan nogle ting og sager det her, de er bare billedet.
+
+00:29:16
+Det er bare for at vise at at Det er ret langhåret at analysere for alt det her.
+
+00:29:20
+Og så lave lidt reklame for mit lap.
+
+00:29:23
+Men som sagt, det ville jeg ikke belemre jer med lige nu her. Yes Det var hvad jeg havde at sige.
+
+00:29:32
+1000 tak Jesper for en rigtig spændende tiktok som sagt i er alle sammen meget velkommen til at stille spørgsmål til jess ude i chatten og så så besvare dem, så besvarer vi dem og Jeg kan se Nikolaj har allerede skrevne spørgsmål, så vi starter med hans spørgsmål og han spørger, kan man sige at besingens udformning derved påvirker renseffekten, for burde få flydende partikler danne snot udformning ved øge chancen for at de klistrer sig fast og bundfalder?
+
+00:30:01
+Ja det vil jeg mene det Jeg vil mene jeg mener at Der er meget at hente II hvordan man udformer bassiner.
+
+00:30:09
+Og i forhold til at til at forbedre deres deres deres renseevne. Vi ved ikke så meget om det. Vi har ikke arbejdet ret meget med at optimere udformningen, men men men men principielt set ja.
+
+00:30:23
+Og så har jeg lige et spørgsmål, mens mens andre begynder at skrive her, du nævnte det der, hvad skal man sige klisterlaget, hvis man kan sige det på den måde? Har du nogen erfaringer for hvad hvilken type materiale man kunne lægge ned II bunden af at bassinet for ligesom at hvad skal man sige og og dyrke at man får et så godt klisterlag som muligt?
+
+00:30:42
+Nej Jeg tror Det er lidt lige meget for det klisterlage Det er Det er snas der kommer med regnvandet, så der lægger sig jo måske en 2 eller en halv en 2 cm snask centiment i bunden af regnvandet per år og det det Det er det lag som som som som forurening i regnvandet mikroplast Det er det tilfælde seer så så om om der ligger det ene eller det andet i bunden det tror jeg ikke er så afgørende.
+
+00:31:10
+Tak og så Anders han. Han spørger interessant observation af bassinet i Lemvig med forbassin havde dårligere rensegrad end de øvrige beasslinger. Kommentarer til det.
+
+00:31:21
+Nej egentlig egentlig egentlig ikke. Jeg tror man, man skal lade være med at se. Hvad skal vi sige decimalerne i de her undersøgelser, fordi Det er generelt vanskeligt at måle at prøve tage dem her?
+
+00:31:36
+Så om der nu står 85 eller 90% det det skal man ikke nødvendigvis sige at Det er Det er det Der er en forskel.
+
+00:31:47
+Super og nu vælger det egentlig med spørgsmål, så Det er jo dejligt Jacob. Han spørger, kan man etablere en form for barriere et par meter for indløb i bissin, således at størstedelen af plastpartiklerne sætter sig lokalt i klisterlaget?
+
+00:32:03
+Igen igen. Så så altså man man skal jo undgå kortslutningsstrømme for eksempel så så man skal jo på en eller 2 måde sikre sig at at vandet ikke bare lige hæser af sted på overfladen. Freden løber til udløbet ikke også og det.
+
+00:32:17
+Det er Sådan lidt lidt et lidt i den retning, og så skal man nok også sørge for, at hvis man har 1 1 1 højt aflystal, altså hvis man har en stor tilladelige udløbsanføring, så så kan overløbskant.
+
+00:32:28
+Hastigheden.
+
+00:32:30
+Blive så stor. Det river cement med sig ud, så så Det er mere de her almindelige, de her almindelige tanker omkring. Hvordan sikrer man at at at man får en en ordentlig?
+
+00:32:42
+Hvad skal vi sige vandfordeling og undgå kortslutninger?
+
+00:32:48
+Ja og så ida Marie hun spørger, er der mål for andre stoffer går ud fra det i relation til regnvandsbassinerne og filterbassinerne II de analyser eller har i kun fokuseret?
+
+00:32:58
+På, hvad hedder det?
+
+00:32:59
+Mikroplast i de bassiner du viste.
+
+00:33:02
+De bassiner i de her konkrete bassiner har vi kun set på mikroblast.
+
+00:33:07
+Så så når du når du siger yes at du egentlig regner med at de bassiner der nu, hvad skal man sige bygget de? De håndterer også de andre typer af. Hvad skal man sige oprensningsmetodikker som som som de nu originalt var designet til, så så det at vi i har vist at de også kan rense fra mikroplast er mere end atterne til til de eksisterende funktionalitet.
+
+00:33:26
+Ja ja Det kan du godt sige altså vi ved jo Sådan cirka indenfor en træsko. Jeg kan lige slippe nogle tal ud, fordi så bliver sikkert taget til indtægt for dem.
+
+00:33:35
+Kan tilbageholdes så og så meget af hvad der kommer ind.
+
+00:33:38
+Kobber zink og Sådan nogle ting og sager ikke også og og og.
+
+00:33:43
+Suspenderet stof og hvad ved jeg og og det her. Det viser ikke bare at udover det, så er de faktisk også særdeles effektive til at tilbageholde tilbageholdende mikroplast.
+
+00:33:55
+Så så jamen altså. Jeg plejer jo at sige at hvis man dimionerer et et vådt bassin på med 200-250 m3 reduceret hektarer.
+
+00:34:04
+Per reduceret hektar, så kan det ikke betale sig at lave det større og og og Der er i hvert fald heller ikke nogen grund til at lave det større af hensyn til plast.
+
+00:34:14
+Og så kan jeg se ida. Hun har lige et suppleringsspørgsmål og Det er hvordan er ledningsevnen i dag?
+
+00:34:21
+Du mener i filteret og Jeg har Det har det. Har det rigtig godt fordi som sagt Det er voldsomt overdimensioneret med 200 m2 per reduceret hektar 200 m2 filter overflade per reduceret hektar simpelthen fordi det første system er lavet. Det var voldsom underdimensionelt og jeg skulle ikke risikere at kvaje mig igen.
+
+00:34:38
+Så så den har det udmærket. Det var godt så der der det skulle ikke hedde sig. Nej lige nøjagtigt Vejdirektoratet der betales det gik nok.
+
+00:34:47
+Og lauritz har et spørgsmål. Han spørger, hvordan klarede i prøvetagningen i vejdirektoratets bassiner under hensyntagen til det uregelmæssige cementationsmønster.
+
+00:34:55
+Vi byggede et indløbsbygværket udbygværker placeret permanent mål, prøvetalningsudstyr og flåmulstyr.
+
+00:35:04
+Men Det var dejligt konkret så Nicolai han har et spørgsmål, har i lavet nogle undersøgelser på fællessystemer og hvor meget mikroplast der udledes?
+
+00:35:12
+Fra overløb nej men, men Vi har lavet mange undersøgelser på spildevand.
+
+00:35:18
+Så så så altså et almindelig kommunalt renseanlæg. Det ligger jo på også igen tilbageholdende 99, procent mikroplast. Men Det er selvfølgelig klart, at når Der er, når Der er overløb, så løber der la kan der løbe relativt høje koncentrationer ud med overløbet.
+
+00:35:37
+Så så, men Vi har ikke. Vi har ikke konkret målt på det, fordi altså en ekstra detalje her er jo klokselementerne og hvordan må du komme med kloakselementerne og de vil blive remobaliseret.
+
+00:35:48
+Under regnhals og Sådan noget, så de er jo selvfølgelig ikke. Man kan ikke bare tage spildevandsandelen og så gange på, men Vi har ikke målt på det Der er. Der er heller ikke nogen andre i verden, Der er målt på det.
+
+00:35:59
+Jamen så ligger der jo et projekt der og venter kan kan jeg næsten regne ud.
+
+00:36:02
+Ja, men Der er noget finansiering, så er vi altid med på den værste.
+
+00:36:06
+Så Mathias har et spørgsmål der går har i lavet undersøgelser på infiltrationsbassiner med mindre våde forbassiner. Generelt vil det være vanskeligt at overbevise nogen om, at det giver mening at etablere 2 bassiner, mens et med et forbassin er mere rimeligt.
+
+00:36:22
+Enig grunden til at vi lavede, som vi gjorde på på på Vejdirektoratet. Det var fordi motorvejen, Det var fordi Vejdirektoratet havde en politik om, at hvis nu det viste sig at det der fantastiske filtanlæg som jeg påstod fungerede perfekt, hvis det nu bare var en total skvarie og ikke virkede, så skulle ville de stadigvæk have et traditionelt regnskabsbassin ud udformet efter deres almindelige regler, så de bare kunne bypassere. Det var derfor vi lavede det så stort.
+
+00:36:47
+Jeg mener ikke det nødvendigvis Det er nødvendigt at lave det så stort.
+
+00:36:50
+Men, Vi har ikke målt på det.
+
+00:36:54
+Så Der er endnu endnu et projekt, der lå der og ventede.
+
+00:36:56
+Ja ja der må være flere ja.
+
+00:37:00
+Så er der ikke lige flere spørgsmål for for for tilhørerne men igen i skal bare skrive løs. Men så har jeg et par par et par spørgsmål jes du du nævnte i forbindelse med jeres 4 bassiner der der har i jo selvfølgelig målt hvad skal man sige? Lad os sige hverdagsregn op til til medium, medium regn kan du give sætte nogle ord og kommentarer på når i nu så har nogle nogle større nedbørshændelser for eksempel skybrud med videre, hvor meget hvor meget bliver der så skyllet igennem i forhold til at.
+
+00:37:28
+Altså hvor meget bliver der remobilisering i ved de her store hændelser? Ja, Det er jo.
+
+00:37:33
+Det er jo igen et godt spørgsmål men men i høj grad et spørgsmål omkring hvordan bassinet udformede og og.
+
+00:37:41
+Igen altså Det er det her med med kors, pputningsstrømme og den slags ting og sager men men ja, men det bliver resupenderet. Det vil også resupenderet altså cementet i et ramaskin bliver også resupenderet når der står en kraftig storm infra vest.
+
+00:37:55
+Så Det er Sådan bølgerne der der får celementet til at flyde rundt. Altså hvis man hvis man går ud og måler på silementet i et ramaskassin i dag og så et år efter komme ud og måler på det, så har cementet flyttet sig rundt.
+
+00:38:07
+På grund af dels det du siger med med med de der af og til store regnhændelser og dels og dels hvad hedder det store vindindvirkning?
+
+00:38:19
+Ja, men men igen altså hvis man kigger på, hvis hvis man nu måler over meget lang tid.
+
+00:38:25
+Det har vi så ikke gjort med mikroplast, fordi Det er meget meget dyrt at gøre det på den måde. Men for at få andre stoffer, hvor Vi har målt i flere år.
+
+00:38:33
+Så så har vi stadigvæk over en lang periode ganske gode renseffektiviteter. Det kan godt være der kommer bøvs af og til, men sammenlignet med de der mange, mange, mange små hændelser der har de har langt større volumen, så Det kan godt være, at der af og til løber en en altså måske en procent af alt vandet løber ud, men med en højre koncentration.
+
+00:38:55
+Men Det er ikke noget der titter læset, fordi Det er en relativ lille del af den årlige vandføring.
+
+00:39:00
+Tak og så Mathias. Han har et supplerende spørgsmål til og Det er har du en holdning til om et vådt forbassin kan være en fordel?
+
+00:39:09
+Altså hvis man har et filtre, specielt et filtrer, så så vil jeg anbefale. Så skal der helst være 1 1 1 forårssing fordi.
+
+00:39:18
+Ellers så er der større risiko, eller ellers så vil vil filteroverfladen klokke hurtigere til.
+
+00:39:24
+Et drømmes bassin, Der er der mange, der anbefaler at lave specielt IUSA anbefaler at lave et foresting altså ligesom Lemvig systemet og og Det har den den ide at så kan man nøjes med at rense det lille bassin op.
+
+00:39:39
+Relativt hyppigt, og det store bassinet skal renses relativt sjældent, så så generelt altså. Så hvis Jeg kan vælge frit på begge hylder, så ville jeg lave et forudsigt.
+
+00:39:52
+Super så har Henrik et spørgsmål. Det er meget en en direkte ting her. Det er kan du oplyse lokalitetadresse for bassinet, som bliver undersøgt i Viborg.
+
+00:40:03
+Ja ved i hvor fjernvarmeværket er.
+
+00:40:08
+Øst for fjernvarmeværket, der ligger der, ligger det altså Jeg kan sagtens oplyse det. Det det.
+
+00:40:15
+Jeg kan ikke lige huske mig navnet lige nu her i hovedet, men men det det ligger der i den i den i den nordlige del af Viborg lige ved siden af kraft ommeværket.
+
+00:40:23
+Eller som så Henrik så skriv en mail til til jens ja.
+
+00:40:31
+Ja så her sluttelig. Så kunne jeg godt tænke mig at høre jeres nu er du en af de en af de største indenfor det her område II Danmark og i verden hvor hvor bevæger det sig hen af lige i øjeblikket, hvor bevæger undersøgelserne henad? Er det?
+
+00:40:42
+Er det noget der Sådan mener man nu er det ved at være velundersøgt, eller er der stadigvæk?
+
+00:40:47
+Nogle områder, hvor man siger det her. Det er ubeløst eller ja hvad hvad hvad? Hvor bevæger det sig hen af?
+
+00:40:54
+Altså hvis vi kigger på de traditionelle løsninger, for eksempel hvor effektivt Det er, hvor dramas bassin jamen, så er vi rimelig. Vi er rimelig godt styr på det.
+
+00:41:04
+Men, men Der er noget andet Der er ved. Der er jo III bevægelse lige nu her. Det er de krav, der stilles til widenmanns kvalitet, når der bliver udledt som vi vil alle sammen være bevidste om, så har den egentlig lige fået en skrue her i Danmark, og og et hvor dramas bassin kan ikke nå.
+
+00:41:24
+De de krav som der stilles i dag, som for år tilbage var fint. Det er ikke længere fint, så så så det bassin der var der var godt for for 5 år siden. Det er ikke godt nok i år, så så så så den del her.
+
+00:41:41
+Hvordan kommer man egentlig med en simpel?
+
+00:41:45
+Drift altså driftsikker simpel lavteknologisk.
+
+00:41:50
+Teknik hvor den kommer man i mål med at komme så langt ned i koncentrationer som.
+
+00:41:54
+Øjensynligt er ved at etablere sig krav til Det er uklart.
+
+00:42:05
+Super jamen ved du hvad det jo nu kom?
+
+00:42:09
+Nu kom der lige et et spørgsmål her på falderebet. Det var fra Peter. Han siger først og fremmest.
+
+00:42:14
+Tak for et fint oplæg. Yes var det ikke bedre at fokusere på metallerne? Miljøfremmede stoffer, næringssalte og så har han en en smiley.
+
+00:42:22
+Du skal også vide Der er en Der er en smiley emoji bagved.
+
+00:42:26
+Jeg kender ganske udmærket Peter, så så nå.
+
+00:42:31
+Jo, jeg ville måske snarere sige det på den måde, at Vi skal forstå hvordan Vores bassiner fungerer overfor alle mulige slags forureninger.
+
+00:42:41
+Og og partikelbunden og ikke partikelbundeforurening. Og når vi nu ved noget bedre om, hvordan mikroplast bliver tilbageholdt, som er en forurening eller der der Der er partikulerer og med relativt lav i densitet, så ved vi måske også bedre, hvor effektivt Vores regnvandsbassin ville være overfor ukendte stoffer, for eksempel pfast og sige et eller andet, som er i vælten elite dage, fordi vi ved, hvordan de her stoffer opfører sig rent kemisk, om de kan lide at være på partikleder, om de ikke kan lide være på partikler.
+
+00:43:10
+Så når vi forstår den generelle de generelle kemisk fysiske mekanismer bagved de her rensemetoner, så kan vi ekstra polere med Vores viden til ukendte stoffer.
+
+00:43:23
+Så så Det er rigtigt p mikroplast Det var det helt store hit for nogle år tilbage og nu er p fast det helt store hits og om 3 4 år så kommer der et andet helt stort hit, så alle glemte plads.
+
+00:43:38
+Men de her systemer de skal kunne håndtere alle også de ukendte stoffer og for at kunne gøre det, så skal vi forstå de grundlæggende mekanismer bag hvordan de virker.
+
+00:43:50
+Og så kan vi lige nå det sidste spørgsmål, og du har et minut jes, så vi lukker kl. 01:00 her, men Det er fra Nikolaj og han spørger, er det ikke bekymrende, at man ingen undersøgelser har på fællessystemer? Vi er trods alt stadig mange, og så i parentes dårligt funktionelle fællessystemer, og kunne man tænke tænke det kunne løses med et filter eller lignende på udløbet.
+
+00:44:09
+Ja Det er der en i det gælder i øvrigt også de andre forurenende stoffer. Der er jo stort set ingen undersøgelser på på på overløbsrensning, og i øvrigt så er der vel heller ikke ret mange der laver overløbsrensning. Det kunne man sagtens stille spørgsmålstegn ved, om Det er i orden.
+
+00:44:26
+1000 tak jes nu nærmer klokken så et og så så må vi hellere stoppe, så folk kan komme videre til næste møde og så Jeg vil sige 1000 tak Jesper en spændende tiktok.
+
+00:44:35
+Selv tak.
+
+00:44:36
+Og som altid kan finde denne og ældre tiktokks på DNN ks hjemmeside, og her vil i også kunne finde kommende arrangementer i klimakalenderen. Og hvis nogen af jer tilhører kunne tænke sig at afholde en tiktok, så må i endelig tage fat i mig eller en 2 fra DNNK. Og ellers vil jeg bare sige 1000.
+
+00:44:51
+Tak for i dag og 1000 tak Jesper en rigtig spændende check.
+
+00:44:54
+Ja selv tak.
+

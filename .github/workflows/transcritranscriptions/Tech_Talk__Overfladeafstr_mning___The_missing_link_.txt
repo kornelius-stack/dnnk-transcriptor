@@ -1,0 +1,678 @@
+00:00:07
+Her er det velkommen til dagens spændende tik tok på DNDK mit navn Det er teis fra Andersen og fra vi University College sammen med Kristoffer sindby Larsen fra ove Nygaard vil jeg gerne på vegne af dian NK by jer alle sammen velkommen på dagens tik-op ved Camilla og Henrik fra atkins gør os klogere på overfladen afstrømning fra ubefestende arealer.
+
+00:00:26
+Før selve tiktokken så lidt praktisk information, selve tektuppen eller præsentationen varer cirka de her 30-35 minutter, hvorefter der vil være 10 minutter til spørgsmål og i kan løbende stille jeres spørgsmål over i chatten. Og så vil jeg publicere dem, og Camilla og Henrik vil besvare dem i slutningen af tektuppen.
+
+00:00:42
+Og for god ordens skyld, så skal jeg informere jer om at tiktokken bliver optaget, og Det var vist alt for nu. Og så vil jeg give ordet til dig Henrik.
+
+00:00:48
+Ja tak jamen for jer lige at repetere i selve mødeindkaldelsen altså vi. Vi har fokus på et behov for en mere nuanceret tilgang i forhold til gængs praktisk indenfor det område her, og Vi har ligesom delt op i 3 hovedområder. Det er noget omkring problematikker ved den gængse fremgangsmåde vil jeg sige mere overfladeafstrømning.
+
+00:01:08
+Så har vi lidt omkring overvejelser til, at hvis man vil gøre det på en 2 måde og til sidst så det vi kalder watch informia altså hvad hvad for nogle fordele kan lade være ved at benytte mere præcist tilgangen til til det her emne her.
+
+00:01:23
+De korte om mig selv. Jeg er generalist på planområdet. Jeg arbejder over 30 år med alt muligt indenfor også klimarelateret, men i det hele taget afløbsområder og aflidsstrategier for byer og så videre modninger.
+
+00:01:35
+Og Jeg har været med i den første bølge af af de der klimatilpasningsplaner, som kommunerne blev pålagt i en overgang.
+
+00:01:42
+Med III identificeret projektet er nogen der skulle realiseres os?
+
+00:01:48
+Og og hele historien bag alt det her for for mit vedkommende. Det er, at der har været rigtig mange snakke om, om krav til afløbstal og overløb, og når man skal bassiner og modninger og Sådan nogle ting, hvor hvor man tit er stødt på.
+
+00:02:01
+En en dialog med med med med noget så flotte som en lille passende grund per hektar og Sådan nogle ting der så man som nogle gange har været lidt lidt svært at diskutere, hvis man gerne vil gøre det mere nuanceret.
+
+00:02:12
+Det Camilla han hun vil komme ind på i dag. Jamen Det er hun har et kandidatprojekt bag sig og fået en indsigt som vi så. Agnes har arbejdet lidt videre med, og hvis jeg skal sige det på min måde, så er det ligesom lidt firedimensionelt hvis man vil belyse faktisk opleves hændelser kron og nedbør.
+
+00:02:29
+Så vi forsøger at perspektiv at lave en perspektivering af det her, som Vi har tænkt det som et oplæg til den sigende dialog.
+
+00:02:37
+Og gerne en diaginajog også med hensyn til at bidrage til at udvikle på området.
+
+00:02:42
+Så har vi også forsøgt at ramme Sådan 1 1 1 niveau alle forstår fordi Det kan jo gøres meget nørdet det her. Det håber vi så er lykkedes og så vil jeg Sådan set overlade ordet til Camilla som så stille og roligt vil gå de her ting igennem. Som jeg tænker præsenterer.
+
+00:03:00
+Jamen tak for det Henrik. Jeg hedder som sagt Camilla og jeg arbejder til dagligt med overfladeafstrømning og.
+
+00:03:09
+Rengants håndtering i terræn hos atkins. Det er noget, jeg som sagt har specialiseret mig i siden eller mit studie på Aalborg Universitet, hvor jeg også skrev speciale omkring netop det her emne. Overfladeafstrømning fra ubefestet arealer.
+
+00:03:23
+Og Det er jo et emne som er begyndt at komme meget mere op i tiden og noget man snakker meget mere om i takt med alle de her klimaforandringer, hvor vi får mere ekstreme. Hvad hedder det? Vejrsituationer, som også gør den her overfladeafstrømning fra de ubefeste arealer lige pludselig får en større betydning, og Det er også derfor, at vi i dag vil præsentere noget af Vores arbejde her hos atkins under den her overskrift, Vi har kaldt overfladeafstrømning.
+
+00:03:46
+The missing link.
+
+00:03:49
+Jeg er med på at når man sidder og hører Sådan noget her, så kommer man ikke til at kunne huske det hele bagefter, så det i bare skal være opmærksom på Det er det jeg fortæller nu. Jeg kommer også til at gentage det igen senere i præsentationen, men det her det skal i Sådan lige have med i baghovedet i alt det vi fortæller.
+
+00:04:03
+Tit når vi eller når vi ikke bygger renvandsmodeller op, så ligesom i ser her, så har man en historisk regnserie som man putter ind i sine modeller.
+
+00:04:14
+Vi har så udvidet den med det vi kalder the missing link og Det er hvad hedder det afstrømningsbidraget fra de ubeæstede arealer, som vi ser her, og Vores model kan lave det til et dynamisk bidrag, så det ligesom varierer i forhold til historikken af regn og i forhold til hvilken jordtype Der er taget videre med at gøre det modellen så smider ud her. Der har vi taget vandstanden i et bassin.
+
+00:04:38
+Og Det er modellen, så smider ud. Her kan vi se både en blå linje og en sort linje, den blå linje. Det er det, som modellerne vil smide ud Sådan.
+
+00:04:46
+Normaltvis når vi ikke har det her bidrag med og den sorte linje viser, så når Vi har medtaget det her bidrag fra de ubestede arealer, altså the missing link og det vi kan se. Det er ligesom at der kommer en stor pulje her ned i Vores bassin senere hen, fordi afstrømning fra det ubefeste areal er langsommere på grund af vegetation.
+
+00:05:05
+Det medfører ligesom at svømmetiden i Vores bassiner egentlig vil være langsommere egentlig reelt set. Måske antager i Vores modeller.
+
+00:05:14
+Du skal ikke læse det her.
+
+00:05:15
+Ja Det er Det er en konkret case. Ja Der er taget udgangspunkt.
+
+00:05:18
+I.
+
+00:05:19
+Ja helt simpelt, så det der egentlig sker Det er at når vi opbygger standardmodeller den dag i dag, så tager man en regnserie og putter ned på en overflademodel, der kører videre ned i en rørmodel, som giver os et resultat. Det som lisa tænker Det er, at Vi har opdelt den her overflademodel 2, så man har et bidrag til de BF sarealer, som er regnserien, som jeg kender den, og så har vi et bidrag til de ubefestede arealer og bidrager til de ubefestede arealer. Det kommer ligesom fra denne her dynamiske afstrømningsmodel.
+
+00:05:50
+Som tager udgangspunkt i.
+
+00:05:53
+I hvad hedder det i jordens historik? Altså hvor vandmættet er jorden på det givne tidspunkt? Den kan vi så plugge ind i Vores afstrøm eller Vores afløbsmodeller og ligesom bruges som et bidrag, så vi kan differentiere imellem de forskellige overflader.
+
+00:06:09
+Og jordenter selvfølgelig.
+
+00:06:12
+Udover at at den kan bruges som et plugin i Vores afstemningsmodeller eller afløbsmodeller, så.
+
+00:06:20
+Kan den også benyttes i forhold til hele den her.
+
+00:06:24
+Diskussion omkring udledningstilladelser der kigger man i dag tit på de her robusthedsanalyser, som tager udgangspunkt i kapaciteten nede i eller ikke nede i afløbet nede i receptionen.
+
+00:06:37
+Men denne her model kan ligesom kigge på den naturlige afstrømning ned til recipanen, for vi ved jo godt, at det nogle gange sker naturligt at en recipent den vil blive oversvømmet, men det tager robustridsanalysen ikke højde for, og der kan vi ligesom med Vores analyse af det her naturlige afstrømning gå ned og kigge på det. Og er det OK, at man i nogle situationer egentlig oversvømmer de her recipter? Så Det er egentlig det, som som Vi har kigget på.
+
+00:07:02
+Det er at lave en afstrømningsmodel, som kan.
+
+00:07:05
+Dynamisk gå ind og estimere.
+
+00:07:09
+Hvad hedder det afstrømning fra det ubevidste arealer? Og Det er simpelthen bare næst det bedste skridt. Så at estimere det her.
+
+00:07:13
+For Der er jo selvfølgelig ikke noget, Der er fuldkommen helt endnu.
+
+00:07:17
+Men, som Henrik sagde, og som i også kunne se i invitationen til den her tekttalk, så vil vi ligesom gå igennem 3 ting, og vi vil starte med lige at præsentere problematikkerne. Så kommer alle overvejelserne. Hvad skal man lige have med i baghovedet, når man begynder at kigge på de her ubefester arealer?
+
+00:07:34
+Og hvad har vi haft med Vores overvejelser og så til sidst, hvis i er ved at falde i søvn, så kommer guleroden what's in it for me? Og hvad kan jeg egentlig bruge det her til Sådan ude i praksis?
+
+00:07:44
+Men allerførst, så kommer der det her med problematikerne.
+
+00:07:49
+Jeg vil lige starte med at vise en lille video og Jeg tror mange af jer måske allerede har set den faktisk den har ligget på LinkedIn i en periode.
+
+00:07:59
+Det er en Det er en video der viser en græsplæne. Det er den samme jord man ser på alle 3 billeder. Vi har noget vådt græs og Vi har Sådan en normal sommersituation og så har vi noget efter den her hedebølge og det man ligesom ser.
+
+00:08:16
+Det er at når Vi har det her lidt våde græs så.
+
+00:08:20
+Kan jorden godt opsuge vand, så får vi da normalt sommersituation. Det går lidt langsommere, og vi får en hedebølge, hvor at jorden simpelthen bare virker som beton eller asfalt.
+
+00:08:28
+Og og vandet kan derfor ikke sive ned. Det betyder også, når vi ser de her klimasituationer, hvor den sidste med de her tørre perioder den bliver mere fremtrædende, at så kan en etårs toårs eller 3 års egen hændelse faktisk lige pludselig give væsentlige mængder af afstrømning fra de her ubefeste arealer, fordi jorden ikke kan optage noget af det. Det medfører også, at den oplevede hændelse for borgeren.
+
+00:08:53
+Kan være meget voldsommere ved en regnhændelse. Vi slet ikke.
+
+00:08:56
+Anser for at skulle skabe problemer den dag i dag.
+
+00:09:00
+Men Det er bare lige en lille reminder om, hvorfor det også er vigtigt at have hele dynamikken med II overfladeafstrømning, da jordens vandmætning har stor betydning for hvordan den opfører sig, og hvilken mængde af afstrømning der vil komme derfra.
+
+00:09:15
+Og hvis jeg lige går tilbage til præsentationen, engang den kom der.
+
+00:09:20
+Ja jamen Sådan helt hvad siger du?
+
+00:09:25
+Sådan nu kom den ja.
+
+00:09:28
+Sådan helt sim helt banalt det der sker når det regner Det er ligesom at vandet. Det vil lande enten på et befæstet eller et ubefæstet areal. De befæstet arealer og det her er det vi kender som veje og fortove terrasser og hustage og så videre.
+
+00:09:44
+Og Det er egentlig en del som er rimelig godt beskrevet og meget analyseret og med målinger det hele.
+
+00:09:51
+Og er kendt brugt i Vores modeller, og når vi laver Vores planlægning, så er der den her en 2 del som vandet også kan lande på, som er de ubefestede arealer og Det er den del som vi kalder the missing link og Det er Sådan lidt mere en fluffy del der skal regne på, fordi her kommer der lige pludselig en masse flere faktorer der spiller ind som vi så før på videoen, så vil det have betydning.
+
+00:10:16
+Hvor hvor våd jord ligesom er, eller hvor tør den er.
+
+00:10:19
+Der er også noget med at være jordtype. Der er noget terrænhdning, for selvfølgelig hellere terrænet ikke jamen så vil vandet bare lægge sig som en vandpyt ovenpå. Det kan ikke strømme nogen steder hen.
+
+00:10:29
+Der er også noget vegetation der har en betydning for for afstrømning og så videre, og derfor så bliver det Sådan lidt mere et et fluffy element, men Det er det Vi har været inde og kigge på og Vi har et bud på hvordan man ligesom kan estimere det her som vi ser som næstebedste skridt til at komme komme tættere på at kunne.
+
+00:10:47
+Kunne helt æske de mere afstrømning fra de ubehæstede arealer.
+
+00:10:51
+Sådan så man tit kigger på det i dag, når man skal medtage det her. Det er jo at man bruger den her naturlige afstrømning på en liter per sekund per hektar, og jeg må være helt ærlig og indrømme, at Jeg har ikke kunne finde frem til, hvor de har en liter per sekund per hektar de egentlig kommer fra. Og min umiddelbare fornemmelse er, at Det er Sådan en.
+
+00:11:14
+Hvad kalder man det? Det har vi altid gjort hvad de så, det gør vi stadigvæk.
+
+00:11:19
+Og om det stadigvæk holder, når vi ved, at de her ubefeste arealer begynder at afstrømninger fra begynder at få større betydning. Det kan man jo så diskutere lidt. Derudover så bruger man tit en faktor på 0,1, altså en afløbs koefficient på 0,1, hvis man laver Sådan lidt mere håndberegninger og nogle gange sætter man den lidt op til 0,2.
+
+00:11:38
+Det betyder, at man siger, at cirka 10% af den regn, der lander på de her ubefestede områder, vil strømme af.
+
+00:11:47
+Og til sidst jamen så er det jo.
+
+00:11:49
+Så bliver det jo tit negligeret, når vi opstiller Vores afstrømningsmodeller eller Vores afløbsmodeller. De her ubefestede arealer og det medfører også, at man kan ende med at sidde og kalibrere på nogle modeller, hvor man egentlig ikke har de rigtige inputparametre, fordi Der er et helt område, vi slet ikke har taget højde for.
+
+00:12:07
+Og derfor har jeg også været inde og kigge lidt mere på. Jamen, hvor præcist rammer vi egentlig med de her antagelser, man har gjort sig førhen og er der måske ikke lidt behov for, at vi kan lidt det her lidt nærmere i sømmene?
+
+00:12:20
+Og det kommer så videre til overvejelserne.
+
+00:12:24
+Jamen.
+
+00:12:26
+Allerførst, så vil jeg lige vise jer den her afstrømningssyndrograf, og Det er det, der kommer ud af Vores afstramningsmodel, som jeg bruger som plugin til mine afstrømning eller til mine afløbsmodel. Og Det er også det her, hvor Jeg kan lave analyser på i forhold til den naturlige afstrømning, det man ser her på grafen. Det er det blå er regnintensiteten for en.
+
+00:12:52
+En historisk regnserie den har cirka 42 år og det grønne. Det er så afstrømningsintensiteten fra en given jordart. Det skal siges, at Det er den potentielle afstrømning, fordi Vores afstemningsmodel er på nuværende tidspunkt ikke koblet sammen med en terrænmodel.
+
+00:13:11
+Og det kræver selvfølgelig noget hældning på terrænet for at den her afstrømning, den kan den ligesom kan løbe nogen steder hen.
+
+00:13:18
+Men Det er den potentielle afstrømning, det vil sige. Det er den mængde af vand, som jorden ikke kan optage den her afstrømningsmodel. Den er bygget op på baggrund af et kæmpe litteraturstudie af en masse gammel teori inden for området, og Det er jeg simpelthen så blevet kogt sammen til en afstrømningsmodel, der kan tage højde for den her variation II jordens vandmætning, så den kan tage højde for, at Vi har perioder, hvor Der er meget tørke og perioder, hvor at jorden den var rigtig, rigtig våd.
+
+00:13:46
+Og ligesom få variationerne i hvad afstrømning vil der komme?
+
+00:13:51
+Også i helt almindelig dagligdags regn.
+
+00:13:54
+Zoomer man lidt ind på den her, så kan man ligesom også se lidt mere af de her variationer. Man kan se at Vi har nogle regnhændelser, hvor at der slet ikke rigtig kommer noget afstrømning, og vi kan se, at Vi har regnhændelser både store og små, hvor der kommer forskellige mængder af afstrømning fra. Og Det er netop på grund af den her dynamik Der er, og at jordens historik hvor våd er jorden på det tidspunkt at regn falder som er meget afgørende for den oplevede hændelse, som borgeren vil have.
+
+00:14:23
+Og Det er også det, der gør at en en lille regnhændelse vi normalt ikke vil tage for noget lige pludselig kan give store mængder af overfladeafstrømning.
+
+00:14:31
+Ja.
+
+00:14:32
+Zoomer jeg endnu længere ind, så kan man sætte endnu mere tydeligt her, at Vi har en regnhændelse med cirka 62 mm i hvor de 30 mm de afstrømmer, og så har vi en regnhængde simpelthen umiddelbart vil sige var værre hvor at Der er 100 mm i, men kun 22 mm afstrømmer og årsagen til den store forskel på det. Det er netop at jorden ikke har haft de samme. Det er den samme jordtype Der er på begge grafer, men jorden har ikke haft de samme forudsætninger.
+
+00:14:58
+Da regn den har faldet.
+
+00:15:02
+Ja.
+
+00:15:03
+Og derfor er den her afstrømningskoefficient på de 0,1. Det vil være en variabel størrelse for alle jordtyper man ser og ikke en fast værdi.
+
+00:15:15
+Ja inden man overhovedet begynder at kan benytte nogen som helst former for afstrømningsmodeller, om Det er den Vi har udviklet, eller om Det er alle mulige andre, så er det væsentligt, at man har styr på sine data for alle. Ved jo tænker jeg at crap in crapout, så Det er ret vigtigt, at vi ved, hvad Det er, vi putter ind i modellen.
+
+00:15:37
+Benytter man.
+
+00:15:39
+Mange gængse modeller den dag i dag, og især hvis man kigger lidt imod udlandet.
+
+00:15:42
+Så vil en stor del af datagrundlaget og de standardværdier, man kigger på byg på amerikanske data, og det man ser her i trekantsdiagrammet. Det er heroppe, har vi procent af indhold af ler og sild og sand, og så er der simpelthen inddelt i 11 jordklasser, og Det er 11 jordklasser, Der er fordelt på baggrund af et stort litteraturstudie, Der er lavet på ovre IUSA, hvor man har taget en hulens masse jordprøver og gennemanalyseret dem, og så har man delt dem op i de her 11 jordklasser.
+
+00:16:13
+Lidt det samme har man gjort i Danmark, hvor man har noget der hedder det danske jordkartotek, hvor man har gennemanalyseret en masse jordprøver i Danmark fra noget man mener er meget sandet til noget Der er meget leret under danske forhold. Når jeg plotter dem op imod de her amerikanske jordklasser, så kan vi se at de kun fordeler sig hernede i det ene hjørne, og det betyder altså, at hvis man får at vide af sin geotekniker eller geolog.
+
+00:16:40
+At Vi har med en ler at gøre, men du ikke får flere værdier på det og du bare slår op i en standard med den model eller tabel, så kan du ramme rigtigt meget ved siden af af skiven. Hvis du vælger at bruge amerikansk data, så derfor så er det væsentligt at man lige har styr på. Jamen hvor kommer dataen fra og hvad bygger de her modeller på?
+
+00:17:02
+Som jeg benytter, så man er sikker på at man rammer indenfor danske standarder.
+
+00:17:06
+Og Jeg vil altid anbefale, at man lige forlader lidt ekstra jordprøver og forlader de der nedsvinningstest, så man ligesom har styr på hvad Det er man arbejder.
+
+00:17:12
+Hernede inden man bare går ud og tager det hele for brugbare og Det er altså uanset hvilken type afstrømningsmodel Det er man vælger at arbejde med.
+
+00:17:22
+Ja.
+
+00:17:24
+Så har vi den her antagelse om en liter per sekund per hektar, som stemmer cirka overens med 3,1 mm/t.
+
+00:17:33
+Ja.
+
+00:17:34
+Jeg har taget den her hydrograf igen, som jeg også viste tidligere, hvor vi igen kan se regnintensiteten som den blå og.
+
+00:17:44
+Afstrømningen som den grønne og så har vi den røde linje hernede, som viser potentialet eller 1 l/s, så det vil sige, at når den grønne afstrømning overstiger den her røde linje, jamen, så har vi potentielt set en afstrømning på over en liter per i sekundet per hektar.
+
+00:18:03
+Og tager vi bare et tilfældigt punkt her, så kan vi se, at her står der 2,8 l/s og Det er egentlig en identitet vi opnår Sådan rimelig mange gange. Det er Sådan en dagligdagsregn, som vi normalt situationer ikke rigtig vil tænke var var dimensionsgivende, men som i kan se her, så er den næsten en tredobling af den.
+
+00:18:23
+Antagelse man man gør sig den dag i dag, så derfor er det måske værd at kigge lidt i sømmene, og vi kan også se her, hvis vi kigger på toppunkterne, jamen så er vi helt oppe på 8,6 l/s, hvilket bare viser at de her 1 l/s per hektar jamen nogle gange går det måske meget godt, men Der er altså også helt almindelige vers af situationer hvor at hvor den ikke Sådan rammer helt inden for skiven i forhold til hvad den naturlige afstramning egentlig vil være ned til Vores receptter.
+
+00:18:49
+Eller andre ting.
+
+00:18:50
+Eller andre ting afløbe systemer og fælles systemer og så videre. Ja.
+
+00:18:56
+Lige præcis. Det her er egentlig bare et zoom på den graf vi så lige før, hvor man igen kan se at på nogle tidspunkter. Jamen så stiger vi over.
+
+00:19:05
+De har egentlig et af sekunder. Der er også tidspunkter hvor det går godt, der kan være regn situationer, hvor vi slet ikke får afstrømning fra jordtypen og tidspunkter, hvor vi får meget afstrømning.
+
+00:19:15
+Det er igen hele den her dynamik i forhold til gennem hvad er jordens forudsætninger i det øjeblik regn den falder, Der er afgørende for, hvad bliver den oplevet afstrømning og oplevet hændelse for borgeren?
+
+00:19:28
+Ja.
+
+00:19:31
+Ja Jeg har brugt den her afstrømningsmodel de grafer Jeg har vist jer nu. Der har jeg brugt dem på Sådan en standard lidt leret under danske forhold, men Jeg har haft kørt hele det danske jordkartotek igennem, når jeg så kigger på det og putter tallene op imod hinanden og laver nogle analyser på det, så kan jeg ligesom se at de jordtyper hvor vi får risiko for at den her dagligdags overfladeafstrømning, der ligesom kan få betydning for Vores afløbssystemer, recipienter og.
+
+00:19:59
+Ja alle de steder hvor Det kan strømme hen. Det er de steder, hvor vi ligesom har har ler, og her er det egentlig bare gået ind og taget et jordskort, hvor Jeg kan se, hvad jordtyper der ligger i topjorden, og så man kan se. Så er det jo hele østdanmark herovre, hvor at Der er risiko for udfordringer med den her overfladeafstramning.
+
+00:20:16
+Og Det er ikke fordi jeg siger, at der vil være problemer her, men Det er bare områder, hvor jeg klart vil anbefale, at man lige går ind og kigger.
+
+00:20:24
+Lidt nærmere på den her overfladeafstrømning fra de ubefestede arealer, før man bare antager.
+
+00:20:29
+At de grønne områder, de kan håndtere sig selv, for Det er der meget, der tyder på, at de ikke helt vil kunne og slet ikke i fremtiden, når vi får de her mere ekstrem hændelser i forhold til i forhold til til vejret. Og når vi også ser på, at grundvandet på sigt også vil stige, som også vil have en.
+
+00:20:47
+Der kan man sige negativ indflydelse på overflade afstrømning.
+
+00:20:52
+Ja.
+
+00:20:53
+Så Det er egentlig bare lige en opfordring til at tænke jer lidt om, inden at man bare tager for givet at de ubekestede arealer de kan håndtere sig selv. Ja.
+
+00:21:03
+Ja og nu sidder i sikkert og er ved at falde i søvn alle sammen og tænker hvad er det lige jeg skal bruge hertil? Så nu kommer pointen bruger sennet for me. Det er nu i skal høre høre høre ekstra godt efter.
+
+00:21:16
+Ja helt praktisk, som jeg også sagde til at starte med, så kan man bruge det her som et plugin til.
+
+00:21:22
+Vores afløbsmodeller i dag. Der bliver det her jo tit negligeret, men det vi kan, Det er, at vi kan differentiere på de befæstet på de ubefestede arealer, og vi kan også differentiere imellem de ubevidste arealer, så det laver en afstyrrening, der stemmer lige præcis overens med den lokale jordtype, som Der er at finde på det pågældende sted.
+
+00:21:46
+Den giver ved være en variabel afstrømning, da man vil plotte ind i modellerne, da den vil tage højde for hele historikken i den forudgående ja periode, hvor våd er jorden.
+
+00:22:01
+Der kommer det her billede igen, som vi så fra tidligere af, at det simpelthen Vi har Vores historiske regneserie, som vi kender den. Den kommer igennem Vores afstramningsmodel. Det bliver til en afstramningsserie, der tager højde for jordens historik og hvilken jordtype Det er vi arbejder med og afkommet eller outputtet vil så ligesom blive, at vi kan estimere.
+
+00:22:25
+Hvad bliver Vores?
+
+00:22:27
+Reelle vandmængde egentlig. Vi skal kunne håndtere i Vores afløbssystemer og ned til recipienten og så videre. Det skal siges det her.
+
+00:22:34
+Det er lavet på en reel case, men det skal siges, at der har lavet den her. Der er taget udgangspunkt i, at alle de ubehæstede områder, de bliver tilkoblet afløbssystemet. Det vil selvfølgelig ikke være praksis i virkeligheden.
+
+00:22:46
+Der skal man lige koble sammen med en terrænanalyse.
+
+00:22:50
+Så det betyder også, at den store mængde af vand vi ser nede i bassinet her.
+
+00:22:54
+Den vil i praksis være lidt mindre, men den vil jo være til stede, og Det er helt sikkert et element, man skal tage tage højde for.
+
+00:23:02
+Men den konkrete case, så var der fald på.
+
+00:23:04
+Ja.
+
+00:23:07
+Ja.
+
+00:23:11
+Vi har også brugt det her i nogle cases her hos ackins og en af de cases. Det var en byggemodning.
+
+00:23:20
+Hvor at vi havde en helt grøn mark, som jo skulle bygges mod, så noget af det vil jo blive befæstet areal, og vi havde fået stillet krav fra kommunen om, at det her område, Det kan naturligt håndtere sig selv. Der har aldrig været bebygget der før, så i må ikke rigtig afstrømme noget herfra.
+
+00:23:36
+Udfordringen var bare, at vi stod over for et område, der var stort set rent ler.
+
+00:23:43
+Så Det er jo ligesom når vi putter en lerummembraner ned i Vores bassiner for at de ikke kan nedsive, hvis at området der rent ler. Jamen så er det virkelig svært at få noget til at nedsive dig på, så vi havde også svært ved ligesom at skulle komme igennem alle de her nedsivningsløsninger, som de ønskede.
+
+00:23:57
+Vi gik derfor ind og kiggede på den naturlige afstrømning ud fra Vores model og se på jamen, hvad afstrømmer egentlig naturligt ned til det røde punkt her, når området ikke er udbygget, og hvad vi egentlig afstrømmer ned til det her punkt efter Vi har udbygget området og kunne afkoble nogle af områderne, der afstrømmer til andre steder?
+
+00:24:15
+Og Vores resultat blev, at vi i hvert fald ikke forværrede situationen, for da vi startede den her dialog med kommunen.
+
+00:24:22
+Så kunne vi jo ligesom se, at der rent faktisk afstrømmes store mængder af vand hernede til, og kommunen gav os jo også ret i, at jamen når Det var både perioder. Jamen, så stod der jo nærmest en hel sø hernede, og der løb vand hen over den vej, der går herude.
+
+00:24:39
+Så det betyder, at vi lige pludselig kunne få opstartet en dialog omkring realistiske løsninger, og at vi kunne få nogle andre kriterier til, hvad vi egentlig, hvordan vi egentlig skulle kunne håndtere vanden II det her pågældende område.
+
+00:24:52
+Ja Vi har også kørt casen igennem i forhold til de måder man normalvis ville regne afstrømning på. Og ja hvis vi bruger de der 0,1, så kan vi stort set negligere afstrømning for det her grønne område og afstrømningen den vil stige når noget af det det bliver befæstet areal kigger vi på det med andre briller, hvor vi ligesom kigger på. Jamen hvad kommer naturligt for et område der stort set er helt leret?
+
+00:25:16
+Jamen så kan vi se der kommer rigtig store mængder af vand, når vi så kan afkoble noget af området, og vi befester en lille smule. Jamen så forværrer vi i hvert fald ikke situationer noget. Det er ikke fordi der kommer til at blive endnu mere vand, for der kommer rigtig meget vand i forvejen.
+
+00:25:31
+Ja.
+
+00:25:33
+Start helt opridset kort til sidst. Jamen watch init for me jamen som vi så i casen heroppe, kan man estimere afstrømning fra de ubefestede arealer. Jamen så kan man også gå ind i en dialog omkring nogle mere realistiske løsninger i forhold til reinvandsing, og man kan ligesom gå ind i en dialog, hvor man kan snakke om den her.
+
+00:25:56
+Oplevede regnhændelse for borgeren at tænke løsninger i forhold til det, i stedet for at man altid arbejder ud fra de grønne områder, de bare kan håndtere sig selv.
+
+00:26:03
+Virkelig ligesom forbedre dialogen imellem borgeren og kommunen og bygherren også. Jamen, derudover så kan man starte sin planlægning helt tidligere. Planlægningsfasen og ligesom arbejde i forhold til den oplevede regnhændelse for borgeren.
+
+00:26:16
+Den praktiske oplevelse derude frem for de her teoretiske regnhændelser. Man hvor man tænker på 10 og så 5 års hændelser.
+
+00:26:25
+Som jeg viste tidligere, så kan man bruge det som et bidrag.
+
+00:26:30
+Hvad hedder det i sin afløbsmodeller? Ligesom bruge det som et plugin, så vi får en dynamisk.
+
+00:26:37
+Vurdering af de her eller eller hvad hedder det? Hvad vil man sige? Et dynamisk input fra de her ubefestede arealer i Vores modeller?
+
+00:26:47
+Det kan som sagt også bruges i sig selv, hvor at Det kan gå indgå i hele den her diskussion omkring udlændingstilladelser. Hvad skal vi egentlig sætte udledningstilladelser til og være et supplement til den her robusthedsanalyse? Fordi som sagt så robust analysen, den tager udgangspunkt i jamen hvad er kapaciteten nede i reciplanten, hvor at Vores ligesom mere vil tage udgangspunkt i jamen hvad løber naturligt hen til reciten og i de situationer, hvor at recipienten rent faktisk naturligt at oversvømmet?
+
+00:27:15
+Hvad kan vi egentlig tillade os at sætte udlændingstilladelser til der og er det OK, at vi stadigvæk også oversvømmer dem? Der kan det her ligesom indgå som et input i hele den her diskussion.
+
+00:27:27
+Og ja til allersidst. Det er jo bare en måde.
+
+00:27:31
+At at kunne altså Det er jo bare næste bedste skridt til ligesom at kunne estimere den her afstrømning fra de ubeæstede arealer om det så leder til recipant eller til afløbssystem.
+
+00:27:42
+Om Det er fra byggemodningsområder, eller hvor Vi skal klimatilpasse. Altså Det er jo bare en måde på, at ligesom at kunne estimere det her i forhold til hele den foregående historik og i forhold til jamen har der været en tørkeperiode. Jamen så kan en etårs hændelse lige pludselig give fuld afstrømning og måske rent faktisk give et meget større input til Vores afløbssystemer og recipenter, end vi førhen har antaget.
+
+00:28:07
+Så ja Jeg tror Det var alt for mig. Har du noget at tilføje Henrik?
+
+00:28:12
+Nå, men Jeg vil bare sige at altså Vi har forsøgt at perspektivere det i dag og sætte lidt fokus på et område, som som nogle gange måske kan være være en være afgørende for de løsninger, man vælger. Vi har kaldt det the missing link, Det er altid rart med en overskrift, der rammer lidt. Vi tager meget gerne imod henvendelser om konkrete emner, der ønskes gransket.
+
+00:28:34
+Vi vi. Vi søger altså at kunne bidrage til en større pulje vidensopsamling, fordi jeg kunne også sende familie også jo flere løsninger man kunne sidde og prøve og regne på at have nogle cases hvor man så kan sige. Jamen man troede det her.
+
+00:28:45
+Det gav det her jo klogere bliver vi alle sammen og som kilder Camilla var inde på altså vi det. Det kan jo både være altså indenfor bæredygtige løsninger i det hele taget, at Vi skal have klimasikre altså noget der Der er jo rigtig fokus på overløb fra oles bygværker og fællesbassinering og så videre.
+
+00:29:01
+Hvor modellen er måske ikke viser det det virkelige liv, der kan noget af det her måske også kunne indgå, fordi man kan beskrive den frekvens, når man tager 42 års historisk regn fra en eller 2 regnvejr man bruger og så videre. Så Der er rigtig mange, kan man sige segmenter i det her man man kunne gå ind og bruge den her tilgang?
+
+00:29:19
+Men Vi har Sådan set ikke mere lige nu, ud over at vi selvfølgelig nu vil forsøge at besvare de spørgsmål, det hun selv skulle komme. Så nu lader vi ordet gå tilbage til DNDK.
+
+00:29:32
+Jamen 1000 tak for en rigtig spændende tiktok Camilla Henrik og Der er heldigvis kommet en masse spørgsmål, og hvis i stadigvæk sidder derude og har nogle spørgsmål, så skriv dem endelig i chatten. Så skal vi nok få dem besvaret. Men hvis i starter med det første spørgsmål eller Det er mere en kommentar på Esben, Der er en liter sekund hektar, kommer fra design af dræn i landbruget.
+
+00:29:50
+Det vil sige den vandkapacitet, som dræn skal kunne transportere.
+
+00:29:53
+Ja, men Jeg tror mere end Det var en kommentar til til til til jeres præsentation.
+
+00:29:59
+Så kommer der et spørgsmål her.
+
+00:30:02
+Fra for Stefan, som siger, regnes der med, at jorden udtørrer om vinteren. Eksemplet eksemplet var fra februar måned slide nummer 13.
+
+00:30:11
+Nej, der regnes ikke med at jorden den udtørrer om vinteren. Der kan selvfølgelig opstå den situation, at at jorden giver så frosset, at der heller ikke kan sive noget ned. Men det, der også sker om vinteren.
+
+00:30:22
+Det er, at jorden simpelthen kan blive overmattet. Og så er det, hvis der egentlig er sket den samme situation, som når jorden bliver overtør. At man forestiller sig lidt en kop, og man kan blive ved med at hælde vandet ind, og når kroppen den er fyldt.
+
+00:30:35
+Jamen så på et tidspunkt, så kan der ikke, så kan der ikke være mere i, og så vil jorden igen også fungere der som et befestet areal.
+
+00:30:41
+Og så vil det hele bare overstrømme eller afstrømme på overfladen.
+
+00:30:46
+Men ja.
+
+00:30:48
+Mia har et spørgsmål.
+
+00:30:50
+Figuren vedrørende vandstand i bassin var fra konkret case. Den viste stor påvirkning fra ubehæstede områder, hvor stor en del af oplandet var i casen ubefeste.
+
+00:31:03
+Jamen Det er Sådan en.
+
+00:31:06
+Almindelig et almindeligt byområde, altså som vi ser mange steder. Bymodningsområder med parcelhuse, Der er ret store dele, Der er ubebefæstet. Det som også skal siges omkring, at det store bidrag man ser dernede.
+
+00:31:18
+Det er jo at Det er antaget, at alle grønne områder i det her byområde leder ned til at afløbssystemet, så man kan måske Det er måske lidt overestimeret i den konkrete.
+
+00:31:29
+På det konkrete billede i lige så men i altså. Men virkeligheden vil også gøre at at der vil komme et væsentligt bidrag fra de ubefestede arealer.
+
+00:31:38
+1000 tak og så er der et spørgsmål fra ida og Jeg tror Det var til et graferne. Du viste lige før kortet med jordtyperne. Det er hvad er gennemsnitsafstrømning på grafen?
+
+00:31:49
+Hvad gennemsnitsafstrømningen er.
+
+00:31:52
+På de her.
+
+00:31:54
+De her grafer især tror jeg.
+
+00:31:55
+Ikke lige at du har regnet på, vel nej.
+
+00:31:57
+Jeg har ikke. Jeg har ikke gennemsnitsafstrømning på graferne, men når Jeg har kigget på det tidligere de analyser Jeg har lavet, så når vi kigger på noget Der er Sådan er er ler og Sådan noget, så ligger vi oppe omkring Sådan noget. 0 3 0 4 i afstrømningskoefficient faktisk så vi lægger væsentligt over.
+
+00:32:17
+Give dig 0,1 som man tit regner med.
+
+00:32:21
+1000 tak så Jeg tror heller ikke du var lidt inde på det jørn han spørger hvilken hældning har terrænet i har målt på?
+
+00:32:30
+Vi snakker igen om den konkrete case ud i lystrup.
+
+00:32:34
+Det hældning på terrassen altså Der er. Jeg kan ikke huske den konkrete hældning derude, men Der er en væsentlig hældning på terrænet derude, men der skal der skal noget hældning til før at vandet og det vandet, det vil løbe, hvor vi præcist ligger henne. Der må jeg lige være svar skyldig, for Det har også noget at gøre med hvilken meditation Der er hvor højt er græsset, altså hvor meget tilbageholdelse vil der være i hele i hele vegetationen?
+
+00:32:58
+Men det skal siges, at afstrømningsmodellen den den er kalibreret op imod nogle nogle virkelige målinger, Der er blevet lavet på afstrømning ude i området, så hvor den rammer. Altså hvor Vi har både taget nogle store afstrømningsensser og små afstrømningsendelser, så den er bredt op imod virkelige egen hændelser, Der er Der er mål.
+
+00:33:20
+Og man kan vel sige det der med Camilla at at at det Det kan lige så meget potentialet vi vi. Vi forsøger at at sige Der er her er der potentiale nogle gange for at man har et stort bidrag man man negligerer III din konkrete case med bassinet der der har du leget med det i virkeligheden og og den og modellen er kalibreret, men nogle af de andre slides det. Det er jo mere for at sige jamen altså Det er potentialet.
+
+00:33:45
+Vi kan gå ind og se, at her kan der være nogle problemer.
+
+00:33:48
+Så skal man jo gå ind og kigge på selve hældningen på et terræn også om om om den lokalitet man er på.
+
+00:33:54
+Reelt så også kan skabe et problem et eller andet sted fremfor at det bare bliver digte på en mark eller whatever.
+
+00:34:01
+Ikke så Det er helt sikkert også et udviklingsområde til modellen. Det er at koble den sammen med en interesseanalyse. Interesseoverflade.
+
+00:34:10
+Ja 1000 tak og så er der en anonym der spørger hvad er jorde-kartotek præcis? Jeg har ikke hørt den term før.
+
+00:34:17
+Det er Det er foulum Aarhus Universitet foulum der hvad hedder det der har lavet en rigtig masse jordprøver. De har taget jordprøver både i forskellige dybder forskellige steder rundt om Danmark. Jeg tror Det er Sådan noget 20 cm, 0,5 m og 1 m nede og så har de analyseret dem i laboratorier i de her jord som man har alle jordparametrene for for de her jord de har indhentet.
+
+00:34:42
+Og der har man noget, der går fra at være meget sandet til meget leret under danske forhold, og man har det på et spektrum, der ligesom Sådan dækker hele det danske. Det danske landområde kan man ligesom sige, så Det er en kæmpe indsamling af data på danske jordtyper igennem foulum.
+
+00:35:01
+Ja.
+
+00:35:02
+Og i dag så ja dataene ligger tilgængelig hvis man hvis man skriver til dem, hvis man gerne vil have lidt indblik i det.
+
+00:35:10
+1000 tak så kommer der et et langt spørgsmål her og så håber Jeg kan få læst det rigtigt op her og Det er for Steffen studiet lyder til at være baseret på en model af de ubefestede slash grønne arealer for sig selv. Men jeg hører ikke at Der er taget stilling til hvor meget der rent faktisk ender i afløbssystemet og mange af tallene for afstrømning kan derfor være overestimeret. Konstruktionstiden slås rejsen for regndåbe til afløbssystem har også meget at sige, da vandet kan sive ned undervejs i for eksempel lavninger, vandpytter.
+
+00:35:38
+Er studiet ren modelbaseret eller er der også målinger til at verificere antagelserne?
+
+00:35:44
+Der har jeg lavet målinger til at verificere antagelserne. Som sagt, så er modellen kalibreret op imod.
+
+00:35:51
+Eksakte målinger, hvor man har målt på den afstrømning, der kommer fra et grønt område, og Det er modellen, som er kalibrædder op imod, så den godt kan ramme det her.
+
+00:36:01
+Men selvfølgelig. Der er noget i forhold til afstrømningstiden, og Det er også det med, at på nuværende tidspunkt så kan modellen ligesom.
+
+00:36:10
+Beregne potentialet i afstrømning, og så er det jo selvfølgelig en forbedring også at få noget med noget afstrømningstid, som varierer i forhold til vegetationen og noget hældning. Og så skal man selvfølgelig gå ind og lave en vurdering af jamen hvilke af de her grønne områder vil egentlig ende ned i afløbssystemet, og hvilke grønne områder kan Vi er? Er så flade, at det aldrig nogensinde vil minutter hen, og Det er bare vil danne vandpytter rundt omkring i oplandet.
+
+00:36:34
+Men ja, men når man kigger på, hvad er potentialet for afstrømning? Og man har et område, man tænker, det leder ikke hen til afløbssystemet, hvis Der er et stort, altså så kan man jo stadigvæk bruge til at se jamen OK, Vi har faktisk det her hele grønt område, som er forholdsvis fladt, men der vil mange perioder står rigtig meget vand på det, så det kunne godt være at vi skulle lave nogle flere tiltag for at det ikke bare står vand, hvis Det er uhensigtsmæssigt alt efter hvad det bliver benyttet til.
+
+00:36:58
+Ja tak for det så Nicki har et spørgsmål. Har i planer om formidling til andre i industrien for at få den viden optaget i standard analyser?
+
+00:37:07
+Sagde du industrien?
+
+00:37:12
+Ja industrien.
+
+00:37:14
+Ja jeg tænker Det er måske mere en generel viden om hvordan hvordan de resultater i har fået fundet. Hvordan får vi bragt dem ud, således de bliver integreret i standard analyser og modeller fremadrettet?
+
+00:37:27
+Det her, Det er jo det første på Vores side, at Vi har leget med det og præsentere det, og så vil vi jo meget gerne i dialog og have nogle nogle muligheden for at få lov til at regne og og og kalibrere altså ud fra virkelig.
+
+00:37:41
+Opleve ting ikke også.
+
+00:37:44
+Parter, hvor vi gør nu, at vi siger vi. Vi har nu muligheden for at begynde med at kunne beskrive det der jeg kaldte det firedimensionelle, men det kunne have da være fedt, at der var der var interesse for at investere i det her læst, Sådan som man også kan gå ind og regne og få nogle flere cases på på på på virkelige områder, hvor man også kan bruge lidt tid på kalibræer og tage nogle jordprøver og så videre.
+
+00:38:06
+Ja.
+
+00:38:08
+Ja, Jeg tror ikke ja.
+
+00:38:10
+Nej bare endelig kom Camilla ja.
+
+00:38:11
+Jeg tror ikke Vi har lagt nogle direkte plan, men som sagt er det her jo Sådan næstbedste skridt til at skulle estimere det her, og vi ønsker jo bare at blive endnu klogere og få nogle legekammerater. Hvad man kan sige der vil være med på, vil være med på rejsen også og lave noget sparring her omkring, så vi ligesom kan få formidlet det her og blive gjort opmærksom på at at det her er altså en ting Vi skal begynde at tage lidt højde for i fremtiden, når vi laver klimatilpasning.
+
+00:38:37
+Ja, og så har vi et spørgsmål fra en anonym, der siger, jeg forstår ikke den forskel i jordtype forklaret til USA. Jordtyper amerikansk lager kan vel ikke være meget anderledes end dansk ler.
+
+00:38:50
+Jamen Det er jo heller ikke fordi at der på den måde Sådan er forskellen, men Det er de defineres som ler. Og det vi definerer som ler. Der er bare en forskydning.
+
+00:39:03
+I hvornår vi ligesom kategoriserer indenfor de forskellige ting, så derfor hvis man bare tager nogle standardtabeller og de bygger på amerikansk data, så skal man være opmærksom på at de godt altså Der er nogle af jordklasserne. Vi er slet ikke Der er slet ikke findes i Danmark.
+
+00:39:18
+Ja, Vi har i hvert fald ikke opdaget endnu. Vi er jo ikke fordi Jeg kan lægge hovedet på blokken og sige, de slet ikke er her, men men man skal bare være opmærksom på, at Der er mange af jordklasserne, der skyder lidt udenfor mål i forhold til danske jordarter.
+
+00:39:32
+Og Det er simpelthen bare fordi Der er en forskydning i, hvordan vi forstår, hvad ler det egentlige, hvornår vi definerer noget som ler.
+
+00:39:40
+Altså hvor stor lerindholdet skal være, før vi vil definere det som lær.
+
+00:39:46
+Tak skal du have og tak for svaret. Der er stadigvæk tid til et par spørgsmål. Jeg har et mens i andre lige kan tænke over om i har et et spørgsmål mere til til Camilla og Henrik.
+
+00:39:54
+Det er i forhold til når i nu skal ind i det urbane miljø, hvor der potentielt set kunne være gravet. Det vil sige, at jeres jord-kartier kort måske ikke er nødvendigvis er gældende. Har i gjort jer nogle tanker om hvordan vi adresserer en en afstrømning der altså hvis man nu siger at man er ude i et område, hvor man har har?
+
+00:40:13
+Modelleret rundt i jorden eller flyttet rundt i jorden.
+
+00:40:16
+Jamen det vi egentlig har gjort i de konkrete cases. Det er at Vi har fået taget jordporten, som man normalt ville gøre, når man opstarter et nyt projekt, så har vi fået taget jordprøver, og Vi har lavet nedsivningstest og ud fra de data, Vi har fået på jorden der, så har vi ligesom gået ind og vurderet. Jamen hvilken model jord stemmer det her bedst over ens med, fordi Vi skal bruge en lang række af jordparametre for at kunne benytte det modellen, men så går vi ind og vurderer jamen hvilken model jo også stemmer det her bedst overens med.
+
+00:40:47
+Så hvis man har et område, Der er meget differentieret i jordtyper, jamen så vil man jo gå ind og lave flere afstrømningsmodeller og dele det op i mindre områder, så vi ligesom Sådan kan beregne afstrømningen fra de forskellige områder man nu har med at gøre, så vi kan tage udgangspunkt i lige præcis den konkrete jord Der er på det givne område. Og jo flere analyser man laver i jorden, jo bedre datagrundlag har man selvfølgelig for at skulle gøre det.
+
+00:41:13
+1000 tak for svaret Camilla Der er ikke kommet flere spørgsmål, så derfor tænker jeg egentlig at vi stille og roligt afrunder. Så har folk lige 3 minutter til til en kop kaffe inden næste møde her. Kl.
+
+00:41:23
+01:00 så på vegne af DNNK, så vil jeg meget gerne sige tak til til Camilla og Henrik for en rigtig spændende tik tok.
+
+00:41:30
+Og hvad hedder det som sagt, så er tiktokken optaget, og i løbet af de næste par par dage, så vil den ligge inde på et ANNKS hjemmeside så 1000 tak for opmærksomheden.
+
+00:41:40
+Og tak for at i lyttede med.
+
+00:41:41
+Ja.
+

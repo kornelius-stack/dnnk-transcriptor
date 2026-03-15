@@ -1,0 +1,669 @@
+00:00:09
+På vegne af DNNK vil jeg byde velkommen til dagens Tech Talk.
+
+00:00:13
+I teknikken sidder Morten Hallig, og jeg er Christoffer Sindby af Dagens Hvert.
+
+00:00:17
+På god ordens skyld skal jeg sige, at Tech Talken bliver optaget og lagt på DNNK's hjemmeside i løbet af en uges tid.
+
+00:00:25
+Lidt om det praktiske, så kan I stille spørgsmål under Tech Talken i chatten, og så vil jeg stille dem til dagens taler i slutningen af denne Tech Talk.
+
+00:00:36
+Så husk endelig at byde ind under rejse i chatten, Dagens Tech Talk er i dag med Jonas Falzerano Jensen, Ph.D.
+
+00:00:45
+i teknoanthropologi og specialist ved COVID.
+
+00:00:49
+Han vil fortælle om, hvordan en menneskelig og kunstig intelligent kan bidrage til en bedre og sikre vandforsyning.
+
+00:00:55
+Med dette vil jeg lægge ordet over til dig, Jonas, og sikkert guide resten af tiden igennem.
+
+00:01:02
+Værsgo.
+
+00:01:04
+Tusind tak for ordet, Christoffer.
+
+00:01:07
+Mit navn er Jonas Jessen.
+
+00:01:11
+Jeg er her for et par måneder siden startet i Covi, hvor jeg beskæftigede mig med digitalisering i vandbranchen, og mere specifikt med struktureret vedligehold af værdier, eller det vi kalder asset management.
+
+00:01:26
+Inden da har jeg skrevet en PUD ved Aalborg Universitet, også omkring digitalisering i vandbranchen.
+
+00:01:35
+Og på baggrund af det skal jeg i dag fortælle jer lidt om, som sagt, om det, som jeg har valgt at kalde kunstig og menneskelig viden og intelligens i den digitale vandforsyning.
+
+00:01:46
+For dem af jer, som allerede er bekendt med konceptet bag tech-talksene ved DNNK, så kan jeg måske allerede nu afsløre, at dagens talk bliver måske en tand mindre teknisk end normalt.
+
+00:02:01
+Ja, faktisk så vil jeg fokuserer på relationen mellem det tekniske og det menneskelige, snarere end kun på det tekniske.
+
+00:02:12
+Og det kommer sig af, at jeg har en baggrund inden for antropologien.
+
+00:02:18
+Og det er også inden for antropologien, at jeg har skrevet min PVD, som jeg afsluttede her i oktober 2024.
+
+00:02:24
+Så jeg vil gerne starte med at kaste os ud i et indblik i vand fra et antropologisk Og det skal ikke forstås kun på den måde, at mennesker historisk set har valgt at bosætte sig og interagere med vandløb og vandsystemer på mange forskellige måder.
+
+00:02:59
+Det skal egentlig også forstås på den måde, at vand og vandløb er sammenhængende.
+
+00:03:03
+på den måde, at mennesker historisk set har valgt bosætte sig og interagere med vandløb vandsystemer mange forskellige måder.
+
+00:03:03
+Det egentlig også vand er kultur Og det sammenhængende.
+
+00:03:03
+skal ikke forstås kun er gensidigt konstituerende og påvirker hinanden.
+
+00:03:09
+I de seneste år har vand og vandsystemer indtaget en voksen rolle i samfundsvidenskabelig forskning, bredt forstået, og dermed også inden for antropologien.
+
+00:03:21
+Det sker både fordi, at man har fået øjnene op for, hvordan adgang til og behandling af vand påvirker den måde, hvorpå et samfund udvikler sig, Men selvfølgelig også på grund af en stigende opmærksomhed også inden for antropologien på de forskellige former for vandkriser, som vores planet står overfor.
+
+00:03:45
+Og inden for de her former for kriser, der figurerer vand som enten en mangelvare, som en destruktiv kraft, som noget der renser eller er forurenet, men også som en naturlig element, en ressource, der bør forvaltes.
+
+00:04:05
+De forskellige forståelser for vand har på mange måder konsekvenser for, hvordan mennesker forstår deres liv og forvalter et samfund i en krisetilstand.
+
+00:04:20
+Hvis vi ser specifikt på menneskers forbindelse med vand, særligt inden for vandforsyning og styring af vandmængder, så er det meget tydeligt, at vores relation til vand har længe været medieret af forskellige former for ting, herunder teknologier.
+
+00:04:42
+Og vandteknologier er på mange måder som bekendt et resultat af menneskelig viden om vand.
+
+00:04:51
+Det er klart, at uden specifik viden om både vandets biologi, men også ingeniørtekniske beregninger og modeller, Så ville det være svært at forestille sig, hvordan vi kunne rense, transportere og fordele rent drikkevand i samfundet.
+
+00:05:07
+Men det som vi ofte overser, er hvordan vandteknologier også ofte påvirker, hvordan vi som mennesker forstår at håndtere vand i praksis.
+
+00:05:22
+Og derigennem også, hvordan vi lever vores liv.
+
+00:05:26
+Et.
+
+00:05:26
+Godt eksempel er akvæduktet, som jeg har valgt at tage med her i billedet.
+
+00:05:31
+Det har bl.a.
+
+00:05:33
+selvfølgelig været med til at revolutionere vores adgang til vand, men også menneskers relation til sanitet og relation til vand som et rekreativt element i hverdagen.
+
+00:05:45
+Så jeg tror min pointe her er, at det altså ikke kun er vores viden om vand, påvirker samfundet, som skaber teknologier, men det er faktisk også gennem teknologier, at vi indirekte også påvirker, hvordan mennesker lever deres liv, forstår omverdenen og forstår vand.
+
+00:06:07
+Det, der er sket i de seneste årtier, det er, at forsyningsbranchen har set en kraftig stigning af en særlig type vandteknologi.
+
+00:06:19
+Det er altså de digitale, de automatiserede, eller de såkaldte smarte af slagsen.
+
+00:06:25
+I konkret har indtoget af de her teknologier betydet, at den viden om vand, som bliver produceret i stigende grad, tager form af digitale data, som produceres af et støtstigende antal af netværket digitale sensorer, fordelt i geografin.
+
+00:06:43
+Og den her form for vidensproduktion har forskellige navne i forskellige kontekster, og jeg plejer at henvise til Iva's Digital Water, der blev udgivet i 2019, som I ser i billedet.
+
+00:06:56
+I den her pièce, der definerer Iva Digital Vand eller Digital Water som et økosystem bestående af en stor mængde netværkede digitale sensorer og beregningsmodeller.
+
+00:07:11
+Og det her økosystem, det bærer ifølge Iva potentialet for at forandre verdens vandsystemer.
+
+00:07:20
+og hjælpe forsyningerne med at blive mere modstandsdygtige mod klimaforandringer, mere innovative, effektive, og det hjælper med at bygge et stærkere økonomisk fundament for fremtiden.
+
+00:07:34
+Med andre ord, så kan digitaliseringen af vandforsyning i VA hjælpe forsyningsbranchen med at overkomme det enorme pres, som både klimaforandringen på den ene side og den stigende urbanisering på den anden side udøver samtidig med at den viser nye veje for økonomisk vækst.
+
+00:07:57
+Jeg er sikker på, at mange af jer, der lytter med i dag, allerede på mange forskellige måder arbejder ud for den her præmis, altså at forsyningsbranchen digitaliseres i højere grad.
+
+00:08:13
+Så i samme ånddrag vil I nok også påpege, at den danske vandbremse allerede i høj grad er digitaliserede, altså digital vand, allerede er her.
+
+00:08:25
+Ja, for sammenligner vi den danske virkelighed med det store udland, så lever vi jo i høj grad allerede i en digital tidsceller, og det gør sig i høj grad også gældende for vandbranchen i Danmark, hvor vi har arbejdet med et hav af censurer, som er integreret i meget komplekse systemer i mange år allerede.
+
+00:08:46
+Spørgsmålet, der opstår, er altså, hvad Hvad er innovationspotentialet?
+
+00:08:51
+Så hvad er det, der mangler?
+
+00:08:53
+Som jeg antager, at mange af jer allerede ved, så er teknologien her i høj grad allerede.
+
+00:09:01
+Men de her teknologier skal sættes i drift og operationaliseres, før at de kan skabe vedvarende løsninger for branchen.
+
+00:09:12
+Og når vi taler om i drift sættelse, så begynder vi altså at tale om mere end teknologi alene.
+
+00:09:21
+Når det drejer sig om operationaliseringen, så begynder det her økosystem for digital vand, som vi så før, så begynder det at bestå af mere end teknologi, men også af organisatoriske elementer i forsyningselskaber, af ledelsesystemer, digital dannelse og helt grundlæggende om de mennesker, der arbejder med vand til dagligt.
+
+00:09:44
+Med andre ord så består økosystemet for digital vand af Relationer mellem teknologier på den ene side og mennesker på den anden, hvis vi skal simplificere det.
+
+00:09:56
+Hertil burde der ikke som sådan være noget nyt, for der er efterhånden en række danske sektorrapporter, der peger på den såkaldte menneskelige faktor i digitalisering af vandbranchen.
+
+00:10:10
+Altså på samarbejde, kultur og arbejdsgange som værende væsentlige elementer i den digitale omstilling i branchen.
+
+00:10:19
+Men det er altså her, det begyndte at blive rigtig interessant for mig som antropolog.
+
+00:10:24
+Det var faktisk så spændende, at jeg brugte de 3-4 år af min tid som P.O.D.
+
+00:10:28
+på at blive klogere på netop den her relation, altså relationen mellem teknologi og mennesker.
+
+00:10:35
+Så vil jeg lige give jer en kort indføring i.
+
+00:10:38
+Min forskning på Aalborg Universitet centrerede sig omkring det, I ser i billedet, altså Smart Water Infrastructure.
+
+00:10:49
+laboratoriet, som det så fint hed.
+
+00:10:52
+Laboratoriet er skabt for at give mit forskningsteam, som udover mig selv er bestået af systemingeniører og dataloger, muligheden for at simulere vores teorier i praksis uden risikoen for at komprometrere kritisk infrastruktur ude i virkeligheden.
+
+00:11:16
+I løbet af vores forskning endte vores fokus på lekkagesporingsværktøjer generelt, og derfor vil det næste stykke af den her præsentation fokusere på det.
+
+00:11:28
+Men jeg vil skylde mig at påpege, at tankerne bag gør sig også gældende inden for andre områder herunder, inden for asset management, som vi kommer til at slutte af med.
+
+00:11:38
+Det, jeg vil specificere her, det er, at som entropolog, der bestod min rolle i projektet i at bringe informationer fra den virkelige verden ved forsyningerne, og deres brug af digitale løsninger, og muligvis også barrierene, der blev oplevet for implementering af digitale løsninger, og bringe alle de her informationer tilbage ind til laboratoriet, sådan at vi som team kunne udvikle nogle løsninger, der svarer til de udfordringer og til de behov af barriere, der reelt er derude.
+
+00:12:12
+Så helt konkret, Der lavede jeg i løbet af min PUD cirka 12 måneders antropologisk feltarbejde i den danske vandbranche.
+
+00:12:23
+Blandt forsyningerne både ude i marken og på kontoret, hos leverandører, interesseorganisationer, i laboratorier.
+
+00:12:31
+Og jeg deltog til en stor mængde konferencer, der tilsammen producerede en ret omfattende datamængde blandt andet fæltsnoter, billeder og forskellige interviews, som tilsammen lægger til grund både for min forskning, for min Pødé, men også til den præsentation, som I tuner ind på i dag.
+
+00:13:00
+En af de ting, som gik igennem på tværs af de forskellige møder, som jeg har haft i løbet af mit fældearbejde, det er, hvor vigtig kultur Og den såkaldte menneskelige faktor er for digitalisering af vandbranchen.
+
+00:13:16
+I hvert fald i forhold til de forskellige interessenter, som jeg har talt med i løbet af min PhD.
+
+00:13:23
+Og det, som jeg har interesseret mig for, det er også et spørgsmålstegn.
+
+00:13:26
+Hvad er det, den her kultur består af?
+
+00:13:29
+Hvad er det egentlig, vi taler om, når vi taler om den menneskelige faktor?
+
+00:13:34
+Så for at besvare de her spørgsmål, der vil jeg give jer en lydende introduktion til kulturbegrebet i antropologi, så jeg håber, I vil bære an med mig her de næste 3-4 minutter.
+
+00:13:49
+Når man taler om kultur ude i samfundet, så bliver det ofte set som noget statisk, noget, der er afgrænset.
+
+00:13:58
+Noget, som mennesker har, og som er afgørende for, hvordan de handler og tænker.
+
+00:14:06
+Og det er det her syn på, Kultur, som kan gøre det til en udfordring eller en barriere, der skal overkommes for at implementere og i driftsætte digitale løsninger.
+
+00:14:17
+Men i entropologien arbejder vi med et kulturbegreb, som snarligt er foranderligt, som er flertydigt, og som faktisk konstant er til forhandling blandt mennesker.
+
+00:14:33
+Kultur på den her måde bliver ikke kun noget, som er i og for sig, og som vi kan forstå og påvirke uafhængigt af det kontekst.
+
+00:14:45
+Men det er altså noget, som opstår løbende i takt med, at mennesker handler med andre mennesker og interagerer med teknologier, politikker og forskellige interessenter.
+
+00:14:57
+Derfor har jeg i løbet af min forskning forsøgt at blive klogere på, hvilke former for kultur og digital kultur, der er til stede i vandbranchen ved at kigge på det daglige arbejde ved forskellige danske forsyningselskaber og leverandører.
+
+00:15:13
+I den næste slide vil vi give jer en kort indfølgning i, hvilke indsigter, der er kommet ud af det her arbejde.
+
+00:15:23
+Et af de store fund fra min forskning er, at hvis vi zoomer ind på træfsearbejdet ved de danske forsyningselskaber, så stod det ret tydeligt for mig, at det i høj grad drejer sig om sandsligt arbejde.
+
+00:15:42
+Det angår både den store mængde af netværkets sensorer, som vi anvender til dagligt til at overvåge vores vandmængder, men også i forhold til medarbejdernes interaktion med ledningsnettet.
+
+00:16:00
+Udover de information, som vi får af digitale sensorer, så bruger vi jo til dagligt også tv-inspektioner eller taldetektorer, mere eller mindre avancerede lytteudstyr til at forstærke vores egne menneskelisenser ude i marken i løbet af driftsarbejdet.
+
+00:16:20
+Og det, som jeg også studser over, det er, at vi faktisk i flere tilfælde tyder til mere eller mindre primitive teknologier ude i marken, frem for de ellers mere teknologiske løsninger, som også står til rådighed.
+
+00:16:40
+Særligt blandt de mere erfarne medarbejdere.
+
+00:16:44
+Spørgsmålet opstår, så hvorfor er det egentlig, at det her sker?
+
+00:16:51
+I løbet af mine fællestudier har jeg været i dialog med flere forskellige håndværker, i talesat, hvordan de i høj grad stoler på deres egne sensor i deres daglige arbejde, og til tider faktisk foretrækker at bruge de her mere primitive teknologier, som fx en t-nøgle, frem for mere avancerede lytteudstyr, som de ellers havde adgang til, i det det giver dem en sanselig erfaring af ledningsnettet.
+
+00:17:21
+I udtaler bl.a.
+
+00:17:22
+hvordan det at bruge deres egne sensor og forstærke dem gennem teknologier forbinder dem til ledningsnettet, så de får det under huden på en helt anden måde, end smarte løsninger kan hjælpe dem med.
+
+00:17:38
+Jeg har også talt engang med en adressleder ved et forsøgningstilskab, der fortalte mig, hvordan han har opbygget en fornemmelse for, hvordan ledningsnettet har det, gennem det daglige arbejde med SO-systemets grafer.
+
+00:17:57
+Jeg har taget et citat med, som jeg gerne vil læse op for jer, som lyder sådan her.
+
+00:18:03
+Nogle gange får jeg en fornemmelse af, at mine GIS-data er forkerte.
+
+00:18:07
+Jeg ved ikke helt, hvor den fornemmelse kommer fra, men nogle gange viser det sig, at fejlen er i datan.
+
+00:18:13
+Andre gange er den hos mig.
+
+00:18:17
+Det som et citat som det her vidner om, er at systemet ikke nødvendigvis udelukkende dræftes gennem faktuelle beregninger, men også via en form for langsomt opbygget, lad os kalde den intuitive, ekspertise og en sanselig fornemmelse for ledningsnettet, som er helt afgørende for den daglige dræft og vedligehold af ledningsnettet.
+
+00:18:44
+Men til trods for det, så bliver den her med erfaringsbaseret viden ofte betragtet i negativ forstand i branchen.
+
+00:18:53
+Den bliver talesat som baseret på mave fornemmelser i modsætning til de mere hårde data-baserede facts, som de digitale teknologier producerer.
+
+00:19:05
+Det interessante her er, at min forskning peger derimod på, at det er enormt vigtigt for den digitale omstilling, at de her data-baserede digitale former for viden og menneskelige former for erfaring og viden i højere grad bør komplementere og understøtte hinanden, og faktisk bruge til at validere hinanden, for at den digitale omstilling kan træde til i sin fulde kraft, så at sige.
+
+00:19:34
+Så det, som jeg har forsøgt at nu arrangere indtil videre, er et syn på kultur ved forsyningstilskaberne som forskellige former for arbejdspraksiser og former for vidensproduktion i græften.
+
+00:19:50
+Men det er faktisk blot en ud af flere forskellige former for kultur, som jeg har jagttaget i løbet af mine fællesstudier.
+
+00:19:57
+Så helt grundlæggende plejer jeg at inddele de nuværende kultur i vandbranchen i to kategorier, som faktisk trækker digitaliseringen i forskellige retninger, men det vil jeg vende tilbage til.
+
+00:20:11
+Den første omtaler jeg som vedrørende driften.
+
+00:20:16
+Det er den, som vi har talt om indtil videre.
+
+00:20:20
+og hvor der er tale om forskellige former for arbejdsgange, tilgang til værktøjer, rutiner, som genererer forskellige former for viden.
+
+00:20:30
+Herunder har jeg talt om det, som vi kan kalde den intuitive kultur, altså de mere erfarne medarbejderes ekspertise, fx ingeniørens fornemmelser for ledningsnettet, som jeg talte om før igennem citatet.
+
+00:20:45
+Men den her form for intuitive kultur er jo også set som barrieren eller problemet, der kan overkommes gennem det, som jeg har valgt at kalde den rationelle kultur.
+
+00:20:59
+Altså de mere datatrevne arbejdspraksisser, som automatiserede teknologier og deres beregninger er med til at producere.
+
+00:21:09
+Ofte ses de her to former for kultur, den intuitive og den rationelle, som modsat rettet, Men jeg vil argumentere for, at de bør i højere grad forstås i sammenhæng.
+
+00:21:23
+Det næste, som jeg vil fremhæve, er et blik på udvikling.
+
+00:21:33
+Her er det ikke kun tale om ledelsens, men også om medarbejdernes visioner og strategiske ambitioner.
+
+00:21:45
+Det her blik på udvikling har vælt at dele i to kategorier, som vi kan kalde innovationskultur.
+
+00:21:51
+På den ene side er det at tale om den innovative og pionerende kultur, store ambitioner og visioner, som er til stede i vandbranchen omkring digitalisering.
+
+00:22:03
+Som både er til stede i forskellige former blandt ledelsen, men faktisk også finder stede som forskellige idéer om effektivisering blandt medarbejdere.
+
+00:22:16
+Og på den anden side har vi så den strategiske kultur, som er den måde, hvorpå visionerne forankres og implementeres i praksis.
+
+00:22:27
+Her er der altså tale om forskellige former for innovationsstrategier, åbent og lukket innovation, partnerskabstrævende og datatrævende innovation, og forskellige former for forretningskørelse.
+
+00:22:42
+Som sagt, det som de her forskellige former for kultur har til fælles, det er, at de faktisk alle sammen på en eller anden måde er til stede i den danske vandbranche på nuværende tidspunkt.
+
+00:22:56
+Det har i hvert fald været min oplevelse.
+
+00:22:59
+Men at de faktisk trækker digitaliseringen i forskellige retninger.
+
+00:23:06
+Og i praksis så skaber det et gap mellem udvikling og drift, som jeg vil argumentere for i højere grad bør gå hånd i hånd for at sikre, ledelsens fremtidsvisioner og ambitioner i højere grad er på bølgelængde med de rutiner og ambitioner, der er til stede på driftsniveau.
+
+00:23:28
+Derfor peger min forskning på, at målet her er at opnå en situation, hvor driftsens former for vidensproduktion og den her forbindelse med ledningsnettet, altså det, som jeg har kaldt den rationelle og intuitive kultur, i højere grad føder ind i ledelsens udviklingsarbejde og visioner, det som jeg kalder den strategiske og innovationskultur, men også visvejr sig sådan, at dræft og udvikling løbende kan udfordre og validere hinanden iterativt.
+
+00:24:08
+På den måde kunne udvikling og dræft danne en form for valideringscyklus, så at sige.
+
+00:24:15
+Det er meget fint, men det store spørgsmål, der opstår, er, hvordan vi opnår sådan et stadie.
+
+00:24:24
+I mit nuværende arbejde med asset management i Covid forsøger vi at arbejde os ind på sådan et mål ved at stille os selv grundlæggende to centrale spørgsmål.
+
+00:24:36
+Det første handler om, hvordan vi kan producere robust og troværdig, men ikke mindst brugbare data, komplementere medarbejdernes viden om netværket, altså den her sandslige erfaring og ekspertise.
+
+00:24:52
+Men ikke mindst også stiller vi os selv det spørgsmål, der handler om, hvordan vi sikrer, at den her viden ikke går tabt, men snarere hvordan den kan forankres og operationaliseres for at forbedre vores vandforsyning på en strukturert måde inden for forsyningerne.
+
+00:25:14
+Jeg tror, at svaret på de her spørgsmål bringer os tilbage til der, hvor vi startede i dag.
+
+00:25:20
+Altså til akvædukten, som repræsenterede vores forbindelse til vand og den viden, som vi producerer omkring vand gennem teknologi.
+
+00:25:29
+Det helt grundlæggende peger min forskning på, at digitale løsninger og teknologier kan meget i sig selv.
+
+00:25:38
+Men den databaserede viden, de producerer kan ikke stå alene, hvis den skal gøre en forskel i praksis.
+
+00:25:48
+Tværtimod bør den på en eller anden måde understøtte og udvikle medarbejderne som menneskers sanselige forbindelse med systemet, med ledningsnettet og deres fornemmelse af det.
+
+00:26:03
+Når vi taler om asset management i KUV, begynder vi ikke længere kun at tænke på tekniske løsninger, men på at facilitere dialog og skabe en form for fælles læringsrum, hvor vi kan forbedre vores digitale værktøjer gennem machine learning på den ene side, hvor vi samtidig kan gøre vores dataopsamling skarpere i ledningsnettet, men ikke mindst sådan, at vores at personalet i vandbranchen kan dele deres viden og samtidig blive klogere på ledningsnettet og på forskellige måder og drifte det på tværs af forsyninger, vidensinstitutioner, leverandører og rådgivere.
+
+00:26:56
+Med andre ord sigter vi efter at skabe en form for læringsrum, hvor menneskelige og maskinelle former for viden gensidigt validerer, men også udfordrer og supplerer hinanden.
+
+00:27:09
+sådan at vi sammen kan udvikle løsninger, der passer til de konkrete udfordringer, som er til stede ved forsøgningerne.
+
+00:27:15
+Og den strategi og former for viden, der er til stede blandt deres medarbejdere.
+
+00:27:22
+Og den her vision, eller form for tilgang til asset management, kalder vi for assist.
+
+00:27:33
+Og jeg tror, at hensyn til tid, og også for at give lidt plads til nogle spørgsmål, så vil jeg stoppe her.
+
+00:27:40
+Men jeg har også taget et par spørgsmål med her, som jeg vil lade stå her til den sidste del af dialogen, som egentlig er tænkt som nogle spørgsmål, som jeg er optaget af for tiden, men som måske også kan danne en grundlag for en dialog nu her.
+
+00:28:04
+Så som sagt, det tror jeg vil stoppe her, så tak for opmærksomheden.
+
+00:28:08
+og så er jeg spændt på at høre, om der er nogle reaktioner derude.
+
+00:28:13
+Tusind tak for indlægget, Jonas.
+
+00:28:15
+Jeg vil sige til jer, der sidder derude, endelig stille nogle spørgsmål, og særligt i forhold til det, som Jonas egentlig kaster spørgsmål tilbage den anden vej, og jeg vil lige give jer tid til at læse dem, så I kan svare på dem.
+
+00:28:31
+Jonas, jeg sad sådan lidt i gennemgangen, og det fik du summet lidt op til sidst, at vi kan ikke blive 100% digitaliseret og datadrevet, uden vi stadig har mavefornemmelse og dem, der ser derude og mærker og hører på tingene.
+
+00:28:49
+Er det korrekt forstået?
+
+00:28:52
+Ja.
+
+00:28:52
+Det vil jeg mene.
+
+00:28:54
+Det, som jeg meget har oplevet i løbet af min forskning, er, at der ofte bliver skabt et skarpt skil mellem Den form for viden, som digitale teknologier kan producere, altså den mere faktuelle, solid viden, der kommer derfra, den bliver sat i skarp kontrast til de erfarne medarbejderes mavefornemmelser.
+
+00:29:25
+Men det, som jeg oplever i praksis, det er, at den viden er meget afgørende for den daglige drift og det daglige arbejde.
+
+00:29:33
+Så det, som vi sigter imod, det er måske i højere grad en integration af digital data-drivet viden med de erfaringsbaserede viden, som også er til stede derude, og som med tiden også vil gå tabt, hvis ikke vi er dygtige og gode til at forankre det i organisationen på en eller anden omfang.
+
+00:30:03
+Så helt klart, jeg ser, at de to bør gå i højere grad hånd i hånd.
+
+00:30:08
+Ja.
+
+00:30:09
+Og det kan jeg.
+
+00:30:09
+Også se, det er også en af dine spørgsmål, hvordan værner I om jeres menneskelige værdier og viden?
+
+00:30:13
+Og det er jo et spørgsmål til jer, der sidder derude, hvordan I husker at få dem med.
+
+00:30:19
+I min optik tænker jeg også, at det ligger rigtig meget i forhold til, at man rent faktisk anerkender den del, at nogle af dem, som du siger, har erfaring, og den sandslige del af, hvordan systemet det fungerer.
+
+00:30:31
+også til at kunne få dem med ombord, fordi deres viden stadig er lige så vigtig, som den faktisk.
+
+00:30:36
+Har været tidligere.
+
+00:30:38
+Ja, og det handler jo også i høj grad om, at gøre flygtige ellers flygtige erfaringer fra erfarne medarbejdere levedygtige i organisationen.
+
+00:30:52
+Altså, vi står jo også overfor et generationsskifte blandt forsyningerne, hvor de mere erfarne medarbejdere stille og roligt med årene ikke er der længere.
+
+00:31:06
+Så der ligger jo også en stor opgave i at sikre den viden, som de her mere erfarne medarbejdere besidder.
+
+00:31:16
+Det var præcis der, hvor.
+
+00:31:18
+Jeg lige sad med tanken i forhold til dit driftchef, som nogle gange havde ret, og andre gange ikke havde.
+
+00:31:24
+Nu betaler jeg det på mavefornemmelse og ikke dataopsamlingen i forhold til, hvis den viden forsvinder, om det så altid vil være det dataopsamlede og de nye tekniske løsninger, der vil komme med.
+
+00:31:36
+Et svar?
+
+00:31:39
+Jeg tror, at selvom vi ser sikkert ud i en fremtid, hvor der er behov for mere datatekniske færdigheder, i vandbranchen, så kommer vi ikke udenom, at den hydrauliske viden også vil være nødvendig og tage sted blandt forsyningerne.
+
+00:32:03
+Så jeg tror, uden at jeg skal spøge for meget væk fra dit spørgsmål, Christopher, så tror jeg, at det er ret afgørende, at vi sætter fokus på en en kombination af både hydraulisk og datateknisk viden hos forsøgningerne.
+
+00:32:28
+Jeg ved ikke helt, om det var svar på de spørgsmål, Christoffer, for det svedede lige væk, mens jeg var optaget af mine egne tanker.
+
+00:32:34
+Nej.
+
+00:32:35
+Jeg synes, det svarede langt hen ad vejen på det, og jeg vil også sige til jer derude, I må meget gerne skrive nogle spørgsmål ind, de er ikke kommet nogen ind i chatten endnu, men det svarede godt på, fordi det der var lidt min Udfordring, tænker jeg, eller frygt, det er, om vi i digitaliseringens navn kommer for langt væk fra den faglige mavefornemmelse af, hvad der har været derude egentlig tidligere.
+
+00:33:00
+Det var egentlig den, som var, altså vi skal huske på at værne om de gode gamle lytte til vandrørene tilgange, også sammen kombineret med det.
+
+00:33:10
+Teknologiske.
+
+00:33:11
+Ja, jeg tror det, som er min erfaring, det er, at altså erfaringen i høj grad også er med til at validere det data output, der kommer ud af de digitale løsninger.
+
+00:33:27
+Et stort spørgsmål omkring det her er også at skabe tillid til data.
+
+00:33:33
+Og en måde at gøre det på, det er at sætte det over for de erfaringer, som medarbejderne har fra deres praksis indtil videre.
+
+00:33:43
+Og hvis vi skal skabe tillid til digitale løsninger, så tror jeg, at det i høj grad skal komme derfra.
+
+00:33:48
+Når det er sagt, så ser jeg også, at vi i fremtiden, vi kunne skabe et meget stærkt erfaringsgrundlag hurtigere ved at anvende digitale data.
+
+00:34:01
+Fordi det er klart, at den erfaring, som kommer fra de erfarne medarbejdere på nuværende tidspunkt, er jo opbygget over årtier.
+
+00:34:12
+Og jeg tror, at digitale løsninger kan være med til at gøre den proces langt hurtigere.
+
+00:34:18
+Det kræver bare, at der er noget gennemsigtighed og noget tillid til, hvad de kan og hvad de producerer.
+
+00:34:26
+Så har vi fået et.
+
+00:34:28
+Spørgsmål fra Morten.
+
+00:34:30
+Har du faciliteret denne formidling korrekt?
+
+00:34:33
+Hvordan har du gjort det?
+
+00:34:34
+Og har du erfaringer med.
+
+00:34:36
+Konkrete redskaber til denne dialog?
+
+00:34:40
+Jeg går ud fra, at du henviser til den sidste del af præsentationen.
+
+00:34:48
+Det er noget, som jeg har en lille smule erfaring med fra min PUD, men det er faktisk noget af det, som jeg på nuværende tidspunkt er ved at udvikle i COVID.
+
+00:35:04
+Så erfaringsgrundlaget er ikke enormt stort, men det har været i form af workshop-baserede aktiviteter, hvor at vi har samlet på tværs af branchen, altså forskellige organisationer, men også på tværs af forskellige funktioner inden for forsyningerne, så vi i virkeligheden har faciliteret en erfaringsudveksling på tværs af branchen, men også i dybden inden for organisationen.
+
+00:35:40
+Det er noget, som vi stadigvæk tænker ind i, og som vi udvikler på i Kone.
+
+00:35:46
+Super.
+
+00:35:47
+Morten, jeg håber, det.
+
+00:35:48
+Var svaret på dine spørgsmål.
+
+00:35:49
+Ellers må du lige uddybe, hvis der mangler noget.
+
+00:35:51
+Ellers spørger Anders.
+
+00:35:54
+Vi kan godt genkende tendensen til et modsætningsforhold.
+
+00:35:58
+Hvordan vurderer du vægtningen mellem de to ting?
+
+00:36:02
+Skal den menneskelige viden værdisættes som input i de digitale resultater?
+
+00:36:07
+Skal de to ting behandles som ligeværdigt, værdisættet?
+
+00:36:12
+Og så a.
+
+00:36:12
+kombineres lidt, eller risikoanalysen, eller b.
+
+00:36:16
+validerer hinanden?
+
+00:36:18
+Det var et langt spørgsmål, så nu må jeg lige sige til, hvis jeg lige skal genfriske noget.
+
+00:36:22
+Ja.
+
+00:36:23
+Det tror jeg ikke, du behøver.
+
+00:36:25
+Udfordringen er, at jeg oplever en klar skrivevredning af hvor meget er vigtigheden af kvantitative dataset kontra de erfaringer, som medarbejderne sidder med.
+
+00:36:47
+Så jeg syntes helt klart, at et skridt hen ad vejen ville være at anerkende ligevægten af de to.
+
+00:37:00
+Og når det er sagt, så ser jeg også, at erfaringerne bliver i høj grad, i hvert fald i højere grad inddraget af arbejdet eller inden for arbejdet med asset management.
+
+00:37:13
+Så i virkeligheden, så er det et spørgsmål om at skabe en digital ledelsespraksis, som både anerkender værdien af et dataset, Men som også anerkender, at den værdi først kan træde i kraft i praksis, når den bliver udpræget blandt medarbejderne, og når medarbejdernes viden også bliver sat op imod den.
+
+00:37:47
+Så igen, jeg tror det er vigtigt at se de to ting, som værende er relateret, og som noget, der bør gå hånd i hånd.
+
+00:37:55
+Også fra et ledelsesperspektiv.
+
+00:38:01
+Tak.
+
+00:38:02
+Jeg håber, at det var svaren også.
+
+00:38:04
+Der er ikke flere spørgsmål i chatten, så hvis der ikke lige kommer nogen ind her, så vil jeg til at runde dagens Tech Talk af.
+
+00:38:15
+Og her til sidst, så vil jeg sige tak, Jonas, for en anderledes vinkel ind i forsynningsverdenen.
+
+00:38:24
+Det var meget interessant for det menneskelige og det meget tekniske koblet lidt mere sammen.
+
+00:38:29
+Dertil skal jeg også sige, at hvis der er nogen af jer, der har lyst til at dele viden på en tech talk eller i andre DNAK-formater, så skal I endelig give lyd til en af os netværksmedarbejdere.
+
+00:38:39
+Så vil vi gerne tage dem op også.
+
+00:38:43
+Og til slut vil jeg lige give en lille reklame om, at I kan finde andre gode oplæg i Klimakalenderen, som kommer herover de næste par måneder.
+
+00:38:52
+Og med det, Så vil jeg ønske alle sammen en rigtig god weekend, når I når dertil, og sige tusind tak for jeres deltagelse, og særligt til dig og Jonas.
+
+00:39:03
+Tusind tak.
+

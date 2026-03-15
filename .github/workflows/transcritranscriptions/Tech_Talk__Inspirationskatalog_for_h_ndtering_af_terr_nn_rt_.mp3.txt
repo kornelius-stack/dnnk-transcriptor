@@ -1,0 +1,1161 @@
+00:00:05
+På vegne af DNNK vil jeg byde velkommen til dagens Tech Talk.
+
+00:00:10
+I teknikken sidder Morten Halling, og jeg er Christoffer Sindby, og dagens vært.
+
+00:00:14
+På god ordens skyld skal jeg sige, at Tech Talken bliver optaget og lagt på DNNK's hjemmeside i løbet af en uge.
+
+00:00:20
+I forhold til det praktiske, så er det sådan, at undervejs i denne Tech Talk, så kan I stille spørgsmål i chatten hele vejen, og så vil vi runde det op med til sidst at stille spørgsmålet til dagens værter, Dagens tekst talk i dag vil blive en præsentation af et inspirationskatalog omkring terrænet af grundvand og noget baggrund dertil.
+
+00:00:43
+I dag har vi Peter Bastus fra WSP, Sanne Schlott Hansen fra Søndherr og Ulrik Hilsbjerger fra Teknologisk Institut til at gå det igennem.
+
+00:00:52
+Her til at starte med vil jeg give ordet videre til dig, Peter.
+
+00:00:56
+Velkommen til.
+
+00:00:58
+Tak.
+
+00:00:59
+Hej alle sammen derude.
+
+00:01:01
+Mit navn er Peter Bassidous, og jeg er en af indlægsholderne her.
+
+00:01:05
+Og så har vi Sanne og Ulrike med.
+
+00:01:07
+Sanne, vil du?
+
+00:01:08
+Ja, jeg hedder Sanne Slott Hansen.
+
+00:01:10
+Jeg er landskabsarkitekt hos Sjøen her, og har arbejdet en del med klimatilpasning med særlig fokus på at skabe gode helhedsorienterede løsninger og masser af mere værdi.
+
+00:01:20
+Ja, og jeg hedder Ulrik Hensbøger fra Teknologisk Institut, og arbejder med afløbssystemer og klimatilpasninger, både i forhold til teknikker og mere værdier.
+
+00:01:29
+Og som der står på sliden, så er det jo Sanne, Ulrik og jeg, som har stået i spidsen for at lave det her inspirationskatalog, og det glæder vi os rigtig meget til at præsentere for jer.
+
+00:01:39
+Men vi kunne godt tænke os lige at starte med lidt baggrund, fordi vi kommer mange forskellige steder fra.
+
+00:01:45
+Så hvorfor er det nu, at det her katalog kommer?
+
+00:01:48
+Og det har vi lavet en lille agenda omkring, som meget gerne skulle komme her.
+
+00:01:54
+Vi kunne godt tænke os at lige starte med lidt baggrund, og så kunne vi godt tænke os at starte lidt og snakke lidt om den her nye lovgivning, der er på vej.
+
+00:02:04
+Og så det her inspirationskaloud, som vi har lavet til Danmark og KL, og ud fra det kaloud også nævne nogle af de eksempler og cases, vi har med deri, hvad det er, de kan.
+
+00:02:14
+For det er jo altid interessant at se på, hvad der bliver lavet rundt omkring, og nogle gange også, hvad der ikke bliver lavet.
+
+00:02:19
+Og så kunne vi godt måske tænke os at slutte af lidt med, hvad er det, der kommer til at ske nu, når der kommer sådan en ny lovgivning?
+
+00:02:27
+Eller i hvert fald et bud på det.
+
+00:02:30
+Jeg har lige en små ti minutter til at fortælle lidt om baggrund.
+
+00:02:34
+Noget af det, jeg ville tage udgangspunkt i, og det er sikkert en del af dig, har set det her før, den her slide, den viser jo en udvikling i nogle boringer over tid, som viser, at grønlandet måske har steget en lille meter eller sådan noget siden 1987.
+
+00:02:52
+I hvert fald i de boringer her.
+
+00:02:54
+Det er ikke alle steder, det ser sådan ud, men det blev i hvert fald brugt af Trevand, som jo var Hofor, Aarhus Vand, Vandsætter Syde og Biofos, der producerede det her notat og sagde, at vi er nødt til at gøre et eller andet projekt, fordi som det er i dag, er det jo sådan, at man må godt håndtere terræne og grundvand ved sit eget hus og lave et omfangsdren eller lignende, men forsyningerne må ikke drene.
+
+00:03:23
+Derfor kan man ikke lave de her kollektive løsninger, hvor man drener i større områder, hvor det måske Det giver så meget mening længere, at folk laver omfattning, hvad jeg ser, og bruger en masse penge på det, for at vælge at mærke og hælde vandet ud i den korrekt, hvor forsyningerne nok heller ikke gerne vil have det.
+
+00:03:40
+Så det er jo en af baggrundene.
+
+00:03:42
+Der strammer den her lille graf fra.
+
+00:03:45
+Vi har fundet nogle værktøjer af siden, og hvis man kigger ind i HIP-databasen, som nogle af jer måske kender, det er jo Geos, der har lavet den her hydrologiske informations- og prognoseportal, Hvor man kan klikke forskellige ting ind og se nogle bud på fremtiden, om også på nutiden.
+
+00:04:04
+Hvis man prøver at klikke ind på den og ser på, hvordan vil det se ud i fremtiden med et højt CO2-niveau om sommeren og om vinteren, så ser vi til højre et ret blåt Danmark, som er udtrykt for, at om vinteren vil det nok stige ret mange steder, nogle steder mere end andre.
+
+00:04:22
+Det kan sagtens stige, uden at det er en trussel, hvis det ligger 10 meter under terrænet.
+
+00:04:27
+Jylland er ret blåt, men det er også ret højt.
+
+00:04:31
+Så det er ikke sikkert, at det er en trussel.
+
+00:04:33
+Den stigning siger ikke noget om, hvor tæt vi er på terrænet.
+
+00:04:37
+På billedet til venstre ser vi et sommerbillede, hvor vi kan se, at der ser det ud som om, at vi godt kunne se et faldende grundvejsbejl om sommeren flere steder.
+
+00:04:48
+Det er der, hvor det ikke er blåt, hvor vi har en øvedampning.
+
+00:04:53
+på grund af varme og klima, og derfor måske også et faldende grønlandsbejde, og nogle steder måske også faldende om vinteren.
+
+00:05:01
+Så det er jo ikke givet, at det stiger alle steder.
+
+00:05:05
+De billeder, vi ser, når vi giver os omkring ude i Ådalene, er jo sådan nogle vinterbilleder, hvor vi ser, at vi kan have ret store oversvømmelser.
+
+00:05:15
+Det er i det åbne land af Ådalene, der bliver fyldt op, og vi ser også rigtig mange marker, hvor der er stående vand på Specielt vintersæsoner med meget nedbør, hvor vandet ikke kan nedsive eller fordampe.
+
+00:05:30
+Vi ser også mange effekter inde i vores bebyggede områder.
+
+00:05:35
+Der er mange sommerhuseområder, der ligger steder, som er udsatte.
+
+00:05:39
+Et billede som det her, kommer vi nok til at se mere til i fremtiden, og allerede har set en del eksempler på.
+
+00:05:45
+Hvis vi skal ind i det stedet by, så kan man sige, hvilke gode billeder man trænger, når man ser en by der er i.
+
+00:05:51
+Jeg har taget et eksempel med alligevel, som måske kunne være godt, nemlig et sted i Odense, hvor Renns Center Syd, fra et skille år siden, købte nogle ejendomme op til markedsprisen for at lave regnvandsplacering, for de var faktisk etableret i et gammelt motorområde.
+
+00:06:07
+Det kunne lige så vel være noget, der skulle måske på sigt også kunne skyldes trækning af grundvandet, lige så vel som det kunne skyldes nedbørn.
+
+00:06:19
+Inde i bøgerne ville vi også kunne se nogle problemer.
+
+00:06:22
+Hvis det var terrænet af grundvand, så var det måske noget, man ville drene sig ud af.
+
+00:06:26
+Men sommernedbøgerne eller skybrunene var svære at forsvare sig imod.
+
+00:06:30
+Der havde man brug for at lave bassinen.
+
+00:06:33
+Men det er kun klimaforandlingerne, der gør, at vi kan få udfordring i terrænet af grundvand.
+
+00:06:39
+Det billede, I ser her, er fra Herning Folkebladet, hvor der er en artikel om, at grundvandet vil stige.
+
+00:06:45
+Det er af skyldes tætning af kloakken.
+
+00:06:49
+Parret her har haft en rimelig tør kælderfør i tiden, men har det ikke længere.
+
+00:06:55
+Nu ved jeg ikke, hvordan det ser ud i dag.
+
+00:06:57
+Men i hvert fald påvirker mennesket også den overfladen af hydrologi med sin vandindvinding, med sin dræning via kloakker.
+
+00:07:07
+Nogle gange annullerer man jo indvindinger, så får vi en risiko for stigende grundvand.
+
+00:07:13
+Eller man tænder kloakker og får en risiko for stigende grundvand, hvilket er tilfældet her.
+
+00:07:18
+Vi skal også tænke os godt om, når vi går ud og ændrer de ting, som har været naturgivende i den tid, hvor man har bygget, fra 60'erne og frem efter, hvis vi begynder at ændre den naturlige hydrologi.
+
+00:07:35
+På mit udkald var jeg med som projektleder på rapporten til City, hvor vi kigger på klimaforandringens betydning for fremtidens areale.
+
+00:07:45
+Der kiggede vi blandt andet på de trængende af grundvand, Og der har jeg en lille slide med her i forhold til, hvor mange ejendomme, der kan tænkes at blive påvirket af stormflod, nedbøger til forskellige gentagsbøger og terrængene af grundvand.
+
+00:08:00
+Og det er jo den nederste højre, der hænger om terrængene af grundvand.
+
+00:08:03
+Og der kan I jo se, hvor mange helårsboliger vi har vurderet ud fra nogle bestemte forudsætninger, der kan blive påvirket af terrængene af grundvand i fremtiden.
+
+00:08:11
+Og det tal ligger jo omkring 400.000 eller knap 400.000, og der er også små 100.000 erhvervsejendomme og måske 130.000 fritidsboliger.
+
+00:08:24
+Så når man ser på de forskellige vandtyper, så er terræne og grundvand lidt af en joker, og kan være den, der kommer til at påvirke langt de fleste ejendomme i fremtiden.
+
+00:08:36
+Hvis man skal sige nogle hovedpointer omkring terræne og grundvand, så skal vi nok sige, at de udfordringer, vi ser, der stiger, det skyldes rigtig meget vind og nedbløring.
+
+00:08:48
+Det er meget vind og nedbørn, der vil stige med de klimaforandringer og de modeller, vi ser fra IPCC.
+
+00:08:54
+Vi får måske 20-30 % større vind og nedbørn, end vi har gjort helt til.
+
+00:09:00
+Det er heller ikke en ny udvikling, det er noget, der har stået på i nogle år, men vi forventer, at den accelererer.
+
+00:09:06
+Det betyder også, at tegnet er grundet, at man vil stige nogle af steder, men ikke alle steder.
+
+00:09:11
+Man kan sige, at de steder, hvor man allerede har problemer i dag, med terrængrund, dermed man får en endnu større hyppighed og vejighed af de her udfordringer i fremtiden, end man er vant til.
+
+00:09:23
+Og de steder, hvor man kun har oplevet små problemer, eller har været tæt på, der kan man få endnu større hyppighed og højere grundvandsstande før.
+
+00:09:31
+Og så er der også steder, man aldrig vil få problemer med terrænet af grundvand.
+
+00:09:35
+For eksempel Mols Bjerge, der er vist her til venstre.
+
+00:09:38
+Så det er ikke sådan, at vi kan sige over det hele, at alt bliver værre, både om vinteren.
+
+00:09:43
+Det vil afhænge meget af, hvor vi er.
+
+00:09:48
+I forbindelse med lovforberedende arbejde og hele optagten til at gøre noget ved det her, der har man også kigget lidt til Holland.
+
+00:09:56
+For i Holland kom der i 2008 en ny lovgivning, som vi jo forventer, der kommer her 1.
+
+00:10:01
+juli i år.
+
+00:10:02
+I Danmark der ligner den.
+
+00:10:04
+Og den gav mulighed.
+
+00:10:07
+Afgrunden for det var også i Holland, at man havde store problemer med trængende af grundvand, og det var private lovsejers ansvar at friholde deres ejendom og beskytte deres ejendom mod det.
+
+00:10:17
+Men det blev der ændret på i 2008.
+
+00:10:19
+Der blev der givet mulighed for, at forsyningsselskaberne dernede kunne dræne fra taktsmidler inde i byerne.
+
+00:10:27
+Og det gjorde, at man formulerede service nu faktisk på gadeniveau.
+
+00:10:31
+For at sige, hvad kan vi her?
+
+00:10:32
+Hvad kan vi dræne til?
+
+00:10:33
+Hvor er der kanalerne i?
+
+00:10:35
+Og sådan nogle ting.
+
+00:10:36
+Og så begyndte man at dræne gade for gade i takt med vaccinering.
+
+00:10:39
+Det var nok den mest typiske måde, man gjorde det på.
+
+00:10:42
+At man lavede en tredje ledning, samtidig med, at man enten separerede eller sanerede hovedklokken.
+
+00:10:48
+Samtidig etablerer man rigtig mange monitoringer.
+
+00:10:51
+Herunder fra Amsterdam, hver eneste blå prik er en boring, og en del af dem er online, som I kan se på den lille graf.
+
+00:11:00
+Der kan gives alarm, hvis det overstiger et bestemt niveau.
+
+00:11:04
+Så man kan sige, at i de hollandske byer har man rimelig godt styr på det terræn af grundvand nu, og har lavet rigtig mange dræningsprojekter.
+
+00:11:13
+for at holde styr på det terræn i Grundland.
+
+00:11:16
+Ikke kun for at holde det nede, men også for at holde det oppe.
+
+00:11:19
+Det kommer vi tilbage til lidt senere.
+
+00:11:23
+Den nationale klimatilpasningsplan 1 blev lanceret ude ved Vestkysten, hvor vi har Højnækker, der står der.
+
+00:11:32
+En del af det, og det var mange, der var glade for, er, at punkt 2, der stod der, er løsningen på udfordringen højst under Grundland.
+
+00:11:39
+Der er en baggrund for det.
+
+00:11:41
+Det har betydet, at den nye lovgivning er på vej.
+
+00:11:45
+Der er en kritik i den artikel, der står, at Vance skal må vente, men faktisk er den ikke berettiget.
+
+00:11:51
+Den kom faktisk til tiden.
+
+00:11:53
+Den høringsperiode, der lovforslaget kom til, er afsluttet 2.
+
+00:11:59
+januar 2025.
+
+00:12:01
+Den forventes at træde i kraft 1.
+
+00:12:04
+juli 2025.
+
+00:12:08
+Hvis man skal sige noget om den nye lovgivning, så kan man sige mange ting.
+
+00:12:10
+Hvis man læser lovteksten og tænker, at hvis man siger 8 hurtigt, så er det kommunen, der er myndighed for at udpege de områder, der er risikosatte.
+
+00:12:22
+Det skal de gøre i spildringsplanen.
+
+00:12:25
+Det er det, der giver hjemmel til, at vandsatskabet som operatør kan gå ind og gøre noget ved det.
+
+00:12:31
+Vandsatskabet må bruge antagsterne og finansiere det den vej rundt.
+
+00:12:36
+Der er et krav om en samfundsøkonomisk beregning.
+
+00:12:40
+Der bliver udgivet et værktøj, der kommer ikke 1.
+
+00:12:43
+juli, men senere sammen med en omkostningsbekendtgørelse.
+
+00:12:47
+Et værktøj, som man kan bruge til at lave samfundsøkonomiske beregninger, hvis det viser, om det kan betale sig.
+
+00:12:56
+Alle undersøgelser viser, at det kan betale sig i rigtig mange tilfælde.
+
+00:13:00
+Fokus er de separate og fællesklogkæde arealer i byer.
+
+00:13:06
+Uudelukkende spildvandskloakerede områder, hvor forsyningen ikke har et ansvar for røgenvand, er faktisk ikke et område, som forsyningen kan gå ind og drene i.
+
+00:13:15
+Men der findes dog nogle andre modeller for det blandede sommerområde, som vi har med i dag.
+
+00:13:20
+Så er der metodefrihed.
+
+00:13:22
+Kommunen kan ikke bestemme, hvordan forsyningen skal håndtere det trængende af grønvand.
+
+00:13:26
+Det må forsyningen selv bestemme.
+
+00:13:29
+Det er stadig sådan, at der er et skæld mellem det offentlige og det private, og det er stadig musarret at egensvære en egen grund.
+
+00:13:35
+Vi etablerer ikke nogen ServiceNord, der garanterer noget som helst inde på private grund, men vi gør noget i de offentlige arealer, der kan være medvirkende til at afhjælpe problemet på private grund.
+
+00:13:45
+Vi har lavet det her inspirationskalog, og det ligger på Danmarks hjemmeside.
+
+00:13:53
+Det kan I se på den allerførste slide.
+
+00:13:55
+Der er et link der.
+
+00:13:57
+Og vi har snakket med en hel del kommuner og forsyninger, og 10 af dem er der er med i kataloget, hvor man kan læse om, hvad vi har snakket om og hvad deres udfinding potentialer er, men også, hvilke mere værdier kan man rent faktisk høste i at håndtere det trængende af grundvand.
+
+00:14:16
+Vi har noget vand, som vi kan se på som en ressource eller som et problem.
+
+00:14:21
+Og det er en af grundene til at Rildania, blandt andet at støtte det her inspektionspilot, det er at se, kan vi ikke udnytte det her vand til noget rekreativt eller noget godt eller teknisk vand eller et eller andet.
+
+00:14:32
+Det handler om mere ved det, jeg kan love, men det handler også rigtig meget om de tekniske løsninger, altså de her cases.
+
+00:14:37
+Og de cases, der er med dem, dem ser I her i midten, og så er der lige nogle bobler omkring, at alle de interviews, vi har haft, hvor der er sagt rigtig mange ting, og der er også været nogle workshops i Danmark og KL-regime, og det har fyldt rigtig meget ud af danske kommunalforsyninger, og jeg ved også, der har været givet rigtig mange højhedssvar fra kommunalforsyninger til lovforslaget, Og Danmark KL har også modtaget mange af de her inputs.
+
+00:15:05
+Men nu vil vi prøve at fokusere lidt på katalogets indhold omkring de tekniske løsninger.
+
+00:15:11
+Og her vil jeg give ord til dig, Ulrik.
+
+00:15:15
+Jamen tak for det.
+
+00:15:17
+Og som sagt er der et kapitel om de tekniske løsninger i vores katalog.
+
+00:15:23
+Det er jo et område, som er relativt nyt.
+
+00:15:25
+Så de her tekniske løsninger, det er jo nogle, som i forbindelse med andre typer projekter, er etableret rundt omkring, og som har vist ganske gode resultater.
+
+00:15:34
+Men i et konkret område afhænger det jo af rigtig mange faktorer, når man vælger, hvilke løsninger, man skal bruge.
+
+00:15:40
+Men bare helt kort, hvis vi starter op til højre med dræning, så det her med at lægge en tredje ledning eller dræne vil sandsynligvis være en løsning, som kan bruges ret mange steder.
+
+00:15:51
+Der er selvfølgelig nogle ting, man skal overveje omkring dræning, blandt andet, Skal det til recipient eller skal det til regnvandssystem bagefter?
+
+00:16:01
+Der er også, hvordan man skal grave det, om det skal samgraves eller nedgraves og sådan nogle ting.
+
+00:16:06
+Løsningen længst ud til højre handler noget om lodrette eller vandrette borenger, som nogle steder giver rigtig meget mening.
+
+00:16:17
+I nogle tilfælde findes der allerede afværveborenger, som man kan arbejde også med i forbindelse med løsninger.
+
+00:16:24
+Længere nede har vi pumper, og pumper ser man jo ofte i kombination med dræn eller boreænger, at man kan pumpe vandet de steder, hvor det er nødvendigt at gøre det.
+
+00:16:36
+Og i det hele taget, det her med at kombinere løsninger, både i forhold til merværdi, men også i teknik, det giver ofte rigtig meget mening.
+
+00:16:44
+Så det sidste punkt nederst til højre omkring lar, det giver også nogle gange rigtig meget mening at prøve at løse en del af problematikken med højtstående terrængnært grundvand og kombinere det med lar.
+
+00:17:00
+Og her er der et eksempel på det, hvor vi har kombinationen mellem vinter og sommer, hvor der er dræning om vinteren, som vi ser over til venstre.
+
+00:17:11
+Og så er der infiltration, som går den modsatte vej ned om sommeren.
+
+00:17:16
+Og det har vi et eksempel på senere, som vi kommer ind på.
+
+00:17:20
+Du må godt tage den næste, Peter.
+
+00:17:22
+I forhold til noget omkring stabilisering og jordhævning, så er det noget, hvor man både kan komme i forhold til at beskytte sin kultur af, der er noget omkring fundamenter, kældre og infrastruktur og ledninger, hvor man også kan tænke de her ting sammen i forhold til at få flere ting løst på samme vis.
+
+00:17:50
+Du kan godt tage.
+
+00:17:50
+Den næste.
+
+00:17:51
+Jeg vil også lige.
+
+00:17:53
+Komme kort ind på, at udover den her lovgivning, som jo foregår ude for vandselskaberne, så foregår der tilsvarende et stykke arbejde inden for Skæb, Der kommer en ny DS 436, som handler om brænding af bygværker.
+
+00:18:12
+Den gamle standard er fra 1993, så den har en del år på banen.
+
+00:18:18
+Den er ved at blive opdateret og har også været i høring.
+
+00:18:22
+Der er stadig mange af de fleste krav fra tidligere, som fortsætter, men der kommer rigtig meget vejledningstekst, også fordi det er et kompliceret område.
+
+00:18:32
+Der er rigtig mange forskellige filterelementer og jordetyper, man skal kunne håndtere, og derfor kommer der også flere tegninger og illustrationer til denne her nye udgave af DS 436.
+
+00:18:45
+Det næste, Peter.
+
+00:18:48
+Ganske kort, så er det sådan, at DS 436 lægger meget op til, at man skal undersøge, hvor højt grundvand, man har i en privatgrund, og hvad er det for en jordetype, man har.
+
+00:19:00
+Og det, der er interessant i forhold til at arbejde med det i forsynings, det er, om man ligger i klasse 3 eller 4, som er de to nederste billeder.
+
+00:19:10
+Det vil sige, hvis man har højt grundvand, så afhænger det rigtig meget af, hvad er det for en jordart, vi har med at gøre.
+
+00:19:17
+Det vil sige, der skal jo lave nogle undersøgelser af den del.
+
+00:19:20
+Og hvis jorden er meget tæt, så kan man godt lave omfangstreg, men hvis det er meget sandet, så løber der jo bare vand til.
+
+00:19:28
+og så lægger DS 436 umiddelbart op til, jamen så skal vi bygge vandsæt, som er en meget dyr løsning.
+
+00:19:34
+Og det er her, hvor de nye løsninger kan give rigtig meget mening og samtænke det med forsyninger og kommuner.
+
+00:19:43
+Så det var bare lige for at have den sløjfe med.
+
+00:19:47
+Næste.
+
+00:19:48
+Ja.
+
+00:19:50
+Hold kæft.
+
+00:19:52
+Jeg kom næsten til at lytte min mus, sådan der.
+
+00:19:55
+Ja.
+
+00:19:56
+Ja.
+
+00:19:58
+Det er dig, Signe.
+
+00:19:59
+Ja, det er det.
+
+00:20:01
+Ja, og som Peter startede med at introducere Inspirationskataloget, så har vi jo haft rigtig meget fokus på at få lavet et katalog og et materiale, der kan inspirere til de gode løsninger.
+
+00:20:14
+Og her spiller mere værdierne, hvordan vi kan få skabt de gode løsninger med mere værdier ind i kataloget.
+
+00:20:21
+Og det har vi Vi har udarbejdet dialog med de kommuner og forsyninger, der har været med som cases.
+
+00:20:28
+Vi har også haft de her workshops, hvor der har været nogle gode bud på, hvad man kunne skabe af synergi og mere værdi.
+
+00:20:34
+Og så er det også lavet på grundlag af det tidligere udarbejdet eksempelsamling fra 2021, hvor der også er nogle rigtig gode eksempler i.
+
+00:20:41
+Og vi har identificeret de her mulige mere værdier, som man kan skabe i forbindelse med stabilisering af det trængende af grundvand, Og vi har inddelt dem i forskellige temaer.
+
+00:20:54
+Selvom de jo i virkeligheden overlapper hinanden, så har vi forsøgt at strukturere det på en måde, hvor vi får dem inddelt i nogle afsnit, som giver mening i forhold til, hvor man er, i by eller på land, men også i forhold til, hvordan vi kan anvende det terræn af grundvand som ressource.
+
+00:21:14
+Man kan sige, at for at kunne opnå de bedste, mere værdier, synergieffekterne i forhold til andre projekter, man også skal tænke det sammen med, eller den øvrige planlægning i byerne, så er det jo rigtig vigtigt, at man ikke kun tænker løsninger, men at man også ligesom zoomer ud og får et overblik over de store sammenhænge, og hvordan håndtering af det terræn, når grundvand kan spille ind på forskellige løsninger i lokalområdet, men også i den større skala, altså en løsning udenfor byen kan også potentielt påvirke en en løsning inde i byen.
+
+00:21:48
+Eller naboområdet kan også blive påvirket positivt eller negativt.
+
+00:21:55
+Så de mereværdier, vi kan skabe, afhænger jo selvfølgelig af de helt lokale forhold, hvad det er for udfordringer, vi taler om, og hvordan de tekniske løsninger kan udfoldes.
+
+00:22:07
+Men det, vi har vist her, det er så øverst, hvordan man kan skabe Bykvalitet, altså hvordan man med blågrønne løsninger kan tænke det både sammen med en forbedring af de miljøer, vi har i byerne og tænke det sammen med regnvandshantering i vores byrum.
+
+00:22:31
+Vi har midterst et afsnit, der handler om, hvordan vi kan skabe mere værdi ved naturforbedring og naturudvikling.
+
+00:22:41
+Og så har vi nederst et afsnit, der handler om, hvordan vi kan bruge det terrængende af grundvand som en ressource, i stedet for blot at se det som et problem.
+
+00:22:50
+Hvis du prøver at skifte, Peter.
+
+00:22:53
+Ja.
+
+00:22:55
+Så i forhold til at skabe bygkvalitet i forbindelse med håndtering af det terrængende af grundvand, så er der jo et potentiale til, at man kan håndtere det terrængende af grundvand på terræn.
+
+00:23:06
+Altså ligesom vi har set med eksempler fra regnvandshåndtering, så er det, at vi med håndtering af det terræn, der er grundvand, ser et ret stort potentiale i forhold til at få indtænkt løsninger, hvor der kan være synligt vand meget mere af tiden.
+
+00:23:22
+Det kan være i form af grønne løsninger, som man kan se på billedet til venstre, altså urbane grønne vandløb eller søer med vand i et permanent vandspejl.
+
+00:23:35
+Det kan både have en god rekreativ funktion, og det kan også være strukturerende i byområder, Det har vi nogle eksempler på, som vi går lidt i dybden med om lidt.
+
+00:23:45
+Og så kan man sige, at det lidt mere fugtige miljø, det kan jo selvfølgelig også bidrage til at fremælske en højere grad af biodiversitet og give køling til byområderne.
+
+00:23:58
+På billedet i midten, der kan man se en oplagt mulighed der også at tænke det sammen med de anlæg, som er mere urbant.
+
+00:24:06
+som har et mere befæstet udtryk, og man kan skabe rinnende vand i nogle rænder, som ellers var tiltænkt.
+
+00:24:14
+Regnvandshåndtering er det, der har været fokus i billedet på midten, men hvor man faktisk kan få noget vand i på andre tider af året, end når det blot regner.
+
+00:24:28
+Det rinnende vand bidrager også til både formidling, leg og læring.
+
+00:24:34
+om vandhåndtering og i det hele taget.
+
+00:24:39
+Og til sidst der yders til venstre eller til højre, så er der selvfølgelig den mulighed, at vi får etableret langt flere af de grønne løsninger, altså med nedsivning, altså nogle løsninger, som måske tidligere er fravalgt, men at man kan vælge det til i forhold til det diagram, Ulrik også viste for lidt siden, altså hvor man kan have nedsivning om sommeren, og man kan dræne om vinteren, så vi får etableret de De grønne lager løsninger, som både bidrager til en forskyndelse af bymiljøer, køling af byerne og fremme af biodiversitet.
+
+00:25:11
+Hvis du skifter, Peter.
+
+00:25:16
+I forhold til naturforbedring og udvikling, så kan man sige, Der er det potentiale til, at vi kan tilføre vandet til søer og vandløb for at forbedre vandkvaliteten.
+
+00:25:29
+Og det er jo særligt relevant i byområder, hvor vandstanden, særligt i sommersæsonen, kan blive for lav eller det kan blive for stillestående, og temperaturen bliver for høj.
+
+00:25:38
+Og der kan vandtilførselen jo af det lidt koldere vand bidrage til forbedring af vandkvaliteten.
+
+00:25:45
+Og herudover, så kan man jo også med selve vandhåndteringen, eller med de løsninger, man finder i forhold til stabilisering af grundvandet, der kan man genskabe eller etablere nye vådeområder, som jo kan bidrage til den naturudvikling eller fremme biodiversiteten både på byer og i land, som man i øvrigt har planer om ude i kommunerne.
+
+00:26:14
+Og skiftvarer, Peter.
+
+00:26:19
+Ja, og så er der det her afsnit, der handler om, hvordan man kan tænke det terræne af grundvand som en ressource, i stedet for blot et problem.
+
+00:26:27
+Og der kan man jo sige, det handler jo primært om, at vores strikkevands ressource, den er jo nok noget sparsom, og i det omfang, man kan anvende det terræne af grundvand til de meget vandkrævende formål, så bør man gøre det.
+
+00:26:42
+Og det kan være i mange sammenhæng.
+
+00:26:44
+Vi kender det her med, at man kan opsamle regnvand, til anvendelse i husholdningen, altså toiletskyld, tøjvask osv., det forestiller vi os også og tror på, at man kan bruge det terrængende af grundvand til.
+
+00:26:59
+På samme måde i vandkrævende industrier eller på hospitaler, hvor man kan bruge vandet til vask af produktionsanlæg eller senge eller vogne osv., altså på hospitaler, hvor det ikke kommer i nærheden af patienter, der kan man bruge det terrængende af grundvand.
+
+00:27:18
+Og så er der selvfølgelig i vores bymiljøer, altså i vores offentlige rum, til at ukrudtsbekæmpe, til at renholde, til at vande.
+
+00:27:26
+Brandvæsenet kan også bruge det terræn, der er grundvand til deres formål.
+
+00:27:32
+Og så er der jo selvfølgelig ude i landbruget, jordbrug eller i gardenerier, hvor der også er store potentialer, der er forbruget herude, at vand er rigtig stort.
+
+00:27:43
+Og der kan man anvende vandet til vanding af marker og drikke vand til kreaturer osv.
+
+00:27:49
+Og der skal selvfølgelig findes nogle gode løsninger til, hvordan man kan opbevare vandet, hvor man kan hente vandet, for det er jo særligt i sommersæsonen, hvor man har brug for det, men at behovet eller hvad kan man sige, er størst, og ressourcen er jo så størst i vinterperioden.
+
+00:28:07
+Til sidst yderst til højre.
+
+00:28:10
+Der er også et afsnit om, hvordan man kan bruge grundvandet i energi- og varmeproduktion.
+
+00:28:20
+I kraft af temperaturen kan det også bruges til køling.
+
+00:28:26
+Eksempelvis i Power2X-anlæg bruges store mængder vand, og der kan det tilrængende af grundvand også med fordel bruges.
+
+00:28:34
+Bare skift.
+
+00:28:40
+Så har vi nogle eksempler, som vi kommer til at gå hurtigt igennem.
+
+00:28:45
+Det første eksempel er fra Icas Brande, og der har man tænkt terrænet af grundvand ind i selve disponeringen af det nye byområde, som jo ligger oppe af et eksisterende byområde.
+
+00:28:57
+I kan se med den blå streg, der er der etableret et urbant vandløb, og man kan se, at farven på vandet er nok ikke så blå som det er her.
+
+00:29:06
+Men det er et fint urbant vandløb, som er et rekreativt bidrag til det her nye byområde, men også til det eksisterende byområde.
+
+00:29:14
+Og der er lavet en varieret terrænbearbejdning, som gør, at man får en fin oplevelse ved at bevæge sig langs.
+
+00:29:22
+Og så er der selvfølgelig mulighed for alt muligt.
+
+00:29:27
+Peter, du må gå lidt i dybden med den tekniske løsning, eller Ulrik.
+
+00:29:33
+Det er ganske kort.
+
+00:29:34
+Der kom vi lige under jorden.
+
+00:29:37
+Der er der skift.
+
+00:29:40
+Det kan man ikke lige se på det billede her, men der er en overfladevandhåndtering.
+
+00:29:46
+Den håndteres ikke i en regnvandskloak, men via de her dren, der ligger nede sammen med spildvandskloaken.
+
+00:29:53
+Vi har et spildvandskloakert område med et drensystem, som ledes ud til vandløbet.
+
+00:29:59
+Når man ser på, hvad der er ressourceforbrug, til den her løsning, i forhold til at håndtere tegnet grundvand, regnvand og spildevand, så er det faktisk en ret bæredygtig løsning, for det er relativt små ledninger, vi snakker om her, som i kombination med en overfladet vandhåndtering, kan håndtere både regn- og spildevand, og så har vi jo mere værdi, som du jo indgås af.
+
+00:30:24
+Og det kan man sige, det er jo et godt eksempel på, hvor man faktisk har gået noget af linjen ud, både faktisk at imødekomme nogle af de udfordringer, vi står med i fremtiden.
+
+00:30:38
+Med terrænet af grundvand.
+
+00:30:40
+Og et andet sted i området, bare lige for at supplere, der er etableret en sø med et permanent vandspejl, som har været et ønske fra beboerne, som jo også bidrager både til løsningen og mere værdi.
+
+00:30:56
+Så er der et godt eksempel fra Uldum i Hedensted Kommune, hvor håndtering af grundvand tænker sammen med en fornyelse og en forskyndelse af deres hovedgade, hvor man har brugt vejebede til både afvanding af regnvand og dræning af grundvand i området.
+
+00:31:15
+De bidrager også til en hastighedsdæmpning af trafikken, en forskyndelse af selve bygaden med de nye beplantninger.
+
+00:31:23
+Og så synes jeg jo altså personligt, at de her træbrygger, der er etableret hen over fortorne, de er bare virkelig gode også til at formidle, hvordan er det egentlig, at vandhåndtering den foregår på det her område.
+
+00:31:35
+Altså som et eksempel på, at man bliver ekstra opmærksom på, at der sker et eller andet lige her, når.
+
+00:31:40
+Jeg går hen over.
+
+00:31:42
+Og så er der denne her omkring infiltration, som jeg var inde på med de tekniske løsninger, men der sker en infiltration om sommeren i anlægget og en dræningseffekt om vinteren, så det er ligesom Vi har to forskellige formål, alt efter hvor vi er på sæsonen.
+
+00:32:01
+Vi.
+
+00:32:02
+Har nogle uddybne slides omkring Uldrum, men jeg tror lige, vi hopper henover.
+
+00:32:08
+Så hopper vi hen til det næste kæg.
+
+00:32:10
+Vi kan godt lige vise ganske kort her.
+
+00:32:12
+Princippet er egentlig, at man bruger den gamle hovedklok som hoveddring.
+
+00:32:16
+Det gamle fællesklok, og lægger en ny spytteransledning.
+
+00:32:20
+Det er pludselig et system, hvor vi kan håndtere med dren under laranlæg, og bruge en gammel fællesskvag som hoveddrenledning til det her system.
+
+00:32:31
+Og hele argumentet er jo ikke at drene.
+
+00:32:33
+Argumentet er jo at håndtere overfladevand, og dermed have en umættet zone, for at regnvandet kan infiltrere gennem filterjordet, hvor det bliver onset.
+
+00:32:41
+Og for at have en umættet zone, så er vi nødt til at holde grundvandet i ave, og sikre det med det her system.
+
+00:32:48
+Det trænger grundvand om vinteren.
+
+00:32:52
+Så har vi en anden case.
+
+00:32:54
+Tiden går stærkt, kan jeg se.
+
+00:32:56
+Vi har en anden case her, som er fra Tostrup.
+
+00:33:00
+Det er et godt eksempel på, at man i 60'erne og 70'erne har bygget byer.
+
+00:33:09
+På steder, hvor som før har været ret våde, i Ådal, og I kan se på signaturen, at nogle af de boligområder, som ligger her centralt i billedet, ligger henover nogle grønne mosområder.
+
+00:33:20
+Og det vandløb kan I se.
+
+00:33:22
+Og det kunne man fint dengang, for dengang, der havde man vandindvinding.
+
+00:33:25
+Og der havde man jo sænket grundvandsspejlet kunstigt, eller indvinding, måske en fire, fire meter eller mere.
+
+00:33:37
+Det har gjort, at det har føltes godt og tørt.
+
+00:33:39
+Man kunne fundere og bygge by.
+
+00:33:41
+Når der kommer forurening i borgeringene, og man overvejer at stoppe dem, kan man godt se, hvad man kigger ind i, når man arbejder med sådan en sag.
+
+00:33:53
+Det giver anledning til panderynker hos kommuner og forsyningsselskaber.
+
+00:33:59
+Så tager du over sagen.
+
+00:34:02
+Jeg.
+
+00:34:02
+Gør det meget godt.
+
+00:34:04
+Der kan man sige, at man har tænkt den lokale grundvandssænkning sammen med, at man bruger grundvandet til at producere fjernvarme.
+
+00:34:13
+Efter der er produceret fjernvarme, er grundvandet afkølet, og det bliver iltet, og så bliver det lædt ud i den lokale Mølleå, hvor det køligere vand både bidrager til at sænke temperaturen i åen og også får tilført en lille smule ekstra strømning i vandet, så vi får sikret vandkvaliteten vilkårne for en god biodiversitet.
+
+00:34:37
+Og eksemplet er yderligere beskrevet i den gamle eksempelsamling fra 2021.
+
+00:34:43
+Og der.
+
+00:34:45
+Kan man sige, at der rammer man flere mål på én gang, og derfor er det sådan en rigtig god kæle.
+
+00:34:50
+Et andet princip end det, som vi snakker om her med at holde gang i boringer eller dræne med ledninger, det er jo at lægge sit arealer højt nok til, at man undgår problemerne, Et godt eksempel på det er i Vejleborg i Rosborg, hvor det nye bydel ligger nede i Ådalen i Vejle, men hvor man hæver terrænet for at komme på tilbage afstand af det terræne af grundvandet.
+
+00:35:14
+Vi har Vejleå i det sydlige del af billedet.
+
+00:35:18
+Nordholmen, som er den nordligste del af bydelen, er den, der er under udførsel.
+
+00:35:25
+Hvis man kigger i Skalgo og kigger på terrænmodellen, kan man se, Hvis man laver et snit igennem den, så er terrænet helt op mod Kote 5, hvor de omkringliggende arealer til venstre i boligområdet, til højre i et kolonihavområde, ligger omkring Kote 0.
+
+00:35:43
+Men der har man jo bevæget sig til basse afstand fra det tegnede af grundvand, og det kan jo godt gøres, måske på en ladedygtig måde også, hvis man har en god jordhåndteringsstrategi.
+
+00:35:56
+Så det er jo også et greb, der ligger i skuffen.
+
+00:36:00
+Der ligger også en lille skræb i skuffen i forhold til at håndtere træning af grundvand i sommerhusområder.
+
+00:36:06
+Det er der ikke så meget tid til at gøre ud af lige nu, men Harborøa Land, som også er med i eksempel sammenlignet, er eksempel på, hvordan man med en eksisterende lovgivning faktisk kan gå ind og dræne et sommerhusområde samtidig med, at man spilderens kloakerer med et ejerskab af grundeejreforeningerne, men måske udført af forsyningerne og overdraget og betalt af grundeejreforeningerne.
+
+00:36:32
+Vi har til sidst nogle pointe omkring det her med, at husk nu, at det ikke kun handler om meget vand om vinteren.
+
+00:36:37
+Det handler faktisk også om meget tørke om sommeren i fremtiden.
+
+00:36:42
+Det betyder, som illustreret her fra 2018 og anden meget tør sommer, at vi har nogle perioder, hvor det bliver meget tørt.
+
+00:36:51
+Den terræne af grundvand er ikke i nærheden af rudsonerne længere, og vi får et bond Danmark.
+
+00:36:57
+Det er faktisk noget, vi også skal være opmærksomme på.
+
+00:36:59
+Hvordan holder vi de terræne af grundvandet oppe?
+
+00:37:01
+om sommeren, fordi et trængende grundvand, der står og svinger op og ned under vores byer, hvor vi har fundamenter og veje og kloakker, udmatter og giver ledningsbrud og sætningsskader.
+
+00:37:15
+Det er noget af det, de har øje for i Holland, som jeg viser eksempel på her, hvor man ser en vandselskab nede ved Frontal Park på Nord siden af Frontal Park har etableret Der er meget fluktuerende vandspejl frem til omkring 2009.
+
+00:37:38
+De lavede dem om sommeren, og de højde dem om vinteren.
+
+00:37:41
+Det var der udsigt til, at det ville blive endnu værre i fremtiden.
+
+00:37:44
+Så er man simpelthen erstattet den kloak, der lå der med lar-løsninger med infiltration og med dræn.
+
+00:37:51
+Så det både kan infiltrere om sommernedbørn, men også dræn om vinteren.
+
+00:37:55
+Og der er faktisk også mulighed for at låge vandet fra kanalerne ind i drainsystemet for at fylde det trængende af grundvand op, så det bliver et niveau.
+
+00:38:03
+I kan se, hvor stabilt det er blevet efter den periode, der svinger det ikke nærmest så meget som før.
+
+00:38:10
+Så har vi en allersidste slide, og den er der ikke meget tid til, men den kan I se.
+
+00:38:17
+Vi har et bud på, hvilken proces, der kunne komme, for nu bekommer der en ny lovgivning, og man bliver nødt til at sætte sig sammen med kommunerne for at finde ud af, hvordan ser vi i fællesskab på det her.
+
+00:38:28
+Hvad skal der være i spildringsplanen?
+
+00:38:30
+Det er kommunen, der bestemmer, men forsyningen har også interesse i det, og kommunen kan heller ikke lave en udpegning alene baseret på HIP.
+
+00:38:37
+Hvor har kommunens forsyning tænkt sig at tætte med sine ledninger?
+
+00:38:42
+Der er mange faser, man kan arbejde med i fremtiden omkring det, men det her er vores afslutende slide, så vi vil gerne stoppe vores præstation her.
+
+00:38:55
+Tusind tak for jeres indlæg, og jeg ved godt, at I kunne have snakket om det i dagvis udover det her, og det har vi ikke tid til, men jeg synes, det var en rigtig, rigtig fin gennemgang over et godt kassalog, som I jo også har præsenteret, ligger på Danvers hjemmeside.
+
+00:39:10
+Der er kommet nogle spørgsmål og nogle kommentarer i chatten, og til jer andre derude, I kan fortsat stille spørgsmål i chatten, så vil jeg stille dem her.
+
+00:39:19
+Jeg samler lige to af dem, for den første kommer som en kommentar fra Tone.
+
+00:39:25
+Der er blevet sagt, at man gerne må håndtere terrængenært grundvand ved sit eget hus.
+
+00:39:30
+Grundvand er uvedkommende vand, og forsyninger har ikke forsyningspligt på dette.
+
+00:39:34
+Forsyninger har kun pligt til at modtage vand fra omfangsstræn, der ligger over grundvandsstanden, med den nuværende lovgivning i hvert fald.
+
+00:39:41
+Jeg kombinerer det med spørgsmålet 2 fra Sten, for jeg tænker, at det ligger lidt i det samme.
+
+00:39:45
+Det lyder sådan her.
+
+00:39:46
+Skal husejeren frakoble omfangsdren fra kloak-systemet og føre ny drænledning ud til Spillevandselskabet?
+
+00:39:52
+Nye drænledning i vejen.
+
+00:39:55
+Hvem af jer har lyst til at bøde ind på de to?
+
+00:39:58
+Har.
+
+00:39:58
+Du den første, Ulrik?
+
+00:40:01
+Ja, altså man kan sige, at det er jo Grundejerne, som har ansvar på egen grund.
+
+00:40:09
+Og man kan sige, at der bliver ikke lavet grundlæggende op på denne her lovgivning, men der er et problem de steder, hvor grundvandsstanden bliver meget høj, og vi har de her jordarter.
+
+00:40:21
+Så man kan sige, at på privatgrund bliver der ikke nogen ændrede lovgivning, men der er mange som får stigende problemer.
+
+00:40:29
+og som får store udfordringer med at løse det selv, hvor den nye lovgivning måske giver mulighed for at lave.
+
+00:40:35
+Kollektiv løsninger.
+
+00:40:38
+Og med hensyn til den anden del af spørgsmålet, som Sten stillede omkring, om man kunne forestille sig, at man får et påbud for eksempel om at koble sit omfangsstræn, hvis man har et sådan, på den tredje ledning, hvis den bliver etableret ude i offentlig areal.
+
+00:40:52
+Og der kan man sige, ja, det har der været.
+
+00:40:56
+Det er faktisk et ønske.
+
+00:40:58
+Nu kender vi jo ikke den endelige lovgivningstekst, men det har været et ønske, at man faktisk kan give et påbud til husejere, der har et omfangsdrin, om at få deres drinvand koblet på det, der svarer til drinsystemet ude i vejen, hvis der er et sådan.
+
+00:41:11
+Nå.
+
+00:41:13
+Ila, jeg er videre på spørgsmål.
+
+00:41:15
+Rindende vand til leg?
+
+00:41:16
+Er der hygieniske udfordringer?
+
+00:41:18
+Det spørger Camilla.
+
+00:41:22
+Ja, det er nok ikke alle steder, man kan gøre det eller etablere det, og det handler måske så om, hvad er det for en vandkvalitet, der er.
+
+00:41:29
+Så det er jo ikke sikkert, at det kan være en løsning til leg.
+
+00:41:34
+Men det afhænger jo nok af de helt lokale.
+
+00:41:38
+Men selvfølgelig er der en udfordring.
+
+00:41:39
+Der, ja.
+
+00:41:40
+Okay, der er et eksempel.
+
+00:41:43
+Må jeg følge op på den?
+
+00:41:46
+I fremtidens gårdhave i København har vi en baggård med vand i, hvor der løber igennem noget biologisk rensning.
+
+00:41:55
+Det er et godt eksempel på et sted, hvor man faktisk har en vandkvalitet, der er til at lege med, men alligevel viser man ikke ret mange billeder om børn i vandet, fordi der sopper og den slags der.
+
+00:42:04
+Så man skal passe gevaldigt på, hvordan man håndterer vandet.
+
+00:42:09
+En ting er, at vandet løber på overfladen, som vi så pigen, der sanneviste billederne derinde er.
+
+00:42:14
+at man sprøjter det eller det kommer op i højder, hvor man kan lege med det på en anden måde.
+
+00:42:21
+Christian spørger, i hvilket omfang vurderer I, at der kan være behov for rensning af terrænet af grundvand, hvis det skal udnyttes til energi og forsyning, fx for jern, mangan eller miljøfremmende stoffer?
+
+00:42:35
+Hvis.
+
+00:42:36
+Det er til PTX-anlæg, så skal det jo renses.
+
+00:42:40
+gennemgående og meget dybdegående, og det betyder, at jeg ved ikke lige, om det er omvendt noget smuse eller membrananlæg eller sådan nogle ting, der skal til for at bruge det til PTX-anlæg, men hele tiden rensning af det trængende af grundvand er noget, der spørger meget, fordi hvis man skal uddannes til det, så skal der muligvis også noget rensning på det, ligesom det spørger rigtig meget omkring de separate regnvandsudløb og de krav til rensning, der er på det.
+
+00:43:06
+Så ja.
+
+00:43:09
+Så kommer der en.
+
+00:43:10
+Kommentar i forhold til projektet.
+
+00:43:11
+Ikast er vel sådan set bedste eksempel på et område, hvor man nok.
+
+00:43:16
+Slet ikke burde have bygget?
+
+00:43:20
+Det ved jeg ikke, om det er.
+
+00:43:26
+Jeg ved faktisk ikke, hvor højt det ligger, det område der.
+
+00:43:32
+Jeg tænker ikke, det lå specielt vandlidende.
+
+00:43:37
+Så det kan jeg så ikke svare på, men det kan Jan fra Ikast Brænde Kommune eller Ken fra Forsyningshedskabet nok bedre svare på, end jeg kan.
+
+00:43:46
+Så kommer der et lidt bredere spørgsmål her.
+
+00:43:49
+Meget af landet er i fuld gang med separat korrigering, men bør man stanse et øjeblik og revidere situationen?
+
+00:43:55
+For i områder, hvor terrænene og grundvand kan blive et problem, kan det jo ændre på, hvad den bedste løsning.
+
+00:44:00
+Er.
+
+00:44:02
+Jeg vil bare sige ja.
+
+00:44:04
+Ja.
+
+00:44:04
+Det er jeg enig i.
+
+00:44:08
+Så lige en tænkepause i forhold til separeringer.
+
+00:44:11
+Så kommer der lidt med vand og rekreativt igen.
+
+00:44:13
+Hvad må man i forhold til rekreativ oplevelse på vandspejlet i bassiner?
+
+00:44:18
+Det vil sige ingen tømmerflåde både og den slags, eller hvad er jeres.
+
+00:44:22
+Tanker til det?
+
+00:44:24
+Nu siger jeg bare noget, ikke Peter og Ulrik.
+
+00:44:27
+Jeg tænker umiddelbart, at det er det samme, som man må i forhold til regnvandshåndtering.
+
+00:44:32
+I forhold til sikkerhed og så videre, hvis det er det der er tænkt på, der står både tømmerfloder og.
+
+00:44:37
+Den slags.
+
+00:44:40
+Det er jo sydmærkisk ved Viborg, hvor der er mange vandaktiviteter på et stort regnvandsbassin.
+
+00:44:47
+Så man kan google lidt på det og se hvad der rent faktisk kan lade sig gøre.
+
+00:44:50
+Det er i hvert fald med til at flytte grænserne for hvad der kan lade sig gøre.
+
+00:44:57
+Jeg har to spørgsmål tilbage, som jeg vil sende til efterfølgende, som vi kommer til at lægge ud i optagelsen efterfølgende, for klokken er slået 13 nu her, og vi vil meget gerne holde på tiden, men jeg sender dem til jer, så vi kan lægge det ind i selve optagelsen, så der kan komme svar på det, når man ser den optaget udsendelse.
+
+00:45:17
+Så til jer tre vil jeg sige tusind mange tak for en fantastisk inspirerende Oplæg og god indføring til, at man skal videre ind og læse den i dybden.
+
+00:45:27
+Så tak for jeres oplæg, alle.
+
+00:45:28
+Tre.
+

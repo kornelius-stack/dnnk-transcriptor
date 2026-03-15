@@ -1,0 +1,777 @@
+00:00:08
+Hej alle og velkommen til det her. Rigtig, rigtig spændende den her rigtig, rigtig spændende tik talk hvad hedder det? Mit navn Det er tyishøjst Andersen fra vi University College på vegne af DNK, så vil jeg byde jer alle sammen.
+
+00:00:22
+Velkommen til den her tekst.
+
+00:00:24
+Talk, hvor Jacob Jensen fra watson c skal fortælle os om IOT og vandnære terræn.
+
+00:00:31
+Jeg glæder mig rigtig meget. Rigtig meget til at høre oplægget. Det er jo rigtig meget omkring bip data sensorer, realtidsdata, hvordan man bruger data og alle de her ting som som fylder, fylder mere i Vores hverdag og som man hører mere og mere om, så det bliver rigtig rigtig fyldt at høre høre hvordan og hvorledes.
+
+00:00:50
+Jakobs telegær på det.
+
+00:00:53
+Som altid så vil det være Sådan, at Jacob har en en præsentation her på cirka en 25 30 minutter, 35 minutter, og så har vi tid til til spørgsmål efterfølgende. II har mulighed for bare løbende og stille spørgsmål ude i chatten, så skal så skal jeg nok tage tage tage dem ind og udgive dem og så så samler vi sammen på dem her her til til sidst.
+
+00:01:15
+Ellers så vil jeg selvfølgelig også lige sige at hvad hedder det tiktokken her bliver optaget og bliver lagt på DNNKS hjemmeside efterfølgende. Der går lige et par dage, så så er den Sådan, så er den online, så der kan i selvfølgelig også videresende den. Hvis hvis i har nogle kolleger der ikke kunne være med i dag.
+
+00:01:32
+Ellers så tænker jeg også bare, jeg tænker egentlig Det var det for nu. Så benyt jer af chatten med spørgsmål og ellers så vil jeg give ordet til til dig, Jacob.
+
+00:01:40
+Og hvad hedder det? Ja the flores shows.
+
+00:01:43
+Jamen tak for det.
+
+00:01:46
+Og tak for muligheden for at få lov til at at at ride nogle kæpheste og og fortælle lidt om nogle af de ting, vi går og roder med.
+
+00:01:55
+Hvis jeg Sådan lige skal fortælle en lille smule om om hvor jeg kommer fra. Jamen så kommer jeg fra et lille firma der hedder vosten c vi startede for knap 4 år siden og Vi har Sådan 3 ben.
+
+00:02:05
+Sådan klassisk konsulent virksomhed, hvor vi rådgiver inden indenfor vand overflade, vand trængende grundvand og grundvand og vandværk og så videre.
+
+00:02:16
+Og så har så er vi med i nogle forsknings udviklingsprojekter ikke som som er med til at at holde holde kniven en lille smule skarp og og endelig så har vi Sådan nogle digitale løsninger.
+
+00:02:27
+Og og og de digitale løsninger Det er delt Sådan en webplatform, vi kalder calypso, som er Sådan en gratis vandplatform, hvor vi samler data. Og så er der det her med med sensorer IIT løsninger, hvor vi også installerer og drifter en en del af dem.
+
+00:02:43
+Og Det er så det det skal handle om i dag.
+
+00:02:47
+Vi er 4 snart 5 personer her i virksomheden og jeg en af ejerne.
+
+00:02:55
+Ja.
+
+00:02:57
+Det jeg ved ikke om i allesammen er med på at være IUC står for, men Det er internettet things så Det er Det er dimser Der er knyttet til internettet på en eller 2 en eller 2 avis og og Der er en eksplosiv udvikling II Sådan nogle dimser det her. Det er en godt nok en lidt lidt gammel prognose for hvordan det kommer til at se ud hvordan det går med med de her IOT enheder. Hvordan siger så at at de i 20 sidste år der skulle vi ramme 50.
+
+00:03:23
+50 mia.
+
+00:03:25
+Enheder, så det svarer til, at vi vi hver især har 1 1 6 7 8 stykker af dem og Vi har det i hvert fald nogle stykker.
+
+00:03:34
+Vores telefoner og Vores biler og alt muligt andet, Det er. Det er en det går. Det går meget, meget stærkt og og og det går stærkt fordi at at at dimserne bliver billige.
+
+00:03:49
+Og og og man kan lige pludselig få en masse af dem.
+
+00:03:52
+Nu er vi inden for et et område, som hvor det måske går knap så stærkt. Men men jeg tør da godt at at postulere at at at vi får sensorer i 10 tusindvis indenfor det område, som vi arbejder med, altså vand.
+
+00:04:05
+Og.
+
+00:04:07
+Og det bliver jo megafedt. Vi får en masse gode data i hus og.
+
+00:04:15
+Og og det giver en hel masse muligheder.
+
+00:04:20
+Men, det giver måske også nogle udfordringer og og jeg kunne jo godt Sådan tegne lidt et skrækscenarie, hvis Vi skal have en brændende platform for alle de data, der kommer i hus.
+
+00:04:32
+Det kunne være det ser vi til dels nu at data ender inde i nogle data siloer, hvor det egentlig ikke rigtigt kommer videre.
+
+00:04:38
+Det er også sommetider man lige glemmer at få noteret hvad Det er for nogle metadata, der hører til de her data. Vi stammer ind. Altså hvad, hvor er det henne?
+
+00:04:45
+Hvad er det for nogle sensorer? Hvad er det for nogle kvoter og koordinater og så videre? Det kunne også godt gå Sådan, at vi egentlig ikke får dem kvalitetssikret i de her data, fordi der egentlig kommer så mange af dem.
+
+00:04:55
+Og og Det kan også være, at vi simpelthen ikke får fjernet de målinger, som vi ved er er er behæftet med fejl.
+
+00:05:02
+Og så kan det jo ende med, at vi som samfund egentlig ikke bliver så meget klogere. Man kan snakke om om datastrukkende døden, at vi i virkeligheden får så mange data, at vi egentlig drukner i den, og vi i virkeligheden ikke får nogen data.
+
+00:05:14
+Sådan sgu ikke så gerne gå, så man kan jo sige det gode scenarie. Det er jo at at de data vi samler ind de ender i nogle nationale databaser, hvor Der er adgang for alle, at vi rent faktisk gemmer de her metadata og gør dem tilgængelige, og at vi lærer data gennemgå en eller 2 standardiseret kvalitetssikring, hvor vi får luget ud i fejl.
+
+00:05:38
+Så vi ikke skal slippe rundt på dem for eftertiden.
+
+00:05:41
+Og at vi på den måde Sådan at crowd storesource og data og viden også, og vi kommer til at stå på skuldrene af hinanden i stedet for at at at shoppe rundt med nogle forskellige datasiloer og i dette tilfælde så kan vi spare samfundet en masse, få en masse penge, og Det er selvfølgelig. Det er selvfølgelig det gode scenarie, Vi skal. Vi skal forsøge at at forfølge.
+
+00:06:01
+Og og og Det er Det er noget af det Jeg vil snakke lidt om og Jeg vil snakke lidt om lidt om den proces, og så vil jeg vise Sådan lidt Sådan.
+
+00:06:09
+Lidt af lidt sælge det ud i fremtiden og se hvad. Hvad kan vi så bruge dem til til sidst?
+
+00:06:14
+Men for at vi kan komme igennem det gode scenarie her, så skal vi have styr på på hele processen med at at samle data data ind, og Det er lige fra fra udstyret til opsætning til at høste data til den efterbehandling, der skal være og til formidlingen eller lagring eller eller hvad vi nu skal kalde det i den sidste og. Og man kan sige, at jamen altså det at samle på Sådan et vandstandsdata ind lyder jo i virkeligheden såre simpelt.
+
+00:06:42
+Men men, men det kræver altså bare nogle at Der er styr på hele den proces og i virkeligheden også at Der er noget domæne indsigt som jeg lige skal vise lidt senere.
+
+00:06:52
+Ja, og hvad er det så for noget det her udstyr, hvis vi starter helt ude til Venstre? Jamen altså, Det er i virkeligheden ikke så vigtigt. Altså Der er Der er forskellige.
+
+00:07:01
+Hvis hvis det nu er vandstand som vi vi vi ser på her ikke jamen så kan vi bruge, så kan vi bruge tristanjuicere Det er Det er Sådan en dims der ligger og er pakket ind i noget noget skumgummi heroppe II på det øverste billede vi kan bruge ultralyd som er det der sidder.
+
+00:07:17
+På billedet er nødt til til at sige Venstre hjørne.
+
+00:07:20
+Og man kan bruge arter, og Det er jo så den senser der så på en eller 2 måde måler måler et elektronisk signal, som kan blive omsat til en vandstand. Og det skal så sendes afsted. Jo det skal jo forbindes til internettet, og Der er forskellige transmitter, og der der vi bruger meget deres sifsnetværk og vi bruger GSM netværket og Der er noget der hedder lore og Der er noget der hedder arrow band og og Der er Der er flere end dem og der kommer hele tiden noget til og Der er en rivende udvikling indenfor det her område, så man kan sige et.
+
+00:07:46
+Der skal vi bare sikre, så Vi har noget, der virker, og vi får et signal i hus.
+
+00:07:52
+Når man så skal ud i at sætte det her udstyr op, jamen så har. Så kan du godt tænke galt og og vi og Vi har nogle fjender og og Sådan en en fyr her han han han kan lave meget bagage på et på noget udstyr og og så kan det jo komme til at se se Sådan der ud.
+
+00:08:09
+Og og det tror man egentlig når Vi har. Vi har 250 enheder ude rundt omkring dem under vandstrand og vandføring og så videre, at det synes vi egentlig skulle være et et stort problem men. Men Det er faktisk det eneste eksempel, Vi har på det.
+
+00:08:21
+Så så så Det er da altid noget, men Vi har Sådan nogle nogle meget meget større fjender og og og og noget slemmere og Det er Det er Sådan nogle djævler der som man kan støde på derude i det ganske landskab og de ser fredelige og søde ud men men men de kan spytte dem forfærdeligt masse af.
+
+00:08:38
+Og man tror det ikke, men det her. Det er Sådan en af Vores installationsbrønde, hvor vi sætter udstyr i ikke. Og hvis man bare sætter den sorte op der jamen så så har de så har de væltet den i løbet af nul komma plus og derfor begynder de at hegn op, men det lykkedes dem så åbenbart også at stikke hovedet ind over og hive alt det der op og ud på marken og og hvis Der er en ledning så gnasker de det og de ja de kan virkelig og lave noget ballade.
+
+00:09:05
+En 2 en 2 fjende Det er Det er vand vi kan gå ude på den på den tørre sting et eller andet sted og sætte noget udstyr op en sommerdag og tænke her kommer der aldrig nogensinde vand og så kommer man næste års dag og så ser det Sådan her ud og her i det her tilfælde er det så godt at Vi har sat sat boksen, der sender et godt højt op, men men mange andre gange har vi også ikke fået den højt nok op, og så så ender det altså som på de billeder hver morgen. Elektronikken er er gennem sjasket.
+
+00:09:31
+Og det, Det kan det ikke holde til.
+
+00:09:35
+Så så man skal være opmærksom på på de her installationer, og Der er Sådan set Der er mange ting, der kan give fejlmålinger derude. Det her. Det er et billede fra fra glenstrup sø, hvor at isen har skubbet lidt til Sådan en sensor ikke, og Det kan man så se på på signalet at Det er Sådan lige så stille og roligt.
+
+00:09:53
+Går den forkerte vej.
+
+00:09:55
+Og og Det er der så en forklaring på her ikke, men så Der er is der kan få skubbe målinger og sensorer og Der er Der er vand af bølger der der kører og Der er mennesker Der er Der er maskiner. Vi har fået noget Der er blevet slået ned med en med en slåmaskine med og også Det kan det jo så ikke holde til og der kan være frost endelig så kan de her sensorer også drifte nogle af dem, så man kan sige at jamen de de de kravler ligeså stille opad i måling eller nedad i måling.
+
+00:10:22
+Nogle er er temperaturfølsomme.
+
+00:10:25
+Der kan komme spix hvis vi bruger de her ultralydsmål der sidder og hænger under en bro, jamen så kan der komme en gren eller en kano eller eller noget andet forbi eller der kan sætte sig en edderkop og gemme sig.
+
+00:10:36
+Og Det kan også være signalfejl støjen på linjen og og endelig så kan de jo de skal jo have forbindelse et eller andet sted hen de her altså der kan være signalproblemer, så Der er egentlig mange ting der Sådan kan gå galt undervejs. Ikke ikke at det gør det men, men Det er bare nogle ting man Sådan lige skal være opmærksom på.
+
+00:10:55
+Vi får sensorer i titusindvis men men vi får millioner af datapunkter, så nogle af de ting jeg nævnte her, Det kan give nogle fejlmålinger og.
+
+00:11:06
+Og hvis Vi skal have noget troværdighed, og Vi skal ikke sikre anvendelse af de her målinger, jamen, så skal vi have fanget de her fejlmålinger.
+
+00:11:12
+Og.
+
+00:11:13
+Og og Det kan være Det kan være Det kan være mange forskellige ting her, Sådan eksempel på en kurve, hvor at man kan sige den 3. Jeg har markeret herovre. Jamen de der hænger der hænger sensoren simpelthen over vand, så der kan de ikke måle så så Det er jo egentlig en fejl at den at Der er nogen konstante værdier Der er de skal fjernes.
+
+00:11:32
+For ellers så går det galt, når man begynder at lave statistik på den. Når man så kommer ind i slutningen af tidskurven som en der var, og så kommer der Sådan nogle små spikes der går nedad.
+
+00:11:42
+Og Det er Det er en hardwarefejl, og dem skal man jo have fanget og fjernet det her. Det er så rimelig entydigt eksempel, så Det er måske ikke så svært at gøre, men men der andet Der er mindre mindre entydigt.
+
+00:11:54
+Vi kan opleve Sådan nogle spring på kurven. Her har vi 2 som sammenlignelige spring II på den her kurve og man kan sige jamen Det kan vi da godt lave. En regel der siger, at hvis vi får et spring mere end det og det så skal det fjernes.
+
+00:12:08
+Men men er det naturligt, eller er det noget der ikke eller er det unaturligt og? Og her er faktisk 2 eksempler på på noget Der er naturligt. Her kommer der 20 mm i løbet af en time som giver det her.
+
+00:12:21
+Det her peek, og når vi kommer længere ind på kurven, så så er der simpelthen en forrykning af sensoren.
+
+00:12:28
+Så vi leder efter algoritmer?
+
+00:12:31
+Der kan finde ud af, hvornår Der er fejl og og få rettet op på det.
+
+00:12:37
+Vi har også en 2. Synes jeg her som viser Sådan meget, meget meget konstant indenfor nogle få centimeter og så lige pludselig så kommer der nogle kæmpeflugtationer på på over over 1 m.
+
+00:12:48
+Og og Det er sandsynligvis noget frost. Altså Det kan være synes om den den fryser og den egentlig er er i hvert fald ude af fægte ude af ude af drift i en periode.
+
+00:12:59
+Og og Det er heller ikke sikkert, at den overlever Sådan noget. Skal vi også kan fange, men når man nu ser på den her kurve som isoleret set jamen, så kunne det godt være en vandstand, så så så så fidusen er lige og og og finde ud af hvordan hvordan hvordan finder man de her?
+
+00:13:16
+Fejlmålinger her et andet eksempel på noget, som er meget dynamisk.
+
+00:13:21
+Og som egentlig ser fint ud i en periode, men så kommer der faktisk en periode, hvor at hvor det ser.
+
+00:13:27
+Måske lidt mere dynamisk ud. Ikke vildt meget, men der kommer nogle nogle pix og noget og og der har vi også en defekt sensor her og og og dem skal vi jo fejre den her fordi ellers så hvis vi først putter min database så glemmer alt hvor den vil sidde henne. Jamen så så så vil vi begynde at at trykke på de her data og Det har vi ikke lyst til.
+
+00:13:46
+En 2 kurve, hvor man kan sige at det ser ud til at Der er noget mere støj i starten af kurven, end Der er på i slutningen af kurven.
+
+00:13:54
+Og og hvis man zoomer ind jamen så kan man faktisk se at Der er Sådan nogle døgnvariationer på den på det her signal som er at Det er jo ikke mange centimeter, men Det er nogle centimeter og det det skyldes simpelthen temperaturforskelle i luftsøjlen, der hvor at den her censor den sidder som den ikke kan finde ud af at kompensere for.
+
+00:14:12
+Så Der er noget igen i installationen. Man skal sørge for ikke lige at få den sat Sådan et sted.
+
+00:14:19
+Ja.
+
+00:14:21
+Som man skal sige jamen alt det her. Det lægger jo op til at Vi skal lave en eller 2 form for kvalitetssikring af de data og og med millioner af datapunkter og titusindvis af sensorer er man altså, så skal vi bare bliver nødt til at tænke lidt nyt her. Og hvis man Sådan tænker, hvordan har man lavet kvalitetssikring af af målestationer hidtil?
+
+00:14:38
+Jamen, så har det været Sådan noget med at man har indsamlet rådata. Man har måske lavet nogle kontrolmålinger, og så har man besluttet sig for at lave noget kvalitetssikring, og så har man besluttet sig for at frigive de her data.
+
+00:14:49
+Og så har man ellers kørt derind af rådata i et stykke tid, og hvis Vi er heldige, så har vi fået lov til at se råddata, men ellers så har de bare ventet indtil de bliver kvalitetssikre og og og så fremdeles.
+
+00:15:01
+Det tror Vi er lidt tiden er løbet fra det her, så så så vi tænker at fremtidens kvalitetsvininger ser lidt anderledes ud. Det er måske noget med at man.
+
+00:15:11
+Man gør jo selvfølgelig det samme. Man samler de samme kontrolmålinger ind og så videre ikke. Men at Vi har noget automatisk kvalitetssikring som hele tiden tygger de her data igennem.
+
+00:15:21
+Det kan ikke. Det kan ikke stå alene, så der skal sikkert også noget Manuel kvalitetssikring til.
+
+00:15:27
+Der kommer kontrolmålinger ind. Vi skal have fundet ud af, om passer det.
+
+00:15:31
+Ja den kontrol kan vi også delvis lave automatisk, men og Det kan også være at at Vi skal lave kontrol at Vi skal lave kvalitetssikring, fordi vi opdager noget tilfældigvis kommer forbierne på Vores, så så noget automatisk og noget noget noget noget manuelt. Men hele ideen er egentlig at Vi har altid kvalitetssikrede data fordi Vi har altid en eller 2 form for kvalitetssikring, der kører. Men Vi har måske så bare forskellige stempler.
+
+00:15:54
+Af kvalitetssikring, så man kan sige, når vi nu har været inde og kigge på dem, jamen så har. Så kan vi Sådan set godt ændre data tilbage i tid.
+
+00:16:02
+Så så så så med de her den her trappe. Jeg ved skal det Sådan forstås Sådan at Vi er uenige løbende laver den her kvalitetssikring og opdaterer data bagud om nødvendigt.
+
+00:16:11
+Og hvis jeg tænker egentlig det, Det er lidt den altså. Det er den måde, vi kan ikke. Vi kan ikke overskue alt det her tid.
+
+00:16:16
+Vi kan ikke overskue alle de her datapunkter, så vi bliver nødt til Sådan på en eller 2 måde at at at have noget der.
+
+00:16:22
+Der, der i hvert fald laver den indledende kvalitetssikring.
+
+00:16:28
+Det skal.
+
+00:16:30
+Og og i den her kvalitetssikring. Der skal du noget overvågning på de enkelte tidsserier og de enkelte datapunkter.
+
+00:16:38
+Og og og det kunne være at finde spikes, og det kunne være at se om den er autofladen som den her sensor eller de her spring, eller om det lige pludselig har de et uventet niveau eller en uventet dynamik, og selvfølgelig det helt indlysende. Det er. Hvis der ikke kommer data, så skal vi også.
+
+00:16:54
+Og finde dem så Sådan som det foregår inde i brost database. Det er at rådata samles ind, så kan det være, at rådata viser, at der der kunne være et eller andet galt, så der blev rejst et flag.
+
+00:17:09
+Og.
+
+00:17:12
+Og det gør så at at der der kommer en eller 2 enten automatisk korrektion eller en Manuel korrektion i det her tilfælde en automatisk korrektion, så kører vi videre, så kommer der et nyt flag.
+
+00:17:24
+Så kan det være at behov det her, Det er ikke noget vi kan rette automatisk men. Men Det er noget Vi skal ind og tage stilling til.
+
+00:17:31
+Og så fremdeles, og så kan det køre derhen af.
+
+00:17:35
+Og Det er jo egentlig Sådan, vi vi tænker, at at vi bliver nødt til at tænke, og vi bliver nødt til at have noget overvågning på det her og og Der er mange IOT platforme, der har overværet over. Men Det har alle måske men men i virkeligheden så er så er pointen lidt her, at i så alle de forskellige fejl der kunne komme.
+
+00:17:51
+Og der skal i virkeligheden noget hytologisk indsigt til at finde ud af om om det om Det er en fejl, eller om Det er, om Det er naturligt.
+
+00:18:01
+Og.
+
+00:18:04
+Vi er Vi har nogle værktøjer til at til at til at lave den her overvågning ned og og Sådan det simpleste. Det er regler, og Det er måske også nogle der kalder det kunstig intelligens, men men men regler for hvis der sker det og det jamen så skal vi have rejst af flag og og Der er selvfølgelig også konstig intelligens og få få lavet få lavet få sammenlignet ja få set tendenser på tværs af af de her måleenheder finder ud af hvornår er der noget der?
+
+00:18:31
+Der ser unaturligt ud har du 4 nedbørsmål og den ene ikke giver noget jamen så så er der nok et eller andet der.
+
+00:18:39
+Har du stigende grundvandsbachelor overalt, men faldende et andet sted? Jamen, så kunne det godt være der var et eller andet der.
+
+00:18:46
+Og den den her overvågning. Det handler simpelthen om Vi har været derovre, at hvor vi også drukner II notifikationer, så vi får alt alt for mange af dem og og det gør så bare at man ikke lige får nogle nogle nogle fordi så så så bliver man ligeglad. Det kender i nok alle sammen.
+
+00:19:02
+Ja så Det er der Vi skal. Det er dansk ind.
+
+00:19:07
+Og og man kan sige at det Det er det der med efterbehandling af data, så kan vi sige, hvordan er det så vi sikrer?
+
+00:19:14
+Data for eftertiden, og der skal vi Sådan tænke II, at vi crowd source og data og Det er Det er. Det er jo at at samle ind fra mange forskellige bidragsydere.
+
+00:19:28
+Og ikke og ikke kun og ikke kun nogle få og man kan sige der der der kunne man godt se nogle tendenser til at vi måske har nogle. Jamen så er der nogle statslige stationer som kører og som samler data ind og putter data et eller andet sted hen. Og så er der en hel masse private aktører som samlet ind i deres siloer.
+
+00:19:44
+Og Der er Vores pointe, at vi bliver simpelthen nødt til at at at samle ind bredt bredere.
+
+00:19:52
+Og så få ud til data til alle aktører.
+
+00:19:55
+Og det kræver så lidt, at Vi har en standard for de her metadata eller i hvert fald en eller 2 form for ensartethed og. Og Vi er måske også snakket lidt om det her kvalitetssikring. Hvordan laver vi egentlig det og hvordan?
+
+00:20:06
+Hvordan stempler vi data?
+
+00:20:10
+Og.
+
+00:20:12
+Det forudsætter nok også at er frie. Altså Vores filosofi at at man tjener penge på at at samle data ind og og give dem ekstra værdi. Men data i sig selv er er gratis.
+
+00:20:24
+Og og og Det er virkelig en opfordring til, at man ikke får bygger sin forretningsmodel på at at data koster fordi at det det gør bare at værdiskabelsen i den sidste ende bliver meget mindre.
+
+00:20:38
+Og det kræver nok også, at når vi nu arbejder for kunder og Sådan noget, at de begynder at stille krav til, at vi rent faktisk uploader til nogle fælles databaser.
+
+00:20:46
+Og så har man selvfølgelig også sommetider set, at der bliver lavet nogle centrale løsninger, som jo i virkeligheden ikke dækker slutbrugerens behov, og Det er jo så det hele helt centralt.
+
+00:20:57
+Ja.
+
+00:20:59
+Så det vi egentlig har brug for, for at vi kan. Vi kan få det gode scenarier. Det er at at Vi har nogle metadata, der kan knytte sig til til de her målinger, vi laver.
+
+00:21:10
+Det kunne være ja lokalitet. Hvad er det for noget udstyr og kontrolmålinger? Graden af kvalitetssikring og så videre.
+
+00:21:16
+Og så Vi har nogle data in coins, altså nogle nationale datadatabaser, hvor vi hvor data og de her metidata de kan gemmes så den der infrastruktur ikke og det. Det er selvfølgelig miljøtalen har en stor rolle her i at.
+
+00:21:30
+III, jeg sørger for den, og det kræver infrastruktur, så man har nogle nogle dataadgange til at uploade og også opdatere og og downloade selvfølgelig. Men det her med at opdatere fordi at vi må bare erkende at at vi hele tiden bliver klogere. Der er også vi, vi hiver også fattig tid som er 2 år gammel, hvor vi retter data 2 år tilbage, fordi vi lige pludselig kan se at der måske kommer en kontrolmåling, eller vi kan lige pludselig se at Der er noget galt.
+
+00:21:58
+Så det der med at.
+
+00:22:00
+Og er data levende, og at Vi har mulighed for at for at opdatere det. Det, Det er vigtigt.
+
+00:22:07
+Ja og status på den del er er jo faktisk at at give os har åbnet op for en mulighed, hvor at man kan uploade metoddata, hvor man kan uploade.
+
+00:22:18
+Vandstandsdata for for boringer med DGU nummer. Det er ikke særlig tilgængeligt endnu, men men men inde i Vores statsfase, der har man der kan vi når vi samler vandstand ind i en DU grund service eller flag, og så bliver de synkroniseret op mod mod jupiter og de og Der er den her mulighed for også at overstå data igen.
+
+00:22:37
+Så Det er det retions.
+
+00:22:39
+Og om nextalen er ved at lave en en løsning for vandstanden eller har lavet en løsning for vandstand og vandføring i vandløb og og den introducerede til os der arbejder med altså med at samle data ind her i maj II næste uge tror jeg måske, og så håber vi, at vi kan begynde også at at begynde at at putte nogle af de her data, vi samler ind for for anløb II databaser.
+
+00:23:08
+Det var Sådan lidt om Det var en. Det var en af kæphestene og det, og det handler simpelthen om at at at vi står på tærsklen til at at der kommer enormt mange flere.
+
+00:23:19
+Censorer ud og og millionervis af datapunkter, så så vi Vi skal tænke os lidt om lige nu, hvordan vi nu sikrer værdien fremadrettet og der tal vise eksempler på at.
+
+00:23:31
+Skræksen nej altså hvor vi ikke rigtig får.
+
+00:23:34
+Får behandlet data ordentligt, og hvor de ender er tilfældige steder, så så kan vi ikke i fællesskab finde ud af at eller blive enige om at at det vil vi gerne gøre noget ved.
+
+00:23:45
+Nå så vi ser lidt ud III mulighederne med med med i ting.
+
+00:23:51
+Og og noget hvor som vi leger lidt med Det er Sådan kan man lave noget tidlig varsling af oversvømmelse med med de her enheder og og der har man set der har man jo målt der målt i vandløb.
+
+00:24:03
+Det er måske bare lige en postgang for sent at finde ud af hvor meget vand Der er og hvordan vandstand er i landløbet. Det kunne være, at vi godt vil varsle lidt tidligere, og og hvad kan man sige til første? Det første vi vi kan lave prognoser for Det er jo Det er jo nedbør og andre klimaparametre, så at sige hvad er det?
+
+00:24:21
+Hvad er inputtet til systemet?
+
+00:24:23
+Og når det regner jamen så er det første respons som vi kan måle på. Det er jo faktisk jordens fugtighed og og og og purevandstrykke.
+
+00:24:34
+Så det siger lidt om, hvornår hvornår har vi vantet det jord? Og hvis Vi har vandtet i jord, så kan vi få noget hurtig afstrømning, som kan give et eller andet respons.
+
+00:24:42
+Og når vi får en eller 2 vandmætning jamen så begynder vi faktisk også at få noget nedadrettet strømning noget grundvandsdannelse, så det vil de her data kunne sige noget om, og hvis vi så hopper en takke længere ned til det til at ringe her rundt om spejlet, jamen så kan vi jo sige lidt om hvad er magasinalen skapaciteten så II det hele terræn Der er grundvand. Hvornår begynder vi at at få?
+
+00:25:02
+Få få stuvning på terræn, og det vil sige lidt om, hvad er hvornår begynder der at komme noget hurtig afstrømning til vandløbet?
+
+00:25:11
+I kan måle i lidt dybere grundvand og sige jamen hvad er makineret magasineringskapaciteten dernede?
+
+00:25:18
+Og også lidt om hvad. Hvad kan vi regne med af af basel bidrag til vandløbene?
+
+00:25:24
+Og.
+
+00:25:25
+Og det det vil jeg faktisk lave et par specialer oppe på Aalborg og set hvor jeg viser at Der er en en fin fin korrelation mellem mellem grundvandsspejl i det dybe magasiner og så baseflow bidraget så allerede tidligt på foråret måske ja, februar eller marts eller et eller andet, så kan man så kan man male.
+
+00:25:44
+God sikkerhed, prælekere hvor meget er den laveste sommervanføring, fordi tingene hænger sammen på den måde? Det er. Det er faktisk lidt mere problematisk, når Det er når Det er det hurtige afstrømning men men Det er langsomt er.
+
+00:25:56
+Ja så Det er Sådan Det er Sådan tanken at og og Der er ikke nogen de her sensorer der i virkeligheden er er særligt dyre, så så her begynder vi at være kombinere de her forskellige ting og og kunne måske kunne lave noget noget noget værktøj til at at at lave en tidlig varsling.
+
+00:26:14
+Og.
+
+00:26:16
+Det kan se på de data her, men Vi skal nok også have noget læring ind over nogle læringsalgoritmer ind over det her og og så for at kunne prædiktere, hvornår går det så galt ikke? Og der kunne vi tænke i forskellige slags modeller ikke nogle blackbox modeller som er.
+
+00:26:28
+Som er for eksempel neurale netværk eller nogle bracksmodeller, som er, er Sådan noget reservoiramodeller hvor man flytter vand fra den ene kasse til den 2 kasse eller eller endelig Sådan noget fysisk baserede modeller.
+
+00:26:41
+Så Det er noget af det, vi går og roder lidt med og noget vi ikke er særlig langt, men hvor man kan sige her, tror vi måske Der er et eller andet perspektiv.
+
+00:26:50
+Ja Det er så eksempler på nogle data det her. Det er. Det er Sådan en jordfugtighed.
+
+00:26:55
+Censor Der er en Der er 1 m og 20 dyb og den Der er 6 forskellige sensorer på den der måder fugtighed er nu lidt svært lige at overskue ikke, men i kan måske vurdere den her eller den her den orange her Det er Det er den Det er den mest drengende her og den den der responderer så lynhurtigt på nedbørshællen så ikke og så kommer der ellers en bølge ned igennem systemet ned til den nederste sted.
+
+00:27:19
+Ja 1 m 20 under under strengen.
+
+00:27:23
+Og Det kan man så begynde at at at lege med dem her og finde ud af, hvornår er det så egentlig man man man får aktiveret en grundinstanse, og hvornår gør man ikke? Og Det kan være jeg skal til at skynde mig lidt, så det vil jeg lige gøre.
+
+00:27:33
+Ja.
+
+00:27:34
+Målingen er hos regn eller grundvand. Jamen det her Det er terræn ligger lige her. Det er på en mark nede ved nede ved brande og her fatter sommer.
+
+00:27:44
+Vandstanden bliver så forsøgt ret langt under 1 m og 20 under terræn ikke og så kommer det op igen og man kan sige nedbørssende her har et helt andet respons i vandløbet end en nedbørssændelse herhenne.
+
+00:27:56
+Nå, der kunne være noget dybt grundvand og endelig så jamen så kunne det være vandstand i vandløb. Ikke som.
+
+00:28:02
+Så så nu skal vi til at begynde at kombinere alle de her forskellige slags data.
+
+00:28:07
+Så Det var Sådan lidt med et outlook og det blev jo allerede brugt til at at tilsigne ophav løsninger for højtstående grundvand rundt omkring. Ikke det her. Det er nogle målinger vi laver for med dagen i et område udenfor udenfor brande, hvor der skal byudvikles.
+
+00:28:22
+Og Det var faktisk den kurve, hvor man så lige før, hvor Vi har højtstående grundvand og der har Der er altså installeret nogle nogle forskellige sensorer herovre eller vandstandsensationer herovre Der er lavet en en lokal nedbørsmål ikke og der har man så.
+
+00:28:33
+En række en række vandstandsserier for det her område ikke, og der kan vi begynde at se, hvornår er det, hvornår er det værd at redningsbehov her og hvad og med den her samme model op og kan begynde at regne på, hvad er hvad er mængderne så men men det med at have lang tid til her Det er Det er særdeles værdifuldt ja.
+
+00:28:54
+Godt lige lidt reklame her til sidst. Jamen Jeg har den her lyatform som er som er gratis og og Der er så adgang til der prøver vi at samle de her vandstandtagelse som vi mener Der er relevant så lige nu. Der har vi nødbøger fra dem i stationer.
+
+00:29:07
+Vi har grundvand, Vi har vandløbstationer, Vi har kystvandstande og Vi har vandstand i søer og og der kommer løbende ting ind plus en helt masse Sådan kist temaer.
+
+00:29:18
+Så der kan man hurtigt lige danne sig et overblik over hvad der hvad Der er efter og der Det kan frit der kan data frit downloads til til ethvert formål.
+
+00:29:28
+Så her har man en reklame for det. Ja og.
+
+00:29:33
+Det var Sådan set det og tak for opmærksomheden ikke ikke for de fyre der dem vil helst ikke have opmærksomhed er men mentalere.
+
+00:29:42
+1000 tak Jacob sindssygt spændende oplæg. Hvad hedder det som sagt? Der er allerede nogen af jer der har skrevet spørgsmål ude i chatten, men i er selvfølgelig velkommen til at begynde at skrive ud i chatten nu her, så så udgiver vi dem.
+
+00:29:54
+Jeg tænker egentlig bare, vi starter. Vi starter helt for helt for toppen af Jacob.
+
+00:29:59
+Ingeborg spørger, kan man korrigere forskelle i varierende celementkoncentrationer, som påvirker en trykranguser?
+
+00:30:09
+Så så hvis Der er nogle signal signaler der bliver afhængige af af af segmentkoncentrationen i.
+
+00:30:16
+I vandløb eller noget andet eller er det det? Det har? Det ved jeg faktisk ikke.
+
+00:30:19
+Det pas det.
+
+00:30:22
+Det det tøj jeg ikke udtaler mig om.
+
+00:30:25
+Ingeborg der vil jeg sige tag fat i Jacob jamen så har i måske 1 1 1 1 1 udviklingsprojekt.
+
+00:30:31
+Vi skal kigge på.
+
+00:30:35
+Så spørger Linda definerer i baseflow som naturlig afstemning.
+
+00:30:42
+Nej nej baseflow er bare 1 1 1 det langsomme bidrag til et grundvandet til grundvandssystemet eller til overfladevandsystemerne.
+
+00:30:52
+Så så så det det altså. Vi splitter det op i ja måske 3 komponenter, ikke noget noget noget Quick flow noget altså direkte afstrømning på terræn, ikke noget interflow som kommer i de mere trængende alder i og lidt lange, lidt langsommere bidrag og så også baseflow som at at langsomme bidrag som som danner som grundlasten ude i vandløbet.
+
+00:31:12
+Ja Det er ikke. Der er ikke nogen helt skarp grænse for hvornår det ene og det andet.
+
+00:31:19
+Og så Linda hun spørger om hun kan få slidene bagefter og der tænker jeg hvis jeg lige man kan sige slidesne kommer ikke til at ligge i regi og DNNK der kommer optagelsen til at ligge så der der skal i der skal i nok lige skrive en mail til Jacob hvis i vil have have slidesene.
+
+00:31:33
+Det får i meget gang.
+
+00:31:35
+Jeg har også et par spørgsmål. Jeg kunne godt tænke mig at høre lidt om datatæthed når i nu har de her sensorer som du siger de. De er jo ikke så dyre efterhånden som man kan man kan lave.
+
+00:31:45
+Man kan få relativt mange få få penge. Har i har i nogen, hvad skal man sige erfaringer med hvor hvor mange, hvor mange sensorer Der er brug for. Nu vidste du for eksempel et eksempel med en vegan ude ved en byggemåling eller 1 1 1 byggeudstykning går jeg ud fra hvor hvor mange sensorer?
+
+00:32:01
+Har i erfaring har erfaringer med, at der skal sættes op for.
+
+00:32:05
+Hvor man kan begynde at få sig et overblik over for eksempel Sådan en.
+
+00:32:11
+Jamen Jeg tror måske de der 4 4 stykker der Der er sat op oprindeligt derude II brandnummer det giver et. Det giver i hvert fald et tilstrækkeligt billede. Altså Der er i hvert fald ikke behov for flere, og hvis man vil have været nærig, så kunne man nok også nøjes med med 2 tænker jeg og og så med med data hyppighed.
+
+00:32:31
+Jamen de her altså.
+
+00:32:33
+I virkeligheden så så bliver det så bliver det Sådan, at udstyret er ikke den store omkostning, men Det er mere driften af det, der bliver den store omkostning.
+
+00:32:40
+Så batterilevetid er er lidt et issue i forhold til hvor tit man skal ud og skifte batteri på de her og altså og og og normal logintervaller, så holder de langt over et år.
+
+00:32:52
+Men hvis man hvis man gerne vil have hyppedata på minutsbasis, jamen så begynder det at tappe noget batteri.
+
+00:33:01
+Så så det vil sige Sådan, hvis man hvis man tager data lad os sige en gang i timen eller en gang i døgnet eller Sådan noget, så holder de så holder de rigtig rigtig lang tid. Så er det mere køerne der skal være bange for.
+
+00:33:11
+End det andet er lidt forskelligt på systemerne. Altså sick fox sender og data som de kommer ind.
+
+00:33:18
+Og og giver SM løsninger kan kan sample i en periode og sende, og Der er i virkeligheden sending der koster strøm, så så kan man man kan godt sampjit men bare sende lidt sende lidt sjældnere så så det. Det er også positivt for for batterilevetident.
+
+00:33:33
+Men Det er klart skal man følge med II en i en prøvepumpning med et minuts varsel og man gerne vil.
+
+00:33:40
+Se om pumpen kører og så man skal have sendt hvert 5 minuts. Jamen så koster det noget, så så er der ikke så langt batteri hele tiden for tiden.
+
+00:33:46
+Det er klart og lige lige i den forbindelse altså jeg. Jeg bliver bare ved med at have spørgsmål ind til andre, der også har spørgsmål. Men jeg kunne godt tænke mig du nævnte det lige kort.
+
+00:33:54
+Nu nævnte du også med bruinger med for eksempel prøvepumpning og den slags ting altså hvilke hvilken type kan man sige? Hvilken type undersøgelser ser du Sådan den umiddelbare største potentiale i? Og hvad kan man sige begyndt at få sensorer?
+
+00:34:07
+Og hvad skal man sige big data ind på?
+
+00:34:10
+Altså Der er man kan sige Der er Der er noget hvor man bare samler samler data ind som man bruger i en tidligere eller i en senere analyse. Ikke om om man kan sige jamen dernede ved brande. Det er der.
+
+00:34:22
+Det er da fedt at kunne kunne følge med online ikke, men i virkeligheden så Det er et datasæt man skal analysere efterfølgende.
+
+00:34:28
+Når vi snakker når vi snakker varsling af oversvømmelser og så videre ikke, så har vi brug for noget Der er Der er der der kommer her og nu, så så Der er da Der er der et kæmpe potentiale i eller kæmpe gevinst ved at ved at tingene er online.
+
+00:34:41
+Vi har lavet et kildeplads projekt, hvor Vi har, hvor Vi har etableret boringer, og hvor at vi i virkeligheden har har rigtig svært ved at finde ud af, hvordan det hænger geologien sammen. Det er en stor brudekasse, og der har vi installeret loggere III 10 boringer under prøvepunktning.
+
+00:34:57
+Og og undervejs i udbytningen af de forskellige boringer, altså undervejs, som de bliver brugt ikke, og Det har været enormt værdifuldt for at få en forståelse for hvordan hænger tingene egentlig sammen? Så Der er vi også Sådan brugt det man kan sige næsten næsten online.
+
+00:35:09
+Der er det ved jeg faktisk ikke. Jamen Det er jo svaret på et spørgsmålstegn, men.
+
+00:35:14
+Jo, men Det var egentlig altså, så det vil sige i bruger det både som i brugering og prøvepumpninger og den slags ting, og i bruger det også til til monitorering af af for eksempel det terrænende og grundvandspejl, og i bruger det også til til overfladevand, altså til til vandløb søer altså så Der er Sådan set ikke så mange begrænsninger på, hvor man kan sætte lokkeren på.
+
+00:35:31
+Der er nogen der der simpelthen styrer stemmeværker og Sådan noget hver dag udefra. Ud fra Vores tidsserier, så så så på den måde er det blevet brugt, ikke?
+
+00:35:40
+Og Der er rigtig mange, der samler data ind for at kunne bruge dem senere hen, ikke?
+
+00:35:44
+Og altså og og den store værdi i at have online data, selvom man ikke bruger dem online. Det er at man kan se om om skidtet kører ikke. Altså ja, nu har vi lige lige nu Vi har en mand II Aabenraa for at lave vandføringsmålinger ikke og og det.
+
+00:35:57
+Det er jo et sted hvor Vi har sensorer, og Det kan man sige. Vi vil gerne vi vil gerne ramme nogle høje vandføringer, så så derfor og Det kan man så bruge dem til til at sige hvornår er det Der er tid til at at gå ud og lave de der målinger.
+
+00:36:09
+Ja.
+
+00:36:10
+Du nævnte det lige kort med hensyn til det med en af de klipheste med hensyn til data og tilgængelighed af data. Men Der er jo også en 2 en, som jeg godt kunne tænke mig at høre om, fordi man kan jo sige, at Der er jo nogen der der sværger til meget data er bedre end altså meget data er bedre end en god data hvordan hvad? Hvad tænker du?
+
+00:36:29
+Hvad er dit take på på den?
+
+00:36:32
+Jamen jeg tænker altså Der er en kæmpe udfordring i at have store datamængder altså. Og vi arbejder også for forsyninger hvor at man sampler og ja vanvittig meget.
+
+00:36:45
+Og og og det det gør det bare det hele lidt besværligt. Altså. Det gør besværligt at databehandlere og downloade og og alt muligt andet ikke så så men.
+
+00:36:52
+Men hvis man nu tager og laver noget udtynding af de her data, så kan man faktisk bibeholde alle information og skære 95% af datapunkterne væk. Normalt vis.
+
+00:37:02
+Sådan noget som som på et kildeplads projekt. Ikke hvor man.
+
+00:37:08
+Hvor man måske sampler i 0,5 år ikke? Og så er der nogle enkelte prøvepunkninger rundt omkring altså langt lang tid altså. Der ligger jo bare punkter på en lang række som som ikke giver værdi og og der har vi altså nogle salg.
+
+00:37:20
+Hvad hedder det? Samples algoritmer der kan der kan fjerne 90 95 eller mere procent af.
+
+00:37:26
+Af punkterne så så så man skal tænke sig lidt om ikke men men.
+
+00:37:32
+Ja, men men Det er da Det er da klart muligt altså. Men Der er en risiko for altså Der er virkelig nogen der døjer med med for mange data altså altså alle alle de på på på vandværker alle de SO data der bliver samlet ind med altså med sekund intervaller altså hvad hvad skal man bruge dem til?
+
+00:37:50
+Men altså, men sommetider er der jo så i hvert fald måske ikke lige med et sekund. Men Det kan godt være at man.
+
+00:37:55
+Med halve minutter svarende indtil hvad der egentlig kan for meget glæde af at se hvordan falder og hvordan stiger det og hvordan kører pumperne? Men man kan jo bare socialt alt andet fra den eneste ulempe. Det er egentlig at at Det er lidt sværere at lave statistik på de her tidsserier, som er udtømmet.
+
+00:38:11
+Ja så man kan sige det Det er som du som du også har sagt. Altså det det at samle dataene er måske faktisk det mindste problem. Det Det er ligesom Det er mere det der også.
+
+00:38:18
+Hvordan håndterer man data? Hvordan rydder man op i data og hvordan tolker man data og bruger dataen videre frem? Det er måske faktisk der hvor.
+
+00:38:26
+Ja.
+
+00:38:29
+Spændende.
+
+00:38:32
+Yes så Jeg har et spørgsmål til, så kunne jeg godt tænke mig at høre jeres næste udviklingstrin, altså hvor hvor, hvor hvor? Hvor kunne i godt tænke nu nu har i alle i Jeg kan Jeg kan. Jeg kan næsten se at i bygger jo nok jeres de fleste af jeres sensorer selv så har i Sådan hvor hvor hvor kunne i godt tænke jer hvor bevæger i jer henad?
+
+00:38:50
+Altså hvor hvor er næste trin for jer?
+
+00:38:53
+Altså Jeg vil sige at at vi bygger vi samler lidt udstyr selv, men men udstyr er faktisk ikke det centrale for os. Altså Det er ikke men det. Det er selvfølgelig en nødvendigt og og og Vi skal have det til den rigtige priser og den rigtige kvalitet og så videre der hvor vi.
+
+00:39:10
+Hvis at og der hvor vi satser lige nu Det er Det er på datadelen. Det er at at lave den her kvalitetssikring af data, så vi rent faktisk kan ja kan tørre stole på på data og kan videre. Jeg tror Det er der altså fordi og det bliver jo sikkert et blodrødt marked det her fordi at sensoren er billigere ikke og hvis man bare sætter dem ud og ikke gør noget ved dem jamen så så kan man så koster det ikke så meget men men men vi bliver nødt til at gøre noget ved de her data og sørge for at de har 1 1 1 god kvalitet.
+
+00:39:39
+Så så det det vi kommer til at arbejde med, er i metoder til at.
+
+00:39:43
+Til at at få rejst flag på Vores data til at lave de her automatiske telefoner. Hvad hedder det kvalitetssikring? Det det Det er der det kommer det der det kommer til at stå så og hvis Der er nogen der vil lege med der så.
+
+00:39:55
+Så så må i jo sige til så.
+
+00:39:57
+Det er rigtig meget. Hvad skal man sige learninger ja intelligens Det er den. Det er den vej II kommer til at bevæge jer.
+
+00:40:06
+Ja og der der tror vi jo på at Vi har en, at Vi har en gevinst ved at vi rent faktisk har noget hydrologisk indsigt, altså til at kunne få de her tidsserier, altså når vi nu skal til at få en computer til at lære at forstå den her, og så bliver vi nødt til at bruge Vores egen indsigt også.
+
+00:40:22
+Jamen Det er jo super spændende. Hvordan er nu hvis vi nu bryder den Sådan lidt ud hvor hvor er Danmark egentlig henne i forhold til Europa og andre steder med med hensyn til for eksempel at implementere?
+
+00:40:36
+IOTI indenfor hvad kan man sige? Klimatilpasningslasse cytologien.
+
+00:40:42
+Det det ved jeg faktisk ikke. Altså jeg ved i Holland laver man en hel masse Sådan, men har man virkelig også har man først behov for det, kan man sige det ja eller ellers eller nej, Det har jeg ikke oplevet.
+
+00:40:55
+Altså man kan jo sige, Det er jo i hvert fald unikt, som du også nævnte. Det er jo ret ret unikt for et dansk kontekst, at at Vi har så meget fri data.
+
+00:41:02
+Jupiter og de andre ting og det det, det synes jeg jo er ekstremt ekstremt prisværdigt, at Det er også i ligesom bidrager ind i den kan man sige med med jeres typer af data.
+
+00:41:13
+Så hvordan?
+
+00:41:15
+Der nu Det er bare for at forstå kalypto den den den kobler ind i juputorer og og arbejder sammen med den eller altså ligger i af stadie ind i juputøj og så trækker i det igennem kollyco eller ligger det igennem kalipso og så ind i juputo.
+
+00:41:28
+Vi trækker det alt alt der ind igennem kalipso alle dem der kommer fra Vores censor. Det er Vores, så der har vi hele hele Vores back-end der der håndterer data, så så de kommer derind, og når vi så har det, vi kalder kvalitetssikre data. Jamen som vi så har løbende så, så så smider vi direkte over.
+
+00:41:44
+Ja, og og hvis vi så finder en fejl jamen så, så overskriver vi det der data og og og jupiter der der gemmer de de gamle værdier men men Det er jo Sådan set op til.
+
+00:41:55
+Til dem hvordan de var det ikke, men som man Der er nok historik også også gemt. Og altså Jeg synes jo at han som du siger at Danmark er virkelig gået forrest i forhold til at frigive data ikke, og Det har givet en en enorm værditilvækst i hele samfundet og og vi samler jo som regel. Vi får som regel penge for at samle data ind, så så selvfølgelig skal skal data være gratis, når Vi er færdige med den og og der der synes jeg vi alle sammen har en forpligtigelse til at til at bidrage ind i det.
+
+00:42:23
+Det synes jeg Det er. Det er jo Det er jo vand på mine ører. Det er rigtigt.
+
+00:42:26
+Det er jeg rigtig glad for at høre.
+
+00:42:29
+Nu er der et par minutter tilbage, så sidste chance, så hvis i har nogle spørgsmål, så må i meget gerne skrive dem i chatten.
+
+00:42:35
+Og ellers så vil jeg selvfølgelig bare lige opsummere, så vil jeg først og fremmest sige tak Jacob for din præsentation. Det var rigtig, rigtig spændende at høre og super super interessant og se hvordan EOT også er kommet ind i. Kan man sige klimatilpasninger og og hydrologien.
+
+00:42:52
+Og redigere muligheder det det Jeg tror, som du siger, Vi har kun set toppen af isbjerget. Vi er slet ikke startet endnu, så Jeg tror det det bliver en fantastisk rejse. Vi som kan man sige som branche kommer på.
+
+00:43:04
+Derudover vil jeg selvfølgelig sige, at som sagt den den her take-trol bliver optaget, og det vil sige, den kommer ind at ligge på DNKS hjemmeside, så der kan i selvfølgelig finde den om et par dage. Og ellers hvis i har nogle spørgsmål Jeg kan se. Linda har også spurgt dem med hensyn til slidesene der.
+
+00:43:18
+Jamen så tag fat i Jacob. I kan helt sikkert finde ham på ja på enten på LinkedIn eller eller på på watson CS hjemmeside og så kan i jo få slidene derigennem.
+
+00:43:32
+Ellers så vil jeg bare sige 1000 tak jacobtusind tak for en rigtig spændende tech talk og.
+
+00:43:40
+Ja jo og Jeg vil sige hvis Der er nogen der sidder derude og lytter med som godt kunne tænke sig at have en checktal i den nærmeste fremtid, så kan i så kan i skrive til til mig i kan finde i kan finde mine kontaktoplysninger inde på DNNKS hjemmeside.
+
+00:43:54
+Så kan i også have mulighed for at holde en tekst op, så på vegne af dian NK så vil jeg sige 1000 tak til dig Jacob og 1000 tak til dem der lyttede med.
+
+00:44:02
+Og ja pas på hinanden derude og klimaet.
+

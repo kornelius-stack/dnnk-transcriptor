@@ -1,0 +1,822 @@
+00:00:06
+Kære alle velkommen til dagens tik tok på DNDK. Mit navn Det er theis roskov Andersen og fra video University College sammen med Morten fra danni k vil jeg meget gerne på vegne af danni k byde jer alle sammen velkommen.
+
+00:00:18
+I dagens tiktok relats og Peter fra solgtech præsenterer deres nyeste værktøj til beregning af forsyningsselskabernes coto udledning for anlægsprojekter.
+
+00:00:26
+Og lidt praktisk information, inden vi starter. Selve præstationen varer cirka 30-40 minutter, hvorefter der vil være 5-10 minutter til spørgsmål. I kan løbende stille jeres spørgsmål i chatten, og så vil jeg publicere dem, og launs og Peter vil besvare dem i slutningen af tektuppen.
+
+00:00:39
+Og for en god ordens skyld skal jeg informere jer om, at sektuppen bliver optaget, og det vil sige i løbet af et par dage, så kan i se den på dan n ks hjemmeside.
+
+00:00:47
+Det var alt for nu fra min side, og så vil jeg ellers give ordet til laurence og Peter.
+
+00:00:53
+Ja tak skal du have. Jeg tænker noget af det vi vil prøve at komme igennem her i løbet af det næste Sådan 40 45 minutter. Det er Sådan selvfølgelig i introduktion til til hvem Vi er.
+
+00:01:03
+Jeg hedder Peter hartvig og konstrukt i solc dernæst lige kigge lidt på hvor er fokus i forhold til klima og klimapåvirkning, hvor meget fylder der skubber ind og 2 og og og og får vi i virkeligheden underbehandlet lidt skub 3.
+
+00:01:17
+Før vi går lidt videre og kigger på, hvad er det for nogle principper Vi har brugt i forhold til at få udviklet et Sådan ret operativt konkret værktøj til den til den til den enkelte projektleder sammen med Skanderborg Forsyning. Og så kommer vi lidt ind på et et par eksempler også der som plejer faktisk at give rigtig, rigtig god mening i forhold til Sådan at få visualiseret lidt. Jamen, hvad er egentlig klimaaftrykket forskellige løsninger?
+
+00:01:41
+Man kan sige det, der har været Sådan centralt. Det er i hvert fald spændende. Det der har været Sådan Vores centrale udfordring.
+
+00:01:47
+Det er at prøve Sådan lidt at få balanceret ikke Det er frygteligt komplekst det her emne.
+
+00:01:54
+Og Vi har nok været meget optaget af ikke at få de sidste detaljer med, men frem for alt også komme med en løsning, som man kan bruge som relativt hurtigt en mængde projektleder og samtidig meget meget øje for at Det er også noget, der skal være relativt nemt at tage i brug.
+
+00:02:10
+Så man kan sige, det havde været vigtigt for os at komme med nogle simple ret forståelige resultater, så kan vi altid bygge videre på senere.
+
+00:02:19
+Og det gør, at selskaberne hurtigt kan komme i gang, hvis man kigger på Sådan et relativt stort spildevandsselskab, så kan det være, de har et en belastning med en 25 30.000 ton CO 2 om året. Det ville være frygtelig ærgerligt, hvis man i virkeligheden får på de sidste detaljer med udskyder arbejdet med at optimere det her 1 2 3 4 år.
+
+00:02:40
+Hvis vi i princippet siger, jamen vi kom i gang i morgen, så Det har været rigtig vigtigt, og så har det også været rigtig vigtigt for os, at slutbrugeren har været med.
+
+00:02:49
+Det ved vi fra fra andre IT udviklingsprojekter vi, hvor vi også har været med i forhold til design og udvikling og implementering. Det er et slut bruger involvering med at få dem med fra start og også i forhold til træning og design. Og i forhold til sidst tiltalende er super super vigtigt, så Det er Vi har ikke en teknisk baggrund.
+
+00:03:07
+Det kan være du vil trykke med gangen, så kan vi sætte lidt ord på hvem Vi er. Vi har Sådan mere en data IT økonomisk baggrund.
+
+00:03:14
+Hvor vi egentlig er gode til dataanalyse det, men Det er ingeniør tekniske viden. Det har vi i høj grad spillet bold med med i det her tilfælde skatteroblation.
+
+00:03:26
+Som sagt, jeg hedder Peter og Jeg har laurence med nogle af tryktograp. Lad os bare tage den og noget af det Vi har lavet. Det er blandt andet som sagt, Det er det her værktøj til til projektleder for at få kvalificeret CO 2 forskellige anlægsprojekttyper.
+
+00:03:39
+Det har vi lavet sammen med Skanderborg. Derudover så laver vi også samfundsøkonomiske konsekvensvurdering. Vi har blandt andet lavet et blandet sammen med med Kalundborg også lavet med andre selskaber, hvor vi ser på, hvad er det egentlig for nogle skadesomkostninger?
+
+00:03:53
+Som tagoverflade vand giver anledning til og hvad er det for noget services nu den mening? Og så har vi også med et par andre selskaber blandt andet halsnæs se lidt på hvad er Sådan?
+
+00:04:04
+Også godt et og 2 belastningen på på affaldsområdet udenfor andre kommunidata. Det er Sådan lige for at give indflyvningen. Og så tænker jeg så vil laurits lige tage den videre herfra.
+
+00:04:15
+Ja ja.
+
+00:04:17
+Og inden vi Sådan kommer endnu tættere på. Hvad er det for et værktøj Vi har bygget i samarbejde med med Skanderborg Forsyning, så vil vi godt dvæle lidt ved ved afsættet for at bygge det, og Vi har været i dialog med med en del selskaber efterhånden som oplever lidt forskellige udfordringer.
+
+00:04:32
+Og noget af det første, vi Sådan siger, når vi når vi snakker med dem, hvor de er henne. II forhold til CO 2 regnskaber og så videre. Jamen det Det er super svært at tage første skridt.
+
+00:04:41
+Og og det hører vi både gælder Kommune og forsyningsselskaber, altså skubbe et og 2 er som regel lidt nemmere at arbejde med. Men men hvor skal man starte så det her med klimaregnskabet blev taget første skridt, og hvor passer vi ind i forhold til regler og krav, og den udvikling, der sker på det område. Det kan godt være lidt svært at navigere II, hvert fald det vi hører.
+
+00:05:04
+Og, Der er kommet nogle flere kasser og i må meget gerne overveje Sådan, når de kommer op her om Der er nogle af dem i kan genkende.
+
+00:05:11
+Og eventuelt notere i chatten, hvad der fylder for jer. Det ville være super fint.
+
+00:05:16
+Så den første del altså hvor meget udleder vi så det næste skridt? Vi hører hvor nogen er i gang. Det er, hvor kan vi så reducere så?
+
+00:05:25
+Forsyningsselskaberne, Sådan specifikt kan gå ind i mange typer udledninger. Der er både noget for elforbrug, varmeforbrug metan og lattergas, lukach og renseanlæg.
+
+00:05:33
+Og så få overblik over kilderne og og så derfra få få lavet et road mab og en plan for jamen hvordan bliver vi så nu hørte vi at det Sådan klimaneutralitet II 2030 bedriften og Sådan fylder meget som som gennemgående målsætninger på tværs af selskaber, så Sådan road mappel fra i dag og så hen til 2030.
+
+00:05:53
+Og så hvordan får vi på en god måde at skubbe 3 med? Det er jo Sådan den sidste kasse her.
+
+00:06:00
+Ambitionerne lidt blødere men men altså kliminualitet i 2030 er også relative kvantitativt, og der der kan man sige der. Der er jo også en masse overlap høre ved internt II ledelsen, men også i bestyrelsen hvor der jo kommer denne her kobling fra selskabet og og og sammen med sammen med kommunerne.
+
+00:06:18
+Og der hører vi flere selskaber. Var jeg Sådan lidt i tvivl om, hvad præcis deres mandat og hvor langt må de gå, og hvor meget må det koste og så videre? Og også skal vi prioritere og være effektive og og så billigst muligt?
+
+00:06:28
+Eller skal vi give lidt ekstra for så at reducere Vores udledning?
+
+00:06:31
+Altså den der målsætning og prioritering mellem målene det. Det er ikke altid den står står knivskarp for selskaberne lige med de her 2 fokus.
+
+00:06:42
+Ja.
+
+00:06:45
+Og jeg ved ikke om Der er nogen af jer, der kan genkende det her.
+
+00:06:49
+Jeg synes de fleste plejer at være med også i hvert fald på de grønne.
+
+00:06:53
+Og Det er Sådan der de de de måske er, og i forhold til de her ressourcer, de har givet det. Og Det er Sådan. Hvad kan man sige modenhed og hvor længe de har arbejdet med det?
+
+00:07:03
+Ja jeg tænker i må meget gerne notere chatten eller så dribler. Vi driver vi stille og roligt videre.
+
+00:07:12
+Yes.
+
+00:07:14
+Og nu har vi allerede. Jeg har allerede nævnt nævnt det et par gange, men bare lige for at at at tydeliggøre. Altså man kan sige skubbe et og 2 fylder fylder meget i øjeblikket og er også lidt nemmere at arbejde med.
+
+00:07:26
+Det er typisk altså energi og varme fylder meget, og der har vi allerede set nogen der har energioptimeret som er langt de nu kan.
+
+00:07:34
+Og kigger lidt på jamen hvad er det næste skridt vi kan tage for at for at arbejde med Vores CO 2 og og reducere det?
+
+00:07:42
+Så scoreb et eller 2. Det er primært driften og der renseanlæg vil det være lattergas med metanols lidt. Det kunne være noget intern transport.
+
+00:07:49
+Jamen skubbe 2 Det er primært varme og og energi.
+
+00:07:53
+Og det her. Det er jo et udsnit, men man kan sige de 2 kasser til Venstre. Det er primært driften det omhandler.
+
+00:07:58
+Og hvad Vores bog 3 jamen så er det egentlig resten af værdikæden, og Det kan både være upstreaming på leverandører og Det kan være downstreaming på på kunder.
+
+00:08:07
+Der, hvor Vi har prioriteret, og der hvor Der er størstedelen af CO 2 ligger. Det er så upstream, hvis man kigger på leverandøren.
+
+00:08:15
+Og hvis vi prøver at zoome lidt ind på det, så i en artikel fra fra Danmark lidt tilbage jamen, så estimerede de egentlig at at 2/3 af af CO 2 udledningen kom fra fra anlægsarbejde, altså anlægs projekterne, når man graver og lægger nye rør.
+
+00:08:29
+Så spilder manstødning og vandledninger og og hele portefølende 2 eks projekter.
+
+00:08:36
+Og, der havde vi så en ambition sammen med Skanderborg om, hvordan kan vi få adresseret det her ud fra nogle designprincipper? Så det bliver nemt for projektlederne at at arbejde med det og få nogle tal på og også finde ud af jamen, hvad kan vi gøre i det her store wimbled?
+
+00:08:50
+Og sådi man kan sige score et og 2 er nok til at have med at gøre. Men hvis man vil have perspekt forskelligt og gøre det rigtige, så vil vi nok være optaget af.
+
+00:08:58
+At man også får lys på skub 3, og Det er derfor værktøjet i den grad. Sådan bestiller skarpt på på skub 3, og så kan vi sige Det er der langt størstedelen af effekten der.
+
+00:09:08
+Og vi kan komme lidt. Der kommer nogle spørgsmål og det kommer vi lidt tilbage til ned igennem. Men man kan sige noget af det der ligger lige nu.
+
+00:09:15
+Vi tager vi kan lige tage den om et par slides. Det er det i hvert fald noget data det Vi er. Vi bruger i forhold til at få opgjort de her ting.
+
+00:09:22
+Det lad os tage det lige 2 sider længere ned til.
+
+00:09:26
+Ja og vi ser spørgsmålene vi kommer tilbage til det, men lige den her omkring data det tænker jeg den. Den tager vi lige som det første et par sider med.
+
+00:09:35
+Yes.
+
+00:09:38
+Ja og så man kan sige som Peter også var inde på i forhold til Vores trekant der i starten så har vi lavet nogle designprincipper sammen med scannerborg, som vi som skulle sætte rammerne for. Hvor langt går vi i jagten på på præcision?
+
+00:09:54
+Fordi Det er også stiller nogle højere krav til projektlederen. Hvad ved han og hvad har man af input ret tidligt II designfasen.
+
+00:10:02
+Så derfor har vi lavet nogle designprincipper her, hvor det skulle være tydeligt.
+
+00:10:06
+II forbindelse med gennemsigtighed her at at projektlederne kunne kende tallene og forstå tallene og og være med på, hvad er det, vi beregner, og hvor kommer tallene fra? Når vi så får noget output i sidste ende, så der har vi haft en række workshops 3 workshops, hvor Vi har projektet med helt inde tæt på og vise. Hvad er det for nogle databaser, vi kigger på?
+
+00:10:25
+Hvad er det for nogle beregninger, vi laver, og hvor langt kan vi gå?
+
+00:10:31
+Altså vi tidligt på de tidlige workshops, der snakkede vi jo ind i. Jamen der var både bondemandsstænkning og grave dybde og og en masse der har.
+
+00:10:38
+Har indflydelse på, hvor meget CO 2 udleder vi fra entreprenørmaskinerne, og der kogte vi det egentlig ned til. Jamen Vi har et input, der hedder projektets varighed længde og så antallet af af af entreprenørmaskiner fordelt på størrelse, og det kommer egentlig. Hvad kan man sige?
+
+00:10:55
+Min inspiration fra vejdirektoratets egen elseopgørelse, og Det var den måde, man gør det på. Og det hvad kan man sige den detalje?
+
+00:11:03
+Og Det kan projekterne typisk godt gennemskue relativt tidligt projektet.
+
+00:11:07
+Så den. Det var et eksempel på, hvor vi ligesom har prioriteret gennemsigtighed og og den næste brugervenlighed, som jo, hvad kan man sige? Har været alt for omega?
+
+00:11:16
+Altså projektlederne skal være relativt hurtigt kunne kunne få et indtryk af alternative løsninger til til til et samlet projekt, man ligesom skal udarbejde.
+
+00:11:26
+This 20 estimeret jamen det handler jo egentlig om at vi vi Vi er gået lidt på kompromis med første og 2 3 decimal i jagten på at projektlandskab kunne navigere det nemt. Projektafdelingerne i forsyningsselskaberne er i forvejen presset på ressourcer travlt, så det der var i deres succeskriterierne her, Det var at de ikke blev. Hvad kan man sige belastet med for store nye opgaver, og at de får et værktøj her, som som de kan gøre til relativt hurtigt og relativt nyt.
+
+00:11:53
+Og så den sidste fireren man kan sige. Nu har vi det ude at leve Skanderborg, og Vi har evaluering senere på året er værktøjet og opnået nogle projekter. Vi har testet det af på igen.
+
+00:12:06
+Og så er tanken, at vi videreudvikler og tilpasser efter deres behov. Nye datakilder, nye beregninger og så videre. Så der ligger en version et, men den skal tilpasses efter, hvor det giver mening og hvor Det er interessant.
+
+00:12:19
+Og det, det tror jeg det. Det er Vores bud på også at man skal have Vores Forsyning og sige jamen hvordan er det vi lige tager får balanceret med en kompleksitet komme hurtigt i gang med noget, og så kan man sige få brugerne med vi. Vi er jo godt med på, at man kunne have gjort, altså vi kunne godt have jagtet de sidste 20%, men hvis Det er det der gør at vi kommer 3 år ud, før vi begynder at arbejde aktivt med det her, og Vi har så meget præcision med at brugerne ikke helt får det med, så tror vi på, Det er vigtigt at starte ud med 1 1 1 Sådan minimumvirket product så at sige, og så kan vi.
+
+00:12:49
+Bygge på med af vejen, og Det er Sådan set også det Der er tanken med med Skanderborg.
+
+00:12:54
+Og den bringer altså også lidt over til nogle af de læringer, Vi har taget med fra forløbet, fordi man kan sige først og fremmest. Altså når når vi snakker med selskaber om det her, er det. Det er nyt for mange og særligt små 3 er nyt og en svær størrelse og kompleks, som vi også har været inde på.
+
+00:13:09
+Så det her med at Det er en lidt mere simpel løsning. Det hører vi egentlig at Der er mange.
+
+00:13:14
+Der erkender, at at godt sted at starte.
+
+00:13:17
+Fordi så kan man ligesom træne dialogen internt og man kan begynde at tænke OK jamen hvordan kan vi?
+
+00:13:23
+Hvordan kan vi bruge det videre med leverandørerne og op mod bestyrelsen og internt til direktionen til at afopportere?
+
+00:13:29
+Ja altså Jeg tror ikke jeg ville det ellers for meget ved den næste men men Det er jo lidt omkring de her regler og rammer man navigerer i der kommer man jo til at være lidt på forkant med det, og så kan man jo som sagt det kommer vi lidt tilbage til man bruger det som afsæt til at tage en dialog med med leverandørerne, stille nogle krav eller nogle forventninger.
+
+00:13:48
+I forhold til hvordan projektet bliver og bliver udfattet.
+
+00:13:52
+En bemærkning ida har et spørgsmål omkring at vi skriver et CO 2 er uden for selskabets kontrol.
+
+00:13:59
+Det stod på side 3.
+
+00:14:02
+Man kan sige det tænker vi Sådan set ikke Der er så du også skriver et selskaber har jo snor i hvad er det for nogle anlægsprodukter de laver? I er helt enige og og tanken er jo netop Det er fuldstændig lys på konsekvenserne. De CO 2 vise konsekvenser de forskellige anlægsprojekter.
+
+00:14:16
+Så helt enig. Det er indenfor for deres kontrol. Jeg tror lige vi går tilbage til præstationen i deres sikre ved lige at vi får får det skadet rigtigt på side 3 helt alene ja.
+
+00:14:30
+Ja og så det her. Det er jo et bud på hvordan værktøjets resultater i sidste ende kan se ud, og man kan sige.
+
+00:14:37
+Vi har været relativt langt omkring, som jeg også var inde på i forhold til. Hvad er det præcist for nogle drivers og nogle nogle faktorer Vi har som udledere, eller som vi kan udlede CO 2 fra.
+
+00:14:48
+Og det vi kom tilbage til, når vi Sådan prøvede at koge det ned og kondensere det. Jamen Det var egentligt de her 4 faktorer Vi har ved siden af af cirkeldiagrammet, så Vi har nogle materialer som kommer af for eksempel materialevalg på ledninger, brønde, strømpeforing.
+
+00:15:05
+Så har vi eventuelt noget retablering af asfalt, så har vi noget jordhåndtering, hvor projektledernes eneste input her er. Hvor langt skal det køres?
+
+00:15:15
+Fordi så har vi noget data der ligger bagved for entreprenør som ligesom hvad kan man sige tilkendegiver for de her dimensioner af ledninger der fortrænger vi så meget jord, så så vil det være det der skal transporteres væk og så den sidste entreprenørmaskiner. Der var vi jo vidt omkring i forhold til jamen, hvordan kan vi håndtere og indregne alt fra grundvandssentænkning til gravedyde?
+
+00:15:40
+Til også arbejdsplads og og den vej, det gik.
+
+00:15:43
+Som bliver afstemt med med Skanderborg. Jamen Det er bare, at vi siger hvor lang tid varer projektet og så ud fra det, så har vi nogle beregninger der. Der er nogle standardsatser for for elforbrug og benzinforbrug og så videre ja.
+
+00:15:57
+Og de nøgletal vi så ellers har med i toppen. Det er jo udledt CO 2 og så har vi CO 2 i kroner som er ud fra grøn skattereform for 2022. Den afgift potentielle afgift der ligger IE us kvotehalsystem der.
+
+00:16:09
+Og til sidst jamen Det er jo et bud på hvordan man kunne evaluere projekter på tværs, og hvis man skulle gøre det lidt bredere end end ledningsprojektet, jamen så kunne det jo også være en CO 2 i kroner og plantebaseret million.
+
+00:16:22
+Eller CO 2 i ton per investerede million. Vi hører lidt forskelligt, hvem Der er interesseret i hvad ton eller kroner.
+
+00:16:27
+Men planerne projektcheferne synes typisk det her med kroner er er interessant, fordi så kan man sidestille det med budgettet, hvor projektet oplever vi i hvert fald, og vi hører det indtil videre, at Der er det mere det her CO 2 i ton Der er interessant og og nørhørte.
+
+00:16:41
+Og så kan man sige netop det her med at sidestille afgiften, jamen så kan man jo lægge den ovenpå som et lag og se jamen budget og afgift. Hvordan hænger det sammen og når man har en porteføljeprojekter, hvor er det så vi måske kan spare mest ved at give det lidt ekstra?
+
+00:16:55
+Så på den måde prøver vi et eller andet sted at prissætte eksternisering som den her CO 2 belastning. Dybest set er. Man kan sige det Vi har lagt vægt på.
+
+00:17:03
+Det er jo at tage offentligt tilgængelige såmænd også gratis data for at komme i gang med den her prototype. Sigurd spurgte til, hvad er det for noget data vi bruger? Jeg ved er Der er der flere Vi skal nævne.
+
+00:17:15
+Hvor meget hvad har vi fået fra scanner word i forbindelse med spørger?
+
+00:17:18
+Han, Vi har fået. Vi har egentlig arbejdet med flere forskellige datakilder, altså der ligger en.
+
+00:17:24
+Let tilsvarende model lidt mere kompleks model II Norge som norsk vand har været med til at udvikle sammen med med med nogle interessenter. Der har vi da data fra Vi har en data fra den her indflydelse af fra Vejdirektoratet, som jeg nævnte. Og så har vi også suppleret med nogle APD er altså nogle miljødeklarationer fra Skanderborg målrettet de.
+
+00:17:48
+Producenter de har og de de samarbejdspartnere de har.
+
+00:17:51
+Og Vi har hele tiden afstemt på tværs af kilder, og Vi har også været bredere, men som Peter også var inde på. Altså, Vi har egentlig målrettet det open source løsninger, fordi der hurtigt kommer en betalingsvægt på, og Der er også nogle mere komplekse databaser, men dem har vi holdt os fra tilbage til Vores designprincipper.
+
+00:18:06
+Ja, jeg håber Det har været et svar på spørgsmålet.
+
+00:18:08
+Altså man kan sige jeg kunne forestille dig måske en ingeniør eller 2 iblandt jer og og Det er laurence og jeg jo ikke. Men Vi har jo spillet bold med ingeniør men men også i fællesskab fundet ud af, at hvis Vi skal lykkes, så er der så lidt en triangulering, altså Der er både noget omkring kompleksitet, hvor Vi skal finde et passende niveau, men Vi skal sørge for at vi ikke glemmer det her med med brugervenlighed.
+
+00:18:29
+Altså Vi har fået et værktøj omkring og først har sin projektskitse på plads. Så kan man lave det i løbet af et kvarters tid. Det har været rigtig, rigtig vigtigt som afsæt på på 3 muskler, og så er der det her med tidsfaktoren, at vi ikke skal så at sige ofre 1 2 3 års potentielt gevinst på det her område for at få den helt rigtige model.
+
+00:18:49
+Så hellere komme i gang og få det udviklet.
+
+00:18:52
+Men, men Jeg tror Vi har i øvrigt et spørgsmål, hvor sigurd igen spørger omkring tidsramme.
+
+00:19:00
+I forhold til andre forhold og kan det være muligt at opdele CO 2 sekvlanter IA et til a 4 eller b? Og hvad har i gjort med dværdierne? Man kan i hvert fald sige, hvor til tidsrammen der tænker, vi vil lave Sådan en tog der koster bondeships og sige så det her.
+
+00:19:14
+Det er projektet over hele det tidspension.
+
+00:19:18
+Og så ved jeg ikke, om Vi har noget i forhold til til a et og og a 4 navn.
+
+00:19:24
+Altså det det fokuserer primært på på crail 2 gave så altså drift. Det er noget af det Vi har snakket med i Skanderborg om det. Det skubber vi lidt.
+
+00:19:33
+Nu skal vi lige evaluere og have det implementeret som det ligger, og så udvikler vi det efterfølgende også i forhold til afskaffelse som jo ligger IID så vidt jeg husker.
+
+00:19:42
+Så det ligger på tegnebrættet, og det ligger som en bobler, men til en start vil vi have have implementering med. Hvad kan man sige indkøb og installation og de input som projekterne har her? Altså Det er forhold til materiale.
+
+00:19:57
+Jamen Der er det ledningslængde og dimension, og så vælger man materiale forhold til asfalt. Jamen der har vi valgt om standard lag af gab nul og gab et og AP.
+
+00:20:08
+Og så det eneste projekt hånd taster. Det er kvadratmeter i forhold til jordorientering. Den har været omkring, så den vil jeg lade ligge.
+
+00:20:14
+Men det man har indtastet her. Det er, hvor langt skal det køres væk og så entreprenørmaskinerne? Det var vejheden, så Det er de input, og vi oplevede på workshoppen til sidst med Skanderborg, at projekterne ud fra en tilbudsliste kan udfylde det på 20 minutter.
+
+00:20:27
+Og så have det her overblik.
+
+00:20:29
+Så man kan relativt hurtigt og nemt arbejde med det, og så er der selvfølgelig plads til at detaljere, men Det har vi for nu skubbet lidt til sidst også for at prioritere hvad nødvendigt og og og præcisere.
+
+00:20:41
+Lad os prøve at klikke engang og så se om det, fordi Der er faktisk kommet nogle nogle spørgsmål yderligere. Men lad os prøve lige at klikke engang, så se om Det er måske kastet lyset herover over land.
+
+00:20:50
+Og der hvor vi synes det bliver interessant. Altså Det er jo netop når man har et projekt som eksempelvis ledning Sådan nogle.
+
+00:20:56
+Blandt planuering, og man så kan sammenligne den med med en strømpeform.
+
+00:20:59
+Og det her. Det er opgjort per per meter ledning eller eller hvordan? Hvad er det som hvad er måleenheden her?
+
+00:21:04
+Eller er det for hele projektet?
+
+00:21:06
+At Det er for hele projektet og der som jeg husker det projekt, Vi har tastet ind her som som altså mest af alt en koncepttning. Det er at Vi har nogle nogle meter ledning. Jeg tror der ligger 1 km og så ligger der et bassin og så er der nogen grønne, så Det er det Vi har tastet ind her hvor det det Der er forskellen Det er jo Det er jo altså gravearbejdet som som man også kan se nu er der lidt gravearbejde fordi man ikke.
+
+00:21:27
+Jeg beholdt brønde i projektet, så Det er måske lidt attrikt, men Det var for ligesom at at holde 2 projekttyper op mod hinanden.
+
+00:21:33
+Så måske før vi lige konkluderer i forhold til samtlige alternativer og strømperform i det her tilfælde, så er det tænkt som 1 1 1 værktøj, hvor man i princippet kan oprette sit projekt og vælge sine forskellige anlægskomponenter, og så var de ud fra de anlægskomponenter man vælger størrelse dimensioner. Så er det så der trækker nogle nogle Sådan standardpriser på på CO to-dækning?
+
+00:21:56
+Ja så Det er ikke. Det er ikke kun ledernes revolvering der strømper på. Det har vi bare taget med her, fordi Det er så så godt et åbenlyst eksempel så så.
+
+00:22:04
+Ja og både hvad kan man sige metode og data? Altså Vi har løbet løbende som snart snakket med en del forskellige interessenter, både entreprenører og både AU og DTU norsk vand og så selvfølgelig Skanderborg som som primært drivende.
+
+00:22:20
+For at det også giver mening Sådan metodisk selvfølgelig.
+
+00:22:23
+Ja.
+
+00:22:24
+Men ellers altså det man kan sammenligne nogle nogle løsninger her relativt tydeligt i sin designfase og ellers så vil vi prøve at hoppe videre, så hvis man nu ud fra det her for eksempel. Vi ville egentlig gerne gå videre med Vores drømmefond.
+
+00:22:38
+Så er det et spørgsmål. Måske vil vi notere i chatten om Det er noget i har lavet lignende? Det kan også være i form af af LCA er hvor i måske har testet dem på bagkant.
+
+00:22:47
+Så noter endelig i chatten. Hvis i har lavet noget lignende eller noget der minder om.
+
+00:22:53
+Ellers som sagt, hvis man går videre med sit strømpefolk projekt.
+
+00:22:58
+Tager tanken jo også, at man kan bruge det her som opsamling, så.
+
+00:23:02
+Prøv lige at lægge ind her, så hvis man hvis vi går tilbage til det her med klimaneutralt.
+
+00:23:05
+Skal vi ikke lige give op til bank? Det er mere. Et eksempel er bare så godt det her med.
+
+00:23:11
+Man har Sådan en klassisk opgravning med noget ledningsgenovering, og hvis man så laver en noteløsning via noget strømper for en, så er det man ligesom kan se. Jamen, hvad er det så egentlig for ens? Altså ud over den økonomiske set faktisk også er billigere, så er der også en en markant klimaeffekt af det.
+
+00:23:28
+Og man kan sige de de fleste vi deler det her med. De er jo ikke overraskede, men det der med at få syn for sagen og få kompenseret hvad er faktisk gevinsten her sort på hvidt giver bare super god mening og det så også er cums super effektivitet. Det gør det kun bedre, kan man sige undskyld.
+
+00:23:45
+Klokken.
+
+00:23:48
+Ja, så hvis vi tager Vores strømpeforing og så tager den med over som projekt kl. 19:59 23, som hvor vi siger nu har vi udført det her projekt, og Vi har aktiveret det. Det man jo så gerne hører vi i hvert fald vil.
+
+00:24:01
+Det er at få lavet den her baseline, så hvor meget har vi udledt type 23 og det der har vi jo så projekt et p et og så kunne det være 3 andre projekter man også har har udført og afviklet IP 23 og så selvfølgelig driften ovenpå.
+
+00:24:16
+Og der kan det jo også bruges som værktøj til opfølgning og evaluering, hvor man så får lavet måske noget opsamling CO 2 i tons samlet eller per investeret million eller per meter ledning, og man så hele tiden evaluerer på årligt. Jamen der vil jeg vise i den rigtige retning og nu det her. Hvad kan man sige?
+
+00:24:35
+Koncepttegning men men målbilledet skulle jo gerne være Sådan at man bliver bedre og bedre på på CO 2 og man får valg de projekter også hvor man kan spare.
+
+00:24:43
+Mest c 2 måske med den mindste meromkostning eller måske endda spare nogle penge? Altså vi. Vi har hørt et andet sted at at for eksempel jordentering.
+
+00:24:50
+Det er jo en super god case, fordi kan man undgå at flytte jorden. Jamen så er det jo en kanon case både på CO 2 og på økonomi, og der var et enkelt projekt.
+
+00:25:00
+Fra et selskab, hvor vi hørte jordhåndteringen. Jamen Det har kostet 10 mio. Og det den den caster jo også var kanon at undgå eller reducere.
+
+00:25:08
+I forhold til CO 2.
+
+00:25:09
+Så kan man genanvende den lokalt eller eller gøre noget andet, der gør at man ikke skal fragte den så langt eller slet ikke frag.
+
+00:25:16
+Den er måske lige 2 ting for lige.
+
+00:25:20
+Nu kan jeg lige sige noget så bagefter, så skal vi lige mads. Han spørger om vi kan forklare det 3 nøgletal altså CO 2 kr. per per meter ledning igen lad os lige tage den, men man kan sige det vi i hvert fald også har talt med nogle selskaber om det kunne give rigtig god mening.
+
+00:25:32
+Det er ligesom at få lavet baseline, bruge værktøjet og den til dybest set er fortrullelet eksempelvis 10 projekter igennem. Hvad har belastningen egentlig været for det ud at leve blandt projektledere? Få det diskuteret hvad kunne Sådan klima mere venlig løsning potentielt set have været?
+
+00:25:49
+Så har man ligesom sit baseline på plads og et afsæt for ligesom at så har vi nogle håndtag og skue og arbejde med, ligesom figurerne her viser dem til højre. Men i forhold til CO 2 kr. per per meter ledning, når skal vi lige prøve at.
+
+00:26:03
+Ja altså Det er jo et bud på hvad kunne være interessant at følge op på, så man også kan sammenligne på tværs af projekter og som Vi har i klassen til højre. Det kunne også være CV kl. 11:58 plante stedet nu.
+
+00:26:12
+Hvis Det er parameter, så er tanken jo at hvis man udleder 1000 tons 2 og man lægger 1000 m ledning jamen så vil fakta være en. Og når man så har et andet projekt hvor det måske er 2000 ton for også 1000 mere jamen så kan man se så udleder man dobbelt så meget CO 2 og så er tanken jo så kan man jo bruge det til at kigge lidt ned i projekterne og sige hvad gjorde vi anderledes? Måske her hvor vi kun er ude lidt et ton permterne.
+
+00:26:33
+Men hvis Vi er i spildevand, så kan man sige, at man har mere Sådan.
+
+00:26:37
+Det er mere et bassinprojekt jeg mener, så er det nok ikke lige meter Der er bedst drive, og så skal man nok finde noget andet.
+
+00:26:42
+Så er det så, så vil det nok være bedre at kigge på 12 for eksempel ja yes.
+
+00:26:49
+Jeg skal sige der kommer flere spørgsmål og jeg. Jeg tror faktisk ikke at vi kan nå dem alle. Men jeg tænker longz og Jeg vil Sådan gå igennem, og så tror jeg Sådan set at vi vil prøve at lave Sådan lidt 1 1 1 svar spørgsmål sidenhen og og høre om ikke theis vil måske være venlig og dele den med jer.
+
+00:27:05
+Ja.
+
+00:27:11
+Det her, Det er jo Sådan, hvad kan man sige sidste?
+
+00:27:15
+Afdeling af af præsentation og Det er jo nu har vi opgjort CO 2. Vi har kigget ind i hvad kilderne.
+
+00:27:22
+Det her Det er jo så hvad kan man sige? En opsamling af grovkornet på? Hvad er nogle af de indsatser, som vi både har snakket med Skanderborg om og også har snakket med med med andre selskaber om i forbindelse med CO 2 projekter, Vi har med dem?
+
+00:27:34
+Og der. Vi har jo prøvet at dele det op Sådan lidt i hvem skal bruge hvad så ovre til højre det lidt konceptuelt men men Vi har ligesom hvad kan projekterne vi kan gøre? Og projektet kan jo dels vælge mellem nogle forskellige alternativer i sine projekter, og når man så har valgt sit enkelte projekt, det kunne være strømpeforing.
+
+00:27:52
+Vi havde tidligere jamen, så kan man jo gå ind og nørde sine materialevalg eller sin jordhåndtering, eller kan vi nøjes med at lægge grus frem for at retablere asfalten?
+
+00:28:02
+Og har man asfalt jamen så kan det være man kan. Man kan tilpasse slidlag og og og og andet så projektet er han får ligesom et værktøj til at vælge mellem alternativer og så optimere det. Det valgte alternativ.
+
+00:28:14
+Går vi videre til projektchefen jamen, så kan man jo begynde at arbejde med sit udbudsmateriale og måske rammerne generelt for for for kravene man har internt og processen, man arbejder med det, men også hvad kan man sige de lån med leverandøren?
+
+00:28:28
+Og Der er jo Sådan både nogle lidt blødere tilgange og nogle lidt mere. Hvad kan man sige kvantitative tilgange hvor det?
+
+00:28:38
+Hvad kan man sige? Det kan jo starte lidt mere blødt med med datadeling. Man simpelthen bare spørger leverandøren.
+
+00:28:46
+Det kunne være entreprenøren, der har gravet hvor meget benzin diesel har i brugt.
+
+00:28:52
+Alternativt kan man også blive lidt mere konkret og begynde at stille krav om, at de mindre entreprenørmaskiner. Dem må jeg meget gerne anvende dem i har som kører på el.
+
+00:29:03
+Så Der er også lidt forskellige lege og det snakker vi også med Skanderborg om at det.
+
+00:29:06
+Det der kan man jo gradbøje sine krav eller sine ambitioner. Det er også lidt afhængig af hvorimod man er selv, men også hvor moden og hvor lang hvor stor entreprenøren er.
+
+00:29:18
+Og sidst direktion bestyrelse ledelse jamen Der er jo det her med jamen, hvor meget vil vi betale, når Vi har fundet de her lavtliggende frugter? Hvad er så det marginale omkostninger? Vi er villige til at betale, og som vi med rette måske kan få takst finansielle også?
+
+00:29:34
+Og så kan man jo begynde at overveje nogle af de her grønne investeringer. Nu har vi taget en del med stemmeeksempel, men.
+
+00:29:39
+Tror jeg det vi ser nogle steder det her. Det bliver hurtigt Sådan lidt en en cirkelslutning. Altså hvor meget vil man det her?
+
+00:29:46
+Jamen, hvad koster det og det her? Det kan i hvert fald være en måde for at at få projektleder og planlægningsvå og få få nogle tal frem det her med at få prissat nogle CO 2 i de kølinger det vil sige, er det her indenfor skiven i forhold til gør man som selskab som bestyrelse vil.
+
+00:30:00
+Kan i hvert fald være med til Sådan at løsne lidt op for den der aktykeret. Ja.
+
+00:30:06
+Der var så kommet lidt andre spørgsmål. Noget af det tror jeg blandt andet sigurd spørger lidt til, om vi kan få indarbejdet genbrug genanvendelse af jord og eventuel opryddet materiale.
+
+00:30:17
+Altså vi snakkede også genbrug også af ledninger med med Skanderborg. Og hvad kan man sige? Det er jo indirekte noget ved at man ikke taster en ny ledning ind så.
+
+00:30:27
+Det med at vi ikke har en ledning med et materialevalg, som måske er PE eller beton. Eller hvad ved jeg. Hvis den er med, så har man jo udlændinge på det materiale, så når den ikke er med, så har vi jo indirekte med det Intel er genbrugt.
+
+00:30:39
+Det var i hvert fald den konklusion, vi kom frem til sammen med Skanderborg, at Vi har det egentlig håndteret i modellen ved så at sige ikke at have den med.
+
+00:30:47
+Ja.
+
+00:30:48
+Og så så jord opryd materiale man kan sige igen. Hvis det bliver bliver genbrugt, så vil man sige så vil man kun have så vil man kun have en eventuel transportomkostning der bliver lavet så kan.
+
+00:30:57
+Det være, man så transporterer man det, hvis Det er lokalt genanvendt, så transporterer man det måske 2 km i stedet for 40 km. Og Det er jo også noget der hjælper meget, fordi Vi har set at jordhåndtering fylder altså på de projekter eller jo de anlægsprojekter Vi har været med til Sådan at screen på bagkant og evaluere sammen med skanner, hvor Det er vi ser det. Jordhåndtering fylder relativt meget.
+
+00:31:15
+Og dem Vi har snakket med og gennemgået det her med de er vi enige og dem altså med de tal de selv har fået ud af det. At de johanseng fylder overraskende meget i det samlede regnskab.
+
+00:31:24
+Men også en erkendelse af, at man kan sige Vores side af samme standborg har vi jo klippet en hæl og hak en tå i forhold til at få de finere nuancer med, og Der er vi jo også meget bevidste om også i forhold til statistik. Sigurd spørg, at Det er der også noget der skal udvikles over tid i forhold til hvad er det egentlig man gerne vil vil have med?
+
+00:31:39
+Kan jeg spørge lidt til i forhold til om Vi har andre miljøpåvirkninger slugtæ med end end CO 2 CO to-tvivalenter. Det kunne vel være tænker jeg eller.
+
+00:31:49
+Hvad det altså Vi har fokuseret på CO 2.
+
+00:31:53
+Til en start igen for for at komme tilbage til det her brugervenlig og 80. 20 så nej, Det har vi ikke.
+
+00:32:00
+Det har vi valgt at prioritere her i første omgang i hvert fald.
+
+00:32:04
+Ja Det er fint.
+
+00:32:07
+Så har vi et spørgsmål, sigurd han er efter. Det er positivt sigurd. Hvordan undgår vi, at dobbeltberegnede tilfælde, hvor man ligger en ledning, hvor andre projekter har klaret op i tilfælde for eksempel ja renovation, altså dampgarningsprojekter antager jeg, hvor man kan sige spildevand, måske skal bære en halvdel eller en en 1/3 af projektet.
+
+00:32:31
+Og det her. Det er ikke at have det med så mange interessante ja og så siger jeg så supplerer jeg altså ved, at hvis i inkluderer det ved ikke at have det med. Altså hvis hvis vi ikke prissætter ind i en vurdering, og så må vi jo mangle noget i forhold til transport.
+
+00:32:45
+Verdens pointe.
+
+00:32:48
+Sigurd Det kan godt være vi lige skal tilbage til dig og lige tage den på mail efterfølgende. Du kan se Vores mailadresse. Du er meget velkommen til, og jeg foreslå dig at skrive til mig Peter, så kan vi lige lige tage den ja.
+
+00:33:01
+Mads spørger om Det er anlægsprojekter indenfor vand og og spildevand.
+
+00:33:06
+Det er den startende. Vi har også på tegnebrættet, at vi gerne vil have fjernvarme med, men her i første udkast, så er det. Så er det vand der spiller den.
+
+00:33:14
+Og Henrik spørger til slut, jeg ved ikke, om Det er slut, om Det er offentligt tilgængeligt eller Der er faktisk flere, der har spurgt til noget demo værk.
+
+00:33:22
+Og det. Det var faktisk noget af det første spørgsmål, og det tænkte, det vil vi jo meget gerne. Det ligger ikke offentligt tilgængeligt.
+
+00:33:29
+Det det det burde jeg måske ikke sige, men Jeg tror faktisk vi siger Det er gratis, men Der er lige noget noget onboarding og noget træning i det, som som vi tænker dets baseline og vi vil helst lave noget, som rent faktisk bliver brugt.
+
+00:33:41
+Så man kan sige ja Det er gratis, men der hvor vi jo så tager hospital. Det er det her for at få det introduceret og få det forandret og få det ud og blive brugt blandt projekterne. Det er det, Det er der, hvor man kan sige det ligger.
+
+00:33:55
+Vi vil meget gerne dele det, og vi vil meget gerne også ske en en demo af det, og Jeg vil næsten foreslå at man måske lige skriver i chatten, måske bare lidt ukendt. Vi kan jo få, Vi har jo kontakt info, så hvis man måske bare lige ser thumbs up eller Jeg vil gerne deltage.
+
+00:34:10
+Så kan vi jo lige hvis Det er upå med med thais og så videre, så kan vi lige få koordineret eller en lille opfølgende demo og ellers så kan de bare skrive til mig, så tager vi one.
+
+00:34:21
+On det Det er helt i orden det der det det gør i selvfølgelig bare altså du har gjort min du har gjort mit arbejde. Det Der er den nemmeste tiktok jeg nogensinde har været vært for.
+
+00:34:30
+Fordi.
+
+00:34:30
+Jeg er selv i har selv svaret på spørgsmålene løbende, så Det er jo helt. Det er jo helt perfekt, så i jeg ved næsten ikke hvad jeg skal sige nu.
+
+00:34:37
+Men Det er ondt. Det skal du møde.
+
+00:34:39
+Forstand? Det er fint.
+
+00:34:40
+Jamen, men Jeg vil opfordre til hvis hvis altså Vi har jo stadigvæk lidt tid, så hvis Der er flere spørgsmål, så så endelig så endelig. Skriv dem inde i chatten og ellers som som Peter også nævnte jamen så så kan i jo eventuelt lige markere inde i chatten eller skrive direkte til laurence og Peter, hvis i hvis i vil vide mere om om værktøjet med videre, så så så vi. Vi skal i hvert fald nok dele det.
+
+00:35:00
+Vi skal nok dele chatten med med Peter laurence hvis Det er.
+
+00:35:04
+Hvis Der er et spørgsmål. Det har simpelthen været svært for mig at finde ud af, om Vi har svaret på alle spørgsmålene, men jeg tænker igennem.
+
+00:35:10
+Altså, og Der er virkelig Der er kommet mange også Sådan lidt tekniske spørgsmål hvor jeg tænkte der skal vi lige vende skoen lidt, men hvis Vi har lidt tid så kan man sige, så kan man da i hvert fald sige at rigtig fra spørg lidt ind til hvordan Vi har koblet tilbudslister og de tidlige estimat ind i forhold til til.
+
+00:35:31
+Til det.
+
+00:35:34
+Ja, og Det var faktisk noget af det, hvor vi ikke var var vildt tæt på, fordi det overleverede vi jo til projektlederne. Der stod vi mere facelterede, hvis der var nogle afklaringer. Jamen så, så gennemgik vi det i fællesskab og og tog spørgsmål Sådan lidt som de kom, så Det var faktisk projektledende der sad i Skanderborg og med tilbudslisten en fælles tilbudsliste, et fælles projekt, og så sad de jo ude ude i et hvad hedder det udfyldt modellen ud fra tilbudslisten, og Det var jo ud fra.
+
+00:35:59
+Hvor mange ledninger midter ledningen har vi det her projekt? Hvad er dimension?
+
+00:36:02
+Hvor mange brønde har vi? Så er det jo alle de her komponenter, Der er med, og så sad de og tastede det ind valgt materiale, og der fik vi jo så noget output ud fra det, og så sad de jo allerede der også og og snakkede sammen om. Hvad kan vi gøre i det her projekt?
+
+00:36:15
+Så hvis hvis man er i fasen eller på et sted i forhold til projektet til Jylland, man har tilbudslisten, så vil den være super afsæt i forhold til at give datakundlag omkring de her cost drivers komponenter, så man kan udfylde det.
+
+00:36:27
+Og lidt tilbage til peters pointe. Det her med med implementering.
+
+00:36:30
+Altså da vi snakkede med nogle gode rigtig gode folk III norsk vand så grunden til at det værktøj ikke rigtig var kommet ud at leve blandt forsyningerne. Det var i hvert fald det indtryk vi fik. Det skyldtes simpelthen at der manglede noget noget, altså noget hjælp til at få det implementeret, så derfor gør vi gør vi noget ud af at få.
+
+00:36:47
+Hvad kan man sige? Få folk onboard i det og trænet i det, så så det forhåbentlig at komme ud og leve på en god måde og bliver brugt efter hensigten.
+
+00:36:55
+Så kan jeg sige, så er der kommet undskyld Peter nej bare bare kom hvis Det er.
+
+00:36:58
+Ja, hvis i lige kan nå en enkelt sig selv og vil sige lars han spørger lidt. Det er Sådan en af dem lars skulle sidde og mistænke at Jeg har fortrængt Det har jeg ikke. Spørger lidt til.
+
+00:37:06
+Hvad er præcision? Har vi et billede af hvor hvor præcis modellen er?
+
+00:37:12
+Hvor man kan sige det der har været Vores grundsten. Det er jo meget at spille bold med projektlederne, og Det er dem, der har viden og, og Vi har hele tiden skal vi have mere data ind og komplicere modellen i forhold til at få den sidste præcision med. Men jeg ved ikke.
+
+00:37:26
+Nogle som du kan supplere der alvorligt er i recessionen.
+
+00:37:28
+I forhold til data, så har vi jo også dem blandt 4 5 kilder og for at sikre de her emissionsfaktorer giver mening og passer i forhold til til anvendelse i forhold til beregningerne. Jamen så har vi både kigget ind i modellen fra norsk vand. Vi har kigget ind i modellen fra Vejdirektoratet.
+
+00:37:43
+Og så har vi løbende været i snak med med DTU er jo norsk vand for at for at sikre at beregningerne er så rigtig som muligt, men med det vi nu har at arbejde med.
+
+00:37:53
+Og Jeg vil sige de projekter Vi har testet af de passer nogenlunde med nogle andre erfaringstal. Vi har på, hvor meget udleder man per investeret i lever?
+
+00:38:02
+Så Jeg vil tro det her 80 20 passer passer meget godt.
+
+00:38:08
+Og det vælter ind med spørgsmål. Det er jo fantastisk, hvis vi ikke når dem alle sammen, så som sagt, så skal vi nok få fulgt op på dem, således at de alle sammen nok skal forsvare. Men Susanne hun spørger, hvordan relaterer værktøjet sig til infral CA?
+
+00:38:25
+Jamen indenfor er jeg jo Sådan helt generelt infrastruktur projekter, og der har vi jo taget nogle af de komponenter, som vi synes gav mening og være i dialog med Vejdirektoratet om også at forstå nogle af deres beregninger.
+
+00:38:37
+Indenfor altså indenfor er jo noget mere kompliceret og tager også højde for altså hvor meget forsur man jorden og alle mulige tænker. Jeg er meget ingeniørfaglig termer hvor Vi har fokuseret udelukkende på CO 2.
+
+00:38:51
+Tilbage til Vores designprincipper, så Der er nogle overlap men, men de er nok lidt små men men Vi har været meget inspireret af den, fordi vi synes Det var et godt sted at starte.
+
+00:39:01
+I samme kølvand. Eller Det er sigurd. Han spørger til, hvordan det kobler til standard for EDP 15 8 0 4 og og a 2.
+
+00:39:12
+Altså Der er jo nogle af de standarder, som Vi har indarbejdet, så Der er jo flere PD er blandt andet på strømpeforingerne. De materialer, der ligger der som som kommer ud fra de her standarder og iso certificeringer.
+
+00:39:24
+Ja.
+
+00:39:25
+Med og igen tilbage til. Og Det er ikke fordi det skal være Sådan den den evige bagdør omkring tværagulering mellem kompleksitet og tid og og anvendelse brugervenlighed men men Det har simpelthen været det traid off, hvor man kan sige her har vi noget, hvor vi kan komme i gang med Sådan en MVP tilgang til det. Det er noget der kan laves på sågar det der 20 minutter som du siger lyder også ud fra tilbudsliste eller hvor langt man nu er i sit projekt.
+
+00:39:49
+Så man ved man laver det rigtige at arbejde i den rigtige retning.
+
+00:39:52
+Og så vil der komme nogle justeringer medarbejder, og det tror jeg sigurd. Det vil også være noget af det du har skruet lidt ind til, tænker jeg. Det giver super god mening, men vi starter et sted og Jeg tror.
+
+00:40:07
+Det bedste af det gode størrelse bliver det, som vi plejer at sige. Vi vil jo super gerne i den rigtige retning, men hvis vi over shutter på præcision og kompleksitet nu, så vil vi være så bekymret for, at vi taber slutbrugeren på på gulvet.
+
+00:40:20
+Det er dem, der skal bruge det, og de skal elske det. Det er også derfor, vi vil hellere give det her gratis og så kære os lidt om introduktionen og onboarding og træning og på lavet baseline Sådan det det fordi det der Det er i virkeligheden der forandringen skal ske mobiliseringen skal ske.
+
+00:40:37
+Det er den der lusk der skal trænes igen, som man også er gode erfaringer med i Skanderborg.
+
+00:40:41
+Ja.
+
+00:40:42
+Og så er der 1 1 1 åben invitation fra Emilie fra VSP som som siger at de bruger VSP indefra LCA med succes også til at lave overslagsberegninger i tidligere projektfaser og i er velkomne til at tage fat i dem for at høre mere om deres tilgang.
+
+00:40:57
+Så Det er jo en åben invitation til til samarbejde, som jeg hører det.
+
+00:41:01
+Det er vi glade for at høre. Ja, og så kan jeg.
+
+00:41:04
+Se at du har allerede svaret Peter, men nu nævner jeg lige spørgsmålene så alle alle kan alle får svaret, kan man sige. Det er ricky der spørger tak for svar, så i ejer værktøjet laver det offentlige gratis tilgængeligt, men tak betaling for unboarding rigtig forstået og der har du Peter du har skrevet ja så.
+
+00:41:21
+Smiley ja smiley ja smiley.
+
+00:41:24
+Så så Det har jeg ikke rigtigt forstået ricki Det har.
+
+00:41:26
+Jeg rigtigt forstået. Ja Det er Sådan modellen her.
+
+00:41:29
+Ja her på falderebet er der 1 1 1 1 sidste spørgsmål.
+
+00:41:36
+Som sagt, hvis man er interesseret i lige demo, skriv så meget direkte eller eller bare lige markere i tallene. Jeg vil gerne stumshop eller et eller andet, så så find ud af det. Det vil vi gerne.
+
+00:41:48
+Og så så kom der lige et sidste spørgsmål fra mads, så den tænker jeg. Den tager vi som det sidste spørgsmål og han spørger ser i slutbrugerne som forsyningsselskabernes medarbejdere, for eksempel projektleder, er i sikker på, at Det er den rette målgruppe, eller kunne man forestille sig, at Det er rådgiverkonsulenter, der vil være de egentlige brugere?
+
+00:42:06
+Jeg tror Jeg tror i virkeligheden det kommer meget an på hvilken type selskab, fordi Det er helt vanvittigt et eller andet sted, hvor forskellige selskaber har organiseret sig meget, mange nogen selskaber store som små. De vil have nogle af noget af det her in House, og der vil der være dem der brugerne og og i andre tilfælde så vil det være. Så vil det være rådgivende der har sidder har de her opgaver, men Jeg kan være usikker på, om ikke der skal være et eller andet muskel internt i selskabet, Sådan man også kan have et bestyrelse, projektledelse, diskussion om.
+
+00:42:37
+Hvordan skal vi prioritere det her? Er det her er det her noget vi vil som selskab eller ej? Det tror jeg ikke.
+
+00:42:42
+Man kan outsource til rådgivning. Det kan godt være, at en rådgiver i 2 instans af brugeren.
+
+00:42:47
+Men.
+
+00:42:48
+Ja noget af det feedback vi fik fra Skanderborg. Det var i hvert fald der var kommet en rigtig god involvering.
+
+00:42:54
+Fik vi meldt tilbage fra deres, deres projektchef og god energi omkring det, så Jeg tror det her med nu har vi sagt det nogle gange træne muskler og få indhavsede kompetencerne omkring CO 2, altså det fra Skanderborg. Det betyder meget.
+
+00:43:06
+Og få forståelsen for det, så jo Vi har også hørt nogen snakke om at det kunne være interessant at give videre til til entreprenøren, men Jeg har ikke nogen hørt nogen sige, at de ikke også selv lige vil forstå det og lande i det først.
+
+00:43:17
+Det er ikke.
+
+00:43:19
+Jeg Jeg tror altså.
+
+00:43:21
+Værktøjet er vigtigt, detaljerne er vigtige, men Det er godt nok også vigtigt, at man har blik for træning, implementering og hele den der muskel som bloggans taler om, og den kan jo være bekymret for at falder til jorden, hvis man tænker jamen Det er noget, Vi skal købe fuldstændig ud af boksen, og vi ikke har den der gørling med. Eller hvis vi outsourcer til en rådgiver. Jeg tror ikke man bliver løbet med det dybest set.
+
+00:43:43
+Jeg synes, Der er så mange eksempler på fejltagelse IIT projekter, fordi så reducerer man indtil et IT projekt, og Det er i virkeligheden nok mere et forandringsprojekt.
+
+00:43:51
+Som sender Vores du ja.
+
+00:43:54
+Og med disse vise ord, så tror jeg så lukker vi ned for nu, så på vegne af gerning k så vil jeg sige 1000 tak til Peter laurence for en rigtig god check. Jeg tror aldrig Vi har fået så mange spørgsmål, så Jeg tror det må være techtalkord og Det er jo fantastisk. Som sagt så er tiktokken optaget og i vil kunne se den i løbet af et par dage inde på NN ks hjemmeside, så på vegne af dianal k vil jeg sige 1000 tak Peter 1000 tak laurens.
+
+00:44:17
+Tak for den.
+
+00:44:18
+Tak for god dag.
+
+00:44:20
+Og som der står derinde, hvis i har lyst til at afholde en tekt-tag, så er i altid velkommen til at skrive til mig, så finder vi en dato til det så 1000 tak.
+
+00:44:27
+Tak.
+

@@ -1,0 +1,774 @@
+00:00:10
+Goddag og velkommen til DNNK textk Vi har II dag Carsten thersing fra biofos som vil starte med at give bolden op.
+
+00:00:22
+Værsgo Carsten.
+
+00:00:24
+Jamen tak for det som sagt. Mit navn er Karsten thirsing og Jeg er ansat i biofos og hvis man ikke lige ved hvem biofos er jamen så driver biofos 3 store renseanlæg i hovedstadsområdet og Det er lynetten avedøre og damhus.
+
+00:00:41
+Som sagt er jeg ansat i biofos, og Jeg har faktisk sidder i Vores planafdeling og har i mere end en menneskealder faktisk mere end 30 år. Arbejdet med drift af renseanlæg, optimering af spildevandsbehandling på renseanlæg, implementering af digitale løsninger, arbejdet med samstyring mellem opland og renseanlæg og også avanceret processtyring på renseanlægget, hvor man optimerer driften af det ud fra onlinesensore.
+
+00:01:10
+Det er 2 særdeles interessante og særdeles vigtige emner, som Vi skal høre om i dag. Data visualisering af realtidsdata og optimering ved hjælp af valg af den korrekte optimale strategi og også digitale tvillinger. Her med med renseanlægget som eksempel.
+
+00:01:33
+Vi får jo i øjeblikket flere og flere onlinedata til rådighed, og Der er fra omgivelserne side en forventning om, at vi også leverer en til stadighed mere sikker og mere omkostningseffektiv drift af Vores samlede infrastruktur, som består af af renseanlæg og og afløbssystem.
+
+00:01:51
+Her er nøgleordene sikker og robust drift, hvor vi giver Vores ejere mest værdi for pengene.
+
+00:01:59
+Så kan vi optimere Vores drift i hjælp af digitale løsninger. Jamen så kan vi komme langt, og vi kan højst sandsynligt også gøre det for en langt billigere penge i forhold til, hvis Vi skal til at bygge ekstra bassingvolumen enten ved renseanlægget eller eller ude i oplandet.
+
+00:02:18
+Lige for jeg giver bolden videre, så vil jeg bare fortælle at biofos øjeblikket i øjeblikket deltager i et EU støttet projekt under horizon 2020 programmet ved navnet digital waters.
+
+00:02:34
+I projektet, Der er gennemføres i 5 byer, udveksles og testes nye digitale løsninger, og Det er så byerne er Berlin, Milano, Sofia, Paris og København. Og i Vores del af projektet, der deltager DUI sammen med biofos. Og så er der også nogle associerede partnere, og Det er profor nova for os og Frederiksberg Forsyning.
+
+00:03:00
+Projektet har 3 hovedformål at et få etableret et.
+
+00:03:06
+Machine learning passeret flow forecast med op til 48 timers forecast ved brug af regnmåler data.
+
+00:03:15
+Vejr og data vejrmodeldata og onlinedata både for renseanlæg og af.
+
+00:03:23
+Det flowforcard skal vi så bruge i et beslutningsstøtte system, som ved hjælp af flow-forecastet og en scenarietimulator vurderer, hvilken optimal kontrol eller styrestrategi som giver det bedste resultat.
+
+00:03:39
+Og som det sidste jamen så skal vi også lave et webbaseret platform til at visualisere systemet og data både fra os selv, men også for alle projektdeltagerne.
+
+00:03:52
+Det er et super stærkt hold, der præsenterer tektorken i dag. Vi har Trine Dennis og Steen k.
+
+00:04:01
+Og jeg går ud fra, i præsenterer jer selv.
+
+00:04:05
+Og så ville jeg ellers give ordet videre til jer.
+
+00:04:09
+Hvad med dig Sådan?
+
+00:04:10
+Så fint. Nu er det Steen Lindberg fra DUI. Jeg er en af 3 fra DRUI, der har fået lov til at være med i dag.
+
+00:04:16
+Vi er rigtig glade for at få chancen for at vise lidt om, hvad Det er vi leger eller laver arbejder med, og som Carsten lige sagde her, så så er vi i gang med et fælles projekt.
+
+00:04:30
+Som arbejder med tillidsprognoser og machine learning til primært til damhusretningsanlæg.
+
+00:04:37
+Vi har 2 ting vi gerne vil dele med jer, og Jeg har fået 2 kollegaer med dels Dennis og dels Trine Dennis. Han tager over nu her efter maya og han kan fortælle om en form for en digital tvilling Vi har på oplandet. Det er noget Der er the mulig moden noget Vi har brugt i et antal projekter, og det vil være nogle få slides og så en video der varer 10 minutter og det bliver så efterfulgt af Trine.
+
+00:05:05
+Som vil fortælle om et digitalt stykke fra grænsningsanlæggene, og så samler vi muligheden for spørgsmål i virkeligheden til begge sessioner til allersidst. Det er en masse information Vi har kogt ned på 2 x 15 17 minutter.
+
+00:05:20
+Så.
+
+00:05:22
+Det er meget kompenseret, og Der er rigelig mulighed ved andre lejligheder for at få mere information. Men jeg giver ordet over til Dennis, så værsågod Dennis.
+
+00:05:33
+Tak for det sted en og tak Carsten for den her spændende mulighed. Mit navn Det er Dennis wanninger og Jeg har siden 2015 været involveret i at udvikle future sit flow til dets værktøj. Det er i dag, og jeg kommer også fremadrettet til at drive videreudviklingen og sørge for at de ønskemål der måtte komme fra for eksempel de danske forsyninger, de blev implementeret.
+
+00:05:53
+Jeg skal måske lige nævne, at hvis jeg lyder dansk, så er det fordi Jeg er dansk, men Jeg har de sidste 20 år boet i Sverige, så hvis Der er udtryk der ikke lige rammer plet.
+
+00:06:00
+Så kan vi tage det efter præsentationen.
+
+00:06:03
+Næste slide. Tak.
+
+00:06:06
+Sådan kort fortalt, så begyndte vi jo som sagt at udvikle future sit flow i 2015, og det gjorde vi sammen med 4 forsyninger og i dag så står vi med et system der benyttes på forskellige områder hos cirka 20 forsyninger i Skandinavien, og Vi har også nogle installationer i Australien og New Zealand, og vi fokuserer på den del af det uvedkommende vand, som er relateret til det vand, som er den ene eller den 2 årsag fejlagtig findervejs ind i spildevandsledningerne eller.
+
+00:06:33
+Kloakkerne som det vist nok hedder på dansk.
+
+00:06:36
+Yes næste slide.
+
+00:06:39
+Problemerne eller udfordringer som uvedkommende vand fører med sig. Det er højst sandsynligt ikke nyt for nogen af jer kraden af problemerne. Det er jo desværre øget den infrastruktur, som blev bygget for mange år siden.
+
+00:06:50
+Den skal håndtere en vis belastning, og nu bliver den udsat for hårdere prøvelser. I og med flere mennesker flytter ind til byerne. Vi oplever mere intensiv regn og tilstandende for mange af Vores kloakker.
+
+00:06:59
+De er simpelthen for dårlige, hvad vi dog har oplevet, når vi etableret future city flow Det er, at de 2 udfordringer, som står længst til højre.
+
+00:07:06
+Som er metodik og indsigt. Det er der hvor future sett i flow har hjulpet mest mange forsyninger ved hvilke problemer som uvedkommende vand årsager og mange forsyninger ved også hvilke tiltag man kan benytte for afhjælp af situationen. Men oftest så savner man en indsigt og en metode for at kunne give en kvalificeret bedømning af hvilke tiltag som vil have den største effekt på det problem man vil løse både her og nu og også strategisk fremadrettet.
+
+00:07:29
+Ja næste slide tak.
+
+00:07:32
+Den her den er lidt mere langhåret, men jeg skal bare kort forklare i future city flow. Der taler vi om 3 forskellige flow komponenter. Vi har den direkte regnmedvirken og Det er jo den som kommer her nu.
+
+00:07:42
+I forbindelse med et regn, så har vi den indirekte og Det er den del som kommer i løbet af nogle timer eller dage efter at regn og den kommer så primært fra indsivninger, og så har vi den langvarige, som består i indsivning for for eksempel grundvandet. Systemet består af de her 3 flowkomponenter, og det gør den for at vi beregner et nøgletal, som vi kalder for medvirkende overflade.
+
+00:08:01
+Ud fra et oplandsoverfladesammensætning, så kan vi beregne konsekvenserne af både udførte, men også fremtidige tiltag uden at tage hensyn til, om man de kommende år har tørre eller regnfulde år, og lige når det gælder den medvirkende overflade, så er det den del af øvelsen for at etablere future sett i flow, når man beregner hvor mange kubikmeter uvedkommende vand per hektar som henholdsvis befæstet overflader og bløde overflader medvirker til.
+
+00:08:26
+Fjerner man for eksempel et antal fejlkoblet ejendomme i et opland eller reliner?
+
+00:08:30
+Så medvirker det det specifikke opplansoverflade mindre.
+
+00:08:35
+Med det sagt, så tror jeg, at vi kan hoppe videre og gå ind i selve systemet. Nu er det her jo en tech talk, så jeg tænker, at vi sætter en film i gang, som Vi har optaget, for Det er ikke så sjovt og demo og lave en demosystemet, hvis der ikke er regn i vejrudsigten, så jeg tænker jeg overlader og mute mig selv, og så sætter vi filmen i gang.
+
+00:08:53
+Ja og Jeg er stadigvæk med, og der skete det at min fangede et flueben i første omgang her. Da jeg prøvede prøvede igen.
+
+00:09:05
+Det er min mus er ikke verdens hurtigste, men Jeg tror at den kommer nu med lyd og det hele.
+
+00:09:13
+Det håber jeg i hvert fald.
+
+00:09:18
+Velkommen til en kort guidet tur igennem future sett flow systemet, som hvad enten dit fokusområde er ledninger eller renseanlæg skaber en indsigt i hvilke problemer du har. Hvad så medvirker mest af dine problemer og hvordan du på den mest effektive og billigste måde kan begrænse konsekvenserne af uvedkommende valg.
+
+00:09:34
+Som i kan se er der 3 ikoner eller applikationer og Det er fordi at futour set er et flow består af 3 dele. Dem består af en datadel som kigger bagud, hvor du har mulighed for at med hjælp af historiske måle det.
+
+00:09:48
+Data udfører avancerede tidsser analyser, du har adgang til.
+
+00:10:02
+Egen bank som er insart.
+
+00:10:05
+Alle registrerede regnende hændelser. Du har mulighed for at dykke ned i hver enkelt regnbegivenhed og sidst men ikke mindst så regner futil et flow de forskellige flow komponenter og medvirkende overflader ud automatisk.
+
+00:10:16
+Så har vi en realtidsdel, som giver dig en status på din infrastruktur her og nu, og den forventede belastning, når vi kigger nogle timer eller dage fremad modellen, der ligger i baggrunden, fødes med vejrudsigter hver time og med indsigtet fra et forventet flow kan future city flow foreslå den mest optimale styrestrategi. Sidst men ikke mindst har vi en planlægningsdel, hvor du som Forsyning kan sammenligne forskellige oplande, hvordan det medvirker til uvedkommende vand, og hvilke tiltag som et givet område vil give den største effekt til den laveste omkostning.
+
+00:10:48
+Til dagens korte gennemgang har vi valgt at fokusere på 2 workflows i det første workflows, så ser vi, hvordan systemet hjælper dig, når Der er regn i vejrudsigten og i det andet workflow, så ser vi, hvordan futter set i flow hjælper dig med at finde den mest effektive tiltagspakke ud fra et givet problem og et budget.
+
+00:11:04
+Lad os først hoppe ind i realshedsdelen og se på det første workshop.
+
+00:11:11
+Det første man mødes af, er et kort over den by eller det område, som systemet er implementeret for. Kortet viser i dette eksempel en oversigt over Göteborg og de omkringliggende kommuner, som sender deres spildevand til det store renseanlæg ryger.
+
+00:11:25
+Udover at se gøteborg og omkringliggende kommuner, så har vi også valgt at dele hele området op i mindre opland. Totalt er der 30 oplande, som alle indeholder information om, hvor meget uvedkommende vandt. De medvirker til og fordelingen af de forskellige flowkomponenter for hvert opland.
+
+00:11:41
+De røde streger, som vi ser her, er en skematisk oversigt over det tunnelsystem som Göteborg har.
+
+00:11:47
+Derudover ser man et antal punkter, som har forskellige farver punkterne af udvalgte som kritiske og viser, hvor på netværket, hvor man for eksempel har kritiske overløbspunkter.
+
+00:11:57
+Der kan være udvalgt nogle kritiske niveau eller flowmålere.
+
+00:12:01
+Der er en del regnmålere.
+
+00:12:03
+Og sidst, men ikke mindst har vi også det store renseanlæg ryger.
+
+00:12:08
+Farverne på de forskellige punkter indikerer, hvordan inflaturen har det, og hvad som forventes. Grundlæggende kan man sige, at grønt ligger under de grænseværdier, man har sat op for hvert punkt. Den gule farve indikerer, at der har været en hændelse på det pågældende punkt.
+
+00:12:23
+Det kan være, at der har forekommet et overløb, eller der har været et højt flow eller høje niveau, når punkterne viser rødt, indikerer det, at systemet forventer sig, at der kommer i de kommende timer eller dage. En regnhændelse, som vil medføre et overløb.
+
+00:12:37
+Høje niveauer eller øget indflow?
+
+00:12:41
+Hvis vi går over til den Venstre del af skærmen, så ser man et par kritiske nøgletal, som gøteborg har valgt at have fokus på disse nøgletal, og hvordan de vises kan anpasses til hver Forsyning.
+
+00:12:50
+Først, så ser man de forventede niveauer på de 2 forskellige.
+
+00:12:55
+Lidt kontrollår ved indløbet til rygerværket, og Det er i forhold til de vejrudsigter, som Vi har den viser min og maks og kan tidligt indikerer hvilken type af belastning som systemet skal tage højde for under den så vises de forventede indflos til renseanlægget, og igen tager tallene hensyn til de vejrudsigter Vi har.
+
+00:13:15
+Nederst så ser man den totale magasineringskapacitet som udnyttes her og nu, og hvad som kan forventes i løbet af det kommende.
+
+00:13:22
+Dag.
+
+00:13:24
+Man kan også scrolle videre ned og se korte forklaringer på de farver og punkter som Jeg har fortalt om.
+
+00:13:30
+Hvis vi går tilbage til kortet, så kan man klikke sig ind på hvert opland og se hvordan flowkomponenterne fordeler sig for lige præcis det opland. Den stiplede linje viser, hvor Vi er her og nu.
+
+00:13:40
+Det som ligger til Venstre for er det historiske flow og det som ligger til højre, er det forventede flow.
+
+00:13:46
+Den røde del, som i ser her, viser den direkte regnmedvirken. Det er altså den del af regnet, som medvirker til det uvedkommende vand her og nu.
+
+00:13:56
+Den orange viser selve spildevand.
+
+00:13:59
+Den blå del som i ser viser den medvirkende, som kommer fra grundvandet og indsivninger fra regn indsivninger fra grundvand er relativ konstant. Dog påvirkes den af, hvornår på året man kigger. Det interessante er at se den øgning, som kommer i den blå del som følge af en regnhængdelse.
+
+00:14:16
+Jo højere jordens fugtindhold er, jo mere vil den medvirke til denne type af udekommende vand.
+
+00:14:22
+Vi kan bytte og se, hvordan den samme regnhændelse ser ud i et område, som er et endnu større andel, befæstet overflade, og der vælger vi krogens parken.
+
+00:14:32
+Vi havde som sagt set regn i vejrudsigten, og i hopper derfor ind i prognose og styredelen for set på den forventede belastning.
+
+00:14:40
+Her gælder det også, at det som ligger til Venstre for den stiplede linje, er det historiske tilbageblik og det, som ligger til højre, er det, som systemet forventer sig i løbet af de kommende timer og dag.
+
+00:14:50
+Vores workflow tager udgangspunkt i at forberede og håndtere et større indkommende regn.
+
+00:14:56
+Her ser vi hvordan flowet forventes at være, hvis man ikke benytter systemets forslag på styrestrategier og nedenfor så ser vi det forventede flow.
+
+00:15:05
+Hvis man vælger at benytte system og styre strategier. Målet er udover at udjævne flowet indtil renseanlægget at sikre at renseanlægget kan håndtere belastning uden at udlede delvist renset vand.
+
+00:15:17
+Det som der sker i denne del af styrstringen, er, at systemet forventer sig et inflow, der ligger på grænsen for, hvad grænseanlægget kan håndtere uden udslip. Den grænse begynder med cirka 7 kubik per sekund. Systemet går derfor ind, og anbefaler, at man pumper mere for tømmetunnelen inden regnet kommer.
+
+00:15:32
+Det er det, vi ser at skære her.
+
+00:15:34
+Så snart man begynder at pumpe mere, så falder niveauerne i tunnelen, og systemet gør os klart for det kommende regn.
+
+00:15:40
+Som vi ser, så får vi et væsentligt lavere indflow til renseanlægget og styrer strategien. Lykkes faktisk med at fjerne en kubik per sekund og lykkes med at holde en god marginal op til udslipsgrænsen.
+
+00:15:53
+Og i den her del af future sett et flow fokuserer på her og nu, og nogle timer eller dage fremad, så tænkte jeg også, at vi skulle kigge på et andet workflow, hvor vi fokuserer på den langvarige horisont, og som giver mulighed for, at samtlige forskellige tiltagspakker og den påvirkning hver pakke vil have på den totale anskuelse af uvedkommende vand, men også for hvert område og opland, som man har et problem med.
+
+00:16:15
+Den her del af future sett et flow den byder også på et kort. Jeg har nu forflyttet os til trollhättan og trollhättan er en mindre svensk Kommune med cirka 60.000 indbyggere. De etablerede future sett i flow i 2018.
+
+00:16:27
+Bevæggrunden for trollhättan at etablere netop planlægningsdelen var, at man ville skabe et beslutningsgrundlag som både Forsyning, Kommune og tilsynsråd kunne samles omkring. For at skabe dette grundlag så etablerede trollehæfteren future CD flow planlægning og valgte at lægge samtlige tiltag, som man havde udført de sidste 10 år ind i systemet.
+
+00:16:46
+Det gjorde man for at kunne illustrere, hvor mange penge man havde nede investeret, og hvilken effekt eller afsavn og effekt som disse tiltag havde haft.
+
+00:16:54
+Når jeg brugte derefter futto sætte flow for at skabe fremtidige tiltagspakker for at have en kvalificeret vurdering af hvilke tiltag i hvilke områder og til hvilken pris som er realistiske.
+
+00:17:05
+Kortet især er delt op i de 3 kategoriske farver grøn, som betyder at området ligger under de opsatte mål ud fra det nøglesand man har valgt. De orange betyder, at området medvirker moderat, og de røde er problemområderne. Igen skelner man på, om vi taler om den direkte regnmedvirken, den indirekte eller den langvarige i denne del af future city flow, så har de forskellige flow komponenter betydelser for, hvor effektivt et tiltag er.
+
+00:17:30
+For eksempel har den største.
+
+00:17:32
+Og jeg fik på den direkte medvirkende at fjerne de ejendomme, som er tilsluttet for.
+
+00:17:38
+Kært and a re lined ledningerne a reine ledninger har derimod stor effekt på indsivninger fra det indirekte og den langvarige komponent. Systemet giver derfor et indblik i hvert opland, hvordan de forskellige flow komponenter medvirker i hvert opland og deraf også hvilke tiltag, som vil have den største effekt på det problem, man vil løse.
+
+00:17:57
+Det workflow Jeg har valgt til dagens tiktok, viser et enklere eksempel på, hvordan det skulle kunne se ud, hvis man tænker sig, at man har en Forsyning, som har fået 5 mio. Kroner til rådighed for at reducere antal ejendomme, som er fejlkoblet med 5 mio. Kroner, så vil man sikre at man benytter pengene i det eller de områder, som giver den bedste effekt.
+
+00:18:15
+Vi vælger derfor at gå fra status og indtage skabe en tilsatspakke.
+
+00:18:20
+Her ser i de tiltag som troldehstanen har valgt at inkludere i deres version. Disse tiltag kan tilpasses til hver Forsyning. Vi arbejder dog videre med eksemplet omkring ejendomme, som er fejlkoblet, hvis man ikke havde indsigtene fra feu til set i flow, så havde troldheden historisk sammenlignet 2 forskellige situationer.
+
+00:18:38
+Den første er at fjerne det antal fejlkoble ejendomme i hele kommunen for deres budget på 5 mio. Kroner. Derfor vælger her at fjerne 10% af alle fejlkoblet ejendomme i hele kommunen.
+
+00:18:48
+Jeg vælger derfor alle.
+
+00:18:51
+Derefter vælger jeg at fjerne 10%.
+
+00:18:54
+Og så gemmer jeg tilsatspakken med et relevant navn, og det bliver 10% generelt 27. Januar 2021 og så vælger eksekvere den.
+
+00:19:05
+Efter Jeg har gjort det, så går jeg til den 2 mulighed som troldehat'serne ville stå med uden fus og set i flow, og det ville være at fjerne alle fejlkoblet ejendomme fra de 3 områder som har flest fejlkoblet ejendomme. Jeg vælger derfor at skabe en ny tiltagspakke, hvor jeg vælger de 3 områder ud.
+
+00:19:21
+Jeg vælger 100% og jeg gemmer den tilsatspakke som 100% fokus 27. Januar 2021.
+
+00:19:34
+I det sidste eksempel, så går troldheden ind i future city flow og vælger de 3 områder, hvor andelen af fejlkoblet ejendom medvirker mest i forhold til området i hektar. Forskellen mellem dette nøgletal og bare at tage de områder med flest ejendomme er, at overflade sammensætningen, størrelsen på området eller relation til antal forkerte tilstykkede egen drømme. Den spiller ind.
+
+00:19:55
+Der kan være mange ejendomme på et stort areal, eller der kan være færre ejendomme på et mindre område, som deraf medvirker mere.
+
+00:20:02
+Jeg vælger derfor at skabe en tilsagspagtning for fue til CD flow anbefaler de 3 områder, som medvirker mest i forhold til mit tiltag. Jeg vælger derfor områderne stallbakke innovation centraler, står der og tingvejleder Øster. Jeg vælger at fjerne alle fejlkoble ejendomme i områderne og døberen til FCF fokus, 100% 27.
+
+00:20:22
+Januar 2021 inden jeg eksekverer den.
+
+00:20:27
+Nu er jeg så ganske enkelt skabt 3 forskellige tilsatsparker og nu vil jeg gå ind og sammenligne dem for at kunne beslutte hvilken af dem jeg skal lægge ind i mit investeringsbudget. Der gå derfor ind i min tiltalsbank og vælger de 3 pakker for at sammenligne effekt og pris.
+
+00:20:42
+Som i kan se, så har vi i det første eksempel lykkedes med at fjerne cirka 5,7 hektar medvirkende overflade. Det svarer til en reduktion på 3,4% af den del af det uvedkommende vand, som kommer fra den direkte regnkomponent. Dette til en pris er cirka 5 mio.
+
+00:20:57
+Kroner. Det andet eksempel, som vi kiggede på uden data fra 4 til CD flow, var at fjerne alle fejlkoblet ejendomme i de 3 områder med flest fejlkoblinger.
+
+00:21:06
+Det man kan se er at Jeg har en cirka 4 gange større effekt på reduktionen af det medvirkende område, hvilket svarer til en reduktion på 11,3% af den direkte regnkomponent. Men vi ligger også cirka 10 mio. Kroner over budget.
+
+00:21:20
+Den sidste pakke er den var ved at benyttet indsigten fra future CD flow og har valgt de 3 områder ud som vil have den største effekt inden for budgetrammerne. Her ser vi at for en pris der ligger inden for Vores budgetramme eller faktisk 800.000 kr. under, så opnår vi en reduktion på 16 hektar, hvilket svarer til 9,4% vedkommende vand fra den direkte regnkomponent.
+
+00:21:41
+Det er altså en 3 gange større effekt end i det første eksempel.
+
+00:21:45
+Og en marginal mindre effekt end den pakke som koster 4 gange så meget.
+
+00:21:50
+Man kan derfor konstatere, at den tiltagspakke, som er fremtaget af future CD flow, har en væsentlig højere effekt til en betydelig mindre pris.
+
+00:21:59
+Med det sagt så vil jeg gerne sige tak for jeres opmærksomhed i denne korte gennemgang af future city flow. Jeg håber, at den her appetites har skabt interesse for at vide og dialog, og vi ser frem imod at kunne fordybe os i, hvordan jeres Forsyning kan drage nytte af 4 sutte flow hvad enten Det er i driften eller i den strategiske planlægning. Tak.
+
+00:22:17
+Ja.
+
+00:22:20
+Jeg håber i ser den slide, som jeg jo i virkeligheden tager fremspringende lynhurtigt henover. Det var nemlig hvad Karsten startede med i indledningen, at vi arbejder på at forbedre indflosforcaster, og det gør vi ved at bruge et et antal nye metoder med shine learning, som vi prøver at træne, dels at bruge inputdata, så prognosedata fra DMI radar også bruge tredons prognose datafordelm i vejrmodeller.
+
+00:22:49
+Og Vi er kommet pænt langs nu Mette. Der er en slide her. Den viser Sådan lidt om målt i forhold til hvordan de her nye machine learning prognose resultater ser ud.
+
+00:23:00
+Det det henholdsvis den blå og den orange og så har det så har kryger allerede eller ikke krydser, så har biofos allerede i dag en en regnvejr styring, som også giver noget forecast som er baseret på simple og metode, og Det er den Der er plottet III sort.
+
+00:23:14
+Men, men det bliver spændende for os at se fremdriften på det her.
+
+00:23:19
+Sammen med biofos og og også at få det ind i flyet og cityflowet. Og Jeg tror egentlig at det lige bringer os straks videre til den næste.
+
+00:23:28
+Session eller det næste hovedområde nemlig.
+
+00:23:34
+Den digitale tvillingforretningsanlæg, og så kan vi tage spørgsmålene til sidst, så Trine kan du overtage skærmen?
+
+00:23:41
+Og Det er da muligt, at jeg skal prøve at melde mig ud først, men det gør jeg så nu.
+
+00:23:48
+Jeg håber i kan se min skærm nu.
+
+00:23:51
+Det kan vi i hvert.
+
+00:23:52
+Fald det lyder rigtig godt. Jeg vil gerne gå videre med at snakke om den digitale tvillinge for renseanlæg.
+
+00:24:00
+Og selvfølgelig sige mange tak for muligheden for at præsentere det her. Det jeg tager udgangspunkt. Det er i egå renseanlæg, hvor Vi har.
+
+00:24:08
+Vi er ved at udvikle med en digital selvfølgning for.
+
+00:24:13
+Ja og jeg renser den ikke. Det er så en del af Aarhus vand.
+
+00:24:18
+Og den måde, vi gør det på, Det er, at data bliver replikeret ud fra fra deres system ind i kælderen her i Aarhus i Vores dims core database.
+
+00:24:32
+Hov undskyld og derfor der bliver det så.
+
+00:24:36
+Ja der processerer vi vi data vi gap-filer og vi.
+
+00:24:42
+Vi laver timer i regeringer på data og sender det op II mindcloud.
+
+00:24:49
+Herfra er vi i stand til at Vi er i en API og laver westimuleringer på den virtuelle maskine oppe i skyen.
+
+00:25:01
+Data bliver sendt ud til til modellen, og modelresultater bliver gemt.
+
+00:25:07
+Op i skyen.
+
+00:25:10
+Og her igennem altså også i stand til at at vise både resultater og og rådata på en brugergrænseflade. Hvor?
+
+00:25:25
+Ja og hele det her system Det er skal du lade, så vi får data fra iøvrans anlæg en gang i timen.
+
+00:25:36
+Og og laver den her apparing og gat feeling af data, og så har vi en aggreering, der sørger for, at vestmodellen kører en gang i timen på de her realdata, så vi får.
+
+00:25:50
+Uploadet modeldata.
+
+00:25:53
+På time basis.
+
+00:25:57
+Og brugeren altså i stand til.
+
+00:26:00
+At bruge brugergrænsefladen til at evaluere, hvordan renseanlægget har det på nuværende tidspunkt. Vi har defineret nogle KPI er nogle kostfunktioner.
+
+00:26:13
+Og Vi har også.
+
+00:26:15
+Eller brugeren har også mulighed for at lave konsekvenseanalyser opsat scenarier for at renseanlægget og evaluere.
+
+00:26:24
+Effekten her af og der derefter lave de ønskede effekter på rens anlægget.
+
+00:26:36
+Og det Jeg vil tale om nu. Det er så selve bedstmodellen eller den digitale tvillingsmodel, og den har vi så opsat II vest og vest er i stand til at modellere de dynamiske biokemiske processer på at renseanlæg.
+
+00:26:54
+Den måde modellen er sat op på for ego er via modellering af den primære.
+
+00:27:00
+Og biologisk og sekundær behandling samt styringsregler for det fysiske renseanlæg.
+
+00:27:08
+Slambehandlingen har vi på nuværende tidspunkt ikke implementeret, men Det er noget, vi arbejder med på nuværende tidspunkt og er ved at kalibrere til målte data fra i orange anlæg.
+
+00:27:21
+Ja. Derefter vil jeg gerne gå lidt mere i detaljer med med indløbet.
+
+00:27:28
+Hvordan kan vi opnå troværdige indløbsdata, der kan benyttes af modellen og kan bruges til at foretage operationelle beslutninger om, hvordan anlægget det drives?
+
+00:27:42
+Den nuværende status for indløbet til egen Det er at, at vi ikke har målinger for alle de parametre, vi ønsker. Vi har for flow og monium.
+
+00:27:56
+Men Vi har også brug for komponenter som CODCSS og forsvar.
+
+00:28:02
+Og så må vi heller ikke glemme at at data ikke nødvendigvis er troværdige, der kan forekomme huller i data på grund af manglende forbindelse til sensorerne og sensor. De skal også tages ud til vedligeholdelse.
+
+00:28:16
+Så spørgsmålet er, hvordan vi kan løse dit de her udfordringer og opnå troværdige input til modellen?
+
+00:28:26
+Vi har arbejdet med indløbsgeneratoren II vest vest. Det har et indbygget bibliotek, der ikke kun tillader simulering af rensanlæg, men også af både oplandet og receptanten.
+
+00:28:40
+Og vi kan benytte dette værktøj til at integrere og generere indløbsdata og og kombinere de genererede data med mål data. Og her vil jeg opnå troværdig data.
+
+00:28:53
+Indløbsgeneratoren i vest giver os mulighed for at generere syntetisk data baseret på karakteristik af opblandet, såsom, hvor mange mennesker, der bor i området. Hvilken type industrier Der er til stede og hvor meget spildevand der bliver eller de producerer.
+
+00:29:12
+Herudover, så får vi også inden eller har vi behov for input fra nedbøren?
+
+00:29:19
+Og kan benytte de online sensor data, som Vi har for indløbet.
+
+00:29:25
+Og i eksemplet her hvor de?
+
+00:29:29
+Gule linjer Det er de målte data for.
+
+00:29:33
+For anlægget, så har vi.
+
+00:29:38
+De simuleret nå.
+
+00:29:42
+Det kan nå, men det jeg gerne ville have vist dig, Det var, at vi faktisk er i stand til at generere indløbsdata.
+
+00:29:53
+Meget meget godt både for for flåden, men også for de komponenter, Der er i indløbet. Og her vil jeg så vise det formonium.
+
+00:30:09
+Ja en måde vi kan bruge eller ja benytte data på.
+
+00:30:17
+Til at generere indløbsdata er, at vi kan kigge på en faktor mellem det målte og det ønskede, hvor vi kan kigge på.
+
+00:30:27
+Ammonium i forhold til COD og beregne en faktor ud for det.
+
+00:30:31
+Men.
+
+00:30:33
+Dermed får vi ikke.
+
+00:30:36
+Den den effekt fra first flush, hvor vi ser i stedet for en en.
+
+00:30:43
+Fortynding af koncentrationen så ser vi en et peak ICOD koncentrationen, hvor hvor imod, at vi ofte får ammonium for eksempel ville kunne se en en fortynding af komponenten.
+
+00:30:59
+Og den måde, vi kan bruge den her indløb generator på i vest vil være at kunne lave gapelding af data, så vi kan bruge de syntetiske data i det øjeblik, at vi ikke har målt data for for sensoren.
+
+00:31:18
+Og en 2 mulighed.
+
+00:31:22
+Hvor vi kan bruge de her data på er ved at lave forudsigelser af indløbet.
+
+00:31:29
+Vi kan generere den.
+
+00:31:32
+Ja data for tørvejrsperioden og inkludere hverdag for nedbøren at tage den sandsynlige regnvejrshaldelse med.
+
+00:31:45
+At lave et ekstremt worst case scenario, hvor vi lægger en faktor 3 oveni og ser på effekten inde på renseanlægget.
+
+00:31:57
+Og så vil jeg gerne snakke lidt mere om brugergrænsefladen.
+
+00:32:04
+Vi har de her eller Vi har lavet nogle kostfunktioner til.
+
+00:32:11
+At at vise effektiviteten af processerne hvad er udløst kvaliteten?
+
+00:32:18
+Og hvad energieffektiviteten energiforbruget i de forskellige dele af processen ved luftningen, pumpningen omrøring og eventuelt energiproduktion.
+
+00:32:29
+Være ressourceeffektiviteten hvor meget kemi du ser os på anlægget og kan dette optimeres?
+
+00:32:38
+Vi har defineret KPI er for carbonaftrykket, så Vi er i stand til at kvantificere eller estimere emissionerne af drivhusgasser fra forskellige områder i processen, elektricitet og kemedosing, så Vi har en carbonaftrykt beregner inkluderer din digitale tvilling.
+
+00:32:57
+På nuværende tidspunkt har vi denne som en emissionsfaktor, Der er baseret på et stort dansk målkampagne for en bred vifte af renseanlæg. Men Vi har også mulighed for at øge kompleksiteten i vest ved at inkludere de biologiske processer, der genererer en missionerne.
+
+00:33:22
+Det er noget, Vi har produceret for i en supermodel, Der er blevet releaset her i november.
+
+00:33:29
+Og det giver Sådan en 2 mulighed for at.
+
+00:33:34
+Modellere processerne, der fører til emissionen af drivhusgasser.
+
+00:33:40
+Og sidst men ikke ment så har vi også kosteffektiviteten, hvor vi kigger på omkostningerne forbundet med med at rende spildevandet.
+
+00:33:50
+Og helt præcis for den digitale tvilling i ego, så er vi der, hvor de har kostfunktioner, hvor Vi har udløst kvaliteten, som vi beregner som et indeks afhængigt af vægten af de enkelte komponenter, hvor vi siger en gang COD 20 gange total nitrogen.
+
+00:34:12
+Og hun har ganget fosfor komponenten og de her faktorer, de kan ændres på afhængig af forsyningsfokus.
+
+00:34:22
+Så har vi energiforbruget, som vi opgør i kilowatt time per renset per renset kubikmeter spildevand.
+
+00:34:30
+Og kemi dosseringen som vi opgør.
+
+00:34:34
+Som kubikmeter per dag forbrugt og den operationale omkostning, som danske kroner per kubikmeter rensede spildevand og karbon footprint som kilo.
+
+00:34:48
+Kuldioxid i køberlanter per renset kubikmeter rensede spildevand.
+
+00:34:55
+Den bruger grænseflade, som Vi har lavet for den digitale spilling.
+
+00:35:01
+Prøver jeg at vise her for curon status, hvor at Vi har.
+
+00:35:06
+Kostfunktionerne implementeret heroppe i den øverste del og så diagram af ransanlægget hernede og de har.
+
+00:35:18
+Ikoner de viser.
+
+00:35:20
+Hvor godt modellen passer i forhold til de målte data på på renseanlægget.
+
+00:35:25
+Så har de konsekvensanalysen, hvor at Vi er i stand til at generere nye scenarier ændre på på setpunkterne. II scenarier ændre på input til.
+
+00:35:40
+Scenarier, så vi kan lægge mine faktor til eller multiplicere med en faktor.
+
+00:35:46
+Og sammenligne med med andre scenarier eller sammenligne med kongen. Status, baseline modellen.
+
+00:35:53
+Og så kører scenariet.
+
+00:35:56
+Og så har vi også en et modul, hvor Vi har fokus på datavalideringen.
+
+00:36:03
+Af de data på renseanlægget, hvor vi bruger forskellige metoder til at at at lave en troværdighed af af sensorerne.
+
+00:36:14
+Det vi arbejder med på nuværende tidspunkt. Det er kunstig intelligens til at normaly detection. Vi har også mere simple metoder som massebalance og kalibreringsbånd og raid of change på de enkelte sensorer.
+
+00:36:33
+Og så har vi også et modul der hedder historical data, hvor vi i stedet for teamerika data kører med dagligdagerede data for at kigge på de store optimeringspotentiale for for ransanlægget.
+
+00:36:49
+Og i brugergrænsefladen. Er vi så i stand til at vælge de enkelte områder på renseanlægget, som i ser hernede?
+
+00:36:58
+Og genererer plots for disse og for hver enhed valgt, er der så mulighed for at vælge de parametre, der bliver målt og simuleret for for enheden. Det her Det er vist for for karon status, hvor man så ser.
+
+00:37:16
+Forskellen mellem de målte og det simulerede værdier.
+
+00:37:22
+Ja, og så hvis Jeg har tid til det, Det har jeg næsten ikke. Men ja, jeg ville også gerne fortælle lidt om Vores fokus, for for den næste periode af Vores RK kontrakt.
+
+00:37:36
+Og Det er kort fortalt at at vi meget gerne vil ja uddybe den her datavaldering på for sensorerne.
+
+00:37:49
+Så så vi kan.
+
+00:37:51
+Indikerer hvor hvor Der er afvigelser på på anlægget.
+
+00:37:56
+Og så vil i gerne integrere oplandet med renseanlægget.
+
+00:38:02
+Og kigge på på reviews genanvendelse af ressourcer II renseanlægget, så vi kan optimere renseanlægget i forbindelse med med det, hvor vi så genererer nogle kostfunktioner, der kan give os den information.
+
+00:38:19
+Og så har vi også realtids tuning og optimering af controllers, hvor vi også vil gøre modellen den digitale tvilling i stand til at at forudsige, hvilken sætpunkter man skal bruge for at give.
+
+00:38:37
+Indløb, hvor vi så bruger forholdsvis af indløbet til at optimere de her sætpunkter udefra.
+
+00:38:46
+Og som vil vi gerne inkludere.
+
+00:38:50
+Miljøfarlige stoffer, så vi kan se på deres vej gennem oplandet, renseanlægget og ude i receptionen, så vi også kan optimere rensellægge i forbindelse eller for at minimere effekten på recipienten.
+
+00:39:08
+Jeg tror Det er hvad Der er tid til fra min side.
+
+00:39:13
+Men vi vil selvfølgelig rigtig gerne svare på på spørgsmål.
+
+00:39:18
+Både i forbindelse med den digitale søgning af renseanlæg og på for oplandet som sten og og Dennis præsenteret.
+
+00:39:28
+1000 tak skrine.
+
+00:39:29
+Velbekomme.
+
+00:39:31
+Steen er er det dig Der er tager stafetten eller er det Carsten?
+
+00:39:40
+Altså det ved jeg ikke.
+
+00:39:43
+Det gør jeg da gerne, hvis du med stafetten tænker at organisere.
+
+00:39:49
+Et enkelt spørgsmål eller 2.
+
+00:39:51
+Jeg tænker, Vi har nu egentlig kun 2 minutter tilbage nu egentlig kun et minut, men folk er selvfølgelig velkommen til lige at at Jeg kan godt holde den åben.
+
+00:40:00
+Lidt endnu hvis Der er nogen der ikke har en bagkant og har lyst til at stille et spørgsmål og ellers er de også meget velkomne til at eftersende dem på mail. Vi kan jo tilbyde at lave en lille q and a, som vi lægger op sammen med med videoen.
+
+00:40:15
+Af dagens station ikke?
+
+00:40:17
+Meget gerne.
+
+00:40:19
+For Jeg kan jo ikke se nogen spørgsmål overhovedet.
+
+00:40:23
+Det er lige.
+
+00:40:25
+Men altså det det vi. Vi skal jo forsøge at respektere tiden, og vi bliver drillet lidt af nogle tekniske udfordringer, og så havde vi.
+
+00:40:34
+Jeg har et par Jeg har et par spørgsmål men.
+
+00:40:39
+Men Det kan jo godt være at vi skulle bare sige og tage at respektere tiden og så så kan vi jo lave netop Sådan en lille.
+
+00:40:47
+Q and a vi vi lægger som sædvanlig videoen op på på DNDKDK og sammen med med jeres præsentation, hvis vi må dele den også.
+
+00:41:00
+Og og der vil jeg selvfølgelig gerne opfordre alle dagens tiltag og deltagere. Vi er alligevel været oppe på. På over 30 kan jeg afsløre, og Det er jo Det er jo rigtig flot, når man tænker på, at Vi har folk har fået Sådan cirka en halv dags varsel den her den her gang.
+
+00:41:17
+Men men forhåbentlig så er der endnu flere der vil.
+
+00:41:19
+Der vil få glæde af.
+
+00:41:20
+Og og se det på på videoen bag bagefter og så lige en opfordring til til alle deltagere også om selvfølgelig lige at holde øje inde på DNDKDK/ tiktalks, hvor vi løbende kommer med nye emner og har et spændende emne i pipeline, som også handler om et digitalt værktøj til planlægning og klimatilpasningsløsninger, som jeg umiddelbart tænker.
+
+00:41:44
+Går meget god hånd i hanken med med med fucy city flow på bare i den i den 2 ende af af af værdistrømmen.
+
+00:41:56
+Men men tak tak herfra fra en en god præsentation, og hvis Der er andre afsluttende bemærkninger. Hvad med dig Carsten?
+
+00:42:06
+Og nej Jeg har også et par spørgsmål, men det tænker jeg det tager vi på den måde at vi vi tager Sådan en q and a efterfølgende så så Det er Det er fint nej.
+
+00:42:15
+Det har været godt, selvom vi var som sagt drillet lidt af teknikken.
+
+00:42:20
+Det lyder godt. Jamen er det så ikke bare tilbage og sige 1000 tak for i dag.
+
+00:42:25
+God dag til alle.
+
+00:42:26
+God dag.
+
+00:42:27
+Hej, hej, hej.
+

@@ -1,0 +1,693 @@
+00:00:05
+Og vegne at DR min k vil jeg byde velkommen til dan integ- i teknikken sidder Morten Hansen, og jeg kommer fra silke ville være vært på dagens tekttork. For god ordens skyld skal jeg sige, at tektorken bliver bliver optaget og i løbet af en uges tid, så vil den være at finde på danni ks hjemmeside.
+
+00:00:25
+Klip den omkring det praktiske i dag, så kan i løbe undervejs i tiktok stille spørgsmål i chatten og så vil jeg tage dem op til slut af dagens tekstår.
+
+00:00:36
+I dag skal vi have et tiktok. Jeg har set meget frem til Vi skal have en tiktok omkring de her simple målemetoder til biodiversitet i bygge og anlægsbranchen, og til Det har vi fået Christina Larsen fra WSP til at præsentere, hvor langt de er, og hvordan den kan bruges med Christina, at ordet er dit og er helt sikker på at fortælle meget mere om det.
+
+00:00:57
+Ja mange tak for det. Jeg har også glædet mig til i dag. Det bliver rigtig spændende at gennemgå det her med jer.
+
+00:01:04
+Det er jo en relativt ny lanceret metode urban bioscore hvor at scoreen er blevet lanceret her i løbet af starten af 2025.
+
+00:01:13
+Og det står på ryggen af en masse arbejde, Der er foregået i arbejdsgruppen på tværs af en masse organisationer.
+
+00:01:20
+Jeg hedder som sagt Christina Larsen, Jeg er rådgiver og biolog IWSP. Jeg arbejder med strategisk returrådgivning og biodiversitet indenfor både byggebranchen, men også i det åbne land og miljøvurderinger af stor infrastruktur projekter. Og som sagt så har vi en bred arbejdsgruppe på tværs af af rådgivere og Aarhus Universitet, som har arbejdet sammen om at at lave den her metode og udarbejde den.
+
+00:01:48
+Og.
+
+00:01:50
+Både arbejdet med unaturmetoden og bynatu-appen, som nogle af jer måske har prøvet, og så frem til, at Der er kommet nogle tal på det, som har været et arbejde. Aarhus Universitet har lagt mange kræfter i rådet for bæredygtigt. Byggeri er også med i gruppen i projektgruppen og og leder os igennem de næste faser, som forhåbentlig også bliver rigtig, rigtig spændende og og og gode.
+
+00:02:15
+Og samarbejde.
+
+00:02:19
+Hvorfor er vi så nået frem til at Det var en god ide at udvikle en metode til vurdering af biouniversitet i byer? Det er jo fordi vi ved utroligt lidt om tilstanden af Vores by natur på det Venstre kort kan i se paragraf 3 natur altså Vores beskyttede naturtyper. Det er et kort af Aarhus og der der ligger jo Sådan lidt platter hist og her, og dem ved vi noget om en del om, så har vi på kortet til højre hele universitetskortet, hvor at i også kan se de.
+
+00:02:47
+De farvede områder er meget langt uden for byen, og det giver en indikation af Det er der Vores værdifulde natur findes, og Det er rigtigt. Det er udenfor natur eller udenfor byen at at den værdifulde natur findes. Men inde i byen er der også mange ganske almindelige arter og bynatur, som vi mennesker kan drage gavn af.
+
+00:03:07
+Og synes vi i arbejdsgruppen, at det også er vigtigt, at vi skaber plads til noget variation og noget biodiversitet inde i byen, og vi indsamler noget viden om den.
+
+00:03:16
+Natur, der findes indenfor byens grænser, så når vi begynder at bygge og anlæg, at vi ikke ødelægger det mest værdifulde by natur i processen og muligvis kan gøre noget, der gavner den en smule på lang sigt.
+
+00:03:30
+Der er et behov vi ser inden for rådgiverbranchen, at Der er et behov for byggebranchen og andre brancher, som gerne vil handle i forhold til tablet af bioinversitet. De møder krav til rapportering og certificeringer for eksempel DGNB.
+
+00:03:45
+Og også til e us saxonomi og rapportering ESG rapportering.
+
+00:03:52
+Vi Der er et behov for, som han sagde indsamling og viden omkring biodiversitet i byerne og fra en benchmarking af natur og anlægsprojekter i forhold til biodiversitet.
+
+00:04:03
+Vi har eksisterende metoder novana til kortlægning af natur i hele Danmark og paragraf 3 kortlægning paragrafatsskemaer til Vores naturbeskyttede arealer.
+
+00:04:13
+Og så har vi dansk naturindikator, som også er under udvikling af innovation 2,0, men som også er et kort som ser både på processor og beskyttelse af den danske natur.
+
+00:04:25
+Så har vi også biofaktor som mange af jer muligvis kender til som mere er et værktøj til at se hvor meget blad areal der findes i grønne arealer inde i byen og regner med det på den måde. Og så er der også et scorekort, som som også findes til vilde haver som er mere på Sådan 1 1 1 simpelt niveau.
+
+00:04:45
+Men Der er ikke. Der er ikke nogen af dem her, som som måler på bynaturens bioiversitet eller indikator for bio Universitet II byerne direkte. Det er mere Sådan en proxy for det, og som i så på kortene før, så vidst der ikke særlig meget om, hvad der findes inden for prinsgrænser.
+
+00:05:02
+Og hvad er urban bios kort? Så Det er en metode til at vurdere biodiversiteten i byer og på bebygget af arealer. Det giver os en standard metode på tværs af alle brancher, så vi ikke som hver enkelt rådgiver skal udvikle Vores egen metode til at se på bynaturen.
+
+00:05:18
+Det har ellers været lidt en tendens.
+
+00:05:21
+Det de kan udføres ved et enkelt eller få et besøg af specialister med plantekendskab på på arealerne man gerne vil se på.
+
+00:05:30
+Og, Der er en måling af 95 af 55 forskellige negatorer.
+
+00:05:35
+Som så er der at der giver en score, som estimerer biodiversiteten på en skala fra 0-100, hvor 100 er den bedste og mest værdifulde natur i Danmark. Så Det er ikke Det er ikke. Det er ikke at forvente, at der vil vil være en score 100.
+
+00:05:53
+Og hvad er det så for noget? Data, der bliver indsamlet til den her model til den her skuer? Det er målt indikatorer, og nu nu er det meget lille tekst, men Det er 33 forskellige strukturer og 22 forskellige ressourcer, altså for for for dyr og dyr inden og organismer i by naturen.
+
+00:06:12
+Så måles der også på plante diversitet og hyppighed, og Det er også derfor, at man, når man skal bruge den her metode, skal have et vist planteken.
+
+00:06:21
+De indikatorer, der bliver brugt i modellen eller til at måle på Det er ressourcer.
+
+00:06:28
+For forskellige organismegrupper, som er identificeret ved workshops med deltagelse af eksperter indenfor de her organismegrupper og rådgiver og så strukturindikatorerne er hentet primært fra paragraf 3 skemaer som som mange biologer kender og bruger Sådan så Der er en vis sammenhæng mellem, hvordan vi ser på bynaturen, og hvordan vi ser på på den den store vilde natur derude eller de små klatter er beskyttet af natur. Vi har ude i Danmark.
+
+00:06:59
+Metoden består af vejledning eller flere vejledninger til dataindsamling og dataindsamling i felten kan gøres med bynurappen.
+
+00:07:08
+Og så er der de her modeller til beregning af urban 4 score.
+
+00:07:13
+Der er udgivet de vejledninger til, hvordan dataindsamlingen foregår, og Der er udviklet den her app.
+
+00:07:20
+Og, Der er udgivet de forskellige rapporter, som i kan se her til højre, der beskriver beregningen af sporen, men også hvordan man indsamler alt data, og Det kan altsammen hentes på linket, der står her, som i også eller på Institut for e designs hjemmeside. Hvis i søger på på ørben bangsgaard.
+
+00:07:40
+Der er noget baggrundsdata til at lave Sådan en score. Det er en lineær model som er baseret på data fra 789 habitater. Det er indsamlet.
+
+00:07:54
+Og af af rådgivere, der har deltaget II.
+
+00:07:58
+I arbejdsgruppen i løbet af 2024, og Der er biodiversitets indikatorerne, som er indsamlet i de her data sæt kalibreret i forhold til en ekspertvurdering af bioinvestikken. Altså hvad siger eksperterne, står på et habitat om, hvor god Vores biouniversitet er på arealet sammenlignet med de indikatorer, der bliver indsamlet i data registrering det altså på 18. Hvad kunne så vi af?
+
+00:08:25
+Og hvordan synes vi, at biodiversiteten ser ud?
+
+00:08:30
+Der er en masse bynaturdata, Der er indsamlet for tørrehapitater og ikke særlig mange, Der er indsamlet for våde habitater. De er lidt underrepræsenteret datasættet, altså sø og vandløb og.
+
+00:08:42
+Og så videre, og Det er også vigtigt, at modellen kan udvikle sig, så vi får mere data.
+
+00:08:49
+Ja Det er lidt en ekstra datanørdet hvor at vi ser hvordan at modellen forklarer cirka halv 70% af den ekspert vurderede spor, så op her er y aksen ser vi den ekspertvuderede score og her x aksen den beregnede score. Hvordan at de forskellige datapunkter fordeler sig, så Det er altså 1 1 1 lineær model der prøver at forudsige hvad vil en ekspert.
+
+00:09:15
+Sige om kvaliteten eller i forhold til.
+
+00:09:18
+Youtubersitet på det her areal er den på natur vi står og kigger på, hvis man så krydser af i de her felter og Der er har der været 33 af de 43 relevante indikatorer, som indgår i modellen fra den tørre natur.
+
+00:09:35
+Og få den våde natur som sagt, så var der lidt færre våde habitater II datapunkterne men men der forklarer modellen cirka 65% af den ekspertudderede skol.
+
+00:09:50
+Så vil jeg fortælle lidt mere om, hvordan man bruger metoden i praksis.
+
+00:09:57
+Vi kan anvende scoren som baseline, når vi.
+
+00:10:02
+Anlægger et et havitat eller et areal, hvis der skal ske byudvikling eller byfornyelse et klimatilpasning, så kan vi måle en baseline. Vi bruger den her metode, gå ud og registrere i felten. Hvad findes der af strukturer, og hvad findes der af ressourcer for for arter og indtast som grundlag for de faglige anbefalinger til hvordan at vi kan biodiversitets øjne forbedre den bynatur, der skal være der?
+
+00:10:29
+Eller undgå at ødelægge det, Der er allermest værdifuldt i den det habitat, vi står og kigger på.
+
+00:10:37
+Så kan man bruge modellen til at vurdere forskellige scenarier for hvordan at den det fremtidige udtryk skal være, så Der er man nødt til på på baggrund af sin baseline og alt det man har krydset af og sidde med faglige briller og forestille sig, hvordan vil det se ud, hvis Det var optimalt på det her areal for for biodiversiteten og vurdere forskellige scenarier skrue på de på de.
+
+00:11:02
+Redskaber, man har til rådighed i sin sin værktøjskasse.
+
+00:11:06
+Og derefter, så kan man bruge det til monittering af de indsatser, som bliver udført, altså når Vi er nået til handlingen. Så eftermåler vi nogle år efter anlæg for at se, hvordan det udvikler sig.
+
+00:11:19
+Og til Det har vi de værktøjer og bynatur-appen og felskemaerne og beregningsmodulet til urban beyesgaard 1,0 og vejledninger og rapporter som findes på siden.
+
+00:11:32
+Man bruger det Sådan lidt face updelt starter.
+
+00:11:37
+Foran computeren i sit gisprogram, hvor man afgrænser sit projektområde og sin habitater og tegner dem ind.
+
+00:11:43
+En alt sammen del af forberedelse til registrering af de her indikatorer ressourcer i felten.
+
+00:11:50
+Og på baggrund af alt det, man registrerer.
+
+00:11:53
+I sin app så indtaster man.
+
+00:11:57
+Alle sine resultater i beregningsmodulet for urban biowscore og for scorer resultat for både hapitet og lokalitet.
+
+00:12:07
+Det kan så ikke stå alene. Der er man nødt til at at lave en eller 2 form for faglig anbefaling og rapport, hvor at man også kan formidle lidt bedre, hvad det egentlig drejer sig om til ikke eksperter og det det der skal man være opmærksom på hvad formålet er. Er det til til en klimatilpasning?
+
+00:12:27
+Er det til byudviklingsprojekt? Hvad er hvad er slutbrugeren her og hvad er det for nogle informationer Der er?
+
+00:12:34
+Der skal følge med scoren for at det bliver forstået.
+
+00:12:37
+Fremtid.
+
+00:12:41
+Og der kan man så også beregne scenarier. Hvad sker der, hvis vi tilføjer lidt ekstra dødt ved hvad sker der, hvis vi stopper med at altså dødtræer, træstammer som levesteder? Hvad sker der hvis altså med scoren?
+
+00:12:53
+Hvad sker der, hvis vi lader græsset gro, hvis Vi skal tilføje flere urter efterår og så videre? Og hvad med arealet?
+
+00:13:01
+Derefter så kommer vi til udførselsfasen, hvor vi omlægger drift eller laver naturbacid løsninger og handler på på de anbefalinger, Der er blevet lavet. Og Det kan man så eftermål endnu en gang med sin sine gis og sin registrering og justere på sine angreb.
+
+00:13:21
+Når man skal registrere i sit gisprogram. Det er jo så sidder man foran sin sin skærm, og så tegner man ind her. Kan i se Der er tegnet nogle små bus eller træer.
+
+00:13:30
+Nogle forenklippet træer ind og nogle nogle hækle her foran, og det går det. Det der opretter man så efter man har tegnet en linje i case program, så opretter man sit projekt inde i bynaturappen app 2,0.
+
+00:13:46
+Og starter sin registrering og indtaster arealerne. Og hvad for en areal? Altså hvad for en?
+
+00:13:51
+Enten type man kan registrere, hvor mange af dem der har været, og Det kan man så tage med ud i felten, hvor man enten på sit feltskema eller med sin app.
+
+00:14:02
+Registrerer de forskellige ressourcer.
+
+00:14:05
+Der kan være dækningskravene i vegetationsstrukturen, hvor mange græssende urter er der og af forskellig højde? Det her vil mange af jer kunne genkende fra, eller nogle af jer måske kunne genkende fra fra. Hvis jeg kigger på paragrafatskemaer Der er habitatoplysninger, vegetationsstruktur, jord, drift og ressourcer, og så kan man også registrere de forskellige arter.
+
+00:14:25
+Lige nu indgår arterne ikke vigtigt at sige, ikke i beregningen af.
+
+00:14:30
+Skoren.
+
+00:14:31
+Af økonomier skov, og Det kan jo så bruges i.
+
+00:14:38
+Til til efterregistrering, og man kan kan pointere flere forskellige arter efterfølgende, men det indgår ikke i skoren endnu.
+
+00:14:48
+Når man så har indtastet sin data, så kan man downloade en CSV fil, som man så kan importere direkte i sin i beregningsmodulet for for bernskum. Og så får man sine resultater ud. Og her er der et eksempel på en lokalitet, som består af af nogle forskellige habitaltyper, og der kan i se også at belægning giver nul point og bygning giver nul point for det.
+
+00:15:13
+Det regner vi ind på den måde.
+
+00:15:15
+Så har de forskellige. Hvad hedder det haptater fået forskellige værdier altså urban bio scores og det regnes så sammen.
+
+00:15:25
+Til en lokalitets urban bioscore, så tager man summen af habitaternes urban bioscore summen af dem her og ganger det marialet, altså areal for habitat a Det er.
+
+00:15:38
+10, halvtres 10, 80 og så videre og dividerer den her score med samlet areal på lokaliteten, altså summen af lokaliteten og for.
+
+00:15:49
+Lokalitetens urban vejsskov.
+
+00:15:52
+Så man har både urban 4 score på habitaterne og hvilken værdi har haftaterne fået i sin øvelse bagved og og så kan man Det er noget man der ikke ligger inde i beregningsmodulet, men noget man skal gøre.
+
+00:16:05
+Selv på lokalitetens urbanblowscore, og Det er der det bliver. Det bliver ekstra værdifuldt II en før og eftermåling af af værdien for for biodiversiteten i byen.
+
+00:16:21
+Det er en meget transparent model, og det Der er vi kan få resultaterne i koefficienter, altså den matematiske model har har koefficienter til hver af de forskellige ressourcer knyttet til sig. Men Det kan misforstås og blive misbrugt. Det er ikke Sådan, at når man får sit resultat ud, at man så bare kan.
+
+00:16:44
+Lægge de tal de koefficienter sammen og så regne ud, hvad man vil få i en bioskurv.
+
+00:16:50
+Det, der kan man for eksempel se herovre ved den røde pil, der står her, er ressourcer dødt ved stående og liggende giver et minuspoint.
+
+00:16:59
+Og hvis Der er nogen der undrer sig over det, er det nok fordi at man normalt siger dødt ved både stående og liggende og ret godt som habitat, for eksempel insekter og og dyr, der der skjuler sig, så Det er lidt forvirrende, at det det giver minuspoint som kvalificent, men Det er Det er altså forklaret med den matematiske model, og hvis man har, hvis man lægger dem allesammen, så så vil man sandsynligvis få 1, 1 1 godt resultat af det alligevel, og det afhænger også af hvilken habitat.
+
+00:17:29
+Man ser og hvor godt forklaret ressourcen er, eller hvor hvor godt ressource tilstedeværelsen ressourcen forklarer en værdi for bioiversiteten, når man ser samlet på det her betal.
+
+00:17:42
+Så Det er man kan ikke bruge koefficienterne direkte, men er nødt til at bruge den beregnede urban bioescore videre II sin sit arbejde.
+
+00:17:57
+Når man så tolker på på koefficienterne.
+
+00:18:00
+Som sagt så det Det kan være forvirrende, og de kan kun sammenlignes direkte indenfor det samme habital. Altså man er nødt til at sammenligne inden for græsland vil flere blomsterressourcer indenfor græslandet øge åbenbare skrog.
+
+00:18:15
+Og det vil en variation i højde af græs og urtelag indenfor græslandet vil også øge urbanviroscore, så det vil ikke øge urbanskov nødvendigvis i indenfor en skov.
+
+00:18:30
+Reduktion i dækning af invasiv arter og eksotiske arter vil også øge urban 4 score. Det er generelt og i krat vil groende dække over 50%, så Der er en vis.
+
+00:18:45
+God faglig sund fornuft det der også gælder her når man når man sidder og tolker på det og der Der er man nødt til at sige at det Det kan vi ikke. Vi kan ikke tage koefficienterne direkte, og når vi tolker på resultatet af åbenbart skov, skal der også følge en rapport med som forklarer, hvad Det er, Vi har set ude II virkeligheden.
+
+00:19:08
+Når man så når til anbefalingerne til forbedring af biodiversitet.
+
+00:19:14
+Der har vi baseline. Nu er det for eksempel Rådhuspladsen, hvor vi ser de her formskårne træer.
+
+00:19:20
+Og og de her hække foran, og der kunne man forestille sig, at anbefalingerne så ville inkluderer mange flere villaretræer og buske, som som giver et boost til bio universitetet og der der vil det ikke give et boost til biodiversiteten indenfor for træerne at at vi blandt planter flere blomster nedenunder. Der bliver det set som græsland, så der opnår vi flere forskellige habitater, som så trækker fra arealet af belægninger.
+
+00:19:49
+Så der vil her på Rådhuspladsen vil hele det her store areal sandsynligvis give meget lav bio square. Det er jo ikke Det er jo Det er jo grus, og der kan godt være livsteder her. Men hvis det nu var asfalt for eksempel, ville det helt sikkert give nulopbygninger ikke ville give nul.
+
+00:20:04
+Men hvis vi begynder at erstatte når noget af det her areal med med nogle habitater med ressourcer og struktur og vegetationsstruktur, så får vi bagsgaard på hele.
+
+00:20:16
+Arealet.
+
+00:20:16
+Altså hele.
+
+00:20:18
+Gulvbegrundet.
+
+00:20:25
+Der er kommet noget animation på. Her er der ikke skrevet. Jeg klikker lige.
+
+00:20:33
+Kan metoden og modellen bruges til at guide biodiversitetsudviklingen i byerne.
+
+00:20:38
+Den metoden angiver hvilke indikatorer der generelt er vigtige for biodiversitet, bliver nogle med positive og nogle med negativ betydning, og Det er ikke alle indikatorerne, som har en direkte indflydelse på modellen for evi byes, hvor 1,0 det afhænger af, om modellen har vurderet at at de har haft altså de her anligatorer har haft indflydelse på, hvor godt hvor godt den kan gætte modellen kan gætte hvad en ekspert ville have vurderet.
+
+00:21:03
+Arealet til at give af værdi?
+
+00:21:06
+Og nogle af indikationerne er der en positiv effekt på scoreren, som kan udnyttes, men det bliver ikke større lignende som sagt, da det ikke vil give den optimale effekt på universitetet.
+
+00:21:18
+Herovre kan vi se vurderet effektere flere træer giver plus, og buske giver plus flere modsat giver plus lau og plus svampe og så videre. Invasiv arter og eksotiske arter giver minus, og når Vi har med bar jord og frenelag, så er variationen.
+
+00:21:34
+Så har vi turet vegetation som som giver plus og jordtykkelsen på grønne tage for eksempel for der kan være flere forskellige planter, hvis Vi har en en større ydtykkelse i grøn te og jordbundstypen handler det også om variation.
+
+00:21:48
+Og for så har vi jord og drift. Småsten er ikke nødvendigvis et et godt habit at have.
+
+00:21:56
+Så der kan i se her en en indikation på.
+
+00:21:59
+Hvad der giver bonus, men det Det er ikke Sådan, at vi kan give et tal for hvad det vil gøre for forværringskoven.
+
+00:22:11
+De potentialer Vi har lige nu har vi urban beysgaard 1,0 og der der vil jo være super godt, hvis vi får det udbredt og implementeret, så Der er flere der kan bruge det, og flere der henter vejledningerne og flere, der sætter sig ned med det og og og får skabt en en god anbefaling videre i systemet.
+
+00:22:31
+Så skal vi have udviklet det ved at indsamle endnu mere data til ømbar sport 2,0.
+
+00:22:37
+Og formålet er så, at vi kan skabe et samspil med med andre biodiversitetsmål, for eksempel dansk naturindikator 2,0, som skulle blive udviklet i 2027. Sådan så, at vi bedre kan sammenligne den store natur derude og bynaturen så bynaturen ikke ser ud til at give mere værdi, end den egentlig gør.
+
+00:22:57
+Og så er det også i Vores udviklings spor, at vi gerne vil lave en vejledning til forbedring af bioversiteten af byer og bebyggede områder altså som et direkte design design vejrværktøj.
+
+00:23:12
+Hvor at lige nu kan vi ikke bruge de her de her koefficienter til direkte at give plus at regne med plus minus Der er man nødt til at lave de her scenarieberegninger på hele på hele skemaet.
+
+00:23:27
+Så Det er Det er Vores pipeline for hvordan at det gerne skulle udvikle sig.
+
+00:23:36
+Og der vil jeg til sidst meget gerne sige. Tak for lån og slide tilbage og Christine og David, og som jeg sagde til at starte med, er jeg ikke på nogen som helst måde alene.
+
+00:23:49
+Om om det her arbejde. Der er en kæmpe gruppe af rådgivere, der har været inde over og særligt Aarhus Universitet og øco Kristina har trukket et stort læs, og vi fortsætter samarbejdet fra nu af i projektgruppen.
+
+00:24:02
+Og glæder os rigtig meget til at se om, hvordan det bliver implementeret, for eksempel DGNB det her arbejde.
+
+00:24:11
+Hvis Der er nogen der har nogle spørgsmål, så må i endelig sige til.
+
+00:24:15
+1000 tak Christina, og Det kan jeg fortælle dig der har været god spørgelønster ude og til jer der sidder der så husk i kan stadig skrive Vi har god tid. Vi har faktisk helt 20 minutter til spørgsmål, så Vi har god tid til at at gå dem igennem, så endelig bliv ved med at skriv i chatten.
+
+00:24:34
+Det første spørgsmål, der kommer her fra Nicolas, det kommer ret tidligt. Det er er modellen specifik for dansk natur, og hvilken kunne tilbyde passes til andre lande.
+
+00:24:44
+Det er et rigtigt godt spørgsmål. Den er specifik til dansk natur. Egentlig startede det som som inspiration fra den engelske.
+
+00:24:51
+Bardiverse din net game metryk som blev udviklet til England, og de er langt foran også III England. Jeg tror de startede allerede i 2017 hvor de har de har lavet det på forskellige verbalt, så har de inddelt de forskellige verden habitater for eksempel har de lavet 1 1 1 krat som kun er med havtorn og så har mål på på værdien eller givet en.
+
+00:25:13
+Tildelte din værdi. Det er ikke en model på den her måde som Vores score er er lavet så det det Det er med inspiration i udenlandske eksempler, men beregnet til dansk natur.
+
+00:25:28
+Et spørgsmål her i forhold til denne her app, hvor vi får en masse viden og data udefra.
+
+00:25:35
+Løser vi Sådan i biodiversitetskrisen på på den her måde eller med med den her tilgang?
+
+00:25:40
+Det er et rigtigt godt spørgsmål. Nej, vi løser ikke biodiversitetskrisen i byen, og Det er vigtigt at understrege, at at det det vi det vi arbejder med i byen, er de ganske almindelige arter, som vi omgiver os med til hverdag. Og når vi når vi taler om at skulle gøre en reel indsats i byggebranchen.
+
+00:25:59
+For biodiversitet så handler det om værdikæde først og fremmest.
+
+00:26:04
+Men når det så er sagt, altså Vi skal. Vi skal sørge for at vi ikke ødelægger noget natur i de materialer vi bruger II byggebranchen og Vi skal sørge for at have styr på Vores værdikæder, sørge for vi ved, hvor Vores materialer kommer fra, at vi ikke bygger ovenpå noget, som er. Hvad hedder det?
+
+00:26:23
+Er er værdifuldt, og Det er det, det synes jeg det. Det er vigtigt at understrege, men når det så er sagt, så har vi en masse natur inde i byen, som indeholder ganske almindelige arter. Vi har også noget ubeskyttet natur inde i byen som.
+
+00:26:38
+Som vi faktisk er i risiko for at miste, og Der er ganske milliarder som trives her og det biodiversitetskrisen involverer os ganske almindelige arter. Så hvis vi bygger ovenpå værdifuldt natur i byen, som ikke er beskyttet af lov.
+
+00:26:52
+Så er vi fare for at miste det og den her. Den her metode er et forsøg på også at tillægge noget værdi til det til den bynatur Vi har, som som giver noget til både mennesker, men også til de arter, der der lever inde i byerne.
+
+00:27:08
+Og Det kan hjælpe på og hjælpe med og noget viden i hvert.
+
+00:27:10
+Fald ja lige præcis og også skabe mere viden omkring hvad Vi har inde i byerne. Sådan så vi kan træffe informeret beslutninger.
+
+00:27:17
+Som som handler om bynaturen.
+
+00:27:20
+Der var et specifikt spørgsmål her fra Lars, hvis bygninger og nogle belægninger er lig med nul, er det så muligt? Er det så muligt for at hæve den score ved at ændre belægningerne for eksempel græsarmering, grønne tage og facader og så videre.
+
+00:27:33
+Ja Det er der. Der er også vertikal.
+
+00:27:37
+Levesteder og så grøn, grøn facader og grønne tage og ændrer belægningerne. Sådan så at man tænker flere forskellige levesteder ind i det. Det er på den måde man man kan øger øge sine spor.
+
+00:27:49
+Fordi Det er der Der er potentiale for liv og levesteder for for andre arter, så Det er den måde skolen er beregnet til at fungere på.
+
+00:27:58
+Det håber jeg på svar lars så kommer her fra Anton, som ikke helt forstod hvorfor døbt ved gave minusgaard om du kunne lige forklare om hvorfor den bonnede ud negative positivt.
+
+00:28:10
+Jeg kan ikke give fyldestgørende ansvar, fordi at Det er Det har noget med modellen at gøre. Hvordan at altså hvordan at?
+
+00:28:18
+Den ressource forklarer scoren som som er tilpasset modellens bedste gæt på hvad 1 1 1 ekspert vil sige.
+
+00:28:29
+Så Det er det. Det er simpelthen den. Det er min virkelig dårlige forklaring af noget meget mere kompliceret matematik, end hvad jeg som biolog med forstand på på planter og bynur kan forklare.
+
+00:28:40
+Men hvis hvis i er meget interesseret i den matematiske Formel, så kontakt be ada hun kan sende jer videre til Peter, som har helt fuldstændig styr på det der.
+
+00:28:49
+Og der bliver, så er det også vigtigt at sige, der bliver arbejdet videre med modellen løbende, fordi Det er et ret begrænset. Hvad hedder det datasæt? Vi Vi har arbejdet med, selvom at Det er 700 nogle og 80 89 habitater, Der er blevet arbejdet med modellen, så så er det stadig begrænset.
+
+00:29:08
+Så den udvikler sig heldigvis til at blive bedre og og der kan man så genkalere sine skruer.
+
+00:29:14
+Det lyder lidt over til det spørgsmål. Jeg tror der kommer fra joke, hvad tænker du om sammenligningsfaktoren og flere rådgivere endtepaneler har udviklet deres egne beregningsmodeller eller metoder.
+
+00:29:25
+Ja, og Det er jo det vi helst gerne vil væk fra, fordi at der kan man meget svært sammenligne på tværs. Vi er enige i langt de fleste tilfælde, men tilgangen til hvordan, at Vi har udviklet de her forskellige værktøjer kan være.
+
+00:29:40
+Meget svært at oversætte.
+
+00:29:42
+Så forhåbentlig kan kan den her metode være være det, vi så i fællesskab bruger? Det ved jeg i hvert fald mange af mine kollegaer fra de andre rådgiverhuse er er enige i, at nu nu nu satser vi på det her og forbedrer det her, så så vi kan sammenligne på tværs og så drejer det sig jo også om hvem hvem Der er bygherre om de gerne vil vil offentliggøre de data de indsamler til den her model.
+
+00:30:07
+Det skulle gerne være Sådan nu. Det fik jeg faktisk heller ikke sagt at at data kan blive udstillet på Danmarks miljøportal og Danmarks miljøportal er interesseret i samarbejde. Sådan så vi får det ind og udstillet på samme måde som som data fra Vores beskyttede natur.
+
+00:30:21
+Så når vi når vi går ind og planlægger et byggeri, hvis Der er blevet lavet en eller 2 undersøgelse i nærheden, at vi så kan få adgang til de data og og og bidrage til en bedre sammenhæng II naturen.
+
+00:30:38
+Der kommer lige et. Jeg tror mere lige en kommentar end et spørgsmål. Der er lige en præcisering på at Det er Christiansborg ridebanen og ikke Rådhuspladsen i København der kommer.
+
+00:30:46
+Det var ikke rådhuset. Ja, Det var. Det er rigtigt.
+
+00:30:49
+Det var ikke Rådhuspladsen.
+
+00:30:51
+Got spottet.
+
+00:30:53
+Lige i forhold til det her igen med fin og sammenligningsfaktorer og Sådan nogle ting, hvor mange brugere er der i dag? Nej ens indsamler data på byndretur appen.
+
+00:31:02
+Det står der faktisk, når man når man når man åbner by natur appens hjemmeside. Jeg kan godt lige prøve at se her.
+
+00:31:11
+Men ellers så kan vi jo alle sammen gå ind og se det, når vi logger ind, for der kommer et spørgsmål, som lige kommer lidt længere nede. Men Jeg synes er vigtigt. Der er en der spørger til om det kun er på Android eller om den også findes til iPhone, fordi han synes ikke lars at kunne finde den.
+
+00:31:26
+Det er et rigtig godt spørgsmål. Det er fordi det ikke findes inde i appstoren. Det er en en progressiv web app, så det man skal gøre er at hvis du under din browser altså på din på din computer.
+
+00:31:39
+Eller på din telefon, så kan man gemme den, og der står en vejledning derinde til hvordan man gør det, men Det er det foregår simpelthen, at man åbner den i en browser på sin telefon, og så gemmer man den som som app. Så kommer den med app ikon og det hele på ens telefon, og man kan åbne den som en en almindelig native app, men så Det er Sådan den fungerer.
+
+00:31:58
+Super, Det var jo forholdsvis vigtigt at få med. Tænker jeg ja.
+
+00:32:01
+Ja Det er det, men Jeg vil anbefale at man går ind på bynatur dot app og kigger derinde. Jeg kan se Der er 1042 brugere, 820 projekter, 2957 habitater registreret i skrivende eller i talende stund, så Det er Det er en del efterhånden.
+
+00:32:22
+Sådan må jeg håbe det bliver større efter i dag. Der kom spørgsmål her fra sten, vil det give mening at bruge metoden, hvor man eksempelvis har udsået blå blomsterblandet?
+
+00:32:33
+Ja det Det er et rigtig godt spørgsmål, når man har, når man allerede har udslået blomster blanding, så har man jo allerede været inde og lave en justering i forhold til hvad der var før. Og så er det jo så spørgsmålet hvad der var før og det Vi er interesserede i, når vi når vi måler på Sådan noget her. Det er at kunne give en baseline før man laver en en indsats for så at kunne sige hvad er der gjort af forskel, hvis der nu er udsende blomsterblanding og og Det har etableret sig og det ser fint ud.
+
+00:33:02
+Så må man jo gå ud fra at Det er ens baseline, hvis man skal gå ud fra at man skal lave flere indsatser på arealet og og det så kan man kan bruge modellen fint. Men man skal bare være opmærksom i sin beskrivelse af hvad Der er sket på habitatet, at at Det er tydeligt at der har været en udsåning af en frøplantning, og det plejer de fleste de fleste eksperter at kunne se.
+
+00:33:27
+Spørg med kommunen, hvem er det, der nævner selve vurderingen? Er der en altså indtaster rapporter biofaktorer planter dømt ved du og et cetera?
+
+00:33:39
+Det er altså dem, der går ud og laver feltarbejde. Det er Det er biologer eller landskabsarkitekter med med godt plantekendskab. Så Det er Det er eksperter som ved noget om økosystemer og og bynatur og og plantesamfund og og hvilke ressourcer der skal der skal ses på som har 1 1 1 form for kendskab til til den type af metoder.
+
+00:34:02
+Andre kan også forsøge sig med det, men det, men fordi at metoden er blevet udviklet til eksperter, så så kan det godt være en meget langsommelig proces, hvor at man kan.
+
+00:34:10
+Være lidt for meget i tvivl.
+
+00:34:15
+Vil det give mening, eller findes der noget læring, hvor man kunne uddanne nogle af dem, der går derude hver dag og kun bliver sendt derud, hvis man Sådan skulle følge den løbende tænker.
+
+00:34:24
+Jeg ja altså jeg arter kan man altid registrere. Der findes jo glimrende redskaber som arter.dk og egen naturli's som ganske almindelige borgere kan bruge fint fordi at Der er billedgenkendelsese i inde i det her, så så arter vil det altid være 1 1 1 god ide at registrere.
+
+00:34:43
+Den her metode er også udviklet til til at man går ud og besøger arealet en eller få gange og fokuserer mere på struktur og indikatorer. Altså ressourcer fra de her arter end arterne i sig selv. Men arterne er også rigtig rigtig vigtige.
+
+00:34:56
+Information sat det i særdeleshed planter, fordi de jo ikke rigtig flytter sig, så der kan man meget bedre vurdere på planterne end for eksempel hvis du ser efter sommerfugle. Der afhænger det meget af, hvordan vejret er om det regner og overskuddet blæser og deres flyvetid på året og så videre.
+
+00:35:11
+Så så det Der er ikke nogen for at svare på dit spørgsmål. Der er ikke nogen ressourcer lige nu, men der bliver talt om at lave workshops og og uddannelse til folk, der gerne vil blive bedre til det. Og spørgsmålet er, hvem der kommer til at udbyde det og hvornår det det.
+
+00:35:26
+Det sker det. Det kan jeg ikke fortælle noget om lige nu, men Det er helt sikkert på tegnebrættet også, og Det er en god ide, at vi bliver flere der kan bruge det.
+
+00:35:35
+Jeg er også igennem. Hvad er begrænsningerne for hvem man igen så data laud data, hvis den bliver samlet rigtigt?
+
+00:35:40
+Ja og Der er også ja Vi skal være nogenlunde sikre på, at når man bruger urban biusgaard, så er så er data af en vis kvalitet og vi kan regne med at dem der har indsamlet Det har vurderet det på det rigtige vidensgrundlag. Men Der er også andre Der er interesseret for eksempel skoler og institutioner, som godt kunne tænke sig at gøre det.
+
+00:36:00
+Sådan på et lidt mere mindre intensivt plan.
+
+00:36:03
+Og Der er der også talt om 1 1 1 light version som måske kunne bruges lidt mindre.
+
+00:36:10
+Intensivt.
+
+00:36:12
+Der var kommet en kommentar i forhold til bio universitetskrisen fra brix, som der findes, indrømmede eksempler på, at der kan være truet og meget sjældne angriber, som findes urbanen og ikke længere findes i den rigtige natur, så urbane menuer kan derfor være med til, at hvis i universitetskrisen.
+
+00:36:31
+Og det, Det er også korrekt der Der er også nu hvis.
+
+00:36:35
+Hvis man ser på for eksempel Sådan nogle ground feelings eller.
+
+00:36:39
+Byggetomt der der kan også være en hel masse fantastiske arter inde i byen eller i gamle parker. På træer kan der leve nogle vanvittige mosser og lauver og tilknyttede arter, så Det er ikke fordi at Jeg vil. Jeg vil afskrive bynaturen.
+
+00:36:54
+Som værende værdifuld for universitetet, og Det er den helt sikkert, men krisen lige nu, der hvor det trykker rigtig meget.
+
+00:37:02
+Det er på den natur ude II den i det åbne land også og mange steder er det langt væk fra Danmark.
+
+00:37:11
+Så skriv med ivan her hvordan er hvilken baunsgaard spor robusthed i henhold til klimaforandringer tages der højde for øget stress på habitater grundet noget af vigende vejr oftere forekommende ekstremer for eksempel henholdsvis længevarmetørke og hovedet perioder.
+
+00:37:30
+Nej ikke ikke direkte, men man vil jo kunne se resultatet af længerevarende tørke, når du går ud og monitorerer på på dit habitat, så har det jo haft en eller 2 form for effekt, og Det er ikke Sådan at vi Vi har Vi har inde som noget man kan registrere. Der er tydeligt tørke påvirkning eller eller noget andet, men men de de de resultater som det giver vil man kunne registrere, så der tages ikke direkte højde for for klimaændringer.
+
+00:37:57
+II registrering nej.
+
+00:38:00
+Så skriver Jonathan ern og faren for at man afgrænser en område på en uhensigtsmæssig måde. Altså så der opnås mest muligt grønt per areal og dermed er højre skove hvornår det giver spørgsmål.
+
+00:38:13
+Jeg tror det giver mening altså når man når man tegner hvis man har en byggegrund, men som med vilje tegner lidt ekstra ind, som man måske ikke har planlagt at bygge på, er det korrekt forstået?
+
+00:38:24
+Hvis vi tager, hvis vi tænker det?
+
+00:38:28
+Ja.
+
+00:38:28
+Ja, men men det. Det er jo så selvfølgelig noget vi som rådgivere aldrig nogensinde vil gøre. Vi får en vi, vi får en matrikel, og så så får vi tegnet det ind, som som Vi har fra Vores fra Vores kunnen.
+
+00:38:47
+Og der har man jo købt en matrikel, og der der kan være noget eller udvikle en matrikkel og der kan være noget noget noget grønt som man så bevarer. Det er jo så positivt, så det burde jo også give point, hvis man bevarer noget natur som har høj kvalitet.
+
+00:39:03
+Så jeg.
+
+00:39:05
+Håber Vi har svar. Ellers tak.
+
+00:39:07
+Kan misbruges, hvis man vil det nok.
+
+00:39:10
+Korrekt.
+
+00:39:12
+Så kom der nogle spørgsmål her igen fra Britt. Jeg tænkte også, at der findes forskning, der siger, at der kan være bioinveracitet.
+
+00:39:20
+At der kan være bibeluniversitet kan understøttes af eksotiske og kulturarter har en konsekvens rulle det ud, og i følger det hvorfor?
+
+00:39:32
+Ja det det kommer an på hvilke ressourcer man man man kigger på, så vi kan hvis vi kigger på nektar produktion nu kan det hurtigt blive meget nørdet det her, men Det er et godt spørgsmål, så vil eksotisk arter også have ressourceværdier.
+
+00:39:48
+Men hvis man sammenligner med med arter som er hjemmehørende, så har det bare færre ressourcer tilgængelige for bredest mulige arter. Så Det er ikke fordi at eksotiske arter indenfor bynaturen ingen værdi har, men alt andet lige vil. Hvad hedder det hjemmehørende arter have en større værdi, og så skal skal de også have have have mere og flere point i den her version.
+
+00:40:13
+Det tror jeg så kommer meget godt til det næste spørgsmål, der kommer fra Joachim, du sagde arter ikke tæller med i skolen endnu. Vil det sige at være antal arter eller hvilke arter tæller og hvad er planen for det? Det bliver så flere spørgsmål, og hvad er planen for det i version 2?
+
+00:40:28
+Både antallet og hvilken art og sjælden eller ej.
+
+00:40:32
+Er af stor betydning.
+
+00:40:34
+Det kommer jo an på hvordan at at scoren eller at modellen udvikler sig og om forklaringsgraden af arternes tilstedeværelse kan bruges direkte modellen. Det er ikke Sådan at at man ikke kan bruge arterne til noget ved siden af skoren. Skoren er bare baseret på proxiværdier, så hvis man måler på arter, så vil jeg personligt altid i det jeg laver forklare hvilke arter Jeg har fundet og om om Der er nogen af dem Der er sjældne og deres værdier og så videre så det det kommer ved siden af.
+
+00:41:04
+Så scoren kan ikke stå alene uden arterne og artslisten bliver kan forklares af scoren, så så så arterne indgår ikke som altså som talværdi II scoren, men den er et men. Men både antal og artsliste og variation er noget man kan arbejde med ved siden af.
+
+00:41:26
+Lige nu.
+
+00:41:27
+Og variationen med stadig noget, man kan komme ind i toen af det. Jeg hører, hvad du siger.
+
+00:41:31
+Ja måske muligvis. Der bliver i hvert fald arbejdet på at se om, hvordan Det kan lade sig gøre, om det giver mening på den her måde, eller om Det har større værdi taget ud Sådan, så arterne ikke bliver reduceret til et tal, at man kan udskifte en art med en 2 for eksempel. Det er sjældent er særlig stor gavn.
+
+00:41:52
+Nej til jer der sidder derude, så er der stadig en tid til spørgsmål eller 2 inden vi runder helt af. Men Jeg har et spørgsmål her i forhold til klimatilpasning og spildevandsområdet.
+
+00:42:05
+Nu havde du nogle vådha betaler med i det, og Der er mit spørgsmål, så lidt kan det bruges og er spillemands altså spildevandsanlæg som er mod basal af til rensning, at de med og appen eventuelt kunne bruges her til.
+
+00:42:18
+Jeg har faktisk ikke sikker på at spildevandsanlæg er med som som et våd habitat.
+
+00:42:25
+Det Det er ikke Det er ikke helt sikker på Det er og nu nu kender jeg meget lidt til spildevandsanlæg, men jeg forestiller mig også at noget noget Sådan nogle rense, altså regnvandsopsamlingsbassiner og Sådan noget Det er med, så Det er ikke Sådan direkte spildevand fra kloakker hvis det hvis Det er Sådan at forstå men men ja.
+
+00:42:45
+Altså lar anlæg og nedsivning og så videre det. Det kan man godt tage med.
+
+00:42:52
+Super.
+
+00:42:55
+Så kommer der en kommentar og et håb, som jeg lige vil tage med fra. Håber at der snart bliver konsensus om e model for målinger og registrering. Tak for jeres skulle ud og arbejde og fuld opbakning herfra, så Det kan.
+
+00:43:08
+Godt være.
+
+00:43:09
+Sådan med det.
+
+00:43:10
+Håber jeg også.
+
+00:43:12
+Men det så synes jeg at Jeg vil sige 1000. Tak for et fantastisk oplæg. Rigtig mange supergode spørgsmål og relevante og dejligt at vi komme hele vejen rundt, så vil jeg give lidt reklame for DNAK og huske jer på og kigge på klimakalenderne inde på DNSKS hjemmeside, hvor at i kan finde kommende arrangementer og har i nogle emner eller nogle ting som i selv går og arbejder med derude så endelig tag fat i.
+
+00:43:39
+Er en af DN ks netværks medarbejdere eller mig, og så vil vi vil bringe det videre.
+
+00:43:47
+Og så vil jeg bare lige.
+
+00:43:49
+Kristine til dig sige fra Lars vil bare sige du har gået gået. Det har virkelig været tiltrængt og kan helt sikkert bruges i kommunens peniallinje og så videre. Så tak for et godt overblik og det skal dog også lyde fra mig ikke 1000 tak for et rigtig godt.
+
+00:44:02
+Tak for jeres gode spørgsmål, og i er velkommen til at række ud både til mig og de andre fra projektgruppen.
+
+00:44:10
+1000 tak.
+

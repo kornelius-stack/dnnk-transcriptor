@@ -1,0 +1,783 @@
+00:00:11
+Kære alle sammen. Velkommen til DNNDNNKS tekttalk regnvand, udfordringer og muligheder bag roret. I dag har vi mig selv Christoffer sindby fra å k nygård og Morten herling fra DNAK, og Vi har glæden af at have Rasmus og Brian fra Nyrup plast, som vil snakke om regnvand, udfordringer og muligheder.
+
+00:00:33
+De vil komme ind på rensemetoder med saty pip, hvor at de kigger på.
+
+00:00:38
+3 overordnede tematikker, anvendelse, rensning.
+
+00:00:41
+Og opmagasinering så på vegne af DNAK vil jeg byde velkommen og give ordet videre til Brian og til Rasmus, så værsgo.
+
+00:00:54
+Ja mange tak tak fordi vi måtte have lov at stille op her.
+
+00:00:59
+Ved siden af mig har jeg Brian borum og jeg selv hedder Rasmus mørkbog. Jeg ejer virksomheden og Brian er Vores CSOI virksomheden og vi begge er arbejder meget målrettet med med det område her i Vores ledet forretning.
+
+00:01:14
+Jeg vil starte lige kort med til jer. Måske ikke der ved hvem Vi er.
+
+00:01:19
+Hvad hedder det og fortælle lidt kort om Vores forretning? Mange tænker jamen nyere plastik sætter jo bare rør Det har vi altid gjort ja siden 53 men siden halvfemserne har der været dømt miljø i Vores forretning, hvor i min far har været med til at få implementeret lovgivning omkring anvendelse af regnvand fra tage Vi har det hedder regnvandsanlæg og.
+
+00:01:42
+Der har været en masse ting man har udviklet og heriblandt cinify, som vi kommer til at præsentere senere, så Vi er en traditionel grossist med et stort<3 for miljø og udvikling heroppe. Det var lige kort det så Det er ikke salgsgas vi prøver at holde os til det tekniske i dag.
+
+00:01:59
+Vi slår lige et slag for genanvendelse af regnvand, og mange kender til det og har hørt om det. Hvad hedder det? Regnvand og Det er fra tagene hver gang Der er et projekt hver gang Der er en mulighed, tænker vi altid og snakke snakke om regnvandsanlæg, og det gør vi her.
+
+00:02:20
+Men vi vil gerne sende budskabet ud. Det er en rigtig sund fornuftig ide at bruge regnvand.
+
+00:02:26
+Genanvendt for tage til toiletskyl og maskinevask og des lignende, og Det har nogle fordele på CO 2 aftryk, som er så meget oppe i tiden, men især i hvert fald også på Vores grundvand, som ikke skal bruges til at skylle toiletter ud og til tøjvask og andre anvendelsesområder.
+
+00:02:45
+Ja vi kan vel også godt sige at vi når nu Vi har Sådan et forum kan man sige, men i har måske muligheden for at være med til at præge det her og være med til at stille nogle krav, så når der bliver sat regnvandsanlæg op, at det også er nogen som har en VA godkendelse, så har en vis standard og i det hele taget begynder at tænke det ind som som noget vi bare skal gøre i et land som Danmark.
+
+00:03:08
+Jeg prøver bare at lige en siden ole.
+
+00:03:11
+Vi står ikke alene på markedet, så Det er et slag for for den generelle tænketank at spare på grundvandet og anvende alternativer.
+
+00:03:21
+Med Det var lidt om anvendelsen.
+
+00:03:24
+I Vores lille hus har vi for nyligt udviklet den her HMS havey metal separator, eller hvad vi kalder det. Det er til steder i landet, hvor vi hørte om, at udfordringer på på afvasket kobber og zinktag var man. Var man lidt bange for at nedsive eller køre recipienter direkte, så man ville gerne have en form for rensning.
+
+00:03:47
+Det kan jo ske på i forbindelse med regnbeder og andre.
+
+00:03:51
+Smukke ting.
+
+00:03:52
+Men det kunne også være hvis man gerne ville have gemt det af vejen, at man kunne designe brønd. Det har vi gjort her.
+
+00:03:59
+Det er en brønd som sammen med dansans produkt ole blugard, Vi har konstrueret indeni får det til at køre og har testet sammen teknologisk Institut igennem og optager de afvasketunge tungmetaller for eventuelt kobber zink og andre tagrender og inddækninger og tage og des lignende.
+
+00:04:20
+Vi har en standardmodel og kan opsummere modellerne til til forskellige. Det er til de steder, hvor Der er et særligt fokus på naturen eller grundvandet, og der stilles de krav. Det er jo ikke altid nødvendigt.
+
+00:04:35
+Og det kommer også an på størrelsen af hvad hedder det afvaskning af jo ikke så stor, men Det er hvis Det er tilfældet, så er det her et produkt vi kan tilbyde.
+
+00:04:45
+Og dimensionere op.
+
+00:04:47
+Ja.
+
+00:04:50
+Vi hopper det videre på den. Jeg vil sige, at en af grundende til, at vi lige tager taget ind. Det er fordi når vi snakker rensning af overfladevand, så vil vi egentligt sige, at tagene er lidt en historie for sig selv, for Det er jeg faktisk forholdsvis rent vand uden segmenter og andet skidt, så Det er på en 2 måde med renser.
+
+00:05:06
+Hvert fald når vi kommer videre til Vores næste produkt.
+
+00:05:11
+Eller et muligt produkt, som man kan bruge, når man renser overfladevand, men der ryger vi ned fra taget og ned på på sejl overflader, hvor der køres og og Der er skidt.
+
+00:05:19
+Og lam, og Det er tit noget der for eksempel med Vores heavy metal separator ikke er så godt at halvere ind, for så vil anlægge logge til.
+
+00:05:28
+Og Det er derfor vi tager den ind først og siger jamen lad være, vi renser, så er det en type anlæg, og når vi kommer til vejaldende, så er det en 2 type anlæg.
+
+00:05:38
+Her er vi så heldige at kunne præsentere.
+
+00:05:42
+Et et forløb, som typisk er vejristen eller lignende. Der kører vi gennem et rensesystem, der hedder city bipe, hvor vi får vandet til at rende op ad bakke. Det er ikke herregårds vand.
+
+00:05:52
+Det er rigtigt op ad bakke gennem et et rør med nogle specielle riste i, som tager cymenterslam og andre små partikler.
+
+00:06:01
+Fra og så kører vi ind i en eventuel opstøvningsbassin opmagasinering.
+
+00:06:05
+Får til sidst så at regulere vandmængden ud i en recept med reelt vand. Grunden til at vi sætter renseanlægget før bassinet. Det er for at mindske driftomkostningerne i opmaksuleringsanlægget.
+
+00:06:18
+City pip som er rensedelen.
+
+00:06:23
+Har vi her.
+
+00:06:26
+City pip er udviklet for en.
+
+00:06:30
+Når snart en 15 20 år siden.
+
+00:06:33
+Det, der sker fysisk med city pice. Det er, at vi sender vand ind regnvand ind II den her indløbet og ud af udløbet herovre i samme kvote. Det vil sige, anlægget kan sættes II på eksisterende ledninger uden, og Vi har et stort faldtab gennem anlægget.
+
+00:06:52
+Anlægget er uden mekanik. Anlægget er uden.
+
+00:06:57
+Hvad hedder det?
+
+00:07:01
+Uden mekanik og Det er hvad hedder det lavet Sådan at Det er uden filtre. Det er naturligt tilbageholdelse. Det fungerer egentlig som et åbent bassin.
+
+00:07:10
+Bare meget bedre.
+
+00:07:12
+Hvordan er altid vandfyldt?
+
+00:07:15
+Og vandet separerer både segmenter slam, partikler helt ned i små bitte bitte størrelser, og det tilbageholder også olie i den øverste del og kan renses som en klasse. Et olieuge skiller for små olieskader på vejen af.
+
+00:07:36
+Teknikken er egentlig at at vandet bliver trykket med og trykker op igennem de her, man kan se filmen der der bladrer lidt her.
+
+00:07:43
+Og de prøvede partikler ligesom olien, der får fred og ro og går øverst op igennem den øverste rist.
+
+00:07:50
+Og hvad hedder det? Den nederste rist tager centimentet, og det render tilbage egentlig et mega effektivt Sandra med en olieugespillerfunktion.
+
+00:08:00
+Megaeffektivt sammenlignet med et rigtigt sandfart. Der er vi typisk nede i 1 mm i kornstørrelse og kan holde tilbage i traditionelt sandfang.
+
+00:08:10
+Hvor her, der kan vi gå helt ned i nul 20 i partikelstørrelse, og når vi kommer under nul 65 partikelstørrelse, så begynder vi at binde nogle tungmetaller bremsstøvspartikler og andre forurenende stoffer.
+
+00:08:26
+Også afvaskede midler, faktisk i en vis grad, som tilbageholdes holdes med tilbage på den 2 side kommer der jo ingen partikler med ud, og det vil sige Vi har et rent vand. Det kan godt have en farve ligesom kaffe er sort, men Jeg vil godt drikke dem, men Det kan godt have en farve, men Det er rent for slam og partikler og tungmetaller i det partikulære størrelser. Når vi snakker et standard anlæg.
+
+00:08:54
+Det lyder meget simpelt, og Det er det Sådan set også. Men det her med at vi får det til at gå op ad bakke i centerrør, gør, at vi får simpelthen sorteret de her 2 emner fra hinanden, og Det er det rene vand, vi trykker ud på den 2 side.
+
+00:09:09
+Det er Sådan basic funktion på et city-peger.
+
+00:09:14
+De første anlæg vi kendte til det her før 2. 1010 når vi snakkede, så var det ikke et fokus. Det er blevet meget større fokus i Danmark nu, og man er lydhør.
+
+00:09:23
+Men det første anlæg vi sælger, er til tur 2000 områder hvor?
+
+00:09:29
+Man simpelthen skulle finde noget der var meget dygtigt og grundigt og dokumenteret for for for at kunne rense. Og så har det været i driftssammenhængen's øje, hvor hvor et bassin under jordens bassin skulle man slippe for at for at drifte hårdt. Jamen, der vælger man at sætte anlæg her foran som årsag for ikke at få segmenter slap ind i bassinet, der så skal skal renses ud den 2 vej.
+
+00:09:54
+Så Det er jo gevinsten, at man så også renser på tungmetal og olie.
+
+00:09:59
+I den samme funktion her?
+
+00:10:03
+Skulle vi prøve at tage den næste?
+
+00:10:06
+Tager lige den næste her x light.
+
+00:10:11
+City bibe dimensioneres eller leveres i forskellige længder 6 m er ligesom den mindste, og så har vi et hvis areal, der der tilknyttes til og så kører vi cyzer vi op og går helt op i 24 m city pip er jo lavet pip i altså lånerør og brønned til lignende. Det samme så vi kan ligge det under hård trafikarealer for eksempel, så Vi skal ikke tænke på at finde et.
+
+00:10:37
+Et område, der ikke må trafikkeres, fordi at Vi skal have plads til Sådan et anlæg. Vi vil faktisk gå ind i.
+
+00:10:42
+Skift ud på eksisterende ledning.
+
+00:10:45
+City pip i 24 m kan tage nogle ret store mængder arealer. Jeg mener, Det er Sådan en en.
+
+00:10:56
+Med tyverne 25.000 m2 vi kan køre på og stadig lave en rigtig fin rensning, hvis man går ind og skal bruge mere areal, altså et større eller central centraliseret sted flere hektarer, så kan man gå ind og parallalisere dem, altså bygge dem op parallelt ved siden af hinanden med manifolk som mandvis her.
+
+00:11:18
+Det er en måde Vi er bygget på et projekt et andet sted i Danmark.
+
+00:11:22
+Men ipads ledning, men Det er måden man bygger op, så sætter man flere ved siden af hinanden.
+
+00:11:29
+Når Det er, så vi kan egentlig se sig op til uendelig størrelse, men igen, der kan ikke komme mere vand end end det der gør for den givne område, så Det er Det er. Det er både big size og small size, vi kører i, når Vi er divisionær.
+
+00:11:45
+Når vi snakker dimensionering i Vores hus, så læner vi os op af fabrikken, som de gør, og de læner sig op af den tyske måde. Altså DVA og m 153 er nogle lovgivninger i Tyskland, man man kører sig efter. De beskriver ud fra en masse undersøgelser.
+
+00:12:05
+Hvor hårdt områdets beskaffenhed er forurenet. Vi er ikke interesserede i hydraulisk.
+
+00:12:11
+Belastning som vi kender det, når Vi er dimensionerede olieuskeller og Sådan noget, så har vi meget Sådan en hydraulisk tilgang. Hvis der kommer 2 l/s så skal vi have en 2 l/s rensning. Her kan 2 l/s sagtens være rent, men Det kan også være møgbeskidt, så vi fokuserer på arealet.
+
+00:12:29
+Og hvor beskidt Det er og der har kan man kategorisere.
+
+00:12:32
+Ud fra den tyske vejledning.
+
+00:12:35
+Om Det er motorvejkryds med over 15.000 biler og så videre.
+
+00:12:40
+Og så har man ligesom identificeret, hvor beskidt området er, og hvor meget beskidt der kommer til. Når det regner, så går man ud II en klassificering som er d 24 vi typisk anvender, som vi skriver her, når vi dimensioner i Danmark d 25 tilsvarer lidt et rigtig godt sandfang i Danmark.
+
+00:13:01
+Og det 21 er meget hårde rensning. Der begynder vi at at rense os, fordi afvasket tungmetaller som tilbage til tagene af den slags, der også kommer med. Men typisk er det dét 24 vi bruger, hvor vi begynder, eller hvor vi holder partikler væk under 65 nul, 65 mm og ned til nul 25 typisk og de størrelse partikler.
+
+00:13:26
+Når vi når under en TSS 65.
+
+00:13:29
+Så begynder vi at binde tungmetaller binde forurenende partikler og egentlig tage dem med retur også i tilbageholdelsen i Vores filtrering. Det der egentlig sker det, er det samme som sker i et forbassin og filtreringsbassin, altså en batbassin, hvis vi kan kalde det det.
+
+00:13:52
+Det her sker bare inde i et rør. Meget mere kontrolleret.
+
+00:13:55
+Og meget mere systematisk, fordi et åbent bassin laver nye kanaler i bunden og bevæger sig lidt forskelligt og og det ene og det andet.
+
+00:14:06
+Vi vil også lige supplere med, at årsagen til at vi læner os så meget op af af de tyske standarder. Der er, at Der er i Tyskland, er udviklet en metode til dimensionering af de her rensemetoder, hvor man tager udgangspunkt i regnhændelser over en lang årrække. Mener Det er 25 år, som ligger til grund for deres.
+
+00:14:24
+Lovgivning, og det vil sige i stedet for at skulle pinpointe præcis hvor meget forurening er der i regnvand i en Kommune på det her tidspunkt, så kigger man over regnhændelser over 25 år, som giver en indikator på, hvad er det så der kommer fra de her forskellige typer af områder, og Det er det som ligger til grund for at man ret præcist kan gå ind og og dimensionere de her city pibes som.
+
+00:14:51
+Jo også nu var du lidt inde på hydraulikken, men som egentlig er lidt overdimensioneret fordi.
+
+00:14:56
+Man bliver nødt til at tage.
+
+00:14:56
+Højde for at de her.
+
+00:14:57
+Forskellige kornstørrelser af segmenter de bundfælder sig på forskellige måder, og det findes der nogle professorer i Tyskland, som gav underholde rigtig meget om, hvis man har lyst til det. Rasmus og jeg. Vi glemte lige at læse videre, så Det er det.
+
+00:15:12
+Det kan vi måske ikke rigtig stå på mål for, men men i hvert fald så ligger der så meget dokumentation fra fra de her city pibes, at Det er et godt udgangspunkt også til det danske marked.
+
+00:15:26
+Yes.
+
+00:15:30
+Blev vi gjort hoppet sliden af her eller hvad siger kontrolrunden Sådan der?
+
+00:15:38
+Det er rigtigt. Det er Brian. Han siger, vi vil ikke underholde om en større dimensioneringssammenhæng her.
+
+00:15:44
+Det vil der gerne sker, når når vi går ind i en sag sammen med hygger eller kommunen, eller på 2 måde, hvor Vi skal dokumentere, så ender vi gerne II et talerum sammen med Vores tyske ingeniør, som er rigtig gode til at.
+
+00:15:57
+Kom med eksempler, og Der er forskellige spændt på det, Der er vigtigt. Det er at man man bekender sig med areals beskidthed, og man bekender sig med, hvor rent man gerne vil have det ude i den 2 ende og drikkevand. Det er måske ikke løsningen, men men lidt lidt lidt beskidt må det gerne være, men Det er de de er tunge og de de er slemme forureningsstoffer vi gerne vil holde tilbage og hvis i ser den graf her er det Sådan en man Sådan kan pinpointe et et cirka anlægsstørrelse på, men.
+
+00:16:27
+Kvadratmeter 12.000 Det er en typisk dansk model, at vi lander på en 24 m lang city-pild til 12.000 m2 i Tyskland vil de typisk starte på de her 5 26 kvadrateter og sige, Det er godt nok, men vi møder lidt i Danmark nogle lidt strengere krav, og så ender vi tit her som et udgangspunkt. Så kan vi snakke. Hvad hedder det ipadsløsninger og first flush og andre ting, der også forskellige holdninger til det.
+
+00:16:56
+Men Det er i hvert fald Sådan et kort og godt.
+
+00:17:00
+Sådan nogle ting, at vi bruger som præværktøjer, når vi dimensionerer, og så går vi mere i dybden selvfølgelig, hvis Der er behov for det.
+
+00:17:07
+Vi har jo også nogle af de samme udfordringer som som alle mulige andre i forhold til til plads, så derfor så er det også nogle gange det muliges kunst. Hvad hvor hvor godt kan vi rense med den plads Der er til rådighed, og den dialog er jo bare vigtigt at have imellem myndigheder og forsyninger, rådgivere og.
+
+00:17:26
+Og i det her tilfælde også Sådan, så man finder frem til den bedst mulige løsning, men også den måske bedst teknisk rationelle løsning. Sådan så at det måske ikke kun er et spørgsmål om religion, men også Sådan er taget udgangspunkt i hvad er.
+
+00:17:44
+Hvad godt og hvad er rimeligt i forhold til den den ønskede rantsevne, så der der spiller vi også typisk en rolle i den sparring, og det gør Vores tyske venner fra producenten.
+
+00:17:55
+Også.
+
+00:17:58
+Vi steger med Kristoffer, inden vi startede her, og Det er en vigtig ting at sige. Det er jo at at city pege løser jo ikke alt, men kan løse rigtig meget, når Vi har noget med skidt at gøre, og city pege er et rigtig stærkt produkt, når vi centraliserer rensninger altså små arealer 200 m2 eller Sådan noget. Der er måske regnbeder nogle andre ting bedre at bygge ind her.
+
+00:18:19
+Der er vi et rigtig godt eller vi står med rigtig godt produkt, som renser mange ting også før.
+
+00:18:24
+Andre typer anlæg, som måske ikke tåler segment eller skidt, så de her tweet trains altså behandlingstog systemer. Altså man sætter noget red land eller nogle andre ting i forbindelse med Vores, men vi hjælper jo med rigtig mange af tingene, men hvori for eksempel fosfor kunne være et et stærkt problem II recipienten som så alt skal holde tilbageholdes som ikke er normalt et problem fra den mængde der kommer fra veje, men skal helt væk.
+
+00:18:51
+Så kan man begynde at lave de her tretrins med andre produkter som som tilbageholder. Det kan være for selv ole vinen også fra dansand eller brelans. Andre ting som som nu findes på markedet og vi vi går gerne ind i en en innovation tilgang innovationstilgang til til at bygge.
+
+00:19:10
+Systemer op på den måde der, men basically kan city pege løse det fornødele og det mest normale problem, som er skidt fra trafik.
+
+00:19:21
+Bremser og og andet gummi snaps fra dæk og små segmenter og sand, som vi ikke vil lukke ud i Vores risikenter.
+
+00:19:31
+Vi har tit, når vi snakker med rådgiver 1 1 1 hydraulisk tilgang, hvor vi vil bare vende den lidt kort fordi Der er lidt hydraulik man skal tænke ind og Det er hvis man skal have en klasse et eller klasse 2 oliersk eller funktion. Skal vi holde os nede i nogle visse størrelser og her illustrerer vi lige noget hybrlik af 30 l sekundet kører vi her og en 40 l sekunder i klasse 2.
+
+00:19:56
+Men detch er jo Sådan set 100 l sekunder på et anlæg.
+
+00:20:01
+Så vi snakker ikke hydrolik når vi snakker renseløsning på segmenter og tungmetaller og deslignende. Men når vi snakker oliefunktionen, hvis det skal være en vigtig del II, hvad hedder det i rense løsningen, så så er der selvfølgelig nogle hidrag til tingene vi overgår sjældent når vi dimensionerer citationsberegningen de 30 l i sekunder som klasse et udskiller.
+
+00:20:25
+Sætte et pilefamilien ses her den måske lidt svær at gennemskue, men Det er for at vise, at Der er i starten nogle små brønde som er til op til 3600 m2 1000 m2. Det er Sådan noget baggårds halløj. Det er nogle smågrøder Der er lavet i centip-familien, som er mega effektive renseløsninger i det 25 og det 24.
+
+00:20:45
+Rensegræsklassen.
+
+00:20:47
+Uden nuljustin og funktion. Men når vi kommer op i city pege 6 m og opefter til 24 eller flere anlæg ved siden af hinanden, så har vi basics levels og excel. Det er noget større brønde med noget større sandpagtskapacitet, hvis Det er meget beskidt område.
+
+00:21:05
+Og så kommer vi op i det her, der hedder substraser. Det er sjældent set i Danmark, tror jeg faktisk ikke. Det er solgt en endnu i Danmark, men der kommer en kasse i her med en et mineralprodukt, som tilbageholder afvasket metaller, altså ligesom tagmodellen.
+
+00:21:22
+Det er det helt vilde der sker her, men det der sker på en 24 meters Det er at den går ned til 3000 m2 fra.
+
+00:21:31
+Muligvis 44.000 m2 i max tradement, og Det er fordi GIBTI Tyskland er en 2 beregningsmodel end 100 og treoghalvtredseren. Og Det er jo fokus på kobberage og andet at man skal holde tilbage når afvaskemateriale, så der begynder vi altså at reducere størrelsen på anlægget i forhold til de hektar eller kvadratmeter der lykkes til.
+
+00:21:55
+Det er voldsomt effektivt.
+
+00:21:58
+Når man gør det med det her med det også en voldsom omkosteligt, men det ville det være i alle typer løsninger, hvis Vi skal overholde det som Det kan lave her, så det vi lægger i er typisk det her. Troplear systems II, almindelig l og XL modeller hvor vi holder olie og citementerne tilbage. Man.
+
+00:22:15
+Kan også sige, når man kigger på den forskning, der ligger i Danmark.
+
+00:22:20
+Regnvand og hvor forurenet regnvand er.
+
+00:22:23
+Så er der egentlig Sådan en bred enighed om at at det, Der er den største udfordring, Det er segmenterne og og og til det Der er.
+
+00:22:34
+Der er det her anlæg, det giver mening, og derfor så ender vi jo også typisk med at lave den løsning, fordi det et eller andet sted er godt nok i hvert fald i langt de fleste tilfælde. Men men muligheden er der.
+
+00:22:57
+I sommers kom der en monstermodel centimy normalt er i 600 op til 600 med den her 800 model, som går op til 48 m er helt nyt.
+
+00:23:08
+Dimensioneres lidt anderledes, men er.
+
+00:23:12
+Big size så når Vi har et stort opland.
+
+00:23:15
+Byområde 15 hektar linje, så vil vi gå ind og tilbyde det her, og Det kan vi også begynde at vinkle, fordi de er så lange langs vejforløb eller andet.
+
+00:23:23
+Så Det kan bygges ind, så har man lidt større område så det her virkeligt 1 1 1 stærkt setup og arbejde.
+
+00:23:37
+Så når man kommer med et nyt produkt og det ikke er det der der plejer og skal driftes når vi snakker Forsyning eller på 2 måde drift. Hvis Det er en privat bygherre, så så har vi tit det kritiske spørgsmål til omkring driften.
+
+00:23:52
+Hvor man siger jamen hvordan og hvorledes er det nu en en mega omkostning? Det er det ikke. Det minder meget om måden man drifter almindeligt rør og grønne på.
+
+00:24:03
+Som billedet illustrerer her, så vil jo systemet altid være fyldt med vand jo fra indløb til udløb. Det gør jo at at mange regnhelserne står jo faktisk når ikke igennem, fordi de er forholdsvis små. Og Det er jo en af de ting, Der er med anlægget.
+
+00:24:19
+Det er altid vandfyldt, så det første man gør Det er man tømrer anlægget.
+
+00:24:23
+Sin snapsulv og faktisk det opsamlede slam her det der sker. Det er jo at silemet ligger opad her og af røret og glider tilbage.
+
+00:24:33
+Og åbner den her klap, kan man sige.
+
+00:24:37
+Så man suger det tomt først, og derefter fører man så spulderen ind. Step 2.
+
+00:24:42
+Og trækker den med op af den ned den liggende rist, der ligger inde i røret, og simpelthen trækker den baglæns, hvor hvor den spuler baglæns samtidig med man suger en gang er faktisk nok, men 2 gange så er det rigtig rigtig pænt.
+
+00:24:57
+Og drifter og vedligeholdelsestiden er faktisk ikke særlig lang.
+
+00:25:03
+Vi.
+
+00:25:05
+Hvad hedder det? Plejer at sige at at det tager ikke længere tid end end hvad de antal rør normalt tager at spole.
+
+00:25:13
+Når der dimensioneres, kigges der også på, hvor ofte der skal driftes. Vi har haft et enkelt anlæg i Danmark. Vi har ingenieret, hvor vi at Vi er gået faktisk en ekstra op styks på grund af driften, ikke skulle undergå en gang om året.
+
+00:25:28
+Et år skrift hyppighed er Vores mål. Nogle gange er det faktisk 2 hyppigheden kan være, men Det er et år, og det tager vi med i Vores kalkulationer, når vi beregner.
+
+00:25:40
+Systemer.
+
+00:25:45
+Ja, men Det var jo Sådan set lidt om centy pype og og rensdelen.
+
+00:25:53
+Samme familie som laver eller fabrik som laver det her, har den her kassette som i ser oppe i højre hjørne, tror jeg Det er hos jer.
+
+00:26:02
+Er den krydsinspicerbar. Det er inden for carlsbergbyen, hvor Vi har en timelapse der. Hvor var jeg glad for at vi fik lavet, så vi vi viser lige filmen, men der bliver bygget et 2000 m2 stort.
+
+00:26:12
+Rigofilbassin underjordisk bassin som tilbageholder regnvand med skybrud. Vi har en stor otteudledning derinde, der bliver.
+
+00:26:22
+Med afvandlet men det her 2000 m2 bassin.
+
+00:26:28
+Tager vi skybrud og andet tilbageholder regnvandet, fordi Vi har en et mere end en 14 l begrænsning, men i ser nu her meget nemt, hvordan Vores kassettebas bassiner bliver bygget op.
+
+00:26:38
+Og inde i hver lille blok her man samler Der er det jo krydsinspiceres kan det køres med kameraer og spooking.
+
+00:26:46
+Nede for enden af den her film i bunden, når de er ved at have bygget bassinet lige om lidt, så bliver der meget hurtigt installeret et 24 meters centipanlæg som.
+
+00:26:58
+Dengang blev sat for at mindske. Hvad hedder det skidt slippet på til til bassinet?
+
+00:27:07
+Og ja, Jeg har ikke lige talt dagene, men der var også et par reimarsdag og noget weekend i mellem men.
+
+00:27:14
+Det er meget nemt at bygge. Det er en alternativ måde. Det er noget mindre jord man skal af med i forhold til rørbassiner, wordpassiner roder vi også med, men men vi vi snakker altid godt for et det her blokbassin, for Det er billigst installationsmæssigt både i produktpris og.
+
+00:27:33
+På 2 vis i kan se gravemaskinen her kører ovenpå de er til 60 tons belastning så.
+
+00:27:38
+De afviger ikke for for en enkel belastning fra det og.
+
+00:27:46
+Ja som sagt arbejdsmiljømæssigt de deles i 2 og samles til en hel og sættes og.
+
+00:27:54
+Er forholdsvis let og drift.
+
+00:27:58
+Og i forhold til hvad vi ellers ser på markedet. Nu er det et manifolk, de er ved at bygge for at fordele vand ind, når der kommer et kæmpe skybrud.
+
+00:28:06
+På sengen her har faktisk et overløb til en lille basket fodboldbane, som er overfladisk som Sådan ekstra ekstra ekstra sikkerhed centy pytten de er ved at dække til nu. Det gik meget stærkt.
+
+00:28:19
+Men ja Det er Det er Sådan et et typisk projekt på timelaps nej, Det er ikke typisk. Det er ret stort, men Det er jo for at vise et eksempel her indenfor en kendt bydel.
+
+00:28:32
+Vi skulle tage den næste.
+
+00:28:36
+Den fil er.
+
+00:28:38
+Et blogsystem som tager 60 tons, og Det er faktisk godkendt at nu nye EUEU norm som har lavet i henhold til til blokke.
+
+00:28:47
+Og hvad hedder det modellerbart og i kan se infektionsskakken er her.
+
+00:28:53
+Bygget ind og man kan bygge tilslutninger Sådan her. Der er alle vejen, så Det er en dejlig måde at bygge et ret stort underjordsre.
+
+00:29:02
+Vi har jo meget skyforsikring her på kanalen og i gruppen, og når vi snakker underjordisk, så taler vi varmt for at gøre det på den her måde under jorden. Mange ting kan jo logisk også lade sig gøre ovenpå på på jordens overflade.
+
+00:29:19
+Når vi bygger under jordens bassiner, så prøver vi altid at snakke gen renseløsning ind før som city pype, og Det er for at reducere driftsomkostningerne så ikke der skal skjules. Vores traditionelt ansvar er ikke særlig effektiv og.
+
+00:29:35
+Når vi snakker klam og mindre partikler, så det her med fordel at sætte Sådan noget foran.
+
+00:29:40
+Vi kan jo sige de er fås jo faktisk også prægrappet nu op til en.
+
+00:29:45
+En vis størrelse. Jeg mener Det er 60 kubik, men det giver jo altså muligheden for at lave nogle rigtig gode løsninger på meget lidt plads, så Det er også noget vi kan skræddersy til den enkelte til det enkelte projekt.
+
+00:29:59
+Ja hvis du ikke får at reklamere får begge viller byggergruppen. Men de Det er dem Vi har et samarbejde med eller de gør det for os. De pakker også andre ting ind, men Det er Det er.
+
+00:30:10
+Det er på en måde også at dokumentere trykteste.
+
+00:30:13
+Eller tæthedste bassineren, som man har et førkubik bassin, der kommer færdiglavet og bliver sænket ned med en test på, og Det er tæt. Det udfører de unge mennesker derovre, så Det er. Det er helt sikkert en.
+
+00:30:27
+Det kan vi se i det fremtidige også der bevæger.
+
+00:30:30
+Sig Rasmus og Brian lige et par minutter igen.
+
+00:30:33
+Ja tak.
+
+00:30:35
+Jeg tror også Vi er, Vi er ved at være der.
+
+00:30:38
+Vi nåede jo til tak for opmærksomheden, så.
+
+00:30:41
+Så skulle vi ikke give lige et par minutter til eventuelle spørgsmål.
+
+00:30:47
+Oven i oven i den afdeling, kan man sige.
+
+00:30:50
+Den afslutningsvis skal vi jo måske lige sige, at Det er. Det kunne jo sagtens være, at der dukkede nogle spørgsmål op, når i kommer tilbage til projekterne, og i er altid meget velkomne til at ringe eller skrive og Rasmus og jeg vi. Vi tager også gerne ud og møder jer og tager udgangspunkt i de konkrete projekter, som i sidder med.
+
+00:31:12
+Og i den sammenhæng, så så koster Vores assistance ikke noget. Vi vi. Vi laver gerne et løsningsoplæg, så så tag fat i os, hvis i sidder med et eller andet, hvor i er nysgerrige på hvad city park kan eller risikofil.
+
+00:31:27
+Helt fantastisk 1000 tak for jeres oplæg. Jeg vil sige til alle jer deltagere derude. Mange af jer har allerede skrevet.
+
+00:31:33
+Hvis i har spørgsmål, så endelig skriv mit chatten og så så vil vi jo stille og roligt gå dem igennem nu her. Rasmus og Brian Jeg kan fortælle jer Der er kommet en del omkring.
+
+00:31:45
+Som rensning og batch, men det tænker jeg ikke i.
+
+00:31:50
+Overrasket over først, så er der kommet et spørgsmål i forhold til regnvandsgenanvendelse. Den den gamle hvor meget hvad med CO 2 aftrykket for de ekstra installationer? Det kræver at bruge regnvand i toiletter og lignende, og det spørgsmål er kommet for Dorte.
+
+00:32:07
+Jamen, Vi har fra Vores tyske samarbejdspartnere. Hvad hedder det vise i nogle tal som indikerer det her 40% og Det er taget. Jeg har ikke hele grundlaget for for altså studerende det som Sådan, men men Det er en.
+
+00:32:22
+Det er selvfølgelig til at finde frem, men jeg mener de har taget højde for det, men det sammenlignes jo med traditionelt vandværk, der har pumpesystemer og rørsystemer og bruger en masse energi på at få grundvandet op og ud til os.
+
+00:32:34
+Kontra at lave et et lille vandværk hjemme og sætte en tank og tag vandet fra taget, som faktisk dramatisk kommer ned den vej ned der der siges det eller har den. Men den her undersøgelse fundet ud af Det er 40 procents besparelse på CO to- per kubik.
+
+00:32:53
+Ja tak Jeg kan se. Jeg tror Det er den samme Dorthe der også er kommet et spørgsmål i forhold til centy pypen og rensning. Hvordan kan man se bort fra hydraulisk belastning?
+
+00:33:04
+Jo større hastighed vil vil reducere muligheden formentering.
+
+00:33:09
+Korrekt.
+
+00:33:10
+Korrekt og og.
+
+00:33:14
+Ja det tager vi også med i betragtning, men men vi ved bare, at vi ved bare man. Vi ved at.
+
+00:33:22
+Hydraulikken er ikke et problem.
+
+00:33:25
+Når vi dimensionerer ud fra arealet, beskaffenhed eller beskidthed, hvis man kan sige det Sådan. Det er nok ikke i dansk ord, men men når når man har regnet den ud, så er hydroikken ikke et problem den 2 vej.
+
+00:33:37
+Ej det vil typisk. Det vil typisk være Sådan, så at de beregninger vi laver de viser også det maksimale hydrauliske flow i city pype, men det vil typisk være.
+
+00:33:47
+Langt over det det aktuelle det hydrauliske flow fordi Der er den her overdimensionæring for at ja for at de her forskellige kornstørrelser kan falde til ro i systemet, så så så derfor er hydroikken ikke et udgangspunkt, men Det er selvfølgelig belyst i dimensioneringen, som man har mulighed for at se. OK, hvad er mulighederne?
+
+00:34:10
+Og selvfølgelig også for at vurdere.
+
+00:34:13
+Behovet for en bipass eller eller andet så så Det er. Det er et godt spørgsmål Dorthe.
+
+00:34:19
+Super så har jeg fra Henrik ansat i Forsyning. Hvad siger kommuner, myndigheder til certific? Vi har brug for dokumentation i Vores kommuner forlanger man, at der skal anvendes batteknologier på regnvejrsløsninger og håndtering.
+
+00:34:35
+Vores eneste værktøj og løsning er derfor regnvandsbassiner. Set immittering.
+
+00:34:41
+Vi har Vi har i et par år haft eller et par år, men sidste år og lidt til haft et godt samarbejde med teknologisk Institut, Katrine og Ulrik og og teamet derinde, som har faktisk lavet en et batmotat på centiby, som sammenligner og laver vurderinger ud fra effekt i forhold til traditionel åben batbassin med forbassin efterbassin.
+
+00:35:06
+Så der ligger noget dokumentation og.
+
+00:35:10
+Så vi ser det, så er det faktisk en bedre performance og noget bedre end en traditionel åbne bassiner, men det ligger på teknologisk hjemmeside, og Vores hjemmeside har også det her dokument, og Vi har også nogle links til NNK og nogle andre steder.
+
+00:35:27
+Hvor Der er mere om det, så det det batter.
+
+00:35:30
+Det.
+
+00:35:32
+Der, der ligger selvfølgelig også efterhånden en del udledningstilladelser, som er givet på baggrund af af dokumentation både før det her bat notat og og efter, så så hvis man er nysgerrig på på det, så kan vi også være leveringsdygtige på nogle af de ting. Hvis man gerne vil se jamen hvad. Hvad har man egentlig taget udgangspunkt i, når man har givet de her tilladelse?
+
+00:35:57
+Super der kommer en til lidt i samme stil her fra Kasper Mølgaard og den er ved Jeg er delt i 2 en af udfordringerne på forsyningerne er at overbevise myndighederne, altså kommunen om at anvende zyp og deres renseeffekt versus våde regnvandsbassiner og de tyske standarder ikke nemme at overbevise på kommunen om, at vi også skal anvende, og så kommer han lige med en opfølgning.
+
+00:36:20
+Det er efter lang forklaring og beregning af lykkedes også i min Forsyning over for kommunen.
+
+00:36:26
+Bat er jo ret beset den bedste teknologiske løsning eller tilgængelig løsning i den givne situation. Ikke bare våde regnvandsbassiner.
+
+00:36:38
+Og den konstatering eller et spørgsmål?
+
+00:36:40
+Ovenpå jamen det første var jo lidt det der med at.
+
+00:36:44
+Udfordringen med at overbevise myndighederne. Det var jo lidt det, i var inde på før os i forhold til jo arbejder med Katrine i forhold til vand der batter, så Jeg tror mere, Det var en konstatering til, at det lykkedes i hvert fald i denne Kommune.
+
+00:36:58
+Der.
+
+00:36:58
+Kommer et spørgsmål fra Michael, er der krav til hviletid eller liggetid på det forurene vand, som materialet har tid til at bundfælde olien stige til tops for at opnå den ønskede renseeffekt?
+
+00:37:10
+Det er det første spørgsmål bekræftende og længevejende regnskyl kan man så forestille sig, at vandet løber for hurtigt igennem og dermed ikke bliver renset optimalt. Hvad er jeres erfaringer?
+
+00:37:21
+Erfaringerne er, at den tyske udgave regel reglement er jo bygget på 25 års erfaring omkring hvordan er regnhændelser og faktisk 90% af alle regnhændelser giver r 15 l per hektar 5 l/s per hektar.
+
+00:37:36
+Så 90%.
+
+00:37:38
+Er faktisk forholdsvis lidt regn, så hvis man tager det som udgangspunkt og Det er skidtet der kommer med først, så så så ja, så så er det faktisk en del af systemets funktion. Det er jo længere Det er, jo længere hviletid giver vi det, men Det er også større areal vi så tilslutter, så hviletiden er helt sikkert noget Der er med i Vores kalkugle, fordi skidtet kommer ind og skal have ro og det der ligger derinde er jo rent vand som bliver skubbet ud af det nye der kommer ind.
+
+00:38:05
+Så Det er hviletiden er en kæmpe ting i den her opfindelse eller i det her produkts måde at kalkulere på.
+
+00:38:14
+Men Det er i øvrigt Jeg er fuldstændig korrekt, og Der er jo nogen, som man kan sige. Der vil jo være nogle forskellige former for regnskyl, hvor der var nogen der vil blive renset 100% og nogle vil blive renset. 40% som Rasmus siger, så er det altså på baggrund af 25 års regnhænge, så at man kommer frem til den her dimensionering.
+
+00:38:33
+Tak så kommer der et spørgsmål i forhold til ja, tager bare spørgsmålet, vil i fortælle om sætte substratoren til tilbageholdelse af opløste tungmetaller såsom hvordan indgår den driften af den og effektivitet?
+
+00:38:52
+Ja.
+
+00:38:57
+Ja Det er jo filtre. Det er jo.
+
+00:38:58
+Filtre Det er jo magic balls. Det er en en kalksten. Det er en speciel.
+
+00:39:02
+Nu kan jeg ikke huske hvad den hedder, Det er derinde i. Det er Sådan lidt en hemmelighed faktisk, men Det er.
+
+00:39:08
+Hvis Vi skal sørge for, at vandet har en opholdstid sammen med de her. Det kan være lidt ligesom muligt vinkart, eller når Vi har de her konstrueret jordtyper, så så skal vi have noget tid til at ligge sammen med, og så bliver der opfanget og indkapslet i de her magic bowls, hvis man kan kalde det det.
+
+00:39:23
+Det er også derfor, at arealet bliver noget< til en substrator, fordi Vi skal have længere opholdstid sammen med det her magasin, som tilbageholder de afvasketunge tungmetaller.
+
+00:39:34
+Og Det er jo ikke for at snakke Vores eget produkt ned, men nogle gange kan andre typer train sammenhænge være mere logisk at tage fat i.
+
+00:39:46
+Fordi vi vi reducerer prismæssigt så meget, så det Det kan godt kan give løsning til nogle andre ting som webland eller nogle andre hvor hvor vi optager det her. Det kommer lidt an på mængden af hvad for et stof Vi skal fokusere på for eksempel fosfor.
+
+00:40:01
+Eller er det nital eller kobber eller nogle andre ting? Men så begynder vi at blive meget nørdet i dimensioneringen og og så lad os sige. Lad os tage det op et konkret eksempel, så tager vi meget gerne op.
+
+00:40:13
+Og uanset hvad med en hvad man gør i forhold til filterløsninger, så vil der jo være en øget vedligeholdelse, fordi Der er en 2 form for udskiftning end end i city pypen, hvor du kan tømme anlægget.
+
+00:40:25
+Alt andet lige så vil du på, så vil du skulle udskifte de her.
+
+00:40:29
+Filtre som som opfanger.
+
+00:40:32
+Magasin jeg tager op.
+
+00:40:33
+Og så så derfor så er det en lidt 2 størrelse men men også spændende og jo renser jo ja til noget nær at drikkevand så Det er Det er noget lidt and.
+
+00:40:43
+Sådan Jeg kan se der kommer rigtig mange spørgsmål og bare til jer der stiller spørgsmålene derude. Vi når ikke dem nok ikke dem alle sammen igennem, men vi skriver dem til Rasmus og Brian, og så lægger vi det med i videoen svarene på spørgsmålene.
+
+00:40:57
+Men der kom 2 spørgsmål her, som egentlig hænger sammen, hvor henne i Danmark har installeret settipes og en cadeau til jer. Fint indlæg kan Jeg kan man se jeres referencer på jeres hjemmeside, så de hænger lidt sammen med hvor er det i er henne af og hvor er jeres referencer?
+
+00:41:13
+DNK er det der ligger på? Ja.
+
+00:41:17
+Tak.
+
+00:41:19
+Tilknologisk Institut har faktisk et kort over city pibes Vi har. Vi har selvfølgelig et referencer på på på anlæggene. Og ja du Der er jo forskellige steder også klart Forsyning provas Hillerød København på Silkeborg Silkeborg.
+
+00:41:41
+Skanderborg.
+
+00:41:41
+Næsted.
+
+00:41:43
+Så Der er Der er Sådan en en del forskellige at tage udgangspunkt i, og Det er egentlig.
+
+00:41:47
+Også noget af det.
+
+00:41:48
+Vi gør, hvis i er så venlige at bringe en case til os, så tager vi jo gerne udgangspunkt i jeres, men selvfølgelig også sammenligner med. Hvad har man gjort andre steder i Danmark, hvor man har stået med den samme eller lignende udfordring, så så Det er i hvert fald noget, man kan få oplyst. Jeg tror ikke, Vi har alle referencer på hjemmesiden.
+
+00:42:05
+Svaret ja, og Det kan findes på Vores hjemmeside og teknologiske Institut.
+
+00:42:11
+Så vil jeg tage et spørgsmål her, hvad er levetiden på produkterne?
+
+00:42:16
+Minimum 50 år det. Det er jo en en rørnorm vi vi arbejder med, fordi det bliver bygget i rør og brønd, så Det er en IN standard der sættes. Jeg vil sige langt længere, men Det er der ikke nogen der vil lægge hovedet på panden på.
+
+00:42:29
+Men men Det er som alle andre plastrør minimum 50 år mit gæt er plus 100.
+
+00:42:36
+Sådan.
+
+00:42:38
+Jeg kan se Kasper har skrevet tilbage, at Det var en konstatering ansat i Skanderborg Forsyning, og så kommer Peter og dug fra WSP med en konstatering også med hensyn til zypy PSWSP lavet forsøg med doseringer af AICI for at kunne leve op til krav for fosforfjernelse. Man skal også være opmærksom på, at Vi skal op på mindst 80 procents fjernelse af SS, så vi får de fine fragmenter.
+
+00:43:04
+Hvor metallerne sidder med?
+
+00:43:07
+Kommenter gerne på det.
+
+00:43:09
+Så der var et lille spørgsmål i konstateringen.
+
+00:43:12
+Korrekt ja man skal fjerne en CSS partiklerne 80% for at Det er meget effektivt man kan sige når 15 l/s per hektar er 90% af alle regnhændelser, så vil 70% eller 80% så være dækket. Men når der kommer en monster skybrud.
+
+00:43:33
+Så kører vi bare hydraulisk igennem thirst flush vil nok være renset.
+
+00:43:38
+Second flush er nok ren man render igennem, men så kommer det skidt igennem, men igen 90% af alle tilfælde vil så være renset, men de sidste 10% vil være lidt mere beskidt og Det er en vurdering man nok skal tage og sige OK til, men Det er rigtigt 80% lige i det øjeblik det kommer skal op på 80% for at være 100%.
+
+00:44:03
+Sådan.
+
+00:44:05
+Rasmus og Brian Jeg har en masse spørgsmål til jer som Vi skal tage bagefter for med respekt for tiden, så nærmer vi os med meget hastige skridt, kl. 13:00 og på vegne af DNNK vil jeg sige 1000 tak for et meget interessant indlæg og når jeg kigger i chatten, så et meget relevant indlæg også som giver anledning til en masse spørgsmål og gode diskussioner.
+
+00:44:29
+Så Det er jeg rigtig glad for. Jeg vil sige til jer der sidder og deltager og lytter med, så husk at gå ind i klimakalenderen for at kigge på fremadrettet tekttalks og andre arrangementer som vi IDNNK arrangerer og fra Morten og mig selv. Så vil jeg sige 1000 tak til Brian og Rasmus og til jer som deltog for denne tekttalk og ønske jer en fortsat god dag.
+
+00:44:55
+Selv tak og mange tak for vi må deltage.
+

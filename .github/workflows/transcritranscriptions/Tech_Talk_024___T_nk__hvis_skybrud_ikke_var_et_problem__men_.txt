@@ -1,0 +1,690 @@
+00:00:07
+Velkommen allesammen til dagens techtalk i dag er tiktalken omkring.
+
+00:00:14
+Tænk ved skybrud ikke var et problem, men bare en slags vejr. Jeg skal på vegne af DNAK by jer alle sammen velkommen og særlig til Katrine lett og Søren Gabriel, som vil stå for de 2 indlæg som vil komme bare Sådan lige i det praktiske. I skal huske at i kan stille spørgsmål i chatten undervejs.
+
+00:00:36
+Og så vil vi samle op på spørgsmålene til sidst i denne teksttalk, Der er cirka en halv times præsentation, og så er der 10-15 minutters spørgsmål til sidst, og med det så vil jeg byde hjertelig velkommen til dig Katrine og overlade ordet til dig.
+
+00:00:56
+Hej hej og Jeg har set rigtig meget frem til at fortælle jer om det her. Borgernære klimatilpasningsprojekt, som vi kører i Roskilde i øjeblikket. Projektet handler primært om at holde skybrud inde på matriklerne, så kloakkerne aflastes i de få timer eller minutter om året, hvor kloakkerne rent faktisk er for små.
+
+00:01:16
+Efter mig kommer Søren og vil fortælle jer noget om hvilken effekt skybrud har i afløbssystemerne og undervejs så kommer vi begge 2 ind på hvor byden er nødvendigt. Det er, at vi i branchen arbejder på at levetidsforlænget de eksisterende anlæg, som allerede ligger i jorden.
+
+00:01:32
+Der er cirka 64.000 km kloak i Danmark.
+
+00:01:37
+Og i altså med med med Sådan et hurtigt overslag, så svarer det til at de har kostet cirka 16 mio. ton CO 2 på anlægget. Og hvis man skulle kompensere for de her kloakker i jorden med skovrejsning, så skal hele Jylland plantes til i skov.
+
+00:01:53
+Eller hvis man er lidt mere nationaldemokratisk, så skal alle Vores markederspringe i skov.
+
+00:01:59
+Og Det er derfor Det er en stor fornøjelse at kunne vise jer en teknologi og en metode til at få bæredygtig klimatilpasning til at passe på de eksisterende kloakker.
+
+00:02:10
+Og vi vi glæder os også til at høre, hvad i siger efter Vores oplæg.
+
+00:02:17
+Skal jeg lige have skitset? Jeg hedder Katrine leth og Jeg er arkitekt og finder iværksætter og mit navn. Det står på et par patenter blandt andet lemur, højvandssikringen oppe i Lemvig og skybrødsventilen, som er en del af svaret på dagens tapas.
+
+00:02:33
+I 25 år har jeg arbejdet helhedsorienteret med arkitektur byrum og borgerinvolvering omkring vand.
+
+00:02:40
+Under coronaen har Peter fandt og jeg stiftet klima langsen og vi arbejder med borgernært klimatilpasning. Vi må vi, vi møder klimaudfordringerne, hvor de opstår, og hvor de enkelt kan løses, nemlig ude ved hækken og sammen med mennesket.
+
+00:02:57
+Mere om det, men Vi skal lige tilbage til, hvor det hele startede for mig.
+
+00:03:02
+2. juli 2011 den dag oplevede hele København, hvad klimaforandringerne betyder. Det historiske skybrudskabte kaos overalt, og særligt i kloakkerne og mit toilet.
+
+00:03:15
+Det lignede et springvand, og alle i kvarteret tømte spande efter spande ud i haverne den nat.
+
+00:03:21
+Der var en nabo. Han gik fri. Han havde nemlig brudt forbindelsen mellem nedløbsrøret og plaken, så vandet fra hans tal løbeben direkte vej ud i haverne eller ud i hans have uden at runde kælderen først.
+
+00:03:36
+Og Det var det, der gav mig ideen til skybrudsventilen, orgentilen, den sorterer regnens skybrud, regn løber lige igennem og ned i kloakken, men hvis skybrud så lukker ventilen, så vandet løber ud på overflader, hvor det ikke gør skade.
+
+00:03:50
+Den er enkelt og monterer, og den virker med det samme og koster en brøkdel af det nye større kloak og koster og Sådan bæredygtig.
+
+00:03:59
+Vores huse byer og kloakker ikke designet til skybrud, og Det kan være fristende at gøre som vi plejer nemlig at grave byerne op og støbe nogle større kloakker.
+
+00:04:10
+Men det går ikke for et ton CO 2, så kan vi lægge større kloak foran et hus, eller også så kan vi klimatilpasse 200 huse med skybrudventiler.
+
+00:04:21
+Og da der kommer flere og kraftigere skybrud med den globale opvarmning, er vi nødt til at tænke i nye bæredygtige løsninger, som ikke skubber på, at klimaproblemerne bliver værre.
+
+00:04:32
+Og de store problemer behøver ikke altid store løsninger og skybrudsventilen den lyder simpel og den er simpel og så virker den.
+
+00:04:40
+De kan se den her i 3 udgaver. Den sorte den er i produktion af de 2 grønne de er på vej.
+
+00:04:46
+Og Sådan her ser det ud, og den er i overløb. Det gør den cirka 3-5 gange om året.
+
+00:04:56
+Involvering af det store kodeord for klimalaktiden.
+
+00:05:00
+Og det arbejder vi holistisk med. Vi involverer forsyningsselskaber og kommuner i. Altså det vil jeg gerne bevare deres kloakker og forhindre et kloakvand.
+
+00:05:09
+Det ender ude i receptionen. Forsikringsselskaber, som vi også har med i det her projekt. De vil gerne have glade kunder og undgå skadesudbetalinger og borgerne.
+
+00:05:20
+De vil rigtig gerne have tørre kældre og sikre deres huse.
+
+00:05:25
+Og i øjeblikket så faciliterer klimalancen et pilotprojekt i Roskilde, som er finansieret af forsyningsselskabet force og støttet af Roskilde Kommune. Og her for en uge siden fik vi også LB forsikring med om hvor bord.
+
+00:05:40
+Og Vi har vi står for kommunikation med borgerne og for udarbejdelse af matrikelprojekter ude hos dem og indsamling af data.
+
+00:05:49
+Vores kommunikation er Sådan helt jordnær. Vi lægger breve i postkassen og sætter stoppested op ude i lokalområderne, og Vi har åbne vejmøder omkring Vores rullende udstilling.
+
+00:06:01
+Og Det er ret dejligt at møde folk herude. De vil selvfølgelig gerne gøre noget, som sikrer dem selv, og de er også meget interesseret i at gøre noget, Der er bæredygtigt og noget Der er godt for miljøet og godt for hinanden. Godt for naboen.
+
+00:06:17
+Det giver dem handlemuligheder i en dagsorden, som bekymrer dem. Vi kommer med løsningerne på et sølvfad, så selv de allertravleste borgere kan være med.
+
+00:06:28
+Og helt fantastisk er det jo også at kunne komme med gaver. Vi giver dem gratis besigtigelser og skizofrojekter, og Vi har skybruddsventiler med som de også får gratis hvis de passer i deres haver og de vil have dem. Og så oplyses de om muligheden for at få tilbagebetalt tilslutningsbidrag, hvis de gerne vil afkoble alt deres tagvand.
+
+00:06:50
+Vi snakkede om fliser og belægninger, hvilke muligheder Der er for at forhindre vandet fra fra fra deres belagte arealer, og at de.
+
+00:07:00
+Belaster kloakken.
+
+00:07:02
+Så har vi også nogle små enkle ting med i beredskabet. Vi har sandsække på rulle, og Vi har propper til toilettet, som de kan købe i Vores lille butik på den 2 side af den her udstilling.
+
+00:07:13
+Men det som vi mest gør Det er at vi skaber lokale fællesskaber omkring vand og vand kan man som bekendt ingen grænser og slet ikke matrikel grænser.
+
+00:07:21
+Og et af Vores primære mål er at øge borgernes viden om vand og sprede de gode eksempler, der var en af dem, vi mødte, som havde en smuk og praktisk løsning i sin have, og her fik vi lov til at dele.
+
+00:07:35
+Hans erfaringer med med andre naboer som kom på besøg, så vi deler viden.
+
+00:07:41
+Og Det er noget, som vi også gerne vil have, at man deler i nabolagene.
+
+00:07:48
+Vi har været 4 uger ude III Roskilde haft 12 vejmøder.
+
+00:07:55
+Og den har ført til, at 1/3 af alle i projektområdet er blevet besøgt, men vi tiltrækker også med Vores stoppesteder mennesker ude fra området. Så alt i alt har vi lavet 67 matrikelprojekter og udleveret 114 ventiler.
+
+00:08:13
+Og som betyder, at hvis de alle sammen bliver sat på, så har vi afkoblet 3500 m2 paus strømningsareal på 4 om ugen.
+
+00:08:22
+Det finder vi ud af, når vi kommer ud igen her til til om om 14 dage.
+
+00:08:29
+Der er også nogen som allerede har afkoblet alt deres tagvand med nogen der gerne vil gøre det. Og så er der nogen som også har et eller en der har et sekundanlæg. Men noget af det som vi fandt ud af, som vi faktisk ikke rigtig var opmærksom på Det var, at der var mange i det her område, som havde fået ny bil og Det var en elbil og den stod på en pæn ny flisebelægning som.
+
+00:08:51
+Aflastet, eller som som sendte vand ud i kloaksystemet. Så nu er vi også udarbejdet et hæfte, så så vi kan kan få dem til at gøre noget andet end at sætte en det i kloaksystemerne, når de laver nye fliser.
+
+00:09:08
+Når vi møder borgeren, så er der en del af dem, der har vand i kælderen, og det viser sig ofte, at Der er kommet lige så meget vand i kælderen, som der lander på taget under et skybrud. Altså med andre ord, så er det et vand, som kommer oppefra afløber toilet. Det stammer fra husenes egen tag.
+
+00:09:26
+Fordi kloakken begynder i tagrenden, lige så snart vandet er rørført, så bliver det en del af et større system, som ikke kan følge med, når Der er skybrud.
+
+00:09:36
+Og så opstår altså under skybrud opstår der flaskehalse systemet og den første flaskehals vand er møder. Det er stikledningens begrænsende dimension, og den næste flaskehals. Det er den fyldte hovedklark, hvor vandet står stille ligesom køen på en motorvej i myldretiden.
+
+00:09:56
+Om vandet fra taget.
+
+00:09:58
+Det står så stille. Det fanges nede i brønden og så stemmer det op og da vand har det med at blive vandret og det ikke kan komme den rigtige vej så kommer den finder det en 2 vej og Det er ind i kælderen.
+
+00:10:11
+Så det som som vi med god ro kan sige Det er at de bedste løsninger for det den enkelte husejer. Det er dem Der er lokale. De virker under skybrud og.
+
+00:10:23
+Systemer.
+
+00:10:25
+Og de er fantastiske, men de er ikke egnet til kaos, så uanset hvor store anlæg der investeres i på den 2 side af skalbrønden, så skal man huske på at vandet fra taget også skal nå at kunne komme derud.
+
+00:10:39
+Men de lokale afkoblinger, så bliver problemet på matriklen, og det sendes ikke i omløb, og Det er grunden til, at forskerne vil forære deres kunder. Alle borgerne i Roskilde og i projektområdet skybrudsventilerne.
+
+00:10:54
+Og fordi de fleste af kloakkerne i Roskilde er i så god stand, at de kan ligge der i 100 år endnu, hvis bare de kan slippe for at få skybrudene.
+
+00:11:10
+Det meste af tiden er kloakkerne faktisk overdimensioneret. Der er mere hvidt i den her graf end Der er blåt vand og det vil sige Der er mere luft.
+
+00:11:21
+Det meste af tiden. Det er kun få minutter eller halve time om året, hvor rørene er for små. Illustrationen er pakket ind i et rør.
+
+00:11:29
+Den er fra skrift 31, så Det er faktisk i hændelser i Glostrup i et i en tidsrække over 33 år. Og det som som som som jeg som arkitekt ligesom visualiseret det her har gjort Det er at.
+
+00:11:46
+Vi kan afkoble 50% af tagene i de her områder, Vi har været ude i.
+
+00:11:50
+Og når så de her er afkoblet, så.
+
+00:11:54
+Vil halvdelen af talene få den effekt, at 1/4 af af alt afstrømnings areal Sådan cirka ikke eller bliver skåret fra, så Det er ikke ender i kloaksystemet, og det vil sige, at de fleste af skybruddene godt kan være i de eksisterende rør. Men det der også er rigtig interessant. Det er at dem der ikke kan være der.
+
+00:12:16
+De bliver reduceret markant næsten eller med 50%, og det vil sige der Der er meget vi kan kan gøre på den på den helt billige kling uden at skulle skulle grave byerne op og det.
+
+00:12:32
+Det er det som som egentlig er målet med hvad det her det kommer søreme meget mere ind på.
+
+00:12:39
+Når vi kommer ud, så så.
+
+00:12:44
+Kører vi ud i områder af 100-1000 huse af gangen, og vi kører nogle forløb, som tager 12-40 uger i den indledende fase. Der defineres, hvad et mål kunne være for projektet og Vores digitale værktøj. Det fodres med matrikel data og og hvad kunden forsyningen mest ønsker sig af af viden, når vi kommer ud.
+
+00:13:11
+Og diverse tryksager udformes også så de kan komme ud i postkasserne.
+
+00:13:17
+Og når vi så er ude hos borgerne i den første projektkasse, så holder vi de her oplæg ude på vejene, og vi får involveret husejerne i at lave projekter på deres egne matrikler, og så holder vi en pause. Sådan så borgerne får tid til at implementere deres løsninger og projektet. Det er delt i de her 2.
+
+00:13:34
+Fordi tiden og menneskene arbejder med os.
+
+00:13:38
+Fordi naboer taler med naboer og i opfølgning hos borgerne, så genbesøger vi området på den måde, så så når vi også dem, Der er lidt langsommere med at komme med i første fase.
+
+00:13:51
+Og til sidst så indsamler vi og evaluerer vi data, så de kan forhåbentlig sætte et præg på de fremtidige spildevandsplan.
+
+00:14:02
+Vi er ikke færdige i Roskilde pilotprojektet. Det afsluttes ude hos borgerne lige før sommerferien, og Det er altså, vil vi hente, når vi henvender os til 300 husejere med tilbud om, at de kan få det her skitseprojekt og gratis skybrudsventiler. Og hvis de hos kunder hos LB forsikring.
+
+00:14:20
+Som også er med i projektet får de monteringen af ventilen betalt.
+
+00:14:29
+Det at Vi har fået LB med på den her måde, Sådan så at deres kunder favoriseres. Det er fantastisk, fordi det giver os mulighed for at se om Der er forskel på om dem der får den eller en monteret.
+
+00:14:44
+Er mere villige om det øger villigheden.
+
+00:14:48
+Så der kan man se lidt forskel på på den ene og den 2 slags forsikringskum i det her projekt.
+
+00:14:54
+Men.
+
+00:14:55
+Det at Vi har fået alle interessenterne omkring skybrud med i projektet. Det, Det er rigtig godt, synes vi og.
+
+00:15:06
+De har hver deres motivation for at gå sammen.
+
+00:15:09
+Men, men hvis vi kan spare gå sammen om at spare i nogle af de billigste løsninger, så behøver vi ikke allesammen at gøre hver Vores.
+
+00:15:17
+Og skybrud er en effektiv og billig løsning. Det er et simpelt værktøj, som hurtigt kan spare os på vand i kælderen for udlændinge af enorme mængder CO 2 og forhindre, at skybrud ender som kloakvand ude i naturen.
+
+00:15:33
+Men når vi kører ud med klimalancen, så er det det bedste. Det er at kunne give dem valget mellem flere løsninger, så Det er hele paletten med ude i klima langsen er vi ligeglade med, hvad de gør bare de gør noget, så skybrud ikke er et problem, men bare en slags vejr.
+
+00:15:51
+Søren, er du klar?
+
+00:15:54
+Hvordan skal jeg gå ud af det her?
+
+00:15:56
+Jeg hopper bare ind i stedet for tror jeg ja.
+
+00:15:59
+Hvis du deler den Søren, så lægger jeg den op.
+
+00:16:05
+Jeg tror jeg deler nu kan det være rigtigt.
+
+00:16:09
+Skal skal jeg lade være med at dele?
+
+00:16:11
+Ja, men Søren, du har ikke delt endnu.
+
+00:16:14
+Næ Jeg kan godt se det.
+
+00:16:16
+Det får vi lige styr på, og så er i med derude igen lige om et øjeblik.
+
+00:16:26
+Tja shja.
+
+00:16:28
+Cjaoppe og så er det en præsentation.
+
+00:16:31
+Der der nu tror jeg altså måske noget er det rigtigt.
+
+00:16:37
+Det gør der. Hvad har jeg?
+
+00:16:41
+Ja og.
+
+00:16:44
+Hvis jeg nu siger slideshow, så skulle den køre som slideshow også goddag og velkommen. Jeg hedder Søren Gabriel fra Astrid IWSP det gamle orbicon og har arbejdet sammen med Katrine i mange sammenhænge, men blandt andet i det her var hun tilbage i. Jeg tror Det er tilbage i 1013 ringede Katrine til mig.
+
+00:17:00
+Jeg sad i tog fra Jylland og vi fik en lang snak om katrin CD med den her skymstrentil og som jeg sagde skatrin den dag mit eneste forbehold. Det er Det er at arkitekt der finder på det, fordi det burde altså være en ingeniør der fandt på den slags. Jeg synes Det er en smart.
+
+00:17:13
+Idé den kan nogle ting.
+
+00:17:15
+Og Vi har regnet på den med noget af det jeg også sagde i skatrin. Det er at det bliver op ad bakke fordi det her Det er nytænkning på afløbsområdet, og Det er en konservativ branche. Du kan være derinde i, og Det har det også været.
+
+00:17:24
+Men Jeg har været imponeret af katrines vedholdenhed og og jeg mener altså fortsat, at Det er en god ide med det vi hører om senere, så Sådan fra ingeniørperspektivet Vi har bladfang, og så har vi ikke fået straktstoppet til Vi har en trakt, der fungerer som vandbremse. Så har vi en flyder, som når tragten fylder op, fordi vandbremsen ikke kan følge med.
+
+00:17:43
+Så har den en en prop som den lukker med, og så er den hydraulisk kapacitet simpelthen overskredet og så løber alt vandet oven ud af tragten, og det gør den så indtil Det er holdt op med at regne et stykke tid. Sådan så vandet drypper hurtigere ud langs proppen end det regner tit i toppen. Og så åbner vi tiden igen, så Det er altså ikke bare en vandbrimse.
+
+00:18:01
+Det er er en on off mekanisme som lukker for for afløb når intensiteten beregnen.
+
+00:18:08
+Overstiger det som vi kan slippe igennem Vores vandbremse der.
+
+00:18:13
+Og den leveres hvis man bare går ud og køber den, så leveres den default med kapacitet på cirka 0,32 l pers kunst og den kan gøre større, hvis mindre skærer mere af, hvis man har større tag. Men det svarer til, hvis man går ud med et et tab på omkring 40 m2, så svarer det til en afledning på 75 l personer per hektar. Det vil altså sige en kraftig regn, men jo ikke noget som er er voldsomt, men Det er Sådan at man skal regne med den slår fra årligt i hvert fald ikke.
+
+00:18:40
+Den som den er konfigureret der så stilles den til teatret på 30-60 m2 og så er man i virkeligheden dækket ind med langt de fleste i en families huse. Men jo altså på den måde at hvis man sætter den på et mindre tag, så vil man få vand svarende til en lidt større afløbstal i et lille 16 perktorer på et større tag et lidt mindre.
+
+00:19:01
+Det, hvor den adskiller sig fra en en nedsivningsløsning. Det er jo at langt størstedelen af årets byer er nemlig alle de små intensiteter, de går i kloakken. Og så er det kun, når vi overskrider den her intensitet ganske kortvarig, at vi lukker af, og så har vi vant til at flyde II haven.
+
+00:19:17
+Og når vi regner på det på base historiske regn, så er det noget der ligner 15% af årsene bøgerne som ender i haven. Hvis man sætter Sådan en ventil på et et tag med med på 40 m2.
+
+00:19:29
+Så Det er altså ikke nær så voldsomt som hvis man har en nedstigningsløsning. Man skal dog stadigvæk lige tænke over, hvor man hælder det hen til man skal hælde vandet ud et sted, hvor det ikke kan forholde skade, og så skal man også sikre sig, at det ikke løber direkte til en vejbrønd, fordi så om det løber igennem en vejbrønd eller løber direkte ned i nede, så Det er jeg ikke ikke så afgørende. Måske for kælderen, men men ikke for farvel systemet og mit udgangspunkt her.
+
+00:19:51
+Det er afløbs systemet.
+
+00:19:54
+Så hvis Vi skal se det som Sådan en løsning til at klimatilpas kloakken, så er det altså, hvis vi taler klimatilpasning, så handler det om at fokusere på at få kloakken til at leve op til servicemål eller komme lidt tættere på det op til servicemålet. Og der kan skylles ventilen. Den kan simpelthen afskære det et areal fra kloakken under spisebelastning, så så det ikke løber ned som som vi var inde på før.
+
+00:20:15
+Og det betyder, at den potentielt kan reducere hyppighed og antallet af øjne med stuende til terræn.
+
+00:20:22
+Både i oplandet, som som vi muterer den i, men faktisk også nedstrøms, så kan den nå at reducere overløb til respekt. Og så kan jeg også reducere behov for andre klimatilpasningstiltag. Den er så at sige en konkurrent til andre andre tiltag, Sådan som at lave magasiner, lokalmagasiner eller større bassiner.
+
+00:20:39
+Hvis vi regner med systemer eller lokale afleveringer i regnvand, altså lejrløsninger med out kobling til nedsivning og den slags.
+
+00:20:47
+Så for mig der der kan den nogle ting og den er jo ikke universelle løsning på alt, men den er det der ekstra stykke værktøj i værktøjskassen, som jeg altid efterspørger, fordi jo flere værktøjer jo har Vi har jo bedre en chance for har vi for at lave noget som er Sådan fornuftig lokalt tilpasset. Vi har regnet for lars pilmann i fårs har vi regnet på et oplandet på duebrødrevej bare som et eksempel her, hvor Vi har en hektar befæstet hvor tagfladerne.
+
+00:21:14
+Er dem, som vi kan koble af til skibhus ventilen.
+
+00:21:16
+Og så har vi regnet på historisk regn med et minuts opløsning her fra tilbage omkring 2005 eller Sådan noget og så frem til 2020, og der har vi lavet Sådan en boks model, hvor vi kan smide det her vand igennem både et et system, hvor det bare løber fra de befæstede arealer og i kloakken, og så har vi en kapacitet på kloak svarer til den Der er i dubobrydervej, men vi kan også gøre det, at vi vælger altså at tage tagfladerne ud og så montere en skygeposeventil på dem.
+
+00:21:44
+Og hvis et minus intensiteten overskrider de her 75 l paskundt per hektar, så lukker skibussen, og det betyder, at hvis man kigger på det her, at hvis Vi har de blå toppe, så svarer det til nedbøren og det Der er de grønne top. Det er så det der løber II kloakken, så alt det blå. Det er det der løber ud på terræn og vi kan se vi klipper en helt masse toppe af, og vi kan også godt se at vi klipper toppe af som ligger under de der 75 l per sekund per hektar.
+
+00:22:11
+Det er dem Vi har ude til Venstre på skalaen, fordi vi i det her tester blandt.
+
+00:22:14
+Semini har en hektapefest areal og og det hænger jo sammen med, at hvad hedder det, at Vi har større befester areal end bare tagfladerne på her, og at vi i øvrigt klipper vi et minuts intensiteten, men Vores angivelse og intensiteten her. Det er Sådan en en 10 minutters middelintensitet.
+
+00:22:35
+Vi vil prøve at zoome lidt ind på en hændelse, så kan vi tage Sådan en en middelstor hændelse 30. Juli 2017 Det er en 12, treårs hændelse baseret på en et minuts intensitet. Hvis vi kigger på 10 minutters intensitet, så er det en fireårs endelse, og hvis vi så går ind og kigger på, hvad der sker, når skyve hos ventilen træder i funktion, så er det altså et lille udsnit af den figur vi havde før, som Vi har zoomet ind på her.
+
+00:22:59
+Og så kan i se, at når toppene kommer jamen, så skærer den simpelhen af, så det der ligger mellem den blå og den grønne kurve. Det er det, der løber på terræn.
+
+00:23:06
+Og det betyder, at hvis vi havde etableret skimmelsventiler på alle tagflader, så ville vi have belastet kloakken til svarende til en iltforudsendelse i stedet for denne her fireårsendelse, som den middel ville være belastet med til 1-1 10 minutters intensitet.
+
+00:23:22
+Så den har altså en en effekt II det der interval som er interessant i forhold til at klimatilpasse kloakken, og Det er jo en af de udfordringer som som forsyningen står i.
+
+00:23:34
+Hvis vi kigger på det Sådan og og og ser på hvad man ellers kunne, så kan man sige noget af det, man kunne gøre i et fællesklokeret opland, som som det vi kiggede på i duerådet og vej. Det var jo udover selvfølgelig at lave kloakken større hele vejen ned eller lave et komplet separat projekt. Så kunne det jo være at lave grønne veje, hvor vi altså tog fat i vejvandet.
+
+00:23:53
+Og forsinket det eller måske nedsive det, men i det her tilfælde forsinket det før afledningen til kloak. Vi kunne også give os til at lægge nogle rørbassiner under vejen, hvis vi ikke ville påvirke vejen, og så har vi så skygbers ventilen som som mulighed, og der har vi før 1 2 Forsyning prøvet at regne på nogle oplande her. Det er opland 3, 16 og 19 som jeg ikke vil gå i dybden med andet end at Jeg har taget 3 med fordi Der er ret for stor forskel på hvordan de opfører sig og det vi kan se Det er Vi har 3 situationer en t 2-5 og til 10.
+
+00:24:23
+Og hvis vi nu går ind på tetiren, altså den nederste tredjedel af tabellen, så har vi mulighed for at lave grøn vej og den grønne vej kan vi også sammenligne med rørbassinet. Og så siger vi, Vi har et volumen på enten 0,2 eller 0,5 m3 per løbende meter vej her, og så ser vi ude under opland 16 her at med 0,5 m3 per løbende undervejs, så kan vi reducere antallet af brønde med overløb med omkring 14%.
+
+00:24:49
+Så det vil sige, at grøn vej løser ikke problemet med overløb fra brønde II det her opland, men den reducerer noget, hvis vi sammenligner med skybusventilen i samme opland. Så hvis vi etablerer specosventet på 70% af af tarmfladerne, så kan vi reducere antallet af brønde med overløb med næsten 30%. Og det viser, at vi kan sagtens have nogle oplande, hvor skyld de er fuldt ud lige så god som lokalforsinkelsesløsninger.
+
+00:25:14
+Hvis vi går ind med Sådan en pragmatisk tilgang til forsinkelse og siger, hvad kan lade sig gøre på 1 1 1 praktisk måde.
+
+00:25:20
+Andre oplande der kan ske på 5 10 link konkurrere, men Der er altså et potentiale i det her også når vi putter det ind i en en marked.
+
+00:25:28
+Så i forhold til klimatilpasning, så er pointen, at de lokale forhold, Der er afgørende for skivejsk potentiale, hvor store er kapacitetsproblemerne i kloakken, hvor stor en del af oplandet kan aflede sig til cypriotil? Hvor store er tagfladerne og hvor løber overløbet hen?
+
+00:25:46
+Udfordringen er, at det kræver, at vitalitet anderledes at se borgerne som en del af løsningen i det her, og spørgsmålet er så, hvor udfordringen ligger i det her? Det tænker jeg, vi måske kunne komme tilbage til i spørgedelen, men den kunne ligge dels hos borgerne. Tænk, hvis de nu ikke vil være med.
+
+00:26:00
+Men det kunne også godt lige huske kommunen eller forsyningen som er dem der sidder og siger. Tænk hvis borgerne ikke vil være med og min oplevelse er nok, at det sidste oftest er tilfældet.
+
+00:26:11
+Nå skiver sendt tiden hedder skyghus satin, så lige for at rende den hurtigt igennem som skybus løsning så aflaster den kloakken og rykker grænsen for hvornår hovedkloranten bliver overbelastet. Det er den funktion den har som klimatilpasning indsats også, og derudover så aflaster den som Katrine sagde i stikledningerne, og Det kan potentielt beskytte mod kælderoversvømser, og Det er Sådan lidt en diskussion, fordi hvis man i øvrigt har dimensioneret sin stikledning korrekt, så burde den have kapacitet til at aflede vand fra fra tagfladerne.
+
+00:26:36
+Men et er den ideelle verden, og det andet er den virkelige verden, og Jeg vil i hvert fald sige, Jeg har sat en sky og sympati på mit nedløbsrør herhjemme.
+
+00:26:44
+Fordi jeg Jeg synes de der stikledninger er ikke specielt tryg ved.
+
+00:26:51
+Men bare for du ved det, så Der er fin tid.
+
+00:26:54
+Godt jamen så vil jeg tale lidt mere roligt.
+
+00:26:58
+Men når vi så når til det her med at håndtering af skybrud, så er det også vigtigt at sige, hvad er det for et skybrud vi håndterer, fordi det der sker når skybrudventilen træder i kraft. Det er jo den lad være med at halde vandet i kloakken. Det vil sige, den laver ikke problemer bagløbsystemet.
+
+00:27:11
+Til gengæld så hænder hælder den vandet ud på terræn, og hvis Det er rigtig, rigtig regner, så vandet så den for alvor strømmer på terræn. Så kan man sige, så går det nogenlunde lige op, så bliver det ligegyldigt om vandet løber til kloakken og op på terræn, eller om det løber ud på terræn og løber rundt på terræn.
+
+00:27:25
+Det kan være med til at at.
+
+00:27:28
+At at beskytte kælderen måske, men Vi skal bare huske, at før vi får den der situation. København.
+
+00:27:35
+2. juli 1011 så ligger der altså rigtig mange skybus som er mindre, så vi behøver ikke sige at skybusventilen dur ikke fordi vandet ender alligevel ude på terræn. Skyghus ventilen vil faktisk være med til at skabe lokale oversvømmelser nogle steder, hvor man kan leve med det i stedet for at bidrage til store samlede oversvømmelser i hvert fald meget, meget langt hen ad vejen.
+
+00:27:54
+Vi har også linet i det her beregning, som vi så på før og så se på. Hvad kan denne her skydesventil, hvis Vi har en rigtig stor hændelse, og der nåede vi lige inden for den der historiske regnerække i august 2000 1020 at have en stor hændelse en t 73 baseret på 60 millioners varighed eller til 25, hvis vi kigger på den på 10 minutters varighed og den har i kloaksystemet, har vi beregnet den til at svare til 21 årsændelse, og hvis vi havde smidt skybusiler på alle tagflader.
+
+00:28:22
+Så havde vi reduceret effekten af den team firsendelse i kloaksystemet i opbandet, så Det er altså et billede på, at selvom kun 1/3 er befæstet areal i det her opland, faktisk fra tagflader, så har skybus ventilen en rigtig stor effekt, hvis Det er en for stor udbredelse. Her regner vi altså med 100% kobling af askeprocentiler, så Der er et væsentligt potentiale også i forhold til de meget store hændelser.
+
+00:28:47
+Hvis jeg lige skal kigge i krystalkuglen og og se på hvad der kommer til at blive bestemmende for hvad Det er for løsninger vi arbejder med i fremtiden indenfor klimetilpasningscygehusene, så er der ikke tvivl om, at CO 2 aftrykket altså carbon foodprint, er Vores indsatser bliver afgørende. Vi kan jo se forsyninger, som har besluttet sig for, at separat kloaker, hele kommuner eller kommuner som beslutter, at forsyningsselskabet skal separat kloaker hele kommuner.
+
+00:29:10
+Jeg tror at Det er gårsdagens løsning.
+
+00:29:14
+Vi har liggende afløbssystemer derude, som har mange, mange år tilbage som levetid. Særligt hvis vi renoverer på dem, så Jeg tror det, der kommer til at ske. Det er, at vi bliver nødt til at arbejde med Vores forståelse af servicemålet og måske leve med, at vi får vand på terræn der, hvor vi planlægger det oftere end det, Vi er vant til.
+
+00:29:30
+Bare Det er rent vandløb for terræn, så det bliver lokal afkobling eller maricinering, som som bliver de udbredte løsninger. Og så tror jeg vi.
+
+00:29:39
+Meget snart ikke ser planer om fulsebraklorkeringer længere. Vi kan simpelthen ikke tillade os det.
+
+00:29:44
+Og der kan man sige skybus ventilen. Den er et et første og et skridt, som man kan tage rigtig mange steder. Nogen ser den som en en overgangsløsning.
+
+00:29:51
+Jeg siger den i virkeligheden også som en permanentløsning rigtig mange steder og 1 1 1 generation 2 er skylles ventilen. Det kunne måske være at sige kan vi lave nogle vanddrimser på vejbrønde i gårde rum eller på parkeringspladser og så begynde at arbejde med det samme på terræn og så leve med at der står vand på terræn bare Vi har styr på hvor det står.
+
+00:30:11
+Så er vi måske ikke så dårlige hjulpet.
+
+00:30:14
+Så jeg prøver lige at samle op på det, så har vi rigtig mange værktøjer og værktøjskassen, hvis vi så har gentagelsesperioden ud af x aksen og de årlige omkostninger ud af y aksen, så kan man sige Sådan en en som magasinering i eksisterende lagninger. Den er er rigtig billig at arbejde med. Der er grænser for hvad den kan i forhold til gentagelsesperioden.
+
+00:30:32
+Vi skal op til skymostunder, så kan vi næsten hvad som helst med dem med de er dyre lige fra en start og bliver dyrere, jo større endelse Vi skal håndtere.
+
+00:30:39
+Og hvis jeg skal Sådan putte skyper ventilen ind i Sådan en skala her, så ligger den faktisk nede i den rigtig billige ende og på den måde at den har effekt både ved de der lave hændelser, som som bare udfordrer kloaksystemet i forhold til Sådan almindelig kraftig regn, men altså også ved de mere Radikale hændelser.
+
+00:30:59
+Så det Vi skal vænne os til. Det er altså at læse's mall. Det gælder om at lave så lidt som muligt herovre til højre.
+
+00:31:04
+Er det ikke en skybus ventil Vi har med, men 1 1 1 par afløb af tagand til haven og Det er det Vi skal se som Alternativet til de store separate kloaksystemer som man render rundt og i hvert fald planlægger at etablere rundt omkring.
+
+00:31:18
+Og lige for at sætte en lille smule baggrund på et af de tal, som Katrine brugte, så har vi regnet på de her løsninger fra før de grønne bede, rørmagasinet og en skyggehus ventil og så lige se på hvad koster Sådan noget, hvis Vi skal ud og og håndtere et gammelt villa område i fælleskliorieret by. Vi har 200 rækkehuse og med tagareal på et par hektar, og derudover et vejarealt og et på et par hektar.
+
+00:31:42
+Og der kan vi altså vælge at gå ind og sige. Nu vil vi ikke ulejlige borgerne vil prøve at se hvor meget vi kan løse ude i vejen. Det kan vi gøre med et rørbassin undervejs eller volume grønne veje, og der går vi ind Sådan med de her den her halvkubikmeter per per løbende meter vej, og så ender vi jo omkring 1000 m3.
+
+00:31:59
+Det kan laves for en 20 30 mio. Hvis Det er rørplaceringer og lidt mindre hvis det grønne veje og hvis vi ser på CO 2 aftrykket jamen så er det.
+
+00:32:08
+Jo højt fordi vi arbejder i plast eller i beton.
+
+00:32:13
+Så Det er virkelig de væsentlige en væsentlig del af det her CO 2 udtryk. Det er aftryk for de materialer, vi indbygger i projektet her. Alternativt så kunne vi gå ud og sætte skyggen hos ventiler på.
+
+00:32:23
+Her har vi sagt 2 per hus, 200 huse Katrine siger, det koster 5000 kr. per hus, hvoraf de 1000 kr. Det er så materialer her, så Det kan gøres for en rund million, og hvis vi Sådan lyseligt regner CO 2 aftryk på 400 gusentiler, så er det størrelsen størrelsen står den et ton CO 2.
+
+00:32:41
+Vi har der, og Jeg synes Det er sjovt, at Vi har de her forskelle på priserne. Der er min oplevelse, at kommunerne godt kan være lidt hårde at sige ja so wat. Det er forsyningen den betaler, men CO 2 aftrykket bliver jo en fælles valuta for kommunen og forsyningen, fordi hvis man ikke har sat mål på det, så er det i hvert fald noget man kommer til at sætte på II fremtiden og her.
+
+00:33:00
+Der taler vi altså om en forskel på en faktor. Flere 100 ICO 2 aftryk på de gode og de dårlige løsninger og Det er noget af det der får mig til at sige, at vi kommer til at se flere af denne her type løsninger i fremtiden.
+
+00:33:11
+Tak bliver det.
+
+00:33:14
+1000 tak Søren og Katrine Søren du har ordet lige nu, men Jeg tror faktisk at Jeg vil sætte den over til Katrine til det første spørgsmål.
+
+00:33:25
+Og Det kan godt være det til jer begge 2. Men undervejs i din præsentation Katrine, kom der et spørgsmål og til jer der sidder derude, så husk endelig at få skrevet spørgsmål herind, for Vi har en lille forsinkelse, så Det er bare om at få dem skrevet, så vi får dem med.
+
+00:33:38
+Men for jer begge 2 så er der ikke blevet snakket om etagebyggerier og det bliver der spurgt om hvad med etageboliger?
+
+00:33:45
+Med glæde. Det er det, det som som klimalancen gør Det er, at vi tager jo nogle nogle som man egentlig har set som værende svære at komme til, fordi at når man skal møde.
+
+00:33:56
+Et et hus et en villa, så så er der en vejer for hver villa. Det vil sige man skal snakke med enormt mange mennesker, så Det er enormt svært at lave det til projekter.
+
+00:34:06
+Etagehuse, der der kan man nemmere gå ind og lave projekter, som er helhedsorienteret, som man også får lavet de fine gårdrum og får lavet alle mulige andre ting, og der Der er en art til at at kommunikere med og kunne nå rigtig meget. Så Det er ikke fordi Det er udelukket. Det er bare fordi det ikke er prøvet og vi vil gerne prøve.
+
+00:34:24
+Fedt.
+
+00:34:25
+Man kan sige, hvis jeg lige må supplere på den også, altså med etageejendom der der kan nogle steder vil den udfordring, at hvis man hælder vand ud på terræn, så løber det direkte til en vejbrønd. Der kan også være andre steder, hvor man kan få det ud i et grønt areal, hvor det ikke dør til en vejbrønd. Men hvis Vi er i de der typiske kore bebyggelse, som Vi har herovre II den tætte by, så ville den løsning jeg så for mig nok snarere være knække nedløsrørende ud på terræn og så lave sin vandbremse ude på vejbrøndene.
+
+00:34:52
+Ude i gårdene.
+
+00:34:54
+Super.
+
+00:34:56
+Altså en Der er kommet et spørgsmål til dig også, hvor med en lille fin præsentation Katrine hvis det går godt med lærestandens, var det brandforsikring.
+
+00:35:07
+Står de andre forsikringsselskaber, som også i kø, og Det er fra Hanne.
+
+00:35:12
+Det kunne jeg forestille mig. Vi har haft dialog med nogle af dem, men de er lige så langsomt som forsyningsselskaber. Hvis jeg skal være der, er det står store organisationer.
+
+00:35:21
+De rykker langsomt.
+
+00:35:25
+Det det som altså. De er jo godt klar over at at de får glade kunder ved at at at gøre en lille indsats på det her område.
+
+00:35:34
+Super tak og det næste spørgsmål som er lidt en opfølgning for Hanne. Den tror jeg også rammer din tanke Søren fordi Det er hvad er vigtigt for at i kan udbrede jeres løsning, er det forsyningsselskaberne, kommunerne eller forsikringsselskaberne? Og Jeg vil tillade mig at tilføje, om Det er borgerne eller slutbrugerne.
+
+00:35:53
+Så kan i få lov at tage den diskussion, hvor i tænker den ligger henne af?
+
+00:35:58
+Vil du lægge ud, Katrine?
+
+00:36:00
+Altså forsyningsselskaberne de. De har altså i den periode, hvor Jeg har prøvet at snakke med dem, og de først også skulle finde ud af hvem de er og hvad de skal, og at noget på overfladen i virkeligheden er noget, som også er deres opgave. Og Det har Søren jo skubbet med på altså kraftigt på at at overfladeløsninger.
+
+00:36:17
+Det er noget Vi skal arbejde med, så der Der er Sådan en.
+
+00:36:21
+Der er Der er noget historisk der som man ligesom man skal op på overfladen.
+
+00:36:27
+Jeg jeg altså ja du må godt fortsætte så.
+
+00:36:30
+Jamen altså jeg jeg helt tilbage i 2010 tog jeg til USA. Det var før vi rigtig startede med l ar herhjemme og for at blive inspireret på hvad der foregik derovre og Der er i Portland der havde de et et stort opland, hvor de havde besluttet sig for at afkoble 160.000 tagflader.
+
+00:36:46
+Tror jeg Det var eller var det. Jeg tror Det var nej. Jeg tror Det var jo.
+
+00:36:50
+Det var i hvert fald ufattelig masse afflader.
+
+00:36:53
+Og det havde de besluttet at gøre overfor over 15 år, og Det er jo i virkeligheden bare ved at knække nedløbsrøret ud på på terræn og. Og der var ikke sket noget, altså der var. Det var ganske få der var blevet koblet af, og forsyningen havde stået for det.
+
+00:37:04
+Eller kommunens forsyningsform havde stået for det i årevis er pænt hvert år stillet et brev ud, at de var nået 5% af vejen i mål.
+
+00:37:11
+Så tog de en dame af en Petersen, som hedder danske rødder i øvrigt hun. Hun blev ansat, hun havde siddet aids sekretariatet tidligere og havde erfaring med at kommunikere om svære ting.
+
+00:37:20
+Og som hun sagde efter 4 år, så var hun også nået dertil at hun vidste hvad vej vandet løb i nedløbsrør, men Det var Sådan hendes faglige indsigt på det her niveau, men det lykkedes hende altså efter 4 år at komme i mål med alt den der afkobling, og Det var fordi hun havde den der forståelse af at det her. Det er ikke en teknisk udfordring det her. Det er en kommunikationsudfordring, og Jeg tror, at Det er der, man skal angribe den fra forsyningens side.
+
+00:37:40
+Jeg synes klimalancen er et rigtig godt initiativ jeg.
+
+00:37:44
+Ved at Vi skal op på et meget højere dækningsgrad, hvis det Sådan for alvor skal have effekt.
+
+00:37:48
+Og jeg ved også, at hvis Vi skal overbevise forsyningerne, så skal vi vise, at vi kan komme op på højt en højredækningsgrad. Vi skal op i nærheden af noget, der ligner 70% eller Sådan noget i form af Sådan en rigtig kan kan effekt af det her og det Det er jeg ikke i tvivl om. Det kan man sagtens komme, men det kræver, at alle parter møder mere på, og det skal være forsikringsselskaberne, kommunerne og forsyningerne.
+
+00:38:07
+Altså Sådan nogle aktører som Katrine, der gør det i fællesskab.
+
+00:38:12
+Det som som de har sagt nede i Roskilde. Det er, at hvis de skal lægge et rør nede i, altså hvis de skal se klookeret område, så så har de jo en en horisont på 2030 år. Så selvom det her måske for at få overtalt borgerne II det her område op til en 70 procents afkobling af pixel.
+
+00:38:31
+Det tager 3 4 5 år jamen så er det jo stadigvæk hurtigere.
+
+00:38:36
+Det er Sådan den det ene rationelle. Det er at det skal ikke kunne gøres på 4 uger fordi det her Det er. Det er jo opdragelse.
+
+00:38:41
+Det er jo noget som man ligesom skal.
+
+00:38:43
+Skal skal vænne sig til, at Det er den her måde, man gør det på.
+
+00:38:46
+Og og folk de bliver utrolig altså de er utrolig meget med. Altså de er mere med end jeg troede Det var altså. Jeg troede ikke det ville være sjovt at stå ude i klippen langsomt.
+
+00:38:55
+Det er sjovt at stå i klimalancen.
+
+00:38:59
+Og det, og specielt fordi det bliver så jordnært. Altså de kan røre ved tingene de kan se på tingene vi kan gå ind og snakke om deres nedløbsrør lige med det samme og og de vil gerne.
+
+00:39:10
+Udspagt ikke Jesper.
+
+00:39:14
+Til jer der sidder derude. Husk at se jeres sidste spørgsmål her på falderebet, og jeg ved at Det er det spørgsmål jeg kommer til at stille nu. Det vil helt sikkert.
+
+00:39:24
+Få sagt lidt tale på både hos Søren og Katrine, fordi hvordan får vi ændret folks opfattelse af serviceniveau? Det vil sige få borgerne til at acceptere, at der står vand på terræn engang imellem.
+
+00:39:36
+Så hvordan får vi ændret folks opfattelse? Hvem af jer vil lægge for?
+
+00:39:42
+Jamen Jeg vil godt ligge for i virkeligheden så tror jeg at folk altså hvis Vi er folk i forståelsen borgere er nok meget mere åbne overfor det her end vi som planlægger at at forsyningsrådgivere går og tror.
+
+00:39:58
+Jeg den store, den store udfordring. Det er i virkeligheden vanetænkning i kommunerne, forsyningerne, og jeg oplever altså at arbejde med forsyninger og kommuner, som har nogle afløbssystemer i dag, som de kan på mydeller vise er stærkt underdimensioneret.
+
+00:40:12
+Men de har ikke nogen klager, og så arbejder de på at klimatilpasse de her arbejdssystemer, så de kan holde til 100% om 100 år. Det vil altså sige hæve servicemålet altså kapaciteten dramatisk fra i dag. Både så vi hæver servicemålet op til den der 5 10 årsagen som den regel skal plus at vi klima fremskriver til om 100 år og det giver ikke nogen som helst mening.
+
+00:40:32
+Der er jo ikke nogen klager i dag, så Det er igen den der så lidt som muligt og så forståelsen af at at vi må prøve os frem. Vi har også en en vej hvor vi en Kommune når vi arbejder.
+
+00:40:43
+Ved at aflede vand langs kantstenene, og så diskuterede vi meget, hvor meget om vandet egentlig fyldte på vejen, og hvor ofte må det fylde hvor meget og Der er lige så snart den der diskussion kommer op, så må vandet nærmest ikke løbe langs kantstenen. Vejen skal nærmest være tør fra fredag 1. Indtil der så er en fra kommunen, der siger hov derovre i det der område, der har vi da forsøgt det der har vi nogensinde fået klager, og Det har de ikke og og så Jeg tror meget af det her.
+
+00:41:05
+Det er vanetænkning og forventninger, og Jeg tror, at den store barriere ligger.
+
+00:41:10
+Hos os som er fagprofessionelle i det.
+
+00:41:13
+Ikke hos borte.
+
+00:41:16
+Noget af det som også er det, er at det vand som så kommer til at ligge på overfladen. Det skal jo helst være rent altså så det. Det er jo lidt smartere at tage det fra tagene end at tage det fra kloakkerne.
+
+00:41:26
+Enig god pointe.
+
+00:41:29
+Vi skal ikke have flået små flødeskibe løbe rundt i rendestenen igen.
+
+00:41:34
+Et af de typiske spørgsmål, jeg får udviklet med langcen. Det er jamen. Hvad skal der så ske med alt vandet?
+
+00:41:38
+Og så siger jeg til dem. Jamen, hvis i ligesom kan huske min historie fra dengang i 2011, hvor der faldt 150 mm og der også landede 150 mm i min kalder, så så bar jeg jo det samme vand oppe i haven med spande.
+
+00:41:53
+Som min nabo han havde koblet fra i røret, og det havnede det samme sted, så vi ender i haven uanset. Man kan bare selv bestemme hvordan.
+
+00:42:04
+Det er rigtigt. Jamen Der er ikke kommet flere spørgsmål ind, så Jeg vil sige at 1000 tak til Katrine let fra klima lancen og Søren Gabriel fra WSP og så på vegne af mig selv Kristoffer sindby fra OK Nygaard og DNAK så vil jeg ønske jer alle sammen en helt fantastisk påskeferie og håber ikke på i får tørre fødder, men vi får lidt mere regnvand op.
+
+00:42:31
+I terræn så tak til jer 2 for jeres deltagelse i lige måde tak.
+
