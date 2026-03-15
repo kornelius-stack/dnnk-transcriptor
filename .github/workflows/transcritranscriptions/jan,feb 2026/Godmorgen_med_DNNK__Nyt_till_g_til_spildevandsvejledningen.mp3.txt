@@ -1,0 +1,1431 @@
+00:00:05
+Godmorgen til alle og velkommen til godmorgen med DNNK-webinar om nyt tillæg til Spillervandsvejledningen, som er kommunernes planlægning for terræn- og grundvand.
+
+00:00:20
+Mit navn er Christina Momsen, jeg sidder i VSP til daglig, og i dag har vi to oplægsholdere med fra Miljøstyrelsen, som er Carina Ivang Hansen og Johan Albertsen.
+
+00:00:33
+De vil fortælle om det her nye tillæg til Spildevandsvejledningen, hvor det giver det her faglige indblik i den nye vejledning om kommunernes planlægning.
+
+00:00:45
+Det sætter sejligt fokus på de her centrale krav og processer, som kommunerne skal arbejde med i lyset efter den her nye lovgivning, der er trådt i kraft sidste sommer.
+
+00:00:57
+Fokus er særligt den her fastsættelse for kommunernes side af områder i Spildevandsplanen.
+
+00:01:04
+Herunder de nationale og lokale data, der skal anvendes.
+
+00:01:09
+Og de oplysninger, der skal fremgå af Spildevandsplanen.
+
+00:01:13
+Og assureføring af Spildevandsplanen og fastsatte frister.
+
+00:01:19
+Og Spildevandsforsyningsselskabernes forsyningspligt for terræne og grundvand.
+
+00:01:25
+Og...
+
+00:01:27
+Ja, I sidder jo fra Miljøstyrelsens Center for Klimatilpasning.
+
+00:01:31
+Vi er spændte på at høre, hvad I har at sige i dag.
+
+00:01:34
+Men først vil jeg lige sige, at vi meget gerne vil have spørgsmål.
+
+00:01:38
+Det hele bliver også optaget, så man kan selvfølgelig høre det bagefter.
+
+00:01:41
+Men de spørgsmål I stiller, dem skal I skrive ind i chatten.
+
+00:01:44
+Så tager vi det efterfølgende.
+
+00:01:47
+Og generelt, ja, jeres mikrofoner og kamera er jo slukket.
+
+00:01:52
+Så vi tager det alene på skrift.
+
+00:01:55
+Ja.
+
+00:01:57
+Velkommen til Johanna og Carina.
+
+00:01:59
+I må gerne starte jeres oplæg.
+
+00:02:03
+Velkommen til jer alle sammen.
+
+00:02:06
+Jeg hedder Carina Ivang Hansen, som Christina lige sagde, og jeg er jurist i Miljøstyrelsen.
+
+00:02:11
+Vi har glædet os til at komme her i dag, hvis man kan sige det, når det er online.
+
+00:02:17
+For at fortælle lidt om den her vejledning, som Miljøstyrelsen har udgivet, som drejer sig om kommunernes planlægning for terrængnært grundvand, så det er det, der er afsættet for det her oplæg, vi holder i dag, og ikke sådan et terrængnært grundvand i en mere bred forstand.
+
+00:02:37
+Så det, vi vil snakke om, det er de forpligtelser, som kommunerne har.
+
+00:02:42
+Og så kan det være, at vi skal tage en anden runde, som handler om det, som Spillevandforsyningsselskaberne skal gøre i tilknytning til beregningsbekendtgørelsen ved en anden lejlighed.
+
+00:02:54
+Men vil du overtage, Johan?
+
+00:02:57
+Ja, tak for invitationen.
+
+00:02:59
+Jeg hedder som sagt Johan Albertsen, og jeg er AC-tekniker.
+
+00:03:03
+Jeg har miljøøkonomi og statskundskab i baggrund.
+
+00:03:06
+Og så er jeg blevet kastet lidt ind i trænet af en grundmand her.
+
+00:03:10
+Sådan relativt fornyeligt.
+
+00:03:12
+Men jeg vil lægge ud her på oplægget.
+
+00:03:18
+Så kan jeg se, at den ligger beskiftet.
+
+00:03:20
+Ja, altså dagsordenen, den er som Det fremgår her på slidet.
+
+00:03:25
+Først vil vi komme ind på baggrunden for hele det her område og for regelændringerne.
+
+00:03:32
+Og så vil vi kigge lidt på processen omkring fastlæggelse.
+
+00:03:37
+Og så er det som følger.
+
+00:03:39
+Fastlæggelse, område, offentlig indføring, assureføring, spildevandsplan, spildevandsforsyningstilskabernes forsyningspligt.
+
+00:03:46
+Og så vil vi tage de eventuelle spørgsmål, der måtte opstå til sidst.
+
+00:03:50
+Ja.
+
+00:03:52
+Baggrunden er, at vi går fra en individuel til en kollektiv håndtering af udfordringer med terrænet af grundvand.
+
+00:04:00
+Det er formledet af, at der historisk har været superoptimale private løsninger i forhold til privat omfangstren og så videre, og at man kan se økonomiske fordele ved at gør det kollektivt, og så er det også på foranledning af et ønskepræcisært danværkål.
+
+00:04:29
+Og det er så væsentligt, at de skader i de områder, der skal paslægges, de skal jo så være foranlede af terrængnært grundvand.
+
+00:04:36
+Og terrængnært grundvand er jo så forstået som vand, der står under terræn, men som medfølger farer for oversvømmelse af infrastruktur, bygninger eller uønskede insiblinger i spildevandsanlæg.
+
+00:04:49
+Og som I kan se herovre til højre på kortet, så er der jo betydelig store udfordringer med terrænet af grønvand i store dele af Danmark.
+
+00:04:59
+Det skal så lige understreges her, at der er nogle nye kort på vej fra Gavos, som så bliver opdateret i Kamp og HIP inden alt for længe.
+
+00:05:11
+Og det vil selvfølgelig blive kommunikeret ud omkring det.
+
+00:05:15
+Og når de her data er tilgængelige, men indtil videre, så har vi ikke så meget Information omkring det er ikke helt klart endnu, hvordan det overledes at ændre billedet, kan man sige, på national plan.
+
+00:05:31
+I forhold til det her nye regelsæt omkring træning af grundvand, der er det væsentligt at understrege, at de eksisterende regler, som miljøudvurdering og tilladelse, selvfølgelig fortsætter gældende i forhold til håndtering af træning af grundvand, og der skal også planlægges for, Ja, det skal man se.
+
+00:05:51
+Den overordnede proces, ser vi på vores vinkel, er, at kommunen skal ud og fastlægge nogle områder, og der er nogle frister, der er ved at bemærke sig.
+
+00:06:03
+Det er 1.
+
+00:06:04
+juli 2027 og 1.
+
+00:06:06
+juli 2029.
+
+00:06:08
+Den første frist er, at kommunen skal have fastlagt områder, og så efterfølgende, hvis der optræder ny viden osv., taget med ind i den betrækning, jeg så fastlægger i 2029.
+
+00:06:23
+Så følger der et forløb med offentlig høring af de fastlagte områder.
+
+00:06:28
+Så kommer der den her del, som Carina også startede med at nævne omkring, hvor Spildevandselskabet skal udføre de her beregninger omkring Samfundsøkonomisk Selskabsmæssighed for de fastlagte områder, og det vil vi ikke gå så nærmere ind i på den her vejledning.
+
+00:06:43
+Vi vil lige kort nævne det, Bekendtgørelsen er udkommet, men vi vil ikke bænke ligesom genstand for det her oplæg.
+
+00:06:52
+Det vil komme på et næste webinar.
+
+00:06:55
+Kommunens Generalsjur fører Spillevandsplanen, og så igen den offentlige høring og Spillevandsforsyningsselskabernes forsyningspligt.
+
+00:07:03
+Alt det kommer vi ind på på det her webinar.
+
+00:07:09
+I forhold til fastlæggelseopråderne, er det godt at have en god opstart på samarbejdet.
+
+00:07:16
+Det er kun reguleret i paragraf 32C af Miljøbeskyttelsesloven, hvor det fremgår, at der skal foregå en ordentlig drøftelse mellem kommunalbestyrelsen og Spillevandsforsyningsselskabet.
+
+00:07:32
+Dertil kan man sige, at der er brede enigheder om, også på KL's side, at det er en god idé at nedsætte en arbejdsgruppe, fastlægge strategier, prioriteringer, ressourcer fra hvilke områder, Hvor det giver mening at gribe ind.
+
+00:07:50
+Og eventuelle synergier med andre tiltag, grundvandsægnende tiltag.
+
+00:07:54
+Der er mange ting, der er værd at prøfte i starten, i en ældrende fase.
+
+00:08:04
+Derudover er der selvfølgelig også væsentligt at afklare behovet for andre tilladelser allerede her i starten.
+
+00:08:15
+Dertil er det også vigtigt at tænke i, hvordan de bare slagte områder harmonerer med de områder, der senere hen skal foregnes samfundsøkonomisk hensigtsmæssigt.
+
+00:08:29
+Det er godt at tænke det ind, om det er nogle områder, hvor det kan svare sig at lave nogle grundvandsækende løsninger.
+
+00:08:40
+Og så i forhold til selve fastlæggelsen af områderne i forhold til paragraf 7 i Spildevandsbekendtgørelsen.
+
+00:08:47
+Der er det væsentligt at understrege, at det er kommunerne, der bliver myndighed for at kortlægge faren for oversvømmelser af træn og grundvand i de eksisterende og planlagte regnvandskloakerede områder.
+
+00:09:00
+Og det er jo så medudgangspunkt i nationale og eksisterende lokale data og viden.
+
+00:09:04
+Og i forhold til den nationale data, der kan man sige, at det er et minimumsgrundlag, og det er kamp og hip, som det fremgår, der skal anvendes i den her forbindelse.
+
+00:09:15
+Og dertil kan man jo så bruge lokale data.
+
+00:09:21
+Det kan være pejlinger, det kan være indberetninger for borgere, det kan være mange ting, og det er ikke en udsynlig liste af forelæggende lokale data og viden, som der er tale om her.
+
+00:09:32
+Det væsentligste i den forbindelse er jo sådan set, at man får kortlagt dybden variationer til ranglærer, grundvand og får lave en klimafremskrivning af denne, og se, om der er fare for oversvømmelse i de pågældende områder.
+
+00:09:46
+Det vil også sige, at der skal foretages en helhedsvurdering.
+
+00:09:51
+På baggrund af både lokale og nationale data, og lokal viden.
+
+00:09:59
+Det er også det, der er illustreret her til højre.
+
+00:10:04
+Hvordan man går fra et screening af et område, til at fastlægge det.
+
+00:10:08
+i Spillevandsplanen.
+
+00:10:11
+Det er et eksempel på, hvordan man kan anvende nationale værktøjer til at lave den indledende screening og fastlæggelse af områder.
+
+00:10:22
+Her er det bare modgangspunkt i kamp, hvor man kan gå ind og kigge og se på i værktøjet, hvor man har nogle områder, hvor der er udfordringer med terrænet af grundvand, og hvor der er nogle bygninger, i fare for oversvømmelse.
+
+00:10:40
+Det kan også være infrastruktur, og det kan også være i forbindelse med uønsket enzym i vand, som også skal kortlægge faren for spildevandslædningerne.
+
+00:10:51
+Så det kan man få et indledende indblik i her, og så kan man gå ind og kigge på klimaændringerne her, og her anbefaler vi Der tænker vi, at det er en god idé at bruge SP8,5-szenariet til at vurdere, hvordan klimaændringerne påvirker grundvandsstanden fremadrettet i det pågældende område, og så planlægge for det også at tage det med i betragtningen.
+
+00:11:26
+Dertil er det også en god idé at vurdere, hvor sikre kan vi være på de her estimater, der er i den nationale kortlængdingsværktøjer.
+
+00:11:38
+Det kan man gå ind i HIP og undersøge, hvor man kan kigge på, hvad er usikkerheden for det her pågældende område i forhold til de lokale pejlinger.
+
+00:11:48
+Hvad er den, der modulerer de nationale værktøjer, grundvandsstanden i det her niveau i forhold til de lokale pejlinger, og så holde det op imod lokale pejlinger for at få et billede af, om det her er troværdige, påledelige opløsninger for det område.
+
+00:12:04
+Jeg vil henvise til, at KL har udgivet en vejledning, som går mere i dybden omkring at have en praktisk vejledning i, hvordan man kan fastlægge områder til håndtering af terrænet af grundvand.
+
+00:12:20
+Der kan man følge det her link.
+
+00:12:21
+Det skal I nok få tilsendt, hvis I ønsker det.
+
+00:12:29
+I forhold til opkvalificering af data og datainsamling, Der er ikke noget krav om yderligere dataindsamling i de nye lov- eller begengørelse.
+
+00:12:40
+Men det er selvfølgelig en god idé, at hvis der ikke i det pågældende område er tilstrækkeligt data til at lave en god fastlæggelse, hvor fastlæggelsen baserer på et solidt datagrundlag, så er det jo en god idé at gå ud og indsamle mere data.
+
+00:13:01
+så man er sikker på, at området man fastlægger, at der faktisk er nogle udfordringer i det pågældende område.
+
+00:13:09
+Eller omvendt, at man ikke får fastlagt området, hvor der rent faktisk er problemer.
+
+00:13:20
+Og så er der selvfølgelig også en opfordring til at sikre indberetning af nye lokale brugere og pejledata til U-Budget og databasen.
+
+00:13:31
+Og så i forhold til områder, som ikke må fastlægges.
+
+00:13:35
+Det fremgår i paragraf 8, stykke 1 og stykke 2.
+
+00:13:40
+Det er i hvert fald isvæsenligt at sige, at det er i steder, hvor...
+
+00:13:48
+For eksempel, hvor kommunerne har fastsat retningslignende forvejen omkring afhæverforstaltninger, og hvor der skal byudvikling.
+
+00:14:00
+Så er det bygherre, der skal etablere og afholde udgifter til afværger for staldningerne.
+
+00:14:05
+Det er så også reguleret efter planlovens paragraf 11, stykke 1, nummer 18.
+
+00:14:10
+Hinsigten i den her forbindelse er jo så, at man ikke overfører risici fra private bygherre til kollektive midler, som så bliver finansieret gennem vandtaksterne.
+
+00:14:22
+Så det er det her med at undgå risk transfer.
+
+00:14:26
+Jeg tror, at det er sådan set Ja, og så er der den her stykke 2, hvor det er væsentligt, at områder må ikke fastlægges, hvis det er utvivelsomt, at det ikke er samfundsøkonomisk hensigtsmæssigt at forsyne området med grundvandsvinkler fra omstaldninger.
+
+00:14:46
+Det skal forstås sådan, at man umiddelbart allerede indlændingsvis kan vurdere, at det her simpelthen ikke er et sted, hvor det giver mening fra et økonomisk synspunkt at forsyne området med grundvandsvinkler fra omstaldninger.
+
+00:15:00
+eksempler, hvor der ligger meget få ejendomme eller bygninger, og hvor det vil være meget dyrt, uforholdsvis dyrt at etablere en grundværdenssignaløsning til at løse den her problematik for de her få bygninger.
+
+00:15:18
+Og det kunne også være i situationer, hvor der er store mængder vand, der skal renses, for eksempel.
+
+00:15:27
+Det kunne også være et andet scenarie.
+
+00:15:29
+Så det er også en En situation, hvor et område ikke kan fastlægges.
+
+00:15:36
+Så vil jeg give ordet til dig, Carina.
+
+00:15:39
+Tak,
+
+00:15:40
+Johan.
+
+00:15:41
+Nu har man som kommune fået fundet ud af, hvilke områder, man har fastlagt.
+
+00:15:51
+Så skal det ind i Spillevandetsplanen.
+
+00:15:55
+Det er en bestemmelse i paragraf 10.
+
+00:15:58
+som er, som vi kender den, der er ikke noget nyt i den.
+
+00:16:03
+Det betyder, at forslaget til spildevernsplanen skal i første omgang forhandles med en spildevernsforsyningsselskab.
+
+00:16:12
+Derefter skal forslaget offentliggøres med en høringsfrist på mindst otte uger.
+
+00:16:19
+I den forbindelse kan man som kommune vælge, hvad det er, man Derudover, eller i tillæg, har man lyst til at foretage og tiltage, om man vil holde borgermøder.
+
+00:16:32
+I hvert fald i den forbindelse give tid nok til behandling.
+
+00:16:39
+Eller til at borgerne også kan forholde sig til det.
+
+00:16:43
+Og at man også får en ordentlig tid til at forholde sig til forslaget og komme med bemærkninger.
+
+00:16:51
+Det er nok også ydmyndighed i, KL er kommet med et tidsestimat på ca.
+
+00:16:56
+6-12 måneder for politisk behandling og offentlig høring af sådan et spildevandsplanforslag.
+
+00:17:05
+Og det kan jo både være en revision af selvfølgelig spildevandsplanen, og det kan jo også være et tillæg til spildevandsplanen.
+
+00:17:15
+Vil du skifte, Johan?
+
+00:17:18
+Ja.
+
+00:17:20
+Når man så har fået fastlagt områdene i Spildevernsplanen, så er forsyningsselskaberne så forpligtet til at foretage de her samfundsøkonomiske beregninger, som vi har talt om før, og som vi også har sagt ikke er en del af det her oplæg.
+
+00:17:37
+Men nu vil jeg lige kort risse op, hvad det er, fordi at beregningsbekendtgørelsen er troet i kraft.
+
+00:17:44
+Beregningerne går ud på, at man som forsyningsselskab i første omgang skal lave I første omgang skal de ud fra de fastlagte områder på baggrund af kommunen.
+
+00:17:56
+Der skal de så opdele de her områder i projektområder.
+
+00:18:02
+Det giver i højere grad mening i forhold til det konkrete projekt, som man som forsyning forestiller sig er relevant at se på i forhold til håndtering af terrænet grundvand og etablering af grundvandsægne foranstaltninger.
+
+00:18:20
+Så det vil sige, at det er et område, som bliver udstukket inden for det område, som er fastlagt af kommunen.
+
+00:18:32
+Og selve metoden går overordnet ud på, at man laver en farekortlægning, og baggrunden er det en skadeskortlægning og nogle løsningsscenarier.
+
+00:18:44
+Herudefra kan man så beregne en netto nutidsværdi.
+
+00:18:47
+som jo i tilfælde af, at den er positiv af dokumentationen for, at det er samfundsøkonomisk hensigtsmæssigt at lave det her projekt.
+
+00:19:01
+I den forbindelse er det også relevant at tænke projektet ind sammen med projekter, der har andre formål.
+
+00:19:11
+Det kan fx være separat klokkering, men det kan også være andre Forsyningsmæssigt formål, hvor man alligevel er i jorden.
+
+00:19:20
+At det kan give mening.
+
+00:19:22
+Men det kan også tænke sammen på anden vis.
+
+00:19:28
+Som forsyning skal man også inddrage kommunen i det her.
+
+00:19:33
+Det vil sige, at de bliver forelagt i beregninger.
+
+00:19:36
+Det grundlag, som der har været for beregningerne.
+
+00:19:39
+Så kommunen får en mulighed for at komme bemærkninger til.
+
+00:19:45
+Og i sidste ende skal det her så også offentliggøres overfor borgere, så man har mulighed for at få indsigt i, hvad beregningerne er gået ud på, hvad man har lagt til grund.
+
+00:20:03
+Det her kan jo så udmønte sig i, at der skal ske en surføring af Spildevandsplanen.
+
+00:20:14
+Hvis vi vender tilbage til de overordnede to frister, som Johan nævnte til at starte med, så er der i § 9 kommet en frist 1.
+
+00:20:26
+juli 2027 og en frist 1.
+
+00:20:29
+juli 2029.
+
+00:20:33
+Det er kommunerne, som i første omgang skal fastlægge områder, de er forpligtede til, inden 1.
+
+00:20:42
+juli 2027, og det er tænkt som om, at man i første omgang gør det på baggrund af den eksisterende viden, som man har, og som man så også har eventuelt, som Johan talte om, til at starte med sin sammenhæng med Spillevandforsyningsselskabet.
+
+00:21:01
+Det er den delte
+
+00:21:02
+viden.
+
+00:21:05
+Og fristen 1.
+
+00:21:07
+juli 2029 er mere tænkt som en form for opdatering, hvor man har kunnet indsamle ny viden eller data, og på baggrund af det så fastlægger nogle nye områder.
+
+00:21:27
+Ud fra hvad vi ligesom har fornemmet og hørt, så vil der jo være mange områder, nok umiddelbart i hvert fald i en del kommuner, når man går i gang med den her opgave.
+
+00:21:40
+Derfor er der også behov for en prioritering af, hvad det er for nogle områder, som man som kommune vurderer, at det er mest hensigtsmæssigt at få gjort noget i første omgang.
+
+00:21:50
+Det er man i sin frie ret til at foretage den prioritering, som man har lyst til.
+
+00:22:00
+Efter 1.
+
+00:22:01
+juli 2029, der vil løbende være en forpligtelse for for kommunen til at fortsætte at fastlægge de her områder, hvor der er en farve for, at der skal oversvømmes af terrænet.
+
+00:22:18
+Tanken er, at det med tiden vil blive mindre og mindre af det behov, fordi man har det forventes, at man får forhold til de mest presserende områder i de to første ruller.
+
+00:22:40
+I forhold til § 9, stykke 4, så er der også en forpligtelse til, at de her områder, som forsyningsselskaberne har regnet på, det kan jo både blive et positivt eller et negativt resultat.
+
+00:22:56
+Hvis det er negativt, og dermed at der ikke er påvist, at det er samfundsøkonomisk hensigtsmæssigt, så skal områderne så udtages af Spillevarensplanen igen, Det er ikke retvisende, og det er heller ikke i overensstemmelse med forsyningsselskabets forsyningspligt, at området fremgår af Spillevandsplanen længere.
+
+00:23:24
+Det er vigtigt, at Spillevandsplanen er opdateret, så man som borger har mulighed for at se, hvilke tanker og planer, der er.
+
+00:23:38
+i forhold til den her planlægning for terrænet af et grundvand i den kommune, man bor i.
+
+00:23:45
+Jeg tror, det var det for det slide, Johan, hvis det var skidt.
+
+00:23:50
+I pakker 6 i Spillevandsbekendtgørelsen handler det stadig om at få skabt et overblik og en gennemsigtighed for borgerne Dermed er der oplysninger, som man vil sikre sig, skal fremgå af Spildevandsplanen.
+
+00:24:10
+De nye bestemmelser, som gør sig gældende i forhold til terrænet af et grundvand, er, at den geografiske afgrænsning af de områder, som kommunen fastlægger, skal fremgå af Spildevandsplanen.
+
+00:24:27
+Her på sliden kan man markere dem som undersøgelsesområder, Fordi der har været talt en del om det her, hvordan man som kommune skulle gøre over for borgerne, at det er et område, som ikke er endelig fastlagt, men et område, som er ved at blive beregnet eller undersøgt nærmere af Spillevandsforsyningshelskabet.
+
+00:24:51
+Så det er en måde, man kan tilgå det på, så man som borger ikke bliver i tvivl om, hvorvidt det skulle være et endeligt fastlagt område.
+
+00:25:03
+Derudover, Så skal kortlægninger og data, som kommunen og de oplysninger, som de har brugt til at fastlægge områderne, også fremgå.
+
+00:25:15
+Og endelig skal de grundværnsægne foranstaltninger, som forsyningerne når frem til skal bruges til forsyninger og områderne, sammen med den tidsmæssige forventede gennemførsel af selve det konkrete projekt, hvad angivet har i.
+
+00:25:34
+Så det er jo noget, man så gør på bagkanten, når Spildevandsforsyningsselskabet har foretaget sine beregninger.
+
+00:25:44
+Og herudover skal det også fremgå, i hvilket omfang en enkelt ejendom er tilsluttet.
+
+00:25:50
+Og det vil jo være relevant i de tilfælde, hvor man eventuelt har en løsning fra Spildevandsforsyningsselskabets side, som man så kan tilslutte sig som grundvejer.
+
+00:26:08
+I den forbindelse er det også vigtigt at sige, at kommunen kan be Spillemandsforsyningsselskabet om oplysninger, som de skal bruge til planlægning af opgaverne til at fastlægge områderne.
+
+00:26:25
+Man skal være opmærksom på, at det kun er oplysninger.
+
+00:26:29
+som Spildevandsforsyningsselskabet allerede har.
+
+00:26:33
+Det er ikke, fordi man kan be dem som kommuner om at gå ud og lave nogle undersøgelser eller målinger.
+
+00:26:41
+Men det kan de selvfølgelig vælge at gøre på eget initiativ.
+
+00:26:47
+Kan jeg få det til at skifte, Johan?
+
+00:26:49
+Ja, selvfølgelig.
+
+00:26:51
+Tak.
+
+00:26:53
+Det her udmyndter sig i, at Når man som kommune har fået fastlagt de her områder i Spillevandsplanen, og Forsyningerne har beregnet på det, så ser Spillevandsforsyningsselskabens forsyningspligt anderledes ud, end den har gjort før.
+
+00:27:14
+Fordi nu har man som Spillevandsforsyningsselskab også ansvar for at forsyne med de her grundvandsægne foranstaltninger i forhold til områder, som er fastlagt i Spillevandsplanen.
+
+00:27:29
+og som er afgrænset til at skulle være inden for de områder, som er klorkeret for tag og overfladevand, og hvor der så også er blevet fundet et samfundsøkonomisk hensigtsmæssigt resultat eller et positivt resultat i forhold til de her beregninger.
+
+00:27:50
+Det medfører en forsyningspligt.
+
+00:27:53
+Derudover er det så også et krav, selvfølgelig, at de skal opfylde De løsninger, man når frem til, skal opfyldes i anden lovgivning.
+
+00:28:04
+Man skal selvfølgelig kunne lave en miljøudvurdering.
+
+00:28:09
+Man skal kunne få de tilladelse, som måtte være nødvendigt.
+
+00:28:13
+Det vil være tilladelse til grundvandsænkning efter vandforsyningsloven, eller en udlændingstilladelse til det her terrænet af grundvand, for at der er tale om en decideret forsyningspligt.
+
+00:28:27
+Det skal også siges, at det afledte terrænet af grundvand, det vil blive håndteret som spildevandsforsyningsselskab som udgangspunkt.
+
+00:28:38
+Anlæg, der afleder det her terrænet af grundvand, de bliver dermed også en del af spildevandsanlæg eller deres ledningsnet.
+
+00:28:52
+Man kan sige, Regler som vi kender til i forhold til tilslutning og påbud, der er det den samme regulering, som vi allerede kender i dag, som også gør sig gældende i forhold til reglerne her om terrænet Grundvand.
+
+00:29:15
+Derudover kan man se, at der er en regulering i miljøopskyttelsesloven i forhold til, hvordan den her udmyndning af selve forsyningspligten skal ske.
+
+00:29:27
+I forhold til omfang og tidsfrist.
+
+00:29:30
+Som skal aftales mellem kommunen og Spillevandsforsyningsselskabet.
+
+00:29:37
+Ja, det tror
+
+00:29:41
+jeg.
+
+00:29:42
+Så er det et
+
+00:29:43
+spørgsmål.
+
+00:29:43
+For så vidt, at det var ordene for
+
+00:29:46
+oplægget.
+
+00:29:48
+Mange tak for jeres oplæg.
+
+00:29:54
+Meget spændende at høre.
+
+00:29:56
+hvad det nyeste tillæg udgør.
+
+00:29:59
+Og vi har faktisk en række spørgsmål allerede i chatten.
+
+00:30:03
+Så jeg tænker egentlig bare at tage det fra den ene ende af.
+
+00:30:07
+Camilla hun spørger er data i kamp og hip
+
+00:30:11
+godt nok?
+
+00:30:14
+Det er jo et godt spørgsmål.
+
+00:30:19
+Man kan sige altså, det er klart at Det, der bliver sigtet på, er, at man laver en helhedsvurdering.
+
+00:30:30
+Og at KramperHIP-data derfra er et minimumsrumlag, som det er nu.
+
+00:30:35
+Så det er jo tanken, at man skal forsøge at generere det bedst mulige datagrundlag til at lave fastlæggelsen.
+
+00:30:45
+Og som det så også fremgik i oplægget, som det er lige nu, så bliver data, både i kamp og hip, opdateret inden længe.
+
+00:30:58
+Jeg har ikke orienteret, hvad det kommer til at indbære, men jeg har bare fået at vide, at udmeldingen er, at det bliver mere retvisende.
+
+00:31:08
+Så andet er der ikke rigtigt at sige til det herfra lige
+
+00:31:13
+nu.
+
+00:31:13
+Vi er godt klar over, at det er et varieret grundlag, det data, som er i hip og kamp, Det har vi været klar over, men det har været nødt til at være et minimums udgangspunkt for fastlæggelseområderne.
+
+00:31:31
+Det er den viden, vi har at stå på nationalt plan.
+
+00:31:37
+Det er derfor, det er det, der er blevet sat ind som et udgangspunkt, og så kan man måske nok supplere det med lokal viden og data for at gør det lidt mere validt i forhold til, altså i det omfang, man har de her
+
+00:31:58
+data.
+
+00:32:00
+Ja, helt sikkert.
+
+00:32:02
+Jeg tænker også, det handler jo også måske om den her balance mellem de nationale, bedstegængelige data, vi jo har i HIP og KAMP.
+
+00:32:08
+Men også, hvis I kunne sige lidt om balancen eller vægtningen, når man har et udgangspunkt, man har i HIP og KAMP, og godt ved det måske ikke er det repræsentative, hvad handler det sig om i forhold til at huske at anvende det her lokale pejlinger, vi har, som findes derude.
+
+00:32:23
+Der er jo også en masse virksomheder, der har fået det her data ind, hvis jeg kunne drøfte det lidt eller uddybe den her balancegang mellem data fra Hippokamp og
+
+00:32:37
+det
+
+00:32:37
+lokale.
+
+00:32:40
+Ja, altså det er...
+
+00:32:41
+Nu spørger du måske lidt ind til det her med usikkerheden på nationale data.
+
+00:32:45
+Er det den, du spørger lidt ind til?
+
+00:32:47
+Jeg tror ikke, at jeg forstod det eller...
+
+00:32:49
+Ja, ja.
+
+00:32:50
+Ja, altså, der skal jo ikke være nogen skygge hul om, at der er, som vi også lige har nævnt, altså der er jo, og det tror jeg alle ved, at der er usikkerheder, især lokalt, og især meget sådan, altså, ja, der er lokale usikkerheder.
+
+00:33:06
+Og det er jo tanken, at man kan bruge lokale data til netop at gå ind og så sige, okay, kan vi i det her område, er national data så tilstrækkeligt, i forhold til datakvaliteten til at fastlægge i det her område.
+
+00:33:24
+Så det er jo sådan tanken, at man ikke skal gøre sig umag i fastlæggelsen i forhold til at bruge det bedst tilgængelige data til at fastlægge områderne på et retvisende datagrundlag.
+
+00:33:40
+Og det kan jo være, som det også fremgik i oplægget, så er det jo en ikke udtunget liste af data, man kan ændre af den forbindelse.
+
+00:33:48
+Så det er jo...
+
+00:33:50
+Det må sådan
+
+00:33:52
+være.
+
+00:33:53
+Og på det mere overordnede plan, som Johan også sagde i sit oplæg, er det en opfordring til, at man som kommune indberetter nye data til Jupyter Databasen, og så får et bedre grundlag at stå på længere sigt.
+
+00:34:08
+Det her handler jo meget om, at nu har vi fået reglerne at komme ud og komme i gang, altså at gøre det på bedst mulig
+
+00:34:16
+vis.
+
+00:34:17
+En rigtig god pointe med at huske at indberette til Yuppie Toiletbasen og få sin bykærer til at indberette, når de foretager undersøgelser.
+
+00:34:25
+Så har vi det næste spørgsmål fra Jette, som spørger, kan kommunen nøjes med at udpege f.eks.
+
+00:34:33
+ét område i første omgang, eller skal alle områder udpeges inden 1.
+
+00:34:38
+juni 2027?
+
+00:34:41
+Altså hvis det er en vurdering fra Jeg tænker, det ser meget forskelligt ud, og det varierer fra kommune til kommune, hvor mange områder man vurderer, der er i far for oversvømmelse af terrænnært grundvand.
+
+00:34:56
+Så hvis man vurderer, at det er et område, som er det, der skal udpeges eller fastlægges, så kan man godt gøre det.
+
+00:35:12
+Og så kan man jo supplere med de her undersøgelsesområder, hvis man vil være mindre fastsat.
+
+00:35:18
+Var det ikke også det, jeres pointe var?
+
+00:35:20
+Nej, det er egentlig også det, der er fastlagt i Spillevandsplanen, det som jeg talte om med undersøgelsesområder.
+
+00:35:26
+Det var mere i forhold til kommunikation med borgerne, at det måske var bære at kalde undersøgelsesområder, så man ved, at det er noget, der er ved at blive undersøgt, at der skal beregnes på at spille vandsforsyning i selskaberne.
+
+00:35:44
+Man kan jo så følge op i 2029 med flere områder.
+
+00:35:51
+Det er jo så i hvert fald tanken, hvis man begrænser sig meget i det første rulle til 1.
+
+00:35:58
+juni 2027.
+
+00:36:01
+Så spørger Flemming.
+
+00:36:05
+Er forsyningerne forpligtede til at foretage de samfundsmæssige beregninger imellem skæringspunkterne 1.7.27 og 1.7.29?
+
+00:36:14
+Eller kan de vælge at afvente
+
+00:36:16
+til efterfølgende?
+
+00:36:20
+Man kan sige, at de er forpligtede til, når det er kommet ind og blevet fastlagt af kommunen i Spilverdensplanen, til at foretage de her beregninger.
+
+00:36:30
+Der er ikke angivet nogen tidsfrister for.
+
+00:36:32
+Hvornår det skal ske i reguleringen.
+
+00:36:37
+Det er i høj grad op til Kommune og Forsyning at få aftalt det.
+
+00:36:43
+I sidste ende vil der også være en mulighed for Kommunen til at give påbud til Forsyningen om at foretage beregningerne, hvis de gør det.
+
+00:36:52
+Det tror jeg lige i første omgang er en ting, den skal afklares Kommune og Forsyning imellem.
+
+00:37:01
+Der er nogle knapper at trykke på, hvis man som kommune ikke synes, at forsyningen gør det hurtigt
+
+00:37:07
+nok.
+
+00:37:08
+Så spørger Dorte, kan man udpege et område til regnvandsklurkering samtidig med, at det også udpeges til undersøgelsesområdet for terræn
+
+00:37:20
+og grundvand?
+
+00:37:22
+Det tænker jeg godt, at man kan.
+
+00:37:26
+På den måde kan man godt forestille sig, at man får lavet løsningen.
+
+00:37:31
+for håndtering af terrænet af grundvand og tag over overfladevand på
+
+00:37:36
+samme tid.
+
+00:37:39
+Vi har et spørgsmål fra Søren.
+
+00:37:43
+Er der klarhed over, hvordan vi skal håndtere tilladelser til udledning eller afledning af terrænet
+
+00:37:50
+af grundvand?
+
+00:37:54
+Der må jeg jo lidt henvise til den eksisterende regulering, som er i forvejen, og som vi egentlig har lavet nogle ændringer af i forbindelse med det her tiltag om terrængnært grundvand.
+
+00:38:10
+Så jeg ved ikke helt præcis, hvad han mener med afklaring.
+
+00:38:14
+Om det er afklaringen af selve udledningstilladelserne, som er i det regier, og hvordan man meddeler dem.
+
+00:38:21
+Men man er jo nødt til at se på selve kvaliteten af det her vand, som skal og i den forbindelse vurderer, hvad der måtte være nødvendigt af rensning for, at det kan
+
+00:38:38
+udledes.
+
+00:38:40
+Vi har et spørgsmål fra Birgit.
+
+00:38:47
+Skal undersøgelsesområderne uploades til PlanData?
+
+00:38:51
+I givet fald findes der et undersøgelsesområder-rubrik
+
+00:38:55
+i plandata.dk.
+
+00:38:59
+Det er ikke kommet ind som en forpligtelse i Spillevandsbekendtgørelsen endnu.
+
+00:39:06
+Og nu sagde jeg endnu, at det skal oplåtes, men der bliver arbejdet på en løsning, så der skal gøres noget i forhold til plandata.
+
+00:39:18
+Men det er ikke noget, der ligger fast endnu.
+
+00:39:21
+Men det skal vi selvfølgelig nok sige mere om, når der er noget mere.
+
+00:39:29
+Konkret på trapperne i hvert fald.
+
+00:39:31
+Så skal vi nå at gå ind til
+
+00:39:32
+det her.
+
+00:39:35
+H&M Lemming spørger.
+
+00:39:39
+Er der tilslutningspligt til en kollektiv løsning til sænkning af dets rangnære grundvand?
+
+00:39:43
+For eksempel hvis der etableres et tredje rør til omfangsdrener og lignende.
+
+00:39:47
+Forpligtes grundejerne så til at
+
+00:39:49
+etablere omfangsdren?
+
+00:39:52
+Men er der et tilslutningspligt?
+
+00:39:58
+Man forpligtes ikke til at etablere et omfangsstræn som sådan, men hvis man har et omfangsstræn, så vil man forpligtes til at tilslutte sig forsyningens løsning, ligesom vi kender det i dag med
+
+00:40:14
+spildevand.
+
+00:40:17
+Og Laurits spørger, Lokale faktuelle grundvandsdata går naturligvis forud for modulerede data, der udmelder kamp- og hipsfagfolk og sig selv naturligvis.
+
+00:40:32
+Det var nok en konstatering mere end et spørgsmål.
+
+00:40:34
+Hvis du har det i spørgsmålsform, Laurit, så må du skrive igen.
+
+00:40:39
+Og Sten han har også en, jeg ved ikke om det er et spørgsmål, men lad mig læse det op.
+
+00:40:45
+Sten han skriver, Hvis det skadevoldne trængende af grundvand ikke stammer fra opstigende grundvand, altså kildevæld, men kun opstår, fordi nedbør ikke kan trænge ned i undergrunden, så vil den årlige mængde grundvand være begrænset til nedbørsmængden over området.
+
+00:41:00
+Når drænsystemet har fjernet grundvandstrykket, vil der ikke være mere at fjerne.
+
+00:41:05
+Drænsystemet vil derfor i lang periode være uden vandføring.
+
+00:41:08
+Skal der altid etableres i træet et ledningsnet, eller må man benytte en separat regnvandsledning eller et eksisterende fællesystem?
+
+00:41:20
+Det var meget teknisk til
+
+00:41:21
+at starte med.
+
+00:41:22
+Jeg ved ikke, om jeg
+
+00:41:23
+fik fat på det hele.
+
+00:41:24
+Det, som jeg forstår, er essensen af det, er, at der ikke stilles nogen bestemte krav til, hvad det er for en løsning, man etablerer.
+
+00:41:35
+Man tænker også sagt, at man kan forestille sig, at man bruger et etableret system, hvis det ikke giver mening, at føre det terræn her sammen med regnvand, for eksempel.
+
+00:41:51
+Jeg håber, det var tilstrækkeligt, og ellers skal man jo også være velkommen til at henvende sig til os i Miljøstyrelsen med spørgsmål i det hele
+
+00:42:05
+taget.
+
+00:42:05
+Ja, helt sikkert.
+
+00:42:08
+Så har vi et spørgsmål mere fra mig.
+
+00:42:11
+Hvordan foretages afgrænsningen af et område
+
+00:42:14
+i udpegningen?
+
+00:42:19
+Jeg tænker, at det hun mener, at det er, hvis man har fastlagt et område som kommune, og som spillevandsforsyningsselskab skal afgrænse det i forhold til et projektområde.
+
+00:42:34
+Det beror meget på, hvad man vælger som løsning, eller hvad der giver mening ud fra de mere præcise, konkrete forhold, som foreligger i det område, som selskabet Måske i højere grad har viden om eller ved, hvad er nødvendigt, når de ved, hvilken løsning man tænker på.
+
+00:42:57
+Området skal ligge inden for det areal, som kommunen har fastlagt.
+
+00:43:06
+Om det er mindre, eller er det samme område, som er fastlagt som kommunen?
+
+00:43:12
+Det må bero på de
+
+00:43:13
+konkrete forhold.
+
+00:43:18
+Man kan jo også sige, at når det er frem til 2029, så kommer der også det her opdateret hipkonlas.
+
+00:43:24
+Der er jo formentlig også et andet udgangspunkt at se ind i der.
+
+00:43:29
+Så spørger Elisabeth, der mangler en afgrænsning i forhold til minimum og max, antal boliger og areal i udpegningen.
+
+00:43:42
+Hvordan skal vi forholde os til dette?
+
+00:43:44
+Er det bare
+
+00:43:44
+lokale kriterier?
+
+00:43:49
+Der er ikke fastlagt et minimum og et max.
+
+00:43:54
+i reguleringen som sådan.
+
+00:43:57
+Men der er jo det her overordnede kriterie om, at det skal være samfundsøkonomisk ansigtsmæssigt.
+
+00:44:03
+Så det går nok op med sådan en undergrænse i forhold til, hvor få ejendomme man kan nå ned på, for at det skal have en samfundsøkonomisk effekt.
+
+00:44:18
+Vil du supplere Johan?
+
+00:44:20
+Ja,
+
+00:44:20
+det er rigtigt nok.
+
+00:44:21
+Det er jo det, der er guidesnoren.
+
+00:44:26
+Det er, om det er samfundsøkonomisk indsigtsmæssigt at forsyne med kollektiv grundmændssænkning foranstaltninger i pågældende område.
+
+00:44:34
+Og så kan man jo sige, at hvis der er for få ejendom, og der ikke findes en løsning, hvor det giver mening at bruge den løsning for at afgør problematikken i det område, og det ikke er samfundsøkonomisk hensigtsmæssigt, så er det jo på den måde afgrænset.
+
+00:44:55
+Så det er ligesom det, der er rettesnoren i den forbindelse.
+
+00:45:02
+Jeg
+
+00:45:05
+har et spørgsmål fra mig, som spørger, så det er selskabet, der foretager den egentlige fysiske afgrænsning.
+
+00:45:14
+Er
+
+00:45:14
+det korrekt?
+
+00:45:17
+Ja, det kan man godt sige det er, fordi udstik er det relevante område, som skal forsynes med de
+
+00:45:23
+her grundvandtægte foranstaltninger.
+
+00:45:26
+Yes.
+
+00:45:28
+Og Birgit spørger, hvornår
+
+00:45:29
+forventes
+
+00:45:30
+opdatering af HIP-data?
+
+00:45:32
+Er det i løbet af de næste måneder eller først 27 eller 28?
+
+00:45:36
+Hvis I kan løfte sløret.
+
+00:45:37
+Nu er det jo ikke jeg, der sidder med den data.
+
+00:45:40
+Nej,
+
+00:45:40
+det er det ikke.
+
+00:45:41
+Det er det eneste, jeg ved.
+
+00:45:43
+Det er jo GEVS, der står med det, og ikke også Miljøstyrelsen.
+
+00:45:48
+Det eneste.
+
+00:45:50
+Men vi vil da helt sikkert i DNNK eller vi vil opsøge at lave et webinar med Geos, når det kommer ud det her data.
+
+00:46:00
+Og så spørger jeg mig, kan selskabet anvende taktsmidler før den kommunale udpegning, der efterfølgende kan dækkes eller efter udpegningen af et område?
+
+00:46:15
+Ja, om der kan
+
+00:46:16
+anvendes
+
+00:46:16
+taktsmidler.
+
+00:46:21
+Kan selskabet anvende taktsmidler før den kommunale udpegning, der efterfølgende kan dækkes efter udpegningen af
+
+00:46:34
+et område?
+
+00:46:38
+Man kan sige, at det man søger taktsmidler til er vel selve projektet.
+
+00:46:47
+Jeg er ikke helt sikker
+
+00:46:47
+på...
+
+00:46:48
+Du må gerne uddybe mig i chatten, hvis du lige kunne...
+
+00:46:52
+Hvad er det, du er
+
+00:46:53
+mest usikker på, Carina?
+
+00:46:55
+Spørgsmålet.
+
+00:46:57
+Jamen, hvad det er, man søger taktsmidler til inden en kommunal...
+
+00:47:02
+Altså, hvis det er om det er Spillevandforsyningsselskaber, man kan gå i gang med at beregne nu, inden der er et fastlagt grundlag.
+
+00:47:10
+Øh...
+
+00:47:13
+Altså...
+
+00:47:14
+Hun skriver, hvis
+
+00:47:15
+der er behov for yderligere data før udpegningen.
+
+00:47:18
+Nå,
+
+00:47:19
+okay, så hvis de skal ind og hente data, eller forsyningen vælger at finde data, så tænker jeg, og det er jo som et forbehold for, at det ikke er os, der sidder med den økonomiske regulering, men det er over i kæften, at man vil kunne få dækket det her, eller få tillæg for de data, som man indsamler.
+
+00:47:51
+Men det, tænker jeg, må være et led i den mere eller mindre almindelige drift af forsyningen, at man gør det.
+
+00:47:58
+Jeg vil altså gerne have, at det er energistyrelsen eller kæften, der forholder sig til det her spørgsmål, for at I er sikre på at få
+
+00:48:10
+det rigtige svar.
+
+00:48:11
+Så kontakt dem, hvis det Der er spørgsmål i denne retning.
+
+00:48:17
+Så spørger Elisabeth, skal særligt udsatte boliger, boliger med kælder eller boliger fra for eksempel før 1973, vægtes højere i screeningen og selve udpegningen?
+
+00:48:29
+Altså om der er en vægtning i den her screening i forhold til
+
+00:48:32
+særligt udsathed?
+
+00:48:36
+Umiddelbart, tænk.
+
+00:48:38
+Hvad var det du grinede, når du kunne starte?
+
+00:48:42
+Altså udenbart ikke, nej.
+
+00:48:44
+Man kan sige, at der er lagt lidt op til, at det er jo de mere udsatte bygninger, og derved vil man måske også forvente større potentielle skader på de her bygninger, og derved så kan der være et grundlænge for, hvor det bliver mere samfundsøkonomisk hensigtsmæssigt at lave en kollektiv, eller forsyne det om, hvor de her bygninger måtte ligge, med grundlæggende foranstaltninger.
+
+00:49:08
+Så på den måde kan man sige, at det er indtænkt.
+
+00:49:15
+Jeg ved ikke, hvad du
+
+00:49:16
+tænker, Carina.
+
+00:49:18
+Om det er lidt at foregribe det videreforløb i forhold til beregningerne, kan man sige.
+
+00:49:24
+Det bliver udmyndiget i forhold til at foretage de her samfundsøkonomiske beregninger.
+
+00:49:31
+I første omgang, hvor det drejer sig om kommunernes fastlæggelse, så er det ikke.
+
+00:49:39
+så bliver det jo ikke sådan en konkret udmønding i forhold til nogle beregninger
+
+00:49:45
+og skader.
+
+00:49:49
+Ja tak.
+
+00:49:51
+Så har vi en opdatering for, hvornår Geos data kommer, kan jeg se.
+
+00:49:59
+Mads Ullande Rasmussen skriver, at vi forventer, at opdateringen 10 meter trangende af grundvandlaget fra Geos kommer i løbet af marts.
+
+00:50:08
+public service info i løbet af marts.
+
+00:50:14
+Det er ret snarligt i forhold til at det kan indgå som en del af kålgrundlaget.
+
+00:50:30
+Så spørger Allan.
+
+00:50:34
+Kan man udpege områder i kloakkerblandet, separalt kloakkeret med nedsivning af tagvand, hvor forsyningsselskabet kun håndterer overfladevandet, men hvor tagvandet skal nedsives af
+
+00:50:47
+grundejer selv?
+
+00:50:51
+Altså så forsyningen håndterer overfladevandet,
+
+00:50:56
+men grundejer nedsiver kun tagvandet?
+
+00:51:03
+Hvor forsyningsselskaberne kun håndterer overfladevand, men hvor tagvand skal nedsives af gårdenejere
+
+00:51:10
+selv?
+
+00:51:13
+Det vil jeg ikke lige svare på.
+
+00:51:18
+Tænker jeg ikke.
+
+00:51:21
+Men du skal være velkommen til at sende en mail.
+
+00:51:26
+Så skal vi nok se
+
+00:51:28
+på det.
+
+00:51:29
+Ja, det er en god idé.
+
+00:51:33
+Louise spørger, er det blevet fastlagt, hvor stort et område man må inddrage ved vurdering af samfundsøkonomisk hensigtsmæssighed?
+
+00:51:41
+For eksempel, er det tilladt at benytte hele vandoplandet, da det samlet set kan bidrage til skadesvoldene af grundvand i et nedstrømsområde?
+
+00:51:50
+Det er dog kun de nedstrømsområder, at skaderne opstår og kan afhjælpes, selvom hele oplandet har indflydelse på skadesomfanget.
+
+00:52:01
+Om det er fastlagt, hvor stort et område, man må inddrage?
+
+00:52:07
+Nej,
+
+00:52:08
+det er ikke reguleret som sådan.
+
+00:52:11
+Men det skal jo lidt tænkes ind.
+
+00:52:16
+Jeg synes ikke, det er et eksempel, at hun kommer med sig helt ud i skoven.
+
+00:52:20
+Men det er jo mere, hvis man som kommune fastlægger hele sin kommune.
+
+00:52:25
+Så skal man måske, som forsyning på en rigtig stor regneopgave, Så det giver jo mening at tænke ind, hvad der vil give mening i forhold til de enkelte projekter eller de her grundværnstænkende forestillinger, som selskabet skal sætte i gang.
+
+00:52:47
+Det tror jeg simpelthen lige er det bedste, jeg kan sige.
+
+00:52:50
+Men det er i hvert fald et nej til, at der ikke er nogen grænser for, hvor store de her områder
+
+00:52:57
+må være.
+
+00:53:01
+Spørg mig.
+
+00:53:02
+Når et område er fastlagt i spildevandsplanen, kan selskabet så bruge tid på at kvalificere data og eventuelt herved komme frem til, at området ikke har udfordringer med terrænglært grundvand, som først antaget af kommunen, og derved ikke skulle foretage en
+
+00:53:18
+samfundøkonomisk beregning?
+
+00:53:25
+Øh...
+
+00:53:28
+Altså ja, de kan jo godt kvalificere.
+
+00:53:31
+data for området, som er fastlagt.
+
+00:53:37
+Og jeg ved ikke, hvis der ikke er nogen problemer med terrænet af et grundvand, så vil der heller ikke være skader, kan jeg ikke forestille mig.
+
+00:53:48
+Og så den der beregning.
+
+00:53:51
+Jeg vil ikke sige her, om man skal foretage en beregning eller ej, men altså så går beregningen jo ret hurtigt i null, hvis man ikke har nogen skader,
+
+00:53:58
+tænker jeg.
+
+00:54:02
+Hvis man noterer, at der ikke er udfordringer, så er du heller ikke skadet.
+
+00:54:06
+Så spørger Didem.
+
+00:54:08
+Kan supplerende data være andre nationale eller offentligt tilgængelige data, eller skal det være lokale
+
+00:54:14
+egne data?
+
+00:54:18
+Der er ikke sådan sat en afgrænsning på, hvilke data.
+
+00:54:22
+Der står suppler med lokale data.
+
+00:54:26
+Og inden for den ramme, kan man sige, Der er det en ikke udtyndende liste, der taler om.
+
+00:54:35
+Så der ligger meget, man kan supplere med i den forbindelse.
+
+00:54:40
+Gatakilder.
+
+00:54:43
+Ved I om det
+
+00:54:45
+svarer nok på spørgsmålet?
+
+00:54:46
+Jo, det tror jeg det er.
+
+00:54:49
+Så har vi faktisk ikke flere spørgsmål.
+
+00:54:51
+Og nu er vi også næsten gået en time.
+
+00:54:55
+Så det passer meget godt.
+
+00:54:56
+Vedmindre der er nogen, der lige har et sidste spørgsmål på fallerebet.
+
+00:55:00
+Så, som det ikke ligner, så vil jeg egentlig sige tak til jer to.
+
+00:55:05
+Tak til Irina og Johan for at stille op og gennemgå det her tillæg til Spildevandsplanen.
+
+00:55:12
+Selv tak.
+
+00:55:13
+Det var spændende.
+
+00:55:14
+Og vi ser jo frem til det kommende webinar, hvor I gennemgår den her del om det skades, ja, mæssige beregning.
+
+00:55:22
+Så tusind tak.
+
+00:55:24
+Og hvis der er mere interesse for Klimakalenderen og DNRK's videre arbejde, så er der enormt mange webinar og temadage her den næste måned.
+
+00:55:36
+Blandt andet i forbindelse med havniveau i Danmark, og fremtidens kystbeskyttelsewebinar, og der er også naturbaserede løsninger i Aarhus, der bliver fortalt om, Og der er også et webinar senere på måneden om social retfærdighed.
+
+00:55:56
+Så det er den brede skare af tiltag.
+
+00:56:00
+Vi fortæller om et forskelligt webinar i det kommende måned.
+
+00:56:04
+Så kig ind i klimakalenderen og se om der er noget, der er interessant.
+
+00:56:08
+Og ellers så tror jeg, vi siger tak til Johan og Carina.
+
+00:56:12
+Og måske på gensyn til et kommende webinar.
+
+00:56:17
+Tak for nu.
+
+00:56:18
+Tak for nu.
+

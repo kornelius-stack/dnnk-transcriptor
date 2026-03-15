@@ -1,0 +1,780 @@
+00:00:12
+Godmorgen, og velkommen til Godmorgen med DNNK. Mit navn er Ronja Forkammer, og jeg skal være jeres vært her den næste timestid. Vi har rigtig mange tilmeldte i dag. Et sted lige omkring i 240. Og vi skal altså også forbi et emne, der er rimelig aktuelt lige for tiden.
+
+00:00:28
+Vi skal nemlig sætte fokus på terræne og grundvand i relation til den nye lovgivning. Og til det har vi inviteret Rambøl ind, som vil dele deres praktiske eksempler og erfaringer fra arbejdet med den nye lovgivning.
+
+00:00:39
+Først skal jeg lige sige, at vi optager webinaret, og optagelserne vil så efterfølgende blive vist i vores vidensbank, som I kan tilgå via DNNK's hjemmeside. Så er I også meget velkommen til at stille spørgsmål i chatten undervejs.
+
+00:00:53
+Jeg samler op på spørgsmålene til sidst, når oplægget er færdigt, og så tager vi dem samlet der. Og ellers vil jeg gerne byde velkommen til Mette Ryum-Nielsen, seniorprojektchef hos Rønbøl, og Johanne Urup, geolog og projektleder hos Rønbøl, som er de to oplægsholdere i dag.
+
+00:01:08
+I vil komme ind på, hvordan undersøgelsesområder kan udpeges i Spillevandsplanen, hvordan skade på bygninger og infrastruktur kan vurderes, og hvilken effekt forskellige grundvandssænkende løsninger kan have.
+
+00:01:19
+Og så vil I dele nogle erfaringer med dataindsamling, monitoring og håndtering af problemstillinger i praksis. Og med de ord, så vil jeg give ordet videre til jer, Mette og Johanne.
+
+00:01:29
+Mange tak for det. Og mange tak, fordi I vil bruge jeres morgen her sammen med os med det her meget spændende emne om trængværk, grundvand Lige kort om mig selv, Johanna og jeg. Som sagt er jeg projektchef hos GrønVand, har arbejdet med GrønVand i over 20 år.
+
+00:01:50
+Tidligere den dybe del af GrønVand, og de seneste år har jeg bevæget mig mere op til overfladen. Jeg synes, det er utrolig spændende med den her nye lovgivning, hvor vi skal arbejde sammen med vores kollegaer. Jeg er folk i branchen inden for byggeri, transport, klimatilpasning og afløb. Johanne.
+
+00:02:13
+Jeg hedder Johanne, og jeg sidder på den anden side af vandet. Mette sidder i Aarhus, og jeg sidder i Ørestad i København. Jeg er geolog på baggrund, og jeg har arbejdet med grundenvand i over 20 år også. Jeg har både arbejdet med den dybe og den terrænlære del.
+
+00:02:27
+Inden for de sidste 10 år har jeg arbejdet en del med praktisk mere overfladernært grundvand, fordi jeg har siddet en del med at se på, hvad mulighederne for nedsivning af regnvand, som jo så er det, der også kan betyde noget i forhold til et regnvandgrundvand.
+
+00:02:43
+Så det her med at løse det på den her måde, som man, hvad er det, man kan gøre med et regnvandgrundvand? Hvad er det for nogle konflikter og alle de der ting der? Det her, jeg har haft ret til det på livet på mange måder, kan man se. Så det er jo stadigvæk rigtig meget, vi også er ved at lære.
+
+00:02:59
+Så det her er jo et helt nyt område i forhold til samarbejder også.
+
+00:03:04
+Og som der blev sagt, vil vi komme ind på de her tre emner. Lidt omkring den her udpegning af undersøgelsesområder med fokus på et solidt datagrundlag. Og hvad er det egentlig? Hvordan sikrer vi os det? Vi har lidt praktiske erfaringer med omkring skader forårsaget trængende af grundvand.
+
+00:03:25
+Og lidt omkring den senere del af processforløbet omkring vurdering af effekter af forskellige løsninger. Så lidt praktiske erfaringer, som relaterer sig til den her nye lovgivningsproces.
+
+00:03:38
+Og inden vi lige kaster os over de her praktiske erfaringer, så vil jeg lige relatere det til den her lovgivningsproces, som vi har delt op i de her syv trin. Og hvis I kender KL og Danmarks bud på processen under lovgivning, så ligner den relativt meget den her proces, vi har sat op.
+
+00:04:01
+Vi har dog et trin 2, som vi mener er vigtigt at få særlig fokus på tidligt i processen, og det er det her med datagrundlaget. Fordi vi skal have en fokus og en sikkerhed for, at de her relativt store investeringer, som den her proces kan munde ud i, bygger på et solidt datagrundlag.
+
+00:04:22
+Så der har vi sat et trin ind, hvor det er fokus at få det sikret. Og gennem det her procesforløb, så er der jo forskellige skiftende, ansvaret mellem kommuner og forsyninger, som vi har prøvet at indikere her igennem processen.
+
+00:04:38
+Og jeg vil ikke gå ind i alle detaljerne her i vores proces, men blot lige hurtigt vise, at det her opstart af samarbejde, der ligger der en ret vigtig fokus på noget interessant afklaring, rollefordeling og fælles strategi og tidsplan mellem kommuner og forsyninger, som også ligesom rækker ind i Det skal være en dialog, som skal foregå i hele processen, den her myndighedsdialog.
+
+00:05:06
+Selvom der ligger en myndighedsbehandling henne i trin 6, så er det vigtigt, at den foregår løbende, så man får afklaret nogle vigtige, måske uløslige situationer, som gør, at man må vælge nogle områder fra allerede tidligt. Men ellers er særlig fokus på det her datagrundlag.
+
+00:05:30
+og det er det, vi vil komme ind på her lige om lidt. Men ekstra fokus på, at det skal være et datagrundlag, som skal være en grundlag for den her områdeudpegning af de her undersøgelsesområder.
+
+00:05:46
+Så derfor, så vidt som det er muligt, man kan finde en løsning mellem kommuner og forsyninger, at den ikke er knyttet op selvstændigt på de første udpegninger, der bliver foretaget, men at man får vurderet sit datagrundlag, som skal danne grundlag både for de her udpegninger i første omgang, men så også de senere udpegninger.
+
+00:06:06
+Så at man på baggrund af det her vurdering af datagrundlaget, får igangsat tidligt en dataindsamling, som vil skulle forløbe hen over de her første process-trin, og så danne grundlag for arbejdet, og ligeså danne de analyser og eventuelt lokal modelarbejde, som data skal bruges til, også vil køre løbende gennem alle trinene og skabe værdi på forskellige måder ind i de forskellige trin.
+
+00:06:38
+Og så har vi forskellige pointer under hver af de her, som jeg ikke vil komme ind på lige nu, men vi vil prøve at vise nogle cases i stedet for, som giver noget erfaring ind i hver af de her trin. Så.
+
+00:06:56
+til punkterne, hvis vi starter med det her solide datagrundlag, som vi synes er så vigtigt for hele processen.
+
+00:07:04
+Sådan en simpel opstilling af nogle trin, som vi foreslår, der skal sikre, at udpegning af undersøgelseområder og de her samfundsøkonomiske vurderinger, og til slut også valg af løsninger og vurdering af løsninger, skal danne det her solide grundlag, så der træffes velinformerede beslutninger.
+
+00:07:29
+Processen er at starte med et skrivebrugsstudie, og den er opdelt i to. Et skrivebrugsstudie, hvor man får overblik over, hvad har vi af eksisterende viden og data. En anden del af skrivebrugsstudiet fokuserer på, hvad er der for lokale forhold og kompleksiteter.
+
+00:07:45
+Og de to forhold sætter vi sammen i det, vi kalder en usikkerhedskonsekvensvurdering. Og det er i bund og grund, at man forholder sig til, hvad har vi af datagrundlag, Er det sikkert? Er det usikkert? Og er det vigtigt, at det er sikkert? Fordi er området komplekst, skal det være mere sikkert?
+
+00:08:02
+Er området mere simpelt, så kan man måske nøjes med mindre viden. Det dykker jeg ned i lige om lidt. Men en anden pointe her i det her trin, det er også at få inddraget konkrete planer om kloakkeringsarbejde, for det kan være, at der er noget, der skal opprioriteres i forhold til datagrundlag.
+
+00:08:24
+Og så på den baggrund, at de her steps faktisk kommer med anbefalinger om forbedret datagrundlag, enten ved at fremskaffe noget, man ved findes, men ikke er tilgængelige endnu, eller sætte noget ny dataindsamling i gang. Og vi skal lige prøve at dykke ned i den her usikkerhedskonsekvensvurdering.
+
+00:08:41
+Altså, vi har prøvet at stille en liste op her, over sådan en brutuliste, over hvilke data, der kan være relevant. Og der er sikkert flere, men det er bare den her liste, som har vokset, imens Johanna og jeg forbereder os, så er der forskelligartet data.
+
+00:08:56
+Der er selvfølgelig alle de her HIP og KAMP, som er et fantastisk grundlag at starte ud med, som er nationalt tilgængelige. Men der er altså også en række andre data, som er vigtige at få overblik over. Der er den trængende geologi.
+
+00:09:12
+Der kan være nogle modeller, som kan være et godt udgangspunkt at arbejde videre på. Nogle lokale modeller. Der kan være nogle lokale data, som enten i Jupiter som ikke anvendes i HIP, men der kan også være lokale data, som endnu ikke er kommet ind i Jupiter og HIP.
+
+00:09:30
+Så kan der være viden om indvinding og grundvandssækning, som faktisk kan indikere ret meget omkring områdernes behov for grundvandshåndtering i det hele taget. Og så videre og så videre. Listen er lang.
+
+00:09:46
+Og den usikkerhedskonsekvensvurdering, vi foreslår, man foretager, Det led op på sådan lidt en simpel principskitse her. Jamen, altså alle de her datatyper sat sammen, vurderet i, hvor godt et billede giver det også af området. Hvordan er kvaliteten af de her data, og hvad er tætheden?
+
+00:10:08
+Der kan være ligesom en skala, om det ligger i den gode ende eller den dårlige ende. Men det skal holdes op imod områdets kompleksitet. Og med kompleksitet, så mener vi, hvor simpel eller kompliceret er geologien? Er der beskyttede natur, som vi skal forholde os til, vi ikke må påvirke?
+
+00:10:26
+Er der noget foreningslokaliteter, som vi også skal undgå og mobilisere forening? Er der sætningsskade og risiko? Er der en blandet bygningstype? Så i det hele taget, den samlede mængde af kompleksitet vil gøre, at man har brug for en større viden og større datatæthed.
+
+00:10:47
+Så er vi hernede i området med stor kompleksitet og lille, tynde eller modstridende data, så har vi brug for at forbedre datagrundlaget.
+
+00:11:00
+Hvorimod vi kan godt være et sted herovre, hvor vi faktisk ikke har så gode data, men til gengæld er området relativt simpelt, så kan det godt være, at det ikke er nødvendigt at samle flere data, men det skal man forholde sig til med de specifikke kompleksiteter.
+
+00:11:17
+Så det er blot en simpel opstilling af tankegangen omkring hvordan man skal lære både faktisk sin vurdering af datagrundlaget og hele sin proces med databehandling.
+
+00:11:34
+Så tager jeg over herfra til København. Når man nu snakker om alle de forskellige data og skrivebordstudier, så vil jeg bare vise nogle eksempler på, Hvordan kan sådan noget blive samlet sammen? Hvordan kan man få dannet sig sine overblik? Jeg har for eksempel den i midten, hvor der står historik.
+
+00:11:57
+Den er taget ud fra de historiske målbords... Altså de høje målbordsblade og de lave målbordsblade. Hvor har der været vodeområder tidligere? Hvor har der været grøfter tidligere? Hvor har der været noget, som slet ikke er der i dag?
+
+00:12:10
+I de områder kan der måske være nogle problemstillinger, man skal kigge på. så er der tidligere været stor grundvandsindvinding, og den er væk i dag. Det kan også betyde noget for de områder, man kigger på.
+
+00:12:25
+Alle de her skrivebordstudier, der med det har sagt det, men det skal selvfølgelig være i de områder, hvor man ved, at man skal ud og lave noget i forhold til ændringer af klarkalingsform.
+
+00:12:34
+Hvis man har en kæmpe kommune, og der er nogle områder, man skal gøre det i, så er det selvfølgelig de områder, man skal gå ind og kigge på de her ting i. så man får fokuseret sin indsats.
+
+00:12:45
+Den anden ting, som er super vigtig, og det er jo det her, at det kan være, at grundværdene står sindssygt højt, men der kan også godt være, at man så ser, at jordbundsforholdet, hvis I ser til venstre, der kan man se, at der både en tidligere...
+
+00:12:58
+Altså I ser byggeriet der i baggrunden, og de havde kæmpe problemer med højt grundvand. Vandsvalget lå der en halv meter under terræn, og de synes, de soppede rundt. Husene var sådan set bygget til det.
+
+00:13:10
+at det måtte være voldt, men de syntes jo ikke, de kunne bruge deres arealer, fordi det forsumtede. Der var ikke rigtig så meget, der kunne gro, og det var lidt irriterende, at det hele sagde swap, swap, når man gik derude.
+
+00:13:21
+Så havde de prøvet at sænke lidt på grundvandsstanden, og så er det så, at ude i omgivelserne var der så nogle elskab og nogle andre ting, som satte sig, som revet ledningerne ud af væggene ind i husene.
+
+00:13:31
+Så der kan jo være mange forskellige ting, man skal huske at vurdere, når man kigger på, hvad kan konsekvenser være i forskellige områder. Og så vil jeg også lige nævne den her med, hvad er det, man har hørt fra borgere? Eller hvad er det, man har registreret, når man er derude?
+
+00:13:48
+Er der en vej, der er faldet sammen? Er der nogle ledninger, der er gået i stykker? Har folk hele tiden sagt, at der kommer vand op i min kælder? Det kan også godt være det her med, at man siger, at vi bliver nødt til at grundvandspumpe hele tiden, fordi ellers kan vi ikke holde det nede.
+
+00:14:04
+Så det er jo alle de her forskellige typer af forhold, der kan indikere, at her har vi et område, hvor der er et eller andet, vi skal kigge nærmere på.
+
+00:14:12
+Og i forhold til alle de her ting, man så samler ind af forskellige typer data, det er jo ikke alle data, der kan være tilgængelige, men der er nogle, man kan være heldig i, man kan samstille, så kan det give dig det her overblik over et område og sige, at her ser det ikke ud som om, at der er noget som helst problem, og her ser det ud som om, der er et eller andet, man skal kigge nærmere på.
+
+00:14:31
+Og det, der er super vigtigt, synes jeg personligt, det er, at man får styr på, Hvis jeg skal lave løsninger i et eller andet område, hvor der er nogle issues, hvad er det så for nogle ting, man skal have styr på på et tidligt tidspunkt?
+
+00:14:46
+Og noget af det der er jo selvfølgelig påvirkning af både natur, den ved vi er en klar mulig konflikt, eller hvad vi nu skal kalde det, i hvert fald en udfordring, fordi der skal man så tidligt som muligt jo begynde at have sine samarbejder med naturafdelingerne, med nogle andre, hvis man virkelig mener, at man bliver nødt til at gå ind og lave løsninger i et område med højt grundvand, hvor der også er både natur.
+
+00:15:09
+Det kan også godt være de her sætningsgivende afleger, det kan være alt muligt andre ting. Men meget af det her overblik kan jo også give den her idé om, okay, her kunne løsningerne være i den her retning eller i den her retning. Her skal vi være mere sikre på, hvordan det varierer over året.
+
+00:15:27
+Se efter boringer, der findes. Hvis der findes nogen, er der filter sat i noget af terrænet. Altså der, hvor begunderne kommer ind i boringen. Og få kigget på det.
+
+00:15:38
+Alle de her ting kan også få det til at være nemmere at prioritere, hvilket kloakkeringsområde skal jeg måske starte med at undersøge noget i.
+
+00:15:50
+Det kan godt være, at jeg først kommer til det om fem år eller om ti år, men er der et eller andet, jeg gerne vil være sikker på, så alligevel begynd at tænke over det, før man skal i gang med at planlægge sit separeringsprojekt, eller hvilken type projekt man går i gang med.
+
+00:16:05
+Så kommer vi til den her, synes jeg, sjove sætning, der er i den nye lovgivning. Det er, at de skader, vi kigger på, må kun komme fra terrænnært grundvand. Det kræver, at man forstår ordet terrængnært grundvand, som jo er under overfladen.
+
+00:16:29
+Det er vi enige om, det er under jordoverfladen, men altså, hvornår overgår det til at være regn til terrængnært grundvand, det kan man jo godt måske lige overveje. Men det, der er super vigtigt, synes jeg, det er, at man har styr på, hvad der sker under jordoverfladen.
+
+00:16:45
+Hvad er det for en type geologi? Er det ler, eller er det sand? Lær er lidt mere komplekst i forhold til løsninger også, mens at sand kan være mere enkelt, men til gengæld måske meget store vandmængder.
+
+00:17:00
+Og så er der også det her med, at tror vi, det er terrængnært grundvand, eller tror vi, at det er regnvand, der bare ikke kan komme ned, fordi der er så meget lær, som gør, at det står bare og stupper op.
+
+00:17:12
+Der kan også godt være, at vi har et meget stort grundvandstryk nedefra, så det, der hedder grundvandspotentialer i forskellige typer af grundvandsmagasiner, Måler man for eksempel den indvendig sprung her i midten. Ja, den sænker på det primære grundvandspejl.
+
+00:17:26
+Men der, hvor den ikke sænker, der kan den måske ligge over terrænet. Og det skal man lige forstå. Hvis jeg har noget, der træsser nedefra som et vandtryk. Det er ikke sikkert, at du ser det som et frit vandspejl på overfladen.
+
+00:17:37
+Men det gør, at regn har svære ved at trænge ned i jordmadsen også lige der. Altså der, hvor vi har opadrettet gradiert forhold, som man også kalder det. Og så det her.
+
+00:17:49
+Det der, når man tager et spade og graver i haven, og alle purvorm er mættede lige pludselig, det er jo sådan der, hvor man kan sige, at der er en eller anden form for grønlandsbejde. Det ligger jo nogle gange tæt på terræn, og nogle gange længere nede.
+
+00:18:02
+Og det vil sige, at det, som vi skal forholde os til, det er jo det, der kan give skader på infrastruktur og bygninger. Og så er det jo mindre end tre meter under terræn typisk, eller en meter under terræn. Det er jo det, der kan give de her skader.
+
+00:18:16
+Så det er jo ikke noget, der ligger dybere, så der kan sagtens være områder, hvor man så siger, ud med dem, dem er vi uinteresserede i. Men det er rigtig, rigtig vigtigt at forstå, hvad det er, der sker under overfladen, og hvordan tingene hænger sammen under overfladen.
+
+00:18:29
+Der har vi rigtig mange grunddater, man kan starte med. Der findes heldigvis alle mulige steder, en eller anden form for geologisk model, et udgangspunkt, der findes bohænger, der findes forskellige ting. Det er ikke fordi, man behøver op at finde den dybsel altid.
+
+00:18:41
+Men hvis man laver det her skrivebordstudie, kan det virkelig give den her idé om, hvad er det for nogle typer problemstillinger eller kompleksitet, vi har i et område. Mette, hvis du tager den næste. Så har vi det her, hvor der står modstridende datagrundlag for grundmandstamle.
+
+00:19:01
+Det her er bare et eksempel på forskellige modeller, der siger lidt forskelligt, men de siger også nogle gange noget af det samme. For eksempel for oven er der vist data fra HIP, Den til øverst til venstre viser HIP-data om vinteren som en gennemsnit.
+
+00:19:22
+Den til højre viser HIP-data om sommeren som en gennemsnit. Det er det samme område, jeg viser. Man skal lige se, at det er centimeter under træ, så man ikke bliver forvirret over de meget store tal. Men fagskalen er hele tiden den samme. I de lille områder står det virkelig højt.
+
+00:19:41
+I det røde område står det faktisk også ret højt over det hele. Så her vil man jo så sige, at vi udpeger, at på baggrund af HIP, så har man måske, hvis man er ældre, i nogle områder forskellige andre modeller.
+
+00:19:52
+Det kan være statens grundmandskortlægningsmodeller, det kan være modeller, der er opsat i en kommune eller en forsyning, fordi man tidligere har lavet noget i en anden sammenhæng måske, som kan bruges i det tilfælde.
+
+00:20:04
+Og der kan man så sige, at hvis man sammenligner de her forskellige modeller, så er der nogle steder, hvor de ikke siger det samme, og der er også nogle steder, hvor de siger det samme.
+
+00:20:14
+Hvis alle forskellige mulige dage siger det samme i et område, så er det jo, at vi er mere sikre på, at det område er et issue, mens vi hele tiden har, at det ting peger i forskellige retninger. Så er det måske noget, hvor man gerne skulle blive lidt klogere, før man tager stilling til det.
+
+00:20:28
+Der kan også være i en kommune, at man har lavet anlægsarbejder et eller andet sted, og har nogle erfaringer for, hvad var der nogle problemer, eller var det dødnemt, eller der var sindssygt meget vand, eller hvad er det nu, Der var en masse sætningsskader, der lige pludselig opstod på grund af et eller andet.
+
+00:20:45
+Så man kan jo også have andre typer data, man indsamler i sit skrivebordstudie.
+
+00:20:50
+Og alle de her ting måner jeg ud i, at man til sidst kan prioritere sine områder i forhold til, hvor er det, vi bliver nødt til at blive klogere for ikke at begynde at lave et eller andet, der kan være en risiko eller konflikt i forhold til både sætningsgivende og påvejede lokaliteter. mod naturen.
+
+00:21:13
+Så det kan bare give det her dejlige overblik over, hvad er det for et område. Og så kan man jo genbesøge det. Hver gang man er blevet klogere og siger, at nu ved vi noget mere, så man har det samlede overblik, så man ikke glemmer, at man lavede det her studie i starten.
+
+00:21:28
+Man bruger det dynamiske hele vejen igennem processen. Jeg tror, at det var det primære.
+
+00:21:38
+Så tager jeg lige over igen her med en pointe også ind i den her vurdering af datagrundlag. Her har jeg vist sådan en lokkergraf, hvor vi har lokket grundlandet hen over efteråret, starten af vinteren. Det er den blå streg, der viser grundlandspejl i en trængende erboring.
+
+00:21:59
+De grå søjler viser nedbørn, og de her data er er super gode til at få en forståelse af, hvad er dynamikken mellem nedbør og grønlandsbejl.
+
+00:22:10
+Og jeg kunne tale, tror jeg, i meget lang tid om den her graf, og jeg synes, det er utroligt interessant at se, hvordan grønlandsbejl reagerer på de her nedbørshendelser, og at det ikke er sådan en en-til-en.
+
+00:22:22
+Vi kan se, at det reagerer, men vi kan også se, at der er sådan en akkumuleret effekt, at når vi når senere hen på året, så reagerer grundvandsbejlet anderledes på nedbøger. Men pointen her er faktisk at kigge på datausikkerheden her i det her oplæg.
+
+00:22:45
+Så hvis vi kigger her på grafen, vi har her, og sammenligner med, hvad HIP har udtalt sig om på det her lokalitet. HIP siger her, at grundvandet står i en halv til en meter, og det giver det her intervall.
+
+00:23:00
+Man kan sige, at det rammer ikke helt ved siden af, i hvert fald sker det også som en form for worst case billede. Men hvis vi så zoomer lidt ud på y-skalaen her, har det samme billede her, men nu lægger vi usikkerheden på her på HIP-vurderingen. Den har en vertikal usikkerhed på 2-3 meter.
+
+00:23:20
+Og hvis man sammenligner den viden med den faktisk lukkede graf, vi har her, så synes jeg, at det giver et tydeligt billede af, hvorfor vi har brug for de her data.
+
+00:23:31
+Fordi hvis vi skal vurdere det i forhold til det her risikoniveau, som jeg har sat ind, som er noget, vi har vurderet i forhold til de bygninger, der er på det her sted, så bliver vi nødt til at have mere præcise data end den her HIP-indikation og den usikkerhed, der er på de data.
+
+00:23:51
+Så vil jeg prøve at give et eksempel fra hvor vi har arbejdet sammen med Assens Forsyning omkring vurdering af datagrundlag og vurdering af, hvor de så har, med den viden vi har om, hvad kan vi med HIP og hvad er der af øvrige data.
+
+00:24:08
+De er i gang med at planlægge nogle separate konkurrencer, og de har givet os de her områdeafgrænsninger og sagt, jamen skal vi tænke på terrænet og grundlandene i de her områder? Og det har vi sagt, at vi først skal starte med at kigge på datagrundlaget.
+
+00:24:29
+Hvad har vi, og hvad ved vi, og hvor har vi brug for at vide mere, for at vi kan svare på det. Og som datagrundlag har vi ikke kunnet tage den fulde brutto-liste, som jeg viste tidligere, af datatyper. Men i det her projekt har vi kigget på HIP.
+
+00:24:46
+Vi har kigget på, hvad er der øvrige pejlinger, som vi kan bruge til at verificere HIP. Hvad det er, når man kategoriserer de her pejlinger fra HIP i forskellige kategorier, afhængig af, hvilken filterdybde repræsenterer den her pejling. Hvad er geologien?
+
+00:25:07
+Hvor meget ler er der egentlig overfiltret i forhold til, om det repræsenterer et terrængnærvsmagasin? Hvad er allaren på pejlingerne? Er der mere end én pejling, og er der forskel på, hvis der er mere end én pejling?
+
+00:25:21
+Og så har vi kigget på nogle artetiske pejlinger, vi har kigget på jordartskort og lavet en visuel vurdering af bygningstætheden for at sige, om vi vil prioritere vores dataindsamling der, hvor der er en stor bygningstæthed, fordi det peger i retning af, at det er nok også der, der står sandsynlig for, at der er en samfundsøkonomisk hensigtsmæssighed i, at vi skal arbejde videre.
+
+00:25:44
+Så det er den dybde af data i det her skrivebordstudie, vi har haft mulighed for, med den tidsplan, vi havde at dykke ned i. Og der kunne jo være en lang række andre data, som kunne være relevant at have med i den her understøttelse, f.eks. borgerhenvendelser eller uvedkommende vand.
+
+00:26:01
+Og det afhænger jo lidt af ens tidsplan, hvad man kan nå at dykke ned i. Så vi skal prøve at kigge lidt nærmere på et af de her områder her. Her i Vissenbjerg har vi zoomet ind på med den her områdeafgrænsning fra deres separatklokkeringsprojekt. Så sætter vi HIP på.
+
+00:26:23
+Det har en indledende indikation på, hvor vi forventer, at grundvandet står højt. Der er en ret tydelig adskillelse her i et område, hvor det er vurderet at stå dybt, og et område, hvor det er vurderet at stå højt. Så får vi de her Jupiter-boringer på, som er kvalitetsvurderet.
+
+00:26:44
+Når vi sammenligner med HIP, kan jeg forholde os lidt til, om det er en sikre pejling, en relativ usikker pejling, er den relevant for at vurdere det her trængende grundvand. Dem har vi også sat de her pejlinger på i dybde intervaller.
+
+00:26:59
+Så har vi haft jordartskortet med, som siger noget om, at det er sandt, at det er relativt simpelt at vurdere det her grundvandspejl, eller hvis det er ler, som Johanna sagde, så kan det begynde at blive mere kompliceret, og der kan være nogle forsinkede reaktioner på det trængende her grundvand i forhold til nedbørre, og så især, I kan se, at der står en masse Ft'er på her.
+
+00:27:22
+Det er noget færdsgens tørv, og det er typisk sådan noget, man vil være lidt bekymret for, om det kan være sådan nogle sætningsgivende undergrund.
+
+00:27:34
+Når vi så sætter de her data sammen, så er vi siddet og kigget på, hvor er der modstrid mellem pejlingerne og hip, og hvor er vi i nærheden af nogle af de her lidt bekymrende jordarter.
+
+00:27:51
+Og på den baggrund udparede vi nogle første- og andeprioritetslokaliteter, hvor det kunne være relevant at sætte en pejlelokker op, som kan give os nogle af de her værdifulde tidsserier. Og der har vi udparet matrikler, som er offentlige matrikler.
+
+00:28:08
+Små vejelommer og andre typer af offentlige arealer, hvor man ville kunne placere de her lokker. Og de er så prioriteret i områder, hvor vi enten Ikke ved noget. For eksempel heroppe, hvor jeg hibindikerer, om der godt er noget højstående grundvand. Vi har også en rimelig tæt bygningsmasse.
+
+00:28:29
+Det går nok et industriområde. Men vi ved ikke rigtig noget heroppe. Jeg ved ikke, om vi kan se, om jeg peger. Det var heroppe, jeg prøvede at pege. Er
+
+00:28:38
+der ikke sådan en, man kan bruge til at pege tydvejr? Det
+
+00:28:43
+er det nordøstlige område, jeg prøver at pege. Så er der også et område hernede, og det er faktisk lidt sjovt, det her område, hvor HIP indikerer, at grundvandet står dybt, og det er jo selvfølgelig også, fordi terrænet står højt her.
+
+00:28:58
+Når vi så vender og kigger på nogle af de her pejlinger, som der ligger faktisk lige her omkring det her færdsgrenstøv, der siger pejlingerne i den her anden kvalitetsvurdering, at grundvandet i hvert fald står tættere på terrænet, end HIP har sagt.
+
+00:29:15
+Og i og med, at der er de her færdskantstøj, så vil vi gerne have det verificeret, om hvordan står grundvandet egentlig her. Og vi snakkede også en del om hele det her område. Er vi bare home safe her, fordi vi ikke skal hypsere, at det ligger dybt?
+
+00:29:32
+Eller kunne det faktisk være rart at få det verificeret? Der har vi foreslået en anden prioritetslokker også. Og sådan har vi sådan... Det her er egentlig en relativ...
+
+00:29:44
+hurtig screening, der er lavet her af, hvor kunne det være relevant at indsamle flere data, så de kan få den her vidshed for, jamen er der et problem med trængende af grundvand, som vi skal tænke ind allerede i det her separat klokkerings arbejde, så vi ikke skal ud to gange.
+
+00:30:02
+Så det var egentlig en prioriteret kom hurtigt i gang og hurtigt kom i gang med at få de her data indsamlet, så vi kan få den her vidshed og viden indarbejdet i det her separat klokkeringsprojekt.
+
+00:30:19
+Det
+
+00:30:19
+var punkt 1 omkring vurdering af datagrundlag til udpegning af undersøgelsesområdet i første omgang. Så lad os prøve at gå lidt videre til nogle erfaringer og nogle praktiske erfaringer omkring skader, som fortsæder at trænge den her grundlag. Og
+
+00:30:40
+i virkeligheden så er det den her slide, som I ser her, den viser bare, hvad er det for nogle typer af elementer, som man skal i forhold til den nye lovgivning. Vi har bygningerne, hvor vi har gået meget op i, om det er med eller uden kabelærbrydende lag.
+
+00:30:56
+Det kommer vi ind på senere, hvorfor det kan være så vigtigt. Det har også noget at gøre med, hvilke kældre det er. Er det industrikældre? Er det boligkældre? Der er også den her slags ting, men uanset hvad, er der noget, der kan give skader.
+
+00:31:08
+Så er det hele infrastrukturdelen, som jeg ikke har set så meget på endnu, i forhold til, hvordan det skal vurderes, men det omfatter faktisk både vejejernbaner og ledninger. bruger alle mulige forskellige typer af bygværker i virkeligheden.
+
+00:31:22
+Og så er der hele den her vurdering af, hvad hedder det, at hvis der er for meget uvedkommende vand i vores spildvands- og regnledninger, så det kan måske give nogle problemer nogle steder.
+
+00:31:35
+Så det er jo det, man skal vurdere, men det kan også sige noget om, at det her er et område med højt grundvand. Alt efter hvor dybe dine ledninger ligger næste. så er det bare, hvad er det for noget, vi kigger efter?
+
+00:31:48
+Hvad er det for noget, vores vejfolk kigger efter, vores byggerifolk kigger efter, vores jernbanefolk kigger efter?
+
+00:31:55
+Altså, vi kan godt sige det, mig og Mette, vi er jo ikke eksperter inden for skader på byggeri og på det hele, men vi har heldigvis nogen, som er eksperter på det, som vi kan snakke sammen med og blive kloge sammen.
+
+00:32:11
+Men ellers er det, Vi kan have, at der står vand lige under fundamentet, og vandet bare kan trænge op, og det kan give skader. Selvom der ikke er kældre, så kan vi godt have noget, hvor det virkelig står højt, så er det altså en udfordring.
+
+00:32:23
+Det kan også give de dødsyge skader, eller at vejene bliver ustabile og kan falde sammen, eller der kommer store ravner. Der kan være nogle forskellige typer skader.
+
+00:32:33
+Og så i forhold til jernbane, der kan det jo være, at hvis det virkelig står hele tiden og er superhøjt, under en dæmning, så kan den begynde at blive ustabil.
+
+00:32:42
+Det har meget at gøre med, at ting mister deres bæreevne, eller det holder tingene stabile, det på en eller anden måde får en anden struktur lige pludselig. Og så er det jo det her, som vores byggerifolk går ud og kigger efter.
+
+00:32:58
+De kigger jo så på, hvordan den registrerer alle de her forskellige typer af skader, som kan komme fra vand, altså fugt eller Også det her, hvor man ser en ravne, det kan jo indikere, at der er noget bevægelse i undergrunden, som også gør, at man måske skal være påpasselig med, hvad kan det betyde, at et hus har sat sig, er det den ene oversag eller den anden oversag, men det er jo noget, man skal kigge ind i.
+
+00:33:20
+Så det er mere, hvad hedder det, hvordan kan de her forskellige typer af byggeri skader sig ud, hvis du tager den næste måde.
+
+00:33:28
+Så
+
+00:33:28
+er det, at når man nu kigger på bygningsmassen, så er der nogle vigtige årstal, Og den ene er, at der bliver bygget rigtig meget i perioden fra 65 til 75. Og vores byggerifolk siger, at det har givet, at noget af det er måske ikke blevet bygget lige efter bogen, fordi det er gået rigtig hurtigt.
+
+00:33:49
+Det vil sige, at der er noget, der måske ikke er så i god kvalitet, som også kan blive mere udsat for skader af den årsag. Og så kommer vi ind på den anden, den ret vigtige årsag, det er, at i 72 år, Når man bygger efter 72, så er der krav om, at man skal lave et kabinær brydende lag.
+
+00:34:06
+Det kommer med et indpå lige om to sekunder, hvorfor det er så vigtigt. Men ellers i den nye lov er der jo det her med, at man har hændelsesbaserede skadestyper og vejhedsbaserede skadestyper.
+
+00:34:18
+Og der er det rigtig vigtigt, at man ved, at de her hændelsesbaserede er måske ikke dem, der er de allerværste, men det er de langveje. tilbagevendende, altså det er kontinuiteten af, at der hele tiden kan være et eller andet, der til sidst gør, at man får en skade.
+
+00:34:35
+På den måde ligner det ikke regn på samme måde. Det er det her med, at det kan stå i længere tid, og det er generelt af gulvmandssystemet meget mere øge. Det er ikke så hurtigt, som hvis det er regn i rør. Men i hvert fald så er det, Hvornår opstår skaden? Hvilke typer af skader?
+
+00:34:55
+Hvilken grundmandsspejl? Der er mange ting, der er afhængige af bygningstypen. Også i forhold til, hvornår skaderne kommer. Der er faktisk også noget, man kan gøre ved det. Men nogle gange er den eneste løsning måske, at man kollektivt går sammen og laver en sænkning af grundmandsspejl.
+
+00:35:11
+I de områder, hvor det kan lade sig gøre. Det kommer vi også ind på i to sekunder. Mette, det næste. Ja,
+
+00:35:17
+fordi der bliver snakket meget om det her, Det ved jeg ikke, om der gør, men det gør der hos os, i hvert fald i det samarbejde, vi har haft med vores byggerifolk, om det her kapillær forhold. Det vil jeg prøve lige at komme lidt ind på, hvorfor det egentlig har en ret stor betydning.
+
+00:35:32
+Som Johanna sagde, så er der i 72, der kom der i bygningsrelevance en fremtat krav om, at bygningen skulle etableres med sådan et kapillærbrydende lag.
+
+00:35:42
+Og hvad det er, det er egentlig bare grof materiale, som er i stand til at stoppe fugtige trænge op, jo finere materiale er, jo mere har det den her kapillær sugeevne og kan suge vand op for undergrunden.
+
+00:35:55
+Og det, vi har snakket meget med vores byggefolk om, det er, at de bygninger, der ikke har det her kapillærbrydende lag, som vi har prøvet at skizere her, hvis man etablerer et traditionelt omfangstren, altså en lokal håndtering af trængende og grundvand, så etablerer man det her omfangstren lige ved sokkelfundamentet.
+
+00:36:18
+Det giver en grundvandssænkning på ydersiden af soklen, og det vil mindst trykke ind på fundamentet. Så det giver en forbedring af de her skader, man ser på sokkel og fundament. Men det vil ikke løse fugtoptrængning under soklen, altså inde på dæklaget af bygningen.
+
+00:36:34
+Fordi den her lokale sænkning ikke trænger ind igennem fundamentet, så vil det fortsat have et højt grundvandsniveau, og det vil fortsat have fugtproblemer op igennem det her manglende kapillærbrydende lag.
+
+00:36:47
+Så det er en vigtig pointe at forstå omkring det her kabinære, brydende lags betydning, for når vi vurderer bygninger og potentielle skader, at det har altså rigtig stor betydning, og især at lokale løsninger måske ikke overhovedet vil afhjælpe problemerne. Så der er kollektive løsninger nødvendige.
+
+00:37:11
+Og en anden betydning det her kabinære, den her kabinære snak har, Det er også i vores risikovurdering, at i terrænet har grundvand.
+
+00:37:20
+Nu har jeg sætt den her skitse på, som ligesom viser de zoner, der er i undergrunden, hvor den stiblede blå linje, det er det grundvandsbejl, som vi tit vurderer på, og som vi også lokker i vores grundvandslokker.
+
+00:37:33
+Over det vandmættede lag, over det her grundvandsbejl, så er der det, der bliver kaldt en kapillær zone. Det er sådan en overgang til den umættede zone, som kan være mere eller mindre vandfyldt.
+
+00:37:44
+Og den her mere eller mindre vandfyldte, kapillære zone har utrolig stor betydning for, hvor risikoniveauet reelt er.
+
+00:37:53
+Fordi hvis det er meget lære, så bliver de her små brugere relativt hurtigt opfyldt, og så har vi faktisk ikke nogen kapacitet til at optage yderligere nedbør i den her kapillære zone. Og så vil vores risikoniveau faktisk ligge over vandspejlet.
+
+00:38:09
+Vi har ikke den kapacitet, som vi måske tror, er over vandspejlet, fordi den er fyldt, Selvom det ikke er helt vandmættet, så er der ingen kapacitet i der. Så det er vigtigt, at man har den her forståelse, den her kavaljersone med, når man vurderer på sit risikoniveau.
+
+00:38:27
+Det er hele lovgivningsprocessen, både når vi skal udpege nogle, eller når kommunerne skal udpege nogle undersøgelsesområder. Hvad er så et risikoniveau, de vurderer på?
+
+00:38:37
+Og når vi skal vurdere på de samfundsøkonomiske konsekvenser, hvad er det så for et risikoniveau, vi rent faktisk går ind og vurderer på? Der bliver man nødt til at have den her kavaljersoneforståelse med, Og det hænger jo så igen op på en forståelse af, at geologien er undergrunden. Tag
+
+00:38:55
+den næste. Jeg tror, vi skal gå lidt hurtigt videre.
+
+00:38:58
+Nu vil jeg bare få at sige, at vi har jo også en del på skader på veje og på alle de andre ting her, og der er det igen, at der er ved lidt højere grønlandsvej, typisk hvis vi skal, altså ikke helst, men hvis vi er i den zone, hvor vi er i den øverste meter, det er der, der kan komme skader.
+
+00:39:12
+Prøv at tag den næste.
+
+00:39:15
+Ja,
+
+00:39:15
+vi skal videre til. Så vi lige når, at vi har et par minutter til det næste.
+
+00:39:20
+Det her viser i virkeligheden et resultat af nogle af de her forundersøgelser, hvor vi på et tidligt tidspunkt også har kigget på, hvor er det, der er behov for at have grundlagslokker oppe, så man bedre kan planlægge de forundersøgelser, man alligevel skal lave i sit kloak-projekt.
+
+00:39:39
+Der er rigtig meget, at man ved, at man skal alligevel ud og lave de her ting, kan vi samtidig få mere viden om, hvordan der er effekt på at pumpe på noget. Hvordan ser det ud i de forskellige lag derude? Kan jeg lave en løsning, der har en effekt ved at gøre det ene eller det andet?
+
+00:39:57
+Så man kan lave nogle test også i sine forundersøgelser, eller på et tidligere tidspunkt, som man er mere på forkant.
+
+00:40:04
+I områder, hvor der er stor kompleksitet, og man har med, at der kan være meget vand, eller der kan være nogle forskellige ting, Der kan det være nødvendigt, at man opstiller en såkaldt detaljeret geologisk model, og det er et eksempel på det fantastiske, flotte geologiske snit dernede.
+
+00:40:22
+Det er der, hvor der er rigtig meget ler, men der er også noget, der er vandførende sand og ler i noget terrængnært, og der er steder, hvor vandet står højt. Det kan I se på venstre. Så har vi også... Hvor er det, at der er noget vandførende i de øvre lag?
+
+00:40:36
+Fordi det er jo der, hvor vi skal kigge efter løsninger. Det er jo ikke, når der er 15 meter, Hvor der er tørt og sådan nogle ting. Det er vi lidt iglade med. Og så også det, at man bare står af variationerne i området af grundmanden. Så man ligesom kan gå ind og sige, okay, så har jeg så et.
+
+00:40:52
+Alle mulige undersøgelser, der kan give input til, at man også bliver nødt til at lave en detaljeret grundmandsmodel i det her område. For ligesom at sige, okay, vi har forskellige typer af RISIC. Vi bliver nødt til at være sikre på, før vi i hovedet finder på en løsning i det her område.
+
+00:41:08
+Eller kan vi i hovedet løse noget i det her område. Altså, så det... Man skal alligevel lave rigtig mange ting, når man laver sit separeringsprojekt, eller hvilken projekt man laver. Så det er jo ligesom meget at få tænkt.
+
+00:41:20
+grundvandsdelen ind i sit forundersøgelsesprogram, og måske gøre det lidt i en tidligere fase, end man normalt nogle gange gør.
+
+00:41:29
+Og så det her, det er jo igen for at sige, at man har et udgangspunkt, hvor man starter med, vi tror, at grundvandet er på den og den måde, og så på baggrund af forundersøgelser, hvor man har kigget efter grundvand, og de her forskellige lokker, man har sat op på et tidligt tidspunkt, så kan man jo også få indkreset Det er længere frem i den fase, end det nævnte tidligere.
+
+00:41:48
+Nu ved vi, hvor problemet er henne, og det er det, man skal kigge på i forhold til løsninger. Men så ved vi i det her område i Mørkøj, at der er rigtig meget ler, men der er også de her forskellige sandlommer.
+
+00:41:59
+Vi nærmer os mere og mere et sted, hvor vi ved fra et NABO-projekt, at der er rigtig meget vand. Der har vi så øget det, og så har vi også lige pludselig, at der er nogle steder, der er tilbage med sætningsgivende aflegner.
+
+00:42:13
+Hjortskortet sagde, at der var meget mere, så man kan få det indkredset til at sige, at der kun er det her tilbage, fordi alt andet er kravet væk, når man har lavet sit dykkeri. Man kan ikke bare lave grundvandspumper i områder med læder.
+
+00:42:27
+Man kan måske lave noget dræn, men virker det ude for vej af en til hus? Det tror vi ikke nødvendigvis.
+
+00:42:32
+Men hvis man nu har nogle løsninger, hvor man kan komme tættere på huset, hvis man mangler arealer til at forsikre sit regnvand, og man siger, at man ikke kan indgå en deal med en boligforening, og sige, at hvis vi får lov til at bruge jeres areal, så kan vi også hjælpe jer med at håndtere noget grundvand, fordi så kommer vi måske til at have nogle dybere dræn, der kan gå ind og løse noget.
+
+00:42:52
+Så der er mange forskellige synergier, man kan få tænkt igennem, og det er rigtig, rigtig rart, når man har et godt datagrundlag, som man også kan gøre, at den model, man så sætter op, også kan blive mere sikker. Og det er jo både pejlinger og alle de andre ting, vi har nævnt tidligere.
+
+00:43:08
+Jeg tror, det var, hvis det Så strøner
+
+00:43:11
+jeg lige gennem det sidste eksempel, hvor vi rent faktisk har opsat en lokal grønlandsmodel i Avning i Nordsjøs Kommune.
+
+00:43:19
+Vi har haft processen med skrivebrugsundersøgelse, som vi talte om, og har sat nogle lokker op og fået på den baggrund opsat en grønlandsmodel, som baserer sig på udklippet fra HIP, hvor vi har brugt rammebetingelserne derfra, rammebetingelserne, og så har kunne detaljere den lokalt.
+
+00:43:36
+Og så giver det også en rigtig godt grundlag for, og lave nogle forskellige scenarier. Altså vi kan simpelthen lave forskellige løsningsmuligheder i et scenarie og teste, hvad har det her effekt i området, og hvad har det af påvirkning.
+
+00:43:51
+Fordi det, vi gerne vil her, det er, at vi har de her udviklingsområder i Avning, hvor vi ved, der står højt grundvand, og vi har lukket det. Og så, hvordan kan vi løse det?
+
+00:44:03
+Og det er sådan en kombination af, hvor placerer vi drænerne, hvor tæt ligger de, hvilken dybde har de, Skal vi punkte på dem, og er der kombination med andre løsninger?
+
+00:44:12
+Og de løsninger skal være en afvejning mellem, at vi får tørholdt de områder, vi gerne vil, men vi ikke får en for stor påvirkning af beskyttet natur, som vi ikke må påvirke, og så nogle foreningslokaliteter, som vi helst heller ikke vil ræmme ind.
+
+00:44:29
+Så der har vi forskellige sænkningstrakter og påvirkningsratus angivet på den figur. Og så er det den her afvejning, hvor vi tilstreber, og opnå det bedste løsning på alle de her parametre, hvor vi samtidig heller ikke opnår så store vandmængder, vi kan komme af med dem.
+
+00:44:46
+De er begrænsede af en afløbskoefficient herude. Så det er sådan et iterativt proces, hvor vi prøver at ramme det bedste på alle de her parametre, så vi får den løsning, der holder derude for dem.
+
+00:44:59
+Meget kort fortalt her, men de her lokale grundlandsmodeller kan virkelig være gavnlige i mange skæbs af den her lovgivningsproces. Og
+
+00:45:08
+i det hele taget, også når man planlægger sit separeringsprojekt. Fordi det også kan betyde noget for den separere. Kan jeg forvente vand? Hvad kan jeg forvente, når jeg masker gulvmandssink? Er der konflikter? Er der noget, jeg skal tage stilling til? Hvad
+
+00:45:22
+er konsekvenserne af, at vi er tæt nødt til at røre på gulvmandsstand? Ja, det kan man også simulere i de her modeller. Så har vi prøvet at opsummere de vigtigste pointer. Jeg ved ikke, om vi kan nå at gå dem igennem, men ellers så står de i hvert fald her.
+
+00:45:36
+som vi håber at det er nogle point vi har fået med og måske også mange flere point end dem her. Jeg
+
+00:45:43
+tror vi måske bare skal gå til spørgsmål, når jeg ser på tiden. Ja. Men det var egentlig bare, vi troede vi havde god tid, det tror man jo altid. Vi tænkte 40 minutter, det er rigeligt tid, men det er det da ikke altid. Så er der bare mange ting man kan også overveje.
+
+00:46:02
+og lave tidlig naturovervågning. Der er forskellige ting, man kan overveje at gøre. Hvis man har et område, man vil løse, så skal man have styr på både natur og os. Og ikke mindst, hvordan kommer jeg af med vandet.
+
+00:46:15
+Ja. Tusind
+
+00:46:17
+tak, Mette og Johanne, for et rigtig godt og meget informativt oplæg. Jeg kunne også have blevet ved med at lytte i lang tid. Jeg synes, de 40 minutter, der er, de fløjer afsted. Og det er jo så nu, der er mulighed for at stille spørgsmål til jer. Det kan vi bruge Der er kommet et par stykker.
+
+00:46:36
+Det første her fra Mette, det er, hvad nu hvis det er primært grundvand, der står så højt, at det når kælderniveau? Læser I nogen begrænsning i, hvilken type grundvand der må arbejdes med?
+
+00:46:48
+Nej,
+
+00:46:49
+det tænker jeg ikke. Det
+
+00:46:51
+skal være det grundvand, der giver skader. På den måde kan man sige, Det er primært grønlandsbejde, det kommer jo lidt an på, står det langt? Er det realiseret til noget, der ligger 20 meter under terrænet, som giver problemet for overfladen?
+
+00:47:06
+Så vil jeg jo altså sige, lad os for guds skyld lave en eller anden form for vandindvendning lige der, fordi vi ved, det er det, der løser det, og så ser vi, om vi kan bruge vandet til noget fornuftigt.
+
+00:47:16
+Det løser det i hvert fald kollektivt for et større område, i stedet for at man laver noget, oppe ved terrænet. Hvis det virkelig er det primære, der styrer det, så skal man prøve og se, om man ikke kan få lavet en indvinding på det, synes jeg. Ja,
+
+00:47:33
+men der er ikke nogen definition i terrænet af grundvand, som siger, at det ikke kan være det primære grundvandsmarked, der står helt i terrænet. Så kan der selvfølgelig være nogle myndighedsmæssige forhold, der gør, om du kan få tilladelse til at sænke det.
+
+00:47:46
+Det er helt på lige fod med, hvis du skal lave en vandindvinding. Ja, så det må man jo se, om man kan få lov til. Super,
+
+00:47:57
+det håber jeg var svært nok. Så stiller Lotte her et spørgsmål til rækkefyldning i processen.
+
+00:48:05
+Kan man tænke sig, at viden om grundvendtspejlinger og bygningsskader gør, at planer om separeringsplaner ændres til også at omfatte nye problemområder, som almene boligselskaber kan også lægge ind med væsentlige data? Ja,
+
+00:48:24
+de kan også lægge ind med data, det er helt sikkert. Jeg tror lige den sidste. Jeg synes jo, at skrivebordstudiet og alle de der ting i forhold til data, det kan jo netop omprioritere nogle tanker hos kommuner og forsøgninger i forhold til, hvad er det, vi skal starte med at kigge på.
+
+00:48:41
+Der kan være noget, der er meget nemmere at gå til, som først var 10 år i fremtiden, mens det, der var meget svært at gå til, det ligger allerede to år ind i fremtiden. Der kan man måske sige, at vi bytter rundt på de her, og starte med det, som er lidt mere enkelt. Jeg
+
+00:48:57
+tænker, det giver simpelthen så god mening, altså ligesom eksemplet nede for Asen Forsyning, at få kigget på de her separat klokkeringsområder, som Forsyning er i gang med, og så få vurderet dem. Skal vi tænke grundvand ind her?
+
+00:49:10
+Fordi så ja, hvis de får vidsthed for, at det skal tænkes ind, så skal det jo være en dialog mellem Forsyningen og kommunen at få de områder, at få det med ud i den første udpegning.
+
+00:49:27
+Så er der en, der spørger, hvad med rensning af drænevandet inden udledning? Ja,
+
+00:49:32
+det er et rigtig godt spørgsmål. Fordi der, hvor jeg har målinger af, at terrænet er grundvand i byområder, der kan vi jo have PFAS. Det bliver rigtig spændende, hvordan vi får håndteret det her vand i virkeligheden.
+
+00:49:44
+Fordi kravværdien til PFAS i overfladevand er meget lavere end det for eksempel er i grundvand til drikkevand. Så der er nogle oplagte problemstillinger der, som jeg håber, at der kommer nogle store, dejlige udviklere, der kan finde enkle metoder til at rense på de her ting til drinvand.
+
+00:50:03
+Fordi jeg tror, vi får nogle udfordringer i forhold til overfladevand, for at sige det som det er. Det
+
+00:50:12
+er den store joker, der står, og det er, hvordan vi kommer af med det her vand. Og det vil jo afhænge af kvaliteten af vandet i de enkelte tilfælde. Der vil være nogle tilfælde, hvor der kan være en kvalitet, hvor du kan udlede det samme som et regnvand til et recipient.
+
+00:50:30
+Og så vil der være andre steder, hvor du er nødt til at have et rensetog på. Og så vil der forhåbentlig også være områder, hvor vi taler om så store vandmængder. at det kan udnyttes til noget teknisk vand.
+
+00:50:45
+Og udfordringen med det er jo selvfølgelig, at det nok ikke er lige så stabilt en kilde, som de ønsker dem, der skal bruge teknisk vand.
+
+00:50:51
+Men det kunne være fint, hvis der kunne være et instrument til alligevel, at man skal tage det vand, når det er der, og så kombinere det med en anden kilde, der kan være back up, når det så ikke er der. Lidt
+
+00:51:07
+i samme boldgade, så er der en her, der spørger, om det ikke er en parametre forholdelse til risiko for øget nedsivning til dybere magasiner, hvis det terræn nær grundvand indeholder miljøfremmede stoffer.
+
+00:51:18
+Jeg
+
+00:51:19
+ved ikke, om der vil komme en øget nedsivning til de dybere magasiner, ved vi begynder at sænke det terræn nær grundvandsbeje, men der kan jo være en reduceret grundvandsdannelse, ved at vi begynder at fjerne noget vand fra de øvre lag.
+
+00:51:34
+Jeg kan ikke lige se, hvordan det kunne være en øget nedsivning. Man kan mobilisere nogle forureningsstoffer, det er der ingen tvivl om.
+
+00:51:42
+Vi begynder jo at flytte på noget, der ligger oppe i de jordlag, hvor der er meget forurening, så man godt begynder at mobilisere noget, som kan have skade det dybere, og det helt klart, det skal man jo have nøjesikkerhed for at ikke sker.
+
+00:51:57
+Og det er netop også det eksempel, jeg viste ud fra Avning, et af de problemstillinger, der er der, at vi skal sikre, Vi vil ikke få vores sænkning til at påvirke nogle af de her foreningslokaliteter, fordi det ønsker vi ikke at mobilisere.
+
+00:52:11
+Tak for det. Der er to spørgsmål her, der sådan lidt omfatter det samme, og det er den her diskussion om, hvorvidt det terræn er grundvand eller vandløbsvand.
+
+00:52:26
+Der er en her, der spørger om, at I kan sige noget om skælden mellem forskellige typer vand i forhold til, hvad der er omfattet af lovgivningen her. Man kan for eksempel nemt forestille sig områder, hvor der er en høj udveksling af vand mellem et stort vandløb og et terrænglært grundvandsmagasin.
+
+00:52:38
+Og hvornår er det så grundvand, og hvornår er det vandløbsvand? Jeg
+
+00:52:41
+synes, det er et supergodt spørgsmål, fordi nu læser jeg lige op for lovgivningen, det tager ikke så lang tid at læse fuld. Skader ved oversvømmelse skal være fra terrænglært grundvand.
+
+00:52:51
+Oversvømmelse fra kyst, vandløb, søer og oversvømmelse fra tag og overfladevand er ikke omfattet af begrebet terrænglært grundvand.
+
+00:53:00
+Og det vil sige, Det forstår jeg ikke, at de har skrevet, fordi nogle gange er det jo, hvis du har netop et vandløb og noget terræn med grundvand, fordi vi har sand her og vi har vandløb, altså der er en totalt dynamisk interaktion mellem de to, så mener jeg ikke, at man kan skille det ad.
+
+00:53:22
+Det er nok en grænse, der er svær at sætte. Nu skal jeg se, at det vælter med spørgsmål her. Hvad er jeres tanker om grænsen mellem, hvad kommunerne skal undersøge inden udpejning, og hvad forsyningerne undersøger? Det er selvfølgelig en gentagelse, men det kan vel også blive dobbelt og rejlt. Jeg
+
+00:53:36
+synes, man skal tage en indledende god snak med hinanden, og finde ud af, altså, det her skrivebordstudie. Kommunerne skal jo udpeje de her undersøgelser. Der er jo nogle ting, der ligger på kommunens kulde, og så de skal måske lige lave et screening.
+
+00:53:49
+Så kan forsøgningerne prøve at se, hvor vi skal gå sammen om at blive klogere.
+
+00:53:54
+Der er flere steder, hvor forsøgninger og kommuner går sammen om at lave forskellige boringer, hvor vi gerne vil blive klogere i forhold til variationerne af grønlandsbejde, eller hvor skal vi sætte lokker op, eller hvor er det vigtigt at gøre forskelligt.
+
+00:54:07
+Så jeg synes, som udgangspunkt, at man skal prøve at lave nogle tidlige samarbejder, hvor man fordeler det lidt, så man sammen bliver klogere og får udpeget de rigtige ting.
+
+00:54:20
+Ikke
+
+00:54:21
+hvordan det står i lovgivningen, det ved jeg godt, men jeg synes, det er det, der vil praktisk set være en god ide. Tak.
+
+00:54:30
+Så bliver du spurgt ind til med det her. Du nævnte, at terrænet af grundvandsløsninger kan medføre reduceret grundvandsdannelse. Har man tænkt på det i forhold til vandindvinding?
+
+00:54:41
+Det
+
+00:54:43
+er ikke noget, der står specifikt i nogle af de bekendtgørelser, som jeg har læst, Altså, det kan jo have den konsekvens, at det er mindre grundanstandelse. Så
+
+00:55:00
+vi kommer jo til at få lidt vandramme, direktivet, på nogle af de her ting der. Altså det, hvor der er et dårligt kvantitativt af noget, eller et dårligt et eller andet, der skal man jo forholde sig til, om det kommer, når man skal lave sin miljøvurdering på et tidspunkt.
+
+00:55:16
+Det skal man forholde sig til, at det påvirker. Grundlandsforekomsterne, og der kommer helt automatisk ind, det her med, om jeg påvirker. Men man skal...
+
+00:55:26
+Det kommer ind på størrelsesordenen, fordi nogle gange er det meget små størrelsesordner, vi snakker om, når det er det terræn, andre gange er det meget store størrelsesordner.
+
+00:55:34
+Så det har noget at gøre igen med, om det er lir eller sand, for det er i sand, hvor det terræn er, der kan det være meget store vandmængder, vi taler om. Mens det ikke måske er så store vandmængder, når det er mere liret. Nej,
+
+00:55:48
+så er det jo inde i byerne. Så de sænkningspåvirkninger, vi har inde i byerne, det er jo typisk ikke der, de største drikkevandsinteresser er.
+
+00:55:59
+Og jeg tænker, at den udbredelse af et indvendingsopbland, man har til en drikkevandsboring, er væsentligt større end den udbredelse, der er for påvirkningen af det, der trænger af grundvand.
+
+00:56:11
+Så jeg tror ikke, problemstillingen er så stor, men ja, det skal jo vurderes i Miljøkunstgrænsvurderingen eller i VVM-screening.
+
+00:56:20
+I områder i Storkøbenhavn har vi jo et fint sammenfald af både drikmændsindvendning og problemer. Problemer meget med terræn og grundmænd. Så der vil være nogle steder, hvor man skal huske at få det med i sin vurdering.
+
+00:56:36
+Der er et spørgsmål fra mig her, der spørger om I har nogle inputs til, hvordan det er muligt at foretage en afgrænsning af en udpegning?
+
+00:56:47
+Altså en udpegning af et undersøgelsesområde for kommunerne? Det er sådan, jeg forstår det. Det vil jo være en sammenstilling af data, hvor man kigger på, hvor er Grønlandspejlen inden for det risiko-niveau, vi vurderer?
+
+00:57:06
+På det tidlige skrivebordstudiestadie og den viden, vi har der, så ville man lave en afgræsning af, Der har du et grundmandsspejl at sige, hvornår kommer det over den tærskelig værdi, som vi vurderer på. Og
+
+00:57:21
+så er det det der med, at hvis nu nu er sådan et leerede område, eller lidt af hvad selv, der kan det være lidt sværere, fordi det kan være meget mere varieret.
+
+00:57:31
+Altså lad os bare være ærlige og sige, at der hvor geologien hele tiden varierer, der kan grundmandsspejlet også variere rigtig, rigtig meget. Så det kan være en udfordring, men altså så må man altså også tyde til, Hvad siger boligforeningerne? Hvad siger boligejerne?
+
+00:57:46
+Har vi andre data, der kan hjælpe os til at få afgrænset nogle af de her ting? Fordi vi kan jo heller ikke bo os ihjel inde i byerne. Men i hvert fald se på det grundlag, der findes, og vurdere det grundlag, der findes, og sige okay.
+
+00:58:01
+Men altså, man kan også måske på forhold se lidt på, er der overhovedet nogle løsninger, der kan lade sig gøre i de her områder? Ja,
+
+00:58:09
+fordi det er jo også det, man skal overveje. Hvis man ligesom har sin områdeafgrænsen, der bor i udelukning på grundvandsstanden, og på de eventuelle geologiske vurderinger, så kan man jo måske blive nødt til at pille nogle områder ud, hvis der netop er foreningslokaliteter eller beskyttede natur.
+
+00:58:27
+Eller hvis man kan se, at der ikke er tæt bebyggelse her, så vi tror ikke, at den samfundsøkonomiske hensigtsmæssighed vil gå op i det område.
+
+00:58:36
+Fordi der står jo også, at undersøgelseområderne, kommunerne udpeger, Der skal man have et blik for, om man tror, man opnår den her samfundsøkonomiske hensigtsmæssighed.
+
+00:58:46
+Så det ville være sådan en afvejning mellem de forskellige parameter, hvor man måske har sit bruttoområde, og så bliver vi nødt til at reducere noget, fordi der er andre parameter, der ikke går op. Så
+
+00:58:59
+tror jeg, at vi bliver nødt til at tage et sidste spørgsmål her. Ved vi nok om geologien og grundvindstanden lokalt til at sikre kvaliteten i de lokale grundvindsmodeller? Geologien kan jo variere en del lokalt, og når vi er nede på materielniveau, betyder det en del.
+
+00:59:13
+Vi har mange grundeagerforeninger, hvor nogle få har store udfordringer, og jeg kan godt være i tvivl om, hvor godt et redskab i en lokal grundvindsmodel er i det tilfælde. Og så skal jeg lige sige, at hvis I kan gøre det en lille smule kort. Så
+
+00:59:26
+modeller er jo altid et redskab, og ikke sandheden, skal man så også vide, men det er stadig et redskab, der kan se på påvirkninger længere væk også.
+
+00:59:34
+Så det her med, at hvis det er det i områder med både natur eller nogle andre, så bliver man nødt til at kunne vurdere en påvirkning eller sætningsgivende. Så modeller har flere formål, men det er rigtigt nok, at på matrikelniveau vil der være usikkerheder. Så
+
+00:59:49
+kan der være et tilfælde, hvor vi vurderer datagrundlaget simpelthen ikke godt nok, hvor en analytisk løsning Hvor man bare beregner på, at et del faktisk er bedre. Så det er helt sikkert en mulighed, man skal have i mindre, at tage den beslutning, der passer til det aftaggrundlag, man har. Tak.
+
+01:00:06
+Så
+
+01:00:06
+bliver vi nødt til at runde af her. Jeg kan jo lige på falderæbbet informere om, at vi har et oplæg mere om terrænet af grundvand fra et myndighedsperspektiv allerede den 24.
+
+01:00:15
+februar, hvor Miljøstyrelsen kommer og fortæller om deres nye tillæg til spilevandsvejledningen i forhold til kommunernes planlægning for det terrænet af grundvand. Vi kunne sagtens have fortsat længe her, men der er mere den 24. februar. Tusind tak Mette og Johanne for et rigtig godt oplæg.
+
+01:00:32
+Tak til alle jer for de gode spørgsmål og for at lytte med i dag.
+

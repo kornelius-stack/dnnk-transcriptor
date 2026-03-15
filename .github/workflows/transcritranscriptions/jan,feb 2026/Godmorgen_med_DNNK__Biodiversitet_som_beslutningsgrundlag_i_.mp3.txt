@@ -1,0 +1,981 @@
+00:00:10
+Godmorgen og velkommen til Godmorgen med DNAK.
+
+00:00:15
+Mit navn er Cornelius Pahls, og jeg er vært der næste times tid.
+
+00:00:20
+I dag handler det om biodiversitets som beslutningsgrundlag i NBS.
+
+00:00:26
+Altså hvordan biodiversitetsviden kan blive praktisk anvendelig i forvaltningen og give et solidt grundlag for beslutninger.
+
+00:00:33
+I er meget velkommen som altid til at stille spørgsmål og komme med kommentarer løbende i chatten.
+
+00:00:39
+og så vil jeg følge op på dem efterfølgende.
+
+00:00:41
+Vi slutter dog af i dag.
+
+00:00:45
+Det bliver et lidt kortere webinar i dag, men så hvis der kommer de her spørgsmål ind, så har jeg aftalt med oplevelseholderne, at de bliver sendt videre til dem, så de kan svare på dem, så det ikke trækker ud, for der er lige en hård bagkant i dag.
+
+00:01:00
+Men jeg skal sige, at webinaret det bliver optaget, og så lægger vi det som altid efterfølgende ud i vores vidensbank.
+
+00:01:07
+I dag er oplægget afholdt af Leonard Sandina, research director og akvarisk økolog ved NINA.
+
+00:01:18
+Det er et norsk institut for naturforskning.
+
+00:01:21
+Og Tessa Barhiga, landskabsøkolog ved NINA.
+
+00:01:33
+Men jeg vil bare give ordet til jer og sige sendt af os, og tak fordi I kommer og deler.
+
+00:01:42
+Tak for det, og velkommen til vores seminar.
+
+00:01:48
+Som sagt, Leonhard Søndin, færskmandsøkolog, svensk, jobber tre år på Aarhus Universitet, og efter det fem år i Norge, så jeg snakker en type blandtnavisk, håber det er okay.
+
+00:02:00
+Og sammen med Tessa, Og vores samarbejdspartner er her, Jona Olavsdottir.
+
+00:02:09
+Jeg ser, at Jona er i møtet.
+
+00:02:11
+Det er veldig hyggeligt.
+
+00:02:12
+Hun er nu Ph.D.-student på Aarhus Universitet.
+
+00:02:14
+Isabelle og Line er på Niva, Norske Institut for Vandforskning.
+
+00:02:18
+Og Jon Museth, som også er på Nina.
+
+00:02:20
+Og vi tænkte snakke lidt i dag om biodiversitet og koblingen til MBS.
+
+00:02:35
+Som vi alle ved, så har vi et antal globale udfordringer på olika nivåer.
+
+00:02:40
+De udfordringer er selvsagt også nordiske udfordringer.
+
+00:02:44
+Hvordan kan vi begrænse de klimaændringer, som sker?
+
+00:02:47
+Hvordan kan vi beskytte biologisk mångfald?
+
+00:02:50
+Hvordan kan vi øge menneskelig velfærd?
+
+00:02:55
+For at se på den problematik og kopple til naturbaserte løsninger, startede Nordisk Ministerråd, som har finansieret det her projektet, et visionsprogram for naturbaserede løsninger med et antal projekter, der vi Nina og Niva blandt andet har let en del af dem.
+
+00:03:17
+Det første kaldede vi Situation, og den rapporten findes online.
+
+00:03:21
+Den er ganske enkel at hitte via nordicsituation.com.
+
+00:03:26
+Visionsprojektet gik ud på at kartlægge og syntetisere erfaringer i Norden med naturbaserte løsninger, både forskningsmæssigt, på governance-niveau, hvad som har sket praktisk ute i kommuner og regioner.
+
+00:03:44
+Det var Niva, LUKE, Lunds Universitet, Århus Universitet og Landbrugsuniversitetet på Island, som havde det projekt.
+
+00:03:56
+Det vi ved i dag er, at de traditionelle løsninger i forvaltningen, som vi har, ikke er tilstrækkelige for at løse de udfordringer, vi har i samfundet.
+
+00:04:05
+Vi må tænke natur som en del af løsningen, og vi må tænke biologisk mångfald som en del af løsningen.
+
+00:04:21
+Det tester jeg ekologer ved fokus på den naturdelen og biologisk mångfald.
+
+00:04:28
+Det er ofte så i forvaltning og så videre, at man snakker mye om klima, naturbaseret løsninger, som er en måte at løse klimakrisen.
+
+00:04:39
+Men vi må tænke biologisk mångfald også.
+
+00:04:42
+En naturbaseret løsning skal have en positiv effekt på biologisk mångfald.
+
+00:04:50
+Det er koblet også til IPES-arbejdet.
+
+00:04:55
+IPES var ledåter på en rapport om nexus, altså kopplingen mellem flere elementer, sektorer eller system.
+
+00:05:03
+Som vi ser her, så er det jo så, at inget af det her er enskilde enkelte enheder, utan alting hænger sammen.
+
+00:05:12
+Biodiversitet hænger sammen med menneskelig hælsa, med føde, med vand og med klimatændring.
+
+00:05:20
+Nexus-tilnærmingen handler om at forstå kopplingen og samspillet mellem de her systemer og sektorer på olika måten, for at maximere synergier og minimere afvejninger mellem de olika deler af nexen.
+
+00:05:37
+Det som ofte sker både i forvaltning og i praktikken er, at mykket af beslutsfatning, ekonomi, budget sker i siloer, altså man hitter isoleret på et problem, utan at tage sig hensigt i sammanhanger, hvilket leder til manglende samordning, dårlige konsekvenser og oversatte afvejninger mellem de olike næsselselement.
+
+00:06:06
+Ofte ser det jo vældigt kompliceret ud, altså sambanden er vældigt kompliceret.
+
+00:06:11
+Til eksempel om man har forændring i markanvendning i landjus, påverker det biologisk mångfald genom mange ulike ruter i mange ulike vejer.
+
+00:06:23
+Både via klima, via føde, altså landbrug til eksempel.
+
+00:06:28
+Vattenpåværken og koppet til menneskelighed også.
+
+00:06:36
+Det vi gjorde i Nexus-rapporten var, at vi tog frem et antal forslag på løsninger.
+
+00:06:48
+som vi i Nexus språk hedder Response Options, så det er olika typer af tiltak, man kan gøre.
+
+00:06:59
+Det er alt fra rent fysiske tiltak, hvordan man reducerer nærstoffer, nærsalter, til hvordan man ændrer finansiering, skydder ekosystem osv.
+
+00:07:14
+Alt det her er forslag, men titta gerne på den liste med forslag, som findes i rapporten.
+
+00:07:21
+Det findes sikkert nogenting, man kan prøve praktisk og se, om det fungerer.
+
+00:07:26
+En sidste ting kring strategier og kopplet til selve naturbaserte løsninger, så IUCN har taget frem en standard, Den er nu på gång.
+
+00:07:44
+En version 2 er på vej ud.
+
+00:07:47
+Det vigtige med standarden og det vigtige med en naturbaseret løsning er, at man måske er til helheden.
+
+00:07:53
+Man har nogen form af udfordring i samfundet.
+
+00:07:56
+Den måske designes.
+
+00:07:58
+Biologisk mångfald.
+
+00:08:00
+Titter på økonomien.
+
+00:08:02
+Inklusivitet, det vil sige, at alle kommer til tals.
+
+00:08:05
+Man måske balancere førdeler og nagteler.
+
+00:08:10
+Se til, at de tiltag, man gør, er adaptive.
+
+00:08:15
+Og så må man få ud det i samfundet, at det virker.
+
+00:08:18
+Jeg kan sige kort, at Nordisk Ministerråd har finansieret et nyt projekt, som leds af IUCN Danmark.
+
+00:08:26
+Jeg ved, at Årets Unmester er til partner med flere andre, der skal oversætte den nye standard til dansk, eller på skandinaviske sprog, og teste den i Norden.
+
+00:08:43
+Tilbage til biodiversitet.
+
+00:08:46
+Det vi har set i de studier, vi har gjort, er, at der findes et biodiversitetsskab, når man implementerer naturbare sætteløsninger.
+
+00:08:54
+Hvis vi kigger på, hvad som har sket i Norden, og hvad olike typer af lager og forordninger siger, så støtter politikken naturbare sætteløsninger, men det kaldes ofte ikke naturbare sætteløsninger.
+
+00:09:09
+Det kan kaldes grønblå løsninger eller andre typer af navn.
+
+00:09:14
+Det er også svårt at finde en klar definition af, hvad nettogevinst for biologisk mångfald er i de her sammanhange.
+
+00:09:21
+Man vil have en positiv biologisk mångfald, men hvordan skal man måle den, og hvad skal man måle?
+
+00:09:28
+En af de store problemer er, at man oftest har penge til at genvende for et tiltak, men man har ikke penge til långsigtig overvakning og evaluering af løsningerne, og så ved man ikke, hvilke løsninger, som faktisk fungerer eller virker i praktikken.
+
+00:09:43
+Hvilke skal man fortsætte med?
+
+00:09:44
+Hvilke har negative effekter, som man ikke tænkte på fra begyndelsen?
+
+00:09:49
+De indikatorer, man ofte bruger, fokuserer på tillægseffekter som flommeriske og så videre, men øverser den økologiske del.
+
+00:09:58
+Så vi må blive bedre på at måle biodiversitet og forstå og tænke kring indikatorer kopplet til økologi, biodiversitet, natur.
+
+00:10:09
+hvordan vi kan måle den, og hvilken positiv effekt vi er efter.
+
+00:10:13
+Hvad er det vi vil?
+
+00:10:16
+Kopplet til det, lidt på siden af, men veldig interessant, er noget som kaldes shifting baseline.
+
+00:10:23
+Shifting baseline er, at om man ser på det her Gauss-deltat i Norge, så er det her en flybild fra 1947.
+
+00:10:34
+Så her så deltat ud.
+
+00:10:36
+Om vi går videre til næste bild.
+
+00:10:40
+Og så her ser samme område ud i dag, 2020.
+
+00:10:44
+Der er store forændringer på e-halvtræsserne i 50-tallet i området.
+
+00:10:52
+Så sæg at du er født 1970, som jeg er, så har du ikke set noget andet end det her.
+
+00:10:59
+Det her er så du tænker, at det her systemet ser ud.
+
+00:11:04
+Om man kommer og siger, nu vil vi restaurere tilbage til det, som det var før, så tænker man, det har jo altid set ud så her.
+
+00:11:11
+Man har altså ingen koppling til, hvordan systemet har set ud naturligt.
+
+00:11:15
+Eftersom man ikke har det, så har man også svårere at forstå, hvorfor skal man gøre en forændring, hvorfor skal man restaurere til noget, som man ikke har nogen koppling til.
+
+00:11:23
+Det samme gælder olika typer af biologisk mångfald.
+
+00:11:27
+Om man ikke ved, at en fiskart har fundet sig der, eller i store mængder, og nu findes det ingen fisk, så har man svårt at forstå, hvad er det, vi har tapet?
+
+00:11:37
+Den tapede naturen, som man ikke ved om, som man er blind for.
+
+00:11:44
+Kopplet på noget, som hedder Network Nature, så har EU et netværk for EU-finansierte projekter, som handler om naturbaserte løsninger, og Network Nature at tage frem olika typer af handbøkker.
+
+00:12:03
+Blandt andet den her, som handler om evaluering af effekterne af naturbaserede løsninger.
+
+00:12:10
+Der man blandt andet siger, at godt udformede løsninger, som evaluerer naturbaserede løsninger, må have konkrete spørgsmål og en tydelig koppling til resultater, som jeg sagde tidligere.
+
+00:12:23
+Til eksempel biologisk mångfald.
+
+00:12:26
+Man må have robust metodik.
+
+00:12:28
+Balancere kompleksitet, afvejninger, gennemførbarhed og et tværsygt reelt team.
+
+00:12:34
+Du kan ikke jobbe i siloer.
+
+00:12:36
+Du må have det offentlige, private og civilsamfundet forskning påkopplet.
+
+00:12:42
+Visst, man skal gennemføre og evaluere MBL'er og starte småt og enkelt.
+
+00:12:55
+Starte med indikatorer, som bygger troværdighed og kapacitet, som folk forstår.
+
+00:13:00
+Kanskje kan måle selv.
+
+00:13:02
+Citizen science-typ indikatorer.
+
+00:13:07
+Tilpasse det lokale konteksten.
+
+00:13:10
+Involvere lokale praktikere og faglige eksperter.
+
+00:13:14
+Se til, at olike deler af det, man er interesseret i, kommer med.
+
+00:13:22
+Både økologiske, sociale osv.
+
+00:13:25
+Og del resultater med deltagerne.
+
+00:13:29
+Otroligt vigtigt for motivationen, at man faktisk får tilbakemeldning på det, man har målt, eller det, man har været med og bygget op, eller det tiltag, man har været med på, på nogen måde.
+
+00:13:39
+Man får tilbaks noget der, informationsmæssigt.
+
+00:13:44
+Et eksempel.
+
+00:13:46
+Vi har et projekt sammen med Bajsens Institut i Serbie, der vil titte på blomsterstriper som naturvarer, baseret til løsninger.
+
+00:13:56
+på solsikker, og vi har sagt ud kamerafælder i de her fælten, og registreret pollinatorer.
+
+00:14:05
+Så okay, hvis vi har de her blomsterstryper i kanten af fælten, får vi en økad biologisk mångfald, får vi flere pollinatorer ud i solsikkerplantagerne.
+
+00:14:22
+Biologisk mångfald er grundlaget for naturbaserte løsninger.
+
+00:14:25
+Vi må have økologisk opfølging for at sikre effekten af de tiltak, vi gør.
+
+00:14:30
+Øvervågning må være integreret i styrningen af naturbaserte løsninger på alle niveauer.
+
+00:14:38
+Nordisk Minsteråd har taget frem to guide- eller handbøkker.
+
+00:14:45
+En som hedder GuideMBS, den er til venstre, og en som hedder Advice, som er til højre.
+
+00:14:52
+Advice-projektet ledes af Niva, og handler om policy-delen af MBS.
+
+00:14:56
+Hvilke policies har vi i Norden, og hvilke policies har vi behov for fremover?
+
+00:15:02
+Guided MBS er mere praktisk og handler om, hvordan får vi til tiltag for olike typer af samfundsproblemer og ekosystemer.
+
+00:15:11
+Og det skal Tessa berette lidt mere om.
+
+00:15:15
+Ja, tak Lennart.
+
+00:15:18
+Lidt tilbage til programmet.
+
+00:15:21
+Jeg skal bare snakke om det i to slides.
+
+00:15:25
+Det er også noget, som lønner sig.
+
+00:15:29
+Nogle semesterråd, som er finansierte til det her.
+
+00:15:32
+Fem projekter i løbet af fem år.
+
+00:15:36
+De første projekter handler om det, som L.N.
+
+00:15:39
+har akkurat snakket om.
+
+00:15:40
+Kartlægge dagens situation og nogle pilotstudier, som knytter til det.
+
+00:15:45
+Otte stykker til sammen.
+
+00:15:47
+Og de sidste to adviser er Guided MBS.
+
+00:15:49
+At læse mere om det, så er der linker hernede.
+
+00:15:53
+Folk tager fokus på Guided MBS egentlig, men for at vise forskellen på de, fordi de lænker til hverandre.
+
+00:16:01
+Guided MBS er råd for den praktiske implementering i seks økosystemer og med samfundsudfordringerne.
+
+00:16:11
+Og her er det hovedsak målgruppen er for de som planlægger og udfører naturbørsættede løsninger.
+
+00:16:18
+Som lokale blodsætningstakere og almenheden.
+
+00:16:23
+Og så, hvad det ikke er.
+
+00:16:26
+Den handler ikke om policyen og loven som trængs for at planlægge naturbørsættede løsninger.
+
+00:16:31
+For det tager den policyhandboken sig af.
+
+00:16:35
+Så jeg skal komme til at snakke lidt mere om den praktiske handboken.
+
+00:16:40
+GuideMBS, som er GuideMBS-projektet.
+
+00:16:44
+Her ser I de samarbejdspartner, som var med, og mye af det samme, som var med på de andre projekter.
+
+00:16:50
+Denne handboken er netbaseret, og den er laget for planlægging og implementering.
+
+00:16:58
+Hovedmålet er at bruge information, som er tilgængelig for myndigheder og brugere af netbaseret løsning i praksis.
+
+00:17:07
+i de norske lande.
+
+00:17:08
+Det vil sige at mainstreame disse.
+
+00:17:12
+Sådan ser næssiden ud.
+
+00:17:17
+Det her til højre.
+
+00:17:18
+Først er det muligt at trykke på den knappe her, som er kringet ind i orange.
+
+00:17:27
+Det er på lære mere knappen.
+
+00:17:29
+For øvrigt, den næssiden findes også tilgængelig på dansk flere sider.
+
+00:17:34
+Så det skulle være let at finde frem.
+
+00:17:37
+Men her findes det generelle information.
+
+00:17:42
+Hvad er naturbesat løsninger?
+
+00:17:44
+En generel vejledning, som vi kommer lidt ind på nu.
+
+00:17:47
+Og restaurering og bevaring for eksempel.
+
+00:17:50
+Og her ser I lidt af den generelle vejledning.
+
+00:17:54
+Hvordan man planlægger en naturbesat løsning?
+
+00:17:57
+Lidt om den globale standard, som vi var inde om.
+
+00:18:01
+hvorfor vi trænger en slik vejledning, og så lidt mere generelle vejledere, eksisterende vejledere, som går på global, europæisk og nordisk niveau.
+
+00:18:12
+Og så har vi lidt information om kostnader og nytter, og overvækning og evaluering.
+
+00:18:20
+Og så her ser dere, ja, det har Leonard nævnt allerede, biodiversitet er veldig central, og så monitoring og evaluation er også det.
+
+00:18:32
+Så videre til...
+
+00:18:34
+Ja, her har jeg snakket om det allerede.
+
+00:18:38
+Du kan gå frem til de forskellige naturbaserte løsninger ved at klikke dig frem på økosystemene, og det er kyst, urbane områder, skog, fjell, kulturlandskaber, elvind, sjø og våtmark.
+
+00:18:52
+Eller så kan du gå ind via de samfundsumfundninger.
+
+00:18:57
+Og så får du praktiske råd og eksempler, som sagt.
+
+00:19:01
+Jeg skal gå ind i et eksempel af vejene, man kan gå ind, og det er et kyst.
+
+00:19:08
+Der kommer man til landingssiden, og der beskrives det forskellige samfundsudfordringer.
+
+00:19:17
+Og eksempler på, hvordan det kan være aktuelt i kystlandskabet.
+
+00:19:23
+Og så kommer der bl.a.
+
+00:19:27
+også en liste over forskellige konkrete naturbesatte løsninger, som er knyttet til kystlandskabet.
+
+00:19:35
+Og der kan man klukke sig videre.
+
+00:19:37
+Her er eksemplet på Ålegræsænger, der man får information om, hvad det er, hvor man kan anvende det, hvorfor man skal anvende det med tanke på samfundsudfordringer, og blandt andet biologisk mandfold.
+
+00:19:55
+Hvordan man skal gøre det, og det er praktisk råd, som jeg snakker om.
+
+00:19:59
+Og så forskellige potentielle udfald, og hvad man skal være opmærksom på.
+
+00:20:05
+Og da er jo det helt centralt biologisk mandfold også.
+
+00:20:11
+Og vi har flere eksempler af naturbeslæt løsninger, som sagt i de forskellige økosystemer.
+
+00:20:19
+Bare et sådan en fin grafik, som vi har laget frem, som viser et landskab uden naturbesatte løsninger, det degraderte landskab, og et, som har flere løsninger ind i.
+
+00:20:33
+Så kan man tilvise, hvordan man går ind med samfundsudfordringer med eksempel for forbedringer af biologisk mandfold.
+
+00:20:43
+Vi går lidt ind i den vejledning, som står der.
+
+00:20:48
+Først står jo biologisk mandfold eller forbedring af biologisk mangfold.
+
+00:20:55
+Så hvad det er, det er en forbedring af biodiversiteten, eller handlinger og strategier, som har som mål at øge diversiteten på alle former.
+
+00:21:05
+Og det inkluderer både artsdiversitet, så de enkelte artene, men også genetisk variation.
+
+00:21:14
+Og også økosystemdiversitet.
+
+00:21:17
+Så det er alle disse delene, som skal være med.
+
+00:21:20
+Ikke bare én.
+
+00:21:23
+Også for at evaluere disse biodiversitetsgevinster ved implementering af nødbesat løsninger, der kræver man også en grundig forståelse af egenskabene til økosystemet.
+
+00:21:36
+Først kan man sætte konkrete mål for biodiversiteten.
+
+00:21:42
+Det nytter ikke, hvis man ikke har forståelse for økologien.
+
+00:21:45
+Det er heller ikke hensigtsmæssigt at sætte mål, som man ikke har en formening om, skal fungere.
+
+00:21:57
+Der var også en baseline-evaluering, som skal indeholde lidt oplysninger om, hvad tilstanden til det økosystem er.
+
+00:22:10
+Og af og til kan det være vanskeligt at vide det, fordi det økosystem ikke findes i den form, som den er akkurat det sted.
+
+00:22:20
+Så kan man for eksempel finde tilsvarende økosystem, som man synes er i god stand et andet sted.
+
+00:22:29
+Ellers så har man information om, hvordan det økosystem var frem i tid.
+
+00:22:35
+Og så kan man sammenligne med det helst med data som findes fra den tiden.
+
+00:22:39
+Eller billeder.
+
+00:22:41
+Som Leonard også viste et billede af.
+
+00:22:46
+For at sammenligne hvordan det var og hvordan det er i dag.
+
+00:22:51
+Man må også kunne fastsætte hvilke årsager der er til tapet af biodiversiteten.
+
+00:22:57
+Også som følge af det er mulighederne for forbedring.
+
+00:23:03
+Denne vurdering skal være vitenskaplig funderet, men ofte er det også vigtigt at samle ind lokalskundskab.
+
+00:23:17
+Folk som husker, hvordan landskabet så før, husker arterne, som var der før f.eks.
+
+00:23:26
+Så har vi lidt information om, hvad man skal være opmærksom på, når man ser på biodiversitet i en naturbaseret løsning.
+
+00:23:36
+For at måle biodiversitet generelt, er det ofte mere kompliceret, end man tror.
+
+00:23:46
+Det er ikke bare antall arter.
+
+00:23:50
+Nogle fire faktorer, som vi skal snakke lidt om, som bør tænkes på, når man evaluerer naturbaseret løsning.
+
+00:23:58
+Det er skala, det er den første, som er på denne sliden.
+
+00:24:01
+Så målart, det hedder succesart på dansk.
+
+00:24:05
+Og så kontekstafhængighed og konnektivitet.
+
+00:24:10
+Så skala, en naturbaseret løsning kan føre til en økning af arter.
+
+00:24:17
+Men hvis man ikke vurderer denne stigning på et bredere regional eller global sammenhæng, så kan det være ganske vanskeligt at bedømme, hvad den biodiversitetsgevinsten egentlig er.
+
+00:24:30
+Så for eksempel hvis en løsning favoriserer arter, som er veldig vanlige og ikke er til nogen hjælp for sjældne eller edneviske arter, så er den artsrigdommen ikke værd i et større skala heller.
+
+00:24:51
+Og så er det også vigtigt at tænke på andre konflikter, når det gælder beskyttelser af habitater, som er specielt vigtige for landet eller regionen, og da specielt arter, som er på øjeziens rødlæste.
+
+00:25:13
+Det næste er målarter og succesarter.
+
+00:25:17
+Det er vigtigt at tænke på forhånd, hvilke arter det ønskes, som bliver fremmet af naturbesætteløsningen.
+
+00:25:27
+Og hvilke arter ikke er det.
+
+00:25:30
+Det kan høres dårligt, at det er færre arter.
+
+00:25:38
+Det var ikke det vigtigste at have flest mulige arter.
+
+00:25:43
+de målarter, som man har defineret, og flere af de ønskede artene frem for en stor forkomst af arter, som ikke egentlig hører til det økosystem, som man skal have frem.
+
+00:25:56
+Og det er heller ikke bra at have et højt antal vanlige arter, eller endda værre invasive arter, som vi ikke ønsker i biodiversiteten som helhet.
+
+00:26:11
+Tredje ting at tænke på er kontekstafhængighed.
+
+00:26:16
+En naturbaseret løsning er ikke lige bra i alle habitater.
+
+00:26:25
+Det skal nævnes, at hvis man vil have et artsfattigt økosystem, så er det ikke Det som man vil at have mange arter, der vil man have et fattigt økosystem også.
+
+00:26:44
+Og for at vurdere, hvad man egentlig sigter mod, så er det vigtigt at tage med lokal lovgivning og eksistering af forvaltningsplaner.
+
+00:26:56
+Som f.eks.
+
+00:26:56
+hvis man har økosystemer og arter, som man egentlig vil bevare eller beskytte i i region eller i landet, så er det også vigtigt at tage med sig.
+
+00:27:10
+Til slut har vi konnektivitet.
+
+00:27:15
+Her snakker vi om landskabskonnektivitet.
+
+00:27:19
+Det er vigtigt for den langsigtige overlevelse af artene.
+
+00:27:23
+Hvis man ser, at en art er isoleret, så er det mindre sandsynligt, at den kan overleve.
+
+00:27:29
+Det er essentielt at vurdere næreliggende områder, som enten kan fungere som korridorer for migration eller for spredning generelt, eller som fødesøkingsområder.
+
+00:27:47
+I samme logik er det også nødvendigt at identificere barriere, som kan hindre den bevægelse eller reproduktion af varten.
+
+00:27:57
+Det allerbedste er, at hvis den naturbaserte løsningen kan bidrage til biodiversitetsforbedringer både på lang sigt og på tværtærs af store geografiske områder, så er det vigtigt at tænke lidt på at koble sammen forskellige lokale tiltak med regional bevaringsindsats.
+
+00:28:23
+En anden ting, eller to andre ting, som man skal være opspå, det har Leonard været inde om også, det er den overvåkningsdelen.
+
+00:28:32
+For i dag er man sikker på, at den naturbaserte løsning har opfyldt de mål, som man har sat.
+
+00:28:39
+Og den del af projektcyklusen til naturbaserte løsning er veldig vigtig.
+
+00:28:45
+Og der indgår også den måling af myodiversitet før og efter tiltaket.
+
+00:28:52
+Og så det andre er jo, at man lærer af den effektiviteten af det projekt, man har sat i gang.
+
+00:28:59
+Så ja.
+
+00:29:01
+Og det har været projekt-time her.
+
+00:29:03
+Det var ganske mange deltagere, og du kan læse mere på disse, enten i rapporten, som er på denne side, eller som går direkte til nettsiden, den mbsguide.org.
+
+00:29:16
+Ja, da har du lært lidt igen.
+
+00:29:18
+Ja.
+
+00:29:19
+Vældig kort, du kan nok gå frem en til, jeg tror logon kommer frem, om du tager et steg til Sonja.
+
+00:29:26
+Vældig, vældig kort, to ting til.
+
+00:29:29
+Vi er præcis startet, det er vores kollega Astrid Breckes Grindå på Nina Oslo, sammen med en stor gæng, som har fået et projekt finansiert af Sparbankstiftelserne, som hedder Tag naturen tilbake.
+
+00:29:42
+Og der målsætningen er, at vi skal tage naturrestaureringen årligt til et nyt niveau.
+
+00:29:50
+Det skal blive lettere at starte og komme i mål med forskningsbaseret naturrestaurering.
+
+00:29:54
+Så det er restaureringsfokus, men det er jo en del af MBS.
+
+00:29:58
+Så det er et projekt, som jeg tror, der findes en slide til, om du går videre.
+
+00:30:03
+Vi skal titte på, hvad sker i Norge, i Skandinavien, Norden og overhovedet.
+
+00:30:13
+Når det gælder naturrestaurering, hvor er vi i status?
+
+00:30:18
+Og så findes det et ganske stort antal førebilsprojekter.
+
+00:30:22
+Der bliver praktisk gennemføring og følgeforskning.
+
+00:30:25
+Både samfundsvitenskaplig og naturvitenskaplig følgeforskning.
+
+00:30:29
+Og så skal vi formidle og kunskapsdele det her ud.
+
+00:30:33
+Så det er præcis draget i gang.
+
+00:30:35
+Det er fire år og bliver veldig spændende.
+
+00:30:37
+Og så en sidste slide.
+
+00:30:40
+Vi har under Network Nature en nordisk hub for naturbaserte løsninger.
+
+00:30:48
+Som jeg, tilsammens med Jona, Olaf Stottir og Lisa Dalli på Færøerna leder, så gå gerne ind og titte på hubben, og der kan man både som enkelte person blive medlem eller som organisation.
+
+00:31:06
+Det var det, vi havde tænkt at sige.
+
+00:31:10
+Tak.
+
+00:31:11
+Tusind tak, Leonard og Tessa, for oplæg med interessante pointer.
+
+00:31:18
+Og som sagt, inden I gik på, så fik jeg også sagt, at oplægget, det kan findes om en uges tid i vores vidensbank.
+
+00:31:26
+Og vi slutter lidt bræt i dag.
+
+00:31:30
+Så de spørgsmål, der er kommet, dem kan
+
+00:31:32
+vi...
+
+00:31:33
+Nå, undskyld.
+
+00:31:34
+Det var noget om F'en der.
+
+00:31:35
+Jeg kan gerne sige noget om det, om I vil.
+
+00:31:39
+Det var det, jeg så.
+
+00:31:40
+Jeg kan sige en anden sag, og det tænkte vi kanskje ikke på.
+
+00:31:44
+Vi definerer aldrig naturbaserte løsninger.
+
+00:31:46
+Vi tænkte, at det var et publikum, som vidste, hvad det var, men vi kanske veldig kort skal sige, hvad det er.
+
+00:31:51
+Det findes flere definitioner, men denne definition koppler lidt til det spørgsmål, som kom.
+
+00:31:56
+EU har en definition, men jeg tror, at i princip alle bruger FN-definitionen nu.
+
+00:32:05
+Den er, at naturbaserte løsninger er tiltag for at beskytte, bevare, restaurere, bærekraftigt bruge og forvalte naturlige eller modificerte Træstiske, ferskvanske, kyst- og marine ekosystemer, som på en effektiv og tilpassningsdygtig måde adresserer samfundsudfordringer, samtidig som de giver førdeler for menneskelig velfærd, ekosystemtjenester, modståndskraft og biologisk mångfald.
+
+00:32:26
+Vi plejer at sige, at det er natur for mennesker og for naturen selv.
+
+00:32:32
+Så det er vigtigt at tænke på.
+
+00:32:35
+Men der var noget spørgsmål om, hvordan naturbaserte løsninger kopler til FNs bærekraftsmål, tror jeg det var.
+
+00:32:45
+MBS er jo en måte at få til praktisk tiltak i virkeligheden, så det er klart, at det er et virkemiddel for gennemføring af bl.a.
+
+00:33:00
+bærekraftsmålen.
+
+00:33:01
+Det er også en integreret mekanisme, eftersom det er en stark koppling mellem samfundets behov, gennemførende, biologisk mångfald og klima.
+
+00:33:13
+Det findes jo den koppling der, som jo bærekraftsmålen også har.
+
+00:33:19
+Og det er jo, tanken med MBS eller MBL er jo at tænke systemer, altså, hvor jobber vi, så vi ikke har løsninger, som går i siloer, eller tiltag, som går i siloer, utan at vi tænker integreret.
+
+00:33:33
+Så det er, så jeg tænker, har du noget tanker at teste kring det?
+
+00:33:38
+Noget tillæg?
+
+00:33:39
+Nej.
+
+00:33:45
+Meget fint.
+
+00:33:46
+Men altså, der er lige kommet et ekstra spørgsmål, jeg tænker måske lige vi kan nå.
+
+00:33:51
+Er det muligt at få tilsendt slides?
+
+00:33:53
+Og så kan I eventuelt sende dem til mig, hvis det er.
+
+00:33:55
+Og så kan jeg få videre.
+
+00:33:57
+Det kan vi
+
+00:33:57
+sikkert gøre.
+
+00:33:58
+Ja.
+
+00:33:59
+Det kan vi
+
+00:33:59
+godt, ja.
+
+00:34:00
+Men ellers så,
+
+00:34:02
+hvis
+
+00:34:02
+der er flere spørgsmål, så send dem på min mail.
+
+00:34:05
+Jeg har også lagt dem i chatten.
+
+00:34:08
+Det er kp-dlnk.dk.
+
+00:34:10
+Og så skal jeg nok sørge for at få
+
+00:34:12
+dem
+
+00:34:12
+videre.
+
+00:34:12
+Alternativt, så laver jeg et opslag på LinkedIn.
+
+00:34:15
+Og der er I selvfølgelig også velkommen om det her webinar.
+
+00:34:18
+Der er I velkommen til at kommentere og interagere, som det hedder.
+
+00:34:21
+Men ellers så bare tusind tak til alle dem, der deltog og stillede spørgsmål.
+
+00:34:26
+Og jeg vil også gerne lige tilføje, at vi i DNAK er enormt glade for alle de gode idéer og tips til webinarer, vi får.
+
+00:34:33
+Så bliv endelig ved med det.
+
+00:34:35
+Ja, men ellers så er vi færdige.
+
+00:34:40
+Rigtig god dag, og tusind tak til jer to for oplæg, og tak til alle, der lydede
+
+00:34:44
+med.
+
+00:34:45
+Tusind tak.
+
+00:34:46
+Hav det fint.
+
+00:34:47
+Tak
+
+00:34:47
+for os.
+
+00:34:48
+Hej hej.
+

@@ -1,0 +1,1251 @@
+00:00:08
+Dere alle, på vegne af DNNK vil jeg byde velkommen til dagens Tech Talk.
+
+00:00:13
+I teknikken sidder Morten Halling, og jeg er Christoffer Sindby, af Dagens Hverdag.
+
+00:00:18
+På god ordens skyld skal det siges, at Tech Talken vil blive optaget, og vil blive lagt på DNNK's hjemmeside i løbet af nus tid.
+
+00:00:27
+Lige i forhold til det praktiske, så kender I det med, at jeres mikrofoner og kamera er slukket.
+
+00:00:33
+Men I kan stille spørgsmål undervejs løbende under oplægget, og så vil jeg tage dem med til sidst.
+
+00:00:40
+Dagens Tech Talk er med Smartbrønd, hvor Mikkel Prins vil præsentere en styrbar vandbremse, hvordan den styres, og hvad den kan bruges til.
+
+00:00:49
+Så Mikkel, tusind tak fordi du vil stille op og præsentere jeres løsning her.
+
+00:00:53
+Ordet er dit.
+
+00:00:56
+Ja tak.
+
+00:00:58
+Hej, jeg hedder Mikkel, jeg er kommet fra Smartbrønd, og I kan godt høre mig, ikke?
+
+00:01:04
+går ud fra.
+
+00:01:08
+Cool, så hvad hedder det kort, så hvad Smartbrøn er, er en virksomhed, som nu har været eksisteret i fire år, og vi har et kontor på Nørrebro, og så har vi fået lavet et lager og et værksted i Dalmuse, og så har vi fire ansatte nu, som hjælper med at sætte op og producere, Og så er vi meget stolte af, at sidste år i november, der vandt vi årets IOT-pris på vores teknologi.
+
+00:01:41
+Det her med, at vi kan finde ud af at kommunikere og sende data ud igennem brønden, og så bruge data aktivt, hvilket vi vil se lige om lidt.
+
+00:01:51
+Og så det, vi arbejder rigtig meget med i Smartbrønd, det er det her med indsigt i klimatilpasningsprojekter, og så arbejde med innovative og intelligente løsninger.
+
+00:02:03
+Og meget groft, så er SmartBrøn en vandstandsmåler, hvor vi har bygget en hjerne, der er ligesom inde i det her sorte rør.
+
+00:02:18
+Og det er den, der ligesom kan styre de sensorer, som vi arbejder med.
+
+00:02:23
+Primært en vandstandsmåler, som vi har i pejlerør og i brønne.
+
+00:02:29
+Og så har vi et dashboard, der har zoomet meget ind i I der, hvor enheden er henne, så vi giver input til, hvad den her vandstandsmåling er.
+
+00:02:41
+I det her tilfælde, som I ser her, så monitorerer vi på vandstandshøjden, men kommenterer det til en kubikmeter og en udnyttelsesgrad af det system.
+
+00:02:52
+I forbindelse med alt det monitorering, vi har lavet, har vi bare har vi selv syntes, at der var brug for en styrbar vandbremse, som vi kalder det, som er den, jeg vil fortælle om i dag.
+
+00:03:04
+Det her med at styre vandet på en ny måde, og sikre, at vi kan tilbageholde vand på en ny måde, og så arbejde med et fast udløbsflug, trods vandhøjden.
+
+00:03:18
+Det er bare for at vise, hvad vi også kan, og at vi ikke er helt nye mere.
+
+00:03:25
+I dag har vi over 300 aktive enheder ude, Det er både værstationer og vi kan monterere på tapbrønden.
+
+00:03:35
+Vi har også e-kolemåler, og så har vi et udviklingsprojekt på flåmåler, hvor vi kan måle flået i en kloakledning.
+
+00:03:46
+Så har vi rigtig meget i pejlerør, hvor vi faktisk kan komme ned under terrænet også.
+
+00:03:52
+Vi har 60 målere ude i dag, der monterer på terrænet af grundvand.
+
+00:03:57
+Men vi er primært det her med i klimatilpasningsprojekter på volumer.
+
+00:04:01
+Vådebassiner og kassettesystemer under terræn.
+
+00:04:04
+Og så det her med, at vi gerne vil styre vandet igennem dem.
+
+00:04:08
+Og bare for at prøve at tage med på den rejse, vi har været på indtil videre.
+
+00:04:15
+Så det her er sådan et klassisk projekt i Frederiksberg, hvor under vejen er der gravet brevfrepakkerede kassetter under.
+
+00:04:23
+Det er det her.
+
+00:04:26
+Der ligger et volym på 655 kubikmeter undervejen, som tager et større opland.
+
+00:04:32
+Og så er det et lukkesystem, som er koblet til kloakledningen herude i vejen.
+
+00:04:39
+Og der har vi så montureret på.
+
+00:04:43
+Og den graf, I ser på her, det er den røde her, det er volymen, altså hvor meget vand har der stået inde i anlægget, siden vi satte vores måler op den 9.
+
+00:04:54
+marts 2023.
+
+00:04:57
+De blå er søjler her.
+
+00:04:59
+Det er nedbyrdsdata fra DMI, Livegardens Kaserne.
+
+00:05:04
+Der er flere hændelser, men noget, jeg synes, er ret interessant, er hændelsen her i november 2023, hvor der faldt 70 millimeter.
+
+00:05:14
+Der stod der kun lige 10 kubikmeter vand inde i det her anlæg.
+
+00:05:18
+Det var derfor, vi fik lov til at ændre vandbremsen fra en 20 liter i sekundet til en 2 liter i sekundet.
+
+00:05:27
+Og så kan I se, at den røde graf her begynder at give et udslag nu.
+
+00:05:30
+Så hver gang det regner nu, så begynder vi at tilbageholde vand.
+
+00:05:33
+Men der var stadig langt op til de 655 kubikmeter, så vi ændrede vandbremsen igen til 0,9 liter i sekundet.
+
+00:05:41
+Og når man så gør det på en vandbremse, så har den utrolig lang tømmetid.
+
+00:05:47
+Her kan I se den 19.
+
+00:05:49
+september, hvor der falder 78 millimeter, hvor vi er op omkring 400 kubikmeter, og det bliver tilbageholdt.
+
+00:05:56
+Så alligevel er der en tømmetid på fem dage, og så er det jo lige pludselig rigtig svært at styre sådan et anlæg på baggrund af en klassisk vandbremse.
+
+00:06:08
+Og noget af det, vi også har fundet ud af ved i hvert fald vores vandbremse, det er, at det ligesom kun er skybrudet, den rigtige tar, når man er...
+
+00:06:19
+Det her er 6 liter i sekundet, så satte vi en måler i her i den...
+
+00:06:24
+Den 29.
+
+00:06:26
+november, 24, og det er vores vandbremse på 6 liter i sekundet.
+
+00:06:30
+Og det jeg synes er interessant at lægge mærke til, det er at rigtig mange hændelser står der ikke vand i.
+
+00:06:35
+Det har jeg kun herovre ikke set.
+
+00:06:35
+En rød graf repræsenterer, at når der kommer vand ind i volumen, at det kun er her den 2.
+
+00:06:40
+august, hvor der falder 50 millimeter, der står vand.
+
+00:06:43
+Alle de andre hændelser her, der løber vandet faktisk lige igennem anlægget og videre i kloaken.
+
+00:06:49
+Og ja...
+
+00:06:51
+Det er bare rigtig tankevækkende med de lange veje af regn, hvor jeg også kan læse nogle gange, at det er der, der sker overløb til for eksempel Øresund.
+
+00:07:00
+Og så er det bare tankevækkende, at der er så stort et volume til rådighed, som ikke bliver fyldt.
+
+00:07:06
+Og det her er så et zoom af den her 2.
+
+00:07:08
+august, så zoomer vi ind der.
+
+00:07:11
+Og her kan I se, at det her ene kassettesystem er næsten ved at være helt fyldt.
+
+00:07:19
+Og så det, der ikke er med her på grafen, det er faktisk, at der er sådan et stort Der er volumen oppe i terrænet, som slet ikke bliver udnyttet.
+
+00:07:27
+Jeg tror, at der er næsten 500 kubikmeter deroppe.
+
+00:07:31
+Det, der er med vores vandbremse, som er sat til 6 liters i kunde, det er, at den tømmer.
+
+00:07:40
+Den vender igen under hændelsen.
+
+00:07:41
+De blå søjle her repræsenterer det her skybrud, hvor der falder 50 millimeter.
+
+00:07:47
+Den falder ud ret hurtigt igen.
+
+00:07:52
+Den tømmer under og lige efter nedbørstehændelsen, og derfor er der stadig risiko for oversvømmelse og nedstrøms.
+
+00:08:00
+Det vi så har fundet ud af med vores vandbremse, det er jo det her med, at vandtrykket, vandhøjden, betyder så utrolig meget for det flow, man indstiller den til.
+
+00:08:11
+Altså en meters vandtryk svarer til et tons tryk per kvadratmeter.
+
+00:08:16
+Og i den rapport, vi har fået lavet fra Teknologisk Institut på vores vandbremse, så svarer en meters vandtryk faktisk til en halv.
+
+00:08:24
+Så når man tror, at man har 6 liter i sekundet, og der så er en meter over det satte punkt, så er det faktisk 21 liter i sekundet, hvilket er ret interessant og vildt, at der er så stor påvirkning.
+
+00:08:38
+Det var i hvert fald noget, vi undrede os en del over.
+
+00:08:41
+Det er derfor, vi har udviklet en styrbar vandbremse.
+
+00:08:45
+Så den åbning, der er i bunden af vores enhed, kan vi styre, Så når det regner, så er vi i stand til at lukke den helt, fordi vi kan mærke vandbevægelsen dernede i brønden.
+
+00:08:55
+Og så kan vi lukke den ude for en eller anden tidsperiode, så alt det vand, der bliver samlet op i det her anlæg, bliver tilbageholdt i anlægget.
+
+00:09:03
+Og det her er et eksempel på Frederiksberg, hvor den 2.
+
+00:09:10
+august, hvor der kom de her 50 mm, der kan I se, at den røde graf her viser, at alt vandet, det samler op, tilbageholder det.
+
+00:09:21
+Og så havde vi mulighed for at se, om det her anlæg egentlig er tæt, hvilket det er.
+
+00:09:27
+Og så besluttede vi os for, at her den 8.
+
+00:09:31
+august, at det var helt vildt at sende vandet ud, fordi der var plads i crack-systemet.
+
+00:09:39
+Og det vi så kan her også, det er, når vi så siger, at nu mener vi, at vi kan lede ud, så kan vi lede ud med, hvad hedder det, Nogle ret små udløbshastigheder.
+
+00:09:53
+Det er her bare et eksempel på, at vi kan komme ned på 0,14 liter i sekundet, og så kan I se, at den stille og roligt daler.
+
+00:10:00
+Og til det har vi fået Teknologisk Institut til at teste vores vandbremse, så vi ved lige præcis, hvad det svarer til, når den er åben.
+
+00:10:11
+Og det er det, jeg kan vise jer med det her værktøj her.
+
+00:10:14
+Så hvis jeg nu sætter den helt ned til 0,01 liter i sekundet, hvilket er jo helt Ja, ret vildt.
+
+00:10:21
+Men når vores enhed er 1 mm åben, og ved en vandhøjde på 1 cm, så er det 0,013 liter i sekundet.
+
+00:10:28
+Og så ved jeg godt, at det er så lidt, at det vil slemme til, og det får vi også at vise jer, hvordan vi så har arbejdet med det her, med hvordan de selv kan drifte sig.
+
+00:10:38
+Og det vi så også kan med det her, det er hvis vi siger, at det var 6 liter i sekundet, så kan I se...
+
+00:10:45
+Ja, det I ser på grafen her, det er faktisk vores...
+
+00:10:48
+Hvor meget skal den være åben for at ramme det her?
+
+00:10:51
+Og så nede i tabellen, så kan I se ude for vandhøjderne herovre, så åbningsgraderne.
+
+00:10:57
+Og så er det faktisk først, at den styrer sig til ved 1,5 meters vandtryk, så det er der, den tilpasser sig.
+
+00:11:04
+Jeg hedder til 30 mm for at ramme de der 6 liter i sekundet.
+
+00:11:07
+Og det er det, vi kan.
+
+00:11:08
+Det er altid max.
+
+00:11:09
+Så hvis vi har sagt max, i det her tilfælde har vi sagt, Max 6,06, så det er ligesom den, vi indstiller os ud fra lige under, aldrig over.
+
+00:11:21
+Jeg skal lige prøve at komme tilbage.
+
+00:11:24
+Det,
+
+00:11:31
+jeg synes, er meget interessant at kigge ind i, når man har med styr på vandbremsen at gøre, så kan man faktisk lige pludselig begynde at og snakke ind i rigtig mange nedbørshendelser, og håndtere rigtig mange.
+
+00:11:43
+Det her er et eksempel på, at vi husker grafen før, hvor det først kun var den 2.
+
+00:11:48
+august, der toppede et projekt.
+
+00:11:50
+Her tager vi rigtig mange hendelser, også de langbare i regn, og så de her forskellige tømmetider.
+
+00:11:59
+Det er jo det, der er muligheden ved den.
+
+00:12:02
+Når vi så mærker regn, så lukker den, og så kan det være 24 timer eller to eller tre døgn, før den åbner op til en eller anden hastighed.
+
+00:12:09
+Og så giver det nogle helt andre muligheder for at håndtere de her regn, der kommer.
+
+00:12:18
+Ja, og så det, som vi så har fundet ud af, når vi så presser de her vandbremser rigtig langt ned, det er, i hvert fald vores her, den er slemmet til.
+
+00:12:28
+På Mises vej gik den fra 0,9 litersekunde til 0,2 litersekunde.
+
+00:12:34
+Vi kan næsten se her, hvordan det meget, meget langsomt falder ud.
+
+00:12:39
+der udløber systemet.
+
+00:12:41
+Og så får vi en driftalarm, og så er vi ude at drifte den, og så kan man faktisk, at vores enhed er lavet sådan, så den kan serviceres fra terræn, så man kan få den op fra terræn, man skal ikke ned i den.
+
+00:12:53
+Og så i det her tilfælde her, så viste det sig, at det var nok en nytårsballon, det der ligger her, som havde sat sig fast i enheden.
+
+00:13:01
+Og så havde vi så kunne pille det ud, og så blev den så funktionsdygtige igen, udefra at de havde 0,99 seconde.
+
+00:13:11
+Og det her er bare et andet eksempel på et projekt, der også har en vandbremse, der er presset ret langt ned, hvor det var lukket helt til fra 0,8 liters sekunde til 0,83 liters sekunde.
+
+00:13:25
+Og så fik vi en driftalarm, og så Riksbærg Kommunes egen driftfolk var så ude og drifte det her, da man fandt fandt brønden, hvor den var henne.
+
+00:13:38
+Det her er bare et projekt, hvor det ligesom er et overløb til et nyt kammer, hvor der er et nyt udflug.
+
+00:13:44
+Så i virkeligheden, det her så man kun, fordi al vandet var under terræn, så man ville først opdage det her, når det virkelig var helt tosset.
+
+00:13:52
+Så man havde faktisk et volume, der reelt set kunne stå fuldt med vand, hvis man ikke havde haft en måler i, eller været ude og kigge i systemet.
+
+00:14:00
+Så det der med at finde, at finde ud af, hvornår det skal driftes.
+
+00:14:04
+Det er det, vi er blevet ret gode til, at kunne sende de her alarmer, når der sker noget unormalt med udløbsflåget.
+
+00:14:14
+På baggrund af al den erfaring, vi fik med at se, hvordan ting slæber til, og hvor vigtigt det er at være opmærksom på det her med driften, fik vi udviklet på vores dyrbare vandrems en rensecyklus, kalder vi det.
+
+00:14:29
+Fordi vi har vandstensmålen, kan vi se vandbevægelsen.
+
+00:14:34
+Hvis den ikke gør, som den burde gøre, kan den køre en driftcyklus.
+
+00:14:38
+En driftcyklus i vores enhed betyder, at den kan åbne og lukke tre gange.
+
+00:14:45
+Det kan godt være, at vi skal tilpasse det.
+
+00:14:47
+I det her tilfælde er det et vådbassin i Boslunde.
+
+00:14:53
+Der er det stoppet til, og så kan I se, at der er kørt en driftcyklus.
+
+00:14:59
+Det åbner og lukker, og I kan se, at vandet kommer ud.
+
+00:15:01
+Men det er ikke driftet 100 procent.
+
+00:15:05
+I kan se, at vandet stiger ret hurtigt igen.
+
+00:15:08
+Så kører vi en driftcyklus igen, og så ændrer udløbshastigheden sig.
+
+00:15:12
+Så kører vi en til, og så ændrer den sig endnu mere.
+
+00:15:15
+Så kører vi den en fjerde gang, og så har vi et normalt udløbsflåg igen.
+
+00:15:19
+Det er et vådbassin, der er på 1 liter i sekundet.
+
+00:15:24
+Det her er et andet eksempel, bare vist i kubikmeter.
+
+00:15:28
+et projekt, og det er faktisk for smeltevandet her i søndags, hvor det regnede ret meget.
+
+00:15:34
+Lige efter hændelsen kan vi faktisk se, at det er slemmet til, og så kører vi tre driftcykluser, og så kører den almindeligt, så kommer der noget regn her igen, som man ikke kan se her på grafen, fordi hver station er 11 kilometer væk.
+
+00:15:51
+Men pointen er det her med, at når man ser, at enheden ikke opfører sig normalt med udløbet, så kan vi køre et vaftcyklus, og så kan den rense sig selv.
+
+00:16:06
+Det her er et eksempel på, at når man kan tilbageholde vand, så har man mulighed for at genbruge det her vand.
+
+00:16:17
+Det her er et projekt, hvor der ligger et kassettesystem på 260 kubikmeter under her, som opsamler for et ret stort 1 hektar opland, er koblet på og ledes herind.
+
+00:16:32
+Og så har vi fået lov at sætte en vandboks op, som faktisk kan hive vandet op for det her volume.
+
+00:16:41
+Og så sidder der en fugtighedsmåler, der kører på samme system.
+
+00:16:44
+Og da den fugtighedsmåler kan se, at fugtigheden af jorden er ved at ramme væsnegrænsen af den her jord.
+
+00:16:57
+Almindelig supermuld ligger der.
+
+00:16:59
+Så kan vi faktisk få systemet til at pumpe automatisk ud i de her drypslanger.
+
+00:17:03
+Trykkompenseret drypslanger, det man kan se herovre.
+
+00:17:06
+Og så tager den genbrug af det her vand fra det opsamlede regnvand frem for at lede det videre til kloaken.
+
+00:17:12
+Og det der også er derude, det er at der er lavet sådan en tapbrønd, så driftfolkene i Frederiksberg Kommune kan køre ud og hive vand op og køre ud af vandbyens træer med det her system.
+
+00:17:23
+Det er også på baggrund af den styrbare vandbremse, der kan sørge for, at vi tilbageholder.
+
+00:17:28
+I det her tilfælde er den sat til, at den tømmer ud hver gang der regner.
+
+00:17:33
+Så går der 12 timer, så åbner den op, men den tømmer aldrig helt.
+
+00:17:38
+Så er der en genbrugsfaktor, der er sat ind på 40 kubikmeter.
+
+00:17:42
+Så vi altid forsøger at tilbageholde 40 kubikmeter.
+
+00:17:46
+Men hvis DMI varsler, så kan vi tømme ud.
+
+00:17:50
+Den her graf herovre synes jeg er ret fint.
+
+00:17:53
+Det her med, at det regner, og man kan se, at der kommer vand ind i systemet.
+
+00:17:55
+Og de her små hak ned, det er her, hvor enten driftfolkene er ude at hive vand op i systemet, eller vandboksen har kørt en vandings...
+
+00:18:07
+Og i, hvad hedder det...
+
+00:18:11
+I sidste år vandede Frederiksberg kommune primært med opsamlet regnvand.
+
+00:18:18
+Næsten 500 kubikmeter regnvand vandede de ud med frem for rent drækkevand fra de her tapbrønd, vi har lavet.
+
+00:18:28
+Det her er et andet projekt oppe i Lemvig, hvor vi sammen med Lega forsøger at kigge på, hvis vi kan sørge for, at kontakttiden er lang nok i et eller andet givet medie, som kan rense, så kan det være, at vi kan lave sådan et system på halen af de her vådebassiner.
+
+00:18:50
+Herude i Lemvig ligger der et vådebassin herovre, som kan føre vand over i den brønd.
+
+00:18:56
+Og så er der lavet de her tre kamre, man kan tage vand ind i.
+
+00:18:59
+Og så har vi den her brønd, hvor vores dyrbare vandbremse sidder.
+
+00:19:03
+Så vi tager vand fra vådebassinet, Fører ind i indløbsbranden, og så løber det igennem læggekuglerne, hvor vi så sørger for, at kontakttiden derinde er 24 timer.
+
+00:19:14
+Og det her er fra første prøve.
+
+00:19:17
+Det er stadig ret nyt derude, så vi har stadigvæk en del prøver, der skal tages, før man kan sige noget endeligt.
+
+00:19:23
+Så derfor kan jeg ikke konkludere noget lige nu.
+
+00:19:27
+Men det man kan se her, det er, at der ligesom bliver pumpet overfladvand ind fra vådebassinet.
+
+00:19:31
+Og det er det, vi lukker.
+
+00:19:33
+Vi skriver her, at man har taget en prøve af det vand, der er kommet ind.
+
+00:19:37
+Og så står det der i 24 timer, og så åbner den op, og så lukker den.
+
+00:19:41
+Her beskriver jeg igen, at så tager man en ny prøve af vandet, der kommer ud.
+
+00:19:46
+Og så er idéen at se, om man kan få bedre rensning af det her overfladet vand.
+
+00:19:52
+Og det er vi ret spændte på at se de næste resultater på.
+
+00:19:57
+Og der har vi en plan om at lave et arrangement derude også, når vi har nok data til at kunne vise.
+
+00:20:09
+Det er også en måde at bruge vores styrpervandbremse på, fordi vi med vores styringsenhed kan koble en kloridenmåler på.
+
+00:20:20
+Det er en ledningsevenmåler, men sammen med DTU har vi fået den til at kunne sige noget omkring kloridenholdet af vandet, når man har saltet.
+
+00:20:30
+så kan vi se, hvor meget salt der kommer ind i systemet.
+
+00:20:34
+Og ved at nå overlevskortet til nedsivning til terrænet, eller hvor der sker nedsivning fra, så kan vi inden det går til nedsivning sørge for, at det løber til kloakken, fordi så åbner den op, og så kan den løbe fuldt op ret hurtigt.
+
+00:20:51
+Så er vi sikre på, at der ikke kommer klorid til nedsivning, men at vi tilbageholder de kassetter, der er, og så ud i kloakksystemet.
+
+00:21:00
+Så åbner vi op, at det er 100 mg pr.
+
+00:21:06
+liter.
+
+00:21:10
+Det er grafen, der viser det ret, og det har været super interessant at se her i år, hvordan efter det er smeltet derude, så kan vi bare se, hvor meget overraskende, hvor meget forbryd der er i det her vand, som kommer ind i de her systeme.
+
+00:21:25
+Og der tror jeg, det er meget godt, at man ikke laver nedsivning.
+
+00:21:32
+Men der er også mange perioder.
+
+00:21:34
+Vi har jo også en MUDP sammen med HOFOR og NOVOFOST, hvor vi frem for at bare lukke af for de her bøde her om vinteren, så kunne det måske være interessant at kigge ind i, at vi først lukker ned, når vi har observeret høje mængder af chlorid.
+
+00:21:51
+Og det prøver vi i den her MUDP på at lave et system, der kan gøre forsvarsvis billigt, at man kan sætte en enhed ned, Så når der så bliver registreret klorid i vandet, så lukker vi, og så fører vi direkte til kloak.
+
+00:22:04
+Men når der ikke er far for at lave nedsjøen med for høje konstruktioner af klorid, så lader vi det være åbent, og sådan så at om vinteren, når de her langbare regn kommer, at volymerne også kan bruges til at håndtere det her vand, der kommer.
+
+00:22:22
+Ja, det er et eksempel på det her med, Når DMI varsler skybrud, så kan vi åbne helt op.
+
+00:22:35
+For eksempel her bag Søndervejen på Gramsele, der har vi kunne tømme anlægget, inden skybrudet kom.
+
+00:22:42
+Så blev der aldrig den 100 års regn, de havde varslet, men kun lige ca.
+
+00:22:48
+20 mm.
+
+00:22:50
+Men pointen er, at når DMI varsler, så kan vi få alt vandet ud, eller det meste vand, Jeg mente, at det var fornuftigt at hælde det ud.
+
+00:23:01
+Og så alt det vand, der kommer, kan vi samle op.
+
+00:23:03
+Begge de her to steder er steder, hvor man kan genbruge vandet via tabbrøndene.
+
+00:23:11
+Så det vand, der nu blev samlet op ved den her hændelse, kunne man så bagefter bruge til at vande byens træer med.
+
+00:23:20
+Så var det bare for at vise vores rejse på vores dyrbare vandbremse, fordi det har virkelig taget taget noget tid at få bygget design der ligesom.
+
+00:23:33
+Fordi det der også er i det her, det er at den kører på batteri, så man skal ikke til at trække strøm og sådan noget hen til dem.
+
+00:23:39
+Så vi har sådan en batteripakke, som sidder, det er faktisk den kan se der, som kan styre det.
+
+00:23:44
+Og vores beregninger siger, at det kan køre i to år på batteriet.
+
+00:23:49
+Og så er det helt klart afgørende, hvor mange kørsler den skal lave derude.
+
+00:23:54
+Men vi føler, at vi har fået at bygge et system, som gør, at det ikke kræver særlig meget strøm, hver gang den bevæger sig.
+
+00:24:04
+Og det vi så har været vant til at gøre, det er ligesom, at vi kommer ud og retrofitter i brønde.
+
+00:24:09
+Og når vi så kommer ud på bagkant og så sætter en vandstedsmåler sådan noget, så er det nogle gange svært at sætte en vandstedsmåler sådan rigtig fornuftigt i sådan en brønd, især når der kommer en slammestue og nogen, der skal drifte.
+
+00:24:21
+så lige pludselig hænger den der vandstensmåler lidt forkert, eller beskadet har vi også oplevet et par gange.
+
+00:24:27
+Og det er det, der er så fint ved det samarbejde, vi har fået lavet med ScanPipe, det er, at vi kan lave færdige brønde, så vi har styr på, hvor elementerne sidder i brønden, og vi har styr på, at vandstensmåleren ikke bare hopper ud af position, eller ikke bare kan beskades ret hurtigt.
+
+00:24:45
+Og en anden fordel er også, når vi kan lave de her færdige brønde her, og vi kan drifte dem fra terræn af, så kan vi også gå ned i nogle mindre brøndstørrelser.
+
+00:24:56
+Så vi har lavet en brønd her, der er en Ø425-brønd på et Ø110-rør.
+
+00:25:03
+Og så bliver det bare en anden pris, hvis man kan få dem ned i de brøndstørrelser.
+
+00:25:08
+Vi har også lavet en del i Ø600, som også giver bedre mening at have derude.
+
+00:25:17
+Og det med at få overløbsræde ind fra start, så man ved, hvad coderne også er i overløbsrædet.
+
+00:25:27
+Ja, så har vi arbejdet rigtig meget med det her med at gøre ting tæt, fordi det er ikke bare sådan noget, man lige gør.
+
+00:25:38
+Det er bare et eksempel på, at vi har fået.
+
+00:25:41
+modernisere vores system til at sørge for at klemme ordentligt tæt, men samtidig kan man få den her enhed op og servicere den.
+
+00:25:56
+Ja, det er et forsøg på det her fra min side at prøve at sige, hvad er det så, vores styrbrandbremse, hvad nøglefordelene ved den er.
+
+00:26:08
+Det er det her med, at vi kan fastholde udløbsflåget uanset vandtrykket.
+
+00:26:12
+Så kan vi sørge for, at vi kan overholde de myndighedernes krav på, om det er 0,4 liter i sekundet eller 5 liter i sekundet.
+
+00:26:20
+Lige meget vandtrykket, så kan vi sørge for, at det er under det i hvert fald.
+
+00:26:24
+Og så bilder vi os også selv ind, at vi godt tør at gå ned i nogle ret lave udløbshastigheder, fordi vi netop har indbygget den her driftscyklus, så når vi observerer, at ting slæber til, for det gør de bare, når man er...
+
+00:26:38
+Når man kommer under to lille sekunder, har jeg hørt, så skal man være lidt barsom med det i hvert fald.
+
+00:26:44
+Men der har vi i hvert fald vist flere eksempler, hvor vi er i stand til at drifte dem, at den kan det selv og gør det selv fra netværket af.
+
+00:26:57
+Og så alle vores vandbremser er bygget ind med sådan et overløbsrør.
+
+00:27:03
+Det er også det, man kan se her.
+
+00:27:05
+Så vi kan få et overløbsrør på vores enhed.
+
+00:27:11
+Man kan også bare lukke det til, men det har bare vist sig at være ret fornuftigt at have et overløbsrør koblet på.
+
+00:27:18
+Når man så bliver klogere i forhold til det data, man får fra vandstandsmåleren, så kan man ret hurtigt justere det til, fordi det er bare hele almindelige brøndgårds, man skal bruge.
+
+00:27:31
+muligheder for at styre.
+
+00:27:33
+Vi kan ligesom sørge for, at vi altid prøver at tilbageholde en eller anden faktor, 30 kubikmeter eller 40 kubikmeter, så man kan genbruge det.
+
+00:27:47
+Men når der så bliver varestedet skybrud, så kan vi sørge for at tømme det hele.
+
+00:27:53
+Og så er vi blevet ret gode til det med at retrofitte.
+
+00:27:56
+Så nu hvis vi bliver klogere på et anlæg, så kan vi godt gå ned i en ny brønd og så sætte vores enhed i.
+
+00:28:01
+Og i nyanlægget er det i hvert fald udset fra vores syne af, at det er ret interessant, at vi kan levere en færdig brønd til anlægget.
+
+00:28:15
+Og så fordi vores styrper og vandbremser er koblet til en vandstandsmåler, så vi kan hele tiden dokumentere vandbalancen, når ting går i overløb eller når en kode, og dokumentere udløbsflåget.
+
+00:28:31
+Og hele tiden være på forkanten.
+
+00:28:35
+Helt tiden være sikker på, fordi det jo i virkeligheden laver tilsyn hele tiden.
+
+00:28:41
+Og det vores primære enhed gør, det er at den lokker hver minut, så får man en vandsynshøjde.
+
+00:28:45
+Og så sender den den med sådan en datapak hver 30.
+
+00:28:48
+minut.
+
+00:28:49
+Så man laver i virkeligheden tilsyn hver 30.
+
+00:28:51
+minut derude.
+
+00:28:54
+Og på den måde så har man i hvert fald et bedre grundlag for at gøre noget nyt ved anlægget.
+
+00:29:01
+har vi arbejdet rigtig meget på det her med cybersikkerhed og forsøgt at forholde os til det her med Nis 2.
+
+00:29:09
+Og der er vi i hvert fald, vi beder os selv ind, vi er et sted, hvor vi ligesom understøtter Nis 2, fordi vi kan sørge for, at den styring, man har givet enheden, den kan bo nede i brønden.
+
+00:29:20
+Altså man kan ikke bare hakke sig ind.
+
+00:29:22
+Vi har ligesom sørget for, at den styring, den bor i brønden.
+
+00:29:25
+Og hvis man så vil lave det om, så skal man ud fysisk og pille ved det.
+
+00:29:29
+Og det gør så, at Det gør så, at man så ikke kan snakke ind i DMI for eksempel, fordi der er du nødt til at være på netværk og sådan nogle ting.
+
+00:29:40
+Men man kan blive godt sørge for, at selve styringen bor nede i brønden.
+
+00:29:46
+Så mærker vand, så lukker den i 12 timer, og så åbner den op til en eller anden hastighed.
+
+00:29:50
+Hvis den når en eller anden kode, så ændrer udløbshastigheden.
+
+00:29:53
+Det er sådan nogle ting, man kan få programmeret ind i den, som gør det.
+
+00:30:00
+Så samtidig har vi vandstandsmåleren, som så kan sende data ud, så man kan stadig overvåge det.
+
+00:30:07
+Det må man godt i forhold til Nis2, bare man ikke kan hakke sig ind og så overtage styringen.
+
+00:30:12
+Man må godt sende for eksempel vandstandsmåler-data ud af den.
+
+00:30:19
+Nå, det var det.
+
+00:30:20
+Det gik nok lidt stærkt, men det var ligesom det, jeg havde taget med.
+
+00:30:25
+Jeg håber, at det gav mening.
+
+00:30:27
+Tusind tak, Mikkel.
+
+00:30:29
+Om det ikke gjorde, så er der i hvert fald rig mulighed til alle.
+
+00:30:32
+Jeg sidder derude til at stille nogle spørgsmål i chatten.
+
+00:30:35
+Først vil jeg sige tusind tak og ja.
+
+00:30:38
+Rigtig, rigtig meget information på kort tid.
+
+00:30:42
+Det var mega fedt.
+
+00:30:43
+Der er kommet et enkelt spørgsmål i chatten.
+
+00:30:46
+Ingenieur, jeg har lige et par stykker til dig også.
+
+00:30:48
+Det kan være, du har svaret på det spørgsmål, som Husam har stillet.
+
+00:30:52
+Kan man ikke justere udløb fra vandbremsen automatisk efter vandstand i samme brønd eller andre sæder?
+
+00:30:58
+Det vil sige med intelligent styring, og det var et spørgsmål, der kom meget tidligt i dit oplæg.
+
+00:31:02
+Ja, og det er jo lige præcis det, man kan.
+
+00:31:05
+Altså at vi kan styre på baggrund af vandstandshøjden.
+
+00:31:11
+Så kan vi sørge for, at vi fastholder det udløbsflow, som man nu gerne vil have fra det her anlæg.
+
+00:31:17
+Og vi kan faktisk også, det vi har gjort et sted, der har vi sat vandstandsmålen på bagsiden af enheden.
+
+00:31:21
+Så vi åbner først ud, når der er plads i røret på bagsiden af den.
+
+00:31:26
+Fordi hvis det er sådan helt fyldt, så giver det ikke mening at åbne op, så vi sørger for, at der ikke kommer vand ind.
+
+00:31:33
+Super.
+
+00:31:34
+Så kommer der et spørgsmål fra Peter Nielsen.
+
+00:31:40
+Cirka pris på indjusterbar vandbrændelse inklusiv vandstandslokker.
+
+00:31:44
+Er det noget, som du kan dele med os her?
+
+00:31:48
+Ja, altså en styrbar vandbremse med lokkeren i 425 brøn på et ø 110 rør, den ligger omkring 60.000, skal man regne med.
+
+00:32:02
+Det ved vi også godt, at dyren er en almindelig vandbremse, men så bilder vi os ind, at den effekt, du så får på dit anlæg, det kan svare sig.
+
+00:32:12
+Ja,
+
+00:32:13
+det håber jeg må svare, det var i hvert fald meget præcist.
+
+00:32:16
+Jeg er lidt nysgerrig, Mikkel.
+
+00:32:18
+Du snakker sådan lidt for mig en blanding.
+
+00:32:21
+Hvis jeg nu tager Smartbrøn, er det korrekt forstået, at det helt egentlig starter med, at I laver nogle vandstandsmålinger og får nogle erfaringer derfra, der så gør, at I tænker, at I kan udvikle noget mere af den her Smartbrøn, eller er Smartbrøn egentlig bare, nu siger jeg bare, det er det jo ikke, en vandbremse med en lokker i, eller hvordan skal det forstås?
+
+00:32:42
+Kan de forskellige dele kombineres, eller er det kun Enkelt ting, der sidder i den fast.
+
+00:32:47
+Ja,
+
+00:32:47
+ja.
+
+00:32:48
+Nej, det er rigtig nice.
+
+00:32:48
+I virkeligheden er Smartbrøn blevet mange ting, fordi vi netop har fået bygget den teknologi der, hvor vi vandt prisen på.
+
+00:32:57
+Fordi vi synes, det er vildt spændende det her med vandkvalitet.
+
+00:33:00
+Altså, så vi har ligesom teknologien til at kunne sætte forskellige målere på, og så begynde at styre på baggrund.
+
+00:33:05
+Det kunne være sink eller kov, og det kunne vi godt tænke os at kunne måle på.
+
+00:33:08
+Eller kvælstof og fosfor.
+
+00:33:10
+Og så når du registrerer, eller olie for eksempel, Hvis du registrerer den forurening, så kan vi få enigheden til at sørge for, at den forurening bliver tilbage i et vådebesænk, fordi vi har mulighed for at styre det.
+
+00:33:21
+Altså vi har mulighed for at lukke af.
+
+00:33:24
+Det ene, vi gerne vil i Smartbrønd, det er sådan set prøve at optimere vores vådebesænk og den måde, vi bygger klimatilpassingsprojekter på i dag.
+
+00:33:32
+Hvor vi bruger vores styrbare vandbremse aktivt i mange sammenhæng.
+
+00:33:37
+Ikke kun udefra en vandstandshøjde, men egentlig også noget vandkvalitet.
+
+00:33:41
+Vi har også været med i dampprojektet, hvor vi netop også kan tilbageholde vand, og så kan man tage det vand og pumpe over til nogle grønne vægge og sådan nogle ting.
+
+00:33:50
+Det synes vi også er super interessant at arbejde med.
+
+00:33:53
+Så smartbrønd er mange ting, men det vi nok helst vil se os selv være, det er en styrbar vandbremse med en vandstandsmål, der kan monitorere.
+
+00:34:02
+Det er det, der er vores hovedprodukt.
+
+00:34:05
+Så
+
+00:34:06
+kommer der også et relevant spørgsmål for Jørgen Skogrup.
+
+00:34:08
+Hvad med størrelsen, rørdiameteren, for eksempel ø 500 mm, eller som jeg forstår det, Jørgen, der må du lige supplere, hvis jeg tager fejl, men hvad for nogle diametre af rør kan den håndtere?
+
+00:34:20
+Ja,
+
+00:34:21
+det største vi har været oppe i lige indtil videre, det er 250, så er vi rigtig mange i ø 160, og så har vi lige givet et tilbud på en ø 400.
+
+00:34:36
+Det er der, hvor vi har udregnet priserne på.
+
+00:34:39
+Det er ø 110, ø 160, ø 200, ø 250 og så 315.
+
+00:34:44
+Ja.
+
+00:34:47
+Det
+
+00:34:47
+leder meget videre til næste spørgsmål, som Jette Nielsen har stillet.
+
+00:34:52
+Hvor store flov kan jeres styrbare vandbremse åbne op til?
+
+00:34:56
+Ja,
+
+00:34:57
+og det er faktisk noget, vi selv...
+
+00:35:01
+Fordi det test, vi har fået lavet med Teknologi Institut, på ø 110'eren, og så har vi også noget Dacia på ø 160'eren.
+
+00:35:08
+Vi har en formel, som vi kunne bruge, som Teknologisk Institut har lavet, som vi kunne bruge, men vi vil rigtig gerne teste selv, inden vi siger noget, men vores beregninger viser, at vores 315 kan komme op på, hvad havde det, 160 liter i sekundet, vores standard.
+
+00:35:29
+Fordi, det glemte jeg at sige, vores enhed har en bredde i bunden, Den er 18 mm, og det er faktisk helt bevidst, at den er det.
+
+00:35:39
+Det er for at sørge for, at der ikke kan komme rotter igennem, når den åbner vores system.
+
+00:35:44
+Men vi har lige givet et tilbud til et projekt, hvor vi er nødt til at ændre på bredden for at sørge for, at floden bliver større.
+
+00:35:52
+Og så er det jo altid, at det bliver dyrere.
+
+00:35:54
+Men hvad havde vi?
+
+00:35:58
+150 millisekunder kan vi godt med en 315er.
+
+00:36:03
+Det
+
+00:36:03
+håber jeg bare svarer til Jette.
+
+00:36:04
+Og I skal huske, at I kan fortsat stille spørgsmål.
+
+00:36:06
+Vi har noget tid tilbage.
+
+00:36:08
+Og der kom et spørgsmål fra Ulrik Brink.
+
+00:36:11
+Kan du illustrere selve vandbremsen, enten ved tegning eller foto?
+
+00:36:16
+Det spørgsmålet går på, kan du illustrere selve vandbremsen, enten ved tegning eller foto?
+
+00:36:27
+Ja,
+
+00:36:29
+det er faktisk den, der er herovre til højre.
+
+00:36:33
+Kan man se min mus?
+
+00:36:34
+Så har vi udløbsledningen.
+
+00:36:36
+Den er der, og så sætter vi den ned i brønden.
+
+00:36:39
+Og så vil vandet altid stå fire centimeter under vores udløb, som er her.
+
+00:36:44
+Så vandet skal den her vej igennem, og den her vej ud.
+
+00:36:48
+Og så er det, at vi har overløbet her.
+
+00:36:50
+Man kan sætte op i den kort, man har lyst til at have det i.
+
+00:36:54
+Og så må han meget gerne skrive til mig, så kan jeg sende det.
+
+00:36:58
+Vi har også lægget det, så jeg kan vise det.
+
+00:37:00
+Vi har lavet nogle principtegninger.
+
+00:37:03
+kan sende.
+
+00:37:05
+Det
+
+00:37:07
+håber jeg var svaret, Ulrik.
+
+00:37:08
+Ellers må du meget gerne lige skrive igen, eller som Mikkel siger, skrive til ham.
+
+00:37:12
+Mikkel, og mens I andre lige tænker over spørgsmål, hvis I har flere, så endelig skriv dem, så har jeg lidt et spørgsmål til dig.
+
+00:37:18
+Nu siger du, at i jeres system godt kan snakke sammen med f.eks.
+
+00:37:21
+DMI.
+
+00:37:23
+Kan
+
+00:37:23
+det
+
+00:37:23
+også kobles op på andre systemer, hvis man selv har nogle systemer, eller er det låst i forhold til den del?
+
+00:37:29
+Nej, det
+
+00:37:30
+kan man sagtens sige.
+
+00:37:31
+Vi har sendt data til Hufura gennem deres API, og vi har også et samarbejde med DHI i deres platform.
+
+00:37:40
+Så vi sender data rundt, og vores enheder har andre også.
+
+00:37:45
+For eksempel har vi lige fået et projekt i Kiel, hvor de har deres egen netværk, det skal køre henover.
+
+00:37:50
+Så har vi bare bygget vores enhed ind i det netværk, de selv vil have, og så har de jo selv ejerskab over netværk og server og sådan noget.
+
+00:37:58
+Så det kan man gøre, ligesom man har lyst til, og det er en af vores fordeler, i hvert fald i Smartbrøn, det er, at vi har 100% ejerskab over vores hardware.
+
+00:38:07
+Det der er inde i det sorte rør, den styring, der er derinde, netværk og sådan noget.
+
+00:38:13
+Så det er super nemt for os at bygge det om til, for eksempel, lige nu kører det på narrowband på TTC's netværk, men det kunne lige så godt være alle mulige andre netværk.
+
+00:38:21
+Det kunne også være, hvad hedder det, lov- og van-netværk, eller hvis man har WiFi, hvis man har bygget så godt WiFi, skal den nok have strøm, men det er meget fleksibelt, det vi har fået bygget op.
+
+00:38:34
+Super.
+
+00:38:35
+Så kommer
+
+00:38:36
+der et spørgsmål her fra Amina.
+
+00:38:41
+Hvis DMI for eksempel varsler skybrud, justerer jeres vandbremse så manuelt i den situation eller indsamler og behandler systemet selv data og tilpasser automatisk afløbet herefter?
+
+00:38:53
+Ja, og
+
+00:38:54
+det er...
+
+00:38:55
+Vi har forsøgt at sætte det op automatisk, når DMI varsler skybrud.
+
+00:39:01
+Så er der et eller andet med den måde, og det kan faktisk godt være, at det er blevet bedre, det ved jeg ikke, men den måde, tingene løber rundt i sådan et system på, har i hvert fald været en udfordring for os.
+
+00:39:10
+Det har det i hvert fald været.
+
+00:39:12
+Men vi har snablet ind i DMIs system, altså det, de har lavet open source, så vi netop kan trække, hvad havde det, nedbørsdata ud og tørkeindekstat eller sådan noget i vores platform.
+
+00:39:23
+Og det du så, da jeg viste med DMI, det var DMI, der havde offentliggjort varslet, og så åbnede den selv.
+
+00:39:30
+Så vi kan godt.
+
+00:39:32
+Der er bare noget med, at den måde, sådan noget trafik er på, og jeg er ikke en ekspert i lige det der, men vi kan kommunikere med DMI's server.
+
+00:39:41
+Så er det den måde, de så kommunikerede ud på, som på et tidspunkt var kringlet.
+
+00:39:47
+Og det er meget muligt, det er fikset nu.
+
+00:39:50
+Super.
+
+00:39:52
+Men det er i hvert fald det, der er tanken, det er jo, at vi skal snakke sammen med alle mulige andre platforme.
+
+00:39:56
+Og det er helt klart også den vej, det går, og det bliver meget bedre allesammen.
+
+00:40:01
+Så er
+
+00:40:04
+der et spørgsmål fra Peter Nielsen.
+
+00:40:06
+Er der forskel på jeres vandstandslokker og en traditionel lokker med tryktransmitter, ultralyd eller andet?
+
+00:40:13
+Nej, nej,
+
+00:40:13
+det er det samme.
+
+00:40:16
+Vores er også en tryktransmitter.
+
+00:40:18
+Vi har Vi har bare arbejdet rigtig meget med på hjernen, og at vi kan få den til at leve rigtig længe på batteriet.
+
+00:40:27
+Vores vandstandslokker kan leve fem år på batteriet, og kan lokke hver minut, og så sende hver 30.
+
+00:40:34
+minut.
+
+00:40:36
+Og
+
+00:40:36
+så
+
+00:40:36
+er vi også i stand til at kunne kommunikere med den.
+
+00:40:40
+Så hvis man har, for eksempel har vi en del projekter, hvor vi laver, hvad hedder det, et falling head forsøg med grundvandet, og også et nedsivningsforsøg, hvor vi kan indstille vores vandstandsmåler til at lokke hver anden sekund og så sende en datapak hver femte minut, så får man nogle vildt flotte kurve, hvor man får noget rigtig fint data for, hvordan jorden for eksempel har performet i det her forsøg.
+
+00:41:05
+Det kan også godt være, at de andre kan, men vi har i hvert fald arbejdet rigtig meget med at kunne styre dem og have kommunikation med dem.
+
+00:41:15
+Og når vi har sat en måler op, så kan vi hurtigt få den tilpasset koderne, så vi ser ikke bare en vandhøjde, vi ser en vandsprægtskode for eksempel.
+
+00:41:26
+Super, tak.
+
+00:41:27
+Det håber
+
+00:41:28
+jeg var svaret til, Peter.
+
+00:41:30
+Lige på DNNK's vegne vil jeg sige til alle jer, der lytter med, hvis I har nogle oplæg i forhold til enten klimatilpasningsprojekter, eller I har ligesom Mikkel og Smartbrønd, nogle meget tekniske løsninger, som I gerne vil dele viden på sammen med netværket.
+
+00:41:47
+så skal I være velkommen til at kontakte en af netværksmedarbejderne, enten mig eller sekretariatet inde ved Morten, Cornelius og Steffen, så vi kan få planlagt det ind i tid.
+
+00:41:57
+Når det er sagt, vil jeg hænge jeres opmærksomhed på DNNK's klimakalender, hvor I kan se de kommende arrangementer i forhold til de næste måneder.
+
+00:42:10
+Så umiddelbart
+
+00:42:11
+så kommer der ikke flere spørgsmål.
+
+00:42:13
+Så med det, Mikkel, så vil jeg sige tusind tak for en meget fyldeskørende præsentation i forhold til, at du har nået at fortælle meget på rigtig, rigtig kort tid.
+
+00:42:26
+Så på vegne af DNNK vil jeg sige tusind tak for oplægget til jer, der har lyttet med.
+
+00:42:30
+Tusind tak for alle jeres gode spørgsmål.
+
+00:42:33
+Og så vil jeg ønske jer alle sammen en rigtig god dag derude.
+
+00:42:37
+Ja tak.
+
+00:42:38
+Og det er fedt at få lov at præsentere, og I skal bare skrive til mig.
+
+00:42:41
+Det er mig, Mikkel.
+
+00:42:42
+Eller ringe til mig.
+
+00:42:43
+Tak.
+

@@ -1,0 +1,876 @@
+00:00:11
+Godmorgen og velkommen til Godmorgen med DNRK.
+
+00:00:14
+Mit navn er Cornelius Pagels, og jeg vil være værd den næste times tid.
+
+00:00:19
+Jeg glæder mig meget til dagens oplæg, fordi vi skal høre om et lyseværktøj, kan man vel kalde det, der kan understøtte risikovurdering og prioritering i klimatilpasning.
+
+00:00:28
+Vores oplægsholdere holder oplægget på engelsk, så we will continue in English from here.
+
+00:00:34
+Today's topic is satellites to measure social and human footprint.
+
+00:00:39
+What space-based observation can we will about economics, disasters and climate?
+
+00:00:46
+A practical note, please post your questions and comments in the chat as we go.
+
+00:00:51
+I'll collect them for the Q&A at the end.
+
+00:00:55
+The webinar will be recorded, as always, and shared in DNNK's knowledge bank afterwards.
+
+00:01:04
+And that's it.
+
+00:01:04
+Alexander Pristikov, Jeg har præsteret navnet først, men et varmt velkommen.
+
+00:01:17
+Fløjen er din.
+
+00:01:19
+Ja, tak så meget, og tak så meget for din tid, og jeg håber, at du har en god begyndelse af dagen, morgen og fredag før weekenden.
+
+00:01:31
+Så præcis, mit navn er ganske komplikeret, og du kan simpelthen gå med navnet Sascha.
+
+00:01:37
+Jeg hedder Alexander Prishchepov, og i dag er det min sidste dag at være samarbejdsprofessor på Universitetet i København, og på måneden begynder jeg som fuldt professor på Aarhus Universitet.
+
+00:01:51
+Men historien handler ikke om mig, men om topikken, som jeg præsenterer, og jeg håber, at den skaber nogle inspireringer og kreativt tænkende om, hvordan vi kan bruge satellitdata og aerale observationer til at studere økonomiske tilfælde, men også klimaforandringer.
+
+00:02:09
+Lad mig også præsentere vores gruppe.
+
+00:02:15
+Det handler ikke lige om mig, men om en gruppe af meget entusiastiske forskere og forskere med flere områder, som fandt det meget spændende at arbejde med aerial- og satellitdata.
+
+00:02:28
+Joachim Petersen-Dinh, han er forvaltningsprofessor ved Universitetet i København med en socialdeknologisk bakgrund, men forvandler sig til remote sensing.
+
+00:02:37
+Chan-Ping Dinh, og her har vi en sammenhæng med en klimaforandringgruppe.
+
+00:02:43
+Han er nu postdoktorer i City Universitet i Hongkong, men har PhD i Universitetet i København.
+
+00:02:51
+Han arbejder på resiliensadaptationen af byer til skandaler og tyfus.
+
+00:02:57
+Karin Chen er nu assistentprofessor ved Universitetet i Washington.
+
+00:03:02
+Hun har været Ph.D.
+
+00:03:03
+på remote sensing og mentalt hælp i Danmark.
+
+00:03:07
+Hun har været med ved Aarhus Universitet og Universitetet i København.
+
+00:03:13
+Piotr Wojcik er professor ved Universitetet i Warsaw, der arbejder på økonomik og remote sensing.
+
+00:03:21
+Jeg arbejder på remote sensing og landbrug modeling.
+
+00:03:26
+den interdisciplinariske brug af satellitdata.
+
+00:03:31
+Så det handler om os, og vi kalder os en decentraliseret gruppe af forskere, der forventer, hvordan vi kan støtte kapaciteten af satellitdata til at mærke den menneskelige træning.
+
+00:03:45
+I dag vil jeg tage alle ind på pladen.
+
+00:03:52
+for at udforske, hvorfor vi bruger satellittidsobservationer.
+
+00:03:57
+Hvad vi kan gøre ved at mærke den menneskelige skabning med satellittidsdata, som du nok har set mange studier om, hvad det betyder i biologiske tilfælde med vegetation, men også hvad vi kan lære om populationsdynamik, og sikkert også om sammenhængen med klimaforandringen og naturlige menneskelige skandaler.
+
+00:04:20
+Vi vil lave en kort sammenhæng om dagens diskussion og præsentation.
+
+00:04:27
+Jeg bringer denne skridt, og den viser, at jordobservationer eller satellitdata, aerofotografier, er ekstremt vigtige for os, og nogle gange den eneste tilfældige toolbok, eller teknologi, eller metoder til at studere økosystemer, hvor er fjordene, eller hvordan fjordene fungerer, men også mængden på det menneskelige komponent.
+
+00:04:54
+Landbrug, økologi, forhandling, men også hvor deres byer er, hvordan de græder eller stiger, populationsmobilitet.
+
+00:05:07
+Det er mange sociale spørgsmål, som vi kan tilføje, og længe til klimaforandringens processer.
+
+00:05:13
+For eksempel, adaptation eller vulnerabilitet til disaster, og det er det, denne teknologi giver til os.
+
+00:05:23
+Jeg kalder personligt, at jordobservationer og satellitremot-sensoren hjælper os at opnå pulset af planeten.
+
+00:05:32
+Så alt, der sker på planeten, kan vi opnå med satellitdata.
+
+00:05:37
+Og her kommer den smukhed, at vi lever i en virkelig spændende tid, før vi havde så stor volym af data, og også diversitet af satellitdata.
+
+00:05:53
+Det kan være relateret til naturlige transformationer.
+
+00:05:57
+Det kan være relateret til impactene på klimaforandringen.
+
+00:06:00
+Det kan også være relateret til sociale tilfælde, som armekonflikter eller forvandlinger på grund af vandkonditionerne.
+
+00:06:09
+Så på daglige måder har vi observationer på en global skala.
+
+00:06:18
+Vi taler om forskellige eksempler.
+
+00:06:21
+Noget, der er nær vores jord, kan vi se på meget høj resolution.
+
+00:06:25
+Vi taler om 30 centimeter data med satellitobserveringer, men med aerial kan vi gå, eller droner kan gå, til centimeter data for hele Danmark.
+
+00:06:37
+Vi kan se, hvor tingene er, for eksempel København eller andre steder, hvor infrastrukturen er, og i hvilke tilfælde den er.
+
+00:06:47
+Jeg er baseret på Amager i København, så vi ser også nogle dyke, forskellige områder og forskellige områder, ingeniørne nævner, for at forskelle fra fløjende tilfælde, men også i hvilke tilfælde de er, så forskellige elementer af infrastruktur kan vi observere og monitorere, til hvilken grad de kommuniteter, de er opmærksomme til at handle med for eksempel klimaforandringer og tilpasning til klimaforandringen.
+
+00:07:20
+Vi kan også se, med for eksempel Niantem-lys, diversiteten af bygderne omkring verden.
+
+00:07:28
+Lys i Niantem fortæller os om økonomien, og vi skal snakke om det.
+
+00:07:33
+Nogle bygder græder, nogle stiger, og det kan vi se og observere hurtigt.
+
+00:07:41
+med daglige observationer af satellit og natteligt lys.
+
+00:07:45
+Vi kan også se, hvordan vegetationen reagerer i relation til klimaforandringen.
+
+00:07:54
+Nogle gange kan det være en tidligere begyndelse af finologisk cykel, eller en sekvens af dronninger kan resultere i en snabbere udforskning.
+
+00:08:03
+Det er også den smukke del af satellitdata.
+
+00:08:06
+Det er ikke bare en eller to observationer.
+
+00:08:08
+men vi kan rekonstruere den hele dynamik over året, men også over årene, og begynde at analysere nogle dynamikker gennem tidsserierne, data, hvad der sker i forhold til klimaforandringen og vegetation.
+
+00:08:24
+For klimaforandringen ser vi mange forvandlinger rundt om verden, og jeg tror, at noget er langt væk, for eksempel deforestering i Amazonien, men sammenlignet med de lokale processer, for eksempel i Danmark, hvis vi ved, at en del af produkterne kommer fra de forestede områder, så er det som om støvlerne også kommer fra handel fra tropiske områder.
+
+00:08:52
+Det hjælper definitivt også os at se med landskabsforandringen, hvor meget det bidrager til grønlandske gasemissioner og hvordan offsetterne af karbon kan være til karbonemissioner i andre deler af verden.
+
+00:09:07
+Og også, meget vigtigt, kan vi snabt observe, hvordan sværtet af de forskellige tilfælde, cykler og forandringer, og hvordan de påvirker bygderne med denne nattelighed, ser vi i USA.
+
+00:09:23
+Men noget nærmere, som jeg har hørt, er, at vi også er ganske vulnerable til forskellige typer stormeforureninger, som i vintertiden og i fjoltiden, når det er yderst og korsliner, de er impactet i Danmark også.
+
+00:09:38
+Tænker på satellitimageriet, hvad jeg nævnte, at vi lever i en virkelig spændende moment.
+
+00:09:44
+Vi har så mange forskellige plattformer, fra Europas Sports Agency, fra NASA, men også fra privatvendere.
+
+00:09:52
+Det giver os kun en tid og en snapshot for de sidste 50 år, så halvdelen år for observationer, for eksempel Lancet-programmet, hvor vi kan se en 30-meter-resolution tilbage med tidsmaskinen til 1972.
+
+00:10:06
+Lidt mere kan vi se tilbage med tidsmaskinen, måske tilbage til 1959 med coronamissionen.
+
+00:10:13
+Det har ingenting at gøre med covid, et spy-satellitprogram, som nu er udklassificeret, og vi kan rekonstruere rundt om i verden, hvordan landskaberne således således tilbage til 1960-tallet.
+
+00:10:26
+I Danmark og andre deler af verden er det også vigtigt at tjene på aerofotografi tilbage til 1920-tallet, så vi kan rekonstruere landskabdynamikken.
+
+00:10:40
+Det er meget vigtigt at nævne, at det vi observerer med satellitdata, først og fremmest observerer vi det samme som et menneskeøjet observerer, så med den visible del af spektrummet, det mærker rød, grøn, blå farver, men udviklingen også med satellit-remote sensing er, at vi mærker noget i andre deler af spektrummet, som et menneskeøje ikke kan observere, f.eks.
+
+00:11:05
+i en kort tid med neon for røde band.
+
+00:11:10
+Essensen af det er, at hvis vi ser på den visible del, hvor menneskets øjne ser tingene, hvis vi ser på grænse- og grænseprofiler og vand, så bliver de nærmere hverandre.
+
+00:11:23
+Men når vi ser på andre deler af spektrummet, begynder vi at observe nogle forskelligheder.
+
+00:11:30
+De er virkelig dramatiske, så vi kan lettere forstå, eller vegetation, men også under hvilken forhold.
+
+00:11:38
+For eksempel hvis vegetation er under stress, så observerer vi nogle forandringer i reflektencerne med elektromagnetisk signal, der er sammenlignet med grønne vegetation.
+
+00:11:50
+I slutningen af dagen, hvad der kommer med reflektencerne, og hvordan satellitter eller aerofotografer rekorderer information, Det er lignende til vores cellefoner.
+
+00:12:03
+Jeg har et smartphone, jeg laver billeder, så alle informationer er stort med de digitale numre.
+
+00:12:11
+Ingenting andet, så vi har vores billedeelementer, så når vi zoomer ind, ser vi nogle grader af grænen.
+
+00:12:19
+Og dette er vores taske, hvordan vi sammenhænger det meningsløse med det menneskeligt, brænde disse numrer, digitale numrer, hvordan vi translerer dem til mængdelig information.
+
+00:12:31
+Og her er der en slags udfordring, men også interesse, der kommer til at starte at sammenhænge med ting som link og pikseler og mennesker.
+
+00:12:41
+Hvordan interpretere disse digitale numre og forvandle dem til f.eks.
+
+00:12:48
+mentalhjælp eller publik hjælp eller til at sammenhænge med grønlandske ekonomi, grønlandske domæstisk produktion eller bygning af bygninger.
+
+00:12:58
+Så her kommer kunsten til at translere disse digitale numrer til mindre information.
+
+00:13:06
+Faktisk socialisering af piksele, så sammenligning af mennesker og piksele.
+
+00:13:11
+Og her prøver vi at arbejde på forfrontet for at dræbe denne frontier.
+
+00:13:17
+og kreativt eller med forskellige teorier, der interpreterer disse digitale numre.
+
+00:13:24
+Socioekonomiske studier med remote sensing kan blive deltaget i et par af topikkerne.
+
+00:13:34
+I denne præsentation vil vi bare snakke om økonomik og konflikter og naturlige skandaler.
+
+00:13:42
+Men vi ser også en masse studier.
+
+00:13:43
+Landbrugslænkeovervægningsstudier, hvor agrikulturen er, hvilke transformationer der er, som tripartite samarbejder og hvor områderne er forestet eller revettet.
+
+00:13:55
+Og nogle arkeologiske studier, hvor vi kan tænke på, at i Danmark, hvor grænsen penetrer, og hvor de vikende befolkninger og bebyggelser lever.
+
+00:14:04
+Men i denne præsentation taler vi om, der påvirker, hvordan vi kan mærke naturlige og mangfulde skandaler, men også, hvordan vi kan mærke økonomien.
+
+00:14:22
+Tænker vi på applikationer i form for økonomi og demografiske studier, kan vi bruge to typer imageri og se lidt forskellige billeder.
+
+00:14:32
+Først taler vi om daglig imageri.
+
+00:14:36
+Så det er noget, der er opgraderet, måske endnu nu, og hvis jeg ser ud i vinduet, så har vi nogle lufter.
+
+00:14:42
+Så det er stadig nogle satellitter, som kan se gennem lufterne, som en syntetisk aperture, eller de kan opgradere dagsignal.
+
+00:14:50
+Men hvis der ikke er lufter, så bruger vi optiske data, så et billede som opgradering af information.
+
+00:14:59
+Tænker vi på datamaterialet, når vi flyder med skandinaviske linjer over Danmark og ser ned til den smukke Danmark, begynder vi at mærke nogle objekter.
+
+00:15:15
+Det kan være åbne områder, men det kan også være vejer, så linjere objekter.
+
+00:15:20
+Det kan være urbaniske fabriker, så nogle beslutninger med centrale business district, historiske downtown.
+
+00:15:28
+og forskellige typer af residentielle områder.
+
+00:15:31
+Det fortæller os noget om progressen i økonomien.
+
+00:15:37
+Gennem tidsmaskinen kan vi se nogle sætter af satellitdata.
+
+00:15:42
+Vi kan mærke, at vejene bliver konstrueret.
+
+00:15:45
+Måske er nogle vejer blevet pavet, deres asfalt er placeret, eller vejerne er forbedret.
+
+00:15:50
+Det fortæller os om, at økonomien gør sig godt.
+
+00:15:54
+Den græder.
+
+00:15:56
+og med deres proxy kan vi potentielt konstruere større domestiske produkter eller større regionale produkter og økonomisk udvikling i nogle områder.
+
+00:16:09
+På den måde må vi ikke vente på, at censorer samler økonomisk information.
+
+00:16:14
+Vi kan bruge nogle estimatier fra remote sensing.
+
+00:16:19
+Hvis vi tænker på byer, Måske er der nogle forbedringer.
+
+00:16:24
+Måske er der et andet.
+
+00:16:28
+Nogle bygningspladser bliver friske.
+
+00:16:31
+Det kan fortælle os, at nogle indikatorer, at økonomien ikke udfører sig godt, er i nogle stagnation.
+
+00:16:38
+Samtidig med produktiviteten af fjordene.
+
+00:16:40
+Fjordene går i en nedgang.
+
+00:16:42
+Stabilitet.
+
+00:16:44
+Måske er det vand- eller krise-indførte områder.
+
+00:16:47
+Det kan fortælle os indirekte, at der er noget med økonomien.
+
+00:16:52
+Så i princippet kan remote sensing bruges, og det bruges også til at møde grønlandske domestikproduktion og grønlandske regionale produktion.
+
+00:17:04
+Vi bruger forskellige sektorer i økonomien, som vi kan møde med satellitdata og konstruere disse møder.
+
+00:17:13
+En anden vigtig komponent, som vi også kan tænke på, er kreativitet og hvilken information vi kan ekstraktere og hvordan vi kan bruge det, for eksempel med machine learning.
+
+00:17:24
+Jeg vil bringe et eksempel, hvis jeg ikke er helt faldet.
+
+00:17:27
+Det er Johannesburg i Sydafrika, hvor en af kollegerne, Joachim Peresendin, arbejder meget.
+
+00:17:34
+Vi ser den samme urbane fabrik, den samme stad, men det er tydeligvis subdividet visuelt.
+
+00:17:40
+Vi kan se, hvordan tingene ser anderledes.
+
+00:17:42
+på den rejse siden, så meget kompakte, små bygninger med forskelligt luftmaterial og primært ubevaskede vejer.
+
+00:17:55
+På den anden side af vejen ser vi meget forskellige bygningsfabrikke, residentiele områder, med noget sø, med harmoniseret og forbedret luftmaterial, bevaskede områder og måske endda bedre vegetationsforhold.
+
+00:18:12
+Hvis vi tænker på, for eksempel på højre side, at noget vil gå bedre med økonomien og bedre tilgængelse niveauer, måske ville vi observere, at med tiden, flere tilgængelse niveauer, bedre dæk, materiale og så videre.
+
+00:18:28
+Det viser, at vi potentielt kan dekonstruere, at forskellige tilgængelse niveauer eksisterer i begge områder.
+
+00:18:36
+og hvis vi kan mærke med satellitdata og machine learning algoritmer, konditioner af grænsen, som også er sammenlignet med fysisk og mentalt hælp og udstyr til solen, hvis vi kan mærke forbedringen af vejene, hvis vi kan mærke luftmaterialet med reflektens på objekterne, så kan vi også se forandringens forandring i relation til ekonomisk udvikling i forskellige områder, og vi kan også mængde uenigheder.
+
+00:19:09
+Så det primære eksempel på, hvordan vi kan bringe forskellige aspekter og grad på kreativitet til at mængde uenigheder direkte med satellitdata.
+
+00:19:23
+Noget, der også bringer til vores hjemme, vi gjorde nogle arbejder, tak velkommen til arbejdet også der, Karen Chen, hvor vi så i Danmark i de sidste 30 år med rekonstruktion af urban dynamik og linkage med menneskehjælp.
+
+00:19:45
+Menneskehjælp kan vi selvfølgelig ikke mærke med satellitdata direkte, men vi brugte det som en alternativ til alle vores CPR-data, og med nogle beskyttelser og aggregationer kan det bruges, så det gav os mulighed for at samarbejde konditioner for menneskehjælp med en bekymring for den grønne område, men også hvor vi observerer typiske patterner af nogle menneskehjælpsdeprivationer i form for den urbane fabrik.
+
+00:20:20
+Steder i Danmark grønne både vertikalt og horisontalt, og vi har forskellige sammenhænger i forskellige områder.
+
+00:20:29
+Nogle gange tænker vi, at kun højriske bygninger kan resultere i menneskelige sygdommer, men i virkeligheden er det endda vigtigere, hvis vi har en helt isoleret samfund.
+
+00:20:41
+Det er den typiske type fabrik, som i USA.
+
+00:20:46
+De residentiele områder, hvor der ikke er sted for at gå, hvor der ikke er så meget publik access til publik transport.
+
+00:20:53
+Det er områder, hvor mennesker kan potentielt stagnere mentalt.
+
+00:20:57
+Det er noget, vi begyndte at mærke og samarbejde med, og på denne måde allerede allerede har vi fået tilfælde til at se på billedet med bøgerne.
+
+00:21:08
+Først og fremmest har vi forskellige sætninger af objekter og refleksioner, men også forskellige mørker og sammenhæng med grønne områder, for at klassifere machine learning og udvikle denne dynamik gennem Danmark og samarbejde med menneskehjælpdata.
+
+00:21:29
+Jeg har brugt eksempel på dagsimagerier, som vi ser over dagen, men vi har også et fantastisk billede af, hvordan vi ser vores verden i nattiden, i såkaldt nattilfældesimagerier.
+
+00:21:45
+Det er her, der kommer en slags spændelse, at ting begynder at opstå, når forskere ser på det samme, som vi gør, Vi kommer nok til at møde de nattøjlige billeder rundt om Europa og verden.
+
+00:22:04
+Vi begynder at opmærke, at vi kan se flere ljus, hvor kapitalerne er som Paris, København, Stockholm, eller den såkaldte blå banan, eller den økonomiske område rundt om i UK og Benelux.
+
+00:22:24
+vi ser flere lys i det område, så flere økonomiske udfordringer.
+
+00:22:27
+Men hvis vi tænker på de andre områder, som måske er udenfor Paris eller Madrid, så ser vi en masse mørke områder.
+
+00:22:36
+Så det er ikke nødvendigtvis stagnation, men måske en mindre forbindelse til GDP, en mindre præsense af populationen.
+
+00:22:42
+Det var noget med forskere, det var en slags overraskende udfinding, fordi produkterne, natteløse produkter, blev designeret til forskellige måder.
+
+00:22:53
+de begynder at tænke kreativt om, om det også kan repræsenteres som GDP eller andre mængder af den økonomiske udvikling eller mobiliteten af befolkningen.
+
+00:23:05
+Og det er exakt det, som det er nu, at der har været en del studier, som er kæmpe sammenlignet med processer for urbanisering, f.eks.
+
+00:23:16
+i Kina, hvor bygderne grønne.
+
+00:23:18
+Men vi kan også mærke de opposite processer, hvor populationen eller oplevelserne skrækkede, og det kunne også være lagt til pågrund af skandalerne, naturlige skandaler, men også armekonflikter, og i gennemsnittet sammenhæng med populationen og elektricitet og sådan noget.
+
+00:23:43
+Tænker på noget nærmere til den danske hjørne, og hvordan det også hjælper os at forbedre mobiliteten af populationen, Da de huskede covid-tiden, var de studerende, der udforskede utiliteten af nattelighederne og mærkede transitionen af populationen, med en stabilitet eller en lille nedgang i nattelighederne i danske steder.
+
+00:24:12
+Samtidig grønne ljus i såkaldte sommerhusområder, så folk flyttede til deres landskab.
+
+00:24:19
+at holde på at arbejde, og at det også reflekterede, at lyset slet ikke steg i sådanne områder.
+
+00:24:27
+For at give et interessant eksempel på det, vi nogle gange mødte i Brineleiten lys, er den økonomiske udvikling og de ting, som blev udviklet lang tid siden, som i den romanske krigsperiode, hvor infrastruktur blev placeret i siden, har været en god forhold til de næste udviklinger, hvor økonomierne voksede, og hvor tingene udviklede over tiden.
+
+00:24:56
+Så det at bringe både historiske og naturlige data kan også forbedre en forskellig interesse i forhold til økonomiernes udvikling.
+
+00:25:10
+Med de seneste studier med Huyckens, Perras og Dean, Vi har skrevet en meget detaljeret information om økonomisk udvikling og uenigheder.
+
+00:25:24
+I Spanien har vi kunnet rekonstruere og vise, at nattøjlygter kan bruges som en god proxy igen.
+
+00:25:33
+Vi behøver ikke at vente på de økonomiske undersøgelser i slutningen af året.
+
+00:25:37
+Vi kan meget hurtigt afprøve udvikling og uenigheder.
+
+00:25:44
+på forskellige bygder, i dette fald flere bygder i Spanien, men det kan også være en god mængde at se, hvad virkelig matcher med de offentlige mængder, men hvor vi kan se potentielle forvandlinger.
+
+00:25:59
+Det kan være lagt til udfordringen af teknologi, men det kan også være lagt til nogle såkaldte sjældne økonomier.
+
+00:26:10
+Jeg vil bringe et andet og det, der inspirerer os til at tænke på, hvordan data kan bruges.
+
+00:26:20
+Med night and day data har vi, gennem de tidligere observationer, tilbage til 1992, men med de nyere satellitter kan vi have nærmere daglige observationer, og det kan fortælle os meget med denne type tidsserie, hvordan økonomier eller sociale og økonomiske processer, klimatiske forandringsprocesser, økonomiske udfordringer med natteløgn.
+
+00:26:45
+Hvis vi tager et eksempel fra Aleppo, den første del, så kan man nok se, at der er denne røde løgn- og skarpe løgn.
+
+00:26:55
+Det siger os, at der er noget, der er virkelig dramatisk, at nogen tænder løgnene, og vi kan også se, at det har at gøre med armekonflikten i dette område.
+
+00:27:06
+I Zaatari er det opmærksomt, så fra ingenting i midten af, lad os sige, jorden, er der en vokse af lys, og det handler om befolkningen, bevægelse og refugeeringskamp.
+
+00:27:22
+I Dubai ser vi også en økonomisk udvikling af lysene i natten, der er placeret i nye områder, så flere lys er sættet på.
+
+00:27:33
+I San Juan, Puerto Rico, Vi ser, at lysene er mere eller mindre stabile.
+
+00:27:38
+Der er nogle fluktuationer, men det handler om de små fluktuationer over året.
+
+00:27:44
+Det har også at gøre med vegetation.
+
+00:27:48
+Men så er der nogle skarpe løsninger i lyset, og så en skarp økning.
+
+00:27:55
+Så nogen sætter lyset på, og andre sætter den på.
+
+00:27:58
+Seende det her, og seende de processer, vi går i, så er vi nødt til at se, tornader.
+
+00:28:05
+Tornaderne ramte denne område, lyset blev blokeret, powerlines blev damaget, og så tog det tid til at opbygge infrastrukturen og bringe lyset tilbage.
+
+00:28:18
+Med Caracas, nu er Venezuela meget i nyheden, men før vi obsøgte for eksempel den større, ikke større, men større nedgang, og det handler om økonomisk stagnation, så det er sådan, kan også mærke nogle processer.
+
+00:28:33
+Måske ikke nødvendigtvis på nyhederne, men vi kan indirekte bruge satellitdata til at rekonstruere processerne.
+
+00:28:40
+I Chualaca, Peru, ser vi en slags sæsonalitet.
+
+00:28:46
+Typiske sæsonale mål, som med grænser, deres lys kan også blive blokeret i nogle deler af året på grund af grænserne.
+
+00:28:56
+I nogle perioder kan lyset være bedre udført.
+
+00:29:00
+Det er også en slags finologi af nattimelægtet imageri, og vi kan bruge det også.
+
+00:29:06
+Så det var nogle eksempler på, hvordan vi kan bruge satellite data i økonomiske studier, og noget, der nu kommer til udstyr på konflikter, kriger og naturlige skandaler, men det kunne også være manglede skandaler.
+
+00:29:29
+Typisk ser vi mange studier med satellitdata, der ser på, om de er opdraget eller om der er en lille forandring.
+
+00:29:39
+Lad os sige, at med kropplingsudfallet i Syrien, så kan folk ikke nødvendigvis rejse til fjorden, men også hvis man tænker på klimaforandringen, så kan nogle områder blive fløjtet, og så kan folk ikke stoppe kvalificeringen.
+
+00:29:58
+Vi ser også, at vand er blevet en vigtig tilfælde for kraft og kontrol, så vandsupplyserne kan dække, ligesom på tysk-syriens borde, så vi også kan mærke det med satellitdata, og vi behøver ikke at vente på nogle officielle reaktioner af UN-aktionen, så vi kan se det rapidt med satellitimageret.
+
+00:30:22
+Tilføjende til impactene af de næste klimaforandringer, og jeg bruger et tilfælde fra arbejdet af Shenping Ding, der er med os i dag.
+
+00:30:37
+Det er et eksempel på Siamen, en meget økonomisk udviklet område i Kina, og med tyfønnet Miranza, det skabte virkelig dette område, og selv efter nogle dage, var det forståeligt at se til venstre, kan man se forandringer i farven fra mørkblå til jævn, hvilket indikerer, hvor mange dage det tog til at bringe lyset tilbage i denne område.
+
+00:31:06
+Så fra sætning af til sætning på.
+
+00:31:09
+Så hvis i nogle områder var det okay, var det måske to-tre dage til at bringe lyset tilbage, i andre tog det mere end to uger.
+
+00:31:16
+Og at være i denne område uden lyset, hvilket vi også kunne samarbejde med køleskabet, og eksposuren til varmt stress, til vigtigheden af tilgængelsen, hvis det er kraftudbrud, til sygehjælpssystemer.
+
+00:31:34
+Selv med mange investeringer fra Kina ser vi nogle slags forskelligheder, og vi kan også kvantifere, hvordan de kan blive forklaret.
+
+00:31:45
+I nogle fald kan det blive sammenlagt, og også sige, at de områder er mindre prioriteret for et nødvendigt forbygning af brugskraften.
+
+00:31:58
+Det kan også være de lidt uddannede områder med en ældre population, så en større procent af de ældre mennesker.
+
+00:32:07
+Eller områder, der er mindre udviklet, med en løs population og nogle andre aspekter.
+
+00:32:15
+Så dette type data hjælper os til at undgå, også med tilfælde til uenigheder, men også forskelligheder i resiliens og response til klimaets effekter.
+
+00:32:25
+Og nu til at bringe denne skridt, som også inspirerede denne nævning om klimaforandringer, som vi udførte sammen med kollegaerne sidste år i Nature Climate Change, Hvis man tænker på det hele nat, som jeg nævnte, at vi kan se med en timersyn til 1992, så begynder vi også at observe, hvordan lyset, som pulsen på planeten, det stiger og minsker, men også de flyver.
+
+00:32:56
+Nogle bliver nærmere til de østlige zoner, og nogle flyver væk fra de østlige zoner.
+
+00:33:03
+Først og fremmest kan vi mærke det.
+
+00:33:06
+men vi kan også forsøge at samarbejde med nogle sociale og økonomiske processer.
+
+00:33:11
+Først og fremmest vil vi se, at områder, der kan blive blevet stående nærmere på københavnet, kan migrere ud en lille smule.
+
+00:33:19
+De vil måske have resiliens, de vil måske have ekstra penge for det, investeringer, og så bygge nogle infrastrukturer, som i Danmark eller i Nederland.
+
+00:33:30
+Andre tager proaktive mængder og begynder at flyve væk.
+
+00:33:35
+fra kystzonene, og dem, der historisk måske er træffet eller ikke har tilstedeværende mulighed for at afhænge sig af de nødvendige ressourcer til de nødvendige zone, de bliver, de bliver i de kommuner, de bliver nødvendige til de kystzone, og kan blive mere eksponeret i fremtiden, gennem klimaforandringen, til effekten af tyfons, og det jeg viste, kunne blive effektivt med klimaforandringer.
+
+00:34:06
+Det er noget, vi må tænke på, at dette data hjælper os at møde uenigheder og hvor forskellige områder, hvor forskellige økonomier reagerer.
+
+00:34:17
+Vi ser en mange forskningsmuligheder, mindre afhængighed i løbende områder rundt om i verden.
+
+00:34:29
+Nu kommer vi lidt til sammenhængen.
+
+00:34:31
+Hvorfor er det så vigtigt?
+
+00:34:32
+For i fremtiden af klimaforandringen, uanset hvilket scenario der er valgt med CO2-emissioner.
+
+00:34:40
+Først og fremmest er den globale civiliserede størrelse planlagt til at stige.
+
+00:34:45
+Det vil også skabe flere frekvente klima- og tidstider, tidstider, tyfus, som kan blive forvandlet til en disaster, så flere områder vil ansvare på det.
+
+00:35:04
+Så det er noget, vi kan se med satellitteknologi tilbage, med tidmaskinen til at observe, men også bruge nogle data til de fremtidige forslag.
+
+00:35:13
+Og hurtigt at sammenligne, hvordan satellitteknologi kan bruges, og jeg tog nogle eksempler.
+
+00:35:20
+I dag kan vi se en masse med de forskellige mængder, som også CO2-emissioner, Vi kan se på deres respons på temperatur.
+
+00:35:30
+Vi kan se på deres sjøstand, men vi kan også se på nattempladsen i økonomier og landbrug og landskabsforandringer.
+
+00:35:39
+Og sidst til at sammenligne præsentationen, også en sammenlignelse af det, jeg vil bringe her, er, at remote sensing kan være en virkelig mægtig tillid til at mærke pulsene af klimaet.
+
+00:35:54
+Så, hvordan vi reagerer, hvad vi gør, der også inkluderer sociale og økonomiske udvikling.
+
+00:35:59
+Vi kan også mærke uenigheder, som jeg viste, hvor ljusene er, hvordan de kan blive prøvet af økonomier, hvor de mennesker er, hvor godt de er udviklet til at skylde også nogle områder, men også med udstyr på skandalerne, hvis de er naturlige eller stadig med en menneskelig dimension, eller en mandlaget skandal.
+
+00:36:20
+Men det er også meget kritisk at bringe det såkaldte kreative tænkende, er virkelig nødvendige for at først sætte relevante spørgsmål til at studere, og tondstændigt for at afprøve, hvordan remote sensing kan adresse disse spørgsmål.
+
+00:36:37
+Og det er derfor, at vi nogle gange begynder at adresse disse forskningsspørgsmål med en relevant geografi- eller socialscience-økonomisk perspektiv, og så sidder vi og tænker på, hvilke mængder fra satellitdata, hvilke produkter, kan hjælpe til at adressere denne spørgsmål, kan hjælpe os til at monitorere disse processer.
+
+00:36:58
+Med dette vil jeg gerne sige tak, Mange tak, og jeg vil være åben for de spørgsmål og
+
+00:37:06
+diskussioner.
+
+00:37:07
+Tak.
+
+00:37:08
+Tak, Alexander.
+
+00:37:11
+Vi
+
+00:37:12
+flytter
+
+00:37:13
+til Q&A nu.
+
+00:37:15
+Hvilke spørgsmål og kommentarer kan I poste i chatten?
+
+00:37:21
+Jeg har en her.
+
+00:37:23
+Jeg spørger, hvordan natteligheder og andre satellitdata kan hjælpe at identifere vulnerabilitetshøjepladser for fløjt, stormforsøg eller ekstrem regnfald før impactet sker?
+
+00:37:40
+Kan det?
+
+00:37:41
+Ja, tak.
+
+00:37:43
+Det er virkelig en meget vigtig spørgsmål.
+
+00:37:47
+Vi kan selvfølgelig bruge nogle områder, der er prøvede til, lad os sige, fløjning, og vi kan mærke det med historiske observationer, så vi kan se, at områder med en rekurrent tilvandling af eventer, det fortæller os også en masse.
+
+00:38:05
+Men nogle gange vil de nye områder blive udført, lad os sige, til fløjning.
+
+00:38:10
+Hvis du bringer et eksempel på fløjning, kan vi se staten af infrastrukturen, kvaliteten af infrastrukturen, Vi kan også fortælle, at måske nogle forhold, måske vandet i nogle områder, kan hjælpe os at mærke.
+
+00:38:25
+Så en aspekt er den sociale aspekt, vi kan bringe, og den sociale og økonomiske.
+
+00:38:33
+Staten af infrastrukturen, selv om infrastrukturen er der.
+
+00:38:37
+Tonden kan vi også rekonstruere i detalje, hvad der skete før.
+
+00:38:41
+Så nogle områder er sikkerhedsvis eksposeret før til disse processer, men også Det er den nye stat.
+
+00:38:47
+Hvis et øjeblik er blevet overført med et skridt eller en storm, så kan vandet gå hurtigt væk, og så kan konditionerne i jorden overføre
+
+00:39:00
+vandet.
+
+00:39:02
+Tak.
+
+00:39:04
+Hvis en dansk bygning vil begynde i morgen med at bruge data, hvilke data-skill og arbejdsfløde er gode nok til at integrere satellitindsigtning til risikoansøgning
+
+00:39:19
+og planlægning?
+
+00:39:22
+Fantastisk spørgsmål.
+
+00:39:24
+Her har vi ikke kun lavet forskning, men også så meget praktisk arbejde som muligt, for at træne næste generation af studerende, geografiske studerende, og jeg er meget glad for at se, at de går til at arbejde for bygderne, så det er gode geospecial-skill.
+
+00:39:45
+Jeg tror ikke, at det skal være noget, for eksempel roketskogsforskning.
+
+00:39:50
+Det skal være tilstede skil med forhandlingen af de geospatiale data.
+
+00:39:56
+Danmark er faktisk opfyldt med meget gode datasæt.
+
+00:39:59
+Hvis jeg kan huske, så har vi hver anden år, så hver anden år har vi data om højden af strukturerne.
+
+00:40:14
+Med ligere data har vi digitale elevationsmodeller.
+
+00:40:19
+Når nogen er ærlig, måske en lille smule, selv uden nødvendige geospeciale skil, møde en lille smule ud af komfortzonen, eller få lidt ekstra træning og begynde at bruge data.
+
+00:40:34
+Anderledes har vi nok, og derfor Vi har et specielt program, både på bachelor- og masterniveau, for at træne folk til at bruge dette data.
+
+00:40:43
+De er nødt til at gå til bygderne og gøre dette
+
+00:40:47
+arbejde.
+
+00:40:49
+Har du nogle eksempler fra Danmark, bygder, bruger eller agencer, som aktivt bruger nattidens data til at simulere satellitdata og klimatadaptation arbejde?
+
+00:41:11
+Jeg vil gerne sige,
+
+00:41:15
+at nogle af dem prøvede at bruge det.
+
+00:41:17
+Jeg ved, at nogle firmaer prøvede at bruge data, men en af udfordringerne med night and light data er, at, igen, som jeg nævnte, var det en slags ud af overraskelsen, at når dette data blev designeret for nattimelighedsnavigation med USA og mødring af vejr og emissioner, og så pludselig så jeg, wow, det er bare en nattimelighed, så lad os gøre noget, lad os udforske det.
+
+00:41:46
+Dette data kom originalt fra 1992, det var på en kilometer resolution, og nu transleres det til 300 meter resolution, så måske på den danske skala, vil det ikke være tilstedeligt nok.
+
+00:42:04
+Det er derfor, at det nye push kommer til at tage det til 90-30 meter resolution.
+
+00:42:11
+Men det er stadig ikke fuldt kaptureret i Danmark.
+
+00:42:15
+Derfor er dette data mere som et eksperiment.
+
+00:42:19
+Til at forberede teknologier og også til at bevise vandrerne til at sætte deres satellitter.
+
+00:42:26
+Det vil jeg gerne reflektere, at det stadig er eksperimentet data.
+
+00:42:32
+Nogle agencer prøver at implementere det, men måske er det for langt i dansk kontekst.
+
+00:42:40
+Der er en spørgsmål
+
+00:42:43
+fra chatten.
+
+00:42:44
+Tak for den flotte præsentation.
+
+00:42:48
+Hvad er det, du er nødt til at være opmærksom på, for at undgå at lave fejlkonnektioner mellem det, der er observeret og det, vi prøver at kvantere?
+
+00:43:01
+Har du et eksempel på observationer, der ser ud til at pojne i en direktion, men på yderligere inspektion leder det til forskellige beslutninger?
+
+00:43:15
+Det er en meget
+
+00:43:16
+vigtig spørgsmål, og det handler nok om kausalitet.
+
+00:43:22
+Vi er nødt til at være opmærksomme over, hvad vi faktisk observerer, og hvilke direktioner det driver.
+
+00:43:28
+Og det kunne være et eksempel på, hvad der sker, hvis populationen stiger, der sker en nattimelighedsstørrelse eller en nattimelighedsstørrelse, som samtidig også dræber menneskerne til at forvandle sig i ekonomin.
+
+00:43:47
+Det er det, vi prøvede også at afslutte.
+
+00:43:50
+Og selvfølgelig må vi være opmærksomme, når vi interpreterer, hvilke andre faktorer, der kan skabe en nattimelighedsstørrelse selvsagt med daglig ekonomisk udvikling.
+
+00:44:03
+Vi må være kritiske om, selvsagt som vi kalder det, ikke at skamme dødene, men virkelig etablere en kausalitet, fordi andre faktorer må være pågående.
+
+00:44:12
+Det er det, vi skal være virkelig opmærksomme om, når vi bruger satellitdata.
+
+00:44:17
+Da satellitdata rekorderer elektromagnetisk signal, så rekorderer det aldrig populært, ikke CityGrove, og det er vores Det handler om forskning og teknologi, og om at kunne interpretere disse mængder og bringe dem i kontekst med de menneskelige aspekter.
+
+00:44:38
+Der er ikke flere spørgsmål, Jeg talte med Alexander først.
+
+00:44:47
+Hvis du har nogen spørgsmål eller mulighed for at reflektere på dette topik, og synes, det ville være interessant for os at bruge i vores arbejde, i municipaliteten eller andre steder, så er du mere end velkommen til at kontakte ham.
+
+00:45:08
+Du kan finde det på skjermen der.
+
+00:45:11
+and otherwise on LinkedIn or other places.
+
+00:45:15
+But I would like to thank you so much, Aleksander, for the presentation and the talk.
+
+00:45:21
+And thank you to everyone that has been listening and joined this morning and for questions.
+
+00:45:30
+And I hope you all will have a wonderful day.
+
+00:45:34
+And I'm looking forward to seeing you to the next DNNK event.
+
+00:45:41
+Tak, Alexander.
+
+00:45:42
+Tak for din tid og god fredag og weekend.
+
+00:45:46
+Tak.
+
