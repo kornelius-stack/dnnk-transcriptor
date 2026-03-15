@@ -1,0 +1,321 @@
+00:00:09
+I forbindelse med Marinas præsentation vil jeg gerne vise inspiration om, hvad tryksat lager eller nogle andre lysninger kunne være.
+
+00:00:21
+De vil være baseret på projekter.
+
+00:00:23
+Vi arbejder i Lundtofteketet, den hedder Opska Lager.
+
+00:00:28
+Det er svært.
+
+00:00:31
+Er det bedre nu?
+
+00:00:35
+Okay, godt.
+
+00:00:37
+Marina har allerede vist den illustration, men vi er Lundtoftegade.
+
+00:00:43
+Jeg synes måske flest af jer ved, hvad Lundtoftegade ligger.
+
+00:00:47
+Det er en almindelig bolige, AKB Lundtoftegade-område.
+
+00:00:52
+Og vores demonstratorium, eller skalarel demonstratorium, det er en anden gård i fire gård i den område.
+
+00:01:02
+Vi arbejder ca.
+
+00:01:04
+med sug.
+
+00:01:05
+og 30 nælløbsrøer.
+
+00:01:08
+Vi vil gerne afkoble dem i løbet af næste år, men vi har fået del områder til noget zone, som vi kan begrænse lidt opgaven og teste forskellige muligheder.
+
+00:01:22
+Lige nu arbejder vi som en opskalartim, med flere mennesker end mig, og de er Marina, Ulrik fra Teknologisk Institut, Carl og Søren Emil fra Tilvækst, og projektet er støttet af Realdania.
+
+00:01:40
+Det formål med projektet er faktisk, som Marina har nævnt, at udvikle lysninger, de uafredampning, udvikle lysninger, de er billige, og lysninger, de er CO2-neutrale, også i forhold til materielle brug.
+
+00:01:57
+I forhold til at opskalere, kan vi fokusere på at få den projekt, som alle naturbaserede løsninger skulle faktisk være, tilpasset til lokale situationer.
+
+00:02:06
+Så vi arbejder på at inkludere så meget eksisterende beplænding som muligt.
+
+00:02:12
+Vi arbejder på at inkludere også eksisterende inventar.
+
+00:02:16
+Så på en måde vil vi gerne lave minimale løsninger.
+
+00:02:19
+Så udskifter i området, så let som muligt.
+
+00:02:23
+Vi tager udgangspunkt også i lokale kulturelle værdi, Det er også vigtigt at inkorporere kunst i vores projekter.
+
+00:02:39
+Ikke præcis i Opskala, men i andre tilknyttede projekter til Opskala.
+
+00:02:45
+Men en anden, eller det tredje formål faktisk i den projekt er, at løsningen vi udvikler skal være praksisorienteret.
+
+00:02:54
+Så vi arbejder meget på at få dem til at være praksisorienterede.
+
+00:02:57
+Så vi arbejder meget på få dem til at de er nemme at implementere, og så de også kommer med en klar vejledning om, hvordan man kan arbejde med låd og træ i fremtiden.
+
+00:03:08
+Så vores udviklingsproces, det er at præsentere eller ende med noget slags anvisning og katalog til låd og træ, mens vi arbejder på lysningsudvikling og test, og så her, det også kommer et test, vi laver udover for at Vi har præsenteret lysninger med tests af materiel, så for eksempel, som Marina har nævnt allerede ved arbejdet, vi prøver at teste vandholdningskapacitet af forskellige biobased materials.
+
+00:03:39
+Vi også tester lysninger før vi sætter dem i gang på Lundtoftegade i demonstratoriet, så laver vi nogle mindre forsøg i væksthuse eller drivhuse på Københavns Universitet.
+
+00:03:54
+Beidingprojekt, eller noget, de samler, det er et dimensioneret projekt, og jeg viser, hvordan vi arbejder med det lidt senere.
+
+00:04:02
+Og selvfølgelig kommer de, fordi vi arbejder for demonstratøren, det er et privat område, men det er også, vi tester i real time på en måde.
+
+00:04:13
+Så vi laver noget, det er måske at teste på en mindre skala, men i den større skala, vi tester det allerede på plads.
+
+00:04:21
+Derfor arbejder vi med bebærende information og co-creation.
+
+00:04:27
+Den fase er stadig i udvikling.
+
+00:04:31
+De kommer i næste to år, men vi anreder planlægget for, at de kommer i spil i projektet.
+
+00:04:39
+Anvisning af en katalog er en element, hvor vi prøver at faktisk præsentere hele Lollara-princippet.
+
+00:04:50
+Så det er nemt at lave den projekt selv.
+
+00:04:57
+Den er især målrettet til almenne borgere, så vores katalog i første udgangspunkt vil være målrettet til almenne borgere.
+
+00:05:07
+Og vi vil gerne, at de vil være præsenteret i den klartillageprojekt, det er en almennet netværk.
+
+00:05:17
+Og som inspiration lige nu, vi bruger en stormwater management-guidance-manager fra Philadelphia.
+
+00:05:23
+Den er ret stor og lidt mere kompliceret, hvad vi planlægger.
+
+00:05:30
+Så vi også prøver at lave den så simpelt som muligt, så den tidligste process og information om den lave løsning, vil være mest anvendelig muligt.
+
+00:05:45
+Mens vi arbejder på løsninger, mens vi faktisk brainstormer på løsninger, vi bruger noget binding element, en lommeregner.
+
+00:05:56
+Så vi vil gerne også være en del af vores anvisning og katalog.
+
+00:06:00
+Så vi vil have en forbedret, måske webselen.
+
+00:06:04
+Vi hopper på webselen.
+
+00:06:06
+Hvad trykker på forskellige faktorer eller værdier.
+
+00:06:12
+Man kunne nemt beregne størrelse af element.
+
+00:06:16
+Selvfølgelig er det lidt kompliceret endnu, men vi bruger den element også for at selv beregne, hvad volymen eller størrelse af element skal være.
+
+00:06:26
+I denne tilfælde har vi regndata, som man kan udskifte.
+
+00:06:34
+Det er selvfølgelig en fast forsøg til at gøre det, så de ser ud, som de ser ud.
+
+00:06:43
+Men vi tilføjer for eksempel størrelser af dien.
+
+00:06:48
+De kommer med et nødvendigt længde, at dien skal være 17 meter, og parkeringsnedsynning skal være et kvadratmeter.
+
+00:06:58
+Så vi prøver at gøre det så nemt som muligt, for at personer, de skal anlægge projekter, kan få mest præcist information om elementet.
+
+00:07:12
+Og her vil jeg gerne vise jer, som inspiration, hvordan vi kan arbejde med jordbaseret elementer i loratrar.
+
+00:07:27
+Her har vi begyndt med at designe Zone E i Lundtoftegræden, Den helt minimale løsning, så hvor lidt kan vi gøre for at faktisk håndtere den regnvand udefra tagflade.
+
+00:07:44
+Her har vi tre nedløbsrør, de er tilknyttet i den her område.
+
+00:07:50
+Vi laver en slags meget kort design, men første element vi bruger, som Marina har vist lidt i hendes præsentation, er en regndjæl.
+
+00:08:05
+Så princippet er lidt det samme, som vi har snakket om i klimaskærmen.
+
+00:08:09
+Vand løber ned.
+
+00:08:11
+Kan I se min mus?
+
+00:08:13
+Nej.
+
+00:08:15
+Så vand løber ned og op med tryksetsystemet og fordeler sig i en rande.
+
+00:08:23
+De er på toppen, hvor de nedsiver i DSL.
+
+00:08:29
+Efterfølgende er der mere regn, så den kan nævne syvere i åen, og den overflå kun når der er parkering på området selv.
+
+00:08:43
+Den interessante ting udenfor regndien er, at vi vil vidteste, hvordan man kan lave en slags rådelinggrane med naturlige materialer.
+
+00:08:54
+Her bruger vi træbræller.
+
+00:08:56
+og vi vil, at de røger, men vi vil gerne teste, hvor lang tid det tager faktisk, at de røger i denne her situation med kontakt med jord, men med også fluktuerende vandindhold i degen selv.
+
+00:09:11
+Så konstruktionen er ret simpel.
+
+00:09:14
+Vi har en røgjord.
+
+00:09:16
+Vi har en slags tår.
+
+00:09:21
+Lille diger på toppen af den større diger, de er for at større vandet, ulle til parkeringsområdet, og så har vi træbrædde og nælplustegn på toppen.
+
+00:09:33
+Jeg viser måske billedet, fordi det er nemmere at forstå på den måde.
+
+00:09:37
+Så det er den meget simple konstruktion med en overløb til parkeringsområdet på den anden side, den tilgrønne område.
+
+00:09:47
+På billedet kan jeg også se, at det faktisk er lige efter projektanlæg, så det er en situation fra efterår.
+
+00:09:57
+Og lige her på den anden side, og vi har en billede fra magemålene, som måske I kan også notere, er, at den faktisk ikke er så rundt.
+
+00:10:09
+Og det er en del af vores test, for vi vil gerne prøve at gennemgå den overflade mellem græs og jord.
+
+00:10:18
+Så første 10 cm af jord bare fjerner ud, før anlægget er den lige.
+
+00:10:24
+og sætte op tilbage på digen for at se, hvordan vi kan genbruge den græs, der er i området, og hvordan de vil sælge i forår.
+
+00:10:37
+Vi har også meget koldt forår, så vi venter lidt i sommeren for at se, hvordan de udvikler sig.
+
+00:10:46
+Så vi tester meget i området selv.
+
+00:10:50
+Lige nu arbejder vi på den regn, der var bygge op og er i test siden forår.
+
+00:10:59
+Lige nu arbejder vi på en anden element, som vi kalder regnbakken.
+
+00:11:04
+Regnbakken vil være en højere element.
+
+00:11:08
+Projektplaceringen er ved kanten af Zone E-området, men den vil være placeret Det er noget, vi tænker kunne være med en støttemur.
+
+00:11:25
+De løber på kanten af området, så den jordvolumen vil være ret højere end i almindelige dele.
+
+00:11:37
+Og den interessante ting er, fordi med vores kalkulator eller vores lommeregner, vi prøver at finde ud af, hvor meget jord og hvor meget volumen vi faktisk har.
+
+00:11:49
+eller vandkapaciteten, vi har i vores bakke, i forhold til den plads, vi har, fordi det er også, hvis vi gerne ikke fjerner træer i det her område, så er den plads ret beklagelig.
+
+00:12:03
+Og vi finder ud af, at vi faktisk mangler lidt for at klare 10 års hændelse.
+
+00:12:11
+Så vi kom med konklusion, at måske vi kan lave en slags Overjordiske magasiner er selv på bakken for at sænke den volume, de kommer ned fra udløbet, når Niels jo allerede i starten af udløbet nåede Niels jo ned af bakken, men ind i midten har vi en slags anden magasin, hvor vi kan faktisk benytte den areale til vand.
+
+00:12:52
+Så det er dobbelt på en måde magasin.
+
+00:12:55
+Iårn og åriorn.
+
+00:12:58
+Den tredje er, at vi stedig tænker over på en navn, eller godnavn.
+
+00:13:04
+Vi har nogle spærende, men de kunne også være Hvordan kan vi bygge op med et gravet hul?
+
+00:13:32
+at bygge en minidier omkring, så den samme princippet, som det faktisk er i regndier, men vi genbruger den i år fra fasthed selv, for at bygge en minidier omkring, og har en meget flad regnbedder, hvor den faste regn, eller faste 10-15 mm af regn, kan der hanteres i dieren selv, og kun i større, fra 15 til 50 mm vand, vi faktisk lukker ind i regnvæden.
+
+00:14:07
+Så det er en anden principe, hvordan vi kan tænke om at have en element, de ligner måske lidt regnvæde, men kræver mindre ressource og kræver mindre materiale.
+
+00:14:22
+Ja, og så igen, idéen er, at det er meget basic løsninger, så de er løsninger, som måske er lidt usynlige, men som man kan bygge op og bringe flere mærkeværdier på med arbejde med bevægerne, for eksempel.
+
+00:14:43
+Og så har vi andre løsninger, som måske ikke er så meget årbaserte.
+
+00:14:48
+Først har vi et træring, fordi vi arbejder med problematik af tørke.
+
+00:14:56
+og problematik af kugling af byerne.
+
+00:15:02
+Så hvordan kan vi udnytte den vand, vi har i djenes celler, for at faktisk forberede vilkår til træerne?
+
+00:15:12
+Og så er det den træring-eksempel her.
+
+00:15:15
+Men vi arbejder også med regnbågergårders, som var allerede nævnt.
+
+00:15:21
+Hvordan kan vi bygge op vandet, i højden, lidt som eksempel fra klimaskærmen, men ikke så medbrugstædig af andre materialer end mineralulv, eller mindre mineralulv.
+
+00:15:40
+Og også bare noget mere kunstigt, ikke kunstigt, men kunstelementer.
+
+00:15:47
+Vi kan arbejde med tilvækst eller ekokorpolymer, så der er kunstklubber, de eksisterer der.
+
+00:15:55
+Men det var det.
+
+00:15:58
+Tak.
+

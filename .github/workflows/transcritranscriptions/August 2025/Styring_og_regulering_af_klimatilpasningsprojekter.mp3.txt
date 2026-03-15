@@ -1,0 +1,1458 @@
+00:00:08
+I forhold til programmet på det her, det er som jeg ser det, et rigtigt rigtigt bredt, kan man sige, at snakke om styring og regulering af klimatilpasning.
+
+00:00:18
+Det er både, kan man sige, i forhold til når det regner rigtig rigtig meget, i forhold til hvordan kan man få vandet drejet hen til de rigtige steder, så det skaber mindre skade, men.
+
+00:00:27
+Så er der også noget om, kan.
+
+00:00:28
+Man sige, hvordan man nu på klimatilpasning kan styre vandet hen, så man kan bruge det til andre formål, lidt mere, kan man sige, reaktiv brug.
+
+00:00:37
+Så det både kan man sige det her med syring, og vi starter med Mikkel fra Smartbrød, der fortæller lidt om nogle måder, hvor han har været med til at syre noget vand inden for nogle forskellige projekter, der kommer med sådan nogle eksempler.
+
+00:00:51
+Og så kommer Line Stokkemeier fra Frederikshverdenen og fortæller om, hvordan det er, at I bruger vand og syrer det hen, som så I bruger det i forhold.
+
+00:00:59
+Til de forskellige forhold.
+
+00:01:01
+Og til sidst så kommer måske lidt mere det der, man snakker om sammen med Syringerreguleringen, hvor Rampfeldt så kommer.
+
+00:01:06
+Mikael kommer og fortæller lidt om Karlsværk-myten, hvor det er lidt mere, som man siger, noget syringervand nok der er der.
+
+00:01:12
+Men jeg tror egentlig bare, at jeg.
+
+00:01:15
+Vil give Mikkel Hold den op, og.
+
+00:01:18
+Jeg tænker umiddelbart, at vi holder efter hver indlæg, så har I mulighed for at stille spørgsmål.
+
+00:01:23
+Selvfølgelig, hvis der er et eller andet, der lige er misforstået, eller et eller andet, så må I meget gerne selvfølgelig afbryde mæggen med, eller så er der lige 5 minutter til spørgsmål efter, at mæggen er holdt op med.
+
+00:01:32
+Ja.
+
+00:01:50
+Jeg hedder Lene, og har stiftet Smartphone. Vi har været i gang i tre år med Smartphone.
+
+00:01:59
+Vi er tre ansatte, og så har vi to, der hjælper os med at sætte udstyr op.
+
+00:02:06
+Det Smartphone egentlig er, at gå til at starte med, fordi det her med intelligente løsninger i langsamtalt, med fokus på styrkemonitorering og hele det der data, det.
+
+00:02:15
+Er sådan det vi har.
+
+00:02:17
+Og så det jeg vil egentlig fortælle om, Det er tre cases, hvor vi har været med til at styre og monitorere egenvendelige kliniske indgangsprojekter, og så vise, hvordan vi har arbejdet lidere med de projekter.
+
+00:02:31
+Det er dagprojektet ude i Søgaard, og så er der visningsvej og fodboldsvej, som er fra Frederiksberg, hvor vi arbejder med en vandbremse, vi så kan justere og få laser på, og så er fodboldsvejen en styrbar vandbremse, vi har udviklet.
+
+00:02:48
+Men det første projekt her, det er dampprojektet, som har været undervejs længe, og nu står færdigt.
+
+00:03:07
+Forrige uge blev det sidste element bygget færdigt.
+
+00:03:10
+Dampprojektet er et projekt, hvor man håndterer en femårsregn.
+
+00:03:15
+Så der er ikke noget nedsivning, der er ikke noget udøbt til kvark, det her alt skal håndteres med fordampning.
+
+00:03:22
+Og det der så er lavet, det er at alle vandene skal have havnet i en søg, som er lige lavet her.
+
+00:03:32
+Og så tager den her tagflade og garagen koppen på, og så vil de fusionere til et større oplad, og der er designet til de volymer, der er nødvendige for at håndtere elarealet derude.
+
+00:03:46
+Sådan her ser hovedvolumen ud. Det ligger nede ved strøms, hvor der er plads til 63 kubikmeter.
+
+00:03:56
+Der er en vand, vi løber ned i. Den grønne der, der kan vi faktisk styre vandet fra.
+
+00:04:05
+Vi kan pumpe vandet over i en anden tang.
+
+00:04:09
+I den tilfælde ind i en kælder, hvor vi har vores styringad og vandet ud til de fordammelse elementer.
+
+00:04:16
+Og så er der lavet op i opstrømsen en inkerseng, som I ser her.
+
+00:04:24
+Noget af det jeg synes er interessant med den her inkerseng er, at man fra den råskydende jord fra søbersenget har brugt til at lave inkersenget.
+
+00:04:35
+Og så ville alle sige, at sådan kan man ikke håndtere vand, for så håndterer man kun det vand, der falder oppe og så op.
+
+00:04:42
+Men fordi man har den styring, man nu har derude, Så det her ene bassinet her kan faktisk håndtere en kæmpe opvand, fordi vi kan nemlig styre vandet frem og tilbage fra de enkelte elementer.
+
+00:04:54
+Og så mellem de to, ene bassinet og søbassinet, der har vi den der styrbare vandbrænde, som sidder i brænden der.
+
+00:05:03
+Så når vi skal fylde vandet derfra over i søbassinet, så kan vi åbne op, så er det faktisk den vandbrænde, vi sætter lige der.
+
+00:05:11
+Og det er den, der så kører herfra.
+
+00:05:14
+Noget der er interessant at se er, at når vi åbner op herfra, og vandet løber i den her vandrang her, og vandrangen er lavet med en membrane, men når vi så ligesom fører vandet igennem den her vandrang her, så er der i hvert fald noget, der tyder på, at vind og vejr gør, at der er masser af vand, som forsvinder i den her vandrang her.
+
+00:05:39
+Og det er så det, man skal i gang med at montere på.
+
+00:05:44
+Og i tre år skal man tværs på det, så man måske bliver rigtig klog på det her.
+
+00:05:50
+Det er ligesom hovedvolumen i det her.
+
+00:05:52
+Og så er det her en visevis styring, så når vi har det for vores dashboard, det her, vores søgen, og så at vi trækker vandet ind i kælderen, og det er faktisk det, I ser her, som søppelsænget ud af det.
+
+00:06:03
+Sådan nogle vandtanker, der står i kælderen.
+
+00:06:05
+Og de kunne stå andre steder, men nu passer det bare rigtig godt i det her projekt, fordi det blev der klar.
+
+00:06:10
+Og så derfra kan vi så pumpe pumpen ud i i de her kredse herude i fordammelselementerne.
+
+00:06:17
+Og så er der en slåmåler på, og vi kan også må vandestanden i kælderen.
+
+00:06:21
+Og det her er et eksempel på, hvordan vandestanden går ind i kælderen her.
+
+00:06:26
+Og så kan vi se, hvor meget vand, der er blevet taget frem og tilbage i de enkelte elementer.
+
+00:06:31
+Og det her er også meget røde, men det er alle graferne samlet på en...
+
+00:06:43
+Og det her er så fordampningselementerne.
+
+00:06:46
+Så fra kælderen kan vi så køre ud i de her fordampningselementer.
+
+00:06:51
+Og det er dem, der så skal sørge for at lave den her fordampning, der nu er.
+
+00:06:56
+Det er faktisk, man har altid beregnet på, hvad der skal til for at opnå den her 45 års regn her.
+
+00:07:02
+Og det der er interessant, det er ikke de beregninger der. Det er sådan en som den her.
+
+00:07:07
+Det er pineby med mineralulv. Der er et meget højt fordampning i sådan nogle vinter.
+
+00:07:13
+Og det samme med Asian Peking Brøndbæk. Og så også plantekummer.
+
+00:07:20
+Det er jo træet her, der har rigtig høj fordangning om sommeren, men meget lavt om vinteren.
+
+00:07:26
+Så derfor giver det super gode mængder af de her brøndbæk.
+
+00:07:29
+Og det her kan I se, nu er der kommet pander ind derude.
+
+00:07:32
+Og her kan I se, at i de her tre fordangshedmængder, der hører vi vand ud fem gange i døgnet, så får de Den her får 50 liter per gang, og det er 25 liter per gang.
+
+00:07:47
+Så det er ret meget vand, der rejser sig rundt.
+
+00:07:49
+Og det, der er glemt at sige, at man ikke kender, det er faktisk, at de der pumper, altså alle pumperne er rigtig billige.
+
+00:07:54
+Fordi de behøver ikke at være så kraftige. Det bygger på, at man leder vandet langsomt rundt.
+
+00:08:01
+Det kan gøre, at man rejser sig ud i sådan en ret billig anlæg derude. Og så det her.
+
+00:08:11
+Nu har man ikke fået tid til det, men man kunne princippet her på kælderen, kan man få en brug af den brød, der er lige der.
+
+00:08:20
+Og i den brød, der er faktisk i drænheden under membranen af C-processoren, så man kunne lave kontrolleret nedskivning.
+
+00:08:27
+Og så er vi begyndt at montrere, om det trænger grundvejen.
+
+00:08:29
+Så når det trænger grundvejen, står lavet, så vil vi kunne lave nedskivning forhåbentlig uden at det påvirker komraden.
+
+00:08:37
+Men det er jo selvfølgelig, vi skal montrere på. Og det samme her.
+
+00:08:39
+Den kan vi pumpe til overløb til kloakken.
+
+00:08:42
+Og hvis I ser her, det er bemegningen, der er lavet for fortsætningen for at hantere det derude.
+
+00:08:46
+Her kan I se, at i juli måned er estimeret, at der skal pumpes 0,730 bitmeter til kloakken.
+
+00:08:52
+Og det er så det, vi kan gøre herfra. Og alt det her, det er så det, vi skal byggegøre os i.
+
+00:09:01
+Og lige nu så er vores statsbord sat op på nogle regler, vi kan sætte ind.
+
+00:09:06
+Men der hvor vi så skal hen, det er jo at monitoreringen, Vi laver hele styringen selv, så når for eksempel når søvsænger og indkostsænger er helt fyldt, så pumper den automatisk de der 0,37 kubikmeter til at overløbe til kvark.
+
+00:09:21
+Der er jo så ikke lige nogen, der når den til et tidspunkt. Ja, det var det her projekt.
+
+00:09:29
+Jeg synes bare, det er et så spændende projekt, og det er meget spændende at følge, og se hvad der kommer ud i tal, som kommer.
+
+00:09:37
+Det her er en case på Vissingsvej, hvor man har lavet et stort volume under vejen her af de her brændfølgekvaliteter.
+
+00:09:46
+Så det er nogle tætte bassiner på 655 kubikmeter.
+
+00:09:53
+Og så er der hoplandsvej, der føder vandet ned til vejen her.
+
+00:09:57
+Og så fra den her brønd, giver vi udbrønden til duarken i den gamle kongevej.
+
+00:10:02
+Ja, det er den der der.
+
+00:10:07
+Og så fik vi lov at sætte en vandstandsmåler i, og det vi kan i vores vandsvogne, det er at vi kan se på udnyttelsesgraden, vi ser ikke bare vandfrejheden, vi ser på, hvor mange kubikmeter står der i anlægget, når det regner, sammenfaldende med det, vi i dag sætter tilfælde.
+
+00:10:21
+Og det der var så super interessant at se, det er, at den røde linje her, det er volumen inden i kassetten, vi sætter 655 kubikmeter, og det blå, det er nedbør.
+
+00:10:33
+Og den, I har lige her, det var den 15. november, hvor der faldt 60 mm.
+
+00:10:39
+Det var super meget regn, man havde taget den dag. Men der stod altså kun 6 m3 i anlægget.
+
+00:10:44
+Det er meget tankevækkende, at man har bygget så stort en loom til det.
+
+00:10:48
+Og så fik vi overset vores vandpremise og taget en gammel ud.
+
+00:10:55
+Og den gamle, der var sat, den var sat til 20 liter i sekunden, hvilket der var rigtig meget at gøre.
+
+00:11:02
+Og så har vi sat en vandpremise, Der havde ikke udøvestallet, og nu har den nye udøvestallet på 0,9 liter i sekundet.
+
+00:11:11
+Men det er meget tydeligt at se, at efter vi satte det til sænkede, der havde udøvestallet, så stod der lykkeslig vand i det her anlæg her.
+
+00:11:22
+Og det er bare et andet billede. Den 9. september sidste år, der faldt der under 70 mm derude.
+
+00:11:30
+Og der stod nok faktisk 400 kubikmeter i anlægget. og så kører den stille og roligt ud.
+
+00:11:36
+Og jeg synes, at anlægget er ude at bygge sammen, så er hele landet her, f.eks.
+
+00:11:42
+Telefonen.
+
+00:11:42
+Blevet ud ind i Søndervej, og fra Indsøndervej blev den ud ind i Holandervej, og fra Holandervej gjorde den ind i Abissesvej.
+
+00:11:50
+Og det er faktisk en blå graf, her, I kan se, der er Holandervej.
+
+00:11:53
+Og grunden til, at den slader ud her, det er faktisk landet, der kommer fra Holandervej ind i Abissesvej.
+
+00:11:58
+Og det, jeg synes, man ser her, det er, at Selvom udnyttelseshastigheden er rigtig lav i holdende vej, så kører det måske stadig alt for hurtigt ind i analysesvej og belaster faktisk det store volume, der er her, uden endelig at udnytte de 242 kubikmeter, der er inde i holdende vej.
+
+00:12:18
+Jeg tror i hvert fald, at der er behov for at lave en bedre styrke nogle gange for at udnytte de her magasiner, som koster bare rigtig mange penge.
+
+00:12:30
+Når man så går ned på 0,9 liter i sekundet, og så slemmer det altså meget til Det er bare sådan en lille hul, der sidder, så hvis man skal dernede, så skal man virkelig være opmærksom Og det har vi fra en ny, vi kan se her Det er efter lønnesaften, så faldt blodtæstigheden, og så gav den ikke set i vores lastbord, fordi vi har en vandtæstmåler i.
+
+00:13:07
+Den faldt ned til 0,2 liter i sekundet, hvor normen er de her 0,9 liter.
+
+00:13:12
+Og så er den blivet tålet ud, og så kunne vi faktisk lige måske tage den op fra branden, og så sad der det her afsvar, stedet for en ballon, der var kommet ind i vandværmelsen.
+
+00:13:26
+Så det er i hvert fald meget vigtigt, tror jeg, hvis man går under de her 1-2 millisekunder, så skal man have noget udskift på dig, der ligesom kan lave noget drift, så man er sikker på, at hjertelægget fungerer.
+
+00:13:39
+Det her er en case på frugtenødsvej, for det er det, vi har kigget rigtig meget ind i, det er, at selvom vi presser udløbshastigheden langt ned, Så er der stadig meget mere potentiale i det her, vi har bygget.
+
+00:13:58
+Og derfor tror vi rigtig meget på, at når vi skal styre vandet mellem vores volumer eller til nødsivende eller hvad det nu kan være, så tror vi super meget på, at vi er nødt til at kunne lukke udkastningerne.
+
+00:14:08
+Altså at vi simpelthen kan tage det fra den volume over til det volume, hvad det giver mening.
+
+00:14:13
+Og derfor har vi bygget en styrbar vandbremse, så når det regner, så kan vi lukke det helt.
+
+00:14:20
+Og det har vi fået lov til at sætte ude i fredens vej.
+
+00:14:23
+Og så er det ligesom Amisify før, der ligger nogle kassetter, og så er det faktisk to lager nederløversystem, hvor nederløversystemet er kassetterne, og ude er noget, hvad havde det der, panglass, hvad havde det, hvad havde det værre det, som man har pakasin i under vejen.
+
+00:14:43
+Og så løber man over i husbrænden der, og så ud til kloakken.
+
+00:14:50
+Og.
+
+00:14:50
+Så fik vi lov at sætte vores styrkeopvandlingsmagnet her.
+
+00:14:58
+Og det er bare et eksempel på at have der falder 6,8 mm.
+
+00:15:02
+Og så kan vi, fordi vi har lukket den, så alt vandet der nu falder på opvandet her, det løber ind i magasinet.
+
+00:15:11
+Og så kan vi faktisk, så har vi fået integreret sådan en opvandsberegner, hvor vi faktisk kan se, når den her nedbør kommer, hvor meget vand kommer af.
+
+00:15:17
+Det er lige der. Der er blevet opsamlet 21 kubikmeter ind i anlægget.
+
+00:15:22
+Og fordi vi har i hver station 500 meter fra, så har vi en ret præcis nedløsning, som vi kan analysere med i forhold til det, der kommer ind, når nedløerne løses af kubikmeter.
+
+00:15:33
+Og så fortæller det os faktisk, at der er et opland på 3.098 kvadratmeter.
+
+00:15:40
+Og når jeg kigger på det areal, der er derude, så ser det meget rigtigt ud, at der er et areal på 3.300 kvadratmeter.
+
+00:15:48
+Og det er også sådan en type værktøj, der gør det utrolig muligt at bygge videre på systemet.
+
+00:15:55
+Hvis man har lavet et landlæg, så se hvad oplandet passer i troet.
+
+00:16:00
+Og hvis det så ikke gør sig, så er der en lidt bedre forudsætning for at bygge videre på det med oplandet.
+
+00:16:04
+Og det kan nogle gange være super pigt at bare bygge videre på et opland.
+
+00:16:08
+Eller om det er et opland på, så er man kun begyndt at drage dybt og lægge i magasiner.
+
+00:16:13
+Når man netop har et styrbar vandrøm, så kan man lokale og så får man ret præcist billeder af hvor meget vand der falder ned i systemet.
+
+00:16:26
+Vi har også set det i bådepersiklen, hvor der er en fast udløbshastighed.
+
+00:16:32
+Når man sælger en vandrøm, så er udløbshastigheden jo ikke fast, fordi det er altid styret af det vandsumt, der nu er.
+
+00:16:41
+Og vores styrker og anbørn skal faktisk, vi er allerede kigget nu, men vi håber på snart en ånd, hvor vi kan have den her faste, så hvis myndighederne sætter krav om, at det er 3 liter i sekundet, så kan vi holde 3 liter i sekundet hele tiden, fordi vi netop kan styre, vi har vores aktuelle, så vi kan faktisk styre, hvad håndets størrelse er, og derfor udgiftshastigheden.
+
+00:17:03
+Så hvis det er 3 liter i sekundet, så kan vi holde 3 liter i sekundet hele tiden, lige meget hvor højt ansvaret er.
+
+00:17:08
+Og når det er små mængder, så kan vi faktisk også have et eksempel på, at vi har et styr på 0,14 millisekunde.
+
+00:17:16
+I kan næsten se her, at den er jo ikke helt midlerbart.
+
+00:17:23
+Det er lidt svært at gøre, men vi håber og tror på snart, at vi kan komme det hen, hvor når myndighederne siger 5 millisekunde, 3 millisekunde, så kan vi lige præcis holde det frem for at have de der vandbrænsler.
+
+00:17:40
+Og når man har sådan en styrbar vandrems, så er det her et eksempel fra sidste år, hvor det DMI-varestid er på 100-årsregn.
+
+00:17:48
+Det er 12. juni. Der var.
+
+00:17:50
+Rigtig.
+
+00:17:51
+Mange røde alarmer, hvor jeg er på 100-årsregn i kop, og vi skulle sørge for at tømme alle anlæg.
+
+00:17:56
+Og det vi så gjorde med vores system, med vores base søvnvaringsprogram, så vi kunne tømme til millionerne ud, så kom der så kun de her 19,57 mm.
+
+00:18:06
+Det var ikke verdens største hændelse, men princippet er jo det med, at når der er plads i køraken, så føder vi vand ud i køraken, så kommer regnvandet og så tilbageholder alt vandet frem foropstået og bliver vandet ud i køraksystemet.
+
+00:18:18
+Det kan man når man har en styrbar vandvej, så er man altså i stand til at lave vand.
+
+00:18:26
+Det var spændende. Er der nogen.
+
+00:18:39
+Der har nogle spørgsmål til hvilket ende.
+
+00:18:40
+Vi går videre? Det er helt blevet sagt Så synes jeg vi skal.
+
+00:18:47
+Bedre komme til Lene Så skal jeg.
+
+00:18:51
+Lige skifte en gang.
+
+00:19:14
+Jeg skal prøve at gøre det med samme idræt, som Mikkel lige gjorde. Det tror jeg.
+
+00:19:21
+Det tjekker den virkelig, når du synes.
+
+00:19:23
+At det gjorde det.
+
+00:19:25
+Jeg hedder Inge, og kommer fra Fjordfjord.min, hvor jeg sidder som projektleder i Torsvig Miljørum.
+
+00:19:34
+Det er der, hvor vi har en samlede i Fjordfjord-kommunen.
+
+00:19:39
+Og jeg sidder i en gruppe, hvor vi har flere projektledere, Vi anlægger de her filmklasseprojekter, hvor jeg så har en funktion med bagefter at se, om det er i virkeligheden så også det, vi laver.
+
+00:19:56
+Det vil sige, at vi er en gengældsmæssig flæktmåling og organisation af, om alt er, som det skal være.
+
+00:20:04
+Og det er det ene ved, og det andet ved, det er at se, hvilke løsninger, vi kan bruge til at gøre vores anlæg bedre, Ikke kun i forhold til at tilbageholde og forsikre egenvand, men også i forhold til, hvad vi kan bruge de der egenvand til.
+
+00:20:23
+Og som I jo hørte fra Mikkel, så er Lysits vej og Frydenheds vej nogle gange oversat.
+
+00:20:29
+Det er på Frederiksberg, hvor alle tænkte, Det er fint, nu har vi lavet de her to anlæg, og vi håndterer en masse regn, så jo hej hvor det går, ikke?
+
+00:20:38
+Ligesom alle andre kommuner i Danmark har man kommenteret og tænkt, det går sgu da bare sådan godt her.
+
+00:20:44
+Så er det jo så bare ikke godt. Fordi der kommer sådan noget vand i vandet, som kræfter den mest.
+
+00:20:49
+Så vi skal jo hele tiden blive klogere på, hvordan vi kan optimere de her anlæg, og sikre os, at de virkelig skal.
+
+00:20:57
+Og det er så en rejse, vi er på, som jeg vil tage jer lidt med ind i også.
+
+00:21:03
+Så vi kan se, hvad vi er støttet på.
+
+00:21:08
+Men så lige for at sige, det er ordene for regeringen her at håndtere regnvand.
+
+00:21:14
+Det har jo tidligere været et spørgsmål om, at vi skulle håndtere noget regnvand, at vi skulle aflæse kloakken på det regnvand, og så i virkeligheden bare hænge den der vand af.
+
+00:21:26
+Hvor endeligvis de sidste mange år har været virkelig vigtigt på, hvordan kan vi så bruge det her vand, så må der skjutes i stedet for bare at skyde.
+
+00:21:36
+Og på Frederiks Fjord har vi tænkt det generelt lidt mere logistiske i forhold til, når vi tænker klimatilpasning, fordi der er regnvand, der er også noget med tørke, der kommer også til at være noget med vind osv.
+
+00:21:55
+Det hører jo rigtig meget op, og hvad er det så vi kan gøre, Og i stedet for bare at gøre noget for regnvandet eller noget for barnet, så skal vi tænke på den her pappely, som vi skal prøve at fagne det hele, og så gøre noget, som forhåbentlig er godt helt regnvendt.
+
+00:22:14
+Og det er ligesom den engangsvinkel, vi har, til når vi snakker kinesiske lande og vores børn.
+
+00:22:21
+Og i forhold til regnvand, så er det jo fordi, at regnvandet og vores børn, hvor vi selv giver vand op fra grundvandet, Og det vil vi gerne svare på.
+
+00:22:32
+Og derfor vil vi gerne bruge det her til at trække den til en beslutning.
+
+00:22:37
+Vi fik sidste år politisk vedtaget en regningsplan, som aflyst det lidt, da det hele startede med, at vi snakkede om sygebrød osv.
+
+00:22:53
+i 2014. Der blev.
+
+00:22:55
+Der lavet.
+
+00:22:55
+Klimasituationplaner og sygebrødsplaner osv. Hvor meget skal vi håndtere?
+
+00:23:01
+Og så har vi tænkt os at gå et skridt lidt videre, og så sige, hvordan er det så i virkeligheden, at vi hvis kan håndtere det her, og gennemvender det?
+
+00:23:09
+Og der er den her gruppe, som I ser her, vores bud på, hvordan vi gerne vil håndtere regnvandet.
+
+00:23:20
+Og vi vil gerne gennemvende det. Reelt faktisk, så vil vi hjælpes fra dampedelerne, vil sige det.
+
+00:23:26
+Vi har bare en lille udfordring på eksempel, at vi har lever.
+
+00:23:33
+Hvis vi ikke har lever, så har vi vores ringlever, og så har vi vores rækkevand lige nedenunder, og så kækker vi de tre ting sammen, og så tænker vi, at det kommer sgu aldrig til at ske.
+
+00:23:43
+Og det gør det heller ikke særlig ofte.
+
+00:23:45
+Så kan vi fordampe, hvilket Emilie jo kom med et rigtig fint eksempel på, som var, Det kræver nogen gange noget plads, og det er måske ikke den plads, vi har i Danmark, hvor vi er meget tilbefylget.
+
+00:24:01
+Så vi skal ligesom finde ud af, hvad er det, vi gør.
+
+00:24:04
+Men vi vil gerne det her med fordabning og nedtidning.
+
+00:24:08
+Når vi laver tvivlspladsen, så kigger vi på at håndtere vandet og overfladen.
+
+00:24:14
+Så på den måde er det vores første prioritering. Den anden prioritering, det gør Grønland.
+
+00:24:20
+Og det kommer jeg til at prøve at foransige på den her position og fortælle jer om, hvordan vi gør det.
+
+00:24:25
+Og så er der jo selvfølgelig stadigvæk, at vi forsikrer det.
+
+00:24:29
+Vi har alle vores magasiner, vi forsikrer det, det ved jeg selvfølgelig godt.
+
+00:24:32
+Vi har jo ikke råd til hjælp fra spørgsmålet, hvis ikke det er Svensk International.
+
+00:24:38
+Men det vi gør i forhold til det her med at gennemvende vand, så har vi i forbindelse med de her sådan andre lag, som Vi har udvalgt nogle få, hvor vi har stjæl i.
+
+00:24:57
+Mikke fortalte før, at vi kan lukke helt af. Og så gennem det her sværd.
+
+00:25:05
+Så kan vores grædende folk komme ud og hente vand. Og bruge det til at vande rundt omkring byen.
+
+00:25:12
+Vi har nu lige åbnet det sidste, så nu har vi selv siddet rundt omkring byen.
+
+00:25:19
+Det passer meget fint med, at vores vejer og gartnere har inddelt Frederiksberg i nogle områder.
+
+00:25:27
+Vi har et vandområde heroppe, og vi har et herovre, og et hernede, og et herovre.
+
+00:25:33
+Så hver område har deres anlæg at komme til, hvor de kan tabe det her vand.
+
+00:25:40
+Og Gartner-folkene har været mega begejstrede for det, fordi det sparer dem en tur tilbage på materialkåren, som ligger heroppe.
+
+00:25:49
+Og når man skal være heroppe, i sådan en lille maskine der, der ikke kører så stærkt, så er det meget rart, at man kan blive udbygget i stedet for at skulle køre hjem på materialkåren.
+
+00:26:00
+Så det er blevet modtaget rigtig godt af slutbrugeren, og slutbrugeren ved i det tilfælde også Gartner-folkene, at de synes det er fedt.
+
+00:26:10
+Og du vil gerne.
+
+00:26:12
+Spørge om noget? Det kunne også være.
+
+00:26:16
+At der er nogle forligninger, der er.
+
+00:26:19
+Brug for at få vand i nogle.
+
+00:26:21
+Ting. Er det muligheden?
+
+00:26:23
+Det har vi snakket om, at i det omfang, at vi på sigt finder ud af, at vi har vand nok, så kunne det godt være en mulighed.
+
+00:26:32
+Men det er det ikke pt. Og jeg skal fortælle dig lidt om, hvorfor. Lige kommer et par stegetimer.
+
+00:26:39
+Sidste år havde vi to steder åbnet, nu har vi fem steder og sidste år var vi så heldige at vi havde forholdsvis meget vand og to tredjedel af det vand der blev vandet med på Folkesberg, det var rent faktisk grænvand i stedet for grækkevand og det var vi mega sultne af og i år håber vi på at det bliver endnu mere hvis vi får vand nok og det er jo sådan en ide Det her er det smartgrønne system, hvor vi har et dashboard, hvor vi kan se ind i vores anlæg.
+
+00:27:15
+Og her har vi en vandstrømsmåler, som viser, hvor meget vand der er i anlægget.
+
+00:27:20
+Og jeg bliver ved med at sige det, fordi jeg er så glad for det.
+
+00:27:23
+Fordi jeg er ikke ingeniør eller noget af det.
+
+00:27:25
+Og jeg kan rigtig godt lide at forholde mig til, at det er 20 kubikmeter eller 40 kubikmeter, eller hvad det er.
+
+00:27:30
+I stedet for at have en kode her, der siger, at vandet står på 7,78.
+
+00:27:34
+Og så siger jeg bare, at det er fint. Men hvad fanden siger det mig?
+
+00:27:37
+Det siger mig ikke særlig meget vel Men det her, det kan jeg forholde mig til, det er et rigtig godt værktøj Og det er også et rigtig godt værktøj til sydbrugerne, som I kan se Jo, her er der faktisk noget vand at komme ud og hente Det er let at forholde sig til Men det jeg bare er en lille pisse i den her, det er bare at Øh, hold op Det er her, alle de der små myggede der Den er ude.
+
+00:28:05
+Den kan tage ca. 1,5 kubikmeter.
+
+00:28:09
+Og de kommer typisk om morgenen ved 7-8, og så er de lige omkring før frokost, og så måske sidst eftermiddagen også.
+
+00:28:17
+Så er de med i, hvor meget de rammer ud af vandet, og det gør de også selv, og er meget opmærksomme på, hvor de kan gennemføre vandet.
+
+00:28:26
+Det er super dejligt.
+
+00:28:30
+Nu fortalte jeg lige det der med, at forandringene har taget rigtig godt ud derude.
+
+00:28:34
+Og det er bare nogle af de ting, som vi måske nogle gange glemmer.
+
+00:28:38
+Det er da en rigtig god idé det her, og det skal vi da bare lige gøre.
+
+00:28:42
+Og det kan alle da se, at det er en god idé.
+
+00:28:44
+Men det kræver stadigvæk, at man lige får det forandret derude til dem, som rent faktisk kan bruge det.
+
+00:28:50
+Vi startede sidste år, og der havde jeg ikke fået...
+
+00:28:58
+Jeg havde ikke fået fat på den rigtige person i hvert fald ude i Gartenfronten.
+
+00:29:03
+Så det var besværligt, og så skal de bokser ned og oven et dæksel, og den slange de skal rulle ud, der kommer hundelort på den.
+
+00:29:12
+Der var mange grunde til, at det måske var så god nødvendigt.
+
+00:29:18
+Og så hængede vi, så var der en af de der folk, der skulle ud og vandre, som sagde, prøv lige at høre her, det er sgu da ikke noget problem.
+
+00:29:27
+Altså, vi har der ånd i hovedet, vi hører jo ikke nogen lortemoldbælte derinde der.
+
+00:29:31
+Og jeg har også troet, at folk derinde var lige motiveret af det, så det er godt nok, at vi skal ned og åbne sådan en dæksel derinde.
+
+00:29:37
+Og så kom der en ny græsplædder på, som bare sagde, at det ville gerne blive et meget godt brand for os.
+
+00:29:44
+Og sige, at vi vandrer med regnvand i stedet for, at vi bruger drikkevandet.
+
+00:29:46
+Som folk tænker, har vi nu nok, og nu går I bare der og vandrer hele tiden.
+
+00:29:50
+Og jeg må ikke vande mine græsplædder hjemme.
+
+00:29:51
+Men I må åbenbart gerne vande jeres vand, der er ude i byen.
+
+00:29:57
+Så det var rigtig godt, at de fik den der egenskab derude, som nu gør, at de simpelthen bare syntes, at de ikke vil.
+
+00:30:04
+Og det næste er, at vi skal gøre det så lidt som overhovedet muligt.
+
+00:30:08
+Lige nu er jeg mega heldig, at vi har en driftsleder derude, der går ind og kigger hver morgen og siger, at der er vand i anlægget.
+
+00:30:13
+Og nu er det ikke, fordi vandet forsvinder sådan fra dag til dag, så han kigger måske ikke hver morgen, men han er egentlig rimelig oppe og kigger.
+
+00:30:19
+Men de har en app, som de selv har udviklet uden der garden service.
+
+00:30:25
+hvor de lægger deres fretskruer ind, når de skyder vandet og salter osv.
+
+00:30:29
+Og der har jeg fået dem til at lave sådan en rød-grøn knap, så når de klikker ind på tapasiderne, så vil de kunne se, er den rød eller er den grøn.
+
+00:30:40
+Er den grøn? Fint. Kom ud af den vand. Er den rød? Skik på det, der er ikke noget vand.
+
+00:30:46
+Så kører I et andet sted.
+
+00:30:47
+Og det er jo bare en nem måde, så skal de ikke have forhold til noget, hvis de ikke er interesseret i at vide, hvor meget vand der er, hvilket de jo ikke er.
+
+00:30:53
+De er jo bare interesseret i at vide, om der er vand. Så det er fint nok.
+
+00:30:56
+Og det har været, altså nu havde vi jo meget tør forår her, og der lå vi tør for vand.
+
+00:31:05
+Og det er jo bare mega træls, når man gerne vil vande med det her regnvand, og man så faktisk ikke har noget.
+
+00:31:11
+Og jeg tænkte jo efter vinteren, at det er rigtig meget vand i anlæggen. De skal da lige tømmes ud.
+
+00:31:17
+Der skal lige hovedvand gøres. Vandet kommer jo til at lugte, hvis det står der for længe.
+
+00:31:20
+Og lad os få det tømt. Det gjorde jeg i februar.
+
+00:31:23
+Og så tænkte jeg, nu er vi da klar til vandindsæsonen i uge 14. Ja tak.
+
+00:31:28
+Var vi så ikke, fordi jeg havde ikke vand i nogen anlæg.
+
+00:31:31
+Og så står jeg der og siger, ja brug da vores rængvand.
+
+00:31:35
+Men så fik vi jo så ikke de visse vand og regn.
+
+00:31:37
+Så var alle lige bare og syntes det var fedt at sommeren var startet tidligt.
+
+00:31:40
+Der tænkte jeg bare, kan vi få noget regn måske eller hvad?
+
+00:31:44
+Og det endelige jeg har fået der er faktisk bare et eksempel på, at de lige i starten skulle finde ud af det der med, at når der stod der ikke var vand derude, så skulle de lade vandet gå ud og suge vand derude.
+
+00:31:55
+Fordi hvis man suger vand, hvor der ikke er vand, så får man alt bundstangen med op.
+
+00:32:00
+Og det er så det, som der er kommet ind i deres mindre læring Så det har de lært nu, at når der ikke er vand, så er der langt med at gå ud og prøve at se, om der er vand Det var ligesom den aktive del, der hvor vi flytter selv vandet fra et sted til et andet Så har vi den passive del Og det er den, som jeg synes faktisk er endnu mere fantastisk Det er der, hvor vi leder vandet direkte fra ristene inden til træerne, og så kan de drikke hvad de vil der, og det de ikke kan drikke, det kan komme videre til vores magasiner.
+
+00:32:41
+Det her er et eksempel fra Rappel TV, hvor vi skulle lave et klimatilpasningsprojekt, og der gravede magasinerne ned på 270 kubikmeter.
+
+00:32:57
+Rådgiveren havde beregnet, at der skulle være plads til for at kunne håndtere en 100-årig tændelse.
+
+00:33:02
+Og så blev der plantet træer på begge vejsider, hele vejen dernede af, et par 50 træer.
+
+00:33:09
+Og under de træer, der lavede vi et plantebed, hvor der var et lille reservoir nedenunder.
+
+00:33:15
+Så der er faktisk, svarende til alle de træer, der er, også er over 200 kubikmeter vand mulighed for at opregnere det.
+
+00:33:27
+Og de her træer, hvis en dag kommer forbi, så tager jeg ikke til noget at kigge på dem, fordi det er forholdsvis nyplantede træer, og de ligner bare nogen, der har stået der i 30 år.
+
+00:33:38
+De gror skide godt, og det gør de, fordi der er vand til dem hele tiden.
+
+00:33:41
+Så det er både et stort mål om, at vi jo gerne vil håndtere noget regnvand, og det vil vi egentlig helst ved at tage det helt ud af systemet.
+
+00:33:50
+Vi skal tænke til klokken, vi skal bruge det, det ressource, og så er træerne Og bytræer har jo generelt bare et ikke særligt sjovt liv, mange steder i hvert fald, at de får bedre forhold.
+
+00:34:03
+Og det gør de det, at de har vand tilgængeligt.
+
+00:34:06
+Så vi har noget med byværkstil, vi har noget med det har regnet og sådan en ting.
+
+00:34:11
+Og så har vi lige den der lille varmeøle der, fordi når træerne har meget vand, så fordamper de varmen.
+
+00:34:17
+Og det er med til at sænke temperaturen. Og så får vi det køligere i vores varmebyer.
+
+00:34:21
+Og det er så der den par bly kommer ind, hvor vi prøver at tænke det hele sammen.
+
+00:34:26
+Så det er godt hele vejen rundt Og de er rimelig tørste i sådan nogle træer der Så kølige byer får sjældne skybrug Ja, det kan det godt være, at det er sådan en og sådan en Men så ville vi gerne have nogle køl i noget Vi var jo så heldige, eller hvad man nu kan kalde det sidste år, rent faktisk karakterstilbrød Hvor det hele er svømmet godt over Vi er i gang med at købe tilbage frisk vejr, vi er ikke færdige med det.
+
+00:34:58
+Det er et helt andet oplæg, så det skal jeg ikke snakke noget om her.
+
+00:35:01
+Men jeg vil lige fortælle lidt mere om det her med de her tre apparater.
+
+00:35:07
+Vi bruger en del krud på hver kommune for at lave forskning og udviklingsprojekter.
+
+00:35:14
+Sammen med vidensinstitutioner, og her er det KU, vi arbejder sammen med.
+
+00:35:19
+Vi måler på, hvor meget vand de træer optager.
+
+00:35:23
+På Rarlig TV kommer der aldrig noget vand i de anlæg, fordi træerne tager det hele vand, der er der.
+
+00:35:35
+Men det jeg har set, hvor at vandet kommer ind her, og så var udgangspunktet, og nu siger jeg lige var udgangspunktet, fordi det har så indgået flere gange, men så var udgangspunktet, at man kunne måle på det, hvad der kom ind, altså hvor meget vand kommer der ind, og så et pejlerør her, hvor man kan se, hvor meget vand er der tilgængeligt i det reservoir her, og så igen måle på fjorden, og så kan man måle på, Det er flow træerne, de optager, altså sapflow, vandoptaget i træerne.
+
+00:36:08
+På den måde kan man lave en vandbalance og sige, at der er så meget vand, der kommer igennem det her system.
+
+00:36:13
+Det var en rigtig god ønske at få det til at hænge sammen.
+
+00:36:21
+Så er det virkelig i verden bare, at tingene måske aldrig er så løbt.
+
+00:36:26
+Så det gik rigtig fint med at måle på, Det gik godt sikkert fint med at måle på vandsalgen nede i det her restaurant.
+
+00:36:38
+Det gik rigtig dårligt med at måle på det flue der. Det er der ikke nogen, der har gjort før.
+
+00:36:43
+Normalt måler man på et vandfyldt rør.
+
+00:36:46
+Det her er bare noget, hvor der kommer vand ind, og så er det et rør.
+
+00:36:49
+Så prøvede vi at se, om vi kunne måle på det vand, som faldt ud over kanten med sådan en V-form.
+
+00:36:55
+Så ved man, hvor meget vand der er i et overløb. Det burde teorien kunne lade sig gøre.
+
+00:37:03
+Det klokkede til, og målesystemet målte ikke altid, og det lykkedes faktisk ikke for os.
+
+00:37:13
+Men det, der lykkedes for os, var, at vi havde en vatstation, så vi vidste godt, hvor meget vand, der faldt.
+
+00:37:19
+Og så vidste vi jo alle sammen godt, at hvis det er tørt vand, Bliver der optaget noget vand i asfalten og belægningen?
+
+00:37:30
+På den måde kan man aldrig være helt sikker på, hvad der kommer til.
+
+00:37:32
+Men vi syssede os til, og så fik lavet den her balance.
+
+00:37:38
+Den balance viser, at træerne går meget vand, de går optag. Men den viser os også, hvornår det er.
+
+00:37:48
+Folk, der har lidt med plantefysiologi i viden, ved godt, Hvis det er gråvejr, så laver træer og planter ikke særlig meget.
+
+00:37:56
+Hvis det er regnvejr, så fordamper de ikke særlig meget, for så lukker de bare ned, fordi der er for meget damp i luften i forvejen.
+
+00:38:04
+Vi lyser på, hvad det var for parametre, der indvirkede her.
+
+00:38:12
+Det fede var det med at sige, at de kan bruges i de træer.
+
+00:38:16
+Hele vores indgangsudvikling til det var at sige, at kunne vi have lavet mindre reservoir, kunne vi bare have sagt, at træerne tager det hele.
+
+00:38:25
+Det kan ikke være et sikre problem, for hvis de store regnhænder kommer lige i rap, så er reservoiren under træerne fyldt i forvejen.
+
+00:38:33
+Og så går det i overløb og går til reservoiret eller til basinerne.
+
+00:38:38
+Men man kan måske finde en mellemting, hvor man kan sige, at træerne kan indgå som en del af noget klimatilpasning.
+
+00:38:48
+Så vil jeg lige give et andet eksempel her, og det er en plads, vi lige har lavet.
+
+00:38:56
+Vi har ikke lige lavet den, for den har været fire år undervejs, men den er lige blevet åbnet, og det er lige bag rødhuset på Folkværk, hvor det interessante her er, at det er et nulkredsø, det vil sige, at alt det vand, der falder på pladsen, bliver håndteret på pladsen.
+
+00:39:13
+Ikke nødvendigvis genanvendt, men vi kan opmarksinere det, vi kan gemme det til kvart, men vi kan også lede det i den her lille søvej her, som så kan have forskellige vandhøjde til at man kan, og har den fået lidt vand, så får vi vand over på hver have, som ligger lige herovre bagved, så den ikke tørrer ud.
+
+00:39:36
+Vi har det her system, som Mark Brøn fortalte dig om før, Mikkel, med vand i hele vejen rundt, så alle træer og buskyr og byplantning bliver vandet med med vand, som rigtig mange ting er nede under anlæg.
+
+00:39:57
+Vi har også en værktation på den her plads, så vi kan følge med.
+
+00:40:03
+Det sidste, jeg vil fortælle lidt om, det er i forhold til det her med at anvende regnvand.
+
+00:40:09
+Man kan sige, at træerne er jo lidt ligeglade med, hvad det er for noget vand, de får, oftest i hvert fald.
+
+00:40:15
+Vi har været inde og måle på de her træer, som tager det her vand, og så sige, tager de skade i forhold til tunge metaller eller andet, som er i det her regnvand, som kommer fra gaderne, og det gør de ikke.
+
+00:40:28
+De vokser fint.
+
+00:40:29
+Så der er ikke noget der med at bruge i forhold til det her med, at gardenfolkene kommer ud og tapper vand.
+
+00:40:41
+er der noget der vi skal være opmærksomme på. På et af vores arbejdssteder har vi også en håndpumpe.
+
+00:40:46
+Meget at bruge det du spurgte om, i forhold til om andre kunne komme og hente.
+
+00:40:50
+Der har vi en vandpumpe, hvor borgeren selv kan gå ud og pumpe vand.
+
+00:40:54
+Med et skilt, hvor der står, lad vær med at drikke det her vand.
+
+00:40:57
+Fordi det er ikke rækkevand, det er vejvand, ikke?
+
+00:41:01
+Og du skal heller ikke vande din spise afgrøde med det, men ellers må du gerne.
+
+00:41:05
+Så på den måde håndterer vi det her med vandkvaliteten.
+
+00:41:10
+Og er der vand nok, så kunne man på sigt også godt lade andre komme ud og få vandet.
+
+00:41:15
+Men det har vi så bare ikke haft indtil nu.
+
+00:41:18
+Men i forhold til det her med at bruge vandet, så er en af de parametre, når der er folk, der har kontakt til det, det er jo ikke kugle, altså lortebakterier.
+
+00:41:29
+Og det vil vi helst ikke risikere.
+
+00:41:32
+Og vi har været uheldige en enkelt gang, hvor en camper havde været på ferie.
+
+00:41:38
+Og jeg ved ikke, hvorfor de syntes, de lige skulle tømme deres toilet ned i vores regnvandsbassin.
+
+00:41:44
+De kan jo ikke se på kloakken, at det er et regnvandsbassin, vi byder ned til.
+
+00:41:49
+De har bare tænkt i kloakken.
+
+00:41:50
+at de så slet ikke må på Frederiksberg, må man ikke lige meget hvad, må man ikke putte det i kloak, der skal man aflevere det andet steds.
+
+00:41:57
+Men det havde vi gjort, og så har vi lortevand i vores bassin, og det finder man så ud af, fordi det lugter, og så skal man ud og rense hele det.
+
+00:42:05
+Men vi vil jo gerne være der, hvor vi rent faktisk finder ud af det, før at der er nogen, der kommer og siger til os, at det lugter.
+
+00:42:11
+Så derfor så har vi jo fået sat en sensor ud i det magasin der, hvor vi har den der sensorhåndpumpe der.
+
+00:42:17
+som måler på E. coli bakterier.
+
+00:42:20
+Fordi jeg kan jo godt få taget en vandprøve, og så er det bare sådan engang spillet fra den dag.
+
+00:42:26
+Men jeg har brug for hele vandningssæsonen at vide, at det her vand er okay.
+
+00:42:31
+Det er et EU-projekt, hvor vi sammen med DTU måler på det her.
+
+00:42:36
+Og endnu har vi ikke haft nogen problemer med E. coli, så det er snart rejt.
+
+00:42:39
+Vi måler også på klorid i forhold til det her med at kunne nedsige.
+
+00:42:46
+Og om vinteren er det jo en udfordring af, at selvom man ikke bør salte og må salte på Frederiksberg, på offentligt fortog eller privat fortog, så gør folk det alligevel.
+
+00:42:58
+Og det kommer jo ned i vores anlæg og ud til vores planter.
+
+00:43:02
+Men så har vi så et system, som er, at vi har den her sensor, der siger til os, hvad er fluoridkoncentrationen.
+
+00:43:08
+Og hvis den er for høj i forhold til det fastsatte niveau, som myndighederne giver, så lukker vi vores støv.
+
+00:43:15
+Og så ryger vandet direkte på op Og er det ikke for højt, så kan det godt komme ud på nedsigningsarealet Og ja, den vej på svømmen Jeg tænker at jeg allerede har brugt den tid jeg havde, så stop her Ja.
+
+00:43:43
+Men øhm Nu efter to sådan nogle overdrevet blærede inden af, så er det jo helt genialt over at stå heroppe.
+
+00:43:55
+Men jeg skal på den ene måde nørde det meget mere, og på den anden måde nørde det meget mindre end det vi lige har hørt.
+
+00:44:02
+Da jeg blev fortalt at jeg skulle fortælle om smart styring i Carlsberg byen, Det var min første indskydelse af, at det giver ikke nogen mening, fordi der er ikke så meget smart i det andet end, at selvfølgelig vi tænkte os godt om, da vi lavede det.
+
+00:44:18
+Så i stedet for har det blevet simpelt med en smart styring af drengene eller racerne, I har fra byen.
+
+00:44:25
+Jeg hedder Mikael, jeg er SV-ingeniør og har lavet den her type projekter i rigtig mange år.
+
+00:44:32
+Jeg havde et kort smut i Københavns Kommune sammen med Jan.
+
+00:44:36
+Anyways, den hurtige baggrund er, at for de originale masterplaner, det er en lille fin sættet udsnit fra dem, der kan I godt se, at der er et stort bassin hernede.
+
+00:44:46
+Det er Ingeåparken og Carlsbergbyen, der ligger mellem Carlsbergvej og Skybrugsvej.
+
+00:44:51
+Når man udbygger Carlsbergbyen, som man gik i gang med for 10-15 år siden, Førte rigtig meget vand ned ad den her rimelig stejle bakke.
+
+00:45:02
+Ned til kapser, rige områder i byen og lave en del ballade hernede.
+
+00:45:08
+Så derfor gik kommunen i gang med at sige, at I skal lave masser af bagholdelsesvolumen, når nu hvor I er byudvikler.
+
+00:45:16
+Kartsberg By, som er et privat udviklingsselskab, siger, at I kan godt glemme, at det gider vi ikke.
+
+00:45:19
+Det er for dyrt, det er børget, det er nederen, der er ikke nogen fede ting.
+
+00:45:23
+Det kørte i halvårs tid, hvor de lå at skændes frem og tilbage ind til H4 ved Carsten Kronqvist, eller nogen, der kender ham.
+
+00:45:30
+Han er meget sådan, at det er så godt, han gik ind og sagde, prøv at høre, vi kan privat medfinansiere jeres bassiner, og 3.000 virker som en fornuftig mængde.
+
+00:45:39
+Er alle enige? Godt. Man kunne nemlig privat medfinansiere dengang, det kan man ikke mere.
+
+00:45:46
+Men det var egentlig meget fint, så kan de give en fast sundt par kubikmeter, det var, ja.
+
+00:45:53
+Det var smart, det kunne vi godt lide Vi var tekniske mørkere og søgende at stå for Landskabsstillen og synes vi havde lavet et rigtig fedt projekt Problemet og grunden til at det hele bliver lidt funky, det er at til trods for kraften er byen rigtig stor kunne vi faktisk redde til kun flytte vejret ind i den her lille bitte zone, der ligger nord for Nykarlsbergvej her, og udgør måske en fjerdedel af det samlede areal derude.
+
+00:46:24
+Så her skulle vi tilbageholde 3.000 kubikmeter på ekstremt tæt plads. Det var det, der var.
+
+00:46:30
+Vi kunne godt se, at det ville blive lidt svært, så vi lavede nogle taktiske skrivebordsøvelser, så vi fik lov til at inkludere os med noget, som Regnmandsledningen der ligger hernede og har en drøftring hernede Så fik vi ligesom lov til at regne volumen med der af flækkeoversørget Det er bare så vi sørger for at finde plads til det hele Der er en kort recap Der er rigtig meget fat i den her retning Hvilket jo så betyder, at når den primære tillidning til den her række basaler kommer herfra, gør det hele retningsafsat Her er det hele en stor del af Karlsberg bygget.
+
+00:47:13
+Man kan godt se, at det er helt lækkert herude.
+
+00:47:15
+Og så er der lige et her, hvor der er noget vand, der bliver tilbageholdt dernede.
+
+00:47:19
+Det kan vi ikke få lov til at tælle det ind i.
+
+00:47:20
+Så kort og langt, 3.000 kubikmeter, skulle det tilbageholdes. Der var ikke nogen vej udenom.
+
+00:47:28
+Men fixfaktoriet fik vi reduceret til 28,50 i den her zone herovre.
+
+00:47:35
+Og vi behøver lige at lave det som terrænbaserede basaler, så det gik vi i gang med.
+
+00:47:40
+Det her bliver en taktisk skidte af vandet fra den, der hedder tapfasserne, som er den her del af passeringen.
+
+00:47:49
+Der ligger en 600 eller 300 kubikmeter i overfladen på dømmen.
+
+00:47:55
+Det sjove ved det er, at alt vandet kommer ind her.
+
+00:47:57
+Godt en meter under det øverste passering, og godt to meter under terrænet.
+
+00:48:02
+Og jeg har brugt rigtig meget tid igennem tiden på at fortælle, hvad der så ikke blev brugt at bare.
+
+00:48:08
+Men det gør det nogle gange, hvis man kan tænke om det.
+
+00:48:13
+Og det var det, vi var i det givende tilfælde.
+
+00:48:17
+Det fede har selvfølgelig været, at vi kunne lave en separat tilladeling til det her bassin med noget andet vand.
+
+00:48:24
+Men derfor havde vi ligesom tilbageholdt et andet sted lidt længere opstramt.
+
+00:48:28
+Så vi havde faktisk ikke så meget vand.
+
+00:48:29
+Vi havde ligesom det vand, der kom ind af den anden, plus det, der kom ud fra de her bygninger.
+
+00:48:34
+Og det her er faktisk det store opståndsbassin, at de er.
+
+00:48:38
+Så det, at I kigger på de her, så forestiller man, at de er kommet ud om et eller tre minutter.
+
+00:48:43
+Så det, vi så gjorde, og der hvor den simple styring eller den smarte.
+
+00:48:46
+Netop hænger af, hvilken halve man har.
+
+00:48:47
+På, det var, at vi ikke bare, som er normalt, som vi nu har hørt flere omgange, regulerede vores udløb for bassinerne, vi regulerede også vores indløb.
+
+00:48:56
+Og det skyldes jo, at når man har bassiner i en terrasse som der, med en tilløbsleden, der ligger under det hele Så er den store risiko, at vandet bare fylder op hernede, og så vælter ud over kanten, og så vælter det ned til længere nedstrøm, så ender det med powerflyvejen, så ned ad vejen.
+
+00:49:15
+Så for ligesom at sikre sig, at vi kan tvinge vandet op i de længere opstrømsbaseret, så tweaked vi en god mængde reguleringer her.
+
+00:49:23
+Og når jeg sidder og hører på et præsentation som Mikkel, så bliver jeg sgu lidt forlæsket, ikke?
+
+00:49:29
+Altså, regulere bare vandkremser. Årh, det er fedt! Det havde man ikke den her gang.
+
+00:49:35
+Vi er 7-8 år tilbage i tiden.
+
+00:49:38
+Så det var bare at købe aktier i modspil, og så er jeg ellers bare gået i gang med at designe de her vandbremser.
+
+00:49:44
+Og den store udfordring mellem tilbage- og teknologikab, det er selvfølgelig, det er den statiske dimensionering.
+
+00:49:50
+De der vandbremser kan én ting.
+
+00:49:51
+Jeg ved godt, at når man trykker på højden, så står det lidt, og så kan det noget lidt andet.
+
+00:49:55
+Men som udgangspunkt er de sat til en specifik vandmængde, ud fra en specifik vandhøjde i bassinet.
+
+00:50:00
+Og det betyder selvfølgelig, Hvis regningen opfører sig lidt anderledes end vi håber, og det gør den i 98% af tilfælde, så fungerer bassinerne ikke perfekt Det ved jeg godt, så det behøver I ikke spørge og sige, er du opspugt, for det ved jeg godt Anyways, regulering i indløbene, så den her den hedder, det er et ret stort passager, den hedder 10 liter i sekundet, den hedder 4, den hedder 3, og den her har slet ikke nogen Fordi når vi når hertil, så vil jeg bare rigtig gerne have vand til at løbe op ad bakken og ind og fylde mit bassin.
+
+00:50:32
+Man kan sige, at det lidt gartede.
+
+00:50:35
+System kræver, som jeg nu lige har vist på en sækset konstruktionstegning her, rigtig mange rømme og rigtig mange vandrømsrømme.
+
+00:50:43
+Så der er en i udløbet og en i indløbet for stort set alle bassiner uden til DD, som har en i udløbet, der er DD.
+
+00:50:52
+Noget jeg godt er, at jeg lige viste fire basaler på en snor, det er, at hvis I bemærkede det, og bemærkede at der er fem her, så er det godt set, vil jeg sige, det er fordi de to er forbundet.
+
+00:51:02
+Så indløbene går til det her, der er nogle ledninger og kobler, og så løber det ud hernede, hernede til de tømmeledninger, der løber hele vejen hernede op mod de vejene.
+
+00:51:10
+Og der kan I godt se det, der er reguleringer på hele vejen hen i indløbene.
+
+00:51:14
+Der kommer en lille smule vand ind fra bygningerne, det er regnet med egentlig, men er selvfølgelig ikke reguleret, fordi det vil være fjollet at sætte en vandbremse i et sammenløb.
+
+00:51:23
+Gjort! Omme på den anden side af den her blok bygninger, hvor vi stadig har.
+
+00:51:28
+Fandt, der lavede vi det, der hedder.
+
+00:51:29
+Westen for Humle.
+
+00:51:31
+Og de her navne giver mening, når man kender området, de giver slet ikke mening, når man egentlig gør det.
+
+00:51:35
+Der ligger noget, der hedder Humleby, som er de her ekstremt sexede, og det mener jeg faktisk, bygninger, der ligger her.
+
+00:51:41
+Det er sådan et kartoffelrække, men bare.
+
+00:51:42
+Federe.
+
+00:51:46
+Der har vi lidt samme system, men ikke lige så bøvlet, fordi vi faktisk får den primære del af vores vand opstrømsfra.
+
+00:51:54
+Og så har vi så de her tillidninger fra bygningerne, som I kan se lige smuten her.
+
+00:51:58
+Og så mellem hvert af de her små tværlæggende ting, der har vi smidt en regulering ind for at sikre os, at vores vand ligesom det er vores terrassering.
+
+00:52:06
+Og i det tilfælde, når regnen bliver for hissig, så er kvoteringen i området lavet sådan, at det egentlig bare løber på overfladen og videre ned.
+
+00:52:11
+Så på den måde fungerer det faktisk bare fint.
+
+00:52:15
+Jeg vil sige, at på det her, der var så nogle af entreprenørerne, det hele blev byudvikling og bygning, der kom til at smide omfangsplan ind i et af dem.
+
+00:52:27
+Det var afsluttet i planen, og en eller anden sidde også lidt for kul.
+
+00:52:33
+Men vi kunne godt se det fede i, at vi faktisk havde noget vanding i dem her.
+
+00:52:36
+Og i min næste slide vil jeg faktisk kunne se effekten af den her vanding.
+
+00:52:40
+Så vi havde en lang snak med kommunen, som heldigvis sagde, at det er fint.
+
+00:52:43
+Der er ingen risiko for, at det her bliver overladet.
+
+00:52:46
+Det bliver alligevel lidt til regnmandssystemet længere nedsprems, og derfor som vi fik real vanding på de her også, hvilket er på en eller anden måde rimelig blære, som gør, at det står altid og ser grønt og fruede og sexet ud derude.
+
+00:53:02
+Vi mener også, at i forhold til det præsentvolum, vi skulle finde, så er mængden af drenevand fra omfangsbanen ekstremt negativ.
+
+00:53:12
+Det vi kan se er, at de her billeder er taget efter en hidsig tørkeperiode, en af dem, vi har haft her.
+
+00:53:18
+Man kan godt se, at dernede, hvor drenevandet er i kontakt med det, der er det stadig grønt.
+
+00:53:21
+Resten er knæstørkt, men de står faktisk rigtig pænt.
+
+00:53:29
+Så hvis det er noget man kan få lov til, så er det noget jeg helt klart vil anbefale Det giver rigtig federe for beplantning Det her er ligesom slutningen af den her perlevej der er baseringer og her bliver det hele lidt interessant igen Så er vi tilbage til de her lidt overkomplekse simple løsninger Der er meget plads.
+
+00:53:51
+Hvad er det vi gør ved at lave sådan en træbasering?
+
+00:53:53
+Jeg har prøvet at skisere den på den her lidt kravlede plan med det grønne Det herovre er sandkatten og legekatten.
+
+00:54:01
+Ved vejledningen her har vi selvfølgelig en indre vandbremse, som tilbageholder med alt det her.
+
+00:54:12
+Hvis det så fylder op, så er vi jo et overfladet spor til det her værsne.
+
+00:54:16
+Og der er der indre vandbremse på.
+
+00:54:20
+Og hvis det så fylder op, så begynder det at løbe ud af de her brister, der står herovre i sandkatten.
+
+00:54:25
+Vi er jo ikke særlig interesserede i at trække regnvand ind i en sandkast, hvor der leger børn.
+
+00:54:30
+Det er tagvand, det er rimelig rent, men stadigvæk sådan lidt nederen.
+
+00:54:35
+Så princippet er, at det her tørrer så længe som overhovedet muligt.
+
+00:54:38
+Det bliver tørnt via et rent, der ligger lidt længere nede.
+
+00:54:40
+Så hvis det endelig fylder op, så kan man sige, at brosklædningen ned fra det her ligger lidt i, at det skal brændes ud, og det alligevel ikke fylder så op til sidst.
+
+00:54:48
+Men I kan godt se, at der ligger lidt sand, hvor det herovre er det sidste, vi har overhovedet aktiveret.
+
+00:54:56
+Så.
+
+00:54:57
+Får vi ikke indtil dem her, fordi hvad havde jeg dem og jeg synes egentlig de siger meget fint, at vi har en sektionering Det er meget, det er sådan rimelig standard, det her er knap så standard Og når man gør det på den her måde, så er det fordi man er ekstremt klamt på plads Og man har fået krav stået i hånden, så man er nødt til at finde på hvad i hvert fald man kan Det er der bare en tankbane, der har nogen interesseret på at få med Der er egentlig ikke meget at lade være i den, fordi Puls, sand og udlastning, det er bare ikke en fed løsning.
+
+00:55:30
+Så, sidste er egentlig noget, jeg bare tog med for lige at lukke og slukke.
+
+00:55:36
+Når man så laver 3.000 kubikmeter tilbagehold.
+
+00:55:39
+Og finder ud af, at.
+
+00:55:39
+Man ikke har plads i terrænet, så ender det med, at man kigger over jorden. Det er her.
+
+00:55:48
+Der ligger børnehave med legeplads af 1.500 kubikmeter under jorden i kassetterne heroppe.
+
+00:55:54
+Og så er der en fodboldbane, som hvis I nogensinde har set noget fra Kampsbybyen, så har jeg også et billede af den, fordi den er super flot.
+
+00:56:00
+Den ser sådan der ud. Så herovre, kæmpe kassetteanlæg.
+
+00:56:07
+Har været helt projektet. Overflade.
+
+00:56:09
+Løsninger. Og det er bare, det tror jeg bare synes er symptomatisk for den her type projekter.
+
+00:56:17
+Vi ender ret hurtigt med, at det her overfladebassin, de fylder rigtig meget med yndringer, de skal være rigtig dybe.
+
+00:56:22
+Og så ender vi med at kigge i kassetterne.
+
+00:56:25
+Og så kan man så sige, at i det tilgivende tilfælde, der skal rigtig meget vand ned i den her, før vi ser vand på boldbanen.
+
+00:56:33
+Så reelt set kan de spille bold igen, så snart regnen er holdt op i de fleste hendelser, og det går rigtig galt, så er der vand over det hele.
+
+00:56:43
+Lige til sidst, fordelene ved at styres i vand på den her måde, når man nu ikke har adgang til 6-side styrebare vandbremser, som jeg også synes, at man skal have, det er, at vi har ingen mekanik.
+
+00:56:56
+Der er intet, der reelt kan bevæge sig, og hvis man i øvrigt har kvoteret, tænkt sig om i sin kvotering, så går det heller ikke galt, når tingene stuger til terræn og løber væk.
+
+00:57:05
+Så vi behøver ikke skulle åbne eller lukke for noget mellem andet. Vi har ikke noget strømforbrug.
+
+00:57:10
+Nu har vi lige diskuteret forsyningssikkerhed i et andet projekt, hvor man er lidt bange for det her med strømbrud, især efter hvad der skete i Spanien for ikke så længe siden.
+
+00:57:19
+Hvad hvis alle vores pumper dør?
+
+00:57:21
+Så står man lige pludselig med en hovedpine, hvis det så sker samtidig.
+
+00:57:24
+Hvad hvis det er skybrud, der forårsager det?
+
+00:57:25
+Hvis vi så er afhængige af pumper alt for mange steder, så er der bare lavet.
+
+00:57:30
+På den her måde vil jeg gøre det her, så er man rimelig sikker på, at det her system fungerer, hvis det bliver driftet op i svanen.
+
+00:57:37
+Som forudsat ish med de begrænsninger det nu har.
+
+00:57:42
+Det er rimelig nemt at drifte, det er noget med at kigge til de her reguleringer og sømmelsanfangene.
+
+00:57:48
+Det er også relativt billigt at etablere i forhold til at specifikt pumpe over det hele og store styrker af skæl og den fælles ting.
+
+00:57:55
+Men selvfølgelig ufordrer det en værre. Det er en statisk løsning. Vi designer det her.
+
+00:58:00
+Vi klasker en semi-teoretisk regn på, og så ser vi, hvad der sker, og så justerer vi det helt efter det.
+
+00:58:06
+Det betyder, at tingene virker perfekt, når de er i den regn, der kommer. Det sker jo aldrig.
+
+00:58:12
+Så kan man sige, at hvis det er ekstra høje, så kan man kvittere sig ud af det og sikre sig for, fordi ved de høje intensiteter, Når vi har blokeret for vandbremserne ned igennem systemet, og den øverste ikke har nogen, så får vi faktisk presset ekstra meget vand op i det opstrånsbassin.
+
+00:58:26
+Det gør egentlig ikke noget, for så plasker det egentlig over og løber ned til de nedstrånsbassiner.
+
+00:58:30
+Så på den måde får vi udnyttet vores volumen ret fint.
+
+00:58:33
+Men jeg kan sige, at 19 kommer, når det er de lange lave intensiteter.
+
+00:58:36
+Fordi så står vi i en situation, hvor det her er fyldt, og de andre er helt tomme.
+
+00:58:41
+Og jeg havde faktisk, når.
+
+00:58:42
+Det her billede blev.
+
+00:58:43
+Taget af vores projektdirektør fra Karlsberg By, Niels Nielsen, som ringede og sagde, at de virker jo, men ikke rigtig Mikkel.
+
+00:58:51
+Og så sagde jeg, at det var det her tilbage i den der tunge novembervej, vi havde gjort om tidligere.
+
+00:58:57
+Og så sagde jeg, at det ved jeg sgu ikke rigtig, Niels.
+
+00:58:58
+Jeg forventer, at med den her vej, så er de sidderste patienter helt fyldt, og de andre står halvtom.
+
+00:59:03
+Ja, det er præcis sådan, de virker. Eller det er præcis sådan, de ser ud.
+
+00:59:07
+Og det er jo fordi, når det bliver langt og sejt, så er der ikke nok vand til, at reguleringerne, når de ikke er styrbare, gør noget som helst andet end bare at se fint.
+
+00:59:16
+De løber vejen her, og det bliver jo aldrig mere intens, end at så fylder vi op her, og så begynder det at gå i overløb og løbe ud på vejen.
+
+00:59:24
+Så kan man sige, at en anden nitte er, at hvis ikke man har købt aktierne i Mosbæk, så er de heller ikke gratis.
+
+00:59:32
+De er billigere end fancy pumper, men de koster jo stadigvæk 25-20.000 kroner stykket.
+
+00:59:36
+Så lidt om statisk styre.
+

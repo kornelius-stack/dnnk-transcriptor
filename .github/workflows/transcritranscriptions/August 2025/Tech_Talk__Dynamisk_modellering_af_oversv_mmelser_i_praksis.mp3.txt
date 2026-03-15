@@ -1,0 +1,1017 @@
+00:00:12
+Velkommen til dagens Tech Talk.
+
+00:00:16
+Jeg hedder Cornelius Pahls, og jeg er værdig i dag.
+
+00:00:19
+I teknikken sidder jeg Morten Hallig, og i dag skal vi stille skarp på et aktuelt og et teknisk vigtigt spørgsmål.
+
+00:00:26
+Hvor svært er det i praksis at opsætte dynamiske oversvømmelsemodeller, og hvad kræver det?
+
+00:00:32
+Kan det lade sig gøre med åbne offentlige data, og kan vi modulere komplekse opladninger med både terræn, vandløb, afløb og grundvand?
+
+00:00:40
+I dag skal vi have et indblik i et eksempel fra Brante, og vi skal høre fra projektet fra lidt forskellige perspektiver.
+
+00:00:48
+Erlind Rasmussen fra CBMC Group og Jan Sørensen fra IKAS Brante Kommune kan lange fra IKAS Brante Spillevand.
+
+00:00:57
+Det vil være oplæsholderen primært.
+
+00:01:00
+For en god ordens skyld skal jeg lige nævne, at vi optager webinaret.
+
+00:01:04
+Vi lægger det ud på vores hjemmeside, og det skulle gerne ske inden for en uges tid, efter vi har fået alt på plads.
+
+00:01:11
+Og der er mulighed for at stille spørgsmål i chatten undervejs, og så vil jeg samle op og sørge for, at de bliver stillet efter webinaret.
+
+00:01:19
+Så hvad kan man lære af brande, og hvad kræver det at arbejde med den her type modeller i praksis?
+
+00:01:24
+Jeg vil egentlig bare give ordet videre til Erland fra CBMC Group og sige værsgo, og tusind tak, fordi I kom med et oplæg.
+
+00:01:34
+Tak for det, Cornelius, og velkommen også fra os, der står bag den her præsentation.
+
+00:01:41
+Lige meget kort, så kan jeg fortælle, hvem vi er.
+
+00:01:46
+I dag er Jan Sørensen fra Icazprante Kommune, som er klinik- tilpasningsansvarig.
+
+00:01:52
+Jeg vil også høre lidt fra Icazprante Spilvand, fra Ken Lange, som er Spilvandsingeniør.
+
+00:01:59
+Jeg vil primært være mig, der taler fra CVMC.
+
+00:02:03
+Vi har også min kollega Jørgen Bo Nielsen med på linjen.
+
+00:02:10
+Det, vi vil snakke om i dag, er, hvordan man modellerer dynamisk i praksis, når vi taler om oversvømmelse på land.
+
+00:02:20
+Vi vil starte med en kort baggrund fra Icazprante Kommune.
+
+00:02:24
+Hvorfor de var interesserede i at få det etableret.
+
+00:02:28
+Så vil vi gå over til at fortælle lidt om selve projektet, hvordan modellen er bygget op, og hvilke udfordringer og faldgrupper, man skal være opmærksom på, når man laver sine modeller.
+
+00:02:38
+Og så vil vi også vise, hvordan modellen virker i praksis.
+
+00:02:43
+Det vil sige, at det er en validering af modellen.
+
+00:02:47
+Og så hører vi også, hvad perspektiver man kan se i sådan en dynamisk model fra et spildevandsperspektiv eller fra en forsyningsvinkel.
+
+00:02:59
+Med de her ord vil jeg lige give ord til Jan.
+
+00:03:04
+fra kommunerne, som kan sige et par ord om udfordringerne i Brandeby.
+
+00:03:12
+Jan?
+
+00:03:12
+Tak for det.
+
+00:03:15
+I Kasperne kommune ligger lige midt i Jylland.
+
+00:03:20
+Vi har den østjyske højtrygt til at løbe ned gennem kommunen, så vandet falder ud af kommunen.
+
+00:03:26
+Vi har ingen kyster.
+
+00:03:27
+Vi har noget terræn af grundvand og enkelte vandløb.
+
+00:03:31
+som volder os nogle gange med problemer.
+
+00:03:35
+Herover kan I se et tilløb til brænddåret, det hedder sædebækkens.
+
+00:03:42
+En oversøgelse fra august måned 2010, hvor der er nogle forholdsvis store oversøgelser.
+
+00:03:54
+Umiddelbart efter de her oversøgelser, så satte vi nogle små tiltag i gang.
+
+00:03:59
+Vi ændrede nogle broer et par steder og nogle bygværker, og så kom der jo en klimatilpasningsplan tilbage i 2013, vi alle sammen skulle lave på et tidspunkt.
+
+00:04:09
+Der fik vi så vores spildeværelsesselskab til at lave nogle modelberegninger ind i de kloakerede oplande.
+
+00:04:20
+Og så har vi haft det i lang periode, indtil vi var i forbindelse med vores DQ 2020.
+
+00:04:25
+Jeg prøver at skifte det næste.
+
+00:04:29
+I forbindelse med vores DQ 2020 plan, der lavede vi igen nogle beregninger og lavede en revision af vores klimatilpasningsplan, men denne gang lavede vi så i hele kommunen med statiske beregninger.
+
+00:04:52
+Der var en forskel mellem det vi lavede i 2013 og det vi lavede i 2023.
+
+00:05:02
+Vi har samtidig de her mindre oversvømmelser nede gennem byen.
+
+00:05:10
+I forhold til mit byråd fylder det ind i en del.
+
+00:05:15
+Jeg havde lidt mission med at få afklart, hvilke beregninger her er de rigtige, og hvor store er udbrillelserne reelt.
+
+00:05:26
+Super.
+
+00:05:28
+Skal jeg tage over igen så?
+
+00:05:30
+Ja tak.
+
+00:05:32
+Godt.
+
+00:05:34
+Da vi kom ind på det her projekt, så valgte vi så at iværksætte det her med en 2D-model.
+
+00:05:41
+Det er vores eget værktøj, vi kalder Dynamic 2D.
+
+00:05:44
+Det er en klassisk 2D-hydrodynamisk model, som er baseret på de klassiske ligninger på den slags, og som også har en masse forskellige processer, som er relevante for oversynelsesberegningerne, og det gælder så også både afløbsmodeller og sådan noget.
+
+00:06:06
+De af jer, som kender Til andre typer er det jo primært mic-modellerne fra DOI.
+
+00:06:13
+Så minder de jo faktisk meget om det, man minder også om de tilsvarende.
+
+00:06:18
+For eksempel de her, jeg kender til TwoFlo, det er SamSame, SamSkuffe og alt sammen her.
+
+00:06:24
+De features, vi har med her, det vi har betalt vores model på, det er faktisk at prøve at være optimaliseret som overhovedet muligt.
+
+00:06:32
+Og gøre brug af offentlige tilgængelige data.
+
+00:06:36
+Også på mange andre områder end blot terrænmodellerne.
+
+00:06:42
+Vi arbejder i de klassiske standardformater.
+
+00:06:48
+Det vil sige både TIF-formater, som man anvender i GIS, men vi kan også give dem shapefiler, inden vi kan læse MIC-dataformater ind, osv.
+
+00:06:57
+Så det er generelt et meget robust værktøj, vi har fået etableret her.
+
+00:07:04
+Over tid har vi også anvendt det på mange større og mindre danske byområder, så vi har en god pulje af grundmodeller, som er klar her.
+
+00:07:14
+Det betyder selvfølgelig også, at vi gennem de sidste fem-seks år har brugt modellen meget, og fået noget erfaring med det her.
+
+00:07:22
+Det er den erfaring, vi går ud og kommunikerer nu, hvad vi skal gøre, hvad man skal være opmærksom på, når man anvender de her modeller i praksis.
+
+00:07:38
+Så inden vi går over og ser på selve brand og opsætning, så vil vi lige understrege et par af de udfordringer, man typisk står overfor.
+
+00:07:48
+Og dermed også sagt, at der også kan være nogle faldgrupper.
+
+00:07:53
+Det, jeg siger nu her, det er generelt for dynamisk modellering.
+
+00:07:56
+Det gælder ikke specifikt for den her model.
+
+00:07:59
+og generelt modellering af overfladen.
+
+00:08:05
+Det kan være fristende for en kommune at modellere et område for kommunen, hvis man har behov for at arbejde videre med sine resultater fra DK2020-projekter.
+
+00:08:20
+Man skal være opmærksom på nogle ting.
+
+00:08:24
+Forsyningsmodeller har ansvaret for de kloakerede områder, og derfor dækker de ikke nødvendigvis hele de biologiske oplande, som kan føde ind til de kloakerede områder.
+
+00:08:40
+Forsyningselskaberne er ansvarlige for de kloakerede områder, og der skal de leve op til et service.
+
+00:08:49
+Det kan de sagtens gøre, hvis det er, at Man sætter det rigtigt op, men det er ingen garanti for, at man kan bruge de der modeller til at modellere større områder, som for eksempel her i Brande.
+
+00:09:02
+Det kræver selvfølgelig også, at man har alle relevante strømmingsveje med i modellen, og det gælder jo også de rørlagte vandløb.
+
+00:09:11
+Det gælder alle afvandlingssystemer fra relevante veje, og hvordan de kobler ind til hele systemet.
+
+00:09:19
+For at illustrere det, har jeg et andet eksempel, ikke fra Branden, men fra en anden mindre midtjysk by, hvor man har et aflysningsnetværk.
+
+00:09:29
+Ved siden af det har man også registreret nogle rørlagte vandløb.
+
+00:09:35
+I tillægg til det vandløb, vi ser her, er der et utal af drænrør, også i de omkringliggende marker, som ikke nødvendigvis er registreret i detaljer.
+
+00:09:47
+heller ikke kendt, hvor meget de kan aflede vandet, og hvordan det påvirker hele afstrømningen.
+
+00:09:53
+I det her tilfælde har man en større vej, faktisk en motorvej, der passerer forbi.
+
+00:10:01
+Det betyder, at der er vejvand, der skal væk.
+
+00:10:05
+Hvordan det er tilkoblet til de andre systemer, det er forskelligt fra by til by.
+
+00:10:11
+Selvom selve afløbssystemet er design til at klare en f.eks.
+
+00:10:17
+en 100-årshændelse eller en 50-årshændelse, så kan det sagtens ske, at der kommer vand ind i området fra de omkringlænge oppenand, som gør, at man faktisk får oversvømmelser ved mindre regnhændelser.
+
+00:10:28
+Det er blot illustreret i den her lille figur her, hvor I kan se, at der kommer vand ind fra mange sider, som ikke nødvendigvis er blåarkeret her.
+
+00:10:40
+Det har faktisk i praksis også forsaget en del oversvømmelser i det her byområde.
+
+00:10:48
+Den måde, vi håndterer afløbssystemet på, er, at vi har forskellige metoder, der kan sikre, at vi får fjernet det vand, der svarer til den designkapacitet, som afløbssystemet har.
+
+00:11:03
+Det er typisk en 5-års eller 10-års regnhængelse.
+
+00:11:07
+Vi har også sikret, at vandet kan stramme tilbage på overfladen, så afløbssystemet løber fuldt.
+
+00:11:14
+Når det bliver overlastet, kan det på den måde komme tilbage til overfløden.
+
+00:11:23
+Det er mindre og mindre, end det, man gør i Mike-Ørben-modellen, fordi jeg ikke kender Mike-Ørben-modellen.
+
+00:11:28
+Dog er det sådan, at vi i vores opsætning prøver at forenkle det en del i forhold til Mike-Ørben-modellen.
+
+00:11:38
+Derfor kan det også blive forenkelt, den måde, man beskriver det på.
+
+00:11:43
+Der er forskellige måder, hvordan man kan flytte det an.
+
+00:11:46
+En måde er selvfølgelig at købe med et nettoregnsprincip, men så får man ikke nødvendigvis den rigtige regnmængde i de uklar klorakerede områder.
+
+00:11:55
+En anden mulighed er et stærkt afløbssystem med en forøget nedsivning i de klorakerede områder.
+
+00:12:04
+For eksempel kan man jo bare ændre nedsivningen, så det svarer til, at den kan fjerne en femårs- eller en tiårsregn.
+
+00:12:10
+Hvis man gør det, skal man være opmærksom på, at man kun får fjernet vand, der hvor overfladen er våd.
+
+00:12:19
+Det vil ikke altid være der, hvor der er en terræn, der er udformet.
+
+00:12:25
+Det kan godt være, at man dermed får fjernet for lidt vand i forhold til afløbssystemets reelle kapacitet.
+
+00:12:34
+Hvad betyder det?
+
+00:12:35
+Det betyder, at man skal ind med for store oversøgelser.
+
+00:12:39
+over alt for lange tømmetider, hvor længe systemet er om at forlade modellerne ud.
+
+00:12:49
+Så vil jeg gå over til at fortælle lidt om selve brandemodellen eller modellerne, for det endte faktisk med, at vi lavede to forskellige opsætninger af modellen.
+
+00:13:03
+De fleste af jer ved, så ligger Brante på den nætjyske højderyg.
+
+00:13:07
+Figuren her, der kan I se, er en rød linje, der kører igennem.
+
+00:13:10
+Det er den nætjyske motorvej, der kører igennem, eller kører forbi Brante.
+
+00:13:16
+Den måde, vi bestemmer modellområdet på, er, at vi laver en økologisk oplandsanalyse.
+
+00:13:22
+Hvis man gør det for Branteområdet, så kan I se her, så har man indikeret et forholdsvis stort opland syd.
+
+00:13:33
+Øst på brændteområdet.
+
+00:13:35
+Det her opland er det ene af de oplande, vi brugte.
+
+00:13:40
+Det er oplandet, som er relevant for skybrud.
+
+00:13:45
+Vi kommer tilbage til det lidt senere, hvor vi har valgt to oplande.
+
+00:13:51
+Det her er det ene oplande, vi har anvendt.
+
+00:13:56
+Modellen for brændte inkluderer den her 2D-overflademodel, Det dækker det her område, som I kan se på den forrige slide.
+
+00:14:07
+Vi har også de vigtigste vandløb med i modellen.
+
+00:14:13
+De er illustreret på den her slide.
+
+00:14:15
+Det er gulvbæk og sædbæk, og den største af dem er brændte åer.
+
+00:14:21
+Den måde, vi tager det med på, er, at vi har indbrændt i modeltopografien skikkelsesdata, eller de regulative profiler, man har for vandløben, ind i batometrien og topografien for modelområdet, så vi sikrer os, at vi har den rette udformning af åerløbet i modellen.
+
+00:14:43
+Man kan altid diskutere, om man skal bruge de regulative profilerne, eller om man skal bruge de seneste opmålte profiler.
+
+00:14:53
+Der er typisk en forskel i de to.
+
+00:14:57
+Vi har valgt at læne os op af regulative profiler i det her projekt.
+
+00:15:04
+Udover det har vi et afdækningssystem med, som dækker Brandeby.
+
+00:15:13
+Det her er et oversigtskort over, det afløbssystem, som vi endte op med at anvende.
+
+00:15:22
+Det er baseret på en Mike Urban-model, som vi har fået stillet til rådighed fra J.K.
+
+00:15:28
+Sprande af Spillevand.
+
+00:15:30
+Den måde, vi griber det an på, er at simplificere det i forhold til den klassiske Mike Urban-beskrivelse.
+
+00:15:37
+Det, at den er simplificeret i forhold til Mike Urban-modellen, betyder også, at man har hovedstrømningsvejen opretholdt.
+
+00:15:45
+Hvilket betyder, at hvis vandt løber ud i brændte åer, så gør det det også i vores model.
+
+00:15:53
+I denne modelopsætning leder nogle af de her kloakker blandt andet vandt ud af det, vi kalder vores modellerområde.
+
+00:16:03
+Det har vi også med.
+
+00:16:05
+Endelig har vi også en interaktion med grundvand.
+
+00:16:10
+i en forsemplet form.
+
+00:16:12
+Det er ikke sådan, vi modulerer grundvandens bevægelse.
+
+00:16:15
+Det gør på en helt anden tidsskala, end en skybrud gør.
+
+00:16:19
+Det er en forsemplet form, vi anvender her.
+
+00:16:24
+Vi er så heldige, at vi havde mulighed for at validere modellen i brande.
+
+00:16:30
+Jeg vil kortløbe igennem resultaterne af de to valideringer, vi foretog her.
+
+00:16:37
+Det er sådan, at kommunen for en del år siden satte en målestation op.
+
+00:16:43
+Lige der, hvor sædvæggen møder Brænde Å.
+
+00:16:46
+Den røde markering her.
+
+00:16:49
+Det er en station 4500, og der måler man så vandstanden i åen.
+
+00:16:58
+Inden for de sidste par år, som Jan nævnte, har man haft nogle Situationer i Brante by, hvor årene løber over sin bredde, og man har haft skybryder osv., som stadig står i friske rendringer hos mange af borgerne i Brante.
+
+00:17:18
+Vi er så heldige, at vi også har en regnmål, og ikke så langt fra de steder her.
+
+00:17:28
+Det, vi har modelleret, er to regnhændelser.
+
+00:17:30
+Den første er en kort og intens regnhændelse, der skete i 23.
+
+00:17:36
+3.
+
+00:17:36
+oktober.
+
+00:17:37
+Et klassisk skybrud.
+
+00:17:44
+Vi har fra brand- og rensanlæg nogle målinger, som gør, at vi kan modulere her.
+
+00:17:54
+Det, I ser på den øverste figur, er nedbøgeren.
+
+00:17:57
+Det er lidt svært at se, hvad tidsaksen er, men det dækker faktisk Et helt døgn den 3.
+
+00:18:05
+oktober.
+
+00:18:06
+Selve hændelsen var ikke så længe.
+
+00:18:10
+Den var cirka to timers penge.
+
+00:18:14
+Alt i alt faldt i den her periode cirka 48 mm.
+
+00:18:19
+Det er i stedet en pænt sjært vand, der kom ned.
+
+00:18:22
+Vandstandsmåleren, som ligger lidt længere nedstrøms, Der kan I se, der stiger vandsternen fra en kode ca.
+
+00:18:30
+40,3 op til noget, der ligner 41,4.
+
+00:18:36
+Det vil sige, at den stiger lidt over en meterspæng.
+
+00:18:40
+Man kan faktisk også se, at meget af stigningen sker indledningsvis i forløbet her.
+
+00:18:47
+Det vil sige, at det er et tegn på, at det falder som meget lokalt regn.
+
+00:18:52
+Det her er en lille video, vi har lavet af af den her case her.
+
+00:19:00
+Her har I brændt over i sædebækken.
+
+00:19:03
+Det er især nede i det her område, som jeg markerer her med hånden, at man har oplevet de her store oversøgelser.
+
+00:19:12
+Eller ikke nødvendigvis store, men nogle oversøgelser.
+
+00:19:17
+Vi har også prøvet at sammenligne data fra modellen med de målinger, man har fra station 4500.
+
+00:19:24
+Det er det, I ser her.
+
+00:19:26
+Der kan man se, at modellen også får beskrevet stigningen i vandspejlene i åen ganske fint.
+
+00:19:37
+Hvis man zoomer ind på et af de problemområder, som er H.C.
+
+00:19:41
+Andersensvej i Brænde, som er den vej, der løber parallelt med åen, så kan man se, at på de her hus, der ligger på den ene side af åen, Det er mere usatte end husene på den anden side, som man stort set ikke får ud af vandet.
+
+00:20:01
+Der er også noget, der indikerer, at er der en strømningsvej, der kommer ned her.
+
+00:20:06
+Bare til jeres information.
+
+00:20:10
+Hvis man zoomer ind på de her områder, så vil man kunne se, at modellen dels får beskrevet den strømningsvej, der kommer ned her, men man får også beskrevet, at det er fint fra åløbet her.
+
+00:20:25
+Den anden regnhændelse, vi har kigget på, er en regnhændelse, der fandt sted nogle måneder senere, henne i februar 2020, som var en mere langvarig, men til gengæld mindre intens nedbørshændelse.
+
+00:20:42
+Det, I kan gense her på den øvelse, er nedbørsdata fra Brande renseanlæg, og det dækker en to-dagesperiode fra den 5.
+
+00:20:53
+til den 7.
+
+00:20:53
+februar.
+
+00:20:55
+Det værd at bemærke er, at den samlede nedbyrdsmængde er ca.
+
+00:20:59
+det halve af, hvad den var i den korte intenseperiode.
+
+00:21:03
+Hvis man ser på vandstanden i Ålende, så vokser den igen fra ca.
+
+00:21:07
+40,3 cm op til noget højere, end vi så i oktoberhensen.
+
+00:21:16
+Her ryger den op på 41,6 cm, så det er ca.
+
+00:21:20
+1,20 meter.
+
+00:21:24
+af stigning her i den her periode.
+
+00:21:26
+For at modellere den her hændelse, har vi valgt at udvide modellområdet med et større opland end det vi så før.
+
+00:21:39
+Det er simpelthen en af den grunde, at den her langvarige regn, den fordeler sig over stort set hele oplandet til Brandeå.
+
+00:21:48
+og dermed føder det langsomt ind til Brændeby, som ligger nedstrøms for hele Hoplanden.
+
+00:21:55
+Det gør, at det er nødvendigt at have et større område med i den her simulering.
+
+00:22:02
+Og igen, hvis man laver en sammenligning med, hvad vi fik ud af modellen i forhold til, hvad målingerne siger, så kan man se, at modellen følger målingerne ganske fint i det her forløb.
+
+00:22:17
+Selvom det er en helt anden regnhændelse eller regntype, vi er med og gør det her.
+
+00:22:24
+Så vores konklusion er, at vi er faktisk ganske godt tilfredse med modellen her, at den kan gengive vandstanden for to meget forskellige nedbydshændelser.
+
+00:22:35
+Ganske tilfredsstillende både hvad der angår i maksimale vandstand, men også det tidslige forløb her.
+
+00:22:42
+Så med det her vil jeg give ordet videre til Kent, som vil sige noget om, hvad perspektiver man kan se i sådan en model her med nogle andre briller end den, vi lige har på her.
+
+00:22:56
+Ken?
+
+00:22:57
+Ja, tak for det.
+
+00:22:58
+Du må sådan set gerne skifte allerede.
+
+00:23:02
+For lige at perspektivere også, som du kalder det, Erland.
+
+00:23:06
+Nu vil jeg ikke dykke ned i den her model, den er fin, den har du reddet gjort for.
+
+00:23:10
+Men altså den problemstilling, vi står overfor, det er jo, som I alle sammen kender, det er jo en statusproblemstilling med oversvømmelser, som vi skal have.
+
+00:23:17
+Vi har udbæret og analyseret os frem til, hvorfor de opstår.
+
+00:23:21
+Vi har stigende regnmængder.
+
+00:23:25
+Problemstillingen i vores område er ud over Ådal, som er oversvømmet.
+
+00:23:30
+Det er også terrænet af Grundmanden.
+
+00:23:33
+Det er et helt sendstændigt emne, vi tager op.
+
+00:23:37
+Men det Jan Sørensen fra kommunen og jeg står i, er når vi skal udvikle nye områder.
+
+00:23:45
+så har vi brug for at have nogle analyseværktøjer, der kan hjælpe os med vandbalancerne, for at se, hvad er den rigtige løsning.
+
+00:23:52
+Vi har nogle løsningsmodeller, hvor vi sænker grundvandet drenet, laver den tredje ledning, skaber dermed også noget magasineringsvolumen i jordmatrisen, og vi laver nye vandløb.
+
+00:24:06
+Der er nogle overfladeafstrømming rundt omkring, og nogle regnvandssystemer, som vi oprever.
+
+00:24:12
+neddimensioneret, han har sagt.
+
+00:24:14
+Allerede der kan I høre, at det bliver komplekst.
+
+00:24:17
+Jan og jeg har været igennem de her ting og har forsøgt at finde en model, der kunne hjælpe os igennem det her.
+
+00:24:23
+Vi har selvfølgelig prøvet stationære modeller, som er for upræcise, og vi har prøvet dynamiske modeller, blandt andet fra Mike-universet og også andre, som regner fint og dynamisk, men lige så snart du skal op på større områder, altså sådan noget som hele Brandeby, eller det kunne For eksempel hele kommunen.
+
+00:24:42
+Vi har fire-fem vandskæld, vi arbejder med.
+
+00:24:45
+Hvordan får vi et overblik over masser af balancerne?
+
+00:24:48
+Hvor er de løsningsmuligheder, vi arbejder med?
+
+00:24:52
+Hvor er de de rigtige?
+
+00:24:53
+Det er det, som du lige har redegjort for Erland.
+
+00:24:58
+Forholdsvis billigt og forholdsvis ukomplekst at kalibrere, har vi kunne regne os frem til noget, der matcher virkeligheden i det omfang, vi har brug for.
+
+00:25:10
+Og perspektiveringen bliver så, at det fremover kunne være et godt værktøj til at analysere de der vandvisions masterplaner, som vi arbejder med.
+
+00:25:23
+Jeg prøver bare at skifte til næste stjerne.
+
+00:25:26
+Nu har jeg godt nok taget udgangspunkt i brændte her, og nu er modellen jo sat op, så det er jo sådan en, vi vil anvende, lige så snart vi begynder at kigge på nye områder.
+
+00:25:35
+Det er det, jeg har prøvet at skitte op på den her overhead.
+
+00:25:38
+P10 i brændte.
+
+00:25:40
+syd, som det er, de her to cirkler.
+
+00:25:43
+Der er nye områder på vej, hvor vi har mulighed for at gøre forskellige ting.
+
+00:25:48
+Blandt andet nedsivnings- og dræningsløsninger.
+
+00:25:53
+Hvilken vej skal vandet?
+
+00:25:57
+Et område kan ledes den ene eller den anden vej.
+
+00:25:59
+Har vi vendt vandstrømmene mellem de to cirkler, jeg har lavet?
+
+00:26:04
+Det er to områder, som interagerer, hvor vi vender vand.
+
+00:26:08
+Den ene vej, som naturligt løber den anden vej, plus at vi kan prioritere, hvor meget vand, der løber mod nord.
+
+00:26:17
+Det er de tanker, vi har været i.
+
+00:26:20
+For at overbevise Jørgen Sørensen om, at det jeg tænker, når jeg skal stå for en afvandringsmetode for et opland og for en masterposition, det er jo at lave den massebalance nede i årsystemet, typisk.
+
+00:26:38
+Det er det, vi har vrøvlet med, selvfølgelig pulserne.
+
+00:26:41
+Vores ambition er at minske de pulser, både antallet og størrelsen af de pulser, vi smider i vandløbene.
+
+00:26:47
+Vi har også en stor problematik ved Holstebro, hvor vi gerne vil dokumentere, at det kan godt være, at vi kobler et nyt boligområde på, men den løsningsmodel, vi laver der, den skaber vi så meget ekstra magasineringsvolumen ved i jordmatrisen, eller hvordan vi nu gør det, at basis bliver forbedret nede i selve vandløbet.
+
+00:27:09
+Det er faktisk det, vi bruger det til.
+
+00:27:12
+Det som Erlander Kommuni kan regne for, er en LTS-beregning, som inkorporerer alle de komplekse strømningsveje, som vi har.
+
+00:27:21
+Det er også noget med både drænledninger, men også strømninger igennem jordmetrisen, hvordan de håndteres, eller hvilken vej de render osv.
+
+00:27:29
+Vi har et godt, hurtigt, forholdsvis præcist overblik over, hvad der er rigtigt til at vælge.
+
+00:27:37
+Det, jeg har oplevet med det, er, at det har været en fleksibel opsætningsmulighed.
+
+00:27:44
+Nu står der, at modellen kan integrere hele vandkredsløbet, og det er faktisk det, vi har oplevet.
+
+00:27:51
+Det er et værktøj, som vi mangler lidt herude i branchen til at begynde at lave de her betragtninger.
+
+00:28:02
+Det er jo fremtidens ingeniøropgave, vandingeniøropgave, det er jo at håndtere hele vandkridsløbet på en eller anden vis.
+
+00:28:10
+Og der synes jeg, at det er det her værktøj, jeg har set indtil videre, som har, når man tager økonomi og opsætning i betragtningen, været det mest brugbare.
+
+00:28:23
+En anden pointe, man kan sige, det er også, at den her, det er jo også en god måde at optimere sin økonomi i løsningsmodellerne på, ved at man jo ikke vil ender med at overdimensionere et bandløb eller et drainsystem undervejs, fordi det kan jo godt være ret diffust i sådan nogle 3D-strømningsmodeller, hvilken vej vandet kommer osv.
+
+00:28:45
+Og der kan det her værktøj hjælpe os.
+
+00:28:49
+Ja, og den sidste pointe, det er hastighed og økonomi i de her beregninger.
+
+00:28:55
+De har set ret fornuftige ud.
+
+00:28:58
+Så det er min perspektive.
+
+00:29:00
+Der findes selvfølgelig andre modeller derude, men min oplevelse er, at de har været enten for simple eller for tunge.
+
+00:29:06
+Det var min pointe.
+
+00:29:08
+Med den her.
+
+00:29:11
+Så har vi kun tilbage at sige tak for det her indlæg til ikke bare Brøndby Kommune, men også til Kent fra Spildevands selskabet, der har fået sparing undervejs i projektet, fordi de har givet os tilladelse til at producere resultaterne her.
+
+00:29:31
+Yes, og med det så tror jeg, at vi er parate til at tage nogle spørgsmål.
+
+00:29:36
+Det er helt rigtigt.
+
+00:29:38
+Tusind tak for oplægget.
+
+00:29:40
+Og som nævnt, så bliver der åbnet for spørgsmål og kommentarer.
+
+00:29:43
+Der er kommet et enkelt lidt.
+
+00:29:45
+Så far, så I må endelig bare komme ind med nogle spørgsmål og kommentarer i forhold til, hvordan I tænker i jeres hverdag.
+
+00:29:52
+Men jeg kan starte med det første her fra Ole, og han spørger, Hvad har det krævet i forhold til kalibrering af modellen at ramme den rigtige vandstand i vandløbet?
+
+00:30:04
+Der er faktisk ikke.
+
+00:30:05
+Kalibreret specielt meget på vandløbene.
+
+00:30:09
+Den måde, vi sætter dem op på, det er typisk, at vi anvender nogle bundmodstande i hele modellen.
+
+00:30:16
+Det gælder ikke kun i vandløbene, men også på overfladen.
+
+00:30:20
+Det gør vi ud fra befæstelseskortet, typisk.
+
+00:30:25
+Vi kan tage et befæstelseskål, som også er offentligt tilgængeligt, og så kan vi konvertere de befæstelser til nogle standardsætting på grundmodstanden.
+
+00:30:36
+Så er det egentlig bare at hælde vand på overfladen, og så finder vi vandet den nemmeste vej ned i åen og videre derfra.
+
+00:30:43
+Erland, måske vi skal supplere med at sige, at i projektet lavede vi også en følsomhedsanalyse på lige præcist stil med bundmodstanden.
+
+00:30:51
+Og nåede frem til, at det ikke havde den helt store effekt på oversvømmelsesvandhygterne.
+
+00:30:59
+Nej.
+
+00:31:00
+Selve vandstanden i åen er jo meget et vand, der falder på hovedfladen og bliver lænet ned i åen.
+
+00:31:09
+Enten via afleveringssystemet eller mere direkte på hovedfladen.
+
+00:31:17
+Tak.
+
+00:31:18
+Næste spørgsmål kommer fra Lawitz, og det er et spørgsmål, der retter sig til Ken.
+
+00:31:23
+Hvor store skader har I oplevet i Kasperante kommune?
+
+00:31:28
+Sigter du til den.
+
+00:31:31
+Model, som er på vej i forbindelse med terrængnært grundvand og kostbændefedt-betrækningerne?
+
+00:31:40
+Han kan selvfølgelig ikke svare mig, men der blev det relevant at kigge på, Men nej, jeg har ikke noget overblik over det samlede omkostningsniveau dernede.
+
+00:31:53
+Jeg ved ikke om Jan Sørensen måske kan bidrage der?
+
+00:31:56
+Nej, altså man kan.
+
+00:31:57
+Jo sige, vi har ikke lavet sådan en cost benefit på det der, men en af mine bagtanker ved det her projekt, det var også at få afklaret, om vi havde store problemer, eller om det var forholdsvis afgrænset.
+
+00:32:13
+Det blev bekræftet i, at det var forholdsvis afgrænset.
+
+00:32:17
+Det er nogle ejendommer omkring H.C.
+
+00:32:19
+Andersens Vej, som er udsatte.
+
+00:32:24
+Det er måske lige så væsentligt som at få afklaret, hvor store de er, der er udbredt.
+
+00:32:27
+Det er lige så vigtigt for mig at få afklaret, om vi taler om et stort problem eller et lille problem i sådan et projekt.
+
+00:32:36
+Tilsvarende kan jeg nævne, at det omkring roheden, der er blevet spurgt om før, Der var det også en lille sidegevinst for mig i det her projekt at få afklaret, at man taler jo meget om borgerne og politikerne taler meget om, hvor stor effekt grøden har nede i selve vandløbet.
+
+00:32:53
+Og i de her scenarier, der fik vi bekræftet, at den har ikke så meget betydning.
+
+00:32:59
+Det var sådan en lille sidegevinst ved den der følsomhedsanalyse, vi fik lavet også i det her projekt.
+
+00:33:10
+Individuelle cases er relevante.
+
+00:33:17
+Sten spørger, om man har kunne identificere, hvor flaskehalsene er i vandløbene.
+
+00:33:29
+Ja, det kan man typisk i sådan nogle modeller her.
+
+00:33:32
+Vi har jo vejunderføringerne med i modellen, og de har jo en givet dimension.
+
+00:33:39
+Så kan man også se typisk i modellerne, om prøverne løber fulde og dermed skaber lokale oversvømmelser.
+
+00:33:47
+Hvis vi nu skulle prøve at imødekomme det i fremtiden, hvis vi skal ud og renovere et eller andet, så kan vi måske prøve at ændre prøverstørrelsen og se, hvad effekt det har.
+
+00:33:57
+Det gør man jo meget nemt i sådanne modeller, man først har sat op.
+
+00:34:04
+Jan nævnte i starten også, at man allerede havde gjort nogle ting om bruger for at undgå flaskehalsproblemer.
+
+00:34:13
+Jeg tror ikke, vores model viste, at der var nogle oplagte flaskehalser, man skulle kigge på her og nu.
+
+00:34:19
+Det er mere den generelle.
+
+00:34:20
+Hvis der falder en hel masse vand i det store opland, og de skal ned gennem årene, så tager det tid, og det kræver mere tværsnit end standardåen.
+
+00:34:32
+I en omvendt kan man også at gå ind og se på, om man kan parkere vandet nogle steder, når man taler om de langvarige regnhandelser.
+
+00:34:42
+Man behøver ikke bare krave nogle større dyber for at komme af med vandet.
+
+00:34:47
+Man kan prøve at forsænke det også, hvis det er muligt, og tiladeligt.
+
+00:34:51
+Der er en masse resultativer omkring vandløb og sådan noget, som kan tage dem ud af det.
+
+00:34:58
+En spørgsmål fra Stine.
+
+00:35:02
+Der.
+
+00:35:02
+Blev talt om muligheden for magasin i jorden, når man drænede lagetræet i ledning.
+
+00:35:08
+Ved større regnhændelser vil det jo tage tid, inden vandet på overfladen er trængt ned til magasinet.
+
+00:35:15
+Tænk større på de længerevarende.
+
+00:35:17
+Regnhændelser.
+
+00:35:20
+Ja, man brænder syd jo, hvis det er mig spørgsmålet.
+
+00:35:22
+Det er det nok.
+
+00:35:24
+Der har vi jo regnet os.
+
+00:35:27
+Ja, vi har regnet meget grundigt på det med forskellige typer modeller, og der har vi jo kunne regne ud, at vi har kunne lave forsinkelse i jordmatrisen.
+
+00:35:36
+Altså et regnværksbesætning, det er jo til hver femte år, ikke også?
+
+00:35:39
+Her har vi måske opnået en forsinkelse på imellem 30 og 50 års, altså kunne håndtere en 30 år til 50 års hændelse i jordmatrisen, inden vi opnår overfladeoverstrømning.
+
+00:35:52
+Og det er i områder, hvor der b.t.
+
+00:35:54
+ret hurtigt er overfladeoverstrømning på grund af højt grundvand.
+
+00:35:57
+Så der køber vi også noget magasin ved at lave de her løsninger.
+
+00:36:03
+Vi snakker om at forbedre dermed situationen i Brændte Å, som så åbner op for mulighed for nogle andre afledninger, eller bare i sig selv forbedre situationen i Brændte Å.
+
+00:36:18
+Umiddelbart er der ikke flere spørgsmål her, men jeg kan jo lige Hvis der nu skulle være en, der har et spørgsmål til, så bare lige fortælle, at hvis man sidder inde med nogle idéer eller en råd eller en forslag til viden, produkter eller noget inden for klimatilpasning, så må man egentlig bare tage fat i en fra DNHK, og så skal vi nok sørge for at se på det og være med til at bidrage til det netværket og noget vidensdeling.
+
+00:36:41
+Nu står der ikke nogle e-mailadresser for det her oplæg her eller kontaktpersoner, men jeg tænker, at hvis der nu er nogle spørgsmål, så går det ud fra at man kan tage fat i.
+
+00:36:52
+I hvert fald det kan jeg tror Google også så kan vi jo se her i den navne der, så kan man nok finde en e-mail ja og.
+
+00:37:09
+Der ser ikke ud til at komme flere spørgsmål herinde og jeg har måske et enkelt og jeg er ikke tekniker Er modellen tænkt som et driftværktøj, altså for eksempel til varsling og beredskab, eller er det primært analyse til planlægning?
+
+00:37:31
+Det.
+
+00:37:31
+Er primært et analyseværktøj.
+
+00:37:34
+Når man er over i noget varsling, så er det jo realtid, man skal være i, og der tror jeg, at der findes andre værktøjer, som er mere regnet end sådan en model her.
+
+00:37:47
+Ved du hvad?
+
+00:37:50
+Tusind tak for oplæg.
+
+00:37:53
+Og jeg håber, at dagens TikTok har givet noget inspiration, og også til dem, der ser det på bagkant.
+
+00:38:01
+De kan jo, som nævnt her, google her, og så skrive videre til oplægsholderne.
+
+00:38:07
+Men ellers så også tak til alle jer, der har lyttet med.
+
+00:38:10
+Og så vil jeg egentlig bare sige god dag til alle sammen.
+
+00:38:15
+En god dag.
+

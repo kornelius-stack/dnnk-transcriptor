@@ -1,0 +1,354 @@
+00:00:09
+Jeg arbejder som adjunkt her på KU med Marina og Emilia.
+
+00:00:16
+Jeg har en blanding dansk og engelsk slides, men jeg har et label, der arbejder på engelsk.
+
+00:00:25
+Jeg skal tale engelsk, fordi det er nemmere for mig og også for jer.
+
+00:00:32
+Så jeg vil flytte til engelsk for at være mere klart.
+
+00:00:37
+Denne præsentation handler om at afprøve potentialen af de toxatlarer eller pressuriserede larer eller pressuriserede sæder.
+
+00:00:48
+Måske kalder vi det på engelsk, hvis der er sådan en ting.
+
+00:00:51
+Og at se, om det kunne fungere på skala.
+
+00:00:55
+Så vi har nogle gode eksempler så vidt af disse løsninger på skala.
+
+00:01:01
+Og vi ved lidt om, hvordan de fungerer, men der er en spørgsmål om, er der nogen form for skalabilitet i disse løsninger?
+
+00:01:08
+Så vi tager fx Lelgaards Å.
+
+00:01:13
+Det, jeg vil prøve at dække i denne presentation, er lidt om casen.
+
+00:01:21
+Hvor meget af denne område er imperviøs?
+
+00:01:24
+Af den imperviøsenhed, hvor meget er byggepladsen?
+
+00:01:27
+Og hvis vi tager de byggepladser, kan vi komme næsten til at møde klimaadaptationen af en 30% afskæring af imperviøse områder, og så se på specifikationerne af nogle af de rufter og prioriteres i termer af, hvad deres egenskab er og deres fysiske karakteristikker.
+
+00:01:55
+Det her er de sevne cloudburst catchments her i København.
+
+00:02:01
+Her kan man se, at der er en sammenlignelse af de områder af hver af dem.
+
+00:02:06
+Det er næsten 10.000 hektar i totale område.
+
+00:02:10
+I vores tilfælde skal vi se på Lelgaards Å, for det er et godt eksempel, hvor vi har mange forskellige landbrug.
+
+00:02:22
+Det er også her, vi er.
+
+00:02:23
+Det er centralt, og det gør, at vi har mere end 10 % af hele området.
+
+00:02:30
+Så det er området, vi ser på, når vi skal skære op.
+
+00:02:35
+Vi har allerede hørt om nogle af de eksempler på Lundtopsgade.
+
+00:02:42
+Vi har set, hvor godt det kan arbejde der, de pressuriserede sæder.
+
+00:02:50
+Men det er et idealiseret eksempel, hvor vi har større røgtopper og mange grønne områder.
+
+00:02:55
+Så vi vil se, om det kan blive skabt til hele Lillegard Zoo.
+
+00:03:01
+Og så måske endda til hele Cloudburst Management.
+
+00:03:08
+Så denne site er 2,2 hektar, og Lillegard Zoo er over 1.000 hektar.
+
+00:03:16
+Og hvad med 10.000 hektar?
+
+00:03:20
+Vi skal se, hvordan det kan se ud.
+
+00:03:24
+Det er en spatial analysestudie.
+
+00:03:28
+Vi har brug for landskabet data.
+
+00:03:31
+Det er fra Data for Sunnings, Bethesdals data.
+
+00:03:36
+De har dette data tilgængeligt på deres hjemmeside for fri.
+
+00:03:44
+De kommer ud med et nyt dataset hver år.
+
+00:03:47
+De sidste par år har AI inkorporeret.
+
+00:03:50
+I de sidste par år kan man se, at det er et neural network-model.
+
+00:04:03
+Det er denne her, og den bryder ned hele landskabet i Danmark i de 14 forskellige kategorier.
+
+00:04:10
+Den har en meget høj resolution på 10 cm.
+
+00:04:15
+Vi tog en sejr på det data for catchment.
+
+00:04:20
+Her kan man se, at det totalt er omkring to tredje imperviøse.
+
+00:04:28
+Det er at tage de 14 kategorier og tilføje dem til fire.
+
+00:04:33
+Der er ikke mange af dem i byen.
+
+00:04:37
+Det kan være grænser eller et grønhus.
+
+00:04:40
+Så vi mødte det ind i røftopkategorien.
+
+00:04:45
+Hvis vi sætter det i disse fire kategorier af bygninger, bevægte områder, imperviøse områder og vand, så ender vi med omkring to tredje imperviøsenheden i Lillelgratzo catchment.
+
+00:04:58
+Og 27,1 procent af det er bygninger og røftopper.
+
+00:05:03
+Vi tog også en sejr på egenhedsdata fra Data for Dealer.
+
+00:05:14
+Det her er lidt sværere data at få, fordi du har GDPR, og du er nødt til at beskrive nogle aftaler.
+
+00:05:20
+Det er lidt nemmere, hvis du ikke har brug for specifikke egenhændere, men selvfølgelig at få den kategori af egenhændere.
+
+00:05:26
+Ja, du er nødt til at beskrive nogle aftaler, men vi fik den data til holdning, og vi brød den ned i disse kategorier, så du kan se private firmaer, forskellige regeringer, kooperativt hus og den sociale husbildning.
+
+00:05:45
+Så det vil være, som Lundtoftgall vil være, den sociale husbildning.
+
+00:05:51
+Vi kan se, at procenten af den totale område, for eksempel, er 4 procent.
+
+00:05:58
+Så er det en afslutning af områderne.
+
+00:06:01
+Hvis vi ser på området, der er omfattet af bygninger på de forskellige egenhedskategorier, som I kan se her, og hvis vi tilføjer dem alle sammen, der tilføjer 293 hektar, eller 27 % af den totale catchmentområde er bygninger.
+
+00:06:22
+Så en stor del af catchmentområdet er bygninger.
+
+00:06:30
+Så det her ser vi på, hvis vi tager den site, Lundtoftgall, hvor meget af det er imperviøst?
+
+00:06:46
+Hvad vil det tage til at møde klimaadaptationen?
+
+00:06:48
+Og hvor meget vil det koste?
+
+00:06:52
+Hvis vi tager AKB Lundtoftgall, så er det 2,2 hektar.
+
+00:06:58
+Af det er det omkring 1,1 hektar imperviøst.
+
+00:07:04
+Klimaadaptationen vil sige, at vi skal afslutte 30 % af det.
+
+00:07:12
+til at betale for fremtidige regner, som vil være større.
+
+00:07:15
+Så det vil være 0,3 hektar der.
+
+00:07:18
+Så længe vi tror, at kosten af det vil være omkring 10 millioner.
+
+00:07:25
+Hvis vi ser på at skære det op til hele catchment, omkring 1.000 hektar, og vi tilføjer alle de imperviøse områder, som skal være omkring 700 hektar, Det betyder, at vi er nødt til at afslutte med at bruge de pressuriserede lager, for eksempel 30%.
+
+00:07:49
+Det betyder, at vi er nødt til at afslutte 212 hektar.
+
+00:07:54
+Hvis vi bare multiplerer der, kunne vi sige, at det vil koste ca.
+
+00:08:00
+2 milliarder.
+
+00:08:04
+Og så ved vi ikke på den større skala, om vi prøver at skale det op, fordi tingene bliver lidt forskellige i de forskellige holdninger, men det ville være som at multiplere med 10.
+
+00:08:13
+Så jeg tror, at vores spørgsmål for diskussionen er, hvad vi kan forlænge det til.
+
+00:08:21
+Så det her 1,9 milliarder, hvis det er, hvad det koster at bruge pressuriserede sæder, hvad er den equivalente i, fx en grøn infrastruktur, til at afslutte denne 30-procentige imperviøse område.
+
+00:08:35
+Det kan vi måske diskutere.
+
+00:08:39
+Ja.
+
+00:08:43
+Jeg tror, at Marina talte om et 10-årigt.
+
+00:08:53
+Det kunne være de forskellige niveauer, som en overfløjelse eller at prøve at evaporere 10 mm eller hvad det er, men ja, 10 år.
+
+00:09:05
+Hvor mange røftopper er nødt til at møde dette mål?
+
+00:09:13
+Hvis vi kan manage forløbet fra 30 % af de imperviøse områder, så var det 212 hektar.
+
+00:09:22
+Det var ca.
+
+00:09:23
+700 hektar imperviøse.
+
+00:09:26
+til at afslutte 30 % af det.
+
+00:09:28
+Det ville være 212 hektar med pressuriseret lar.
+
+00:09:37
+Tilbage til dette tablet.
+
+00:09:39
+Hvis vi tilføjer alle bygningsområderne fra alle de forskellige egenhedskategorier, får vi 292.
+
+00:09:48
+Det betyder, at vi virkelig bruger omkring 70 % af de tilfældige luftbåder, Disconnected using pressurized LAR, for example, to meet these targets.
+
+00:10:02
+It shows that we couldn't just target one of these ownerships.
+
+00:10:05
+For example, the social housing association, even if we got all of the social housing buildings, that would give us 14.3 hectares.
+
+00:10:16
+It would be significant, maybe 7% of the total that we would need.
+
+00:10:21
+Men vi er nødt til at få en stor del af de større også.
+
+00:10:27
+For eksempel Kooperative Housing Association.
+
+00:10:29
+Det er 80 hektar i holdet.
+
+00:10:32
+Så vi er nødt til at tilføje de større også.
+
+00:10:38
+Ja, så omkring 70 % af bygningerne i totalt.
+
+00:10:44
+Så vi er nødt til at tilføje de fleste af de forskellige typer af bygninger.
+
+00:10:50
+Den her spørgsmål handler om, om alle luftbåder er tilgængelige for at bruge pressuriseret lar.
+
+00:10:58
+Det var noget arbejde, som nogle af studerende i vores departement begyndte i forrige år.
+
+00:11:05
+De byggede en GIS-model, der kiggede på forskellige kriterier for luftbåder.
+
+00:11:10
+Hvor det slås, hvis det er til en grøn område.
+
+00:11:14
+Hvor langt er den grønne område fra luftbåden?
+
+00:11:19
+Og hvad er ratioen fra luften til det grønne område?
+
+00:11:23
+Det hænger selvfølgelig på, hvilke parametre man plugger i modellen.
+
+00:11:28
+Men baseret på en model som denne, besluttede de, at omkring 30 procent, måske lidt mindre eller mere, hænger på området, vil være forståeligt til brug med Truksatlar.
+
+00:11:46
+Så det ville være...
+
+00:11:49
+et røvskab, der sidder foran et grønt område.
+
+00:11:53
+Det grønne område er ikke for langt væk, og der er en god ratio mellem de to.
+
+00:11:57
+Men det ser ikke ud til specifikationer i det grønne område, som f.eks.
+
+00:12:02
+tændelighed og så videre.
+
+00:12:08
+Okay.
+
+00:12:09
+Ja, 30 % kunne være forståelige.
+
+00:12:13
+Og så måske de andre er mulige, men lidt sværere.
+
+00:12:21
+Vi har lige haft en diskussion om, hvem der virkelig kunne implementere de her løsninger, og hvordan de skulle betale for det.
+
+00:12:34
+Hvem ville det være?
+
+00:12:36
+Hvilke incentiver er der?
+
+00:12:37
+Hvordan skulle de betale for det?
+
+00:12:40
+Har vi nogle eksempler på det?
+
+00:12:43
+Måske kan vi gå tilbage til det i diskussionen, hvis vi har nogle eksempler.
+
+00:12:50
+hvor det kunne eller har været gjort, og hvad incentivene ville være.
+
+00:12:55
+Men jeg tror, at det er alt jeg har til nu om upscaling, men vi kan gå tilbage til hvilke af disse, som du vil snakke om i detalje, og du er altid fri til at e-mail mig efter to eller tre spørgsmål.
+
+00:13:10
+Tak.
+

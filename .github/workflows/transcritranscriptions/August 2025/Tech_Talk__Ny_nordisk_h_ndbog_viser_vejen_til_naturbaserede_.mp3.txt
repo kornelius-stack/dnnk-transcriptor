@@ -1,0 +1,681 @@
+00:00:15
+På vegne af DNNK vil jeg gerne byde velkommen til dagens Tech Talk.
+
+00:00:20
+I teknikken sidder Morten Halling, og jeg, Christoffer Sindby, er dagens vært.
+
+00:00:24
+For god ordens skyld skal jeg sige, at Tech Talk'en bliver optillet og lagt på DNNK's hjemmeside i løbet af en uges tid.
+
+00:00:32
+For at blive lidt mere praktiske, så skal I huske, at I kan stille spørgsmål undervejs i Tech Talk, og så vil jeg stille dem i slutningen af dagens Tech Talk.
+
+00:00:41
+Dagens Tech Talk er med Elvira Borgmann, som vil præsentere en ny nordisk håndbog for naturbaserede løsninger.
+
+00:00:51
+Velkommen til, Elvia, og tak, fordi du ville stille op.
+
+00:00:54
+Og hermed så ordet dit.
+
+00:00:56
+Mange tak, og jeg siger tusind tak for invitationen.
+
+00:01:01
+Og tak til alle jer, der har dukket op og gerne ville bruge 45 minutter her sammen med mig i forårspausen.
+
+00:01:11
+Jeg glæder mig meget til vores diskussion senere og at se, hvem I er.
+
+00:01:17
+Men til at starte med, så bliver det mig, der taler lidt, og jeg er som sagt Elvira Borgmann.
+
+00:01:23
+Jeg arbejder som konsulent for Norion Consult.
+
+00:01:27
+Jeg fortæller lidt mere om os lige om lidt.
+
+00:01:29
+Jeg arbejder med natur og klima primært, og krydsfeltet mellem de to, og hvordan vi kan skabe synergier løsninger der kan være gode for både biodiversitet og klima, og der er naturbaserede løsninger meget relevante i den kontekst.
+
+00:01:50
+I dag skal vi tale om en ny nordisk håndbog, og jeg kommer til at introducere for det første naturbaserede løsninger som begreb ret generelt.
+
+00:02:03
+Det er det sikkert nogle af jer der kender siden før, men sådan at alle er med, på de definitioner vi bruger i dag.
+
+00:02:10
+Og så kommer jeg til at introducere den her håndbog, hvordan det projekt har været med at udvikle den, baggrunden for hvorfor den kom til verden, og hvordan den er blevet udviklet.
+
+00:02:24
+Og så kigger vi selvfølgelig sammen på den her digitale håndbog til sidst, og hvordan man kan navigere i den, hvordan den kan bruges.
+
+00:02:35
+Nu har vi sagt primært med fokus på på kommunalpraksis og selvfølgelig med fokus på klimatilpasning, fordi vi er her i DNNK i dag.
+
+00:02:45
+Så ja, velkommen til.
+
+00:02:47
+Et par ord først om Norion Consult, som er her, hvor jeg arbejder som konsulent.
+
+00:02:56
+Vi er omkring 40 medarbejdere, og vi arbejder meget bredt med bæredygtighed.
+
+00:03:03
+Vi skaber bæredygtig omstilling fra tanke til handling.
+
+00:03:08
+Vi arbejder med det fra alle mulige forskellige vinkler.
+
+00:03:12
+Det betyder, at vi udover Natur og Klima, som jeg arbejder med, så har vi en del dygtige kollegaer, der arbejder med cirkulær økonomi.
+
+00:03:21
+Nogen, der arbejder med socialhverdygtighed.
+
+00:03:24
+Nogen, der arbejder med forretningsudvikling og LCA'er, også klimaberegninger.
+
+00:03:32
+Så vi spænder ret bredt i vores områder.
+
+00:03:36
+Vi er en 30 år gammel.
+
+00:03:38
+virksomhed, som tidligere hed planmiljø, hvis der er nogen af jer, der måske på noget tidspunkt er kommet i kontakt med dem.
+
+00:03:46
+Så skiftede vi navn her for to år siden, og vi sidder nu i Nordvestkvarteret i København og har vores firma her.
+
+00:03:56
+Og så er vi også leverandør til Ski-aftalen for grønne ydelser og yderrådgivning til kommuner og regioner derigennem.
+
+00:04:06
+Som sagt, så vil jeg starte med en kort introduktion til naturbaserede løsninger som begreb.
+
+00:04:14
+Og igen, jeg ved godt, at der er mange af jer, der sikkert sidder og arbejder med det her til daglig og er meget dybt inde i det begreb.
+
+00:04:26
+Og måske også nogen, hvor det er lidt nyt.
+
+00:04:30
+Så lad os kigge på nogle definitioner og begreber sammen.
+
+00:04:36
+Hvad er naturbaserede løsninger?
+
+00:04:38
+Jeg starter med at introducere den her definition fra IUCN, hvor de har defineret det som, at naturbaserede løsninger er tiltag for at beskytte, bæredygtigt forvalde og genoprette naturlige eller modificerede økosystemer, sådan at de håndterer samfundsmæssige udfordringer effektivt og adaptivt og giver fordele for mennesker og biodiversitet.
+
+00:05:06
+Så bare for at lave nogle nedslag her, så lægger de vigt med på både det her med at naturbaserede løsninger, det kan være noget der beskytter, det kan være forvaltningsmåder, eller det kan være genopretning.
+
+00:05:23
+Og det kan være både naturlige eller modificerede økosystemer, så det kan også være produktionshandskaber for eksempel, der for eksempel bliver genoprettet.
+
+00:05:36
+Det skal være effektivt og det skal være adaptivt.
+
+00:05:41
+Det vender vi tilbage til.
+
+00:05:42
+Og give fordele for både mennesker og biodiversitet.
+
+00:05:47
+Så det er jo rigtig meget tillid, man sætter til de her naturbaserede løsninger.
+
+00:05:51
+De skal kunne rigtig meget.
+
+00:05:54
+Og de skal også kunne håndtere det, som de kalder for samfundsmæssige udfordringer.
+
+00:06:01
+Og hvad er det nu, de her samfundsmæssige udfordringer er?
+
+00:06:05
+Det kan vi se i den her oversigt, det er igen IUCN, der har lavet den her figur, hvor de samfundsmæssige udfordringer er de her syv, der er på række herude.
+
+00:06:20
+Så det er klimaforandringer, altså afbydning og tilpasning af klimaforandringer, som jo er det, vi fokuserer på i dag primært.
+
+00:06:33
+Det er også noget med risikohåndtering, der er også økonomisk og social udvikling, menneskeligt helbred, fødevaresikkerhed, vandsikkerhed og så miljønedbrydning eller miljøproblemer generelt og biodiversitet, biodiversitetstab.
+
+00:06:57
+Så den her figur viser rigtig fint hvordan hvordan man tænker naturbaserede løsninger, at det er de her forskellige slags måder, man kan gå til det på.
+
+00:07:07
+Det kan være genopretning, det kan være forvaltning, det kan være beskyttelse, som så går ind og adresserer specifikt et problem, man har, og som skal føre til både biodiversitetsgevinst og gevinst for mennesker.
+
+00:07:29
+nogle principper, der er blevet opstillet for naturbaserede løsninger, som også stammer fra den her globale standard, som IUCN har lavet for naturbaserede løsninger.
+
+00:07:43
+Og den tænker jeg også, at jeg hurtigt vil gennemgå, fordi de er også en rigtig fin baggrund til den her håndbog, og ligesom noget, som vi har bruget med os hele tiden i udviklingen er den.
+
+00:07:57
+Så for det første, er naturbaserede løsninger noget, der skal resultere i nettogevinst for biodiversitet og for økosystemer.
+
+00:08:07
+Det vil sige, at der er altid positive påvirkninger på biodiversitet i naturbaserede løsninger.
+
+00:08:16
+Når man designer naturbaserede løsninger, så tager man hensyn til skaler.
+
+00:08:22
+Det er lokale løsninger typisk, de kan også være store.
+
+00:08:27
+Men det er lokale løsninger, som også tager hensyn til, hvad der sker på den anden side af kommunegrænsen, når man så implementerer den her løsning.
+
+00:08:36
+Eller i et andet land, hvis der er nogle spilovereffekter for eksempel.
+
+00:08:42
+De skal være økonomisk levedygtige, så ud over at de er miljømæssigt og socialt bæredygtige, så skal de kunne betale sig økonomisk over tid.
+
+00:08:58
+igen effektivt adresserer de her samfundsmæssige udfordringer.
+
+00:09:03
+Så man starter med at definere problemet eller den samfundsmæssige udfordring.
+
+00:09:09
+Hvad er det for et problem, vi gerne vil løse?
+
+00:09:11
+Og så kigger vi på, hvilke naturbaserede løsninger, der kan adressere det.
+
+00:09:16
+Så det er den rækkefølge, det typisk sker i.
+
+00:09:22
+Der er otte principper i alt, så nu har vi kigget på de første fire.
+
+00:09:26
+Her kommer fire mere.
+
+00:09:28
+Naturbaserede løsninger de forvaltes adaptivt, at vi monitorerer de løsninger der bliver implementeret, vi samler stakeholders igen og ser hvordan gik den der løsning, hvad var der er gode effekter, hvad var der er mindre gode effekter, hvordan tilpasser vi forvaltningen fremover eller den næste løsning, sådan at det kan blive bedre.
+
+00:09:58
+de skal integreres i en passende juridisk kontekst.
+
+00:10:03
+Det kan jo betyde mange ting, men det skal i hvert fald naturforsøgerløsningen skal kunne indgå i den lovgivning, vi har og i den juridiske kontekst, vi har.
+
+00:10:18
+Og det er jo det, som den her håndbog, som jeg præsenterer om lidt, vil tale rigtig meget ind i, at der allerede er En masse eksempler på policy, som kan understøtte naturbaserede løsninger Naturbaserede løsninger er baseret på inkluderende og gennemsigtige beslutningsprocesser Det ved jeg også, der er rigtig mange ejere derude, der sidder med til dagligt med forskellige former for aktørinddragelse og jordeejere processer Det er også en rigtig stor udvikling en del af naturbaserede løsninger.
+
+00:10:59
+Og så til sidst, at de afbalancerer trade-offs over tid og sted.
+
+00:11:05
+Så det vil sige, det er både det her med, at man er bevidst om eventuelle spil og overfængter til andre lande eller andre steder, men også over tid, hvad er der, hvis der er afregninger mellem klima- og biodiversitetstiltag for eksempel, hvad er der for nogle trade-offs vi kigger ind i?
+
+00:11:28
+Så det var en lidt teoretisk gennemgang men nu springer vi hurtigt videre til den her nordiske håndbog og den er blevet udviklet igennem et projekt som hedder Advice og i Advice så har vi stræbet efter at lave råd til policyudvikling for at implementere, mainstreame og skalere naturbaserede løsninger i det nordiske land.
+
+00:12:00
+Så det er igen meget policyrettet.
+
+00:12:05
+Det vil sige, at vi har kigget på den lovgivning og de politiske værktøjer og de guides, der findes derude, som kan understøtte implementering af naturbaserede løsninger.
+
+00:12:22
+Og målet var at udvikle en digital guide, en digital håndbog, som skulle være brugvindelig og let tilgængelig for nordiske aktører på forskellige niveauer.
+
+00:12:40
+Og i den her håndbog er der råd til, hvordan de nordiske lande kan udvikle politikker, der inkluderer og understøtter naturbaserede løsninger.
+
+00:12:52
+Så det baserer sig på eksempler, som vi har fundet Og så er der råd til, hvordan man kan udvikle den her type politikker eller guides eller lovgivning Og det er rettet mod både lokalt niveau, som jeg nævnte tidligere, som er fokus i dag Kommuner, men også regionalt og nationalt niveau i håndbogen.
+
+00:13:24
+Så der er forskellige indgangsvinkler, man kan tage der.
+
+00:13:27
+Og det var også et mål med håndbogen, at den skulle kunne understøtte implementering af naturbaserede løsninger, som føder ind i de internationale mål og forpligtelser.
+
+00:13:41
+Der er f.eks.
+
+00:13:42
+Paris-aftalen og Kunning Montreal-aftalen for at forbyde asititet.
+
+00:13:48
+Vi har været et nordisk projektkonsortium, som har lavet den her håndbog Niba fra Norge, og også Norion fra Danmark.
+
+00:13:57
+Islands universitet i Finland havde vi VTT, og i Sverige en konsulentvirksomhed, som hedder Encykon.
+
+00:14:07
+Og for at udvikle den her håndbog, så har vi kigget på, hvad der allerede var af policies derude, i alle de nordiske lande, som understøtter naturbaserede løsninger.
+
+00:14:23
+Vi har lavet en analyse af, hvad der er af behov, hvad der er af barriere for at både udvikle de her politier, men også bruge dem.
+
+00:14:35
+Og også fokuseret rigtig meget på, hvad er der af muliggørende faktorer, der gør, at man kan bruge dem, og der gør, at de faktisk fører til implementering af naturbaserede løsninger.
+
+00:14:47
+Og gennem det hele har vi haft en følgegruppe med nordiske beslutningstagere og aktører fra forskellige niveauer i samfundet.
+
+00:14:57
+Så vi har prøvet at inkludere rigtig mange aktører igennem det her forløb for at få feedback på både indholdet i håndbogen, men også hvordan den skulle se ud.
+
+00:15:10
+Så det vil vi også gerne høre.
+
+00:15:16
+Mere om stadig, hvordan I oplever den efterfølgende, når I kigger på den i dag.
+
+00:15:22
+Nu har jeg jo talt rigtig meget om det her med, at håndbogen omhandler policy for naturbaserede løsninger, og det er jo igen sikkert flere af jer, der arbejder med det til daglig, og vi arbejder jo alle sammen i en politisk kontekst, men hvad er der af konkrete eksempler, der ligesom kan vise at de understøtter naturbaserede løsninger.
+
+00:15:48
+Jeg tænkte, at jeg ville vise nogle eksempler på policy, som vi har inkluderet.
+
+00:15:53
+Og nu tager jeg eksempler fra Danmark, fordi vi arbejder i en dansk kontekst i dag.
+
+00:15:59
+Så det første er den her guide til naturbaserede kystbeskyttelse, som Kysterektoratet har udviklet, hvor de lægger fokus på kystbeskyttelsestrategier, hvor man kan bruge naturbaserede løsninger.
+
+00:16:15
+Så det er ligesom et mere guide baseret policy instrument Det næste er tilskudsordningerne for at tage lembrosurer ud af en drift som vi hører rigtig meget om nu i forbindelse med den grønne træpart og som nogen af os sikkert arbejder meget med Og det her er et eksempel på noget policy som jo ikke i tale sættes som naturbaserede løsninger nødvendigvis, og der er jo nok heller ikke alle indsat sig under det her, som kan tælle som naturbaserede løsninger, men mange af dem gør, så derfor har vi taget den med som et økonomisk instrument.
+
+00:17:00
+Og så til sidst en klimahandelplan fra Odense Kommune, som har skrevet i sin hovedretning for den her plan, at naturbaserede løsninger skal være en del af Odense Kommunes klimaindsats, og en del af, hvordan de skal nå målsætningen om klimaneutralitet 32.
+
+00:17:25
+Og i 2023 i hvert fald, så var det omkring en fjerde del af alle danske kommunes klimahandlingsplan, der indholdt noget om naturbaserede løsninger.
+
+00:17:41
+Så der er jo rigtig mange kommuner derude, der prøver at have en politisk ophæng for det her, og nogle ambitioner om, at det vil man gerne implementere.
+
+00:17:54
+Og så er der selvfølgelig også mange kommuner, der bruger naturbaserede løsninger, uden at nødvendigvis skrive det i Mahalleplanen.
+
+00:18:01
+Jeg nævnte jo, at vi kiggede ind i, hvad der var af barriere og muliggørende faktorer for de her policyinstrumenter, Og jeg tænker, at vi kigger en lille smule på dem.
+
+00:18:16
+Først barriere.
+
+00:18:20
+Finansiering kommer næsten altid til at stå som nummer et i naturprojekter.
+
+00:18:28
+Fordi der er typisk manglende finansiering for naturbaserede løsninger, og primært langsigtet er det, der mangler.
+
+00:18:38
+Der kan også være konflikter mellem lokale og nationale der kan være manglende ressourcer i kommunerne.
+
+00:18:46
+Og totalt så taler vi ikke kun om finansielle ressourcer, men også om manglende viden, og også om principperne bag naturbaserede løsninger, og også om, hvordan man evaluerer de her løsninger for at se, om de nu har opnået det, vi gerne vil, og om de har opnået det samme, eller om man har fået Noget mere synergi og flergevinster ud af dem, som en tilsvarende grå løsning vil have.
+
+00:19:12
+På den anden side har vi de muliggørende faktorer.
+
+00:19:18
+Det er meget overordnet, men der er nok ikke nogen, der bliver overrasket over at høre, at samarbejde spiller en rigtig stor rolle i det her kortlægning af muligheder for naturbaserede løsninger over kommunegrænserne.
+
+00:19:35
+Interministerielt netværk.
+
+00:19:39
+Som et eksempel har vi taskforsen for udtagning af landbrugsjord i Danmark, hvor man ser til, at der er nogle grupper, der taler sammen på tværs.
+
+00:19:51
+Planlægning.
+
+00:19:54
+At der er en lovgivning, der tillader naturbaserede løsninger er selvfølgelig super vigtigt, og at der er politikker med et udtalt mål, Det behøver ikke være et udtalt mål for naturbaserede løsninger, men det kan være for multifunktionalitet eller rekreation allerede der, så hjælper det.
+
+00:20:14
+Og så selvfølgelig involvering af viden tidligt i projekten og pilotprojekter, der kan synliggøre, hvad det er naturbaserede løsninger kan, og hvordan de kan implementeres.
+
+00:20:27
+Nu er det tid til, at vi kigger på den her digitale håndbog sammen, Så jeg skifter lige over til browseren Og håndbogen kan man finde på nbspolicy.org Og den er lige nu tilgængelig på engelsk Så alt indhold findes på engelsk Men jeg må sige, at jeg har prøvet lidt og hvis man bruger Google Chrome og oversæt til dansk Og jeg synes faktisk at det fungerer helt okay Der må man selvfølgelig være en lille smule kildekritisk, fordi det ikke er en officiel oversættelse, men jeg synes faktisk, at hvis man synes, at det er meget nemmere at gå til på dansk, så kan man godt gøre det.
+
+00:21:14
+Lige til at starte med, så vil jeg gerne vise, at det her er forsiden fra hele håndbogen.
+
+00:21:24
+Her under Learn More, der kan man kigge på naturbaserede løsninger, hvis man vil have en friske op, hvad det er som begreb Og igen, jeg sagde, at målet med projektet var at understøtte det internationale mål, så det kan man også læse mere om her, hvordan naturbaserede løsninger kan gøre det Men hovedindholdet, det er en masse råd, som er blevet udviklet som resultat af det her projekt.
+
+00:22:04
+Og man kan finde frem til de her råd på forskellige måder.
+
+00:22:08
+Man kan filtrere på enten på samfundsudfordringer, som jeg talte om.
+
+00:22:15
+De her otte forskellige.
+
+00:22:18
+Man kan filtrere på typer af policy.
+
+00:22:21
+Og man kan filtrere på forskellige niveauer af styring.
+
+00:22:29
+administrativ niveau, altså jeg tænker at det vi gør nu og det der nok er mest relevant for jer det er at gå ind her på governance levels, i hvert fald hvis man sidder i en kommune og så er der et lille baggrundstekst her, det bruger vi ikke så meget tid på nu og så er der det der hedder lokal, regional og national niveau, så lokal niveau tvær til Så klikker vi inde der Og her kan man se alle de råd, der er blevet udviklet og tilpasset til lokalt niveau Så jeg viser jer lige et råd og hvordan det er bygget op Jeg tænker vi kigger på den her Så står der en lille tekst om, hvordan det går ud på her udenfor.
+
+00:23:31
+Så tænkte jeg, at det lyder interessant for mig.
+
+00:23:54
+Hvis jeg er nogen, der sidder med infrastrukturprojekter i en kommune for eksempel, så kan jeg klikke på den her Og nu taler jeg bare lige om strukturen overordnet her, fordi alt indhold får i mulighed for at gå ind og læse senere Men der er jo en overskrift, og så er der det her, der hedder Specific Advice Og det er ligesom der vi har prøvet at kondensere så meget som muligt Hvad er det, det her handler om?
+
+00:24:28
+Hvad er det der er smart at gøre?
+
+00:24:32
+Hvad er ligesom selve rådet?
+
+00:24:35
+Hvorfor er det godt?
+
+00:24:36
+Så kommer der det her Den her sektion der hedder Good to know Og det er ligesom nogle hovedpoinge der Som er rigtig fine at have med Så der kan man se at Her er et eksempel, at hvis man implementerer nye naturbaserede løsninger, så er der stadig, ældre natur har stadig typisk højere biodiversitetsværdier, så derfor er det altid godt at prioritere beskyttelse af eksisterende natur.
+
+00:25:14
+Så det kan være sådan nogle pointer, som man skal have i minde, bygger på de her principper, som jeg viste før.
+
+00:25:23
+Der er noget kontekst, har vi prøvet at give noget.
+
+00:25:27
+Det kan være lovgivningskontekst.
+
+00:25:28
+Det kan være, hvilke sektorer er det her relevant for.
+
+00:25:34
+Her har vi noget med road construction f.eks.
+
+00:25:39
+Så det er, hvis man vil grave lidt dybere i konteksten.
+
+00:25:47
+Og så kommer vi ned til noget af det, jeg synes er rigtig brugbart og jeg håber at I også kan synes er brugbart det er eksempler og cases og det er der med for alle råd så er der mindst to eksempler fra andre nordiske lande på hvordan det her bruges i praksis så i Norge f.eks.
+
+00:26:15
+så har man et eksempel her om Det der hedder rækkefølgekrav, som er en del af plan- og byggelågen i Norge, som vil sige, at når de skal lave et større infrastrukturprojekt, så kan de skrive i udbytte for det her, at der skal være noget naturgenopretning som del af det her infrastrukturprojekt.
+
+00:26:48
+Og det har man gjort med det her.
+
+00:26:51
+at den blev åbnet op igen som del af at et plejecenter blev bygget.
+
+00:26:58
+Det var ligesom en del af hele det store byggeprojekt.
+
+00:27:03
+At der var en naturbaseret løsning med i det.
+
+00:27:08
+Så det var en af de konkrete cases for det her råd.
+
+00:27:15
+Og så har vi også inkluderet andre links, som handler om det samme tema.
+
+00:27:26
+Det kan være nogle andre værktøjskasser, eller det kan være en rapport, som er interessant på emnet.
+
+00:27:36
+Så det er ikke direkte referencer, men det er noget, der henviser til nogle flere kilder på emnet.
+
+00:27:48
+Og så har vi til sidst, hvordan Lige præcis det her råd kan underbygge de internationale målsætninger, der er Og så er der links til nogle andre sider, hvis man vil læse lignende råd Og så til sidst referencer også Så det er ligesom opbygningen af de her forskellige råd Og der er rigtig mange forskellige, man kan gå ind og læse og forskellige indgange, sådan at man forhåbentlig kan filtrere på det, der er interessant for en selv at lære om Det var den hurtige, hurtige introduktion til håndvogn og jeg håber, at I kan se det som lidt hjælp til selvhjælp, var jeg ved at sige at I selv har lyst til at gå på opdagelse i den her ressource bagefter.
+
+00:28:59
+Så vil jeg gerne åbne op for spørgsmål.
+
+00:29:04
+Tak for interessant gennemgang.
+
+00:29:06
+Der er kommet lidt spørgsmål herude fra os.
+
+00:29:09
+Og husk, I kan alle sammen spørge.
+
+00:29:11
+Jeg tænker også, at hvis der er nogle konkrete ting, I gerne vil dykke ned i, så vil du også gerne vise de dele.
+
+00:29:16
+Der er et spørgsmål her fra Cornelius.
+
+00:29:19
+Har I eksempler i håndbogen på at engagere lokalsamfundet tidligere, og hvordan det kan reducere konflikter eller klagerisiko?
+
+00:29:27
+Ja, der er et råd til det, som handler om engagement af lokalområdet.
+
+00:29:37
+Jeg ved ikke lige, om jeg kan finde frem til det nu, men det findes i hvert fald med.
+
+00:29:44
+Og det er med som underliggende princip til det hele også Nu har jeg fundet noget, jeg viser det lige her Det fik jeg ikke lige nævnt, men vi har også udviklet noget, der hedder crosscutting advice Og det er nogle Noget, der ikke er lige så konkret eksempel, men noget, der handler om råd på tværs af naturbaserede løsningsprojekter generelt.
+
+00:30:25
+Et af de advices hedder Stakeholder Engagement in Collaboration for Nature-Based Solutions.
+
+00:30:32
+Så der er der lidt råd til, hvordan man kan gå til det.
+
+00:30:40
+Og også nogle rigtig gode links til andre projekter, hvor de har arbejdet rigtig meget med det.
+
+00:30:47
+Ja.
+
+00:30:49
+Der kommer et.
+
+00:30:50
+Spørgsmål igen her, så jeg kan vel huske, at jeg hoppede væk fra browseren.
+
+00:30:53
+Lines spørger, har I eksempel på planlægning af naturbaserede løsninger i områder, som er 100 procent privatarvet, men hvor der er et stort behov for klimatilpasning?
+
+00:31:01
+Altså konkrete processer og.
+
+00:31:03
+Muligheder i lovgivningen i Danmark?
+
+00:31:06
+Jeg tror ikke, vi har noget, der fokuserer specifikt på privatarvet i jorden.
+
+00:31:15
+Desværre.
+
+00:31:17
+Men der er i hvert fald inddragelse igen.
+
+00:31:23
+Inddragelse af private jordeejere ved jeg er nævnt nogle forskellige steder.
+
+00:31:30
+Så kommer der et spørgsmål fra Morten Rask.
+
+00:31:35
+Den ligger måske lidt op til den anden.
+
+00:31:37
+Hvordan er planerne for opdateringer?
+
+00:31:39
+Og der tænker jeg lidt, hvis der er ting som man har efterspørg, er det noget der kommer med i?
+
+00:31:44
+Ja, altså det er sådan, at det her på den her håndbåd er del af et arbejdsprogram for Nordisk Ministerråd, som løb ind til sidste år i virkeligheden, og der har ikke været forlængelse af det, så der er ikke nogen planer for opdateringer lige nu, desværre.
+
+00:32:07
+Så lige nu ligger ressourcen, som den er, og vi håber, at den kan bruges i den form.
+
+00:32:14
+Den er.
+
+00:32:16
+Det er jo samme.
+
+00:32:20
+Svar, præcis.
+
+00:32:23
+Og vi ved også, at det er jo en risiko, vi har taget.
+
+00:32:30
+Vi jo inkluderer alle de her links til forskellige ressourcer og til forskellig lovgivning osv.
+
+00:32:39
+Men samtidig var det Det gjorde vi bevidst, fordi der er så mange ressourcer derude, og vi ville gerne have, at det her kunne være et sted, hvor man kunne komme til at også finde hen til andre gode ressourcer, selvom det så over tid bliver uddateret.
+
+00:32:57
+Så har jeg et.
+
+00:33:02
+Spørgsmål, som er lidt overordnet.
+
+00:33:04
+De råd, der ligger i den, hvem er det mest af alt, den er henvendt til?
+
+00:33:08
+Er det til byplanlæggerne, eller forsyningerne, eller generelt hele vejen henover?
+
+00:33:13
+Eller hvordan ser du.
+
+00:33:14
+På det?
+
+00:33:16
+Altså, vi har defineret vores målgruppe som beslutningstager.
+
+00:33:22
+Og i virkeligheden er det jo en policy håndbog, så i en policykontekst vil det være dem, der har en eller anden form for indflydelse på på politikken og hvordan politikken ser ud eller formuleres.
+
+00:33:39
+Og det er jo i en eller anden grad os alle sammen, så selvom man ikke sidder som politiker, men sidder som byplanlægger eller som naturmedarbejder i en kommune, så ved vi jo, at der er rigtig meget vekselvirkning i, at man kan stadig have indflydelse på Hvis man udvikler naturbaserede projekter, og det går godt, så kan det være, at det er noget, man har lyst til at skrive med i den næste strategi.
+
+00:34:11
+Beslutningstagere har været vores primære målgruppe, men vi har igen haft rigtig mange forskellige slags aktører indover, undervejs.
+
+00:34:24
+Også forvaltere og dem, der arbejder mere, Ude i felten, som også har udpeget nogle dele af dem, som de synes er relevante.
+
+00:34:39
+Der kommer et spørgsmål.
+
+00:34:43
+Her fra Peter Doms.
+
+00:34:46
+Hvis man står overfor et byudviklingsprojekt, hvor man fra kommunens side ønsker en udbredet naturbaseret løsning, hvordan vil du så anbefale, at man bruger håndbogen?
+
+00:34:56
+Ja.
+
+00:34:59
+Altså så vil jeg anbefale at man identificerer de samfundsmæssige udfordringer som man synes er mest relevante Nu deler jeg lige igen her Og så går ind på vores forside her Og så går ind på samfundsudfordringer og så finder ud af Hvad er det, det her byudviklingsprojekt skal lægge mest vigt på?
+
+00:35:36
+Selvfølgelig vil man gerne have multifunktionelt.
+
+00:35:40
+Typisk at det skal kunne mange ting.
+
+00:35:43
+Men hvad fokuserer vi mest på?
+
+00:35:46
+Og så kan det være, at man finder frem til, at det er klimatilpasning, som vi rigtig godt kunne tænke os.
+
+00:35:55
+Så vil jeg se under klimatilpasning, Der er igen en baggrundstekst, hvad der er af forskellige råd indenunder her Og så bare at starte med at læse overskriftene Collaborate with research institutions, er der, kunne det være en idé at tage fat i nogle forskere i forhold til det her Hvad for nogle interdisciplinære netværk kan vi sætte gang i osv osv Så ja, det vil jeg sige ville være min tilgang til det.
+
+00:36:38
+Det håber jeg kan svare ellers, så må du lige skrive igen Peter.
+
+00:36:41
+Og I andre skal være velkommen til også at skrive.
+
+00:36:44
+Der er også kommet et spørgsmål om den bliver udført i.
+
+00:36:48
+En trygt udgave.
+
+00:36:51
+Hele håndbogen bliver ikke udført i en trygt udgave, Alle de her baggrundssider, altså de crosscutting advice som jeg fortalte om og alt der ligger som baggrundsinformation på hjemmesiden, det findes i en trykt version på Nordisk Ministerråds hjemmeside og jeg sender et link både til den og til selve håndbogen her lige om lidt i chatten, så de også kan læse den.
+
+00:37:26
+Og der er et.
+
+00:37:27
+Spørgsmål til, hvem har overordnet ejerskabet over håndbogen og ansvar for at holde håndbogen asur og fungerer platformer ind som en dynamisk database, der kan udvikle sig med.
+
+00:37:36
+Nye data og cases?
+
+00:37:40
+Ja, som jeg nævnte tidligere, så er den desværre ikke dynamisk.
+
+00:37:47
+Så den er bedst nu, vil jeg sige.
+
+00:37:51
+Så man vil rigtig gerne bruge den.
+
+00:37:55
+Men det er Niva, som er projektleder, som står for hjemmesiden, og Nordisk Ministerråd, der har ejerskab over selve håndbogen.
+
+00:38:11
+Jeg vil lige sige.
+
+00:38:14
+At der kommer lidt ekstra spørgsmål her på falderæbet.
+
+00:38:19
+Og ellers så vil jeg samtidig lige gøre alle sammen opmærksom på DNNK's klimakalender, og de næste arrangementer, som kommer, I kan orientere jer derinde.
+
+00:38:29
+Det hvor jeg vil også sige, hvis der er nogen af jer, der sidder og lytter med, som har nogle emner eller noget, I gerne vil bringe op eller dele af viden, så endelig række ud til en af os netværksmedarbejdere i DNNK, så vi kan få det planlagt og lagt ind.
+
+00:38:46
+Og nu kan jeg se, at håndbogen er blevet delt, så I alle sammen kan gå ind og hente den inde i chatten.
+
+00:38:55
+Så.
+
+00:39:03
+Er vi bare.
+
+00:39:04
+På vejne af DNNK.
+
+00:39:05
+Tusind tak for dit oplæg og tak til alle jer, som lyttede med.
+
+00:39:10
+Og så vil jeg ønske jer alle sammen en rigtig god.
+
+00:39:12
+Dag.
+
+00:39:17
+Tak for i dag.
+

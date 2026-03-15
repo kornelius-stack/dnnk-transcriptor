@@ -1,0 +1,711 @@
+00:00:07
+Og tak Niels og tak Steffen.
+
+00:00:10
+Det er et fint møde det her.
+
+00:00:11
+Der var nogle kendte ansigter, og jeg er glad for, at jeg kan være med til at holde en keynote og være med til at give et indspil set fra vores perspektiv på SU og fra SU Climate Cluster, som er sådan et relativt nyt initiativ, som vores universitet har etableret.
+
+00:00:29
+Meningen med det er, at vi skal skabe viden til forandring.
+
+00:00:33
+Vi skal ikke kun forske, vi skal også implementere.
+
+00:00:37
+Og sidste del kan jo være lidt svært, når vi både har med forsyningstilskaber at gøre, borgere, coastal users, kommuner, politikere og så fremdeles.
+
+00:00:49
+Og det er jo en, jeg næsten siger, at det er en disciplin i sig selv, når det handler om citizen science og overangrevering.
+
+00:00:56
+Men vi har tur at hoppe ud på den tøtte is, som jeg siger til mine medarbejdere.
+
+00:01:00
+Vi har tur at gøre noget sammen.
+
+00:01:03
+Jeg vil ikke sige ganske få gør, men altså som nogen gør, men hvor jeg tænker, at vi rent faktisk kan lære en masse.
+
+00:01:08
+Viden til forandring, det er sådan et nøgleord derfra, hvor vi kommer.
+
+00:01:12
+Og det er jo fordi, at vi ser et klimaforandring i hastig forandring.
+
+00:01:17
+Vi når nogle nye niveauer.
+
+00:01:18
+Vi ser nogle ekstremer.
+
+00:01:19
+Vi ser vand fra fire sider.
+
+00:01:21
+Vi bliver udfordret som samfund.
+
+00:01:24
+Vi bliver også udfordret videnskabeligt til at forstå de her forandringer og deres konsekvenser.
+
+00:01:30
+Og det er noget af det, vi har fokus på i SDU Timerkloster, eller det vi kalder SCC.
+
+00:01:35
+Og det er det, der har gjort, at vi også stille og roligt nu er vokset over tid.
+
+00:01:40
+Vi var to personer for et par år siden, og nu runder vi næsten 20 på baggrunden af eksterne projekter.
+
+00:01:48
+Både dem, vi genererer inden for vores egne mure i vores portals, men også dem, vi genererer eksternt.
+
+00:01:55
+En af dem er Life-A, som blev nævnt før.
+
+00:01:59
+Det er et spændende projekt, og det har haft en hård fødsel.
+
+00:02:04
+Det er løbet ad gangen af regionen Midtjylland, som har gjort et kæmpe stykke arbejde.
+
+00:02:11
+Så kom der en sundhedsreform, som gjorde, at det lettere og lettere blev tabt på gulvet.
+
+00:02:16
+Så stod vi der og kiggede, hvad vi ville give med fra regionen omkring at overtage det her projekt.
+
+00:02:26
+Og så mødte vi hinanden i møder og sagde, at det prøver vi.
+
+00:02:29
+Det tror vi godt, at vi kan lykkes med.
+
+00:02:32
+Og det samme gjorde os også i Aarhus Kommune.
+
+00:02:35
+Jeg skal lige hilse at sige, at når man kommer fra et universitet, så er det måske ikke altid nemt lige at arbejde sammen med en kommune.
+
+00:02:41
+Så de første mange møder, de gik jo med at boxe lidt med hinanden.
+
+00:02:47
+Hvad gør vi her?
+
+00:02:48
+Hvordan lærer vi af hinanden?
+
+00:02:51
+Hvordan accepterer vi, at vi kommer fra nogle forskellige miljøer?
+
+00:02:55
+Og så egentlig for at få det bedste ud af det.
+
+00:02:58
+Så efter den tredje af flere mødes, så satte vi det sammen med den tredje, og det ville vi gerne.
+
+00:03:03
+Det ville vi gerne, fordi det er spændende at blive skabt.
+
+00:03:06
+Også fordi det er spændende i forhold til implementering, og så ville vi også gerne det, altså ud på den tynde is, vi vil gerne arbejde med nogen, som vi normalt ikke arbejder med.
+
+00:03:15
+Prøve noget nyt.
+
+00:03:16
+Vi vil gerne ud og eksperimentere.
+
+00:03:17
+Så det gjorde vi.
+
+00:03:19
+Så det endte jo med, at Henrik Tejlen, Mekstratdirektøren for Aarhus og undertegnet, Vi satte os sammen, og så fik vi lavet en mulig løsning og en vej for Life Act.
+
+00:03:30
+Nu står vi der, hvor vi har haft kick-off her 1.
+
+00:03:34
+april, og vi er ret motiverede for at skubbe det her i gang.
+
+00:03:38
+Også til gangen for os alle sammen.
+
+00:03:40
+Vi arbejder med 27 kommuner direkte, og vi har 50 ind omkring Life Act, så vi arbejder rent faktisk med halvdelen af danske kommuner og en masse andre aktører.
+
+00:03:52
+Det handler om at arbejde med dem, som skal implementere, og så skal vi lære af dem.
+
+00:03:56
+Og derfor har jeg også skrevet her, at vi skal analysere, vi skal teste, vi skal implementere.
+
+00:04:01
+Og så skal vi igen analysere de implementeringer, som vi fører ud i livet.
+
+00:04:04
+Så det er ret spændende.
+
+00:04:06
+Men jeg vil starte et helt andet sted.
+
+00:04:08
+Fordi det er jo ikke fordi, vi mangler viden, når det kommer til at stige en havniveau.
+
+00:04:11
+Vi har jo en masse rapporter fra FN's klimapanel.
+
+00:04:13
+Jeg har selv taget spidsen på nogle af dem.
+
+00:04:15
+Omkring at det stiger en havniveau.
+
+00:04:16
+Både en 5.
+
+00:04:17
+hovedrapport og en 7.
+
+00:04:18
+hovedrapport.
+
+00:04:19
+Så er der usikkerheder omkring, hvor højt vi skal stå, og til hvilke tidspunkter, og i forhold til hvilken geografi.
+
+00:04:26
+Det er der ingen tvivl om.
+
+00:04:27
+Og nogle gange er vi også uenige i videnskabet, for det er også fint, at vi får en snak om det, i forhold til, hvad er mekanismerne, og hvilke modeller skal vi bruge, og hvor lang tid skal vi kigge ud i tid og sove fremdeles.
+
+00:04:37
+Men, vi er også kommet der nu, hvor der er stigende interesse herhjemme, også for vand fra fire sider, og i stedet så også i forhold til det stigende havniveau.
+
+00:04:45
+Og her, det er ikke bare nogle nationale rapporter, jeg har listet op, der kunne det være rigtig mange flere, men det er bare for at sige, at når det handler om vand, at det udfordrer med de dilemmer, vi står med, altså så er der virkelig stor interesse for det, både på den skabelige side, men også på den internationale side.
+
+00:04:59
+Hvad betyder det for borgerne?
+
+00:05:00
+Hvad kommer det til at koste økonomisk?
+
+00:05:02
+Hvad med vores infrastruktur og så på omdelingen?
+
+00:05:05
+Og det synes jeg er super fint, at vi nu begynder at kunne begynde at kigge ind i nogle af de her effekter og de her nogen gange ret ubehagelige tal, der kommer frem, uden økonomiske skader, hvis ikke vi gør noget.
+
+00:05:16
+Og hvis vi gør noget, så kan vi så begrænse solforarbejdet.
+
+00:05:19
+Det synes jeg er super godt, fordi det var med til at skabe den her diskussion og øge vores vidensniveau, men også skabe den her synlighed og awareness, som er så vigtig for at vi lige præcis lever den her agenda frem.
+
+00:05:32
+Og ikke mindst jo også åbne døren ind til Christiansborg og få politikernes syn på den her produktive træk ind.
+
+00:05:39
+At have en holdning til det, og måske ikke hovedvæk en beslutning omkring, Og så lige et par faktuelle tal fra den seneste IPCC-rapport.
+
+00:05:53
+Det ved vi jo godt, at havniveauet er et sted.
+
+00:05:55
+Der er nogle irreversible processer.
+
+00:05:59
+Et sted omkring 1000 meter global sigt siger måske ikke så meget.
+
+00:06:02
+For jeg viser en figur, som viser store regionale forskelligheder i havvandsændringer over relativ og korte afstande.
+
+00:06:09
+Et sted hurtigere, og så fremdeles.
+
+00:06:14
+Men det vi så har begyndt på i en af vores projekter i SSC, det er jo så også at arbejde med kommuner, som sagt.
+
+00:06:21
+Både i Danmark, men også syd for grænsen.
+
+00:06:24
+Det er sådan en EU Life Act-projekt.
+
+00:06:27
+Og det der jo er hensigten her, det er jo også noget helt overenvolverende.
+
+00:06:32
+Komme ud op og sætte os ud i de respektive kommuner, forskyd et andet.
+
+00:06:36
+Arbejde med deres bygningstræner, deres hjemmebane.
+
+00:06:40
+Læve ud af inddraget borgerne og ligesom lære af dem, i forhold til hvilken videnskab eller hvilke metoder og teknikker passer bedst i de her respektive områder.
+
+00:06:49
+Men inden vi kommer dertil, så er vi også analyseret et andet EU-projekt, vi har, noget omkring havvandsstigningerne ud fra data fra kysthjælpberegning.
+
+00:06:59
+Og det er bare for at sige, at hvis vi skal ud og hjælpe dem i de respektive kommuner, så bliver vi selvfølgelig også nødt til at forstå, hvad det er for nogle forandringer, vi ser i de her givende geografier, hvorfra vi egentlig har data.
+
+00:07:10
+Og det er bare for at sige, at når vi kigger ind i danske forhold, så ser vi altså også en stille og roligt stigende havniveau, endda med en stor variation, både fra årets år, men også fra en lokalitet til en anden.
+
+00:07:33
+Vi nævnte jo før, at det globale er stedet ca.
+
+00:07:35
+1.000 meter siden 1900, men de her data viser egentlig, at når vi bare kigger ind i data fra Athens, så ser vi en stigning på 10 cm over de sidste 5-20 år, og lidt mindre fra forår på så forandring.
+
+00:07:48
+Så selv inden for stor forskel, selv inden for små afstand, er der også store forskel, lige hvordan havet ændrer sig.
+
+00:07:57
+Og der er selvfølgelig variationer over tid, og det er bare for at vise, at når vi bliver ramt af et lavtryk, eller en stille stormflod, Jamen så ser vi nogle variationer, de gør så stort set gældende i den vestlige del af Østersøen.
+
+00:08:11
+Der er sådan entydende tendenser på hvorvidt vi er et sted, eller vi er et andet sted.
+
+00:08:16
+Når det så kommer til oktoberstormfloden tilbage i 2023, så kigger vi også ind og kigger lidt på den hendelse, egentlig bare for at komme op med nogle tal i forhold til beredskab og varsling.
+
+00:08:30
+Det der er interessant, det er jo nu når havet begynder at rejse sig i forbindelse med en stormflod.
+
+00:08:35
+Så er vi lidt ude efter, hvor hurtigt det rejser sig.
+
+00:08:38
+Og det vi kiggede ind i her, det var igen de her lokaliteter fra før.
+
+00:08:41
+Bare for at sige, at når vi nu begynder at få varsler omkring stormfloden, vi ser her, hvor lang tid har vi så at gøre om med, at vi ikke skal smide rundt sandsækket, derhjemme.
+
+00:08:53
+Og her kan vi se, når vi kigger 17 timer før peak, så begynder det at rejse sig rimelig hurtigt havniveauet.
+
+00:09:01
+Og det vil sige, at det giver os et varest omkring, hvor hurtigt skal vi egentlig have vores beredskab i gang.
+
+00:09:05
+Hvor hurtigt skal kommunen være givet til at have sandsækket til rådighed og så fremgående.
+
+00:09:09
+Men der rejser jo så spørgsmålet omkring, hvad skal vi gøre?
+
+00:09:14
+Hvordan skal vi sikre os?
+
+00:09:16
+Hvilke løsninger skal vi tælle ind i, når det kommer til det stigende havniveau?
+
+00:09:20
+Både generelt set, men også i forhold til en stormflod?
+
+00:09:23
+Nu har jeg bare taget nogle forskellige eksempler med her.
+
+00:09:26
+Jeg gav et online oplæg på et tidspunkt, jeg vil sige over et par uger.
+
+00:09:31
+Og så var der en, der var så flink at sende mig en tegning bagefter, og så siger han, Sebastian, her er det kommet en løsning.
+
+00:09:38
+30 millioner diger, hele vejen rundt om landet.
+
+00:09:41
+Det kunne godt være en løsning.
+
+00:09:43
+Jeg spurgte, om jeg havde mistet en eller anden møde i min skede her i sidste uge.
+
+00:09:47
+Så lagde jeg en tvivl om, at for dem, der handler det, For højdegatter handler det jo langt hen ad vejen om stort og beton.
+
+00:09:54
+Og dels i de steder, hvor vi er meget udsat, hvor vi har mobiler, hvor der er forhold.
+
+00:09:58
+Men hvad er så egentlig den løsning, vi alle sammen skal løbe ned?
+
+00:10:02
+Så derfor er det her jo en mulighed.
+
+00:10:04
+Altså i den ekstreme ende.
+
+00:10:06
+Og man kan sige, så er det ham herovre, der er gået nok bare en søm i.
+
+00:10:10
+Ja, det er måske lidt til den anden yderlighed, men et eller andet sted imellem skal vi nok lande.
+
+00:10:16
+Og opticere sig ikke, fordi hvis ikke, vi gør.
+
+00:10:18
+Så ved vi godt, hvad der kommer til at ske, så kommer vi til at serere det her.
+
+00:10:22
+Mange steder rundt omkring Nordstrand.
+
+00:10:26
+Vi kunne kigge over på en af vores andre EU-projekter, hvor der er en åbner med ud.
+
+00:10:33
+Og besigtige den her lokalitet.
+
+00:10:36
+Og så var den her, der lige kom her den anden dag, hvor Højnikke var ude og skabte en synlig omkring af det her stigende havniveau.
+
+00:10:43
+Og hvilket sikringsniveau skal man gå efter her i Nybro?
+
+00:10:48
+i 2075, hvis man gerne vil sikre sig mod en 100 års ændring.
+
+00:10:51
+Det er bare for at sige, at der kommer mere og mere synlighed, der kommer mere og mere awareness omkring lige præcis det, at vi skal handle på baggrund af viden.
+
+00:11:01
+Men hvordan gør vi det?
+
+00:11:03
+Og vi havde den her JP for et stykke tid siden, Charlotte og jeg, hvor vi prøvede på at tænke, at der i hvert fald ikke er der muligheder, og der er ikke noget raketvidenskab i det her.
+
+00:11:12
+Det er bare for at sige, at vi enten bare kan lide os og kunne bruge store løn for tolv, og det har været en mulighed, Det er også en løsning i sig selv.
+
+00:11:20
+Eller vi kan gå ind og se, hvad der er i, når man blandt andet sidder i Svindborg, Hamburg som eksempel.
+
+00:11:28
+Og så er der måske idéer, at vi skal tænke lidt mere strategisk i forhold til tilbagetrækning.
+
+00:11:34
+Skal der afgive noget land til havet, hvis i så fald, hvorhen?
+
+00:11:40
+Hvad bliver omkostningerne af det?
+
+00:11:43
+Så vil jeg bare få sige, at tro hør, kære politikere, Vi skal have en diskussion med Finanskammeraten om, hvilken fremtid det er, vi står og ser for os, når vi nu bevæger os ude i tid.
+
+00:11:56
+Det her er nogle svære diskussioner.
+
+00:11:58
+Det er nogle svære beslutninger, der skal tages.
+
+00:12:00
+Det er der ingen tvivl om.
+
+00:12:02
+Og vi er lidt på hælene, faktisk.
+
+00:12:03
+Som de også siger i ministeriet, er ministeren lidt urolig for sammenhængskraften her i Danmark.
+
+00:12:11
+Han er lidt urolig for, at vi er for sent ude i forhold til alt det her.
+
+00:12:16
+Men et sted er det i hvert fald at tage snakken med hinanden og finde ud af, hvordan kommer vi derfra og så videre ude i tid.
+
+00:12:22
+Og når jeg udser at ude i tid, så tillader jeg mig dels lige at køre lidt tilbage i tid, men også køre frem i tid.
+
+00:12:27
+Fordi når vi kigger på et stilet havniveau, i den globale serie, at vi kører tilbage i tid, så er der sket en masse ting i brutto-serien, altså ikke bare i de sidste, men i de sidste tusinde år.
+
+00:12:36
+Skinerne er blevet varmere i tilnemmeligheden, fastgør også nu havniveauet det sted.
+
+00:12:42
+Det har vi rimelig god evidens for.
+
+00:12:47
+Men det der så også er lidt bekymrende, det er jo når vi så prøver på at bruge fortidens data, de publikationer der er, og prøver ligesom at kigge ud i tid.
+
+00:12:55
+Så er der et studie her fra Science, som godt nok er et eller andet år gammelt, men det fortæller jo egentlig nogenlunde, hvad der for en fremtid vi kommer til at se, når vi nu står ved kystzonen og kigger ud mod det åbne vand.
+
+00:13:11
+For afhængig af hvilket scenarie vi bruger emissionsmæssigt for fremtiden, så giver det væsentlig forskel.
+
+00:13:17
+i hvordan havet det beændrer sig.
+
+00:13:20
+Så den udgangspunkt i, lad os bare kalde det det positive scenarie, hvor vi holder de her emissioner konstant i forhold til 1990-niveauet, så vil vi ud i tid, og læg lige mærke det tidsskalede, vi taler som 1000 år.
+
+00:13:31
+Altså der vil vi bevæge os op mod et stigende havniveau, hvis vi vælger at mærke, vi er på denne niveau, konstant ud i tid.
+
+00:13:38
+Hvis vi nu kigger på de nuværende emissioner, så er det andet forløb, indikerede med den her linje her, der rejser sig ret hurtigt, Man lander på et væsentligt højere niveau.
+
+00:13:51
+Og det vil sige, at vi kan forvælge ude i tid, hvornår det kommer til at ske.
+
+00:13:58
+Igen i forhold til usikkerheder, i forhold til arktis og isafslaget, men også i den forhold her til termofikkelig udbydelse.
+
+00:14:06
+Eller måske den her varmeudbydelse i helvede.
+
+00:14:09
+Og det vil sige, at der ligger en masse usikkerheder her.
+
+00:14:13
+Men det der ikke tvivler om er, det er i hvert fald at helvede kommer til at Det kommer til at rejse sig ude i tid.
+
+00:14:20
+Og det vil sige, mange af de her idylliske kystne købsteder, vi har haft i de sidste 800 år, de bliver udfordret, når vi bare kommer nogle hundrede år ude i tid.
+
+00:14:30
+Og det skal vi være opmærksomme på, sådan en løsning vil det give.
+
+00:14:33
+Både som videnskabsfolk, men også med samfundet.
+
+00:14:38
+Så har jeg taget den her med, og den kigger lidt på det geologiske tidsperspektiv.
+
+00:14:43
+Der er godt nok kun fire nedslagspunkter.
+
+00:14:46
+Og det er jo mængden af CO2 i atmosfæren i forhold til det stigende havniveau.
+
+00:14:50
+Og det vil sige, jo højere koncentrationer, jo mere energi, der er i vores jord-atmosfære-system, jo højere står havet.
+
+00:14:56
+Det er der ingen tvivl om.
+
+00:14:57
+Vi kender fysikken bag det.
+
+00:14:59
+Men lægger vi så den nuværende mængde af drivgaskas CO2 ind i atmosfæren, så kan man godt tillade sig at tænke lidt frem i tid.
+
+00:15:10
+For nu er vi her på baggrunden af nogle tyve mængder, og kigger vi så ud mod 500 ppm, som de forventelig vil ramme i løbet af en overvejning på 25, bliver nu stiger de til ca.
+
+00:15:21
+3,5 herovre.
+
+00:15:23
+Så er der i hvert fald et potentiale til at have, det kan hæve sig ret så markant, hvor vi er i dag ud til 500, dvs.
+
+00:15:34
+der ligger der et potentiale her på 10-15 meter ude i tiden.
+
+00:15:39
+Det er ikke det samme, at det kommer til at ske inden for de næste 5 år og 2 år.
+
+00:15:42
+Det gør det ikke, men vi vil jo opbygge noget 1 af 10, i vores systemer, vi er ved at lægge godt og grundigt kul ind i kakkeloven, til vi kommer til at se de her forandringer.
+
+00:15:52
+Det er bare ikke svært at sige, hvornår det kommer til at ske.
+
+00:15:55
+Og så er der den her, den stammer fra Science igen, som viser tipping points på nogle af de her faktisk gode elevekter, vi har på vores klode i den sidste fleste af verdens historie.
+
+00:16:07
+Vi ved jo godt, at ydeltemperaturen Siden 1850 og frem til i dag ligger den cirka på omkring 1,38.
+
+00:16:18
+Tæt på 1,4, så har vi egentlig over 1,6.
+
+00:16:23
+Det er det bare for at sige, at når vi nu rammer et yderværdi, der ligger inden for båndet omkring Paris-aftalen af en landgrad og to grader, så begynder vi altså også at bevæge os ind i et bælte, hvor vi nu begynder at se nogle tipping points, forventeligt på nogle af de her store elementer, iskabberne.
+
+00:16:39
+Og det vil sige, at indlandsisen, Vestland og Arktis kommer nu ind og ligger i det her temperaturspind mellem 1,5 og 2 grader, hvor vi egentlig faktisk godt kan se et kollaps fra lige præcis de her to iskjolde.
+
+00:16:49
+Hvad betyder det?
+
+00:16:51
+Jamen det betyder forventeligt, at vi godt kan tabe 20% af isens volume frem mod 2300 eller 2350, forhængig af emissioner, temperaturudvikling, isafsmikning og sovepandemien.
+
+00:17:02
+Det her er jo egentlig det ret til bekymrende, og det er jo derfor, at klimatilpasning er så vigtigt, og specielt for et land som os.
+
+00:17:10
+Vi kommer til at se, at de her iskrapper gradvist bliver mindre og mindre i størrelse.
+
+00:17:17
+Hvad betyder det?
+
+00:17:20
+Det havde jeg også skrevet Coastal Juicers ind fra start af.
+
+00:17:24
+Det betyder, at vi skal ud og snakke med dem, det rent faktisk omhandler.
+
+00:17:28
+Her har vi været i Hjernes Strandby i Haderslev i sidste uge.
+
+00:17:32
+Vi havde kigget over på en af de her EU-projekter.
+
+00:17:36
+Det handler om at være ude og lytte til borgerne og se deres udfordringer.
+
+00:17:40
+sammen med kommunen, sammen med forskere.
+
+00:17:43
+Hvad er det rent faktisk, man står med derude?
+
+00:17:46
+Hvad er det for en frustration?
+
+00:17:47
+Hvad er det for nogle løsninger, man ser?
+
+00:17:49
+Hvad er det, der giver benspænd i forhold til overgivningen og svaret om det?
+
+00:17:52
+Fordi det vi jo gerne vil, blandt andet fra Klimaklosteret, det er, at vi vil jo gerne forstå, hvordan vi ændrer det her.
+
+00:18:01
+og det gør vi ved at analysere forholdene, ved at teste og implementere, og derfor kører vi jo en masse projekter i SSC, både med forskere internt på universitetet, men også med andre aktører, for netop har gået at kigge ind i kommuneinvolvering, vi kigger ind i governance og policy, altså prosejlerne på teknologibingene, samtidig med at vi kører nogle lignende center, som ved at kigge ind på andre facetter af lige præcis det her.
+
+00:18:26
+Det er bare for at sige, at vi bliver nødt til at forstå, og de udfordringer, der ligger.
+
+00:18:31
+Vi kørte en kommunikationsprojekt, hvor vi prøvede at sætte fokus på, hvordan formidler vi det her på en måde, så folk rent faktisk kommer til at forstå, hvilke udfordringer, det er, vi står overfor.
+
+00:18:42
+Og så er der det her Life of X, som blev nævnt indledningsvis.
+
+00:18:46
+Og det er jo sådan et barn, vi har adopteret igen fra Region Midt.
+
+00:18:50
+Det er ret fedt.
+
+00:18:51
+For her handler det jo netop om, at vi skal arbejde med landets kommuner, Hvis vi skal ud og arbejde med de her klimakampingsplaner, vi sørger for, at de bliver implementeret, så skal vi gøre det baseret på lignende tilfælde.
+
+00:19:06
+Der er 27 kommuner og en masse aktører, og vi skal arbejde med rigtig mange forskellige tematikker i de forskellige arbejdspakker.
+
+00:19:14
+Både fra hydrologiske problemstillinger til højtemperaturer, til energi og solframdeles.
+
+00:19:24
+Vi glæder os til at komme meget mere i gang med det her.
+
+00:19:26
+Det er Charlotte, som sidder hernede, som har projektleder på det for os, sammen med Anne Rigsum fra Aarhus Kommune.
+
+00:19:33
+Og det bliver spændende.
+
+00:19:35
+Det er et otteårigt projekt, og jeg håber, at vi virkelig kan være med til at gøre en stor forskel derude omkring.
+
+00:19:41
+Man er jo lige så meget lærer af de problematikker, man ser.
+
+00:19:45
+Sidst, når det ikke er mest, så vil jeg bare lige smide den her op.
+
+00:19:50
+Og det er jo fordi, som sagt, vi var i min sted her den anden dag, og vi havde en snak med en toårsjef, og han var lidt impotent med det her.
+
+00:19:56
+Og noget af det, vi synes fremlægges, er det her, hvor vi ser nogle udfordringer, og det er jo egentlig ganske banalt også.
+
+00:20:02
+Det er jo altså klimaet, der bare er et vilkår, vi skal arbejde med.
+
+00:20:06
+Vi bliver simpelthen nødt til at håndtere det på en måde, så det er både til gavn for det politiske miljø, for borgerne, men også for videnskab.
+
+00:20:13
+Der er rigtig mange aktører, vi snakker meget, men hvordan får vi lyst til det her?
+
+00:20:19
+Hvordan laver vi borgerinddragelse?
+
+00:20:21
+Hvordan gør vi det på en hensigtsmæssig måde?
+
+00:20:23
+Både for kommunen, for borgerne, for os alle sammen, for økonomien og så fremdeles.
+
+00:20:29
+Og så er det det.
+
+00:20:31
+Altså, vi skal have en politisk position på lige præcis det her.
+
+00:20:36
+Lige nu er der jo ikke nogen strategi for kystzonen, vi skal nu have.
+
+00:20:41
+Vi kan ikke bare fremlægge det.
+
+00:20:43
+Og så deltager det ikke, når vi kommer til at se et havniveau, der kommer til at stå på 20 møder på den anden side af 21.
+
+00:20:49
+Skal vi bygge her?
+
+00:20:50
+Hvordan skal vi bygge?
+
+00:20:51
+Skal vi bygge dynamisk, så vi rent faktisk kan ændre det på et tidspunkt?
+
+00:20:55
+Eller skal vi bare lade det stille og roligt passere ud i det blå?
+
+00:20:59
+Det er jo det, vi skal tage stilling til, ikke?
+
+00:21:01
+Og så tror vi også, at vi skal have en værktøjskasse, hvor vi løbende lærer hinanden.
+
+00:21:07
+Vi skal arbejde sammen, vi skal arbejde med hinanden til gavn for os alle sammen.
+
+00:21:11
+Så, det var egentlig ordene herfra, og så er jeg slut med den her.
+
+00:21:16
+Vi skal ud på den tynde is.
+
+00:21:18
+Vi skal ture og gå ud.
+
+00:21:21
+Vi skal ikke gøre det dumdristigt.
+
+00:21:24
+Vi skal gøre det klogt og smart.
+
+00:21:27
+Både til gavn for os selv, men også til gavn for samfundet.
+
+00:21:31
+Så vi skal være lidt mere modige, hvis I spørger mig.
+
+00:21:34
+Tak for jeres tid.
+
