@@ -21,9 +21,14 @@ jobs:
     - name: Create ZIP of all transcriptions
       run: |
         # Opret ZIP med alle transskriptioner
-        cd transcritranscriptions
-        zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip *.txt
-        cd ..
+if [ -d "transcritranscriptions" ]; then
+  cd transcritranscriptions
+  zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip * 2>/dev/null || echo "Ingen filer at zippe"
+  cd ..
+else
+  echo "Mappe ikke fundet"
+  exit 1
+fi
     
     - name: Upload ZIP as artifact
       uses: actions/upload-artifact@v4
