@@ -1,0 +1,819 @@
+00:00:00
+Jamen godmorgen og velkommen til den her godmorgen med DNNK.
+
+00:00:06
+Som i dag handler om DMI klimaatlas, og Vi har fået besøg af ole og allah fra DMI, og Jeg vil simpelthen give dem lov til at præsentere sig selv. Det bliver Sådan, at oplægget består af 2 dele i dag, og så tager vi jeres spørgsmål til sidst, så er i velkommen til at skrive spørgsmål ude i chatten løbende og så.
+
+00:00:31
+Så skal vi nok gå dem igennem til allersidst.
+
+00:00:36
+Det var egentlig ordene fra mig, Maria, som sidder på teknologisk Institut til daglig, men også er en del af af os, der planlægger arrangementer IDNNK. Men Jeg vil starte med lige at give ordet over til Allan, som i også kan se på det lille billede på skærm og Allan så kan du jo starte med at præsentere dig selv.
+
+00:00:57
+Ja tak Maria og godmorgen. Jeg hedder Allan Sørensen og Jeg er projektleder på klimaetlas den administrative projektleder, altså ham, der står over for interessant inddragelsen og økonomien og tidsplanen og den slags ting, ikke den tekniske del. Der er vi med ovre II oles afdeling.
+
+00:01:16
+Jeg hedder ole bøssing Kristensen. Jeg er seniorforsker på DMI, og jeg bruger det meste af min tid på regionale klimamodeller på at køre klimamodeller og kigge på resultaterne. Og så har jeg også været med til at udvikle klimaatlasset her.
+
+00:01:33
+Tak.
+
+00:01:39
+Skal.
+
+00:01:41
+Jeg bare overtage Maria og.
+
+00:01:44
+Ja OK godt jamen så vil jeg præsentere klima plads for jer klimaatlas skal man jo se som den hersens klimakrystal kugle, som giver mulighed for at kigge ud II midten og i slutningen af det her 100 hvad sker der med med med Vores klima og den er den er bygget på grundlag af kommunerne skal have et godt værktøj til at lave de her klimatilpasningsplaner, oversvømmelseskortlægninger og hvad man ellers skal bruge ude i kommunerne.
+
+00:02:11
+Så kommunerne og Vores primære målgruppe til det her. Vi har så fundet ud af efterfølgende, at rigtig mange kommuner bruger rådgivere til at hjælpe sig med at lave de her planer og beregne på på klimaet og og give klima effekter der sker inden for kommunens område. Så derfor er den også henvendt til rådgiver.
+
+00:02:30
+Det klimaet, der skal gøre det, er at give den her ensartede information på tværs af kommunegrænser. Det vil sige 2 nabokommuner får nu et ensartet datasæt og kan bruge det til beregninger for for eksempel hvis man skulle lave et dige, så er det jo meget så meget at diet af af lige højt og og det fungerer godt i begge kommuner, at man ikke går ind og have har et datasæt. Der er så varieret at man får noget helt forkert i slutningen.
+
+00:02:51
+Så giver vi konkrete bud på de her ændringer på vejret på kommunerneiveau, men vi giver ikke nogle bud på.
+
+00:02:57
+Effekter altså. Vi går ikke ind og fortæller igen som med givet som eksempel, hvor højt skal ditet være, eller hvor skal det placeres? Vi giver grunddata, så så skal kommunerne og rådgiverne selv bruge de her grunddata til at arbejde videre med og finde ud af, hvad effekterne så bliver det.
+
+00:03:11
+Kommer jeg tilbage til lige om lidt.
+
+00:03:13
+Og så er det et autoritativt datasæt, så Det er det Det er Sådan. Hvad kan man sige? Lidt blåstemplet datasæt, så vi håber at Det er det kommunerne og rådgivere og andre brugere vil tage i brug, så man får det her ensartede data til.
+
+00:03:30
+Prøver lige at skifte her. Det vil den ikke.
+
+00:03:33
+Der var den klimatlas er 1 4 årig projekt, og Vi er i det sidste år nu her i år. Det er et finanslovsfinansieret projekt.
+
+00:03:41
+Vi startede II 18 med at tænke over, hvordan det her skulle bygges op interessant inddragelser og alt det der og så i 19 der kom vi med den første.
+
+00:03:50
+Fase af klimaatlas, hvor de primære klimaindikatorer blev præsenteret. Det var temperatur, og Det var nedbør, og så var det stormflod og havniveau, og så var Vores 4 første.
+
+00:04:00
+Film variable og indikatorer under dem, så havde vi en masse vejledning og en masse dokumentation for de her indikatorer. Hvordan skal man bruge dem? Hvad usikkerhederne?
+
+00:04:09
+Alt Sådan noget der der skal forklare brugeren omkring de her data og hvordan de er samlet ind, så i 20 altså sidste år der kom vi først i midten af 20 med en hel række nye indikatorer fra nedbør. Og så i december kom vi med endnu flere på på hvad hedder det. Stormflod og vind og solindstråling og Jeg har en lang liste.
+
+00:04:30
+Jeg vil vise jer lige om lidt, og Det er i virkeligheden alle de data og alle de parametre, som klimaet der skal indeholde. Det indeholder det Sådan set nu.
+
+00:04:38
+Så Det er ikke tanken, at der kommer flere og nye indikatorer til som Sådan.
+
+00:04:43
+Og så her i år. Der er planen så, at vi vil udbygge med at putte de her indikatorer ikke putte indikatorerne ind i nogle højtbaserede opløste modeller. Det er det oliepatter om lidt, så lav en ny modelkørsler, som er højt opløste, og så vil vi også præsentere nogle daglige simuleringsdata altså nogle tidsserie data, så det kommer også til slutningen af i år.
+
+00:05:08
+Men den store tabel af.
+
+00:05:12
+Af variable den kommer lige om lidt. Jeg vil bare lige fortælle igen lige understrege at klimaatlas Det er den her grunddata pakke, så klimaatlas leverer de tal som DMI selv råder over. Det er nedbørsdata og havniveau og den slags ting så det her et fælles datagrundlag for hvor meget havniveauet det vil stige hyppigheden af størrelsen af stormflyder skybrud og tørke.
+
+00:05:32
+Det er Vores data som DMI kan præsentere.
+
+00:05:34
+Altså de her klimad data. Så skal man selv som Kommune gå ind og og koble de her klimadata med kommunespecifikke data. Vi råder jo ikke over viden om grundvandshøjde og lokale afværgeforanstaltninger og kloakdimensioneringer og den slags ting ude i kommunerne.
+
+00:05:48
+Så skal man selv koble Vores data med en lokal viden eller lokal specifikke data, og så putte det ind i nogle effektmodeller, og der kan man så regne ud efterfølgende. Hvad ville effekten så være eller impact være, når man bruger Vores data sammen med det mere lokale?
+
+00:06:01
+Kendskab til data.
+
+00:06:04
+Klimath det indeholder ikke grundvand. Der er rigtig mange der har spurgt til grundvand om vi kunne komme derind, men det indeholder klima ates ikke og vil heller ikke komme til det. Men nu har hip.
+
+00:06:14
+Hydrologisk information som prognossystem. Det har jo grundvandsdata, så nu er der faktisk kommet et sted, hvor i kan finde grundvandsdata, så det finder man der.
+
+00:06:24
+Når vi ikke præsenterer effekter, så er det fordi Det er rigtigt, at mange andre der gør og de gør det på en rigtig fin måde og god måde. Der er rigtig mange gode værktøjer. Der er blandt andet miljøstyrelsens klimatilpasning, DK, der kan man gå ind og se noget omkring effekterne samt Miljøstyrelsen også kamp et ret nyt værktøj også hvor man går ind og ser effekter på på nedbør, men også effekter fra vandet fra havet af, så er der kystplanlæggeren.
+
+00:06:44
+Det er KDE.
+
+00:06:46
+Og så har hip som jeg sagde før eller SDFE.
+
+00:06:50
+Styrelsen for dataforsyning og effektivisering. De har det her hip, så her vil man i hvert fald kunne finde værktøjer, der kunne fortælle noget omkring effekterne, når man de, de bruger alle sammen data fra klima-klasse.
+
+00:07:03
+Nå, Det var listen her jeg snakkede om, før Vi har en lang liste. Vi er faktisk kommet med 19 nye klimaindikatorer her i december sidste år. Det i ser på listen her, Der er de her farvekoder, Der er nedbør, Der er temperatur, og så er der havniveauer og stormflod, og så er der vind og overflade.
+
+00:07:18
+Det er Vores 5 klima variable, som vi kalder dem, og under hvert klimaviabel der har vi nogle indikatorer, så hvis man ser på nedbør, så er der for eksempel gennemsnitsnedbøger. Det er en indikator, så er der skybrud tørre dage, længste tørre periode og hele vejen derned af.
+
+00:07:32
+Nede i bunden der kan i se de her der hedder 25, 10, 20, 50 og 100 års hændelser fra nedbøger. De er mere statistiske udregnede.
+
+00:07:40
+Hvad hedder det indikatorer?
+
+00:07:44
+På ja på på de her nedbørshændelser kigger man på temperatur, så havde vi faktisk kun gennemsnitstemperatur. Dem Der er markeret med fed. Det var dem der var før de 19 nye kom.
+
+00:07:53
+Der havde vi kun gennemsnitstemperatur og så har vi så udvidet med en lang række temperaturer indikatorer.
+
+00:07:59
+Daglig maksimum daglig minimum nede i bunden. Kan i se Sådan noget som varmebølged frost døgn og vækstsæson.
+
+00:08:06
+Så har vi havnet Vores stormflod. Der havde vi før middelstand, 20 års hændelsen og halvtredsårs hændelsen, Der er så udvidet med 100 års hændelsen og 10.000 årsændelsen for stormflod. Og så har vi også et og femårs hændelsen for forhøjet vandstand, og så har vi også prøvet at beregne ændringen af den syvårshændelse, som kommer i øjeblikket.
+
+00:08:24
+Hvordan vil en syvårshændelse, hvor hyppigt vil den fremkomme i slutningen af det her århundrede midten af det her århundrede?
+
+00:08:30
+Og på hvem der har vi kigget på middelvind, og Vi har kigget på ekstreme vinde altså over 25 m i sekund, og så har vi kigget på overflade, som vi kalder den. Det er solindstråling, og Det er potentielt fordampin.
+
+00:08:40
+Og Jeg vil komme ind på dem lidt senere. De forskellige hvad resultaterne har vist.
+
+00:08:47
+I klimaatlas har vi haft rigtig mange brugere involveret i udviklingen af klimaatlas, og Vi har også spurgt dem efterfølgende om bord i så klimaatlas. Hvad bor i det til og her? Der er bare nogle eksempler.
+
+00:08:57
+Det er bare for at illustrere, at Det er en meget bred målgruppe på klimaat for eksempel så har jeg snakket med nogle kommuner Jeg har snakket med Brønderslev Kommune. De har brugt den til noget revision af deres klimatilpasningsplan, og Det er jo lige det, som Det var tiltænkt til.
+
+00:09:10
+Halsnæs Kommune. De har brugt det til noget orienteringsmøde, hvor de havde et.
+
+00:09:14
+En dialog med et dalav omkring risikoen for noget oversvømmelse, så har de også brugt data derfra.
+
+00:09:19
+Så snakkede jeg med rådgiver, altså blandt andet svego. De har brugt det til noget teknisk vurdering og noget kyst sikringsprojekt fra nogle grundejere spildevandskomite komiteen SVK. Vi bruger også data på klima, når de skal opdatere de her anbefalinger om om fremtidens egen kloakdimensioneringer som de.
+
+00:09:37
+Gør gør så i.
+
+00:09:39
+Og så har vi et statslige myndigheder, altså kystsoratet, som har snakket om lige før kystplanlæggeren og miljøstyrelsens kamp. De 2 bruger også data fra klimaetlas, og så har vi også snakket om nogle andre, som er Sådan ud over dem jeg lige har nævnt, altså for eksempel finans Danmark. Dem havde vi en en snak med et møde med, og de fortalte, at de brugte data og debat til at kigge på Sådan noget som finansiel stabilitet.
+
+00:10:01
+Det kort i kan se ud til højre an illustration af det.
+
+00:10:05
+Der har de gået ind og kigget på når man.
+
+00:10:07
+Andelen af den pantværdi, Der er i risiko for oversvømmelse. Den kan faktisk blive syvdoblet i slutningen af det her århundrede, så de går ind og kigger på den, og hvorhenne er der noget pant, der faktisk står II risiko. Så Det er jo også en måde at bruge de her data på, og så var der biofos.
+
+00:10:22
+De har kigget på det i forhold til placering af nogle fremtidige renseanlæg, så der Der er en bred mulighed for at bruge det her datasæt.
+
+00:10:33
+Når i går ind på klimaet, så er der mulighed for at vælge nogle forskellige korttyper. Altså man kan se data enten som kommuner eller man kan se det på kyststrækninger. Det er kystdirektoratets opdeling af kyststrækninger, 36 kyststrækninger eller man kan se det som hovedvandsopblandet.
+
+00:10:47
+Det er Miljøstyrelsen, der har opdelt i 23 hovedbander, blandt andet så Det er så de 3 korttyper Der er udover det, så har vi også et helt traditionelt grit kort, altså 1 x 1 km grit, hvor du kan heller ikke finde de her gitterceller og får data fra den enkelte gitterceller også.
+
+00:11:05
+Vi har lavet nogle rapporter, som ligger færdig på klimaatlas, når du går ind og vælger for eksempel din Kommune, jamen, så kan du trække en rapport ud nu her i Horsens Kommune som eksempel går ind og vælger Horsens Kommune. Jamen, så kan jeg trække en excel-fil ud fra Horsens Kommune, som Sådan highlighter de mest relevante data for Horsens Kommune. Du kan også gå ind og trække en rapport ud fra hele landet, som igen fortæller, hvad er det Sådan de mest?
+
+00:11:31
+Toneangivende hvad kan man sige data, der ligger i klimaatlas for hele landet eller for for en enkelt Kommune?
+
+00:11:37
+Derudover, så kan du også trække netsæt af filerne ned. Det er primært dem, som sidder og arbejder med Sådan nogle her klimamodeller. De bruger netsider filer, så Der er mulighed for at trække netsinde af filerne ned.
+
+00:11:46
+Og Der er også muligheder for at trække en PDF rapport ned.
+
+00:11:53
+Vi har også lavet en helt ny PDF rapport. Det er for bind for vinden retning, så der kan man gå ind og læse omkring udviklingen II vindretning, og så er der igen mulighed for at gå ind og besøge Vores gisservice, som hvor du kan koble data direkte fra Vores skisservice over II kommunens eller rådgiverens eget giftssystem og få det her interface.
+
+00:12:18
+Det her Det er eksemplet på et excel ark, så hvis man går ind og trækker et excel ark fra klimaet, så vil man få noget II den her stil og Det kan godt se lidt uoverskueligt ud, og hvis man skal finde det specifikke datasæt de har sat ind i midten der med rød jamen så skal man igennem rigtig mange forskellige valg fra traktisk træffe 8 forskellige valg for at komme ind til de enkelte datasætsæt.
+
+00:12:36
+Og Det er ikke umuligt. Man skal lige kigge på det et par gange og så er det. Det er faktisk ikke så svært, men vi kan godt se at det her Det kan sagtens gøres mere brugervenligt.
+
+00:12:45
+Så derfor så vil jeg springe videre til den næste og fortælle, hvordan vi gjorde det. Det er vi ved at gøre ved at lave den her.
+
+00:12:51
+Klikbar interface kan man vel kalde det hvor man så får data frem og når i kigger på klimaet, så får i det her billede når i inde på datasiden oppe i toppen af baren deroppe Der er klimama som jeg nævnte før altså nedbør og temperatur og og derud af Det er det første valg man skal træffe. Hvad er det for en variabel Der er interesseret i det klikker man af deroppe ved siden af, så står der kort en delling Det var de 4 kort jeg viste før nu vælger jeg hvilken type kort er det kommunekortet eller er det kyststrækningskort eller hvad er det for noget kort du vil se data på?
+
+00:13:20
+Har i valgt kommuner jamen så skal jeg vælge området. Er det hele Danmark med? Hvad er tal for eller er det en specifik Kommune?
+
+00:13:26
+På årstid der kan det være hele året eller en af de 4 årstider og ud til sidst Der er den der hedder visning af værdier. Der kan man enten vælge at se dine dine værdier som ændringen eller som det absolutte.
+
+00:13:37
+Nyde selve kortet er der så også nogle valg. I er ikke øverst oppe at der står mellem CO 2 niveau. Det er det der hedder ACP 4,5 eller det høje CO 2 niveau som er RCP 8,5.
+
+00:13:47
+Så kan du så træffe valget om du vil bruge mellem CO 2 scenariet eller det høje CO 2 scenarie.
+
+00:13:53
+Når Jeg har valgt nedbør oppe i toppen, så kan man automatisk Sådan en en menubar ud til højre i selve billedet. Altså indikator listen som i kan se derude til højre. Nu er det gennemsnitsnedbør, Der er krydset af med flueben, men du kunne have valgt alle de andre dernede også skybrud antal tørre dage der ned af.
+
+00:14:09
+Der står alle indikatorerne i en række man så skal vælge i der og ikke mindst nede i bunden, så har vi Vores timesledter du kan vælge at se data fra starten, midten eller slutningen af århundrede.
+
+00:14:20
+Så alle de her valg, skal man træffe for at få et datasæt ud, når du så har gjort det, og du så har kører musen ind over skærmen, ligesom at vi ser på på højre side. Der jamen så får man Sådan en mouse over tekstboks der popper op, og så kan man se data på selve skærmen. Der er også mulighed for at få data vist i en tabel.
+
+00:14:41
+Det ser Sådan her ud.
+
+00:14:44
+Af den vil se Sådan her ud i grafen til højre igen. Der ser jeg.
+
+00:14:48
+Starten midten og slutningen af 100 de 2 barer og den blå. Det er det lille eller det mellem CO 2 scenarie altså 4,5 og den røde. Det er SEP 8,5 og igen kører musen ind over, så får jeg mouse over tekst der kan fortælle mig hvad er det den her bar viser og når jeg ser på den her bar jamen så er der Sådan en en meget en hårdt optrukkende linje i midten og Det er median værdien, den Vores bedste bud og den der så er over under den det usikkerhedsintervallet man kan se 90 og 10 persentil på.
+
+00:15:17
+På den.
+
+00:15:19
+Hvis man er interesseret i at bruge et billede af den her et graf til en rapporter eller noget, jamen så kan man trykke på den her lille Der er de der 3 små streger øverst oppe i hjørnet trykker man på den og så er der mulighed for at få en lille PNG ud og Det er så den jeg viser til Venstre, så får man et pænt billede man kan bruge i en rapport eller hvad man nu skal bruge det til med logo på og med med tekster og det ser ja bedre ud, så Det kan i også bruge det til hvis i skal lave den slags.
+
+00:15:47
+Nu vil.
+
+00:15:48
+Jeg prøve at vise nogle eksempler på hvordan man kan bruge klimaet og så hvad hvad data viser nu har jeg i hvert fald lige fortalt, hvordan man går ind og trækker data ud og de data Jeg vil vise her eller Alexander vil vise her. Det er allesammen sat op på, at jeg kigger i slutningen af århundrede, og jeg ser på det høje CO 2 scenarie altså RCP oten en halv så her der vælger jeg temperatur. Det er for kommunerne og Det er for hele Danmark jeg fortalte for, og Det er for hele året.
+
+00:16:12
+Og her der kan vi så se, at den årlige gennemsnitte temperatur den forventer så stige med 3,4 grader.
+
+00:16:18
+I hele landet her i slutningen af det her århundrede, og som man kan se, så er farvefrosskellen ikke særlig stor. Det Der er stort set rødt på hele kortet, og det betyder, at Der er ikke nogen store regionale forskelle. Men går man ind og kigger på en, så en en speciel sæson, for eksempel vinter, som Jeg har gjort nede til Venstre II tabellen der eller i graf der undskyld jamen, så kan man se at man forventer at vinteren i slutningen af det her århundrede, der vil temperaturen stige med cirka 3,6 grader.
+
+00:16:44
+Og Det er de cirka det samme som som landsgennemsnittet også.
+
+00:16:49
+Kigger man på et andet eksempel, som er nødbør igen på kommunen niveau. Så kan man se, at her er der faktisk nogle regionale forskelle, når man ser på kortet til højre. Der er kraftigere blå farver mod vest og så grønlige farver mod øst.
+
+00:17:03
+Det betyder Der er en større større nedbør i den vestlige del af Danmark end i den østlige del af Danmark. Og kigger man til Venstre i grafen, der så igen, kigger vi på et et vinter.
+
+00:17:15
+Vinteren for for den gennemsnitlige nedbør.
+
+00:17:19
+Og der kan man se, at nedbøren faktisk forventes at stige med 25% i slutningen af det her 100. Så nu ved vi, at vinteren i slutningen af århundredet bliver cirka 3,6 grader varmere, og man forventer at få 25% mere nedbør. Så kan man nok godt regne ud, at det nok ikke skal forventes at være sne, der måske kommer i slutningen af det århundrede i den helt store stil, men nok mere nogle nogle lidt mere våde og sjappede vintre.
+
+00:17:45
+Et andet nedbørsbillede. Det er at kigge på det her, og der ser vi på nedbør igen på kommunerne, og vi ser på nedbøren om sommeren, og der kan i se billeder er meget Sådan dush, Det er Sådan meget lyst alle farverne, så det betyder faktisk at man forventer ikke den store ændring i nedbørsmængden om sommeren, men det der så er interessant. Det er hvis man kigger på på kraften hernede til Venstre, så kan man se på ændringen i et døgn med over 20 mm nedbør og 20 mm.
+
+00:18:09
+Det er altså nogle store nedbørændelser og der kan man se at det her sommer nedbør i de store hændelser.
+
+00:18:14
+Det forventes at kunne stige op på 30%, så vi ved, at der ikke kommer mere nedbør den samlede mængde nedbør bliver ikke større om sommeren, men nedbørshælgelserne kan stige med 30%. Det betyder jo så, at man godt kan se frem til et ændret nedbørsmønster. Det vil sige, Det kan blive nogle langt nogle længere perioder med med tørke, og så kommer der nogle kraftige regnskyl, og Det er nok det man man ser ud til i slutningen af det her århundrede.
+
+00:18:37
+Det samme kan man se med skybrud frekvensen skybrud Det er defineres som 15 milimeter nedbør på 30 minutter og skybrud. Frekvensen stiger også ret markant altså op til 80%. Antallet af de her årlige hændelser og den stiger faktisk stort set i hele Danmark.
+
+00:18:53
+Så Det kan man godt i hvert fald se ud på til nu, at der kommer et ændret nedbørsmønster om sommeren ser det ud til i slutningen af det her århundrede.
+
+00:19:04
+Jeg prøver lige at komme ind på de her nye data vi lagde på II december og hvad de siger i forhold til til stormfloder.
+
+00:19:13
+Så kan vi se at den 20 årshændelse, som optræder nu den kan man forvente vil komme hvert eller hvert andet år i slutningen af det her århundrede. Så hvis man allerede synes nu, at de her tyversættelser er voldsomme, jamen, så er er der altså god grund til at gå i gang med at at tænke over at gøre noget ved det, fordi at de bliver i hvert fald ikke mindre, eller hvad man kan sige, de vil komme.
+
+00:19:33
+Meget oftere fremadrettet, og så har vi set på 110.000 års hændelsen for for stormfloder, og der kan man se at dens.
+
+00:19:42
+Højde vil stige med den her halve meter, som er det som følge af den her middelvandsstigning, som også er cirka de 50 cm.
+
+00:19:50
+Vi kan ikke kunne lave 100 eller 10.000 års beregninger på alle Vores 36 kyststrækninger. Som jeg husker det, så er der 11 kyststrækninger der har data lige nu, men Det er noget af det vi arbejder på i løbet af i år og prøve at se, om vi kan få nogle flere kyststrækninger med den her 10.000 årsagende. Så vil det simpelthen fordi der mangler nogle lange tidsserier med data men men Det er ikke sidder vi og kigger på om Det er noget vi kan vi kan få på.
+
+00:20:11
+Men hvis vi lige skal vise nogle eksempler jamen så kan man se 100 års eksempel.
+
+00:20:15
+100 års hændelse fra stormflod vi kan se Esbjerg som eksempel.
+
+00:20:19
+I øjeblikket så vil der være en 404 cm altså 100 års hændelse fra stormflod i Esbjerg og i fremtid vil den så være 460 cm kortet ude til højre. Det viser også 100 års centrerne på stormfloden, og der kan man jo godt se. Der er nogle regionale forskelle i forhold til højderne af af stormfloder.
+
+00:20:37
+Grunden til, at den nordlige del af Danmark er lidt lysere eller har lidt mindre stormluds højde end nogle af de andre steder lige omkring det at blive der stadig er noget landhaven i den nordlige del af af Danmark, som udligner det.
+
+00:20:50
+Kigger man på 10.000 årsendelsen igen fra SBR. Nå, men så er den nuværende titus jo også hændelse ville være 470 cm og i fremtiden kan man så forvente 530 cm.
+
+00:21:06
+Andre nye data vi lagde på her i december. Det var temperaturen og for temperatur, der kan man sige.
+
+00:21:12
+At temperaturen på årets varmeste dag den vil stige til cirka 33 grader. II nutidens klima jamen, så har vi cirka 29,5 grad.
+
+00:21:23
+Og i fremtidens klima vil jeg også byde på på flere og på længere hede og varmebølger i øjeblikket så har vi gennem tit 3 hedebølgedage og i fremtiden der kunne vi så forvente 14 hedebølgedage. Det samme gør sig gældende for varmebølgerne. De bliver meget mere almindelige på om sommeren.
+
+00:21:42
+Vi kan forvente op til 41 dage med varmebølger, hvorimod i øjeblikket der ser vi omkring 14.
+
+00:21:48
+Så er det der vil ske nogle ændringer der.
+
+00:21:51
+Og i stemmer for de kolde dage. Jamen så vil de rigtig kolde dage, så bliver de meget mere sjældne man kan forvente fremover at den koldeste dag bliver 5 minusgrader, hvorimod at man har de kolde dage på 11 minusgrader eller frostgrader nu. Her oplever man ikke i dagens klima.
+
+00:22:06
+Så samlet set så vil det blive ret usandsynligt med de her vedvarende hårde. Den vedvarende hårde frost i slutningen af det her århundrede.
+
+00:22:17
+Ude til højre. Der har jeg så vist frost øjnene.
+
+00:22:20
+I det nutidige klima. Der har vi cirka 80 døgn om året, hvor der optræder frostvejr, og det vil i det fremtidige klima blive meget mere sjældent og kun er nede omkring 30 dage om året. Og Det er også det, man ser på på kraften ude til højre.
+
+00:22:35
+I kan se den den mørke linje oppe i toppen, som er referenceværdien, altså de her 80 og de 30 døgn i slutningen af 100.
+
+00:22:48
+Så kigger vi på vækstsæson og Venstre sæson. Det er den periode, hvor man kan dyrke jorden uden altså uden Der er frost, hvor Der er mulighed for at dyrke jorden, og den bliver faktisk 3 måneder længere. 83 dage har vi beregnet, så det betyder, at næsten 11 af af årets måneder vil være der vil være mulighed for.
+
+00:23:08
+For hvad hedder det at dyrke jorden? Altså den her vækstsæson.
+
+00:23:13
+Og efter sæsonen den defineres som de første 6 sammenhænge i dag, hvor temperaturen er er midtemtemperaturen er over 5 grader frem til vi simpelthen når frem til de sidste 6 sammenhænge i dag, hvor middeltemperaturen også er over 5 grader. Det er vækstsæsonen på på grafen ude til højre. Jamen der kan man se.
+
+00:23:33
+Hvis i ser på på baren den røde bar den sidste af dem i slutningen af 100. Jamen Det er så de her 83 dage ændring som vi vi regner med.
+
+00:23:47
+Vind har du også kigget på? Der er ikke så forfærdelig meget at fortælle om vind signalet. Her har ikke været super super kraftigt, men det man kan fortælle Det er at det det bedste bud Det er, at der ikke kommer til at ske de helt store ændringer på på vindsiden.
+
+00:24:02
+Kigger man på antallet af storme. Det er det kort, Der er sat ind til højre. Jamen så kan man se.
+
+00:24:06
+Der er måske en lille tendens til at der kommer lidt kraftigere storm ude langs langs kysterne ude mod vest, men igen Der er forbundet med ret stor usikkerhed, så vind har vi ikke noget helt fast bud på.
+
+00:24:18
+Været et regel kommer til at ske, om der kommer en stor udvikling der.
+
+00:24:25
+Sol og potentielle fordampning Det er de sidste nye parametre, der kom på. Her kan man se en svag tendens til, at der kommer mindre stoleindstråling ned til overfladen, og Det er især om vinteren.
+
+00:24:36
+Og et kig vi kigger man på på opvarmningen, jamen så så vil den potentielle fordampning også stige i takt med at der kommer en større opvarmning.
+
+00:24:45
+Og den her forøgelse af den potentielle fordampning, den stiger med cirka 5%.
+
+00:24:50
+Og det vil så også gøre, Der er en større risiko for for udtørring.
+
+00:24:57
+Det var de nye data, der kom på II. December.
+
+00:25:02
+Min sidste slide. Det bliver den her ende af ole overtager. Det er bare lige for at fortælle, hvad det altså er, for vi arbejder på i år, og hvad vi forventer af resultatet af de nye data, Der er kommet på her i slutningen af i år i december i år.
+
+00:25:14
+Det vi arbejder på. Det er som sagt de højtopløste modelkørsler.
+
+00:25:18
+Der er nogle udvalgte indikatorer i klimaet. Lad os lige blive opdateret og kørt igennem de holdopløste modelkørsler blandt andet, så er det et ekstremt nedbørsdata. Kigger man på grafen eller på illustrationen ud til til højre, så kan man se det model.
+
+00:25:34
+Ensemblet vi bruger lige nu Der er i klimaet. Der er brugt 57 forskellige modeller Der er. Der er 8 forskellige regionale modeller og Vi har en undskyld 8 forskellige globale modeller og Vi har 9 forskellige regionale.
+
+00:25:46
+Det eller som så bliver krydset på forskellig måde, og i ellers har vi 57 forskellige modeller, som vi tager brug af, når vi viser data i klimaatlas og det ole og Anders, så skal kigge på i løbet af i år. Jamen Det er så at prøve at få det nedskaleret for lige nu. Der kan vi kigge på 12 km gitter og skal helt ned og kigge på.
+
+00:26:03
+Ja under 1 km er det 750 m så vidt jeg husker, men det vil ole komme meget mere ind på, men Det er bare for at fortælle det lige nu. Der har vi altså 57 modeller som vi kigger på og Det er det datasæt vi bruger. Vi kommer ned og kan få.
+
+00:26:14
+Endnu mere detaljeret viden.
+
+00:26:16
+Det vi også vil vise jer i slutningen af det her det her år. Det er tidsserierne. Det er nogle daglige simuleringsdata, altså tidsserier, som bliver præsenteret.
+
+00:26:26
+Det er noget data, Der er henvendt til ekspertborgerne til noget videre beregning. Vi vil derfor ikke vise det for Sådan nogle grafiske visninger, som Jeg har vist lige før med med nogle fine kort. Det kommer ned som nogle simple filer, der kan trækkes ned som nogle let netsætte filer i kan trække ned og bruge til noget videreberegning.
+
+00:26:42
+Dem der har brug for den type data.
+
+00:26:45
+Og så skylder jeg lige at fortælle, at vi klimaters bevilling stopper jo her i år, som jeg sagde, Det var 4 årige projekt.
+
+00:26:52
+Bevillingen stopper i år, så Vi er i fuld gang med at prøve at sikre, at vi får noget fremtidig finansiering til at videreudvikle og og drifte klimaatlas. Så Det er noget af det, vi også kigger rigtig meget ind på i år og prøver at få den videre bevilling.
+
+00:27:05
+Men det tror jeg ikke, Jeg vil fortælle så meget mere, så tror jeg faktisk bare, Jeg vil give ordet til ole.
+
+00:27:13
+Ja men tak skal du have Allan det som jeg havde tænkt mig at bruge min tid på. Her var egentlig at forsøge lige at tage et skridt baglæns og tale lidt om. Hvad er det egentlig for nogle tal de her, som Vi har lagt i klimaatlas?
+
+00:27:29
+Hvad er det for en slags tal?
+
+00:27:32
+Og Jeg kan lige så godt fra starten afsløre, at en af mine konklusioner. Det vil være at man skal huske den usikkerhed.
+
+00:27:40
+Som Der er når man kigger på på klimamodeldata usikkerhed. Det er jo en der går begge veje. Vi har af Vores bedste bud ud fra alle mulige modeller på hvordan en eller 2 ting vil ændre sig, men fordi modeller ikke er perfekte, så har vi det her spænd at nogle modeller siger Det kan blive værre og nogle siger at det bliver bedre, så Det er jo noget man hele tiden skal holde sig for øje.
+
+00:28:07
+Når man.
+
+00:28:09
+Skal planlægge ud fra de her usekretal, men når vi nu har taget det her skridt baglæns, så vil jeg.
+
+00:28:18
+Starte med udslipsscenarier, Der er et antal forskellige scenarier, hvor man har bestemt hvad nu hvis?
+
+00:28:28
+Der sker Sådan og Sådan med udslip og derfor med koncentrationer af de drivhusgasser, som påvirker klimaet igennem det her. Århundrede indtil.
+
+00:28:39
+2100 og også længere frem.
+
+00:28:45
+Det ligger der en masse tanker bag, og man har et antal repræsentative koncentrationsscenarier her og de 2 som indgår i klimaatlasset. Det høje og det mellemste. Det er 8 5 den som ligger i toppen af den her graf og så 4 5 som ligger Sådan lidt i midten.
+
+00:29:07
+Skift Allan.
+
+00:29:10
+Yes så.
+
+00:29:15
+Det.
+
+00:29:16
+De scenarier, Der er Sådan set det det eneste input man giver til de store globale klimamodeller.
+
+00:29:24
+Det er et enormt programsystem som prøver at beskrive både atmosfære og Ocean, og havisen på en realistisk måde. Altså Sådan at man ligesom i en vejrudsigtsmodel, man kender hele systemets tilstand på et eller andet tidspunkt. Og ud fra det løser man nogle ligninger.
+
+00:29:46
+Og går et tidsskrift frem og får den nye tilstand.
+
+00:29:50
+For en global model med en gitteafstand altså en gitteropløsning på altså størrelsesordenen 100 km. Der vil Sådan nogle tidsskrift være typisk 20 minutter, så.
+
+00:30:04
+Man har man har hver en klimamodel og alle de tal, som vi viser, at klima er altså Det er statistik, Der er lavet på basis af.
+
+00:30:14
+Det værd, som kommer ud af en klimamodel.
+
+00:30:18
+Der er mange forskellige klimamodeller. De bruger forsøger selvfølgelig alle sammen at beskrive virkelighedens klima, men man er nødt til at gøre det med nogle forskellige tilnærmelser med nogle forskellige måder at sætte bordelen op på, så derfor er forskellige modeller de forskellige model programmer, de er forskellige. De har forskellige fejl, de har forskellige sensitivitet og så videre.
+
+00:30:42
+Det er den ene del af det. Der er en en spredning mellem modelresultater.
+
+00:30:45
+På grund af, at de simpelthen er forskellige modeller.
+
+00:30:50
+Men oven i det.
+
+00:30:52
+I er lavet Sådan at i.
+
+00:30:55
+At de beskriver et vejrforløb.
+
+00:31:00
+Det gør de alle sammen oven i det der har de jo den interne variabilitet som vejret ude i virkeligheden også har. Man kan kun forudsige vejret om det bliver regnvejr eller solskin et antal dage ude i fremtiden.
+
+00:31:15
+Al klimaforskning handler om statistik på hvor tit ting sker.
+
+00:31:20
+Forskellige intensiteter og så videre.
+
+00:31:22
+Så.
+
+00:31:25
+De modelresultater vi ser har både en spredning på grund af, at modellerne er forskellige, men de har også den iboende variabilitet, som er en klimapilitet. Vi laver statistik på et begrænset antal år, typisk 30 års nutid 30 års fremtid, så det skal i holde jer for øje. Altså Vi har ikke på nogen måde holdt klimaet klimamodellerne fast på det faktiske forløb.
+
+00:31:51
+Fra år til år.
+
+00:31:53
+Som virkeligheden havde.
+
+00:31:54
+I har fortalt den meget meget få ting, altså selvfølgelig nogle parametre, nogle konstanter af den ene og den 2 slags som som.
+
+00:32:06
+Gør at det klima, som det simulerer er realistisk, men vi siger ikke, at 1998 var et særligt varmt år.
+
+00:32:14
+Det skal i huske når i engang henter tidsseriedata og kigger på dem. Den ene klimamodel er ikke synkroniseret med den 2. Klimamodel.
+
+00:32:24
+Skift.
+
+00:32:29
+Det er bare en lille illustration af alle de ting, som som, som er i en klimamodel. Det er måske ikke nu jeg skal komme ind på det eller skal bare sige helt kort, at Der er en masse komplicerede processer der foregår på en rummelig skala, der er< Sådan en gitterboks. Og det eneste klimamodellen kender Det er jo middelværdier af temperaturer i forskellige lag.
+
+00:32:52
+Det er middelværdien af vind i forskellige lag.
+
+00:32:55
+Men ud fra Det er den altså pisket til.
+
+00:32:57
+Og prøve at regne ud, for eksempel hvor meget kongektiv nedbør kommer der inde i en gitterboks, selvom et konventivt nedbørssystem altså voldsom sommervej det. Det fylder meget< en global models gitterboks.
+
+00:33:10
+Skift.
+
+00:33:14
+Ja skift igen.
+
+00:33:18
+Det som i ser i klimaatlas er faktisk ikke output fra en global model. Det er output fra en regional klimamodel. Danmark er meget lille, hvis Der er en gitterafstand på 100 km, så derfor så nedskalerer man som det hedder man tager en model, som har en meget højere opløsning, men så skal gengæld ikke fylde hele jorden, så bruger man den globale model til at fortælle havtemperaturer, hav is og alt hvad der sker på rammen af det her område.
+
+00:33:48
+Så regner den regionale model så videre selv og er derfor bedre til at lave regionale forskelle på klima, altså land havkontrast. Ikke helt så høje højdedrag og så videre, men også tidslindt der den har et kortere tidsskridt måske 5 minutter for den her slags 12 kilometers.
+
+00:34:12
+Simuleringer.
+
+00:34:14
+Som gør, at vi også bliver bedre til at lave nedbørstekstremer både på grund af at man kigger på mindre gitterbokse ad gangen og på grund af at man har kortere tidskridt. Du må skifte igen.
+
+00:34:31
+De data især der.
+
+00:34:34
+Er faktisk resultat af en enorm mængde supercomputerberegninger både i konstruktionen af de her globale modelimuleringer, som Jeg har snakket om før og ikke mindst de her regionale modeller. De regionale modeller. Selvom de fylder mindre, så har de et kortere tidsskrift og de har lige så mange gitterpunkter, så de er faktisk lige så store beregninger.
+
+00:34:59
+Altså alt det her. Det er vi vi står på skuldrene af nogle kæmpemæssige.
+
+00:35:04
+Super-computer for at kunne geare de her tal.
+
+00:35:08
+Det ser på jeres skærm. Det er en matrix. Det kan i godt se hvor man hvor jeg hvor Jeg har angivet kombinationer af forskellige globale modeller.
+
+00:35:20
+De står altså hver række af en bestemt global model. Vi skal lige lægge mærke til Der er 3 blokke, Der er en fra det kraftige scenarie, en fra det mellemste scenarie og så fordi jeg huggede det fra en 2 præsentation, så er der også en fra et scenarie. Vi er ikke med i klimaatlasset.
+
+00:35:36
+Søjlerne Det er så forskellige regionale modeller, hvor vi blandt andet med meget støtte meget finansielt støtte fra EU via det der hedder kopernikus.
+
+00:35:49
+C 3 s altså et et kæmpemæssigt europæisk projekt med mange penge i, som blandt andet går til at køre i regionale klimamodeller. Der har vi jo Sådan en ikke helt udfyldt matrix, men altså virkelig, virkelig mange grønne felter.
+
+00:36:04
+Ud af de her mulige kombinationer af bordeller og hvis i kigger allernederst til højre, vil i se, at der findes, hvis man tæller alle scenarier sammen og alle ja, alt det hele sammen, så får man over 100 forskellige simuleringer.
+
+00:36:22
+I er ikke helt allesammen med i klimaatlasset men men de fleste af dem er skift.
+
+00:36:34
+Det var så modeldata, og så kunne man selvfølgelig være være glad nu. Har i virkelig virkelig mange forskellige data, men Vi har jo Vi har lavet et skridt mere. Vi gik da vi da vi konstruerede klimaatlasset.
+
+00:36:48
+Vi har nemlig lavet.
+
+00:36:51
+Det er der på dansk hedder bias af gustman altså fejlkorrektion af det output vi kigger på. Det kan vi selvfølgelig kun gøre.
+
+00:37:00
+Når Vi har nogle observationer, der har vi jo så af mange ting på DMI også i meget høj rummelig opløsning, og der har vi så lavet nogle korrektioner af det output, Sådan at nutidsværdierne faktisk svarer til observerede nutidsværdier af for eksempel temperaturer og nedbør.
+
+00:37:19
+Og Det er jo fint. Man får så en mere realistisk statistik. Man får ikke en eller 2.
+
+00:37:26
+Konstant fejl på en grad eller 2 grader i sit model output. Uanset hvad for en af modellerne det så kommer fra.
+
+00:37:35
+Og det betyder selvfølgelig, at hvis man er en, der skal putte klimamodeldata ind i en eller 2 impact model en virkningsmodel, en effektmodel.
+
+00:37:45
+Så.
+
+00:37:47
+Så så er man bedre stillet. Jeg ved ikke hvor relevant Det er for jer med ulemperne i netop jer der sidder og lytter, men i skal lige huske så under alle omstændigheder. Det betyder så, at Vi har forstyrret klimamodellnens cirkler i har.
+
+00:38:05
+For eksempel ikke en lukket vandbalance i det output, Der er fra modellerne mere, fordi Vi har pillet ved nedbør på en 2 måde, end Vi har pillet ved andre ting ved fordampninger og den slags.
+
+00:38:15
+Det skal i bare lige have bag øret til, hvis dengang Vi er relevant for jer og ikke mindst skal jeg huske at sige at Sådan nogle korrigerede data bliver jo aldrig bedre end det observations datasæt man har.
+
+00:38:28
+Skift.
+
+00:38:34
+Der er Det er begrænset Vores tekniske, vi kan blive på den her korte tid, men.
+
+00:38:40
+Det her, Det er Sådan et eks et eksempel på hvordan man laver den her korrektion, og Det er noget, man kalder kvantil, kvantil korrektion, og den eneste den eneste konklusion i skal tage med jer hjem, eller hvad man nu siger i de her tider Det er at.
+
+00:38:59
+Ikke kun middelværdi vi korrigerer. Det er Sådan set også den ekstreme del af for eksempel nedbørsfordelingen eller den mindre ekstreme del af nedbørsfordelingen. Vi tager simpelthen, hvis Vi har en tidsserie af af af nogle observationer og en tidsserie af nogle tilsvarende tidsserier af nogle modelresultater, så sorterer man den ene, man sorterer den 2 og plotter dem mod hinanden, og det giver simpelthen en måde at korrigere.
+
+00:39:26
+Den højeste til den højeste og den laveste til den laveste.
+
+00:39:30
+Og så videre og så videre. Nummer 17 mod nummer 17 fra model over til til observation, og så er vi forhåbentligt kloge. Vi forsøger at være det med hensyn til at kunne lave præcis den samme slags korrektion på Vores fremtid.
+
+00:39:47
+Data Vi er nødt til at behandle nutid og fremtid ens. Ellers så giver det ikke nogen mening at kigge på forskellen eller forholdet mellem de 2.
+
+00:39:56
+Skift.
+
+00:40:00
+Så ja faktisk ved at være rund så småt altså.
+
+00:40:06
+Husk at Sådan nogle klimamodeller bliver altså ikke holdt fast i virkeligheden. Husk usikkerhederne, Der er fordi det reelle usikkerheder.
+
+00:40:18
+Vi har ikke en nogen former, for hvad skal man sige?
+
+00:40:24
+Implicit sandsynlighedsfordeling mellem de forskellige modeller. Vi Vi har et antal, og vi kan kigge på fordelingen, men vi ved Sådan set ikke, om Det er den svageste eller den kraftigste, Der er den mest realistiske med hensyn til klimaændringer, så Det er ikke.
+
+00:40:43
+III skal gerne kigge på det hele.
+
+00:40:46
+Og endelig det som jeg efterhånden har sagt mange gange, at i skal huske at de ikke synkroner med hinanden.
+
+00:40:53
+Det skal i huske når i til.
+
+00:40:56
+Til vinter til efteråret får de her tidsata, og som i måske har bemærket, så har jeg ikke sagt noget som helst om de her ekstra højtopløste klimamodeldata, som som jo Allan nævnte og for lige at knytte 3 ord til det så.
+
+00:41:16
+Er det meget? Det er meget spændende. Vi har endnu i stand til at køre modeller med.
+
+00:41:22
+En opløsning, som ikke er 12 km, men er helt nede på 3 km og endda eksperimenterer vi med subkilometer simuleringer altså.
+
+00:41:32
+En model som nærmest kun dækker Danmark, som har 750 m mellem gitterpunkter, og som derfor desværre også har en et tidsskrift på på 20 sekunder.
+
+00:41:45
+Endnu nogle tunge beregninger, og derfor kan vi ikke lave mange af dem.
+
+00:41:49
+Det som vi håber på, og som Vi er ved at udvikle. Det er en eller 2 måde, hvor vi ligesom kan tage de 3 forskellige former for datasæt. Vi har de mange 12 km simuleringer.
+
+00:42:01
+Stationsbaseret observationer altså virkeligheden som desværre kun er der hvor Vi har stationer og så der de her meget meget højt opløste simuleringer, som egentlig giver en bedre rummelig struktur henover Danmark end observationerne gør, fordi Der er et begrænset antal.
+
+00:42:19
+Stationer, der arbejder vi på, og vi gør Vores bedste for at få nogle endnu højere opløste data.
+
+00:42:26
+Til i fremtiden. Det var hvad jeg havde på<3 så hvis hvis Allan skifter, kommer en forhåbentlig tilbage til den her spørgsmålslide ja.
+
+00:42:38
+Perfekt 1000 tak for det og i må jer der lytter med og må meget gerne skrive jeres spørgsmål ude i chatten. Der er allerede kommet et par spørgsmål ind, så dem tager vi fra en ende af og Allan du er blevet mudet, så hvis Det er dig der skal svare, så skal du bare lige runde derinde. Du snakker det første spørgsmål er fra en.
+
+00:43:02
+Anonym hvor der står når nu alle kommuner bruger samme datasæt i klimaatlas.
+
+00:43:08
+Har vi så ikke også brug for, at alle kommuner kigger på samme udledningsscenarier? Tidshorisont og hændelser, så vi for eksempel i relation til DK 2020 arbejdet ikke får store variationer i hvilke sikringsniveau kommunerne planlægger efter.
+
+00:43:25
+Det er vel næsten Allan.
+
+00:43:26
+Jo, jeg skal komme med et forsøg på at svar der.
+
+00:43:30
+Vi har hørt det før det der i forhold til når man hvad skal vi anbefale? Skal man bruge ACP 4,5 eller ACP 8,5 og der har vi sammen med Miljøstyrelsen.
+
+00:43:40
+Lavet en en vejledning i hvilket udslipsscenarie man skal bruge i hvilken den til den planlægning man nu laver.
+
+00:43:49
+Og vejledningen fortæller i virkeligheden bare Sådan en meget kort kontant.
+
+00:43:52
+At planlægger man med noget ind til midten af de her 100 jamen, så kan man godt nøjes med at kigge på 4,5 altså ACP 4,5 hvorimod går man ud og kigger på noget der skal holde frem til slutningen af det her 100 og er der en større usikkerhed og er det ikke noget man bare kan bygge ovenpå eller gøre mere Sådan robust hen ad vejen? Jamen så anbefaler vi at man bruger 8,5, men Der er faktisk lavet en vejledning som som kommunerne kan tage kan tage brug af i forhold til.
+
+00:44:18
+Hvilket udslipsscenarie man man bør.
+
+00:44:21
+Benytte når man laver de her.
+
+00:44:23
+Lille bemærkning Jeg kan knytte til det. Det er at når man kigger på midten af århundredet, er der faktisk meget lille forskel på outputtet fra de 2 scenarier, fordi Der er jo en Der er en masse forsinkelse, men man har et et andet udslip og så tager det nogle år før det giver en anderledes koncentration og så tager det nogle år end det giver en forskel i klimamodellernes output, så Der er ikke kæmpe stor forskel på om man bruger.
+
+00:44:49
+4 5 eller 8 5 II midten af århundredet.
+
+00:44:53
+Lidt er det.
+
+00:44:56
+Som tillæg kan jeg sige Det er jo, Det er jo en udfordring for os at skulle gå ind og og fortælle, hvilket scenarie skal man bruge? Fordi vi kan jo ikke heller ikke selvom Vi er keramik og ved lidt om det, så kan vi jo ikke på på nuværende tidspunkt vide hvad sker der med den globale udledning af CO 2 der? Det har vi jo ikke en som Sådan en et fremtidssyn på, så vi kan kun komme den her vejledning og sige nå, men hvis man tror det eller det jamen, så er det det du skal benytte, så det det som Vores Vores bedste bud på at gøre det Sådan.
+
+00:45:25
+Tak for det så spørger ole hvordan og hvor meget er klimamodellerne kalibreret imod historiske data? Er der nogle eksempler?
+
+00:45:37
+Det er nok en til mig.
+
+00:45:42
+Altså jeg jeg. Jeg talte lidt om det i løbet af præsentationen.
+
+00:45:47
+Ikke kalibrerede som Sådan altså som for eksempel så.
+
+00:45:53
+Er det?
+
+00:45:54
+Af det ene år ikke det samme, altså et bestemt år er ikke det samme som det det samme år observeret. Altså det går via en forholdsvis begrænset mængde af parameter, som bliver brugt i de her modeller, når de løser alle mulige differentialligninger og tilnærmede ligninger af den ene og den 2 slags. Altså Der er.
+
+00:46:20
+Et antal parametre som er.
+
+00:46:23
+Tilpasset klimatologi.
+
+00:46:25
+Altså Sådan man får en form for hver der ligner der, der ligner virkeligheden.
+
+00:46:32
+Er andre datasæt der indgår II modellerne, som direkte handler om, altså som som er rummelige datasæt, som handler om, hvor, hvor, hvor højt, hvad hvad er højden af landjorden II den her gitterboks, hvad er det der vokser der? Hvordan er?
+
+00:46:51
+Hvad arealet som funktion af årstiden og den slags ting? Det er der også ende fordi Det er. Det er væsentligt for beregnet fordampningen.
+
+00:47:01
+Men de er altså, de er ikke som Sådan kalibreret. Altså Det er ikke ligesom en for eksempel en hydrologisk model, hvor man skal have målt alt muligt alle mulige steder i et opland. Det er.
+
+00:47:13
+Det er forholdsvis få parametre der der der indgår, men selvfølgelig har man jo kigget på virkeligheden. Altså man skal jo sørge for, at den klimatologi der kommer ud så vidt muligt er tæt på.
+
+00:47:25
+Tæt på på virkeligheden, men man har Sådan set flere observations data end man har parametre.
+
+00:47:30
+Så så så Det kan jo ikke gøres perfekt.
+
+00:47:37
+Der er kommet lige en opfølgning på det første spørgsmål i forhold til DK 2020 spørgsmålet, hvor der står, hvor kan man finde den vejledning omkring hvilke scenarier der skal bruges fra? Miljøstyrelsen har vejledningen et navn, man måske kan Google?
+
+00:47:53
+Ja den ligger inde på klimaet på forsiden af klimaatlas, Der er et link til vejledningen, der på den slide jeg ved ikke, kan man stadigvæk se slidene. Jeg havde den sidste slide med spørgsmålstegnlet der.
+
+00:48:06
+Nej OK, men men midten på midten af forsiden, der kan i se noget der fortæller omkring de her ACP scenarier, og Der er der et link til i vejledningen, så på forsiden af klimaat.
+
+00:48:16
+Ja lige præcis, hvis man ser i midten af den første.
+
+00:48:20
+Jeg har lavet Sådan 2 kolonner der viser klimaforsiden og forsiden af af datasiden i kan se derude til højre og den første af af billederne i midten af den der kan man klikke. Og så kommer man ind til til vejledningen.
+
+00:48:34
+Så Jeg kan i mellemtiden sige, at hvis i sidder med nogle konkrete erfaringer med brug af klimaatlas, noget i kunne dele med andre, så er vi faktisk ved at overveje at lave en underside til klimaet, som kan fortælle andre brugere. Hvordan bliver det her data brugt og så Sådan nogle use cases, så hvis i har et godt eksempel på, hvordan i har brugt det og noget der kunne inspirere andre. Vi vil meget gerne høre fra jer, så kan vi putte det ind på på klimaatlas som ja inspiration til andre brugere.
+
+00:49:00
+Ja så tror jeg bare vi vil runde af her for for i dag og så husk at i kan se alle de næste arrangementer Vi har planlagt IDNNK inde på Vores hjemmeside DNNKDKI, klimakalenderen og så mange tak til DMI for et spændende oplæg. Det har været en fornøjelse at kigge med og tak til alle jer som også så med.
+
+00:49:26
+Derude jeg håber også i har fået en hel masse ud af det.
+
+00:49:30
+Så ja 1000. Tak for i dag.
+
+00:49:32
+Ja tak for i dag.
+

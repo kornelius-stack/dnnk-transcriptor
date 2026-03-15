@@ -1,0 +1,996 @@
+00:00:04
+Jeg vil bare sige godmorgen til jer alle sammen og velkommen til den her omgang. Godmorgen med DNNK. Mit navn er Camilla Sarko Larsen. Jeg sidder så daglig i Gensofte Kommune, og det er mig, der er vært på webinaret her i dag, som er lidt længere end normalt.
+
+00:00:16
+Og det skyldes altså, at vi stiller skarp på en lidt større sag, nemlig arbejdet med en stormflodsplan for hovedstadsområdet. Og vi taler altså her om en ca. 60 km sammenhængende mega-infrastruktur, så det er ikke så let.
+
+00:00:29
+Og det siger jo næsten sig selv selvfølgelig, at en oversvømmelse af hovedstadsområdet med de samfundsmæssige værdier, der er her, vil få enorme konsekvenser for det danske samfund som helhed.
+
+00:00:38
+Udover at et stort antal borgere vil blive påvirket, så vil det også gå ud over en lang række samfundsmæssige funktioner, altså kritisk infrastruktur osv. Men der er også en masse værdifulde kulturarv og beskyttede naturområder, der er på spil.
+
+00:00:52
+Det er i hvert fald bare grund for, at man i 2022 satte gang i en forundersøgelse, er en samlet stormflodsplan for den centrale del af hovedstaden, og det omfatter de fire kommuner og videre over Dragør, Tornby og København.
+
+00:01:05
+Den første del af forundersøgelsen, eller første halvdel af forundersøgelsen, det man kan sige er den mere stormflodstekniske del, den er netop blevet offentliggjort her i efteråret 2024, og det er den, vi skal høre nærmere om i dag.
+
+00:01:20
+De fire kommuner vil sammen præsentere arbejdet med forundersøgelsen og samtidig fortælle om om de komplekse og forskelligartede hensyn og udfordringer, altså nogle af de lokale perspektiver, kan man sige, som de nu værdsat skal prøve at balancere, og som der uden tvivl også vil være andre, bl.a.
+
+00:01:39
+kommuner, der kan spejle sig i. Dagens oplægsholdere er Morten B.A. Pedersen fra Hvidovre, det er Lise Holm fra Dragrør, Patrick Wildstrup Langvad fra Tornby og Stine, mig, Christlund og Per Andreasen fra Københavns Kommune.
+
+00:01:56
+Og inden jeg slipper jer fem løs, så er der lige et par praktiske bemærkninger til jer ude bag skærmene. Det kommer til at foregå sådan, at jeres kamera og mikrofoner vil være slukket undervejs.
+
+00:02:08
+Så hvis i har spørgsmål, så skriv dem i chatten undervejs i oplægget, og så tager vi dem samlet til sidst.
+
+00:02:16
+Og hvis man nu har en god kollega, der stadig er så heldig at være på efterårsferie eller andet, så bliver webinaret her altså optaget, så det vil være en mulighed for at gensætte det på DNHK's hjemmeside. Med de ord vil jeg bare give ord til oplægsholderne.
+
+00:02:30
+På vejen af DNK siger jeg tusind tak for, at I ville komme. Så scenen er jeres. Værsgo. Jo.
+
+00:02:37
+Tak. Vi kan jo lige starte med at få lidt ansigt på os, der sidder her sammen på Hvidovre Rådhus. Mit navn er Per Andreasen. Jeg kommer fra Københavns Kommune. Jeg hedder.
+
+00:02:49
+Patric Billestrup Langmøder. Jeg kommer fra Torbenby Kommune. Morten B.H.
+
+00:02:54
+Petersen fra Hvidovre.
+
+00:02:56
+Jeg hedder Lise Holm, jeg kommer fra Dragøve Kommune. Jeg hedder Stine.
+
+00:03:00
+Christlund og kommer fra Københavns Kommune. Med det på plads vil vi kaste os ud i en god del af en lille times oplæg. Og vi ville egentlig gerne bede om spørgsmålene til sidst.
+
+00:03:19
+Så har vi bedt om bare at se os ved det derude, for at vi ikke foregriber nogle af de pointer, som vi hver især måtte komme med senere i oplægget. Vi har en lille indholdsfortegnelse her, som lidt i store træk fortæller, hvad vi gerne vil fortælle om.
+
+00:03:34
+En introduktion til hele arbejdet, vi som kommuner har arbejdet med de sidste 10-15 år. Også en indflyvning på forundersøgelsen af en stormflodsplan for hovedstadsområdet. Hvad er det for en størrelse? Hvad ligger der i det? Også de lokale perspektiver, som Camilla fortalte, vi ville komme med.
+
+00:03:54
+Og så til sidst har vi forsøgt at samle lidt op på nogle af de læringer, som givetvis også er noget, som vi håber, I også kan spejle jer i og få noget ud af. Så jeg hopper ud i det her. Det første, en introduktion. Lige for at definere geografin her. Vi er fire kommuner. Vi har Dragø hernede i syd.
+
+00:04:17
+Så har vi videre lidt mere vestpå. Her er København. Ja, nordligt, kan man vel sige. Og Tårnby. Den sidste kommune er Frederiksberg. De er ikke med i samarbejdet, men de er med i geografien. Det ligger inde i København. Det er en separat samtale.
+
+00:04:39
+Noget af det, der kendetegner vores arbejde her, er, at det er et tæt samarbejde. Det er på alle niveauer. Vi sidder her fem i dag, vi er også en sjette person fra Tårnby. Som både på medarbejderplanen, vi mødes hver anden uge. Vi har et cheflag, som også taler sammen.
+
+00:05:00
+Så har vi et direktørlag, der mødes også med jævne mellemrum. Og vi har en borgmesterkreds, der mødes med jævne mellemrum. Så det går altså hele vejen op og ned i vores systemer. Og giver derfor også en meget tæt forankring i vores respektive forvaltninger.
+
+00:05:17
+Og i det politiske arbejde, der foregår, er der en fin pejling på det. Så det er også rigtig vigtigt at sige omkring den måde, vi arbejder på.
+
+00:05:26
+Lidt groft sagt, taler man med den ene her, så taler man ofte med os alle sammen, fordi vi alle sammen involverer det her selvfølgelig med forskellige udgangspunkter og vinkler på det. Der er et stort vidensgrundlag for det arbejde, som vi sidder med.
+
+00:05:43
+Her har vi forsøgt lige at tage nogle af de store nedslag i de fælles planer, strategier og projekter, vi har lavet siden 2011. Vi kunne også godt gå lidt længere tilbage. Og det er ikke fordi, vi skal gennemgå dem her.
+
+00:06:00
+Det er bare for at sige, at det ikke er et arbejde, vi har fundet på i forbindelse med med den her forundersøgelse, eller lige op til det. Det er noget, der har været på vej rigtig længe.
+
+00:06:14
+Og man kan sige, hvis man skal tage nogle af de store konklusioner, måske også når jeg lige nævner forundersøgelsen, så har efterspørgelsen for de konklusioner Meget af arbejdet har været, at vi har behov for, at staten er med som en medspiller. Det har været efterspørgsel fra kommunernes side her.
+
+00:06:35
+For at vi kunne komme videre, skulle vi have en tættere dialog med staten. Det er vi rigtig glade for, at vi er i.
+
+00:06:40
+Nu.
+
+00:06:43
+Vi bliver de helt overordnede ting. Hvordan er det nu, vi bliver ramt af stormfloder i hovedstadsområdet? Der er to retninger, der er afgørende for os.
+
+00:06:57
+Vi befinder os nede ved Øresundsmærket, og vi har de store stormfloder, som vi i De kommer fra syd, der har vi vandet, der bliver maset langsomt ind ad Nordsøen, Kattekat, ind ad Øresund, fylder Østersøen op igennem den botniske bukt. Og på et eller andet tidspunkt, så skal det tilbage.
+
+00:07:19
+Og vi er jo ikke kun lige et år og en dag forbi stormflodens sidste år, som jo viste, at nogle af de mekanismer, som er på spil, og var på spil tilbage i 1872, sådan set stadig er meget relevante at være opmærksom på.
+
+00:07:36
+Og det er den type stormfloder, når vi siger den de værst tænkelige stormfloder i syd, så er det den her maksimale opfyldning af Østersøen med nogle med nogle ret kraftige vindforhold, der ligesom er det, vi forholder os til der. Det kommer jeg lidt nærmere ind på. Den anden er de nordgående.
+
+00:07:55
+Det er forkert at kalde dem stille. Vi havde senest Bodil i 2013, som ramte vores område. Selvfølgelig også andre dele af landet. Det er de to, for at sætte noget i nyere tid, vi kan forholde os til. Og en markering af, hvordan vores respektive kommuner skal og forsøge at forberede os på det.
+
+00:08:20
+Vi kommer nærmere ind på det i de separate oplæg på det. Det er bare lige for, at I derude ved, hvad det er, vi forholder os til i vores snak her. Så lige en indflyvning på forundersøgelsen. Hvis vi starter med kortet herude til højre, så er det en ca. 60 km lang kyststrækning.
+
+00:08:43
+som Camilla sagde anledningsvis, her fordelt på 14 delstrækninger, og hvis man kigger ned omkring, der øger sig det med nogle nede syd, så er der nogle variationer over det, som jeg ved, at Lise vil komme ind på senere. Forundersøgelsen består af fire delrapporter.
+
+00:09:03
+Det første er en delrapport omkring sikringsniveau, altså hvad højt er det for nogle vandstande, vi overhovedet kigger frem imod.
+
+00:09:10
+Det næste er en kortlægning af, hvad er det for nogle anlægstyper, økonomien, miljøforhold, der ville skulle til for at kunne sikre os mod de her vandstande, som bliver belyst i forundersøgelsen.
+
+00:09:22
+Så vil der i Den næste halvdel af arbejdet, så man kan kalde det en mere administrativ del af det, bliver fremlagt i en samfundøkonomisk analyse. Det er en bedst-at-cost-benefit udgave her.
+
+00:09:36
+Og så kommer der også et forslag til finansiering, organisering og myndighedsbehandling, som en del af forundersøgelsen her også. Sikringsniveauer, kortlægning af anlægstyper osv., det er klar, og det er altså det sidste, det udstår. og det kommer her i slutningen af året.
+
+00:09:57
+Hvis jeg lige hopper ned i sikringsniveauerne, hvad det er for en størrelse her. Vi har ikke gode folk i Rambøl og Køstdirektoratet og DMI har fået sammensat et kort herude til højre, som viser det fysiske maksimum for en oversvømmelse i 2075.
+
+00:10:21
+Sikringsniveau-rapporten i sig selv, den er udarbejdet af Køstdirektoratet og DMI. Den analyse her, den kigger altså på det her fysiske maksimum, og der er vi altså oppe i de allerhøjeste CO2-udledningsscenarier.
+
+00:10:36
+Vi taler om den største mulige opfyldning af vand i Østersøen og de værst mulige vindforhold. Modellerne ligesom kan strækkes, det tror jeg. Man kan se, det er jo meget et spørgsmål om, hvad der har været sådan troværdigt inden for modellerne i det her.
+
+00:10:53
+Og der kan man som en lille sådan kuriositet sige, at Stormflodet den sidste år i hvert fald gav anledning til, at den her opfyldning af Østersøen kan noget mere end det lige lå for at arbejde ind i modellerne.
+
+00:11:11
+Så det er jo nogle af de ting, hvor man vil sige, at når virkeligheden lige pludselig melder sin ankomst, så opstår der jo et nyt vidensgrundlag, og det kan vi jo sige, Det ser selvfølgelig voldsomt ud på sådan et her kort, men det er jo også rigtig, rigtig vigtigt, at vi kan få sådan noget med.
+
+00:11:28
+Så kan man jo sidde og kigge lidt på de designvandstande, som er lagt, og det er jo det her, nu kaldes det designvandstanden her, fordi vi taler om et stille havspejl, som uden bølger bevæger sig op i de her 3,4 meter i nord og 4,4 meter i syd i 2075.
+
+00:11:49
+Og så afspejles her i det fysiske maksimum over i kortet til højre med et bølgetilæg af den udbredelse, det ligesom vi kunne have. Som det skarpe blik vil se, er der meget præcist en meters forskel på nord og syd.
+
+00:12:08
+Det er nogle af de geografiske forhold, der gør sig gældende her i hovedstadsområdet, hvor vi cirka i midten af Amager har det, der hedder Drådentærsken, som skaber den her forskel i vandstanden på den ene og den anden side i grov træk.
+
+00:12:29
+Den anden del af forundersøgelsen, det er jo så den her med de tekniske løsninger og miljøforholdene og anlægsomkostninger. Jeg tænker ikke, at vi skal sidde og dvæle ved tabellen herud til højre. Det er mere bare for at vise, at det er et stort stykke arbejde, der er lavet.
+
+00:12:46
+Der er også blevet lavet nogle magasiner at kigge lidt på. Der er de her designvandestande, som jeg nævnte før.
+
+00:12:51
+Og så er der altså et sikringsniveau, som man også kan aflæse ved siden af, som er designvandstanden plus et bølgetillæg vurderet i forhold til de anlægstyper, som er blevet vurderet relevante i de områder. Det er mulige løsninger på 60 km kyst. Det er et stort arbejde.
+
+00:13:13
+Det er 14 delstrækninger, som hver især har fået en grundig analyse. med forskellige ting i. Vi har som kommuner kigget meget på, en tilbagevendende melding for os er, hvordan vi sikrer, at vores byer fungerer, og de funktioner, som er i byerne.
+
+00:13:33
+Hvis ikke bevares, så i hvert fald tages højde for i den udstrækning, at det nu er muligt. Så der indgår altså også her en screening af, hvad kan man kalde relevante naturmiljø- og landskabelige forhold, som er værd at have med her.
+
+00:13:50
+Og det, der er vigtigt at have med her i virkeligheden, det er jo, at det er et første bud. på en samlet løsning. Det er en af de ting, vi er gået ind i forundersøgelsen med fra kommunernes side. Det er at kigge på en samlet ydersikring. Det her er det første meget reelle bulle på.
+
+00:14:07
+Hvad vil det sige, når man står med det enkelte anlæg og på den enkelte strækning? Hvad er det så, vi skal arbejde med? Kigger man på den anden sidste bulle, så har vi en anlægsperiode vurderet. til noget, der ligner 30-40 år. Det her er ikke et færdig produkt, men det er altså en...
+
+00:14:28
+Jeg tror i hvert fald, at vi også nogle gange i forundersøgelsen har kaldt det en samtalsstarter. Nu har vi faktisk noget at tage i dialog med, og vi er fra vores kommuners side. Skal vi også på forskellige vis tale med vores lokalområder omkring det her?
+
+00:14:49
+Den videre proces for forundersøgelsen, tror jeg jeg fik nævnt det indledningsvis i virkeligheden. nogle udstående omkring samfundsøkonomi, finansiering og organisering. Det er noget, der afsluttes her 1.
+
+00:15:04
+november, og så får vi en forelæggelse i vores fire kommunalbestyrelser og i regeringen i noget, der ligner december-januar, alt efter hvad de politiske processer respektivet kan lade sig gøre. Det er faktisk noget af det arbejde, vi er i gang med, som er helt kalenderagtigt at få styr på nu.
+
+00:15:23
+Alt, hvad jeg har nævnt her, det kan findes inde på forundersøgelsens hjemmeside, som der ligger et link til her. Jeg tænker, at det her er et oplæg, der bliver delt, så hvis man ikke kender hjemmesiden, så er der i hvert fald et link her, hvor man kan grave sig ned i de...
+
+00:15:38
+Det er en enorm arbejde, som er lavet fra køstdirektoratet og DMI på den første omkring sikringsniveauer. Det er meget udføreligt og virkelig spændende. Og en opdatering af den viden, vi kender her i hovedstaden på Stormflodsområdet.
+
+00:15:55
+Det samme på den anden hånd, de tekniske løsninger fra Sunderbilt og hvor Sunderbilt er projektejer på det produkt, og med Rambøl som pænefører på det. Det er altså også enormt opdatering af den viden, vi har, og vil fremadrettet være et grundlag for det arbejde, vi skal lave.
+
+00:16:17
+Så det bliver rigtig spændende at se. Nu vil jeg måske lige kigge lidt hertil siden, om der er nogle ting, jeg ikke har fået med, og måske give ordet til, hvis der er noget, jeg bør få lavet. Det ser ikke udenvardt sådan ud. Så vil vi kaste os ud i de lokale perspektiver. Lige indledningsvis på dem.
+
+00:16:41
+Vi har lige nævnt nogle af de ting, som sådan er fælles temaer for alle fire kommuner. Der er kysbeskyttelsesloven, som er den store joker.
+
+00:16:52
+Uden at vide, hvem der præcis sidder bag skærmen, hvis der sidder andre kommuner og alle, der har kigget i medierne, så er det jo en joker for os alle sammen, hvordan får vi sammenstykket nogle projekter, som kan løftes med den lovgivning. Der har vi i hvert fald en udfordring her i Hunstersområdet.
+
+00:17:11
+Så har vi her i afbilledet på højre side et stort natur- og tungtusinområde, som dækker hele Dragørskøsten næsten.
+
+00:17:22
+så dækker den store del af Tornbys sydlige del, og så op igennem det, der hedder Kalveboden, hvor man ser indløbet til Københavnshavn også, og det som er en god del af Hvidovre og en god del af Københavns sydlige del.
+
+00:17:38
+Og det er i hvert fald en opmærksomhed, vi har, fordi hvis vi skal lave noget stormflodsikring i de niveauer, som der lige nu ligger sig op til, så taler vi om en portløsning hernede omkring den.
+
+00:17:55
+Lige der, hvor der står Øreholme, den indsejling, der er her, der er en lille ø, der hedder Skraderholm, så i forbindelse med den kunne man tænke sig, at der kom noget portløsning, og der er Natur 2000-området altså en opgave, vi skal have løftet, og også en af de ting, hvor vi rigtig gerne vil have staten med til at spille med på, hvordan får vi løftet det her på en god måde, så vi også konstaterer, at der er nogle forandringer i naturen fremadrettet, Og det vil havvandsbejlet, stigning, alt andet lige gøre værre, om man vil.
+
+00:18:31
+Så de særligt fugleflorseringsområder, som bliver beskyttet i det her område, vil blive ændret de næste 100 år frem, som kan man sige er det langsigtede perspektiv her. Og højst sandsynligt også de 50 år frem, som er et mellemlangsigtet arbejde.
+
+00:18:48
+På det mere by- og kommunenære for os alle sammen, Det handler jo om, at hele hovedstadsområdet er komplekse byområder. Vi er for det meste tæt bebygget, og der hvor der ikke er bebygget, så er der ret gode grunde til, at det ikke er bebygget nu. Det kan være fredning og forskellige hensyn.
+
+00:19:11
+Så vi er fyldt godt op for det meste, og der er infrastrukturen jo selvfølgelig en god del af det, som bare i forhold til mange andre steder, fylder meget og er en rigtig stor del af et hovedstadsområde, helt naturligt.
+
+00:19:27
+Så skrev jeg sådan afslutningsvis, at det ligesom giver den her kamp om pladsen, det er noget, jeg tænker, man kender alle steder i landet, hvad er det den plads, vi har til rådighed skal bruges til.
+
+00:19:38
+Og det gør os overskældende heroppe, og i virkeligheden noget af det som en snak, som jo bliver endnu mere aktuel med de rapporter, vi har fået fremlagt til forundersøgelsen, fordi nu kan vi begryndt rent faktisk have tale om, hvad er det, vi skal bruge den enkelte delstrækning til om 50 år, om 100 år i virkeligheden også.
+
+00:19:57
+af den ene type udvikling, vi ønsker, eller af den anden type udvikling. Så vi begynder altså at tage nogle aftaler med noget meget stor byplanlægning her også, som jeg tænker også er relevant i vores alle 80 kommuner på forskellige vis. Nu vil jeg give ordet videre til Lise i dagværelset.
+
+00:20:19
+Så sætter vi lige den her videre her. Yes.
+
+00:20:27
+Det, der er.
+
+00:20:31
+Markeret.
+
+00:20:31
+På kortet her til højre, det er dragørne i den sydlige del af Amager. Dragør er jo kendetegnet ved at ligge ekstremt lavt, ligesom resten af Københavnsområdet og Amager i særdeleshed.
+
+00:20:47
+Der er kyst mod tre verdenshjørner, som gør, som gør oversvømmelsesrisikoen endnu mere interessant og lidt spændende, fordi vandet har det med at løbe på tværs. Vi ligger syd for lufthavnen. Det kan I se på kortet.
+
+00:21:09
+Det vil sige, at i selve draget er der faktisk ikke kritisk statslig infrastruktur, og det er noget af det, vi kommer tilbage med.
+
+00:21:16
+Det er derfor, at Dragør på en måde har sådan lidt en mærkelig status i det her arbejde, som jeg var sat i gang med henblik på i særlig grad, og kigge på den statslige infrastruktur og hvordan man kan beskytte den. Men Dragør ligger så at sige på ydersiden af den kritiske statslige infrastruktur.
+
+00:21:38
+Vi har i Dragør, Bysamfund. Vi har også åbent land, og vi har en lille smule sommerhuse. Men det meste af det er jo sådan en helt almindelig bysamfund.
+
+00:21:52
+Det er også derfor, at det er sådan en lidt sjov opgave at begynde at snakke om ekstremhendelser og beskyttelse mod ekstremhendelser af et almindeligt bysamfund. Men det har jo altså at gøre med, at vi alligevel er en del af hovedstadsområdet.
+
+00:22:06
+Men som I kan se på kortet, så er der også en del åbne areal, og rigtig meget af det åbne areal, det er for eksempel militære arealer. Der er rigtig meget af det, som er fredet. Vi har rigtig meget kulturarv, som også er beskyttet.
+
+00:22:24
+Så der er rigtig mange bindinger ude i dragrådet, som gør, at vi skal være ret opmærksomme på, hvordan og hvorledes vi overhovedet går til den her kysbeskyttelsesopgave. Som de andre kommuner er vi en del af EU's oversvømmelsedirektiv.
+
+00:22:45
+Det vil sige, at vi er blevet pålagt, at vi skal nedbringe vores risiko for oversvømmelse. Og så har Dragør i mange år arbejdet med at udvikle en kystbeskyttelse i lokal perspektiv. Og det pågår parallelt med det arbejde, som er sat i gang af staten.
+
+00:23:10
+Men det er jo sat i gang med en målsætning om at beskytte drage mod det, vi kalder for en 100-årshændelse i 2050 med et perspektiv frem til 2100. Det er sådan en helt anden sikringstankegang, som har ligget til grund for den udvikling af det lokale projekt, der er lavet.
+
+00:23:31
+Men alligevel kan man måske godt kigge lidt på begge dele og komme lidt tilbage til det sidste. Men vi har altså 13 km kystlinje med meget lavt liggende bagland.
+
+00:23:43
+Vi har Den udviklingsplan, som blev udarbejdet i 2021, den havde bund i en arkitektkonkurrence, hvor der blev udarbejdet nogle forskellige løsninger på nogle forskellige delstrækninger, som spejlede og understøttede de karakteristika, som findes derude i forvejen.
+
+00:24:08
+Og rigtig meget af det handler om, at der er beskyttet natur, der er beskyttet kulturarv, så der er sådan Der udarbejdes nogle stedstilpassede løsninger, som prøver at tage hånd om de natur- og bykvaliteter, som er i forvejen. Det kan man måske ane lidt på billedet i midten.
+
+00:24:33
+lavt byggeri, som godt kan blister den lidt ekstra småt, hvis man begynder at snakke om kæmpe store stormflodsporte og meget høje diger.
+
+00:24:48
+Så der er sådan en balance i, har Dragør udarbejdet en løsning på kort sigt og med perspektiv til en løsning på på længere sigt, hvor man på kort sigt starter tættere på bebyggelsen, kan man sige.
+
+00:25:03
+Her i det midterste billede, I kan se, det er en visualisering, som Akitemi og Covi har lavet på havnen, hvor der er foreslået nogle semipermanente løsninger med sådan nogle beredskabsløsninger ind imellem, så man bevarer det lokale havnemiljø og bevarer kontakten til vandet.
+
+00:25:21
+med et perspektiv til en løsning på lang sigt, som går uden om havnen. Og der kommer jeg lige til at vise noget, som forklarer det lidt mere.
+
+00:25:31
+De løsninger, som ligger lokalt i Dravet, de arbejder i ret tæt dialog med borgerne, og der er faktisk rigtig mange borgere, i stor træk bakker op om de lokale løsninger, som de selv har været med til at udvikle, og de har selv udfordret dem og fået dem tilpasset.
+
+00:25:52
+Og det at lave kysbeskyttelse i Dragøer, det er sådan en lidt ny ting, fordi der er rigtig mange steder, hvor der ikke er noget kysbeskyttelse i forvejen.
+
+00:26:03
+Det er også derfor, det haster lidt for Dragøer at komme i gang med at lave det her, for vi har faktisk nogle steder, hvor der reelt ikke er kysbeskyttelse. Til gengæld har vi jo nogle ret fantastiske naturarealer med noget ureguleret kys, som vi ikke ser ret mange steder i den her del af landet.
+
+00:26:19
+Så springer jeg tilbage ind i det statslige projekt, og det gør jeg med de to kort især, som der er lidt forskel på. De hedder noget så sigende som 5a og 5b, og de tager altså udgangspunkt i de der typologier, som er udarbejdet lokalt. Det var derfor, jeg startede med at fortælle om dem.
+
+00:26:40
+Den ene løsning, den der hedder 5A, det er den, der er til venstre. Det er en slags kombinationsløsning. I kan se, at der er en sort streg, som går lige på sydsiden af lufthavnen.
+
+00:26:56
+og i en forlængelse af det eksisterende ulderupdi, og det svarer altså til, at man laver en løsning, hvor beskyttelseslinjen mod den høje hændelse, den lægger man inde så tæt på lufthavnsarealet som muligt, delvis inde på selve lufthavnsarealet, og så kigger man på en kombination med noget, der svarer til den lokale løsning ude langs vandet.
+
+00:27:24
+Og som I kan se i begge løsninger, så er den vestlige del af kommunen ikke med i det her, fordi der arbejder vi fortsat med det lokale projekt. Det er derude, hvor vi har kun spredt bebyggelse og åbent land. Så er der det alternativ, som hedder 5B.
+
+00:27:45
+Det er, hvor man rykker beskyttelsen mod ekstrem hændelse ud langs kystlinjen på Drager. overflødig kører de to fløjdiger, kunne man kalde dem, inde på land syd om lufthavnen og i forlængelse af Ullerup Dide, men til gengæld har den meget høje sikringslinje ude langs kysten.
+
+00:28:04
+Og det betyder altså sådan, kan man sige, ungefær i sikringshøjder er man Ikke helt dobbelt op ude på den yderste, men derhen af. På billedet til højre med en ekstrem hændelse, der snakker vi om sikringskorte på mellem 5 og 10 meter afhængig af, hvor på kysten vi er.
+
+00:28:25
+Og i lokal perspektiv, så er vi på mellem 3 og 7-8 stykker på den lokale. Og det kan man sige, det er stort, og det er også meget dyrt for en relativt lille del af hovedstaden.
+
+00:28:51
+Og det er jo noget af det, som vi kommer til at se nærmere ind på, at det kommende giver det mening at arbejde med sådan nogle dyre løsninger.
+
+00:29:02
+De her løsninger, som er i spil, som er dels et landskabsstige, som er en form for tilpasning ind i eksisterende landskab, og så er det forlandsløsninger hen foran.
+
+00:29:17
+hen foran Søvakket, som er en bebyggelse, nede i den sydlige del, der er en lille gul mærke på, og så hen foran det, der hedder Sydstranden, og udenom havnen, og hen og koble sig på Kastrup Hallø.
+
+00:29:33
+Så selvfølgelig rundt om havnen er det en lidt hårdere løsning, men det er det, det i store træk går ud på. Og nu går jeg så lige tilbage til en illustration, som er arbejdet i regi af Dragørs udviklingsplan.
+
+00:29:55
+Og det er for lige at summe op, fordi man kan sige, at der er godt nok mange løsninger i spil i den sydlige del, og det er fuldstændig rigtigt. Det gør også, at det øger kompleksiteten. Det er svært at forstå, både for politikere og borgere og for embedsmænd. fordi der er lidt mange løsninger.
+
+00:30:16
+Til gengæld kan man sige, at en af fordelene for Dragø er, at der har været nogle politiske drøftelser, at der har været et ret langt træk, hvor man har kigget på, at de løsninger, som Dragø kigger på lokalt i perspektiv frem mod 2100, måske er de ikke helt så langt fra, at man kan forestille sig noget af det statslige arbejde, som kunne ligne det.
+
+00:30:40
+I den øverste illustration kan I se, at de løsninger, som Drava lokalt arbejder med på den lange bane, det er dem, som Rambøl og SLA har viderefortolket i det statslige arbejde. Så på den måde er det alligevel inden for samme løsningstypologikatalog, at vi arbejder.
+
+00:31:09
+Hvis man vender det om og siger, at det måske kan være, at nogle af de lokale kvaliteter, som vi har gjort os lidt umage for at tilpasse, for eksempel de her naturforhold og prøve at gå uden om fredning og prøve at opføre os så ordentligt som muligt i Natur2000, måske kan nogle af de kvaliteter, som vi har lavet i et Måske kan de i den videre færd blive arbejdet med ind i et eventuelt statsligt projekt.
+
+00:31:42
+Vi ved jo ikke, hvad næste skridt er i det. Men som en slags lokale benspind eller lokal kvalitetssikring af det store projekt, som jo er et mega-infrastrukturprojekt. Og så er der noget timing i det. Som Per var ene på, så er det et statsligt projekt. De har jo et anlægsperiode på en 30-40 år.
+
+00:32:09
+Og Drave Kommune har behov for at lave kysbeskyttelse inden 2030. Fordi vi har, som nævnt, kun ret lav, og flere steder har vi ingen kysbeskyttelse. Så man kan måske også se det som en slags etapeudvikling.
+
+00:32:26
+Det er i hvert fald noget af det, som vi prøver at øve os på lokalt, det er at prøve at Dels er alle boldene i spil, men måske også se de her forskellige løsninger i nogle forskellige perspektiver.
+
+00:32:38
+Og samtidig med det, i den sydvestlige del af kommunen arbejder Dragør parallelt med at modne og konkretisere den udviklingsplan ind i en dispositionsforslag for at være sikre på, at vi får noget kysbeskyttelse op at stå i den mest sårbare del af kommunen inden 2030.
+
+00:32:59
+Det var nogle af de steder, Som altid bliver oversvømmende, når det er oversvømmende. Billederne her fra neden er fra nogle af de borgerdialoger, vi har haft for nylig, hvor vi bl.a. havde borgerne med ud at se på, hvor højt vil sådan et 100-års-stige være.
+
+00:33:19
+I kan se, der står en hvidhåret mand med hånden på en pæl, og den pæl angiver højden på en 100-års-beskyttelse ude i den vestlige del af kommunen. Det er sådan noget, som kan give borgerne et billede af, hvad det er, vi snakker om, når vi snakker om de her sikringshøjder.
+
+00:33:39
+Hvad betyder det for mit hverdagslandskab? Hvordan kan jeg gå hen over det? Og kan jeg kigge ud? Og den slags. Så det er sådan noget af en lokal borgerdialog, den her fra i sommer.
+
+00:33:53
+Og hvor borgerne hele tiden også har mulighed for at sige, hvad er så vigtigt for dig og for jer, når vi kommer med de her løsninger. Og der kan vi jo se, at der er rigtig mange. Sådan noget som det, at man fortsat kan komme ud til vandet. Og det, at man respekterer det fugleliv og det naturliv.
+
+00:34:14
+Og de fredninger for den sags skyld, som vi har derude. Det er noget af det, som vi hører fra borgerne. at de bakker op om.
+
+00:34:27
+Og selvfølgelig bliver de lidt forvirret af det her statslige, det gør vi sådan set alle sammen, men det er noget af det, som man så har som ekstra opgave, det er at prøve at kommunikere så godt som muligt om de her forskellige spor, som eksisterer parallelt, og som nok vil komme til at eksistere parallelt et stykke tid, indtil at der bliver truffet en beslutning om enten det ene eller det andet, eller en form for kombination af det statslige og det lokale.
+
+00:34:57
+Og med det, så tror jeg faktisk, at jeg vil give ordet videre til Morten. Jo, det tror jeg. Ja.
+
+00:35:08
+Det er det. Og.
+
+00:35:13
+Så fortsætter jeg her lidt mere ud mod vest omkring Hvidovre Kommune. Vi har jo også arbejdet med stormkludssikring igennem. Ja, mange år. 10-15 år efterhånden.
+
+00:35:31
+Og jeg vil sige, at den oplevelse, der har været med at være igennem den proces, det er, at hver gang vi gravede os lidt ned i udfordringerne, så viste de sig at være endnu større, end vi havde forestillet os på forhånd. Nu håber jeg ikke, at de bliver større.
+
+00:35:46
+Så jeg tror, at vi begynder at være der, hvor vi med den her foranalyse har den samlede fornemmelse af, hvad det er, vi arbejder med.
+
+00:35:58
+Det der sker omkring Hvidovre, det er jo først og fremmest, at der er tale om, at der skal etableres to store stormklodsporte ved Skraderholmen, som Per også talte om. Der hvor der er åbent ind til Kalvebroderne og videre ind til Københavns Havn.
+
+00:36:23
+Der er en motorvejsbro, går over og lige i forbindelse med den, så vil det nok være nødvendigt at isablere de her to porte. Dem kommer jeg lidt tilbage til. Så består sikringen af et kystlandskab.
+
+00:36:38
+Det er det, der er farvet lidt grønt på sydsiden af Øreholme, hvor tanken er, at nu når De diger, som er der i forvejen, skal forhøjes, så er der der nogle muligheder for at prøve at få skabt en lidt mere naturlig kystlinje end den, der er lige nu, som består af store sten og asfalt.
+
+00:37:02
+Yderligere er der så behov for sikring på de diger, der er omkring Avedøre Holm i dag. De er for øvrigt tre meter høje, som de er lige nu, men det er så ikke nok til det her.
+
+00:37:12
+Og det er så en kombination af digerforhøjelser, af højvandsmure, og at flere steder porte på land, som man kan køre ind og ud af, og som kan lukkes i tilfælde af stormflod.
+
+00:37:26
+Det gælder blandt andet også Gammel Køge Landevej, som er en af de store trafikår i området, at den også skal have en stormflodsport. Nogle af de væsentligste punkter, som stadigvæk står tilbage, som vi skal have afklaret omkring, hvordan vi gør tingene her i den her del af sikringen.
+
+00:37:46
+Det er sådan noget, som Avedøreværket, der leverer en meget stor del af både el og varme til Vestegnen, som ligger nede i det sydeste hjørne af Vedreholme.
+
+00:37:59
+De har både brug for, at man kan komme til dem fra land, og fra vand, så lægger man bidet på indersiden, så har de svært ved at komme ind over det fra land. Lægger man det på ydersiden, så er man tæt på at lukke havnen.
+
+00:38:11
+Så der er sådan nogle overvejelser om, hvordan gørs det på den bedst mulige måde, så vi også er i dialog med Ørsted omkring, hvordan det kan komme til at se ud. Så har vi en udfordring med, at vi skal have sammenknyttet det.
+
+00:38:23
+Vi ligger jo ude i den yderste ende af den sikring, vi taler om i dag, om den centrale hovedstadsområde.
+
+00:38:31
+Men vores naboer Brøndby, Ishøj, Vandensbæk og Greve Ligger lige ved siden af os, og sammen med dem har vi Køge Boks Strandpark, som først og fremmest er et rekreativt anlæg, men som også fungerer som køstsikring, og hvor der også er et køstsikringsprojekt omkring at hæve nogle af de diger, der er der.
+
+00:38:59
+Og det skal vi selvfølgelig have til at spille sammen. Endelig har vi en udfordring med vandkvaliteten i kalveborderne, som jeg også kommer tilbage til. Og så har vi bagvand fra Harstrup Å, fordi den udfordring, som vi i første omgang ikke forestillede os at være så stor, den er måske mere markant.
+
+00:39:19
+Og det er også en ting, jeg lige vil komme tilbage til. Og så har vi det sidste spørgsmål, som Lise også var inde på. Hvor hurtigt skal det gå? To store porte. til at sikre kalvebroderne. Det kan hurtigt tage 10-15 år, før de står der. Og i den tid er havvandlet stedet yderligere 10-15 cm.
+
+00:39:44
+Og det er måske nok til, at vi begynder at have alvorlige problemer med vores kystlinje inde i kalvebroderne. Så der har vi også nogle udfordringer der.
+
+00:39:53
+Ser vi på det område, vi taler om her, nemlig kalvebroderne, Så er det som sagt et Natura 2000-område, og udover at det har nogle beskyttede naturtyper i form af sandbanker, lavvoldvandede bukter og vige, så er det også et centralt forageringsområde for fuglereservatet, som er årsag til beskyttelsen, og det vil sige, at der skal Der skal meget gerne fortsat være en god vandkvalitet i det område, så fuglene fortsat har noget at spise.
+
+00:40:34
+Der er to åbninger ind til kalvebroderne. En på hver sin side af den lille ø, der hedder Skræderånden. Der er den til venstre, som er det gamle oprindelige strømløb ind imellem Sjælland Amager, som hedder Sorteranden.
+
+00:40:50
+Og så er der til højre en gravet rande, der bliver etableret samtidig med man inddæmmede Vestermark. Og der er blevet lavet en særlig analyse omkring, hvad sker der her.
+
+00:41:05
+Fordi det er jo helt oplagt, at den billige løsning her ville være at lave en dæmning i sorte randen og en port i kalvepåde randen. Fordi en port koster trods alt det helvede to porte. Så nogenlunde i hvert fald.
+
+00:41:22
+Men for at få det afklaret, så er der lavet en dybere analyse af, hvad vil der egentlig ske. Og den kommer meget klart ud med, at der er brug for to porte. Det vil få en væsentlig påvirkning af kalvebroderne, hvis man begynder at indskrænke vandgennemstrømningen igennem det venstre løb for meget.
+
+00:41:47
+Og det er det lille indsatte kort. Det viser noget om udviklingen i sanalitet, hvis man lukker for det. Og der kan man se, at der er konsekvenserne relativt store. Så det er en af de ting, vi har fat i. Hvad er det naturmæssige grundlag for beslutninger for, om vi nu skal have én eller to porte?
+
+00:42:15
+komme lidt mere ned i detaljer med her. En af de andre udfordringer, som vi er stødt ind i, det er det her med bagvand, eller koblet hændelser, eller hvad man kalder det.
+
+00:42:29
+Fordi hvis man nu forestiller sig, sådan lidt skitseret her, at vi sætter portet op ved Skraderholmen, og der også er portet oppe i Nordhavn ved Kronløbet, så har vi jo sådan set lukket Kaldebroderen og Københavnshavn ene.
+
+00:42:46
+Og vi ser jo generelt mere og mere, at kraftig regn og stormflod faktisk begynder at optræde samtidig.
+
+00:42:56
+Det kan godt være, at det ikke er direkte skybrud, men specielt langvarig regnvej over måske et døgn eller mere, hvor det bare regner og regner og regner i et område, der måske allerede er gennembløst.
+
+00:43:13
+så kan vi sagtens forestille os en situation, hvor de her kraftige lavtryk, der skal til for at drive stormfloden, faktisk også medfører så meget regn. Så vi kan løbe ind i, at vi både skal håndtere kraftig regn og stormflod på en gang.
+
+00:43:32
+Og der har vi så det problem, at hvis vi kigger på det her område, Så har vi flere store tillidninger af vand. Vi har dels Haastrup Å, som afleder fra 80 kvadratkilometer opland.
+
+00:43:51
+Vi har flere regnbetingede udløb, og så har vi også nogle store skybrustunder, som er ved at blive etableret, som leder ud til havnen.
+
+00:44:03
+Og vi havde egentlig fra tidligere tider tænkt, at det var nok til at håndtere, indtil vi havde nogle møder med andre, der drev store stormflodsanlæg rundt omkring i verden, som sagde, at bagvand er altid noget, man skal tage alvorligt.
+
+00:44:24
+Og vi prøvede overslagsmæssigt at se, er det egentlig et problem for os eller ej.
+
+00:44:30
+Og det, som det viste sig, det er så, at hvis man så den forstørrelsesorden sky prøver at give det på 60 mm regn over harstolåsopland, så vil det alene kunne medføre en vandstandsstigning i galvebordet på galvebordens areal på 1,2 meter.
+
+00:44:49
+Det vil sige, at vi faktisk er deroppe, hvor når vi lægger det sammen med vand fra skybrustunnel og så videre, så kan vi meget nemt ende i den situation, at hvis vi lukker portene i kraftigt regnvejr, så bliver vi bare oversvømmet af regnvand i stedet for.
+
+00:45:04
+Det er der som udgangspunkt tre løsningsmuligheder på. Vi kan enten lede regnvandet udenom kalveborderne, det vil sige lægge Haarestrup, Å og Svibrodstunglerne om. Det er ikke noget, jeg på København vil være så glad for. De er lige snart blevet bygget. Vi kan også pumpe vandet ud af kalveborderne.
+
+00:45:25
+Det er voldsomt store vandmængder, der er at tale om der. Eller vi kan bygge højadier i baglandet rundt om kalvebordene, så vi også kan håndtere en vandstandsstigning på grund af regn, hvis porten er lukket.
+
+00:45:43
+Der er mange vidser i det her, og det er også noget af det, der gør det svært at komme med sådan en enlig risikovurdering for øjeblikket.
+
+00:45:51
+Og det er også derfor, at det punktet som sådan er blevet fremhævet som et, der skal kigges mere på, og hvor der skal arbejdes mere med, hvad er det for løsninger, vi opererer med. Og jeg tør ikke sige, hvad det bliver. Jeg kan se, at vi bliver nødt til at gøre noget.
+
+00:46:10
+Hvis vi skal kunne håndtere 1,2 meter regnvand i kalvebroderne, så skal vi allerede lukke portene ved en vandstand under 30 centimeter. Og det kan den jo være i mange uger i træk i løbet af en vinter, hvor den ligger på plus 50, plus 60. Så hvornår skulle vi så i givetfald lukke det porte?
+
+00:46:33
+Det giver nogle udfordringer adressemæssigt, som sagt ikke er løst, og peger på, at vi kommer til at finde nogle andre løsninger end det, vi har fat i der. Ja, det var sådan nogle af de største udfordringer, vi står med her.
+
+00:46:51
+Og jeg tror egentlig ikke, jeg vil sige så meget mere, så jeg tror, jeg sender det videre til København. Og det er Stine, som.
+
+00:47:01
+Lige rykker alle billederne. Sådan der. Smukt. Så har.
+
+00:47:12
+Vi jo.
+
+00:47:12
+København. som fylder en klat i den nordlige del af hele forundersøgelsens geografiske område her. Og man kan sige, at vi har jo de delstrækninger, der knytter os til København. Det er jo porten nede i Kaltebroderne.
+
+00:47:35
+Og ellers er det faktisk det meste af den østlige kyst, som vi også kalder Østhavnen. Og ligesom de andre kommuner er vi jo også udpeget som risikoområde, jernfør EU's oversvømmelsesdirektiv, så vi har også en risikostyringsplan.
+
+00:47:56
+Derudover har vi en række andre planer, også klimatilpasningsplan og stormflodsplan.
+
+00:48:03
+Og.
+
+00:48:03
+Man kan sige, det der måske har været interessant for os at dykke lidt ned i, fordi vi har alligevel en række delstrækninger langs Østkysten, det er i virkeligheden, hvad er det for nogle hensyn og nogle udfordringer og karakteristiske, der gør sig gældende, når vi skal kigge på stormflodsikring af vores Østkyst.
+
+00:48:22
+Og Per var kort inde på det her i introduktionen til hele forhåndersøgelsen, der er, at en af de ting, som København også må må arbejde med, det er, at vi faktisk har udfordret stormfloder fra både nord og syd.
+
+00:48:38
+I vores stormflodsplan for 2017 anbefales der, at vi sikrer København til en tusindårshændelse af 2100.
+
+00:48:45
+Men den viste også ud fra nye samfundsøkonomiske beregninger, at vi bør prioritere at få sikret os mod de sydlige stormfloder, hvoraf vi faktisk godt kunne vente nogle årtier med at planlægge for de nordlige stormfloder.
+
+00:49:00
+Og man kan sige, at det her med at være troet af to slags hændelser, det er i virkeligheden en af de udfordringer, som er ret unikke for København.
+
+00:49:10
+Og man kan sige, at årsagen er i virkeligheden den drogtentærskel, der ligger lige ude for Amager, som er sådan en højt længdende kalkryg, der ligger mellem Amager og Saltholm. Den danner en vandstandsgradient mellem Østersøen og Kattegat, som hæmmer og forsinker vand gennem strømningen i Øresund.
+
+00:49:34
+Hvis vi oplever en storm fra nord- og vestlige retninger, stues der vand op i Kattegat, som kommer ind i den nordlige del af Øresund. Det medvirker til forhøjet vandstand i den nordlige del af Københavns Havn, mens der ofte vil opleves lavvande syd for København.
+
+00:49:52
+Og omvendt vil storme fra øst og syd medføre forhøjet vandstand syd for København og omvendt for normalt. decideret lavvandstand nord for Drogten-Tærslen. Og det betyder jo så faktisk også, at grundlæggende så kan stormflod for både nord og syd i udgangspunkt behandles individuelt statistisk.
+
+00:50:17
+Det var også det, I kunne se, at der faktisk næsten var en meters forskel på en stormflod fra nord i 2075 og en stormflod fra syd. Det tilføjer en ekstra dimension af kompleksitet, når man skal planlægge for at stormflodsikre en by som København.
+
+00:50:35
+Jeg synes egentlig, at billedet, som bliver taget med herud til højre, det viser ret fint påvirkningen fra dronten Tærsland, som viser en stormflod fra syd i den blå linje, og en stormflod fra nord i den sydlige. Og det, at det er en tusindårs- og en hundredårs-skade, behøves egentlig ikke se sig.
+
+00:50:54
+Men det viser tydeligt den virkning, der er, at en tydelig stormflod påvirker vandstanden i nord- og omvandt. Så det er sådan en af de ting, der gør, at København står i en lidt særlig situation, og vi skal planlægge for at stormflodssikre.
+
+00:51:16
+Og som jeg sagde før, så har vi altså det meste af Østkysten. Det er jo der, hvor vores hovedfokus har ligget i forundersøgelsen, når man kigger på de forskellige delstrækninger, som København har.
+
+00:51:32
+Vi må bare konstatere, at det er en hovedstad med ekstremt mange beskyttelseshensyn, og det skaber en kompleksitet, når man skal planlægge for stormflodssikring af København.
+
+00:51:49
+Og man kan sige, at ud over alt det, vi har af kulturværdier og så videre, så er det jo altså også en by, som er skabt og tæt bebygget, og hvor vandet har haft og har en meget særlig betydning for byen. Også bare alle de rekreative muligheder, de giver byen.
+
+00:52:10
+såsom herlighedsværdier og besejlingsmuligheder, der er at finde i byen. Vandsport og også det særlige, at vi faktisk kan bade i Københavns Havn. Det er noget af det, vi håber og søger at kunne bevare i det omfang, det er muligt i hvert fald.
+
+00:52:27
+Man kan sige, Noget af det, der i virkeligheden karakteriserer hele Østkysten, fordi det har vi faktisk haft dykket lidt ned i i teknik- og miljøforvaltning, hvad er det for nogle karakteristika, der karakteriserer hele Østhavnen her fra Torbenby Kommune op til Gentofte kommunegrænse?
+
+00:52:50
+Det er blandt andet de her øer og de haløer, som hele Østkysten består af, fordi langs kysten, der har udvikling af København gennem årene, resulteret i en række haløer, som er ret markante træk i byens landskab og også i byens struktur, som den møder havet.
+
+00:53:10
+Og de her skaber altså en nærhed til vandet i stort set alle de områder, du er i langs vandet og hele Østkysten.
+
+00:53:18
+Så er der også de her vandrum og de her grønne træk, som i virkeligheden primært består af de her brede kiler af vand, samt de ændre bassiner langs hele Østhavnen, som fletter land og vand sammen og skaber de her lange kik ud og de her hvide udsigter fra både byen og så ud mod vandet.
+
+00:53:37
+Og man kan sige faktisk, så har hele Østhavnen også nogle af byens store grønne områder.
+
+00:53:44
+Mod syd ser vi især Amager Strandpark, Vi ser Kløvermarken, og vi har Christianshavn Volle, som skaber de her sammenhængende grønne træk hele vejen ned mod syd, især Amager Strandpark, og hvoraf nord består mere af de her mere spredte grønne områder.
+
+00:54:04
+En anden karakteristik her for hele Østhavnen, det er de her fikspunkter og sigtelinjer, og de her hvide udsigter, der er.
+
+00:54:11
+Fordi langs hele Københavns Østkyster tegner sig nogle af de her store industriområder, men også de her store industribygninger, skorstenekraner og vindmøller, som i virkeligheden er de her dominerende fikspunkter i landskabet og i bybilledet.
+
+00:54:29
+Og det er altså også fikspunkter, som kan ses på lang afstand, og som er ret betydningsfulde for orienteringen af byen. Og også de mange sigtelinjer og hvide udsigter, som skaber de her visuelle sammenhæng i hele kystområdet.
+
+00:54:44
+Og så til sidst har vi de her markante overgange, som er de her tydelige overgange mellem den tætte by og kysten. For eksempel Amager Strandvej, hvor vi på den ene side har den her tætte bebyggelse, og på den anden side har vi et helt åbent parklandskab, har nogle fantastisk rekreative muligheder.
+
+00:55:05
+Noget af det vi kigger på, når vi kigger på de her delstrækninger, der ligger langs hele Københavns Østhavn, det er jo i virkeligheden Kan og hvordan kan stormflodssikring i virkeligheden understøtte de her karakteristika og nogle af de kendetegn, der er ved Københavns møde med vandet langs Østkysten?
+
+00:55:26
+Og det er jo det, der bliver lidt interessant. Kan man skabe en synergi? Kan vi i virkeligheden få understøttet de her træk? Eller er det på kompromis? Eller er vi nødt til at gå på kompromis med noget af det her i fremtiden?
+
+00:55:39
+Det er noget af det, der bliver lidt interessant, når vi skal kigge på stormflodssikring for København. Udover de her karakteristiker langs kysten og langs Københavns østkyst, så har vi jo bare en by, som er hovedstaden af København.
+
+00:55:59
+København er jo i den enestående og også ret komplekse position, at der ikke findes andre beskyttelseshandsyn i samme mængde, som vi ser. Altså andre steder i Danmark. Bare tænk på Københavns Middelalderby eller Fæstningsringen, Slottsholmen, Børsen, Frederiksstaden eller Kristiania.
+
+00:56:18
+Altså at forestille sig de områder at blive oversvømmet. Her i forundersøgelsen, Når vi kigger på København, er der jo en bred palette af beskyttelseshandsyn. I forundersøgelsen, men også i eksisterende lovgivning, der er der jo altså nogle handsyn, som ligger inden for rammerne.
+
+00:56:40
+Og det er jo for eksempel bolig, og det er erhverv, og det er infrastruktur. Og som man kan se her på kortet til højre, så er der en masse kirkler. Der er både de røde, og der er de grønne.
+
+00:56:55
+Fordi der er også en række hensyn, som ligger uden for rammerne af eksisterende lovgivning, og dermed også i vores forundersøgelse.
+
+00:57:04
+Og det er altså eksempler på kortet her på beskyttelseshensyn i form af både kulturværdier, som er de røde, og naturværdier, som er de grønne, som ligger uden for rammerne af eksisterende lovgivning.
+
+00:57:20
+Og det er til gengæld noget, som vores borgmester i teknik og miljøforvaltning har lagt stor værdi, og som vi i virkeligheden også har påparret af ekstremt vigtige værdimæssige hensyn at tage, når man kigger på at skulle beskytte en by.
+
+00:57:36
+Fordi en by er altså mere end det, man lige kan gøre oppe i Kronaøer, især når man kigger på Københavns hovedstad. I virkeligheden så har vi i vores kommuneplan for 2019, der er udpeget 45 værdifulde kulturmiljøer i København.
+
+00:57:57
+Og i den nye kommuneplan, den kommende kommuneplan fra 2024, der er der stillet endnu flere forskningsforslag op.
+
+00:58:08
+Og.
+
+00:58:08
+Man kan sige, at den store række af de her beskyttelseshensyn, det er jo noget, som på en eller anden måde skal integreres i en tæt pakket by, og det gør det bare ekstremt komplekst at planlægge for stormflodssikring.
+
+00:58:22
+Både fra de nordlige og fra de sydlige, og det er jo det her med, at det kræver jo bare, at det stiller krav til både koordinering og til samtænkning af både bystrukturer, farveområder og kommunegrænser.
+
+00:58:37
+og hvordan og i hvilken grad det lykkes at forene alle de forskellige hensyn med en stormflodsikring. Det må tiden vise, men det arbejder vi i hvert fald for. Godt. Det tror jeg var.
+
+00:58:53
+Fra.
+
+00:58:53
+København. Så stiller vi den videre.
+
+00:58:54
+Til Tompi.
+
+00:59:05
+Så jeg kan huske, at.
+
+00:59:06
+Mit navn er Patrick, og jeg er.
+
+00:59:07
+Fra Tormby Kommune. Og i Tormby Kommune har vi allerede meget tidligt i moderne historier arbejdet med kystsikring. Hvor man i 1943 først udarbejdede det ydre Kalvebodige, som dengang blev etableret i 4,2 meters højde.
+
+00:59:31
+Og så er det så senere i 2012 blevet hævet til 5,9 meter, hvor man har indvundet hele kalvebordet fællet.
+
+00:59:42
+En af grundlagene til, at man arbejder tidligt med det her, det er jo bl.a., som min gode kollega Lise sagde, at Amager er jo meget flat, så derfor har man sgu set meget tidligt på, hvordan man kan undgå stormflod.
+
+00:59:55
+I 2012, da det blev forhøjet til 5,9 meter, Der har man dengang til udgangspunkt i en middelvandsstand på en meter, og det er baseret på en rapport fra 2008. Og dengang svarer det til en 4.000-årshællelse i 2010. Den rapport, vi sidder med nu, det kommer jeg til at vise på næste slide.
+
+01:00:23
+Men der vil man jo så arbejde med en forhøjelse af det her dige, hvor man så arbejder med en noget højere middelvandestand, og det skyldes jo, at vi i dag har nogle helt andre forudsætninger og data for designvandestand, grundet at vi desværre ikke har kunnet sænke CO2 osv.
+
+01:00:43
+Derudover har vi ulruptet, og så har vi infrastrukturselskaberne, der har tigret sig selv til et sikringsniveau svarende til nogenlunde kalvebåddyget i 2012, så en 4.000 års hældelse i 2100, baseret på den her middelvandsstand på en meter.
+
+01:01:12
+Og det er jo så de to strækninger, der gør sig gældende for Torbenby Kommune, hvor man kan sige på det venstre billede, Der er illustreret en forhøjelse af, at det eksisterer kalveboddige, og det er jo så igen baseret på, at vi har de her nye designverdenstande, der gør, at vi bliver nødt til at hæve det ydre dige.
+
+01:01:37
+Der har tidligt i rapporten været arbejdet med et indre dige, som løber langs bebyggelsen. Det er ikke illustreret her, men det løber ligesom der, hvor man kan se, at der er bebyggelse.
+
+01:01:51
+På billedet til højre ses Kastrup Havn, hvor der på basisløsningen, den primære løsning, arbejdes med at lave et indre dige, som både bliver et landskabsdige, og så også noget andet dige. Der er ikke noget af.
+
+01:02:10
+Det, der er fast.
+
+01:02:10
+I nu, men det er bare noget, der er belyst, kan man sige. Og derudover arbejdes man med en alternativ løsning, som er et ydre dige, som løber ude i vandet, som er markeret ved den grå linje.
+
+01:02:22
+Nogle af de problemstillinger, vi står med i Torngjy Kommune, er jo baseret på, at det er en kommune, der ligger ret flat. Og derovre har vi et højt grundvandspejl og en jord, der er meget leget.
+
+01:02:48
+Så når det regner, så har vi i forvejen et meget stort problem med, at regnen simpelthen ikke kan slippe væk.
+
+01:02:55
+Og hvis vi tænker os tilbage på det billede, der var før, hvor der var et ydre dige, så en af grundene til, at man forkastede ideen om et ændre dige, det er, at at Vestarmar på en måde fungerer som en buffer for overløb fra netop regnvandshændelser, hvor det så løber fra den kanal, der hedder Sønder Landvandskanal, som løber på ydersiden af Vestarmar mellem fældet og bebyggelsen.
+
+01:03:30
+og der er simpelthen et overløb fra den og ud på kalvebordfældet. Så hvis man bygger en dige der, så vil vandet ikke kunne slippe væk den vej.
+
+01:03:40
+Ligeså har det her Sønderlandvandets kanal et udløb helt nede sydpå, men hvis man ligeså har en tilstand med højvand, som der var tilbage i oktober, så lukkes kanalen nede sydpå, Så der kan vandet så heller ikke slippe ud.
+
+01:04:00
+Så der har man en form for badekarseffekt, hvor det indre dige vil danne en barriere, så vandet ikke kan slippe ud. Så derfor har vi gået væk for at tænke på den sikring, og i stedet for arbejde videre med det ydre dige.
+
+01:04:20
+Lige så har vi, som Per belyste i starten, kalvbrudfældet, der er udlagt som et Natura 2000-område, og som også er et område, der bliver benyttet som et rekreativt herlighedsværdi, som mange benytter.
+
+01:04:35
+Man kan så sige, at det er noget, der blev indvundet tilbage i 1943, så der har jo været overløb, og det er i dag også strandslætte, som mange fuglearter og så videre benytter. Så er der nogle forskellige naturhensyn og ting ind i netop beskyttelsen af Vestammeren.
+
+01:04:58
+For at beangåre Kastrup Havn, så er der jo bl.a. snak om at lave nogle af de her forskellige løsninger. Og der er det jo vigtigt, at man tænker på havnen som et rekreativt miljø, som Stine også sagde meget fint tidligere. Og der kan man jo bl.a.
+
+01:05:19
+Da vi i planlægningens regi begynder at tænke på, at man ikke bare kan lave en yderkajkantsikring. Det vil jo fuldstændig ændre den måde, man opfatter havnen på.
+
+01:05:32
+Derfor har man ved Færing, som er den store bygning, der ses oppe på billedet, prøvet at arbejde med, hvordan man kan tænke kystsikring ind i et bygningsintegreret element. Og der kan man se, at hele den her sokkel eller den grå beton, kasse som bygning, den står ovenpå.
+
+01:05:53
+Det fungerer simpelthen som køstsikring, hvor der er et parkeringsdæk indenunder, som så kan oversvæmmes ved højvandshændelser. Og for at give et lille perspektiv af, hvor højt det egentlig er, så kan man fornemme en lille mand midt på billedet, der løber.
+
+01:06:07
+Så det er jo en markant forhøjelse, der er lavet der, selvom det ikke ser så højt ud. Så det er jo en af de ting, man kan arbejde ind i højvandssikringen, uden at man får den her høje mur.
+
+01:06:22
+Og det er jo også blandt andet en af grundene til, at man på det tidligere billede, jeg hopper lige tilbage en gang, kan se, at netop færdigt, nu kan man ikke se det, det er omkring den blå, der er den hvide tange, der går ud.
+
+01:06:33
+Men den er ikke integreret ind i det, og det skyldes blandt andet, at man har arbejdet køstsikring ind i, lokalplanlægningen og arkitekturen, som har gjort, at man simpelthen har sikret den her bygning på bygningselement.
+
+01:06:50
+Jeg talte tidligere om de her infrastrukturprojekter, og det er jo en af de ting, der er meget unikke for Torbenby, og det er, at vi har en masse forskellige af de kritiske infrastrukturer, hvor vi blandt andet har lufthavnen, vi har Øresundsmotorvejen og så videre, og de har i sin tid sikret sig selv, og det er jo som sagt til en hældelse svarende til forhøjelsen af kalvebryddyret tilbage i 2012.
+
+01:07:24
+Så Morten, så fint kom ind på, så har det vist sig desværre ikke helt at være tilstrækkeligt, og i stedet for at vi netop at alle går ud og sikrer sig selv, så er det jo netop, at vi sidder her i dag og prøver at tænke på, hvordan man kan prøve at tænke mere holistisk form for planlægning af kyssekringen.
+
+01:07:43
+Øhm, ja. Det var egentlig det, tænkte jeg. Så nu er.
+
+01:07:51
+Vi her.
+
+01:07:53
+Ja, så er det gået tilbage.
+
+01:07:54
+Til. Ja. Så kan jeg jo prøve at hoppe lidt på lidt opsamlende læringer, som jeg tænker, at alle her ved bordet også lige byder ind, hvis der er noget, vi skal ud i typet. Her er der lige fire punkter, som vi nok kan tale længe om. Det skal vi nok prøve at lade være med.
+
+01:08:18
+En umiddelbar ting er, at det her med at have staten som medspiller, det var også noget af det indledende, vi talte om. Det er noget af det, der har været et ønske fra vores kommuners side i rigtig mange år. Og det er noget af det, som er viset her i forundersøgelsen, har været rigtig, rigtig fint.
+
+01:08:33
+Fordi så har vi den her løbende, kan man sige, samtale om, hvad er det egentlig, der udfordrer. Dels selvfølgelig kommunerne, men også, hvor er det staten er udfordret.
+
+01:08:43
+i forhold til at have det her, altså hvorfor er det vi ikke, vi efterspørger nogle ting, hvorfor er det det ikke bare sådan lige kan ske med et snuptag.
+
+01:08:53
+Og den fælles samtale på tværs både i stat og kommuner, men i virkeligheden lige så højt som grad også de infrastrukturselskaber, som vi jo ikke har været inde i i det her oplæg, men som alt andet lige fylder meget, fordi at infrastrukturen er en stor del af hovedstadsområdet Altså både med store metroanlæg, med store jernbaneanlæg, en lufthavn.
+
+01:09:17
+Og så har vi selvfølgelig også al den mere forsyningsmæssige infrastruktur i form af varme og elektricitet osv. vejanlæg. Det er et helt webinar i sig selv at udpensle den del.
+
+01:09:34
+Men at have den, man kan sige, staten som medspiller, men måske også som kurator på sådan noget her, det er rigtig, rigtig fint, fordi vi har altså, jeg synes, en meget åben samtale på tværs af, kan man sige, også der er jo nogle forskellige interesser, hvor man nu sidder rundt om bordet.
+
+01:09:49
+Men den samtale er altså rigtig fin, og det er fint, at staten ligesom er medspiller på den. Så det har været rigtig godt.
+
+01:09:55
+Så kan man sige, at kommunens samarbejde, det er i hvert fald noget, vi næsten ikke kan få tal højt nok op her blandt os, tror jeg, fordi vi har en fast mødekadence i vores kalender. Vores direktør har det i virkeligheden også, og vores borgmester har det også.
+
+01:10:13
+Så det er der med, at vi hele tiden får noget fornemmelse af, hvor ligger det politiske niveau, hvad er det for nogle ting, der rører sig på sådan en medarbejdersiden, som vi kan spille opad i vores respektive organisationer og få kvalificeret i de samtaler, som skal være, så vi ikke sidder nogle gange et helt tro på bagkant af noget, vi egentlig troede var cleared.
+
+01:10:33
+Det kan slet ikke undervurderes. Det er vi rigtig, rigtig glade for her. Så det er en stor opfordring i hvert fald til at Og hvis man ikke er i gang derude blandt kommuner og får startet det op, det tager jo noget tid. Så er der skrevet, at formidlingen af viden skal målrettes.
+
+01:10:54
+Det er måske virkelig lidt ind i det samme. Måske også lidt ned i det næste, hvor stormflodsikring er rigtig mange ting.
+
+01:11:02
+Og når man skal formidle viden omkring det her ting, så kan man være til bøjle til at kasse over og kun at tale om statistiske hændelser og SSP-scenarier og alle de her meget tekniske dele i det.
+
+01:11:16
+Vi har indledningsvis talt om, at vi kan sige, at den stormflodsikrings-teknisk del af den her forundersøgelse, så er der måske en mere administrativ del af det. Begge ting fordrev lidt hinanden.
+
+01:11:29
+Vi er nødt til at vide, hvad det er, den rene teknik i det, og hvad det er, de stormflodsfaglige begrænser for arbejde er, forhovedet at kunne tale om den administrative del.
+
+01:11:40
+Men vi har jo altså også, Morten var inde på det hele, driften af en eventuel portløsning, de udfordringer, vi kan have med vandområdeplaner.
+
+01:11:49
+Det der med at aktivere den viden, vi har, og formidle det sådan, at gå korrekt i de rigtige foder, det er en udfordring, og det er helt klart noget, man skal være opmærksom på, fordi vi kommer alt andet lige rundt og taler rigtig bredt med mange forskellige faggrupper i det her, og nogen er meget specifikke på økonomien, nogen er meget specifikke på vindretninger, så der kan være rigtig, rigtig mange forskellige ting i det her, og det er måske sådan et opsamling på de to sidste her.
+
+01:12:20
+Det.
+
+01:12:24
+Med at få lavet fire kæmpe rapporter, nu har vi kun to af dem indtil videre. vækker nogle følelser hos rigtig, rigtig mange. Og sådan er det jo på godt og ondt, og måske i dybeste set mest på godt, fordi det viser, at man tager en risiko alvorligt.
+
+01:12:53
+Og det arbejde, som er lavet nu, tror jeg, er en kongs tanke, som Sund og Beldt plejer at gå ud med. Det siger, at en ting er sikkert, det er, at det ikke kommer til at blive ligesom det, som vi har set i de her stormtidsrapporter.
+
+01:13:05
+Men der er lavet et kæmpestort stykke arbejde, som faktisk er state of the art i forhold til hele det med at prøve at komme lidt tættere på, hvad er risikoen? Hvor højt kan den der vandstand egentlig blive, og kan man Kan man bygge sig ud af det? Det er der noget, der synes på, at man godt kan.
+
+01:13:25
+Det er ikke det samme som, at man kan gøre det på den måde alle steder. Men nu er samtalen startet, og det er sådan noget, som nogle gange, når der er noget sådan lidt håndgribeligt, så er det også meget, meget nemmere at forholde sig til. Det synes jeg er voldsomt, eller det kan jeg godt lide.
+
+01:13:42
+Eller det her kan jeg ikke lide, men måske kunne man gøre noget andet.
+
+01:13:46
+Så der er også sådan lidt med, at det er altså gå ind i tingene sådan lidt med åben pande og med træsko på, fordi det kan starte nogle samtaler alle mulige steder, stort og småt, om hvad er det, vi vil med vores byer og vores kystlinjer og hele forbindelsen til vandet.
+
+01:14:08
+Ja, der kan det noget, selvom det har et teknisk tilsnit. Så kan det starte den der samtale, fordi noget af det Altså også noget læring, som vi jo får, når vi får de her stormfløde, det er, at vi allesammen bliver klogere.
+
+01:14:25
+Altså lokalbefolkningen, i hvert fald i den kommune, jeg arbejder, de er fuldstændig med på, hvad det er, der giver en oversvømmelse i dragrør. Og det er jo sådan noget, man lærer, når man bliver ramt.
+
+01:14:39
+Så altså hele det med, at det går nok væk igen lige om lidt, den diskussion, den ser vi i hvert fald ikke så meget.
+
+01:14:51
+Jeg tænkte også, at noget af det, som måske har været en af de største øjenåbnere for mig igennem det her forløb over de seneste 10 år, det er, at stormflodsikring handler ikke om at bygge dige eller etablere en port.
+
+01:15:10
+Det handler om, at vi fra nu af og frem efter er nødt til at etablere en måde at håndtere fortsat stigende vandstand. Det er ikke bare noget, der skal bygges og overstås. Det er noget, vi skal have inkorporeret i vores byer, i vores kommuner, i vores samfund.
+
+01:15:28
+Hvordan kommer vi til at leve med det her? Hvad er det for byer? Hvad er det for kyster, vi ønsker os og som vi håber på, at vi kan etablere med det, vi går i gang med nu?
+
+01:15:42
+De skridt, vi tager nu her i København og mange andre steder, det er det, der afgør, de danske kyster kommer til at se ud om 100 år. Og jeg tror, det er utroligt vigtigt, at vi i de sammenhæng prøver at sætte os i den situation.
+
+01:15:59
+Hvis vi går 100-100 år frem, ser på, hvad er det for et samfund, hvad er det for nogle kyster, vi har skabt. Kan vi så være stolte af det, der bliver lavet i de her dage, eller valgte vi de forkerte retninger?
+
+01:16:14
+Og nogle af de overvejelser, tror jeg, er det helt centrale i forhold til at finde de gode løsninger i dag. Det.
+
+01:16:28
+Er vel en meget god afslutning på vores del af det. Så vi slutter af her med tak for opmærksomheden og en masse kontaktoplysninger. Og I er meget velkomne derude til at tage fat i os, ringe og skrive. om det er mere generelt eller om det er meget specifikt på de lokale forhold, tanker osv.
+
+01:16:50
+så skal jeg endelig bare tage fat i os. Tak fordi vi måtte dele de her ting med jer. Jeg.
+
+01:16:59
+Tror det er os der siger tusind tak. Det har været... Jeg tror I skal slukke forlyden der. Nej, men det har været rigtig spændende. En lidt stor og også lidt ildevarslende mundfuld, må man sige, med nogle meget komplekse problemstillinger.
+
+01:17:19
+Vi har lige tid til et par spørgsmål her, og Laurits Bernit har spurgt. Vi er helt tilbetjent af højvandsstatistikker og designhændelser uden fysisk maksimum. Er der tale om skift i designfilosofi?
+
+01:17:38
+Jeg prøver at give et spørgsmål eller et svar herfra, men det kan jo man jo sige, at det er et valg, man har taget fra Køstselektoratet og DMI's side ved at sige, for det er jo ikke, fordi vi ikke har de forskellige statistiske hændelser, men det er jo, fordi man har sagt, vi er altså ude i et scenarie her, hvor vi går op til overliggeren af, hvad der overhovedet kan lade sig gøre, hvor vi altså også Det har været en af de arbejdsgrupper, der har været omkring det her.
+
+01:18:08
+Hvor langt kan man strække de modeller, som ligger til grund for det her arbejde? Jeg tror hverken Køstdirektoratet eller DMI taler om et skift her, men specifikt for det her arbejde har der været et ønske fra deltagernes side om at se, hvor højt kan vi komme op?
+
+01:18:30
+og ikke på den måde tale om statistiske hændelser. Jeg vil.
+
+01:18:37
+Også godt supplere med, at en af vores udfordringer er, at vi har så meget kritisk infrastruktur som for eksempel metro, Øresundsforbindelse osv., som opererer med rimelighed i sikringsniveauer på 10.000 års hændelser.
+
+01:18:55
+Og 10.000 års hændelser er meget svære at stadfæste ud fra forlængelse af de korte målserier, vi har på den ene eller den anden eller på den tredje led.
+
+01:19:05
+Så det med at komme i nærheden af, hvad er en 10.000 års hændelse, det har metodmæssigt handlet om at prøve at se på, hvor slemt kan det blive overhovedet. Og så er 10.000 års hændelsen nok lidt mindre end det.
+
+01:19:19
+Og det er det, der er baggrund for, at vi Metodemæssigt er det gået efter fysisk maksimum, som vi kunne finde ved at modellere, i stedet for at gå efter højfaldstatistikker, hvor hverken 40-årshendelser eller 40-årsserier eller 100-årsserier giver noget som helst fornemmelse af, hvad en 10.000-årshendelse er.
+
+01:19:39
+At det så giver nogle andre dilemmaer, fordi vi som byområde, boligområder måske reelt kun.
+
+01:19:46
+Har brug.
+
+01:19:46
+For en sikring til en 100-års hændelse eller en 200-års hændelse, måske en 1.000-års hændelse, men at vi fordi byen også er afhængig af sin kritiske infrastruktur, er nødt til at se på 10.000-års hændelse.
+
+01:19:58
+Det er noget af det, der gør det vanskeligt at arbejde med det her, og er også et af de punkter, som vi har diskuteret meget, både med staten og infrastrukturselskaberne. Der er.
+
+01:20:12
+Også noget i det her med at understrege forundersøgelsen. funktionen på en eller anden måde, at vi får taget det første livstag med at komme videre i snakken. Og det her giver et konservativt estimat af, hvor slemt det kan blive i forhold til det, som Morten har sagt.
+
+01:20:29
+Så er vi i hvert fald oppe på de øvre grænser. Det gør også noget i forhold til, hvordan man i det arbejde omkring de tekniske løsninger og anlægsøkonomi har kunne gå videre med det. Og det skaber Jeg oplever måske i hvert fald, at det skaber en anden form.
+
+01:20:46
+Det er lidt nemmere at sætte sig ind i som udfrakommende, at vi taler om, hvad er det maksimalt muligt her. Vi taler ikke om en teknisk sandsynlighed, som vi kan drøfte herfra til dommedag. Der er en vurdering af her, hvor voldsomt det kan blive.
+
+01:21:03
+Så det er i hvert fald formidlingsdelen af det, som fungerer herfra.
+
+01:21:10
+Jeg tænker, at I allerede delvis har berørt Laurits andet spørgsmål, men hvis I lige vil udfolde, måske bare ganske kort igen. Han spørger, er der gjort forsøg på at benytte Køstdirektoratets risikoanalyse, som omfatter hele ekstremmiljøet, til at fastlægge et.
+
+01:21:25
+Design? Ja, vores udgangspunkt var sådan set Køstdirektoratets højvandsstatistikker og deres modelleringer. Men i og med, at de baserede sig meget på historiske hændelser inden for en relativt kort periode, så var de ikke repræsentative for de her ekstremhændelser.
+
+01:21:51
+Køstdirektoratet lavede meget stort arbejde og statistisk analyse af de data, de havde, som månede ud i, at de var ret gode til at forudsige hændelser op til en tusindårshændelse. Der havde de en fornuftig statistisk grundlag. Men når man kom over det, så holdt deres data ganske enkelt ikke.
+
+01:22:11
+Det blev alt for usikkert. Og det kan blive en meget lang snak at gå ind i det, men det var det, der var udgangspunktet. Og det var det, der var orsagen til, at vi så fik hjælp fra PMI til at prøve fra den anden ende og modellere, hvor slemt kan det blive.
+
+01:22:28
+Og så har vi ligesom koblet de to metoder sammen. og sagt, at vi har en rigtig god beskrivelse af starten fra købteateratoriet, og så har vi et loft, der er lagt af DMI, og så må spændet mellem tusindersendelse og det fysiske maksimum, det er ligesom det, vi får fastlagt på den måde.
+
+01:22:51
+Og det er for mig at se nok den mest fornuftige måde at gøre det på, når vi er oppe i den ende af skærelaget. Er vi ned under 1000 års tændelse, så tror jeg, at køst- og naturarbejdsdata er gode at forlede i.
+
+01:23:05
+Denne sammenhæng. Tak, Skiha. Jeg kan se, at der er lige tid til et par ekstra spørgsmål. Jeg vil godt tænke mig at høre lidt om, hvordan I arbejder med inddragelse? Kunne I sige lidt om det?
+
+01:23:24
+Vi kan jo sige, at det er meget forskelligt. Vi er fire forskellige kommuner, og højdespringeren i det her selskab, det er helt ubetinget Dragør, som har holdt rigtig mange borgermøder og har indtryk af, at de dagligt går rundt på gader og stræder og snakker med borgerne om det.
+
+01:23:42
+Både politikere og embedsmænd. Og så er der måske mere os andre, som ikke er kommet så langt med det endnu, men hvor vi begynder at have lidt mere håndfast.
+
+01:23:54
+at tage fat i, også er begyndt at planlægge borgermøder og information om, hvad er det egentlig, som er indholdet er, og hvordan skal vi til at håndtere nogle af de dilemmaer, som den her forundersøgelse så også har vist.
+
+01:24:08
+Og på en, altså supplerende til det, så kan man jo sige, vi er også i dialog med Danmarks Naturfredningsforening og Dansk Organisologisk Forening, og så har, kan man sige, videre en opgave i at have en dialog med Båndby Kommune, Den næste kommune syd for.
+
+01:24:27
+I Københavns Kommune har vi en opgave med at have en dialog med Gentofte Kommune om det her arbejde, så tankesættene i hvert fald er velkendte, og de processer, der foregår, også er velkendte. Inddragelsen foregår lidt bredt på borgerdelen.
+
+01:24:46
+Vi kører fem borgermøder i Københavns Kommune i november måned. Der begynder at komme nogle forskellige ting. Men det kræver jo også lidt, der er noget at tale om. Det er ligesom også det, der har været... Hvor at der jo har projekter i gang, der er vi andre jo lidt...
+
+01:25:04
+Der står vi jo lige og mangler det der samtale-papir på en eller anden måde. Og det har vi.
+
+01:25:09
+Jo nu. Noget af det, som borgerne også har stor interesse i, og med god grund, det er, at den her opgave er også sat i gang under kysbeskyttelsesloven. Altså med det udgangspunkt, at det er faktisk dem, der får beskyttelse, som skal betale for det.
+
+01:25:29
+Det vil sige også alle dem, der Altså både infrastrukturselskaber, men også alle patienthusejerne og alle de andre åbentlige institutioner, hvad der ellers måtte være.
+
+01:25:39
+Så borgerne har jo også en aktie i at Og mene noget om, hvad man skal betale, for det kan godt være, at det kommer bag på nogen, at man faktisk ligger i fare for at blive oversvømmet.
+
+01:25:54
+Og det kan måske være sådan lidt sådan, at jeg har aldrig nogensinde set vand på mit grund, at det er virkelig relevant for mig. Men det bliver det jo så, når man begynder også at snakke om de her ekstremhindelser.
+
+01:26:09
+Vores erfaring i Drabo er faktisk også, at hele det der med en fælles udfordring, det er faktisk også noget, der får folk til at rykke lidt sammen. Det, at man har en fælles udfordring, det gør også, at man faktisk rigtig mange synes, det er helt okay, at vi alle sammen skal betale til det f.eks.
+
+01:26:34
+Hvad er kommunernes tanker om finansiering og organisering?
+
+01:26:43
+Det er jo sådan en anden halvdel af forundersøgelsen her, så vi kan jo ikke være voldsomt konkrete. Så det bliver lidt på nogle overskrifter. Vi har jo nogle drømme fra starten om, at det her bliver muligt. Du nævnte lige købsbeskyttelsesloven og de rammer, der er der.
+
+01:27:00
+Men at man i højere grad kan finansiere sådan nogle her projekter, mere soldatiske, hvis man skal sige sådan en helt højdragende ord her på det her. Der kommer andre muligheder for at finansiere det noget bredere.
+
+01:27:19
+På finansieringsbordet og organiseringsbordet har vi som kommuner en interesse i den her type projekt, som vi arbejder med her, at vi i en eller anden grad kan fortsætte de byudviklingstakter, der ligger hos os enkeltvis i samspil med den rene stormflodsikring, så man finder et niveau over kommunerne, og det er særligt, at vi har nogle politikere, der gerne vil kunne se sig i det her, og stadig have noget indflydelse på, hvordan udviklingen af området foregår.
+
+01:27:56
+Så det vil være sådan lidt, at det er helt overordnet. Der er jo rigtig mange ting i spil i det arbejde, der foregår, ved vi. Så det er de overordnede tanker på det, tror jeg.
+
+01:28:09
+Jeg ved ikke, om I kan gøre det ultra kort, men Laurits skriver, at et af materielle risikoer er at have gjort overvejelser om liv og helbred.
+
+01:28:20
+Det ligger delvis også i det arbejde, der foregår nu på den samfundsøkonomiske bane. Lige nu følger man nogle af de rammer, der eksisterer, og vi må se, hvor det ender henne. Det kommer om en måneds tid, måske i december.
+
+01:28:45
+Så indtil det er fuldstændig færdigt, kan vi ikke rigtig sige så meget andet, når nogle af de overvejelser også bliver gjort. Men hvor det lander henne i sådan en analyse, som jo også følger nogle af de rammer, som ligesom er fastlagt på statslige niveau? Så vil jeg.
+
+01:29:03
+Lige supplere med, at vi jo også har beredskabsarbejde. Vi har jo også været ved at blive oversvømmet flere gange og har et meget tæt samarbejde via hovedstadens beredskab omkring stormflodsikring i de situationer, der kommer. Dem har vi jo heldigvis kunnet håndtere rimelig vildt endnu.
+
+01:29:21
+Vi kan ikke håndtere en tre meter høj vand stormflod. Men vi håber, at vi kan komme tættere på, og vi har beredskabsplaner for, hvad vi skal gøre, hvis det kommer. Det i sig selv er også et stort arbejde at få styr på.
+
+01:29:40
+Det. Jeg tror, tiden er ved at være gået her. Jeg vil bare lige slutte af med at sige igen, altså tusind tak for jeres deltagelse, og også tak til alle jer, der sad ude bag skærmen og lyttede med.
+
+01:29:55
+Jeg vil anbefale også, at man går ind på Sønderbælt's hjemmeside og læser meget mere om projektet og forundersøgelsen her. Der er masser af spændende ting at gribe fat i derinde. Og igen, hvis man nu ikke nåede at se med, så kan man altså gense webinaret her på DNP's hjemmeside.
+
+01:30:13
+Så tak for i dag, og god dag derude til jer alle sammen.
+

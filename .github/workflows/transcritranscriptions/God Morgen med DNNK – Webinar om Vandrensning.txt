@@ -1,0 +1,966 @@
+00:00:09
+Jamen godmorgen og nu er klokken blevet 8, og så vil vi gerne byde velkommen til Vores første næste godmorgen med DNDK her i rækken, hvor Vi har planlagt 3 webinarer her hen over vinteren og Der er allerede flere i støbeskeen.
+
+00:00:28
+Vi har valgt at køre Sådan en række mere af de her godmorgen webinar der kommer her kl. 08:00 fordi der var kæmpestor tilslutning til det sidste gang. Måske fordi Det er et godt tidspunkt her midt mellem man kan nå at lige at få en indsprøjtning her, inden man skal på arbejde, så det håber vi ligesom fortsætter, og jeg hedder anne stald.
+
+00:00:49
+Jeg sidder som koordinator for det, der hedder kompetencelystøft i det nationale netværk for klimatilpasning.
+
+00:00:55
+Og arbejder derfor med de her arrangementer, som vi laver og set i lyset af corona. Så vil vi blive ved med at lave de her digitale arrangementer også ind i 21, fordi Det er ligesom er en forventning om, at vi ellers skal gå rundt og ændre Vores arrangementer hele tiden. Men vi følger selvfølgelig situationen og ser, hvordan det udvikler sig.
+
+00:01:16
+Og det gode er jo, at vi kan være fra sydøst og nord og vest og det hele på samme tid, så Det er jo ikke så skidt, at det ikke er godt for noget.
+
+00:01:27
+Vi har de næste par webinarer der kommer de handler om.
+
+00:01:32
+I dag skal vi snakke om vandrensning, og så har vi stormflodsikringen næste gang, som er den 10. December, er København og Hvidovre et mega spændende og kæmpestort projekt.
+
+00:01:43
+Og den 7. Januar vil kystoratet komme og fortælle om noget, der hedder kystplanlæggeren, som er et nyt administrativt værktøj, der skal hjælpe kommunerne med at planlægge.
+
+00:01:53
+Lige lidt praktisk her inden vi går i gang, så optager vi webinaret og håber på at vi ret hurtigt kan få lagt det ud på Vores hjemmeside, så man kan se det igen. Eller dem der ikke kunne komme kan se det.
+
+00:02:05
+Og så har vi en faglig chat her, og den må i selvfølgelig meget gerne bruge, og så skal vi prøve at følge op. Vi stopper nok ikke og stiller spørgsmål under oplæggene, men men tager dem til sidst.
+
+00:02:17
+Ja og til programmet i dag. Der har vi først Karin sidder Kvist fra teknologisk Institut, der vil introducere lidt til emnet vandrensning og præsentere baggrunden, og bagefter har vi Ditte Marie reinholdt Jensen fra DTU, der vil fortælle lidt om, hvad bat egentlig er for noget.
+
+00:02:41
+Så værsgo de damer.
+
+00:02:46
+Tak for det. Jeg skal lige finde ud af at dele min skærm inden jeg starter.
+
+00:02:53
+Så.
+
+00:02:55
+I alle sammen kan se den, hvis i ikke kan så øhm.
+
+00:03:00
+Så må i sige til enten vil jeg skrive det i chatten eller række hånden op, og så regner jeg med Der er nogen der giver mig besked.
+
+00:03:08
+Tak fordi i er kommet her til godmorgen og DNNK for at høre om det her emne, som Vi har valgt at kalde vandrensning, så kan man sige, så havde vi jo ikke lovet for meget, men Vi har forhåbentligt heller ikke lovet for lidt.
+
+00:03:20
+Det det primært kommer til at handle om i dag i forbindelse med vandrensning. Det er det her batbegreb og, og det vil Ditte som anne sagde komme og præsentere lidt mere om lige om lidt. Men først så vil jeg gerne lige give en lille introduktion til hele det overordnede emne, og hvorfor vi faktisk synes Det er så vigtigt at have en en hel morgensession med begrebet.
+
+00:03:42
+Denne her nu er der nogen Jeg har ekko på kan jeg høre tak.
+
+00:03:48
+Denne her tegning er der måske mange af jer, der har set før, men Jeg vil stadigvæk gerne præsentere den, fordi Jeg synes Det er et lidt kompliceret emne, og Der er mange ting at holde rede på det med at holde tungen lige i munden, så Jeg synes Det er godt ligesom at have en tegning og sige, hvor er det egentlig Vi er henne. Det er jo det her regneafstrømning som Vi har, og som Vi skal bruge på en 2 måde. Vi skal have klimatilpasset, så Vi skal ikke lade det tilloakkerne længere.
+
+00:04:07
+Vi skal udlede det, nedsive det, bruge det rekreativt og så videre.
+
+00:04:12
+Og så har vi Vores recept regneudstrømning. Den kan være mere eller mindre forurenet alt afhængig af hvor den kommer fra og hvad tid på året og så videre og så videre og receptionen den kan være mere eller mindre følsom så nogle gange for at vi ligesom kan passe på de her recepter og håndtere regnearstrømning, så er det nødvendigt at rense det her. Regn og strømning med en renseløsning, og Det er jo for at miljøbeskyttelse og klimatilpasning Det kan gå hånd i hånd.
+
+00:04:41
+Så Det var Sådan kort fortalt.
+
+00:04:44
+Jeg vil også gerne lige tage udgangspunkt i denne her artikel, der var i waterteke i februar her i år, hvor der står nye regler om rensning af regnvand er nødvendige, og Jeg har lige plukket lidt ud fra den, når der står det her med, at Der er brug for et vidensstykke og en koordineret indsats set i lyset af udviklingen i klimaet, hvor byer nu og i fremtiden skal sikres som med en kombination af miljøbeskyttelse, grundvandsbeskyttelse og den rette håndtering af regnvand.
+
+00:05:12
+Det og så det her med at nede i artiklen står der nye regler om rensning af regnvejr er nødvendige.
+
+00:05:18
+Så var det, jeg ligesom hæftede mig ved det her vidensløft og koordinerede indsats, fordi Jeg synes faktisk tidligere, at vi både har i mange projekter ikke kun dem Der er nævnt her. Nu er det bare dem, som jeg kender til det i hvert fald Sådan lige on the top of by head, men der findes også andre, men Jeg synes faktisk vi gennem de sidste mange mange 10 12 år har lavet erfaring, som har forsøgt nogen koordineret indsats.
+
+00:05:42
+Har lavet et vidensløft blandt andet i vand i byer kan i gå vand også i spildevands kan man sige regnudvalg, separat vand og you name it. Der er sikkert endnu flere så det her med Vi har løftet noget. Og hvorfor er det så altså fordi for 10 år siden 12 år siden, så Jeg vil stadigvæk.
+
+00:05:59
+Der mangler nogle retningslinjer der mangler noget konkret, så hvorfor er der stadigvæk Vi er i gang med det?
+
+00:06:06
+Andre.
+
+00:06:08
+Udpluk fra denne her artikel. Nu har jeg lige kortet nogle af dem lidt ned, så de ikke fyldte for meget, men i kan gå ind og læse dem med deres fulde længde. Hvis i har lyst bagefter.
+
+00:06:16
+Men der står også det her med Der er mangler nogle konkrete retningslinjer for hvordan regning betinget udledning skal håndteres. Der er behov for et fælles forum, hvor vi kan diskutere det, og Der er mange, der står og tripper og kan ikke komme videre, fordi Vi skal have nogle klare retningslinjer både for de grænse. Der er ikke nogen grænseværdier, fordi de stopper, der skal ledes ud.
+
+00:06:36
+Der er ikke nogen. Vi ved ikke hvordan Vi skal vurdere det.
+
+00:06:39
+I de forskellige forhold til de forskellige resekventer sårbarhed, og Det er det de centrale miljømyndigheder nu bør lave. Så Det er Sådan OK? Det siger vi stadigvæk, og Det var lidt på baggrund ikke kun af det der står i den her artikel for det skete før, men men Det er det, som jeg og mange andre også hører igen og igen.
+
+00:06:57
+Vi skal have et fælles forum. Vi skal have nogle konkrete retningslinjer, og Der er måske noget som nogle bør lave, men som.
+
+00:07:04
+Som som ikke bliver gjort, så Det var lidt med baggrund i det.
+
+00:07:07
+At vi tænkte, vi laver endnu et projekt om det her, men som vi så kalder et projekt netværk, som som vi startede her på teknologisk Institut, men også Sådan lidt i koordinering med det nationale netværk for klimatilpasning. Og Det var simpelthen ud fra denne her tanke, om nogen må gøre noget. Og hvem er de nogen altså, så må vi ligesom starte selv.
+
+00:07:31
+Så altså vi fik en masse både forsyninger, kommuner, producenter, renseløsninger, vidensinstitutioner.
+
+00:07:39
+Med på det her projekt?
+
+00:07:42
+Omkring.
+
+00:07:44
+Regnoverstrømning og rensning altså kan vi gøre noget mere konkret, kan vi få lavet nogle renseløsninger indenfor det her område?
+
+00:07:51
+Så Det har vi haft nogle workshops om og også det her. Jamen Det er igen kommet fra. Vi mangler nogle klare retningslinjer, og så er det der med at finde ud af OK de her retningslinjer fordi hvor skal hvor?
+
+00:08:05
+Hvor skal der være retningslinjer henne, hvis vi nu kigger på de over overordnede retningslinjer, altså det her der netop altså Der er faktisk nogle overordnede retningslinjer, som forsøger at tage højde for miljøhensynet, men også at vi samtidig skal kunne gøre noget.
+
+00:08:21
+Hvis vi nu siger de overordnedes retningslinjer, hvis Der er nogen påstår her. Det er faktisk den kombinerede metodeartikel 10 e us vandremedirektiv. Det kan godt være, at mange af jer i kender den i forvejen, men Jeg vil bare gerne lige fremhæve den, fordi Jeg synes den er meget vigtig også i forhold til hele det her batbegreb.
+
+00:08:38
+Men det at Det er den kombinerede metode, det refererer til at tilførsel af forurenende stoffer. De skal begrænses gennem en kombination af emissionskontrol og så derudover så skal man kombinere det med at gå ud og kigge på de kvalitetskrav, Der er til det vandmiljø, man nu skal udlede til. Hvis vi taler udledning af af regneudstrømning for eksempel.
+
+00:09:02
+Og hvis det ikke er tilstrækkeligt med de her. Jamen den her immun jamen så kan.
+
+00:09:08
+Yderligere begrænsninger, og så siger jeg OK Det var så 1 1 1 meget overordnet retningslinje. Måske hvis man så dykker lidt længere ned i artiklen, så kan man se denne her emissions kontrol og nu kommer ordet. Den skal være baseret på den bedste tilgængelige teknologi.
+
+00:09:26
+Det er så mig der lige har sat debat ind, men altså Det er jo det som vi snakker om med bat eller relevante emissionsgrænseværdier.
+
+00:09:34
+Og i tilfælde af diffuse påvirkninger, så et sådant bedste miljøpraksis, hvis man så dykker lidt ned i artikel 3, så står der igen det her, som der også stod i den klamamse. Jeg viste før altså det der med at hvis det ikke hvis hvis de her.
+
+00:09:49
+Hvad hedder Sådan noget tiltag som er nævnt i stykke 2 ikke virker? Jamen så kan man faktisk fastsætte strenge emissionskontrol, så det som siger OK det her Det er de overordnede regler for EUS banderamme direktiv, som jo er implementeret i den danske lovgivning blandt andet.
+
+00:10:05
+Det beskyttelseslår, men også andre lovgivninger. Og så som en Jeg har hørt en jurist udtale på en lidt klodset måde, fordi hvis man så går ind og kigger for eksempel i bekendtgørelse 14. 33, så står der jo lidt omkring det her med bekendtgørelse om krav og udlænding til visse stoffer.
+
+00:10:27
+Og så står der noget i Parken et stykke 1 det her med at.
+
+00:10:33
+Det må man gøre til vandløbsø og overgangsvaner og havområder bortset fra almindelig belastet regnvandsudbødninger. Og så er det jo Sådan lidt forvirrende i forhold til jamen, hvad står der egentlig i artikel 10? Og hvad betyder det her?
+
+00:10:44
+Så har der så været nogle udtalelser fra Naturstyrelsen til Vejdirektoratet og nogle andre ting, som kom lidt ind på senere. Men det her med OK. Vi har nogle overordnede rammer, men Der er sket et eller andet, i hvert fald i Danmark, som har gjort, at Der er opstået meget forvirring omkring de her drama.
+
+00:11:01
+Så hvis vi nu kigger på, hvis vi nu siger OK, Der er de klare retningslinjer. Vi har vandret direktivet, som Vi skal forholde os til. Hvor er det så vi kan lave nogle klare retningslinjer?
+
+00:11:13
+Jamen Det er jo det her med Der er en uforudsigelig forureningsproblem. Hvordan skal vi håndtere det, at vi aldrig rigtig helt ved, hvor forurenet regner strømning er der har jeg sat uforudsigeligt i situationssegn, fordi Jeg er altså.
+
+00:11:28
+Den er forudsigelig uforudsigelig. Den vil altid være uforudsigelig, men Jeg synes efterhånden, at Der er så mange undersøgelser, så mange projekter, der har undersøgt og screenet, og man har ikke kun i Danmark, men også i udlandet en ide om forureningstyper fra forskellige oplande. I hvert fald et spænd af dem.
+
+00:11:48
+Så ja, den er uforudsigelig, men Vi har også efterhånden nogle ideer om.
+
+00:11:53
+Hvor uforudsigelig den er, kan man sige, og selvfølgelig vil der altid komme nye stoffer til, som det skal være opmærksomme på.
+
+00:11:59
+Men, men Jeg synes faktisk Vi har en ide om denne her forureningsprofil. Så er der hele det her med mangel på viden om receptionernes tilstand som jamen, hvis Vi skal vide, hvad vi må lede ud til de risikanter, så skal de jo også være kortlagte, og Det er. Der er jo mange recepter der ikke er, så Det er jo stadigvæk en en udfordring at vurdere og få nogle retningslinjer.
+
+00:12:21
+Hvordan skal vi faktisk vurdere de her udledninger i forhold til nogle recipenter, som måske ikke kortlagt?
+
+00:12:27
+Men også det her med, at hvis der nu kommer udledninger fra flere steder jamen altså hvad hvad gør man så?
+
+00:12:33
+Også det det den 3 udfordring hvor godt grænser de her renseløsninger.
+
+00:12:40
+Der er mangel på et overblik over renseløsninger og måske også på dokumentationen. Noget af det i det her projekt netværk, som Jeg har talt om før, som har været et meget stort ønske og ikke kun det her, men som jeg også har hørt tidligere. Jamen, Det er det her med.
+
+00:12:52
+Vi vil gerne have et katalog med renseløsninger, som ligesom kan sige OK, hvad kan vi gøre i hvad er et forurening i det her opland, og hvad hvilken renten hvilke muligheder.
+
+00:13:03
+Og har det så at rense med for at lede det ud til denne her resekvent, så er det så at Jeg har påstået. Jamen der findes masser kataloger med renseløsninger, Der er lavet noget under vand i byers innovationsprojekt 10 Der er ligger noget indenfor separat vand, der ligger et helt katalog med erfaringer omkring filterjord, der ligger noget erfaring omkring både bassiner, Der er lavet kaldt nogle kataloger ikke før Gentofte Kommune og node og først hvor der også står lidt om de her regnestrømninger.
+
+00:13:34
+Der er også faktisk man kan finde et overblik inde på klimaetilpasning dot DK, hvor man så kan gå ind og klikke på de enkelte ting, og nogle steder kom hen til producenternes egen dokumentation. Hillerød Forsyning har også lavet en teknologi oversigt over forskellige løsninger, hvor de undersøgte, hvordan den kunne bruges, hvordan forskellige løsninger kunne bruges til at rense til til et konkret til en konkret case. Så Der er faktisk kataloger derude, og hvis vi skulle lave endnu et katalog.
+
+00:14:02
+Så ville de ikke være min holdning ikke blev meget bedre end dem der allerede er fordi at alle de her grænseløsninger, som der findes, de er dokumenteret på forskellige måder, så.
+
+00:14:15
+Hvis Vi skal lave nogle brugbare kataloger og spørgsmål som det skal ligge online eller om det skal være altså noget fast, men så er der i hvert fald behov for en mere ensartet dokumentationsprocedure, som leder til nogle mere mere overskuelige rensekataloger.
+
+00:14:32
+Og så også det her med at lave Sådan en dokumentationsprocedure. Den skal selvfølgelig tage højde for den indbyggede usikkerhed, der ligger i regneafstrømning. Også det her med at renseløsninger er forskellige og virker på forskellige måder.
+
+00:14:45
+Så hvordan gør vi det bedst muligt?
+
+00:14:47
+Men hvis vi nu får lavet Sådan en dokumentationsprocedure over grænseløsninger, så er det i hvert fald et skridt på vejen i at få lavet nogle retningslinjer i hele det her.
+
+00:15:02
+I hele det her.
+
+00:15:05
+Komplekse område vil jeg sige, som kan ligge under de overordnede retningslinjer, som er e us vanvidrektiv og Vores egne love.
+
+00:15:15
+Det er vi så gået i gang med, faktisk i det her projektnetværk. Vi har lavet en arbejdsgruppe med forsyninger og kommuner, producenter vidensinstitutioner, hvor Vi har haft mange møder efterhånden og er gået i gang med at skrive et notat og diskutere, hvordan gør vi det her bedst muligt? Fordi Det er selvfølgelig ikke let.
+
+00:15:34
+Altså Der er meget at tage højde for, altså Vi har både noget viden, Vi har noget erfaring, og hvad er det, der kan lade sig gøre?
+
+00:15:41
+Så og det her hvad kan lade sig gøre rent praktisk fysisk kemisk, økonomisk tidsmæssigt altså hvad finde en balance mellem det, så vi samtidig laver noget som gør vi kan få noget konkret arbejde med, men vigtigst af alt jo at vi passer på miljøet og gør det bedste for miljøet.
+
+00:16:01
+Og når vi så laver sidder i de her den her arbejdsgruppe og også alle andre steder, så kommer det ofte det spørgsmål OK, men hvis vi nu laver denne her dokumentationsprocedure og vi og producenterne siger jamen Vi er villige til at at at lade Vores produkter undergå denne her test eller de her test. Vi foreslår nogle forskellige. Det er myndighederne så turde tillade dem, fordi og nu kommer det.
+
+00:16:28
+Så er der nogen der siger at.
+
+00:16:31
+Det.
+
+00:16:33
+Hvilken jeg ikke kategorialiseret som bat.
+
+00:16:37
+Og så er der også det her med jamen Vi skal sammenligne nye renseløsninger med hvad bat kan.
+
+00:16:45
+Og vi kan ikke give lov til den her renteløsning, fordi den ikke er bat. Og så er det også noget med, fordi når vi så sidder og taler lidt om at lave de her dokumentationsprocedure og så taler jeg nu skal jeg måle på udlednings koncentrationer fra grænseløsningerne for at sige, hvad de kan.
+
+00:17:01
+Så er der nogen der siger jamen vi må jo ikke stille emissionskrav. Vi må kun stille funktionskrav om dat så det hele altså. Det bliver Sådan lidt oppe i mit hoved.
+
+00:17:12
+Jeg jeg. Jeg synes Det er meget forvirrende svært at finde finde rundt i.
+
+00:17:17
+Og så var det jeg tænkte eller ikke kun mig. Vi er jo mange der tænkte, kan vi ikke ligesom sige, hvad er bat egentlig?
+
+00:17:27
+Hvis vi nu har Vi har jo de her overordnede forretningslinjer, som jeg påstod.
+
+00:17:31
+Fordi før i min præsentation, Vi har vandrammedirektivet, men hvis det også er usikkert, hvis vi ikke helt forstår, hvad vi mener med det, så synes jeg i hvert fald, Det er nødvendigt, at vi ligesom bliver altså inden vi kan gå lidt mere konkret ned II at lave de andre retningslinems tiltag, hvis vi så kan starte med at udrede trådene ved at blive enige om hvad det her batbegreb egentlig er.
+
+00:17:53
+Og blevet overordnet rammer, som lovgivningen giver os at arbejde indenfor Sådan så vi kan kan lave noget, der faktisk er brugbart og som er indenfor for lovens rammer. Og Det var så det, jeg ligesom med det spørgsmål, hvad er bat væltet op til til Ditte så tak for nuuk og så går jeg.
+
+00:18:19
+Tager jeg min præsentation af?
+
+00:18:25
+1000 tak Karin så vil jeg prøve at finde en præsentation til os i stedet.
+
+00:18:32
+Sådan kom den på nu. Håber jeg i kan se det.
+
+00:18:36
+Yes.
+
+00:18:38
+Og Jeg vil bare springe direkte ud i det, fordi Karin hun tog sig fat i mig og i Lasse borner og spurgte om vi ikke kunne diskutere det her lidt med hvad bat i grunden er?
+
+00:18:51
+Og Det har vi gjort på lidt forskellige måder. Vi har prøvet at sætte os ned og kigge på den rent sproglige definition af begrebet, og så har vi prøvet at kigge på. Hvordan kan man så?
+
+00:19:02
+Omsætte det her begreb til nogle tekniske løsninger og blive klogere på, hvad er det, der gemmer sig bag? Og så har vi undervejs, mens Vi har arbejdet med det her, haft en hel masse diskussioner, som ikke alle sammen nødvendigvis er landet endnu. Og Det er noget af det, Jeg vil præsentere her og.
+
+00:19:23
+Og Det er første Karin sagde til os. Det var at nogen havde bedt hende om. Kan du ikke lige skrive tit linjer om babat det egentlig er?
+
+00:19:32
+Og så sidder vi så her nu. Hvad er det et lille halvt års tid siden, og Vi har skrevet omkring 20 siders notat på på det indtil videre. Vi har haft rigtig mange interessante diskussioner, men men jeg sidder ikke med Sådan en fornemmelse af, at vi kan sætte 2 streger under noget endnu i hvert fald, så Det er rigtig svært begreb.
+
+00:19:53
+En af de ting Vi har gjort for at forstå det. Det er Vi har kigget lidt på, hvordan Det er defineret indenfor de industrielle emissioners verden og IIE direktivet. Der snakker man om debat altså bedste tilgængelige teknik, forstået på følgende måde, hvor bedste det handler om.
+
+00:20:13
+Det skal være det mest effektive.
+
+00:20:16
+Ud fra et miljøhensyn.
+
+00:20:18
+Og tilgængelig. Det handler om, at det skal være i en målestok, altså en skala eller en dimensionering, som ligesom er noget, der kan lade sig gøre på et økonomisk og og teknisk måde indenfor den pågældende sektor. Så her er der Sådan et et proportionalitetsprincip indbygget i bat at, at det skal kunne være noget, der ligesom er muligt for sektoren at leve op til.
+
+00:20:45
+Og så det her med teknik. Jamen der henvises der både til den konkret anvendte teknologi, men også hele den måde, hvordan man anlægger at konstruere, bygger vedligeholder, driver og nedlægger så alt Det er ligesom også en del af begrebet.
+
+00:21:03
+Og med den her bat definition, så kan man så gå ud og fastsætte nogle emissionsgrænseværdier og andre godkendelsesvilkår. Så når man har en bat definition, så bruger man den til at lave emissionsgrænseværdier, og Jeg har lige taget 2 citater mere med fra fra direktivet.
+
+00:21:25
+Den første, den handler om, hvordan man så dokumenterer bat, og der bliver udarbejdet nogle referencedokumenter og nogle konklusioner.
+
+00:21:35
+Som beskriver batteknologien og på baggrund af den dokumentation, så kan du så gå ind og sige bat kan levere Sådan og Sådan i emissionsgrænseværdier, og det stiller vi så derfor krav om, at man skal kunne leve op til.
+
+00:21:51
+Men du behøver ikke anvende den bat som har lagt grund til at det her dokumentation. Du kan faktisk anvende hvad entenknologi du har lyst til, bare du kan leve op til de her emissionsgrænseværdier.
+
+00:22:05
+Så så man laver noget battdokumentation og på baggrund af den kommer der så Sådan et minimumskrav som vil gælde for for alle i den pågældende sektor. Uanset den enkeltes økonomiske formåen og beliggenhed og de her minimumskrav udtryk som emissionsgrænseværdier, der kan ansøger sig helt selv vælge hvordan man vil leve op til dem.
+
+00:22:28
+Og de her referencedokumenter. De bliver så revideret hvert 8 år så på den måde så er bas en dynamisk standard.
+
+00:22:38
+Hvis vi så går lidt tilbage til Vores egen verden og ser på, hvad er bad så for de separate regnvandsudledninger, så er det jo som Karin sagde saddam at bekendtgørelse 14 33. Den har undtaget de her almindeligt belastede separate regnvandsudledninger. Og hvad gør man så?
+
+00:22:56
+Og der kom i 2011 en udtalelse fra Naturstyrelsen, som sagde, at de skal bestemt stadig reguleres. De her almindeligt belastede separate regnvandsudledninger.
+
+00:23:09
+Og de skal også kunne påvise, at man overholder miljøkvalitetskravene i receptionen.
+
+00:23:16
+Der skal bare ikke være udleder krav til gengæld, så kan der være de her funktionskrav til udformningen.
+
+00:23:23
+Og og Det er lidt sjovt i forhold til den definition vi lige har gennemgået, fordi pludselig her så er det som om, at du kan godt gå ind og sige det skal være den her specifikke teknologi, der skal anvendes til gengæld. Så kan du så ikke stille et dimensionsgrænseskrav, så Det er Sådan lidt den omvendte implementering af hvad Det var for for de institutelle emissioner.
+
+00:23:46
+Og den her udtalelse fra Naturstyrelsen. Den kan man så til dels også genfinde i den nyeste spilledagsvejledning, hvor der står, at Det er altså ikke muligt at regulere med et koncentrationsgrad. Det er meget mere hensigtsmæssigt at at lave de her funktionskrav, som er baseret på på basset.
+
+00:24:07
+OK nå men hvad er sabbat, når vi så ikke har nogen reference dokumenter vi kan tage udgangspunkt i, når der ikke ligger en masse dokumentation som beskriver hvad? Hvad er det for nogle emissions grænseværdier, som de her teknologier kan leve op til?
+
+00:24:24
+Hvordan finder vi så ud af hvad bat er og man kan?
+
+00:24:31
+Man kan kigge på hvad Det er for nogle anbefalinger, og Miljøstyrelsen kommer med eksempelvis.
+
+00:24:36
+I deres katalog over virkemidler overfor punktkilder, der nævner de, at der over for islandsudledninger er 2 muligheder henholdsvis til dementationsbassiner med og uden beplantning.
+
+00:24:48
+Det er måske Sådan den måde at komme det lidt i forkøbet. Det er at se hvad står der i vejledningerne og så en måde at være lidt mere på bagkant. Det er at sige, hvad står der så i klagenævnsafgørelserne?
+
+00:24:58
+Hvordan har de forholdt sig til begrebet bat?
+
+00:25:02
+Og når vi prøver at kigge lidt på klagenævsafgørelserne og hvad de havde at sige om bat, så står der.
+
+00:25:10
+At regnvandsbassiner generelt betragtes som bat til rensning af overfladevand.
+
+00:25:16
+Og Det er en den afgørelse fra 2017, der Sådan helt bredt siger, at for overflade Der er det Der er det regnvandsbassiner Der er bat.
+
+00:25:26
+Men, der står så også samtidig, at der skal altså vurderes og redegøres for den mulige påvirkning.
+
+00:25:33
+For en lang række stoffer, også miljøfremmindestoffer og.
+
+00:25:38
+Forrige år, der lavede vi en undersøgelse i regi af spildevandskomiteen, hvor vi kiggede på, hvad er det egentlig for nogle krav og for nogle redegørelser, der bliver lavet i de her udledningstilladelser rundt omkring i Danmark og særligt den her med at kunne redegøre for påvirkningen af miljøfremrende stoffer?
+
+00:25:55
+Den den var ikke rigtig kommet med ind i tilladelserne.
+
+00:26:01
+Så har jeg så et andet eksempel med også. Eller Det er i virkeligheden mange eksempler, fordi rigtig mange steder i forskellige afgørelser står der så, at hvad de i øvrigt er det her faktablad omdimensioneringer, både regnvandsbassiner og står meget specifikt hvordan volumen forholdet skal være, hvordan vanddyden skal være.
+
+00:26:23
+Så kiggede vi også lidt på hvad der så bliver sagt omkring gentagelsesperioder II de her klagen øvelsesopgørelser altså hvordan hvordan skal man dimensionere og skalere sine løsninger og Der er en afgørelse her fra 2005, hvor der står, at hvis Der er hydrauliske problemer nå, men så skal man sørge for at overløbsh hyppigheden ikke overstiger en kl. 05:01. Altså der må der må i snit kun være overløb en gang hver 5 år.
+
+00:26:51
+Og så er der en afgørelse nedenunder fra 2013, som så uddyber, at det her med hydrauliske problemer. Nå men Det er hvis der sker oversvømmelse langs vandløbet hyppigere end hver 5 år.
+
+00:27:06
+Så hvis hvis Det er tilfældet, så skal du overholde.
+
+00:27:10
+Så skal du overholde den her med maks og løbe over fra fra en bassin løsning en gang hvert 5 år.
+
+00:27:18
+Og og den er heller ikke kommet ud og blevet masseret ordentligt ned i alle udledningstilladelserne var i hvert fald også Vores indtryk fra den gennemgang, vi lavede forrige år.
+
+00:27:30
+Så kiggede vi lidt på hvad siger klagenævnsafgørelserne omkring alternativer til bat altså alternativer til de her våde regnvandsbassiner, og Der er et eksempel fra 2015, hvor nævnet siger at de finder en subktionsfilter endnu ikke er dokumenteret tilstrækkelig til at man kan.
+
+00:27:49
+Sige teknikken er sammenlignelig med bas og.
+
+00:27:53
+Og det giver jo så det afledte spørgsmål, hvornår er noget dokumenteret tilstrækkeligt, som Karin også allerede har været lidt inde på, som vi også vender tilbage til igen? Her lidt senere.
+
+00:28:06
+Og så fandt vi et eksempel fra 2018, hvor der bliver refereret til.
+
+00:28:12
+Til det her vidensblad som kind os viste før omkring omkring filterjord, som Marina var med til at lave fra Københavns Universitet.
+
+00:28:21
+Så så der bliver så engang imellem masseret noget noget ny dokumentation ind i de her klagenævnsafgørelser på samme måde som vi så for nogle år tilbage har set det med med fakta Bladet for både regnvandsbassander.
+
+00:28:40
+Den næste slide Jeg har taget med det hedder misforståelser, medgivelser og meningsudvekslinger, fordi da vi startede det her projekt, så tænkte vi, vi havde ligesom som mission, at nu skulle vi rydde op i alle de der misforståelser omkring bat.
+
+00:28:55
+Og.
+
+00:28:57
+Det har vi måske opnået for nogle af dem andre har vi måtte medgive, og for mange punkter er vi stadigvæk i gang med at diskutere ikke Sådan landet på noget endeligt svar endnu.
+
+00:29:09
+Men for eksempel den her med at det kun er våde baseret Der er vi ved at være nået frem til nu, at Det er helt rigtigt at hvad der våde bassiner. Men du kan også godt anvende andre teknologier. De behøver ikke være bat.
+
+00:29:21
+De skal bare kunne dokumentere, at de lever op til det samme som bat, og det gør man i hvert fald fra IE direktivets verden ved at kigge på emissionsgrænseværdier, når man skal lave den dokumentation.
+
+00:29:36
+Så det her med, at der ikke må stilles direkte immunionskrav med koncentrationsværdier. Den Det er en af dem, vi ikke er landet helt endnu. Den vender vi lige tilbage til om et øjeblik, så har vi snakket meget omkring det her med om, hvorvidt regnerstrømning er en diffus kilde eller en punktkilde, og Det er relevant, hvis man for eksempel går ind og læser på vandrammedirektivet.
+
+00:29:58
+Og Det er lidt specielt fordi forureningskilden er diffus.
+
+00:30:03
+Men selve udledningen. Det er jo en punktudledning, så der skal man lige holde tungen lidt lige i munden.
+
+00:30:10
+Så så Karin også nævnte, så er der den her opfattelse af, at en ny teknologi skal ligesom anerkendes som bat og vinde den her batpris før at man kan tage den i brug, og det behøver man ikke nødvendigvis bare man altså kan dokumentere, at man kan levere de samme emissionsgrænseværdier på de stoffer, som nogle gange vil være relevante og tage op i forbindelse med den pågældende recept.
+
+00:30:36
+Og den sidste jeg tager med her. Det er det her med at bat er altid godt nok fordi bat er ikke godt nok, hvis det hindrer at man kan leve op til miljøkvalitetskravene, så man skal ind og lave. Det er ikke nok at stille et vatkgrav man skal ind og lave den her vurdering for stofbelastning og selvom du ikke må stille krav til at der skal leves op til de her miljøkvalitetskrav, så skal du stadig kunne sandsynliggøre at man lever op til de her miljøkvalitetskrav.
+
+00:31:03
+Og hvis man ikke kan gøre det, så kan man principielt ikke give en tilladelse.
+
+00:31:08
+De næste par slides Jeg har taget med de handler om nogle af de her diskussionspunkter, hvor vi måske ikke lige er kommet 100% i mål endnu. Og måske er der heller ikke et svar man kan sætte 2 streg under men men jeg tænkte Det var spændende for en også en eventuel diskussion.
+
+00:31:25
+Og den første. Det handler om det her med den kombinerede metode, som som Karin også introducerede jer til og om hvorvidt den er.
+
+00:31:32
+Tilstrækkeligt implementeret i Danmark.
+
+00:31:36
+Fordi ifølge hvordan rammedirektivet, så skal den kombinerede metode anvendes ved punktkilder og værdifulde kilder. Og Det er jo det her med, at man både tager udgangspunkt II kilden ved at kigge på nogle emissionsgrænseværdier og så også i recipienten ved at kigge på nogle miljømål og miljøkvalitetskrav. Men i og med at man ikke må have de her emissionsgrænseværdier, vil kilden for de.
+
+00:32:01
+Almindelig belastet separate regnvandsudledninger, så har man jo egentlig gået ind og amputeret den kombinerede metode væsentligt for det felt.
+
+00:32:10
+Og så er det jo så spørgsmålet, eller har man det, må man vitterligt ikke stille de her uden nederlag baseret på koncentrationsværdier.
+
+00:32:19
+For Det har vi også diskuteret rigtig meget, og vi Vi er i virkeligheden lidt nysgerrige på om hvorvidt en tilladelse som gik ind og brugte koncentrationsgrænser om den nu også ville blive underkendt, hvis den kom for klagenævnet. For det kræver jo, at Der er hjemmel nok i den her udtalelse fra Naturstyrelsen og i den her formulering i vejledningen til en bekendtgørelse, og at det tilstrækkelig retskilde til, at man kan gå ind og sige.
+
+00:32:47
+Du må.
+
+00:32:48
+Ikke lave koncentrationsgrænser, eller er det i virkeligheden mere Sådan lidt vejledende? Det kan være det ikke er så hensigtsmæssigt, men såfremt man ligesom kan gøre det på en saglig måde, hvor man begrunder det, og hvad de her emissionsgrænseværdier være enten komme fra fra fra batbegrebet, hvis man har dokumentation til det eller lader dem tage udgangspunkt i de miljøkvalitetskrav, man skal leve op til recipanen, hvis de nu sagligt begrundet.
+
+00:33:15
+Ville Sådan en tilladelse så reelt blive underkendt.
+
+00:33:19
+Og der kan man jo også spørge sig selv om den her udtalelse, den kom tilbage i 2011 og Der er kommet mange opdateringer af lovgrundlaget siden, men den er alligevel ikke Sådan bevæget sig helt derind endnu.
+
+00:33:34
+Den 3 diskussion Jeg har taget med den handler om samspillet mellem bat og proportionalitetsprincippet, og Det er Det er slet ikke nogen ting sag.
+
+00:33:46
+Og spørge det her, må man bruge< bat, fordi det vil vi jo udledningstilladelse vi gennemgik. Der fandt vi engang imellem en formulering, såsom vi ved godt, Vi skal gøre Sådan her. Men Det kan simpelthen ikke det hænger ikke sammen økonomisk.
+
+00:33:59
+Det er der ikke proportionalitet II forhold til den gavn det giver, så vi gør noget Der er lidt mindre.
+
+00:34:06
+Og der indgår jo også det her proportionalitetsprincip i definitionen af bas som vi så det fra definitionen fra IE direktivet.
+
+00:34:14
+Fordi teknologien ligesom skal være.
+
+00:34:17
+Økonomisk tilgængelig for den sektor, den gælder indenfor.
+
+00:34:22
+Så Der er noget proportionalitetsprincip i forhold til til den teknik, man bliver anvendt ved udledningspunktet, og Der er også noget proportionalitet i receptionen, fordi et vandløb. Det kan jeg jo godt fravige de her generelle miljømål og god tilstand.
+
+00:34:38
+Hvis Der er et tilstrækkeligt tungt vejende grundlag, og Det kan for eksempel også have afsæt i.
+
+00:34:43
+Proportionalitetsprincippet, så hvis Det er fuldstændigt umuligt for et et vandløb at leve op til det generelle miljømål, så kan det altså undtages. Men Det er meget, meget få resultater Der er undtaget i Danmark. Så hvis vandløbet nu ikke er undtaget, hvilket højst sandsynligt er tilfældet, kan man så alligevel sige nå, men Der er noget med proportionalitetsprincippet.
+
+00:35:05
+Vi må godt bruge lidt mindre.
+
+00:35:07
+En bach ved Vores udledning.
+
+00:35:10
+Eller må man. Er det noget man for eksempel kun må gøre, hvis man kan garantere jeg bruger lidt mindre en bat, men det hindrer ikke. Måopfyldelse.
+
+00:35:19
+Eller er det Sådan, at fordi provisionalitetsprincippet, som er indbygget, hvad de ligesom kommer fra et et sektor niveau, hvor man altså klassisk vilde definerbat på baggrund af en helt sektor, så har man også taget stilling til, om den her teknologi er økonomisk tilgængelig for hele sektoren. Og så kan man ikke gå ind på det enkelte anlægsniveau og sige, Det var ikke lige økonomisk tilgængeligt.
+
+00:35:42
+Den synes vi også er lidt spændende.
+
+00:35:45
+Den 4 diskussionspunkt det handler om det her med hvordan man som benchmarker nye teknologier op imod altså også det Der er blevet diskuteret II det her netværk som kajen introducerede og.
+
+00:35:59
+Vi har de her faktablade for våde regnvandsbassiner, som bliver refereret i klagenævnsafgørelserne, som om det her beskrivelsen for bad den står, men der burde jeg da brugt rensegræder.
+
+00:36:12
+Og ikke emissionsgrænseværdier, og Det er jo så det, der gør det svært at benchmark op imod, og Der er i øvrigt generelt rigtig stor forskel, hvis man kigger ud i litteraturen på hvad for nogle rensegræder der bliver rapporteret fra våde bassiner. Jeg har taget et eksempel med fra en artikel her den tabel som viser spindet på de rensegrader, som bliver oplyst for våde regnvandsbassiner, og Det er i virkeligheden.
+
+00:36:37
+Ret bredt.
+
+00:36:40
+Derudover så er der også meget sparsom viden om effekten for miljøfremmet stoffer. Og så er spørgsmålet jo lidt, skal man, hvis man har en ny løsning man gerne vil dokumentere, skal den så bare kunne gøre det lige så godt som bat eller skal den kunne gøre det endnu bedre? Skal den kunne dokumentere.
+
+00:36:58
+Sin effektivitet med en større sikkerhed end den Vi har for de våde regnvandsbassiner, og skal den også kunne gå ind og lave en masse dokumentation for miljøfremmet stoffer.
+
+00:37:08
+Ting, som vi ikke helt har for for de våde regnvandsbassiner.
+
+00:37:13
+Og Det er Det er mit indtryk, at der ligesom at der ofte stilles et højere krav om dokumentation til de upcoming teknologier Vi har så så det. Det er Sådan lidt som om at de både regnvandsbassiner, de har været rigtig heldige. De har vundet tronen først og fået det her batmærke, og nu er de rigtig svære at vælte af pinden, og der skal i virkeligheden mere til end der skulle til for at.
+
+00:37:39
+Og og gribe den her trone til at starte med, og Det er så noget af det projekt, der også kører i det her netværk, hvor man prøver at kigge på nogle gode testprotokoller.
+
+00:37:50
+For det her område.
+
+00:37:53
+Den 5 diskussion handler om web versus bat og hvad er så bip beb? Det er den bedste miljømæssige praksis bedst invironmental practice, og den er også nævnt i vandremedirektivet, og den er også med i den her udtalelse fra Naturstyrelsen, som noget man kan gå ind og bruge i stedet for at bruge udleder krav.
+
+00:38:17
+Og det handler om at gå ind og lave noget adfærdsregulering.
+
+00:38:22
+Og man kan sige alt den adfærdsregulering, som handler om selve dit anlæg. Den er tænkt med ind i batteknologi. Det var det vi så i definitionen fra IE direktivet at alt omkring vedligeholde anlægget.
+
+00:38:34
+Sådan noget som du må ikke bruge pesticider langs bassinkanten eller Sådan et eller andet. Det er ligesom tænkt med ind i begrebet bat, så behandler egentlig mere om tiltag ved kilden, altså oppe i oplandet.
+
+00:38:46
+Og det kunne være Sådan noget som at kontrollere brug af pesticider der eller kontrollere brug salt. Det kunne også være regler for at der var nogle materialer du ikke måtte anvende. Eller du måtte i hvert fald ikke tilslutte eksempelvis kobbertag til regnvandskloakken, eller det kunne være Sådan noget som krav om hyppighed for gadefegning, hvis man var vildt bekymret for partikler fra fra trafik.
+
+00:39:12
+Og normalt så er de her vipper de implementerede via noget en brancheaftale og klik over vand har faktisk også beskrevet at Der er ikke hjemmel til de her adfærdsregulerende foranstaltninger som vilkår i en tilladelse. Men hvad med så min forudsætning? Hvad nu hvis man gerne vil anvende en alternativ batteknologi og man sagde den kan levere præcis det samme som den.
+
+00:39:37
+Almindeligt accepterede bachelknologi.
+
+00:39:39
+Forudsat at man har den her adfærdsregulering i oplandet, er det noget man må og høre beb overhovedet hjemme i udledningstilladelserne, eller bør de kun være et instrument, man eksempelvis kunne tage i brug i vandområdet, planer eller i lokalplaner? Det har vi også diskuteret.
+
+00:39:59
+Så kommer den sidste diskussionspunkt, som Jeg har taget med her, som handler om abbat recipielt afhængig fordi bat kan sagtens være kildeafhængig. Det er den dels fordi den er sektorafhængig. Altså de her bat reference dokumenter bliver udarbejdet på sektorniveau.
+
+00:40:18
+Men vi kan også se det i nogle klagenævnsafgørelserne at nå, men hvis du har en kunstgræsbane, så er det måske noget andet. Jeg tænker, at hvis du har en almindelig.
+
+00:40:26
+Eller vejvand eller noget i den stil?
+
+00:40:30
+Men kan den også være recipant afhængig og.
+
+00:40:35
+Miljømålene og miljøkvalitetskravene. De er jo recipantafhængige, og tilladelserne skal jo ligesom benytte baht for at sørge for, at man kan overholde de her miljømål og miljøkvalitetskrav. Så Sådan lidt implicit.
+
+00:40:47
+Så stiller det jo så nogle forskellige krav til blandt afhængig af repcipen.
+
+00:40:54
+Og det gør afhængig af om den er salt eller færreste, eller om Det er grundvand. Men man kunne også godt forestille sig, at det at der blev bedt om forskellig bat niveau afhængig af om hvor langt din reciplan var i forhold til den tilstand, du nu engang var målsat til.
+
+00:41:12
+Så Det var nogle af de diskussionspunkter, Vi har haft på Vores mange teams møder, og så vil jeg bare sige, at vi arbejder videre, og planen er at at vi forhåbentlig kan komme med en med en lille artikel og og beskriver nogle af alle de ting her Jeg har haft med i slideshowet, så giver jeg den tilbage til dig, Karin.
+
+00:41:36
+Ja.
+
+00:41:38
+For det.
+
+00:41:41
+Nu får jeg lidt fokus på mig selv.
+
+00:41:47
+Jeg vil lige dele min præsentation.
+
+00:41:53
+Igen der forsker jeg lige pillet.
+
+00:41:57
+Der.
+
+00:41:58
+Godmorgen kom hvad?
+
+00:42:02
+Jeg håber i allesammen kan se det nu.
+
+00:42:06
+Ja som som som altid, så er der ikke nødvendigvis altid nogle helt klare svar på hvad bat er. Men Jeg synes også altså nu.
+
+00:42:18
+Selvfølgelig meget om det her med at våde bassiner de har opnået ligesom en batstatus, men noget af det og Jeg vil lige sige Lasse, som også er med til at skrive den her artikel. Han er jurist, og Jeg har i hvert fald personligt stillet har mange spørgsmål undervejs, fordi at Jeg synes virkelig loven er svær at at tolke, og Det har han så hjulpet med. Men.
+
+00:42:41
+Noget af det, som Jeg synes i hvert fald er vigtigt, som han har. Har har fortalt mig. Det er at Det er ikke nødvendigvis en.
+
+00:42:48
+Bestemt teknologi men mere end generel vurdering af det opnåelige og en retlig standard, som omfatter både teknikker og procedurer. Og Vi er selvfølgelig II gang med den her artikelskrivning, som Gitte også sagde og og vi så snart den er i gang eller den er færdig, så vil vi blandt andet orientere om det via DNNKS nyhedsbrev. Men Der er altså lige nogle nogle ting, Vi skal have helt på plads og nogle kilder der skal der skal gennemgås ordentligt.
+
+00:43:17
+Sådan så vi ikke.
+
+00:43:19
+Skaber endnu en ny forvirring omkring det her, så så Det er i gang. Men det som i hvert fald er vigtigt for mig. Det er at sige jamen altså at turde at bruge andre renseløsninger end bat også fordi der ikke en bat en måde for synger, fordi jeg også blevet helt.
+
+00:43:40
+Er jeg Jeg er også kodet ind på en ting, men men at bruge nogle andre renseløsninger end våde bassiner.
+
+00:43:48
+Og og turde gøre det og også ligesom altså forstå hvad er bat egentlig og hvad er de her hvad? Hvad hvad ligger der til grund for for for at aftage for for for natur og miljøklagenævnets afgørelser. Jeg ved også at at at Lasse sagde, at det her når når der i naturmiljøkagenævnets afgørelser står noget omkring at at Det er en en bestemt teknik Der er bat.
+
+00:44:13
+Det er faktisk.
+
+00:44:15
+Ikke helt i tråd med.
+
+00:44:17
+Artikel 10 en vandrammedirektivet, men Det kan han selv forklare bedre end Jeg kan. Og han kunne desværre ikke være her i dag, men Det er også noget af det, som som vi skriver i artiklen, så Det er jo ligesom for at sige. Jamen Det er vigtigt, at vi får en fælles forståelse af det her bat og og og den overordnede lovgivning, og Det er kompliceret.
+
+00:44:36
+Men hvis vi gør det, og hvis vi nu siger, jamen Det er ikke kun våde bassiner, så betyder det stadigvæk, at Der er brug for et bedre overblik og mere dokumentation over de her forskellige renseløsninger til rensning, regner strømning og Der er brug for et bedre overblik og dokumentation af recipelernes miljøtilstand. Og så.
+
+00:45:01
+Efter hvis man nu, hvis vi nu har det her overblik så godt som vi kan få og har testet nogle flere grænseløsninger og kan ligesom holde dem op mod hinanden. Se hvad vil virke godt i denne her funktion? Altså det her med anvendelsen af den kombinerede metode.
+
+00:45:18
+Den vil kræve forskellige funktioner af renseløsninger.
+
+00:45:23
+Faktisk også i forhold til både oplande og receptionter så.
+
+00:45:28
+Vild i Vores arbejdsgruppe i hvert fald og i hele projektnetværket. Vi sidder og skriver på på det her notat og finder ud af, hvordan kan vi lave Sådan en en testprocedure for grænseløsninger? Som jeg sagde, så er det altså ikke nemt.
+
+00:45:43
+Og.
+
+00:45:45
+Vi det arbejder vi også videre med og vil gerne præsentere det også på et kommende møde her i det nationale netværk for klimatilpasning.
+
+00:45:54
+Vi laver det i arbejdsgruppen, og så hvor vi sidder på alle mulige forskellige dele af branchen, og så tester vi det også i hele projektet. Hverken finder ud af hvad er nødvendigt, hvad kan lade sig gøre, og hvordan og hvorledes Sådan, så hvis altså. Det er jo i hvert fald en en side af sagen og prøve at få lidt klarere retningslinjer indenfor det her, og det skal.
+
+00:46:19
+Det i så høj grad som muligt.
+
+00:46:23
+Tage tage.
+
+00:46:26
+Tilgodese det her med at regneafstrømning er så.
+
+00:46:32
+Er forurenet på mange måder kan være forurenet på mange måder, så den viden Vi har om det der at og som der også stadigvæk foregår undersøgelser om det skal også implementeres i Sådan en testprocedure og så.
+
+00:46:45
+Måske med tiden?
+
+00:46:47
+Også kunne sige noget om, hvilken løsning ville være god til lige denne her resekven, men det kræver en del arbejde og samtidig også at vi kender lidt mere til de forskellige rehcepanter, så Det er også noget vi fortsat arbejder videre med.
+
+00:47:05
+Og så vil jeg sige det. Har i det her lille reklame. Ikke fordi Jeg er blevet bedt om at lave det, men Jeg er også meget jeg skal deltage i det her arrangement på mandag, som er online, som jeg også selv synes bliver bliver ret interessant for måske for at finde ud af noget omkring de her.
+
+00:47:21
+Hvad hvad der hvad der var sket fremover med det her udladning af vej og spildevand, så Det var lige kort. Det som Jeg vil sige som afslutning her. Nu ved jeg, at Der er lidt tid til nogle spørgsmål i chatten, og ellers så vil jeg også sige så at i altid meget velkommen til at skrive til mig.
+
+00:47:40
+Og så hvis vi nu ikke når alle de her ting som bliver skrevet ud i chatten og så videre i dag, så er det også altid meget rart.
+
+00:47:48
+Og have dem liggende og kunne gå ind og læse dem igen og så så implementere dem II det i arbejdet fremad, så Det var det som jeg lige ville sige med den her opsamling og så med må du gerne tage over armene.
+
+00:48:05
+Ja.
+
+00:48:07
+Kan i se noget her?
+
+00:48:12
+Det var var helt utroligt utroligt spændende og Det er mega komplekst i noget helt vildt langt og Det er ret så spændende.
+
+00:48:22
+Er der nogen? Jeg kan ikke se chatten kan du det Christian? Så hvis Der er nogen der har nogen spørgsmål så må vi jo hellere.
+
+00:48:29
+Der bliver spurgt, om vi lægger slides ud.
+
+00:48:31
+Ja.
+
+00:48:33
+Det, det finder vi lige ud af, og måske sender vi dem ud til deltagerne ikke? Jeg ved ikke om i har lyst til at de bliver lagt på en hjemmeside. Ellers så sender vi dem ud til deltagerne, vil jeg tro.
+
+00:48:43
+Jeg har tænkt på Ditte det der med de der rensegræder der der lå altså noget af Det var jo nærmest fra 30-90% minimum maksimum. Hvordan skal man forholde sig til det? II det som ja det så Karin der laver det men.
+
+00:48:59
+Men gåsevejen og siger så tager i, så skal man opnå 45% for at Det kan være bat eller er det Sådan en diskussionspunkt?
+
+00:49:07
+Altså den tabel den kom fra det review og udledningstilladelse, så Det er jo ikke engang. Det er ikke engang fordi Vi har sat os ned og sagt hvad er der lavet af studier på regnvandsbassiner og hvad har de rapporteret? Det er fordi Det er værdier Der er blevet refereret.
+
+00:49:25
+I danske udledningstilladelser som værende det man tænker.
+
+00:49:28
+Er er gældende for den her løsning, ikke?
+
+00:49:32
+Og og i nogle tilfælde var der Sådan meget detaljeret, at vi regner med en vertikal rensegrad og en en højonalt Det var så omvendt, men jeg ved ikke om i kan se mig på.
+
+00:49:44
+Måske og samtidig.
+
+00:49:46
+Og men uden at man Sådan egentlig kan fornemme at at at de her meget detaljerede tal bliver brugt til så meget.
+
+00:49:53
+Og.
+
+00:49:55
+Og og vi kan jo godt sætte os ned og kigge på den her tilladelse og tænke eller i virkeligheden omfanget eller tilladelse og tænke Der er et eller andet her. Der er lidt mærkeligt, men Det er jo ikke. Det er jo ikke blevet prøvet ved klagenævnet, for eksempel om det her er en OK måde at gøre det på, om Det er nok, og Det er jo det.
+
+00:50:11
+Vil i virkeligheden være spændende at se, hvordan de forholder sig til det ikke og jeg. Jeg har lidt på fornemmelsen, at hvis man kom med en ny renseteknologi og sagde.
+
+00:50:20
+Nå, men den kan levere mellem 30 og 90% rensegrad.
+
+00:50:24
+Altså ville det så være godt nok?
+
+00:50:27
+Selvom det egentlig er den opfattelse, Vi har af den eksisterende teknologi, at Det er et eller andet sted derimellem, er den performer ikke.
+
+00:50:34
+Og Jeg tror måske også, at en af af læringerne er at at at Der er ekstrem stor forskel på.
+
+00:50:42
+Hvordan du har etableret dit både regnvandsbassin helt konkret i det enkelte tilfælde tilfælde, og det betyder jo så, at målinger er er ekstremt vigtige.
+
+00:50:51
+For at kunne efterprøve. Hvad er det, der egentlig der sker?
+
+00:50:55
+Der er flere der gjorde at Det er meget spændende og vigtige diskussioner. Vi har her må jeg også bare lige sige, at vi havde jo Karin havde jo egentlig planlagt, at det skulle også være en heldagsarrangement nærmest om det her. Hov nu er der lidt ekko på.
+
+00:51:10
+Men, men Det har bare ikke været muligt på grund af corona, men Det er Det er jo helt klart også når i der kommer videre. Der er simpelthen så meget kød på det her og.
+
+00:51:19
+Bare vende tilbage med flere og flere arrangementer også hvor Der er mere mulighed for diskussion, fordi Det er også svært på den her måde at at komme helt i dybden.
+
+00:51:30
+Anne må jeg lige knytte en kommentar til det du spurgte om Det var så godt nok Ditte du var spot men men, men i forhold til det her med rensegrader og og og altså altså om man bruger rensegræder eller aktuelle værdier.
+
+00:51:47
+I forhold til de her renseløsninger. Det er faktisk også. Det er også en diskussion, som Vi har haft i arbejdsgruppen, fordi jeg jeg hvis hvis man skal anvende de her rensegrav.
+
+00:51:56
+Så vil det jo også være være meget i forhold til. Altså de. De vil jo altid af hvad der kommer ind, så Jeg synes ikke nødvendigvis altid man kan bruge dem til noget.
+
+00:52:05
+Man bliver også. Man bliver måske nødt til at kigge på begge dele, både på rensegræder og på de aktuelle koncentrationer, Der er til stede.
+
+00:52:12
+Så det vil jeg bare lige sige kort.
+
+00:52:18
+Det er meget fornuftigt. Er der nogen der har flere kommentarer ude?
+
+00:52:22
+I anja jeg.
+
+00:52:22
+Kan se, Der er kommet et spørgsmål fra Esben ram. Han spørger, om det vil være muligt indenfor lovgivning at regulere med emissionsgrænseværdier.
+
+00:52:31
+Og Det er jo så en af dem, Vi har diskuteret om den der udtalelse fra Naturstyrelsen og den der bemærkning i en vejledning, om Det er godt nok retsgrundlag til, at man kan sige det, må man ikke.
+
+00:52:44
+Og det mener Lasse i hvert fald hårdnakket, at Det er det ikke, men det mangler jo ligesom stadig at blive prøvet.
+
+00:52:52
+Så det kunne være vi skulle se, om vi kunne finde nogen, Der er ude i nok til det på et tidspunkt og få den endeligt afklaret.
+
+00:53:06
+Så var der en kommentar herovre.
+
+00:53:22
+De der klichovand dokumenter du henviste til Ditte med web.
+
+00:53:28
+Det må ligge det må ligge et sted. Det må vi også kunne finde 1 1 1 link til ikke?
+
+00:53:34
+At finde med det samme her.
+
+00:53:38
+Og Karen skriver, myndighederne er opmærksom på den kombinerede løsning og stiller krav til dokumentation af recipientens tilstand, og hvad den kan tåle, så regnvandsbassiner bliver ikke bare godkendt som godt nok.
+
+00:53:53
+Men det.
+
+00:53:55
+Det passer jo også meget godt i tråd med det der Der er blevet sagt og egentlig også er er lovpligtigt, ikke?
+
+00:54:05
+Eller er det mig, der har misforstået det?
+
+00:54:09
+At man skal både man må ikke stille krav om udledning, men man skal vurdere, hvad recipienten kan tåle ud fra. Hvad bat kan?
+
+00:54:18
+Ja så man skal sandsynliggøre at med den her teknologi der kan vi overholde der henter vi i hvert fald ikke at miljøkvalitetskravene bliver bliver holdt.
+
+00:54:34
+Christian kan du se chatten?
+
+00:54:38
+Ja og Der er faktisk lige kommet en et spørgsmål ind fra Christopher, der spørger om, hvordan man kan deltage i det projektnetværk han omtalte.
+
+00:54:47
+Så kan man sende mig en en email.
+
+00:54:52
+Hvad lowkey?
+
+00:54:55
+Ja, men er det ikke det, hvis vi lover at når Karin og Ditte og Lasse og andre gode folk kommer videre, så indkalder vi til flere arrangementer om det her, fordi Det er et hot emne.
+
+00:55:10
+Og Det er altså. Det er faktisk selvom Jeg synes i har været mega pædagogiske, så er der bare Det er sindssygt svært at fange alle alle de gode pointer, så Jeg kan godt forstå alle folk gerne vil have slidesene og og det det glæder jeg mig også selv til at få, så dem får vi distribueret på en eller 2 måde.
+
+00:55:29
+Så vil vi bare lige reklamere for de næste 2 arrangementer, som vi også indledte med at fortælle om, at Vi har de her godmorgen med DNK, som er her kl. 08:00.
+
+00:55:39
+Hvor den næste bliver den 10. December, og Det er også stormflodssikring af København syd og Hvidovre eller vandmasserne fra Syd.
+
+00:55:47
+Og Det er de her 9 øer man gerne vil etablere ud fra avedøre hollem og den 7. januar bliver det så kystkurate der kommer og præsenterer deres nye værktøj kystplanlæggeren.
+
+00:55:59
+Og så kan i jo se hernede i januar februar allerede Karin håber vi på, at vi kan præsentere noget standardiseret metode til dokumentation af grænseløsninger. Og så har Københavns Kommune jo også et andet kæmpestort.
+
+00:56:13
+Kystsikringsprojekt, som er lynetteholder. Det vil vi også præsentere her, men det kommer.
+
+00:56:20
+Der kommer datoer Sådan 9. december er der en hel temadag som coach 2 coach.
+
+00:56:28
+Arrangere om kystforvaltning og klimatilpasning, og man har faktisk også mulighed for at møde op fysisk i Randers. Godt nok, men det Det kan jo også være apropos de her diskussioner man gerne vil have, så er det jo dejligt at kunne deltage fysisk også.
+
+00:56:43
+Og man kan også deltage digitalt, og den 9. December også er der det her koncept, som DNK har indført. Der hedder textalks, som handler om hvordan vi håndterer.
+
+00:56:54
+Vejr data i vandsektoren.
+
+00:56:56
+Og ellers så er der også flere arrangementer på tegnebrættet, og i kan følge med i Vores nyhedsbrev og også på klimakalenderen her.
+
+00:57:04
+Som Der er et link til her.
+
+00:57:07
+Jamen har vi tid til, at jeg lige besvarer en enkelt mere.
+
+00:57:10
+Kan du tro?
+
+00:57:12
+Og Jeg kan se Kasper har spurgt om i forhold til noget med proportionalitet.
+
+00:57:20
+Om man altid kan kræve rensning af overfladevand, eller om der måske kan være tilfælde, hvor det ikke er noget vigtigt. Og jeg fusker at have læst en afgørelse fra klagenævnet, hvor man gik ind og sagde, at der skal altid anvendes bat, også selvom det vurderes at det.
+
+00:57:40
+At den her udledning i virkeligheden ikke vil hindre opfyldelsen af af af, at man kan leve op til miljømålene ude i recepten, så skal der altså alligevel anvendes bachel, så Det er ligesom Sådan en mindste fællesnævner, eller hvad man skal sige, at du skal i hvert fald altid lave noget bat, og nogle gange skal du måske så lave mere, hvis recipanen kræver det.
+
+00:58:10
+Og så bliver der sagt, at man kunne beregne peck og peanut som altså er Det er Sådan en risk risk coation risk ration, hvor man ser på hvad. Hvad er en farlig koncentration at have og hvad er det for en koncentration vi tænker der vil være derude, og hvordan er forholdet så imellem de 2.
+
+00:58:30
+Og den.
+
+00:58:33
+Kan man sige og i virkeligheden også lidt implicit taget med fordi.
+
+00:58:38
+Den vil jo få en indflydelse på.
+
+00:58:41
+På på flora og fauna i vandløbet, som er en del af det økologiske.
+
+00:58:47
+Mål om god økologisk status, så Det er jo faktisk også en af de ting, man skal kunne sandsynliggøre man med den her udledning stadig skal kunne overholde.
+
+00:58:57
+Så så Det er helt sikkert også relevant at kigge på.
+
+00:59:03
+Og så er det ikke, så når vi måske ikke mere her på.
+
+00:59:05
+Falderebet Der er lidt en kommentar. Men det du sagde med at.
+
+00:59:09
+Man altid skal som minimum anvende hvad altså Det er det om du vil skrive det ind i din præsentation, så vi kan have det med til jo.
+
+00:59:17
+Jeg tror den følger vi lige op på om ikke andet så med den artikel tænker vi måske også kan gå lidt mere i dybden med lidt flere afgørelser. Det skal vi nok følge op på.
+
+00:59:27
+Det lyder rigtig godt og så er Kasper han skriver husk også lige d hens regneark regnvandskvalitet hvor der jo ligger helt utrolig mange data om ja Det var jo nærmest alle de analyser der fandtes på det tidspunkt der kunne opdrives til ligesom at kvantificere de forskellige regnvandsav.
+
+00:59:46
+Ellers også mange gode oplysninger i det, men ellers så må vi bare sige tak for i dag og 1000 tak for 2. Virkelig, virkelig, virkelig spændende oplæg og vi glæder os allerede til i kommer igen.
+
+01:00:04
+Tak.
+

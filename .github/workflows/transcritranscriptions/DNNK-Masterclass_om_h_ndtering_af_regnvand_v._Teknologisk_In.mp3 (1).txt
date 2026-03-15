@@ -1,0 +1,1056 @@
+00:00:05
+Jamen nu er kl. 09:01, og så starter vi ved denne masterclass. Som nævnt er mit navn Ulrik høns-spørgaard, og jeg kommer fra teknologisk Institut og skal holde denne masterclass IDNMK om sikring af bygninger mod vand først en lille smule praktik i alle sammen blevet mudet.
+
+00:00:26
+Og og Det er mig, der holder det her, så Jeg er den eneste der ligesom kan sige noget. Morten fra DRNK er også med og og kigger i chatten og Det er også Morten der sørger for at denne præsentation bliver lagt på DNM ks hjemmeside.
+
+00:00:40
+En af de følgende dage, så hvis i har nogle spørgsmål jamen så skriv dem i chatten. Jeg kommer også til at holde mit oplæg, holde en lille pause undervejs, og så vil jeg tage de spørgsmål, som er lige før pausen og igen til slut Sådan at vi ikke tager spørgsmål løbende, da Der er Sådan relativt mange deltagere i chatten.
+
+00:01:01
+Lige kort om mig selv. Jeg hedder Ulrik hemsbjerg og har arbejdet på teknologisk Institut i næsten 25 år og har arbejdet rigtig meget med det her emne om sikring af bygninger mod vand og kommer en lille smule ind på, hvad vi ellers laver på teknologisk Institut om lidt.
+
+00:01:17
+Programmet i dag Det er en kort introduktion som Jeg er gået i gang med, og derefter er der en halv times tid omkring lovgivning og og noget om denne her klimatjek ordning, som nogle af jer måske kender i forhold til.
+
+00:01:31
+Hvordan man kan lave skybruddsikring og tjek af forskellige bygninger. Jeg vil komme ind på forskellige digitale værktøjer forundersøgelser, som er rigtig gode at lave, inden man eventuelt skal lave et fysisk tjek af en bygning.
+
+00:01:46
+Og så er det de holder en kort pause, og der vil jeg inden da lige tage nogle af de spørgsmål der måtte være inden og efter pausen, så bliver det Sådan lidt mere fokuseret på end end konkret skybrud, sikringer, bygninger med nogle af de opmærksomhedspunkter, blandt andet kloak afløb, som er noget af det, vi arbejder rigtig meget, men også selve klimaskærmen og nogle af de fokuspunkter. Det kælder det ikke. Gældertrapper, terræn, lyskasser og så videre.
+
+00:02:15
+Så Der er en masse billeder og og tiltag og lige til sidst vil jeg vise nogle steder hvor man kan læse lidt mere. Og så som sagt så er der lige lidt tid til til nogle afsluttende spørgsmål til sidst, som som vi kan gå igennem, så Det er er planen for i dag.
+
+00:02:32
+Det her Det er 2 del 2 session af et masterclass program, som vi kører på på teknologisk Institut.
+
+00:02:41
+Min kollega lars Jørgensen holdt første session omkring håndtering af regnvand i byen i december. Sådan så mig i dag her, og som min en 2 kollega Katrine Nielsen afholder Vores sidste session omkring regnvandskvalitet den 5. Februar, så der håber jeg selvfølgelig også, at at mange af jer vil møde op og og og og høre om om de ting.
+
+00:03:06
+Ja bare helt kort den enkelte slide hvad vi går og laver på teknologisk Institut indenfor klimatilpasning og og kloakområdet for for jer, der ikke måtte vide det. Vi har et rør og et klimatilpasningslaboratorier, hvor vi både har forskellige standardprøvninger, hvor hvor vi tester helt standardprodukter som rør og tanke og udskiller og så videre. Men så er vi så også involveret i prøvning og udvikling af nye produkter.
+
+00:03:35
+Det kunne være indenfor skybrud sikringe bygninger. Vi har testet en del pumpesystemer og højvandslukker og andre ting.
+
+00:03:42
+Så så det vil vi selvfølgelig rigtig gerne. Og hvis nogen af jer har et produkt eller andet som i første omgang ønsker noget test af i laboratoriet, jamen så så vil vi meget gerne tage en snak om det. Så har vi lidt rådgivning.
+
+00:03:54
+Ikke Sådan projektering af dimensionering som mange af jer sikkert sidder med, men mere i forhold til skadesudredning og og rådgivning om kloak og klimatilpasning. Vi har blandt andet en svartjeneste.
+
+00:04:05
+Og et lille fagblad, hvor vi skriver om stort og småt hvad der hvad der rør sig, men har så også noget noget specialistrådgivning indenfor nogle af Vores områder.
+
+00:04:15
+Så er vi involveret i et kontrolordninger, som der står både omkring ledningsrenovering i jord og Falster renovering i bygninger, hvor man tester nogle af de her systemer for at se om de lever op til de ting, man man kan forvente af dem, blandt andet noget med tæthed og holdbarhed og og at de bliver ved med at vedhæfte og den slags og og har også noget kontrolordning indenfor vvs og kloakområdet.
+
+00:04:39
+Vi har rigtig mange kurser og uddannelser. Vores største kursus er Vores kloakmesteruddannelse, hvor vi uddanner kloakmestre. Vi har cirka 50 på det hold, som kører i øjeblikket, og de skal så til eksamen i april, maj og efter Det kan de forhåbentlig alle sammen kalde sig kloakmester og søge om autorisation.
+
+00:04:58
+Vi har også en del andre kurser og indenfor afløbssystemer, klimatilpasning og det jeg siger i dag, jamen Det er en lille del af et kursus, som handler om om skybrusikring.
+
+00:05:08
+Og så deltager vi i forskellige forsknings og udviklingsprojekter. Det er jo blandt andet den måde, vi får viden, så vi kan holde et indlæg som det her og de ting, Jeg har skrevet her. Det er nogle af de puljer, vi søger hos blandt andet MODP Realdania, grundvejens investeringsfond, innovationsfond og så videre.
+
+00:05:26
+Ja og så til sidst, og det håber jeg da i alle jer Der er her at jeg kommer til at se jer fysisk. Vi holder en stor messe her i Taastrup hvor jeg sidder.
+
+00:05:36
+På der hedder rørcenterdagene, som kommer til at foregå den 18. Og 19. Juni, og Der er få ting, Der er gratis efterhånden.
+
+00:05:44
+Men rørcenterdagene er gratis både at deltage på selve messen, men også at deltage i miniconfrenser og de her minikonferencer bliver arrangeret i samarbejde med DRNK, så der håber jeg i hvert fald, at rigtig mange af jer vil møde op og og og både på på messen.
+
+00:06:02
+Eller på på nogle af de her minikonferencer.
+
+00:06:07
+Godt Det var den korte introduktion. Ellers vil jeg sige, at klimatilpasning handler jo rigtig meget om om.
+
+00:06:18
+Om vand og og Jeg vil primært tale om vand i dag. Man kunne jo også tale om tørke og om andre ting, og vandet er jo samlet kredsløb som alle der arbejder indenfor for området godt ved det. Jeg kommer til at fokusere primært på i dag.
+
+00:06:35
+Det er de her 2 typer altså hvordan vi klimasikrer Vores bygninger i forhold til regnvand og grundvand.
+
+00:06:43
+Man kunne også godt tale i forhold til havvand og og vandløb.
+
+00:06:47
+Der er nogle lidt andre metoder, og ofte er det nogle lidt større løsninger som involverer Kommune og Forsyning og beredskab, fordi Det er så store mængder man har med at gøre. Så Det er ikke fordi man ikke kan bruge nogle af de metoder jeg kommer ind på under regne og grundvand, men Det er mere for at sige når man skal beskytte en bygning mod havvand og vandløb, så er det nogle andre løsninger og ofte også en bredere kreds af af nogen der skal ind i forhold til.
+
+00:07:16
+Til at at hjælpe med at finde den rette løsning på på denne her udfordring, så så så Det er bare så lige for at sætte rammen af de ting jeg siger i dag. Jamen Det er primært indenfor skybrud, regnvand og og hvordan man håndterer tegnene og grundvand i forhold til at sikre sin bygning.
+
+00:07:38
+Det var den korte introduktion.
+
+00:07:41
+Nu vil jeg fortsætte med at fortælle lidt om, om lovgivning klimatjek ordningen, som faktisk har eksisteret en del år. Nogle af jer har måske hørt om den om nogle af jer har måske udført klimatjek.
+
+00:07:56
+Så så så Det er jo fint, men Det er i hvert fald godt at vide, at der eksisterer forskellige muligheder for at få få lavet et klimatjek af en en ejendom.
+
+00:08:10
+Helt kort omkring lovgivning om i forhold til klimasikring og bygninger, og Der er det jo netop det her med regn og grundvand som som jeg var inde på, og der må vi sige en af de vigtigste lovgivninger. Jamen Det er at Vi har en byggelovgivning og et bygningsreglement, hvor der står nogle nogle rigtig vigtige ting omkring, hvordan man skal sikre sin bygning mod.
+
+00:08:34
+Blandt andet.
+
+00:08:36
+Opstigning II afløbssystemet og så videre, men Der er også nogle helt generelle krav til at at sikre en bygning. Sådan er tæt, og den rent miljømæssigt lever op til til til forskellige ting.
+
+00:08:50
+Så har vi også en miljølovgivning. Under den ligger blandt andet spildevandsbekæmpgørelse og andre ting, som jo er rigtig vigtige i forhold til hvad, hvordan vi kan nedsive, hvordan vi kan udlede og og gøre andre ting.
+
+00:09:04
+Så så miljølovgivningen har også nogle nogle meget vigtige punkter i forhold til.
+
+00:09:10
+At at at klimasikre en en bygning eller en ejendom, og så vil jeg også nævne autorisationslovgivningen, som også er rigtig vigtig. Det er Sådan, at i hvert fald det autorisationsområde, som som vi arbejder indenfor. Det omfatter både el vvs og kloaksystemer og specielt i forhold til kloak.
+
+00:09:31
+Jamen.
+
+00:09:32
+Nogle af de ting jeg kommer til at sige, og det skal jeg nok prøve ligesom at minde om, når man skal sikre sine bygning mod opstemning fra hovedkloksystemet, som forsyningerne har hovedansvaret for jamen så så er det autorisationen, som som også er gældende her. Det betyder, at de folk, der skal udføre de her ting, jamen de skal være autoriseret kloakmestre i hvert fald for en stor del af det arbejde, der skal der skal udføres.
+
+00:09:58
+Der er nogle nogle få undtagelser blandt andet som forsyningsselskaber, hvor man godt lave nogle ting og også er der nogle simple arbejder, som blandt andet handler om håndtering af af regnvand på på overfladen, som som er undtaget fra autorisationslovgivningen. Men men Det er rigtig svært at undgå at have fat i en kloakmestre, hvis man har problemer med med sit kloaksystem.
+
+00:10:20
+Og en 2 ting Jeg vil sige jamen Det er det her med at det som udgangspunkt er bygningsejernes ansvar og sikre bygningen mod regn og grundvand. Der er sikkert en del af jer Der er bekendt med, at der har været noget lovgivning i høring omkring tegnende og grundvand. Det skal nok komme lidt tilbage til og og det udvider selvfølgelig at at at forsyningsselskaberne under visse betingelser nok kommer til at kunne gøre nogle tiltag i forhold til til grundvand, men det betyder.
+
+00:10:49
+Ikke at at de ligesom overtager det hele. Bygningsejerne kommer stadig til at stå med en stor del af ansvaret selv. Så så Der er forskellige ting, som som rører sig på det her område, og Det er jo også godt II forhold til det, og så er der noget omkring finansiering.
+
+00:11:06
+Finansiering er en rigtig vigtig del, når vi snakker klimatilpasning. Det er jo Sådan, at i år har jeg ladet mig fortælle, at der bliver håndværkerfradraget indført igen.
+
+00:11:16
+Og det her med klimasikring bliver et et punkt som hvor man hvor man kan få få hjælp til det, og Det er jo så den måde, som som håndværkerfradragsordningen kommer til at fungere på. Der plejer at være nogle småjusteringer fra år til år, men Det er i hvert fald værd at holde øje med, at Det er en mulighed for at få lidt tilskud til nogle af de her løsninger, der handler om om klimasikring og og kigge på på den ordning.
+
+00:11:43
+Ellers så vil jeg også slå et slag for denne her klimatjek ordning, som faktisk har eksisteret i mere end 10 år.
+
+00:11:54
+Den blev lanceret i 2014, som også står her, og Det var Sådan, at man på klimatilpasning DK det her. Det er et gammelt kortsnit Jeg har til højre. Der kunne man faktisk søge på klimakvalificerede firmaer, som havde taget et kursus.
+
+00:12:11
+Og så som så kunne gå ud og lave et klimatjek efter det nye lancering af klimatilpasning DK, som kom i efteråret sidste år, så kan man desværre ikke det mere. Vi overvejer faktisk på teknologisk Institut om den mulighed for at søge på virksomheder, som som laver klimatjek at.
+
+00:12:33
+At den skal ligge på en af de hjemmesider, Vi har med at gøre, men lige PT kan man altså ikke søge på det her, men Det var lidt mere også for at fortælle om ordningen, og der i 2014 var det meningen eller som udgangspunkt. Der var det forskellige virksomheder, som tilbød at lave det gratis et klimatjek, hvor man altså kom ud og og lavede et tjek fysisk tjek, som typisk tog en times tid ude hos private og måske også lidt større ejendom.
+
+00:12:59
+I dag, der tager langt de fleste.
+
+00:13:02
+Et honorar for at udbyde eller for at at gennemføre et klimatjek så.
+
+00:13:09
+Det Det er det der skal til kan man sige og og og nok også fordi Det er jo et område hvor Der er virkelig meget fokus med vand fra oven og fra neden og også fra siderne III. Rigtig mange tilfælde.
+
+00:13:22
+Så man kan sige den nederste pind, hvor der står, man kan komme med på miljøstyrelsens liste, hvis man er medlem. Det kan man altså ikke fordi at af klimatilpasning. Det kan beg mig bekendt i hvert fald ikke ikke kunne det her længere, men man overvejer altså andre ting, og Det kan jeg godt lige sørge for, at det bliver tilrettet, inden det bliver lagt på på der en k, at Det kan blive blive gjort.
+
+00:13:51
+Så i 2020 blev der lavet en relancering, og Det var Miljøstyrelsen og bolius, som stod bag sammen med nogle nogle organisationer. Det var danske kloakmestre og kloakssektionen i dansk industri.
+
+00:14:06
+Og og Dansk byggeri, da de stadig fandtes DME danske maskinstationer, entreprenører, danske anlægsgartnere og de grønne klangentreprenører. Jamen Der er lavede man en relancering i 2020 for at få endnu mere fokus på det.
+
+00:14:20
+Og og der står netop også det her med klimatjek ikke er gratis i dag, men man man betaler altså et gebyr, der fastsættes af af rådgiveren.
+
+00:14:31
+Hvad er det et klimatjek kan? Jamen Det er jo. Hvad skal man sige en screening fordi Det er et kort hurtigt gennemgang på hvordan ens bolig ligger og nogle af de ting.
+
+00:14:47
+Det er jo blandt andet jamen har man været ramt af af nogle hændelser tidligere, jamen, så ved man jo måske også hvordan vandet er kommet ind, og man ved måske også hvad Det er for en type vand er det vand fra avlesystemet eller er det noget?
+
+00:15:01
+Grundvand eller eller andet?
+
+00:15:04
+Noget af dem 1 1 1 klimakjek kan give nogle indikationer af i hvert fald. Det er også det her med hvordan dækker huset og grunden ligger man en lavning. Hvad kan man gøre ved det og og de her forskellige ting?
+
+00:15:18
+Så er der også noget med udearealer. Jamen er man på en skråning, kan der være noget risiko for at vand løber ned mod bygningen og og igen det her med med lavning hvad hvad kan hvad kan det være?
+
+00:15:29
+Og så er det selvfølgelig at man zoomer ind og kigger på selve bygningen. Er der kælder? Hvad består ens klimaskærm a er der nogle åbninger?
+
+00:15:39
+Både døre og vinduer, men også andre ting som ligger tæt på terræn, hvor Der er risiko for at man kan kan trænge ind. Og så er det selvfølgelig hvis man har kælder som jo er et lidt kritisk punkt i forhold til det her med vand. Jamen hvordan er den så sikret?
+
+00:15:54
+Har man sikret sig i forhold til afløbssystem eller?
+
+00:15:57
+Andre ting og Det er jo det Sådan helt overordnet et klimatjek kan kan give svar på, og Det er i hvert fald kan være første step. Og så er der jo typisk nogle ting, som måske skal undersøges lidt grundigere. Det skal jeg nok også komme ind på, inden man tager den endelige beslutning og tager fat i nogen, der kan udføre det her for en, og det omfatter i nogle tilfælde altså at man skal have fat i nogen, der har en autorisation på på det her område.
+
+00:16:26
+Det jeg godt vil slå et slag for, for det synes jeg faktisk er stadig en en rigtig fin tjekliste. Det er at der i forbindelse med det her klimatjek blev udarbejdet en tjekliste, som jeg selv synes har nogle rigtig fine overskrifter, hvor jeg tænker jamen hvis man går de overskrifter igennem, så er man kommet et et pænt stykke af vejen, og som jeg var inde på, så kan det godt være at Der er en del ting som kræver nærmere undersøgelse, og hvor man ikke får det fulde.
+
+00:16:57
+Men, hvor man så må sige, at der har man behov for at få fat i noget hjælp eller lave nogle undersøgelser, som tager noget noget længere tid.
+
+00:17:06
+Men Jeg synes i hvert fald at.
+
+00:17:09
+At den er den er fin som som Sådan en en overordnet indgang til, hvis man har både et privat hus eller lidt større ejendom. Hvad er det for nogle ting som som man skal kigge på?
+
+00:17:21
+Og uden at gå alt for meget igennem og det Det kan selvfølgelig godt være lidt svært at se. For nu står det småt, så de her 6 hovedoverskrifter synes jeg faktisk er er rigtig fine at at kigge på og og lige hurtigt tage de her hovedoverskrifter. Det er blandt andet at finde ud af det ved man måske på forhånd om der tidligere har været problemer med vand og og og selvfølgelig også hvis hvis man også.
+
+00:17:49
+Kan sige noget om det, hvad Det er for en type af vand.
+
+00:17:52
+Er det fra kloakken? Er det i forbindelse med klimaskærmen som måske er gammel. Altså vand kommer ind fra Vi har taget eller er det tegnforhold, som gør at at at det her kommer ind og Det kan som også er nævnt være gennem kældervæg eller kældergulvet af af af det kommer så så det her med at spørge ind til tidligere problemer med vand og finde ud af det.
+
+00:18:16
+Det er i hvert fald et godt sted at at starte.
+
+00:18:20
+Punkt 2 handler så rigtig meget om udfordringer med med husets og og grundens placering. Der er det det her med, at man jo har nogle nogle digitale værktøjer man kan kan bruge, og det skal nok komme lidt tilbage til om lidt hvor man jo kan kigge på, hvis man både i forhold til regnvand og grundvand, men men egentlig også i forhold til havvand og og og vandløb. Jamen hvor hvad er risikoen?
+
+00:18:45
+I forhold til til grundens placering.
+
+00:18:47
+Der er det her med, hvis man lægger på en skråning. Det kan også være, at noget af det man skal skal kigge mere på. Det er hvor højt grundvandet står, hvis man ikke ved noget om det i hvert fald.
+
+00:18:56
+Det er teregnende og grundvand. Det kan også være, at det kunne være rigtig fint at vide lidt mere om den jord man man har. Der tænker jeg specielt i forhold til nedsivningsforhold, Der er det her begreb jordens hydrauliske ledningsevne, som siger noget om.
+
+00:19:13
+Jamen, hvor annet er?
+
+00:19:16
+Jorden til at man kan nedsive Det kan godt være, at jorden er god til at nedsrive, men men noget noget relevant er også. Jamen må man nedsive og hvor svært kan det være at få Sådan en nedsivningstilladelse hos i den Kommune hvor man ligger, som kan være relevant at at kigge på det?
+
+00:19:32
+De næste ting handler om om og vurdering af tag og og nedløb. Altså jamen hvad taget tilstand? Hvordan er tagrender er vi tætte, er de store nok i forhold til at taget, og så er der selvfølgelig også nedløb.
+
+00:19:51
+Alt sammen er selvfølgelig vigtigt, Det er tæt. Hvis det ikke er det, så er det i hvert fald et et hurtigt sted, og Det kan man Sådan også visuelt set på.
+
+00:20:00
+III forhold til.
+
+00:20:01
+Til det.
+
+00:20:04
+Ja og og der kan man sige, når vi kigger på på tavleneløb, jamen så er der også.
+
+00:20:10
+Kloakmestre og og andet som som kan hjælpe med afløb og og den slags.
+
+00:20:20
+Så er der en vurdering af af udearealer, som jo handler rigtig meget om.
+
+00:20:27
+Hvordan man ens bygninger er placeret på grunden er det meget tæt bebyggelse er der.
+
+00:20:35
+Et et skråninger på på grunden kan vandet løbe nedad ned mod bygningen. Eller kan man få terræn væk?
+
+00:20:45
+Så Der er fald væk fra fra bygningen.
+
+00:20:47
+Det er nogle af de ting, som som i hvert fald er er værd at kigge på og og der anbefaler vi i hvert fald altid, at man laver en fysisk og ikke kun kigger på på på de rigtig fine digitale værktøjer, men også kommer fysisk ud lige og og se, fordi der ofte kan være nogle ting, som man ser fysisk som som man ikke kan se på på de forskellige digitale værktøjer.
+
+00:21:10
+Jeg kan se der lige er et et spørgsmål om hvor man kan finde tjeklisten. Altså jeg mener, at Miljøstyrelsen på klimatilpasning DK stadig har et link til den. Ellers mener jeg også at boltus har og og ellers så lægger vi den i hvert fald også på på Vores hjemmeside, men skal nok lige tjekke om om de steder om de stadig har tjeklisten enten på klimatilpasning, DK bolius DK eller også skal sørge for at.
+
+00:21:38
+At at vi lægger den ud.
+
+00:21:42
+Nummer 5, det handler om udfordringer med selve klimaskærmen Det er jo vægge døre.
+
+00:21:52
+Ventilationsåbninger, kældertrapper, eventuelle lyskasser og og åbninger, der måtte være i klima skærmen, som er rigtig vigtigt at tjekke. Jamen, hvordan ser det ud, hvad er tilstanden af det? Og er der noget, man kan sikre?
+
+00:22:08
+Mod vand og der vil jeg sige, at den måde man ligesom kan beskytte sin klimaskærm. Det er rigtig meget at sige. Hvordan holder vi land væk fra de her kritiske områder?
+
+00:22:18
+Og Det kan man nogle eller heldigvis de fleste gange gøre relativt nemt. Det er klart, hvis man skal have løsninger, som ligesom kun skal aktiveres når Der er vand. Jamen så kræver det også noget elektronik og noget styring.
+
+00:22:34
+Som hurtig gør løsningerne dyrere og den slags.
+
+00:22:37
+Men, men Jeg vil sige i første omgang er Det er det meget at sikre at at man ikke kommer ind de her kritiske steder og så til sidst punkt 6 jamen så kigger man rigtig meget på sårbarheder i kælderen. Kælderen er et kritisk punkt. Noget af det handler jo om hvilke materialer man benytter i sin kælder.
+
+00:22:59
+Organiske materialer gips er ikke altid super godt at at bruge der skal man. Hvis man får vand kender man bruge meget mere på at tørre ud, så man kan sige i stål og beton.
+
+00:23:10
+Og den slags er ofte rigtig gode materialer, og så er det jo selvfølgelig også, hvordan man bruger sin kælder, hvis man ligesom får opvaccineret de dyre ting højt oppe.
+
+00:23:22
+Og ikke bruger den til teenageværelser og diskoteker og alt muligt, hvor der står meget dyre ting. Jamen så bliver risikoen selvfølgelig mindre, så så det selvfølgelig har det noget med anvendelse og og og og en risikovurdering af jamen hvad bruger min sin kælder til?
+
+00:23:39
+Men, Der er jo også mange som jo ønsker kælderen brugt, og der må man bare sige jamen så skal man så nok også bruge.
+
+00:23:48
+Større beløb på at sikre både i forhold til afløbssystemet, men også kan det være, at man simpelthen skal over mod flere steder og bygge en en helt vandtæt kælder, som er frygtelig dyrt. Men men nogle gange er den løsning, som man bør anbefale.
+
+00:24:06
+Godt Det er Sådan hovedpunkterne på tjeklisten og i kan se jamen Det kan ligesom stå på 2 sider og Det var lagt op til at man man underskriver og det gør borgeren også i forhold til det. Og der står også nogle nogle nogle ting omkring forsikring som jo også er vigtigt i forhold til.
+
+00:24:24
+Det her om om klimasikring og og og heldigvis en dialog som som forsikringsselskaberne er med på, at vi tager for at blive bedre til at beskytte os mod vandet.
+
+00:24:37
+En ting som jo er vigtigt, når man laver Sådan et klimatjek, som jo ofte handler om, at der kommer nogle fagfolk ud som ved en masse om vand og og bygninger og den slags. Og så er der en masse borgere som er er mere.
+
+00:24:54
+Usikre og som ikke ved en masse fagudtryk og den slags. Jamen Det er jo også noget forventningsafstemning i forhold til, hvor meget kan man med et klimatik og og Jeg vil altså godt slå.
+
+00:25:06
+På på det her med at Det er en screening og der ofte skal laves grundigere undersøgelser. Jeg synes også en rigtig vigtig ting, punkt 2 som står på på den her slide handler om.
+
+00:25:19
+Hvad? Hvad kan man med fordel udskyde til at der skal laves andre renoveringer står bygningsejen for eksempel over for at skulle lave noget. Tagrenovering står de for at skulle lave en større gårdrenovering og lægge en terasse eller fliser eller lave noget simpelthen.
+
+00:25:38
+Om i udeareal udearealerne jamen så kan det godt være at man skal vente lidt med nogle af af tingene Sådan at det giver mere værdi og man kan lave noget der giver mere merværdi så og og og Det er jo selvfølgelig det tror jeg alle som som har arbejdet med med klimatilpasningsområdet det her med hvis vi kan bruge vandet som ressource på en eller 2 måde. Det er jo selvfølgelig rigtig godt, så det vil jeg jo gerne slå et slag for det kommer jeg ikke til at snakke så meget om i dag.
+
+00:26:08
+Men, men hvis man kan det så er det jo Det er jo rigtig fint. Og så er det selvfølgelig også vigtigt at at Der er samarbejde mellem forskellige faggrupper. Hvad kan kan de selv gøre, og hvad skal de?
+
+00:26:21
+Hvilke områder er det? Det er vigtigt, de hyrer en professionel altså blandt andet i forhold til en autoriseret kloakmester, som skal lave nogle af de her ting i forhold til til afløbssystem. Så Det er vigtigt, at man også lige får får brugt lidt tid på at at.
+
+00:26:38
+Og fortælle om nogle af de ting, som som jeg lige var inde på her.
+
+00:26:42
+Ellers så er det Vores anbefaling min anbefaling, at hvis man går ud og tilbyder et et klimatjek, at man så også får lavet nogle forundersøgelser inden besøg. Og Der er jo forskellige muligheder og.
+
+00:27:02
+Nogle af dem, som som vi bruger hos os som jo også er gratis sider, som man kan komme ind på.
+
+00:27:10
+Og som, som Jeg synes er er rigtigt gode værktøjer i hvert fald til at at lave den indledende screening. Jamen Det er det her kampværktøj, som ligger på klimatilpasning DK.
+
+00:27:21
+For jer der ikke kender det, så synes jeg helt klart at at Det er værd at at besøge. Jeg har lige 1 1 1 enkelt billede af det om om lidt, ellers så findes der jo også din gave, som jo også er en en rigtig god side som som også har forskellige andre ting udover med med vand, så er der.
+
+00:27:38
+Nogle nogle andre ting, som man kan lære en masse af i forhold til til den hjemmeside og og så så vil jeg også godt slå sig af for bolius. Jeg synes de har rigtig mange gode både artikler og andre ting på på deres hjemmeside, som man i hvert fald også kan henvise til i forhold til at at at at beskytte mod det her. Det er klart, at der findes.
+
+00:28:03
+Lidt mere avanceret værktøjer skalgo som Jeg er sikker på en del af jer kender synes Jeg har et super fint værktøj.
+
+00:28:11
+Og som som jeg ved, at at mange bruger hvor man men ret hurtigt hvis man bruger det ofte ihvertfald kan kan få forskellige muligheder for også at lave tiltag som som gør det skal gå. Har jo lidt flere ting også indbygget i forhold til både kamp og og din gave, så så Det er i hvert fald næste step. Og så er der jo muligheder.
+
+00:28:34
+Nu har jeg bare skrevet mig modeller.
+
+00:28:36
+Jeg er ikke model ekspert selv, men men jeg ved jo at dem som arbejder både hos forsyninger og hos rådgivere, at Der er muligheder for at lave meget avancerede modeller. Men så er det jo også en prisklasse, og det kræver jo selvfølgelig, at det her er nødvendigt, så Det er jo Sådan lidt denne her snak med. Notat jamen, hvad er det på hvilket niveau er der behov for?
+
+00:28:56
+En model og det her afhænger selvfølgelig både af hvad er det for en bygning vi snakker om, og hvad er det nogen for?
+
+00:29:04
+En økonomi der der ligger til at kunne lave forundersøgelser, inden man man går videre, så så så det her. Det er i hvert fald nogle muligheder. Jeg vil godt lige vise et par par af de her ting.
+
+00:29:17
+Jamen for jer der ikke har set.
+
+00:29:21
+Kampværktøjet før jamen, så kommer man ind på på Sådan et billede af af danmarkskort, hvor man har mulighed for at lave en påvirkning.
+
+00:29:31
+Og og så zoome ind på en konkret adresse, og som i kan se ude til højre jamen så kan man zoome ind i forhold til nedbør, vandløb, grundvand og og hav. Og det Jeg synes er rigtig fint med med kamp. Det er jo det løbende bliver opdateret og det der også er fint.
+
+00:29:48
+Det er at vi ligesom har de her 4 nedbørstøbere som jeg eller ikke ikke nedbørstyper, men vandtyper som jeg selv synes er en en udmærket kategorisering fordi Det er.
+
+00:29:59
+Vandet er et kredsløb, men ren lovgivningsmæssigt og den måde, som Det kan være fint at at kigge på det. Jamen så så giver det meget god mening, og Der er altså mulighed for at.
+
+00:30:12
+Man man laver en påvirkning både hvordan Det kan være i dag. I forhold til nedbør kan man jo prøve at belaste et område med x antal millimeter regn. I forhold til grundvand kan man gå ind og se på.
+
+00:30:25
+Jamen, hvordan er de nuværende forhold? Og så kan man også gå ind og se.
+
+00:30:29
+På forventet fremtidige forhold i forhold til, hvor kritisk Det er på et område, og Det er ret nemt og hurtigt at bruge de fleste, som arbejder med vand. Der synes jeg, at Det er et værktøj, som man i hvert fald skal kende, så for jer der ikke har prøvet det, så synes jeg i skal gå ind og og prøve at at bruge det ganske kort.
+
+00:30:51
+Et andet.
+
+00:30:53
+Rigtigt fint værktøj Det er det her din Georg. Der kan man også på på din gave gå ind og kontrollere risikoen i forhold til nedbør.
+
+00:31:06
+Vante grundvand og og hav, men det Der er jo min gave også kan Det er.
+
+00:31:14
+Nogle andre vigtige ting, så jeg plejer det i hvert fald at.
+
+00:31:18
+At henvise nogle af dem, jeg kender til at gå og bruge din gave, hvis de skal ind og købe en bolig, eller Der er nogle andre ting i et område, som er er er værd at undersøge det her hus. Jeg har lavet et lille billede af på på din gave. Det er faktisk mit eget sommerhus.
+
+00:31:40
+I kan se, Jeg har jo arbejdet rigtig meget med vand og burde måske have lavet nogle grundige og undersøgelser.
+
+00:31:47
+Det her hus som ligger på Samsø.
+
+00:31:51
+Det vil jeg sige, at at jeg var godt klar over, da jeg overtog det fra min far for 1 4 5 år siden, at der var nogen valgudfordringer.
+
+00:32:01
+Fordi at Det har altid været i familien, men men men Der er et nært familiebånd til det, så Jeg har kastet mig ud i det, men måtte også konstatere, at Det var så før at at værktøjerne var meget udbyggede som som de er her i dag.
+
+00:32:15
+Men måtte også konstatere, at der var altså store udfordringer med meget højt grundvand, så det nedsivningsanlæg, som fungerede rigtig fint i sommerhalvåret.
+
+00:32:28
+Det. Det virkede altså ikke så godt om vinteren, hvor vi faktisk ikke havde prøvet at bruge det så meget før, og Det var jo lige under corona. Så så der var det faktisk nødvendigt at at lave nogle nogle ret store tiltag i forhold til at kunne håndtere vandet.
+
+00:32:44
+I et sommerhusområde. Vi var så heldige, at vi havde mulighed for at tilslutte os samsøs spildevand, og det vil sige. Der er etableret et tryksat løsning for for spildevandet, og så håndterer vi så regnvand selv på på grunden.
+
+00:32:58
+Men men Det er da noget som som kostede en en del penge, som Jeg tror de fleste hellere måske ville have brugt på et nyt køkken eller en ny terrasse eller andre ting. Så så så det der med at at at kende vilkårene og det det gjorde jeg jo til dels men.
+
+00:33:14
+Men, men Jeg vil sige at at det her med vandet har jo kan man godt se her. Jamen når når det regner kraftigt der på på Samsø jamen, så er der en en meget stor lagning og det ligger tæt på 1 1 1 mose og så giver det altså nogle nogle udfordringer og og og det vil man i hvert fald kunne se hvis man laver en en undersøgelse med enten kamp, din gave eller eller mere avanceret værktøjer.
+
+00:33:37
+Så 1 1 1 opfordring til at inden man laver et klimatjek at at bruge nogle af de her værktøjer og og og Det er jo også hvad for nogle man selv synes giver mest værdi. Jeg vil anbefale at bruge nogen som bliver jævnligt opdateret.
+
+00:33:55
+Og og og og gør det.
+
+00:33:58
+Og så lige til til sidst inden vi vi holder en en kort pause. Jamen bolius.
+
+00:34:07
+Jeg tror at denne her tjekliste at den stadig ligger på bolius hjemmeside. Det kan godt være en lidt 2. Udgave.
+
+00:34:15
+Men, men skal nok som sagt lige undersøge det, men men ellers så så har bolius rigtig mange gode ting på på hjemmesiden i forhold til hvordan man sikrer sine bolig mod forskellige ting.
+
+00:34:28
+Her har de jo ligesom i på på en figur med med med et en ejendom, der har de ligesom pin pointet forskellige ting.
+
+00:34:38
+Kælderen kældernedgange lyskasser, terrasser, tag lyskasser og så videre. Hvad man kan kan gøre. Hvad er det, man skal Sådan rent bygningsmæssigt kigge efter, men men også hvad er der for nogle muligheder for at at lave nogle ekstra tiltag?
+
+00:34:56
+Og og Det er noget af det, som som jeg så kommer ind på i 2. Halvdel af af det her den her masterclass som som fortsætter efter.
+
+00:35:11
+Vi har haft en lille pause.
+
+00:35:15
+Jeg tror ikke der har været andre spørgsmål end end hvor man kan finde checklisten ude. Ellers så kan i bruge den lille pause.
+
+00:35:25
+Som som vi holder lige her om om lidt til at at stille spørgsmål, og så kan vi lige tage dem igen. Men ellers så er det mit forslag at vi holder en pause nu til kl. 09:45 9 45 der der begynder 2 halvdel af denne her masterclass, hvor vi zoomer ind på hvordan vi konkret sikrer.
+
+00:35:51
+Selve bygningen og og Der er en del billeder og figurer.
+
+00:35:55
+Der viser noget om om de her ting.
+
+00:35:59
+Velkommen igen til 2. Halvdel af denne her masterclass om skyforsikring af bygninger II forhold til til vand.
+
+00:36:08
+Mens der var pause, så tjekkede jeg lige i forhold til til det her med med tjeklisten.
+
+00:36:18
+Det er Sådan, at bolius har i hvert fald en lidt 2 udgave som opdaterede udgave på på på deres hjemmeside. Så og ellers så har vi faktisk 1 1 1 projekt, hvor vi selv arbejder med med klimasikring af bygninger, hvor hvor det også bliver lagt på på os selv, men men Der er i hvert fald en en udgave af af tjeklisten, som man kan finde hos boels.
+
+00:36:41
+Så er der et spørgsmål i forhold til til til slides, der bliver gennemgået på de forskellige masterclasses og i forhold til at at modtage. Nu er det jo DNK der står for det, men men det jeg mener er DNK gør Det er at denne her masterclass bliver optaget og lagt ud på DNN ks hjemmeside, og det mener jeg også den sidste gjorde.
+
+00:37:06
+Det tjekker jeg selvfølgelig lige med Morten, men Det er jeg ret sikker på, at Det er Sådan det det foregår.
+
+00:37:12
+Så det vil sige at at i får ikke tilsendt slides måske, men Det er en mulighed for at komme ind og gense den masterclass så som som man kan gøre det på på på den måde.
+
+00:37:26
+Men ellers så, så hvis hvis det jeg siger ikke er er er 100% korrekt, så så kan det være at der lige bliver skrevet rundt i forhold til hvordan det det kommer til at foregå.
+
+00:37:38
+Godt 2 halvdel ellers af af det her masterclass. Jamen der zoomer vi Sådan lidt mere ind på konkrete løsninger.
+
+00:37:49
+Og muligheder, hvordan man kan gøre i forhold til at beskytte en en bygning. Og Det er Sådan ligesom hele vejen rundt om bygningen fra tag til afløb, til vægge, til døre og og og andre åbninger.
+
+00:38:05
+Der er ret mange billeder, og som sagt så er det meget Sådan til inspiration, og Det kan godt være at nogle af de ting jeg jeg viser billeder af. Jamen Det kan man måske ikke gøre 1-1 på en bygning, men man kan måske gøre noget der ligner så så så det håber jeg. Og så som sagt så slutter jeg af med både og.
+
+00:38:29
+Fortælle om nogle af de steder i kan kan kan finde supplerende materiale til til til nogle af de ting jeg fortæller om, men også hvis der skulle være nogle yderligere spørgsmål og og og svare på på dem, så Det er er planen for for 2. Halvdel af af af denne masterclass.
+
+00:38:49
+Lige for at at at afslutte af så.
+
+00:38:54
+I forhold til det jeg sagde inden jamen, så er det rigtig fint inden man starter på på det konkrete tjek og går rundt og undersøge nærmere de forskellige dele af klimaskærm og og bygning. Jamen og og og få svar på så mange af de her ting som muligt, som handlede blandt andet om det her med med tjeklisten.
+
+00:39:17
+Spørger ind til, har der været problemer tidligere med vand, inden man kommer ind og måske starter der? Jamen kigge på husets grundens placering. Se på udenlandsarealer.
+
+00:39:30
+Start med at kigge på på klimaskærm, simpelthen gå rundt, og så kan det være at Der er nogle af af elementerne man skal zoome mere ind på. Er der kælder og hvordan er tilstanden kælderen og hvad bliver den brugt til?
+
+00:39:43
+Hvis man har mulighed for det, så også laver nogle undersøgelser af. Hvad er det for et afløbssystem ved man er det fællesystem er det.
+
+00:39:55
+Separat system, altså hvor man deler spildevand og og regnvand op og. Og så er der jo også nogle steder hvor man har lavet en del lar løsninger, altså lokal aflønning, regnvand hvor man måske har afkoblet og lavet regnbede maskiner eller håndteret vand på på på andre måder.
+
+00:40:12
+Og så selvfølgelig, hvis Der er en kælder. Jamen hvordan bruges det? Er det en integreret del af bygningen, som jo bare er vigtigt.
+
+00:40:19
+Den lever op til til samme krav som som resten af af bygningen. Eller er det noget der bliver brugt mere til til opbevaring, hvor man godt kan tillade? Måske andre lidt fugtforhold og hvor det måske heller ikke gør så meget at ja at at at det ikke helt er samme ligning klima som II resten af af huset Det er.
+
+00:40:40
+Det er nogle nogle ting som er?
+
+00:40:42
+Er er godt at undersøge.
+
+00:40:45
+Næste step, jamen Det er vist Der er kommet vand ind.
+
+00:40:51
+Og og og kigge på de risiko elementer og og der synes jeg jamen det her 4 vandtyper normalt ved folk godt om vandet er kommet op fordi man har haft et vandløb. Det er der i hvert fald nogle i nogle byer som er hvor vandløber ind løber ind gennem byerne og som som kan stige rigtig meget hvis der har hørt stort opland til.
+
+00:41:13
+Jeg de fleste ved også, hvis vandet er kommet op gennem et gulvafløb eller et WC eller noget. Jamen så tror jeg de de fleste er er klar over det. Det kan også være at det begynder at sive langsomt der begynder at komme fugtskjoller i første omgang og så under kraftige regnskyl jamen så er det måske at at det kommer ind gennem kældervæg eller kældergulv.
+
+00:41:37
+Det er lidt sværere at sige. Jamen kommer det så fra overfladen eller kommer det nedefra?
+
+00:41:42
+Og Det kan være nogle af de steder, hvor det kræver lidt lidt grundige undersøgelser. Det kan også være, at Det er ind fra gennem terræn, for eksempel i et vindue, en kældernedgang en lyskasse.
+
+00:41:57
+Som som der. Det kræver selvfølgelig man man lige har set dem, men men typisk.
+
+00:42:03
+Kan man også relativt nemt finde ud af. Jamen har der været så meget opstigning på terræn at at Det er den vej, det løber ind. Men men selvfølgelig, hvis man ikke har været hjemme eller været på ferie.
+
+00:42:13
+Så kan det være svært at at finde ud af jamen, hvad var det faktisk der der der gik galt og så kan der være andre? Nu skriver jeg vinduer. Der er jo mange vinduer som går helt ned til til terræn, men Det kan også være vinduer som sidder i en kælder og der kan være andre åbninger som jeg skriver.
+
+00:42:30
+Det kan være til ventilation. Det kan være ja døre som som også ligger i en kældernedgang lyskasser eller andet.
+
+00:42:39
+Og så har det selvfølgelig taget det beskytter jo rigtig meget mod regnvandet og har jo en meget, meget vigtig funktion i forhold til at at det skal have 1 1 1 kvalitet som gør at det ikke kommer ind den vej, men der Der er vi jo selvfølgelig mere ovre II det rent byggetekniske i forhold til at sikre en god tæt og holdbar konstruktion som som vender.
+
+00:43:02
+Ja op mod mod mod himlen altså 1 1 1 tagkonstruktion.
+
+00:43:09
+Indledningsvis, der lovede jeg, at jeg ville komme en lille smule ind på det her med grundvand og og højtstående grundvand, og Det er i hvert fald et område, hvor man i mange områder i Danmark har været rigtig, rigtig udfordret. Det var jo Sådan, at i 2023.
+
+00:43:32
+Der havde vi det våde stov i målt i Danmark.
+
+00:43:37
+Og og Det er faktisk det ved jeg ikke om om om i kan huske, men der var faktisk tørke i en del af foråret i 2023, hvor græsplæner blev gule og alt muligt. Så selvom vi havde tørke, blev det alligevel det vådeste år, og det da vi kom til juli måned 2023, der begyndte det at regne rigtig meget, og det gjorde det Sådan resten af året.
+
+00:44:01
+Mange måneder i mange områder i Danmark. Jamen der regnede det over 100 mm om måneden.
+
+00:44:06
+Og gjorde jo at at der var store udfordringer, og det gjorde også, at det her trængende af grundvand højtstående grundvand lavede udfordringer mange steder. Og Det er noget af det, som kan være lidt svært at svare på.
+
+00:44:23
+Bare lige umiddelbart vil klimatjek med med trængende og grundvand blandt andet fordi, at grundvandet typisk står højest i perioden december til april. Det er jo den periode, Vi har nu.
+
+00:44:37
+Og der det her trængende og grundvand hænger jo sjældent sammen med det primære grundvandsmagasin, hvor vi vi vi trækker det, kan det godt gøre i nogle tilfælde. Men Det er jo det primære. Vi trækker vand fra til til drikkevand og den slags.
+
+00:44:53
+Men men men det her trængende her, Det kan jo stå højt og nogle gange meget tæt på på terræn.
+
+00:45:00
+Så og og og Der er Det kan da være en god ide at pejle i den her periode.
+
+00:45:05
+Udfordringen kommer jo lidt, hvis man skal ud og lave et klimatjek i maj måned for eksempel.
+
+00:45:12
+Eller sommeren, hvor man kan sige jamen der står grundvandet typisk ikke så højt. Og hvis hvis man så ikke ligesom har tid til at pejle det her jamen så kan det give nogle udfordringer.
+
+00:45:23
+En 2 ting Det er det her med jordmundsforhold. Det er også rigtig vigtigt at sige den figur Jeg har ovre til højre. Den siger noget om jamen hvornår kan man lave et bygningstreng?
+
+00:45:37
+Det man typisk laver af bygningstreng? Det er et omfangstring som kan suppleres med et netgræn under bygningen eller stikring som ligesom.
+
+00:45:48
+Er et supplement til omfangsdrænet.
+
+00:45:50
+Men, men figuren viser, hvor man kan undlade lidt omfangstræning, men også hvor der man skal lave det.
+
+00:45:59
+Men den viser også, at der kan være Det er specielt den der klasse 4 hvor det ikke giver så meget mening at lave en omfangstræning og og det afhænger jo af af jordens hydrauliske ledningsevne hvis jorden er.
+
+00:46:16
+Er er meget tæt, jamen så kan det give mening.
+
+00:46:20
+Og lave det som man kan se under klasse 3 der kan man lave en lokal sænkning på sin grund, men hvis jorden ikke er meget tæt. Jamen hvis man laver et omfangstræn og det ligesom er udbredt til et rigtig, rigtig stort område. Jamen hvis man begynder at pumpe på det her jamen så vil vandet meget hurtigt løbe til og så vil jeg sige så kan pumperne står og køre i døgndrift uden at man får den helt store effekt og det vil sige man står pumper på rigtig, rigtig, rigtig mange kubikmeter vand.
+
+00:46:47
+Uden at det måske giver den store effekt.
+
+00:46:49
+Og der kan man sige, at den løsning, som som er i dag, hvis man ikke kan lave omfangstræning. Jamen Det er at bygge sin kælder vandtæt. Det er en frygtelig dyr løsning.
+
+00:47:02
+Og der der vil jeg så henvise til og sige jamen det her. Den nye lovgivning omkring trængende og grundvand, som har været i høring måske kan komme med nogle svar.
+
+00:47:12
+Det er den nye lovgivning lægger op til. Det er, at forsyningsselskaberne kan gå ind på visse betingelser og.
+
+00:47:21
+Og.
+
+00:47:23
+Lave nogle tiltag i forskellige områder.
+
+00:47:27
+Og og og måske hjælpe ikke at de laver det hele, men de kan måske lave nogle løsninger, som man kan aflede til.
+
+00:47:36
+Og på den måde nemmere komme komme af med vandet, og Det er lægges op til kollektive løsninger, som man altså hjælper i et lidt større sammenhænge.
+
+00:47:45
+Område jeg ved høringsfristen er lige slut i forhold til lovforslaget, men men det skulle komme her i loven skulle træde i kraft i 2025, og så er det altså en mulighed, at man hvis man ligger i klasse 4 kan gå ind og få noget hjælp i forhold til til til hvis man er et område som er meget plaget, det ikke kun er en selv, så så så mine anbefalinger er lidt, at hvis man lægger i klasse 4 altså.
+
+00:48:12
+Har noget en jordsk, hvor vandet meget nemt siver til og rigtig meget højt grundvand, at man så måske tager fat i sin grundejerforening og måske når nye lovgivning er trådt i kraft. Enten tager fat i Kommune eller Forsyning og ser om det her. Det er noget 1 1 1 1 1 løsningsmulighed som man ikke behøver at at bygge vandtæt.
+
+00:48:34
+Man kan også finde flere oplysninger om det her emne i rørcene. Anvisningen nul 29, som ligger på teknologisk instituts hjemmeside. Det er en gratis anvisning, og jeg viser også lidt mere om dem til til sidst.
+
+00:48:49
+Jeg vil også sige at.
+
+00:48:52
+At at Det er et område, hvor der sker mange ting, og blandt andet er er den standard den danske standard, der handler om drænding af bygværkere, der hedder DS 436.
+
+00:49:04
+Den er under revision i øjeblikket. Den handler meget om bygningstræning og og og den slags, og der forventer vi, at der træder en ny standard i kraft på det område i 2025 også. Så så Der er altså flere ting som som rør sig på på det her omkring terrænet og grundvand.
+
+00:49:26
+Ellers så er det vigtigt at at kigge på, om Der er risiko for opstemning i hovedklaksystemet. Der kan man måske som forundersøgelse tage fat i en Forsyning, hvis man ikke har nået det. På forhånd, kan man måske gøre det efterfølgende.
+
+00:49:43
+De løsninger, Der er, hvis man har problemer med.
+
+00:49:49
+Opstemningen af kloakken, og det må man sige. Det er der mange steder. Jamen, så arbejder man typisk med at beskytte sin.
+
+00:49:56
+Afløb med enten højmandsslukker pumper eller bypassanlæg, og Det er et område, som kræver autorisation. Alt det alle de her ting og Jeg vil kort lige komme ind på. Jamen, hvad er det om lidt?
+
+00:50:09
+Hvad er det man kan kan man de her, men men ellers anbefale hvis Det er noget man skal gå videre med og tage snakken med en en autoriseret kloakmester.
+
+00:50:20
+Det man kan kigge på, hvis hvis Sådan indledningsvis hvis man har afløb II kælderen. Det er jo for det første at finde ud af. Jamen er det fælles eller separat system step nummer 2 Det kan være at sige jamen hvis man har afløb, kan man så undvære dem i kælderen?
+
+00:50:38
+Det kunne være man siger jamen vi vælger at droppe dem Vi har i kælderen og flytte Vores.
+
+00:50:44
+Badeværelse og bryggers og Sådan noget og måske op på i stuen eller.
+
+00:50:48
+På på første sal og så selvfølgelig finde ud af jamen. Hvordan kan de øvrige afløb beskyttes? Nogle gange er det relativt nemt, andre gange så kommer der regnvand fra bagsiden, hvor hvor hvor det kræver altså nogle lidt større tiltag og og så som sidst som sidste punkt.
+
+00:51:07
+Det der står jamen Det er at arbejde med kloakker er autoriseret arbejde.
+
+00:51:12
+Men ganske kort de løsningsmuligheder Der er Det er at man kan kigge på højmands lunger, og der findes forskellige typer højmandslukker. Jeg vil ikke komme meget ind på på de forskellige typer andet end at sige Der er forskel på om vi snakker.
+
+00:51:29
+Til WC som jo plejer at være det sorte spildevand, Der er nogle hårde krav til hvis man har wc c på end hvis vi snakker gulvafløb der kan man få højvandslukker. Der er indbygget gulvafløb som er det der type 5 man kan se.
+
+00:51:42
+Eller højremandslukker til gråt spildevand i kan se når man får WC med jamen Der er nogle krav til at der skal være tilknyttet alarm, som man simpelthen jo får noget besked om at nu er højvandslukket i brug, men ellers virker et højvandslukket jo ved at Der er forskellige klapper, og når der kommer en opstemning i kloaksystemet, jamen så går klapperne ned og lukker.
+
+00:52:07
+Og lukker simpelthen af for kloakken, og det betyder jo også at.
+
+00:52:12
+Så er det ikke smart at bruge kloaksystemet inde bagved, så vil det hurtigt blive fyldt op, og Det er derfor, at Der er krav om, at der skal være af alarm på på WC. Det er selvfølgelig ikke hensigtsmæssigt, at hvis man har en meget bred brugerkreds at, at man så ikke ved noget om det her, og derfor er der i lovgivningen krav om højvandslove kun bliver installeret på en mindre brugerkreds, altså typisk et.
+
+00:52:42
+En parcelhus eller andre steder, hvor man kan sige at brugerkredsen er lille.
+
+00:52:49
+Der er så også mulighed for, at der findes forskellige typer højvandslukker man kan placere på stikledningen.
+
+00:52:57
+Det kalder man så type et, og der kan man simpelthen sætte højvandslukket ude i en brønd udenfor huset, og Det kan man sige. Måske er en i hvert fald at man kan nøjes med ét lukke, der lukker helt af, men så lukker man jo også af for hele huset og og det skal man være klar over. Der findes forskellige typer.
+
+00:53:17
+Af af højrevandslukke på på stikledningen.
+
+00:53:22
+Ja og og og der kan man sige i forhold til højmandslukke. Det er en godkendt løsning, men hvis løsningen.
+
+00:53:31
+Ikke bliver vedligeholdt, eller Der er risiko for Der er noget der kan sætte sig i klemme. Jamen så så virker den jo ikke helt efter hensigten. Men Jeg vil sige at højvandsloven bliver bedre og bedre og er i hvert fald en af de løsningsmuligheder, som man bør kigge på.
+
+00:53:47
+Hvis man har udfordringer med opstigende kloakvand.
+
+00:53:53
+Hvis man.
+
+00:53:56
+Af forskellige årsager ikke kan installere højvandslukke, blandt andet fordi Der er en stor brugerkreds eller Der er andre tiltag. Jamen så en rigtig brugt løsning. Jamen Det er at etablere en pumpebrønd for spildevand, hvor man jo pumper vand fra en kælder for eksempel.
+
+00:54:13
+Her er det vis på figurerne, at der kommer noget vand fra et WC og en håndvask, som bliver ledt fra på kælderniveau over til en.
+
+00:54:21
+Bombebrønd og så bliver det lidt videre II det her der sidder i de her moderne pumpebrønder, der har vi heldigvis nogle rigtig dygtige virksomheder både i Danmark, som som jo sælger pumpebrønde både her, men også eksporterer rigtig meget og der sidder kontraventiler indbygget her, som jo sikrer, at selvom Der er opstemning jamen så kan vandet ikke trænge den 2 vej og de her kontrentilaler er virkelig gode.
+
+00:54:47
+Og Der er rigtig stor sikkerhed, men en pumpebrønd.
+
+00:54:50
+Det, der jo er udfordringen med en pumpebrønd. Jamen Det er jo at man skal pumpe alt vand hele tiden, som som bliver lidt til det her, så så det man jo oftest gør. Det er at nøjes med at lede de installationer til som kræver det her, altså for eksempel fra kælderen og så lede det andet direkte ud.
+
+00:55:08
+Der kan jo være problemer nogle gange med at få lavet denne her adskillelse og Sådan noget af det, men Det er noget af det som er er godt at undersøge mere med end end en kloakmester.
+
+00:55:19
+Den sidste ting jeg lige vil nævne Det er denne her type anlæg som hedder bipass anlæg, og der kan man sige der. Har man egentlig lavet et en installation, som kombinerer pumper og højvandslukker, og det vil sige at under normal bro jamen der løber vandet bare selv ud.
+
+00:55:40
+Hvis der kommer en opstempning, jamen så går højvandslukket ned og lukker, og så træder punken til.
+
+00:55:47
+Og sørger simpelthen for at pumpe vandet ud på den 2 side, og der kan man sige der får man. Hvad skal man sige? De gode ting fra fra både højmandslukker og pumper udfordringen er selvfølgelig at i Sådan en installation jamen, Der er både indbygget højmandslukker og pumper, og det gør også, at Det er en forholdsvis dyr installation, men noget som vender indpas flere og flere steder og noget som også er kommet ind i den.
+
+00:56:12
+Standard for afløbsinstallationer som hedder DS 4 32.
+
+00:56:16
+Hvor hvor, hvor simpelthen det at at have et bypass anlæg er en af de 3 anerkendte løsninger på lige linje med højmandslukke og pumpebånd. Men altså Det er de løsninger, man typisk peger på i forhold til at beskytte mod vand fra fra afløbssystemet, som kan volde problemer i en i en kælder.
+
+00:56:39
+Ellers så hvis man kommer væk fra fra afløbssystem jamen og mere kigger på grunden og husets placering. Jamen noget af Det har jeg allerede været inde på tidligere og kigge på de her digitale kort. Nogle gange kan man kigge på forskellige kort fra kommunerne, som Vi har ofte et rigtig fint kortmateriale, og når man så kommer til selve den fysiske besigtigelse og grunden og kigge på jamen hvor ligger det?
+
+00:57:06
+Den konkrete bygning i forhold til nabogrunden.
+
+00:57:09
+Hvordan ser det ud i forhold til veje kan man risikere, at der kommer noget vejvand ind og og kan volde problemer. Hvordan er afløbssystemet i området? Er det fælles eller kloak, og er der nogle nogle vandløbssøer, som kan give anledning til problemer?
+
+00:57:24
+Jamen, så er det i hvert fald også værd at tage med, og så er der det her jeg var inde på for lidt siden det her med det høje grundvandsbejl, som godt være man kan have en indikation af det, hvis man kommer på det rigtige tidspunkt af året, men ellers så er er mine anbefalinger i hvert fald at man får igangsat nog.
+
+00:57:39
+Belling anna som man kan se over et et år gerne jamen hvad er grundvandsspejlet som som max og hvor hvor højt står det? Der er selvfølgelig også oversvariationer men men men hvis man får pejlet det i den der periode fra december til til april, så plejer man at at være godt hjulpet på på det område.
+
+00:58:01
+Godt.
+
+00:58:03
+Ellers er det så også at kigge på udearealer kloakker.
+
+00:58:09
+Også måske spørge ind til om om hvordan vedligeholdelsen er at at afløbssystem. Det er ikke kun afløbssystemet. Det kan også være tagrender og og andet fordi man kan have nok så godt et system men men hvis der bliver sætter sig nogle propper en brønd eller i et tagleløb jamen, så virker systemet jo ikke hensigtsmæssigt.
+
+00:58:29
+Så det der med at.
+
+00:58:30
+Få vedligeholdte og sørge for at at at bygningsejerne selv er er klar over de her ting er også rigtig vigtige, men ellers streger de her ting sig og i forhold til til til vedligeholdelse også om er der Falck fra huset er der højt sokkel er der Falck væk fra kældernedgangen, lyskasser og videre og så den sidste den handler jo mere om at afkoble regnvand. Det kan jo være en mulighed det måske handler om ikke så meget om beskytte mod vand men men det her med at man også.
+
+00:59:00
+Kan kan lave en afkobling projekt. I hvert fald kan jo være værd at have med II nogle af overvejelserne.
+
+00:59:09
+Så kan man zoome ind på selve huset klimaskærmen her er opremset nogle af de ting, som er er værd at kigge på.
+
+00:59:18
+Og og der Det er eller kældertrapper er der lyskasser er der nedkørsler. Det er jo typisk enten til garager. Nogle gange er det til i større bygninger kan der være ja større dele man kan køre ned til og aflevere forskellige materialer.
+
+00:59:35
+Er der vinduer eller døre tæt på terræn og så kigge simpelthen på tilstanden af sokkel og mur. Hvordan ser det ud? Ser det tæt ud.
+
+00:59:45
+Kan man se et tegn på, at der det øverste billede viser en ventilationsåbning og og og Der er der forskellige rørgennemføringer. Det kan jo være mange ting. Det kan både være afløb, Det kan være vand.
+
+00:59:57
+Det kan være ventilation. Det kan være forskellig udluftninger.
+
+01:00:01
+Som som som jo alle sammen skal igennem klimaskærmen, og hvordan er tilstanden af det her, og hvilken højde sidder jeg det i?
+
+01:00:08
+Har man sikret, at der ikke kan trænge vand ind i bygningen på på denne her måde.
+
+01:00:14
+Jeg har allerede været inde på det her omkring med med kælder og og og kigge på på på den. Det er klart, at hvis man kan minimere konsekvenserne af skaderne, så så er det rigtig fint og kigge på det her er der opmaginering af ting er der el installationer, PC ere og andre ting som som ligger i kritisk niveau. Og hvad er det for nogle materialer Der er brugt?
+
+01:00:40
+Som som man måske skal overveje, hvis man.
+
+01:00:44
+I hvert fald har haft skader en gang og sige, det skal vi have lavet om til til til noget andet, så så det her med at at gøre brugerne opmærksomme på, at hvis de ikke laver en en meget sikker kælder med med mange af de tiltag Jeg har været inde på eller bygger en hel vandtæt kælder, jamen så så skal man altså være klar og måske også have nogle beredskabsløsninger II baghovedet.
+
+01:01:09
+De næste mange slides jeg jeg viser jamen Det er forskellige billeder.
+
+01:01:16
+Med med nogle tjekpunkter, og Det er lidt mest som inspiration, og Det er lidt fordi at bygninger er meget forskellige, så man man skal kigge på det.
+
+01:01:28
+Det det her handler om tagcheck og og og kræver nogle gange nogle specielle folk som har har meget styr på forskellige tage. Der findes jo både tage med og uden hældning.
+
+01:01:38
+Der findes tage med forskellige kroner, højder og så videre, men men i hvert fald lave den her risikovurdering. Hvad sker der, hvis et nedløbs stopper til?
+
+01:01:50
+Her kan man se et fladt tag hvor det ser ud som om at Der er nogle små lunker rundt omkring, som jo giver risiko for at at den her tagkonstruktion i hvert fald på sigt kan tage på skader, og Der er måske risiko for, at der kan dannes.
+
+01:02:06
+Noget svamp og råd og og andet som man bør tage tage højde for. Og der findes jo, hvis man ikke kan fornemme adgang, jo jo nemmere muligheder for også at man kan kan lave ting med droner og få noget viden den vej.
+
+01:02:19
+Ellers har jeg skrevet her panik efter skybrud efter blandt andet skybruddet i 2011 i København. Jamen, der blev lavet nogle løsninger, som man måske godt kan forstå, men man skal jo også forstå, at man skal jo leve med det her.
+
+01:02:33
+Dag efter dag i en almindelig hverdag og nogle af de her ting, som som er blevet etableret her, gør jo i hvert fald, at det bliver lidt mere besværligt. Og de de 2 løsninger længst til Venstre gør jo det svært for for folk at komme over. I hvert fald hvis man har en kørestol eller at man har gangbesværet eller på nogen 2 måde, så så Det er klart, at de ting skal man både Sådan rent visuelt tænke.
+
+01:02:59
+Jamen giver det her god værdi i fremtiden?
+
+01:03:01
+Eller burde man kigge nogle andre veje på på på noget andet så så Det er jo selvfølgelig noget som den i sidste ende den engelske bygningsejer måtte tage stilling til om om man kan leve med med noget som som som de her løsninger Der er vist.
+
+01:03:19
+Ellers vil jeg sige at at det vi plejer at sige, at er nogle af de vigtigste ting, de står nævnt her. Det er blandt andet Falck væk fra bygning. Det er ikke altid Det er muligt, men Det er i hvert fald rigtig fint, at Der er muligheder for at afkoble kræftsystemet.
+
+01:03:34
+Det er er typisk jo ikke noget, som som beskytter bare direkte mod at vand kan komme op, men men Det kan jo være en delløsning som som som kan være relevant, hvis man alligevel skal lave nogle tiltag, så er der det her med højvandslukker pumper vejpartsanlæg Jeg har været inde på.
+
+01:03:49
+Og så er der det her med kanter op kanter, hvor man jo simpelthen jo med at lave en ret lille opkant kan sikre at der kan stemme noget op på terræn, før at det løber ind i en bygning eller ned af en kældertrappe, så det her med at arbejde med kanter og opkanter på en en god måde. Og Det kan være man skal inddrage nogle arkitekter i det her.
+
+01:04:12
+Jamen Det kan være rigtigt fint, men ellers så findes der også rent bygningsmæssigt. Jo vandtætte døre og skott og.
+
+01:04:20
+Ting man kan sætte over lyskasser, hvor man stadig får lyset ind, men men men måske med noget vandtæt glas kan kan sikre på på den måde, som der også er nogle af billederne der der viser her, så så Der er rigtig mange muligheder, men det afhænger også ofte af den konkrete bygning.
+
+01:04:38
+Som sagt en masse billeder, som jeg går relativt hurtigt igennem, men her er der vis forskellige eksempler på, hvordan man har beskyttet kældernedgange noget med opkanter noget med overdækning, noget med Sådan hvor hvor hvor man i hvert fald sikrer, at der kan ske en opstemning på terræn, uden at det løber ind med det samme, og hvor meget Det er afhænger jo selvfølgelig af de konkrete områder.
+
+01:05:04
+Så så det viser her. Ja som sagt forskellige muligheder, hvordan man man gør det.
+
+01:05:09
+Og på samme måde i forhold til til lyskasser lyskasser. I hvert fald dem, man har mange af inde II. De større byer.
+
+01:05:18
+Her er der vist, at man kan sætte noget over med glas man kan sætte noget over med nogle plader man kan lave opkanter omkring lyskasser og andre tiltag. Der er ikke noget der Sådan er rigtigt eller forkert. Jeg tror mere man skal finde den løsning som passer i forhold til til det den bygning man har med at gøre.
+
+01:05:36
+Og og så måske nogle gange inddrage nogle arkitekter, så det også rent æstetisk. Bliver nogle nogle gode løsninger man man kommer på?
+
+01:05:44
+Her er der nogle flere andre løsninger, hvor man har noget beredskab med en noget hvor man kan sætte en en love for simpelthen og og beskytte? Det er jo fint. Man skal bare også selvfølgelig have en plan for, hvordan det her beredskab bliver aktiveret.
+
+01:05:59
+Der er jo risiko for at at det her det kommer i sommerferie eller andre perioder. Og hvem er det så der der sætter dig op? Er det en vicevært er det?
+
+01:06:09
+Nogle private, der selv skal gøre det. Det skal i hvert fald være på plads, hvis man arbejder med med den type af af af løsninger.
+
+01:06:17
+Her er der vist nogle måder at sikre forskellige typer af udluftninger på, enten at man hæver det op over terræn. Det er i hvert fald en rettende almindelig en eller også det til højre, hvor man simpelthen har lavet en en forholdsvis simpel beskyttelse rundt om om en udluftning, som jo hvert fald betyder, at man skal op til hvis niveau før vandet begynder at løbe ind af af af den der ventilationsåbning, som er II vinduet.
+
+01:06:46
+Noget som er noget rør sig mange steder i det her omkring niveaufri adgang, som har stået i bygningsreglementet. Ja, man kan sige, hvis man har god plads omkring sin adgang, jamen så så giver det muligheder for at at lave ganske fine løsninger. Det er klart, at hvis man ikke har så meget plads, jamen, så kan det være svært at at at få de her løsninger, og så kan det være at at man måtte ty til andre der, men her er det i hvert fald vist både nogle som er Sådan indbygget rigtig meget.
+
+01:07:15
+II de forskellige løsninger og noget hvor man sætter nogle nogle nye ramper eller andet ind, så så for på den måde at at at sikre at døren dør eller vinduer bliver hævet til til til et niveau som gør at vand ikke bare kan løbe ind hvis det bliver.
+
+01:07:32
+Samlet på på terræn.
+
+01:07:35
+Der er også det her med beredskabsløsninger. Sandsække hører vi jo om nogle steder bliver udleveret fra kommuner og forsyninger til at at beskytte.
+
+01:07:46
+Jeg synes Det er fint at sandheden man overvejer sandsække og også fint man overvejer noget som waterchoes, som er billedlængst til højre. De fås i forskellige varianter, men Det er klart, at hvis man arbejder meget med beredskabsløsninger og er noget man skal hele tiden, så er det måske noget som helst kun skal være en midlertidig løsning, og hvor man så.
+
+01:08:05
+Enten selv eller i samarbejde med kommuneforsyningen eller eller andre måske skal overveje, om man ikke kan beskytte området bedre på sigt, fordi Det er hårdt at skulle arbejde med med beredskabsløsninger og bygge Sådan noget op i tide og utide. Så så så Det er. Det er fint det findes, men men men Jeg tror man man man skal tænke langsigtet og og arbejde med andre løsninger.
+
+01:08:31
+Her er der vist noget beredskabsløsning også til til Sådan en, hvor man kan se. Jamen Det er faktisk et ret stort areal og og og der kan man nok godt forestille sig der kan løbe meget vand. Og her er der så nogle som som har en noget de kan sætte for som jo kan fås helt tæt, men igen kræver det her.
+
+01:08:47
+Nu er det 4 personer der står og og gør de her ting, så Det er selvfølgelig rigtig vigtigt at at det bliver gjort på en på en god måde.
+
+01:08:56
+Der er forskellige løsninger også til til til kælderbutikker og og andre ting hvor hvordan man kan kan beskytte dem både igen med noget man sætter op, men også ret simpel, hvordan man med opkanter og andet til i hvert fald et eller andet niveau kan kan kan sikre de her.
+
+01:09:14
+Man kan også arbejde med løsninger indenfor her. Er det nogle nogle noget vigtigt elinstallation og andet, som man simpelthen har?
+
+01:09:24
+I det her tilfælde kan det tages op og ned i andre tilfælde, så er det måske noget der står der permanent, som man jo i hvert fald kan sikre en ret stor opstemning II det her rum. Man skal selvfølgelig overveje, om man kan placere vigtig installationer andre steder, og det ved jeg at kritiske steder som sygehuse og andet, hvor der står elektronik, der har man i hvert fald.
+
+01:09:49
+De fleste steder begyndte at kigge meget intensivt på at at.
+
+01:09:54
+Man, man har nødberedskab til, hvis strøm og andet sætter ud. Hvad gør man så?
+
+01:10:00
+Lige et par billeder med med før og efter billedet til Venstre viser, at Det var der kunne samle rigtig meget vand og løbe ned mod vinduet og og her med 1 1 1 1 Sådan en.
+
+01:10:12
+Metal III stål som som er sat jamen så er det altså kun det der falder på på selve skråningen, som trænger ned mod vinduet, mens der kan ophobes rigtig meget vand på på denne her før at at det løber videre, så så så Det er en en individuel løsning her, som som som giver god mening III forhold til og her er der nogen der har arbejdet med noget med en kældernedgang igen, hvor der kunne løbe meget vand før. Og nu er det begrænset til at at det mindre.
+
+01:10:41
+De her tiltag. Det er jo dem, jeg var inde på tidligere. Jo oftest kræver at man laver en del ting med udenomsarealet, men men men hvis man samtidig kan få noget areal, som giver mere værdi og man kan få glæde af, så kan det være noget, som man i hvert fald delvist kan få finansieret af, at man alligevel skulle lave nogle andre ting og så få lavet en god klimasikring og i hvert fald reduceret risikoen rigtig meget.
+
+01:11:09
+Geologisk Institut var nogle af dem, der blev ramt rigtig meget af det her store skybrud i København, og og de har en lang række løsninger både permanente og nogle beredskabsløsninger, som kan sættes i værk, når der bliver varslet skybrud. Og det skal jo siges de her ting omkring beredskab handler jo rigtig meget også om at varslingen er god. Det synes jeg, at man i Danmark er blevet meget bedre til.
+
+01:11:35
+Men men man kan jo også godt se skybrudsæsonen at DMI har langt flere varsler, som end også skal være på stikkerne.
+
+01:11:42
+Oftere end end man skulle for en 10 20 år siden, fordi Vi har flere hændelser, som ja truer Vores bygningsmasse rigtig rigtig meget.
+
+01:11:54
+Og og her også lige et et sidste eksempel på hvordan man har lavet noget skybrudssikring af et et forholdsvis tæt gårdum, men men og fået lavet nogle nogle nogle op kanter og andet som jo gør at de mængder vand der kan trænge ned. Det skal i hvert fald regne rigtig meget og ske en stor oppumning før at at denne her bygning fra vand så så så Det er i hvert fald denne her forventningsafstemning jeg også var inde på.
+
+01:12:21
+Er er vigtigt at at have med med de kunder, som arbejder indenfor det område.
+
+01:12:29
+Afslutningsvis, der lovede jeg at fortælle jer om, hvor man kan finde mere omkring.
+
+01:12:37
+Det her felt på rørcentret, hvor jeg sidder på teknologisk Institut. Jamen der har vi lavet 3 anvisninger, som handler rigtig meget om både skybrud, sikring og kælderundersvømmelser den længste Venstre, der hedder skybrudssikring, handler meget om klimaskærmen.
+
+01:12:56
+Den i midten af en om kælderoversvømmelse, og den er blevet Sådan opdateret, da det her bypassanlæg kom. Så hvis det handler om kælderoversvømmelser, vil jeg anbefale, at man bruger den, der ligger længst til højre, som hedder rørcenteranvisning nul 28 de kan hentes alle sammen gratis.
+
+01:13:15
+På på den hjemmeside vi Vi har der hedder skybrudssikring og bygninger, og de findes også direkte inde på på teknologisk instituts hjemmeside, hvis man går ind under.
+
+01:13:25
+Og søger på på diverse rørcenteranvisninger. Det er Sådan, at Vi har en hjemmeside, som hedder skybrudssikring af bygninger, som blev opbygget for en del år siden. Hvor mange af de eksempler, Jeg har vist her også er så der kan i genfinde en del af af billedematerialet.
+
+01:13:48
+Så så Der er nogle eksempler Det er mere, så man kan blive inspireret og noget af Det kan måske bruges ret meget, og noget skal tilpasses til til den andre man sidder med.
+
+01:13:57
+Det er Sådan, at min kollega lars, som holdt det først den første masterclass sidder med et projekt, hvor vi reviderer denne her hjemmeside og.
+
+01:14:08
+Det er ikke sikkert det helt bliver færdigt i 25. Det kan godt være den bliver først færdig i starten af 26, men Vi er i hvert fald en gang med en revision af det her. Så hvis Der er nogen af jer der har nogle gode eksempler, så er i meget velkomne til enten at sende det til mig eller til lars, så så vil vi meget gerne se det.
+
+01:14:23
+For som sagt er et et vigtigt område.
+
+01:14:26
+Hvor der hele tiden kommer nye spændende løsninger.
+
+01:14:30
+Vi har her i efteråret 2024 lavet 2 nye anvisninger. Det er det nyeste design af rørcenteranvisninger. Den ene handler om sokkelrender, og det hedder rør-centeranvisning nummer nul 33 og den 2.
+
+01:14:44
+Hedder afløbsrender, og de lægger også gratis på teknologisk instituts hjemmeside og det sted, hvor vi vi anbefaler, at man kan gå ind og finde det, hvis man søger inde på teknologisk DK.
+
+01:14:59
+Der og søger på på rørcenter anvisninger jamen så kommer der et billede frem her. Min kollega Diana.
+
+01:15:06
+Over 80% af af alle rørcenteranvisninger her er gratis og kan hentes i en PDF. Der er nogle få der ikke er.
+
+01:15:15
+Som som man så kan købe.
+
+01:15:18
+I en papirudgave, men dem Jeg har har nævnt her som handler meget om skyprosikring og kelleroversvømmelser afløbsrender og sokkelrender.
+
+01:15:29
+Jamen de er alle sammen gratis og kan kan hentes den her vej.
+
+01:15:36
+Det var Sådan set det sidste, Jeg vil sige det.
+
+01:15:43
+Hvis hvis i synes Det har været spændende, så er det som sagt at vi holder kurser i forhold til skybrudssikring på her på teknologisk Institut, hvor man lidt grundigere på nogle af de ting Jeg har været igennem her, blandt andet i forhold til hvordan nogle af de her komponenter viser og selvfølgelig ja også grundig og hvordan man laver klimatjek og og og den slags.
+
+01:16:07
+Så så det vil jeg helt klart anbefale. Og ellers så vil jeg sige at det her var så 2 halvdel af.
+
+01:16:15
+Af at teknologisk Institut masterclass det sidste og 3 er så min kollega Katrine Nielsen, som kommer den 5. Februar og fortæller om regnvands kvalitet, så det håber jeg også. Det er et at at i vil deltage i.
+
+01:16:33
+Det er et rigtig vigtigt emne, som har virkelig meget fokus i.
+
+01:16:37
+I øjeblikket så, så Jeg kan klart anbefale at at også at deltage den den 5.
+
+01:16:45
+Ellers så er det blevet tid til spørgsmål, hvis jeg ikke går ud til, at der har været andre spørgsmål, end hvor man kunne genfinde noget af det her. Jeg håber også, at nogle af de her sidste links jeg viste.
+
+01:17:01
+Gav anledning til, at i vil kunne finde de fleste af de her ting, som som Jeg har har har været igennem og ellers så i er velkommen til at sende mig en mail.
+
+01:17:14
+I kan givetvis finde mig på teknologisk instituts hjemmeside, men ellers er min direkte mail. Det er UHI snabel ateknologisk.dk og i er meget velkommen til at sende mig en mail eller et opfølgende spørgsmål. Hvis Der er noget II gerne vil spørge til eller diskutere omkring det her emne om skybrudssikring af.
+
+01:17:39
+Bygninger.
+
+01:17:41
+Ja da det ikke ser ud til at.
+
+01:17:46
+At være nogen spørgsmål lige nu, så vil jeg sige tak fordi i lyttede med og og som sagt henvist til til sidste del af af denne her masterclass, som Katrine holder den 5. Februar og ellers ønskes i alle sammen en rigtig god dag og i kan genfinde materialet på DNN ks hjemmeside.
+

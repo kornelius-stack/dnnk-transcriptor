@@ -1,0 +1,732 @@
+00:00:06
+Yes nu vælter jeg ind kan jeg se.
+
+00:00:10
+Godmorgen allesammen og velkommen til DNAK eller godmorgen til hvad hedder det godmorgen med DNAK ja mit navn Det er KDE pans og Jeg er ansat i sekretariatet for den nationale netværk for cam tilpasning og i dag så er jeg glad for at kunne byde velkommen til det her webinar som har fokus på borgerløb og oversvømmelser fra vandløb.
+
+00:00:34
+I dag, så skal vi så dykke ned i det her håndtering af overløb og oversvømmelser på vandløb med versioner fra Georg barneton Larsen og fra kility klima-datastyrelsen og reaf real variant blorin fra Danmarks meteologiske Institut.
+
+00:00:48
+Georg han vil præsentere et screeningsværktøjet overløb fra vandløb og rafel. Han vil dele viden fra DM is arbejde med at udvikle det mall baseret varslingssystem for oversvømmelser for vandløb.
+
+00:01:01
+Lidt praktisk information, inden jeg giver ordet videre. Det er at i er velkommen til at skrive spørgsmål og kommentarer i chatten undervejs, så vil jeg ligesom holde hold øje med den og så tager vi så tager vi dem op efter oplægget eller oplæggene.
+
+00:01:18
+I er selvfølgelig også velkommen til at tænde mikrofonen og eller adgonen og tænde mikrofonen og så stille spørgsmålet selv, men ellers så så vil jeg stå for den del.
+
+00:01:28
+Hvis der ikke kommer nogen spørgsmål eller kommentarer, så antager jeg som regel at oplæggene har været fyldestgørende, og så runder vi af.
+
+00:01:38
+Oplægget, det bliver optaget, og så efterfølgende bliver det lagt ud på DN ks vidensbank, som i finder på DN ks hjemmeside.
+
+00:01:47
+Ellers så vil jeg bare give ordet videre til geo.
+
+00:01:51
+Bare sige 1000 tak til ikke.
+
+00:01:54
+Ja ja tak ja tak for at Jeg kan få lov til at fortælle lidt om om det produkt som Vi har lavet i styrelsen der hedder overløb for vandløb. Det er første udgave af af kan man sige produktet, så Det er en form for prototype her på på første slide, der kan i se den bygning vi sidder i både mig og rafel, både klimadatastyrelsen og DMI er i samme bygning og på de øverste etager.
+
+00:02:20
+Ja, jeg kommer fra fra den del af klimadatastyrelsen, der hedder Center for jordobservation og datasammenstilling.
+
+00:02:26
+Og Det er egentlig min kollega. Det er dem der flyver otto foto flyvning og sørger for det bliver bliver foretaget og indsamler data til højdemodellen, og Vi har derfor også en gruppe, der kigger på, når man putter vand på højdemodellen. Hvad sker der så?
+
+00:02:41
+Så det, så Det er derfor Jeg er.
+
+00:02:46
+Hvorfor gik vi i gang med at kigge lidt på på oversvømmelseskort for for vandløb? Ja, det minder lidt om Det var lidt det der manglede i forhold til. Vi har allerede fra klimadatastestyrelsen et havvand på land og et skybrudskort, men men vandløb var ikke særlig.
+
+00:03:03
+Hvad var ikke lige givet på på det tidspunkt, og da vi så startede et varslingprojekt sammen med DMI, så gav det god mening at have nogle screeningskort. Det vil sige, man har nogle præprocesserede muligheder for at se på.
+
+00:03:13
+Hvis man har en given forhøjet vandstand i et vandløb, hvor hvor kan oversvømmelse så flyde hen?
+
+00:03:18
+Så så formålet med det her. Det er at lave et en hurtig landsdækkende beregning, der giver mulighed for at se det på terræn, og Det er jo igen en skaldobregning af af, hvor vandet flyder hen, så Det kan anvendes til screening, når man kender en vandstandskole i en vandløb.
+
+00:03:35
+Det er det Det er bedst til, og Det er det, Det er beregnet til.
+
+00:03:38
+Det er tanken, at vi laver det her årligt. Det vil sige hver hver gang Vi har beregnet nye versioner af Danmarks højdemodel, for vi flyver et nyt stykke af Danmark hvert år, så laver vi også en opdatering af af det her, ligesom vi laver opdatering af havvand på land og skybuskort.
+
+00:03:52
+Lige nu, så er produktet tilgængeligt på på Vores klimadatastyrelses labsside og så også på hit data DK, hvor man kan gå ind og se det som som Det er lige nu.
+
+00:04:02
+Og det kommer jeg lidt tilbage til.
+
+00:04:05
+Fordele og ulemper fordelene. Det er helt klart at vi kan lave noget landsdækkende og, og Det er faktisk også muligt at relatere til enten målt eller beregnet vandstandskvoter. Det er velegnet til screening, så man kan se i sær det åbne land hvor hvor kan der komme udfordringer med stigende vandstande i et vandløb?
+
+00:04:23
+Og så kræver det jo ikke nogen data på selve profilet af vandløbet, da det beregnes via skaldometoden, så så vandet flyder.
+
+00:04:31
+Kan man sige bare Der er en vej til at flyde.
+
+00:04:34
+Ulemperne ja Det er selvfølgelig at man ikke tager hensyn til opstunning og hældning af vandløbet. Der er heller ikke nogen tidsligvarning i selve flåde af vandet, så vandet kan have uendelig lang tid til at udbrede sig, så det giver lidt kl. 01:01 lille smule overdrevet version af oversvømmelsen, og så er der en udfordring i den her beregning, Vi har lavet, hvor at især hvor vandløb og rørlagte, så ser det ud tit ud som om at vandet så også løber hen over terræn, og Det er jo ikke tilfældet, så det skal man være opmærksom på.
+
+00:05:03
+Metoden jamen Det er baseret på det produkt vi udstiller der hedder DHM flow ekstrem regn.
+
+00:05:11
+Og Det er Det er egentlig tænkt til at sige jamen hvad er vandspejstigningen og hvor kommer udbredelsen hen på et land? Vi laver en beregning af noget der hedder en basiskote.
+
+00:05:22
+Som svarer til den vandstand, der var i vandløbene på det tidspunkt. Højmodellen blev fløjet.
+
+00:05:27
+Og så kan man have en kote over det, som så kan bruges til udbredelsen over land. Så på den måde kan man sige, Det er en slags havvand på land bare for vandløb.
+
+00:05:36
+Billeder ovre II siden her viser hvad hedder det?
+
+00:05:41
+Et eksempel fra Vejle, hvor man har taget en ret forhøjet vandstand 1,5 m, og så får man en del af ådalen oversvømmet.
+
+00:05:49
+Så er der udvælgelsen af vandløb, når man bruger DHM flow ekstrem regn, så tager den alle strømningsveje med det vil sige man har både vandløbene, men man kan også have strømningsveje på terræn og for at frasortere dem, så har vi kigget lidt på hvor store vandopland skal et givet vandløb kunne tage fra, for at det giver mening at tage det med i beregningerne.
+
+00:06:09
+Og Det har jeg. Det kalder vi fortærsket værdier.
+
+00:06:12
+Og de her tærskelværdier er er ret vigtige i forhold til, hvordan produktet kan anvendes. Ulempen er, hvis man vælger tærskelværdien for for stor, så skærer man vandløb fra, hvis man har den for lille. Jamen så får man nogle gange vand, der løber over terræn med i visningen af produktet.
+
+00:06:30
+Så de her terrormils værdier for all ulemier, men det viser jeg lige nu med en figur.
+
+00:06:36
+Der er 3 figurer her på samme område med 3 forskellige tærskeværdier, så den figuren herude til hvad hedder det Venstre side den den viser 1 m2 kilometers op vandopland.
+
+00:06:50
+Den 2 er 2 km2 og den sidste er 5 så hvis man kun skal tage med fra 5 jamen så kommer det her den her strømningsvej som egentlig ikke er et vandløb, men en strømningsvej hen over terræn den. Den kommer så med ikke med i visningen.
+
+00:07:03
+Hvormed med 2. Det er Sådan en mellemting man tager nogle af de her strømningsveje med. Til gengæld sikrer man sig også små tilløb af vandløb andre steder også som er som er rigtig nok kommer med.
+
+00:07:11
+Og endelig hvis Det er en kvadratkilometers opland, jamen så kan man få alt for meget mere strømningsveje over terræn og giver for mange fejl.
+
+00:07:20
+Så for at lave et kompromis. Jamen så har vi i den her første version, der nu findes af af overløb for vandløb valgt den tærskelværdi på 2 km2. Det er Sådan set for at prioritere rigtig mange vandløbs tilløb kommer med, men omvendt så skal man være opmærksom på når man bruger produktet, at der vil være visse steder hvor man ser oversvømmelser som ikke er realistiske.
+
+00:07:39
+Så Det er igen en vurderingssag. Hvad er vigtigst? Jamen altså hvis man tager de små vandløb med.
+
+00:07:45
+Så får man det mere korrekt resultat der hvor det giver fine resultater. Omvendt, så kan man få nogle strømningsveje, som jo så er med som ikke er vandløb eller udfordringer med rør. De kan ikke blive lidt større, så når når i begynder at kigge på det, så vær opmærksom på at det ikke Det er ikke anvendeligt præcist alle steder.
+
+00:08:05
+Produktet ses lettest hvis i hvis i går ind og åbner det på et program eller produkt vi hedder kalder hip det findes på hip data DK og Det er Sådan en interaktiv visning af rigtig mange ting primært fokuseret til at starte med på på grundvand. Og nu skal jeg prøve at demonstrere hvordan det ser ud live.
+
+00:08:27
+Så hipp er et et interaktivt produkt som man man skriver op i sin browser hipdata.dk så kan i alle sammen prøve at åbne det herude. Findes der nogle lag man kan slå til og fra det orange er Sådan nogle støttelag og i den så har vi så lagt ind den her første udgave af overløb fra vandløb, som man kan slå til og fra. Man kan også vælge hvilke baggrundskort man gerne vil have vist.
+
+00:08:49
+Lige nu er det skærmkortet, men man kan også sætte auto foto på hvis man gerne vil se det på et billede.
+
+00:08:54
+Så Der er forskellige måder at vise det på.
+
+00:08:57
+Hvis man zoomer ind et givet sted, og Det er et område jeg kommer til at zoome ind på.
+
+00:09:02
+Lidt lidt senere i præsentationen. Et område Vi har testet en hel del.
+
+00:09:06
+Værrebro aa her ved udløbet ved jyllinge.
+
+00:09:12
+Og tager vi et cirka her.
+
+00:09:16
+Så kan man gå ind og slå overlevende vandløb til.
+
+00:09:20
+Den starter med en kan man sige en 10 centimeters forhøjet vandstand i forhold til hvad vandstande så ud til at være. IDHM, man kan allerede se, at her ser ud som om Der er noget oversvømmelse. Det er nok ikke realistisk, hvis man skruer lidt op for den.
+
+00:09:34
+Så kan man se når man kommer op på et vist niveau. Nu tror jeg man skal bare tage 33 40 cm så er der en lille smule oversvømmelser langs vandløbet, men Det er som om hvis man kommer lige lidt højere op 3 cm så kommer der en del af oversvømmelser i områderne her og der har vi været ude og selv at vurdere Vi har et et casteligt senere hvor man kommer helt op på 80 cm og så har vi sammenlignet med både målinger og med med historiske den historiske med den beregnede modeller fra dynamisk model også.
+
+00:10:00
+Men Det er en måde at bruge det på. Man kan gå ind og skrue op. Man kan altså også skrue ekstremt højt op på niveauer, som nok ikke er realistiske, fordi så vil vandet være løbet ud i Roskilde Fjord men.
+
+00:10:11
+Men Det er en mulighed som Der er lige nu i værktøjet, hvor man kan se både realistiske niveauer for historiske hændelser, men også hvad vil der ske, hvis nu det blev voldsomt meget mere?
+
+00:10:23
+Så tilbage til til præsentationen.
+
+00:10:30
+Skal lige sætte den til lige igen.
+
+00:10:33
+Kom herned.
+
+00:10:39
+Yes.
+
+00:10:40
+Så anbefalinger er helt klart at bruge hitdata.dk og Det var her jeg zoomede ind før, så Det var her vi slap.
+
+00:10:47
+Men oversvømmelse, hvor Jeg har valgt 80 cm mere end mere vand i vandløbet, end der umiddelbart var i vandløbet på det tidspunkt. Vi fløj højt modellen.
+
+00:10:56
+Hvis man nu vil gøre det, og nu vil jeg lige demonstrere, hvordan man kan få en en historisk hændelse til at at blive vist mere eller mindre på den måde, man har tænkt sig at bruge produktet jamen, men hvis man har muligheden for at vide hvor høj vandstanden har været i sit vandløb, og Det kan man også finde via hipdata.dk der har vi en del vandstandsmålinger lagt ind også i historiske data, så man kan gå ind og finde.
+
+00:11:18
+Men har så samtidig brug for at vide, hvad var basisniveauet. Det vil sige, hvor meget vand var der, da højdemoden blev fløjet?
+
+00:11:24
+Og så kan man trække de 2 tal fra hinanden og vælge den rigtige oversvømmelse. Det demonstrerer jeg lige nu her, men igen gå ind og kig på hit datapunktum DK eller på KDS laps hjemmesiden. Der findes produktet også vist i en i en prototype samme Det er samme data.
+
+00:11:40
+Der er også lidt mere vejledning til hvordan man gør.
+
+00:11:45
+Det her område som igen hov du kommer til at gå væk det her område. Her er det område, Vi har kigget på en del gange, fordi der har vi en en strækning af vejrbro fra en måler, Der er hernede, hvor vejen krydser vandløbet.
+
+00:11:59
+Som både via viser vandstand og flow. Samtidig har vandløbet både hvad hedder det regulativ data og tværprofildata tilgængelig for os, således Vi har kunnet lave dynamisk beregninger for samme strækninger kunne sammenligne, så derfor er det 1 1 1 strækning af værebro, som Vi har kigget en del på her i styrelsen.
+
+00:12:17
+Nu vil jeg så demonstrere for en historisk hændelse, hvis man kan gøre det i hip data DK, der kan man faktisk altså også gå ind og vælge under den her fane heroppe under historisk og vandløb. Hvis man slår det til, så kan man finde nogle små Jeg kan se Der er nogle små blå trekanter. Der er også en trekant her.
+
+00:12:33
+Det er målerne, hvis man klikker på den, så kommer det her billede op, og så vil man kunne se vand målingen af vandstanden fra den måler og man kan se det går helt tilbage i den her visning tilbage til 2011.
+
+00:12:46
+Og den hændelse, jeg lige demonstrerer nu den er for kan man sige 14 år siden 21. Januar 2011 og det tal der står her 2,32 Det er det Det er din kote Der er for vandstanden Der er målt. Det vil sige der har været en kvote på 2,32 m i vandløbet på det her sted.
+
+00:13:05
+Vi er jo tæt på udløbet, så det Det er ikke så højt over en vand niveau.
+
+00:13:11
+Så skal man så bruge den her basiskvote. Den er lidt mere kompliceret at bruge men men man skal hvad hedder det oprette sig som bruger på dataforsyningen.dk og få et et login token. Hvis man allerede har det så kan man bruge det toke man har.
+
+00:13:25
+Og så skal man bruge et gisprogram, hvor man kunne kan opsætte Sådan en VCS tjeneste. Det kan for eksempel være et cookies.
+
+00:13:32
+Så tager man den her link til den her tjeneste og sætter sit tog ind efter lighedssegnet.
+
+00:13:39
+Og så åbnede man den, men man skal huske at opsætte den som en WCS tjeneste.
+
+00:13:43
+Det har jeg gjort her. Nu viser jeg hvordan det ser ud i cookies. Når Jeg har gjort det, så kan man have sine basiskote lagt ind i cookies, når man så klikker på det punkt, som man gerne vil aflæse data fra.
+
+00:13:56
+Og Det er så her, hvor vandstandsmåleren er med vandløbet på vejerbro, så får man tallet 1,54 m, det vil sige Det er den kvote, der var hvor vand vandet stod i vandløbet, der højdemodellen blev målt.
+
+00:14:10
+Det man så skal gøre Det er at man skal tage den vandstand, man havde fået fra den historiske hændelse, som var 2,32 m og basiskoten var 1,54 m og forskellen på de 2 Det er 78 cm. Det vil sige cirka 80 cm, så man vælger 0,8 i det her interval. For hvor meget stigning har der været i vandløbet?
+
+00:14:28
+I Vores screeningsværktøj i hip.
+
+00:14:31
+Og nu har jeg Sådan set bare det præcis det samme billede for hip for det samme område. Jeg har bare sat auto fotoser på som baggrund og vist det her, så Det er kan man sige hvor stor bare hvor stor hvad hedder det overløb fra vandløb af den her hændelse har været i 2011 og der kan man se den breder sig en del ud over terræn.
+
+00:14:51
+Der heldigvis er det jo en ådal, så Der er ikke så mange bygninger Der er nede i selve ådalen. Men der Der er en del af areal der oversvømmede.
+
+00:14:57
+Så har min kollega Jonas, en tidligere kollega Jonas. Han havde prøvet at beregne det her med en dynamisk model, som hedder hækas baseret på vandflows. Målingerne fra den samme hændelse.
+
+00:15:08
+Og så har vi en sammenligning her, så en dynamisk beregning af den samme oversvømmelseshændelse giver faktisk mere eller mindre den samme udbredelse. Men som jeg startede med at sige, så.
+
+00:15:17
+Tager hvad hedder det overløb for vandløb? Det tager jo hensyn til at vandet kan have uendelig lang tid til at løbe ud og brede sig ud over terræn, og Det har det ikke i en realistisk situation, fordi vandet flyder jo også væk ned langs vandløbet. Man skal også tænke på at produktet, hvis man bruger det til konkrete hændelser, som Jeg har gjort her, så virker det bedst tæt på vandmåleren som står her.
+
+00:15:36
+Det vil sige kort efter nedstrøms, jamen der giver det nok en nogenlunde realistisk resultat, men jo længere nedstrøms man kommer.
+
+00:15:43
+Som for eksempel herovre i den her ende. Jamen, der vil vandstanden i vandløbet nok ikke være.
+
+00:15:46
+80 cm over koten Det kan være den kun er 60 cm eller 60 cm og Det kan man fordi vandet strømmer jo væk ned ad vandløbet, så det skal man også have med når man bruger det til til sammenligning af konkrete hændelser.
+
+00:16:00
+Ja, det tror jeg var min præsentation af af produktet. Til sidst vil jeg sige, at når i nu prøver at bruge det, så er min min klare anbefaling. Det er at åbne åbne hit data DK der kan man gå ind og bare lege lidt med det med det samme.
+
+00:16:16
+Så kan man jo godt tænke lidt over hvilke tærskelier skal man måske anvende fremadrettet? Vi har allerede selv tænkt, at den nuværende 2 km2 er for lav, selvom den giver måske nogle gode tal og tager mange små vandløb med.
+
+00:16:28
+Så får man også får mange forkerte strømningsveje, og det vil man kunne se, når man går ind og bruger hit data DK at Der er en del steder hvor der ser ud til at være noget der der flyder over vandløbets bredder og over vandløbets brinker. Men det Det er ikke tilfældet i et realistisk billede.
+
+00:16:43
+Så kan det også godt være at i som brugere kigger på jamen hvad for nogle vandstandsstigninger skal man egentlig anvende og hvor meget af interval intervallet nu springer i 10 cm intervaller? Det kan være 5 cm ville være bedre, for der skal som regel ikke ret meget til lige når man er på kanten af der hvor oversvømmelsen kan komme til at ske.
+
+00:17:00
+Og så selvfølgelig også spændet. Lige nu har vi valgt 0-6 m, som svarer lidt til det samme. Vi har fra havvand på land, men 6 m er jo meget urealistisk for for vandløbsoversvømmelser og ikke noget der kommer til at foregå, så Det kan jo godt tænkes, at Vi skal have et andet spænd, så det så det giver en bedre mening.
+
+00:17:16
+Og så har vi generelt åbne for for forslag til forbedringer, så så i er meget velkomne til at til at kontakte mig eller hvis i går ind og kigger på laps, kan i se link til min min kollega eva bøgh som hendes navn og emails står også der på på lapiden, så man kan kontakte hende med med spørgsmål og forslag. Og som sagt Det er en Det er en prototype. Det er første udgave, så Det er ikke Det er ikke tænkt til at være et.
+
+00:17:43
+Et perfekt bud på oversvømmelse for vandløb, men det.
+
+00:17:45
+Et godt bud i mange områder, og der hvor det virker godt. Jamen der har det også vist at have en relativ god præcision.
+
+00:17:52
+Så Det var det jeg ville sige. Tak for.
+
+00:17:55
+Tak for at i lyttede med.
+
+00:18:09
+Så tror jeg Det var.
+
+00:18:11
+Det yes.
+
+00:18:12
+1000 tak 1000 tak.
+
+00:18:15
+Så er det bare for alt.
+
+00:18:17
+Skal jeg slukke fordelingen?
+
+00:18:20
+Ja gør du det så tager raffald.
+
+00:18:26
+Så nu skulle jeg have stoppet delingen.
+
+00:18:39
+Nå men.
+
+00:18:42
+Så er det. Det er mild igen høre og se slides fornemmer her.
+
+00:18:48
+Så Jeg er i hvert fald paintbagen fra DMI og præsenterer fra Vores enhed, oversvømmelser og ideologi som en, som er en relativt ny enhed end demy vil arbejde med al slags oversvømmelse, og i det at det specifikt om oversvømmelse fraværende løb.
+
+00:19:12
+Så jeg ved lidt give en stetusz om hvad er det her barsel fra oversvømmelser IDMI og lidt om fra den her uni kommando at være bulgarkeret varsel.
+
+00:19:26
+Fra for oversvømmelser jeg så fra vandløb otto fra DMI, så det vil jeg sige lidt noget og og så lidt hvordan man kan som Kommune eller Forsyning eller konsorden.
+
+00:19:39
+Otto være med og og og sende nogle dater og ja.
+
+00:19:46
+Så ja Det er en rigtig ny enhed, som Jeg har sagt i Sverige. For eksempel har de en en hydrologisk enhed mere end 20 år og 30 år erfaring med at varset oversvømmelser. i Danmark har vi osse relativt langt erfaring med at varsel overservice fra stormflod.
+
+00:20:05
+Men det med vandløb. Det er relativt nyt og og og yes og så hvad er der så sket i de sidste 2,5 år hvor?
+
+00:20:15
+Regeringen har besluttet sig for, at nu skulle Danmark også have som national myndighed for at varsle oversvømmelser.
+
+00:20:24
+Der er sket nogle ting.
+
+00:20:27
+Og.
+
+00:20:29
+Ja nogle af dem er, at dem lige nu er medlem af den europæiske.
+
+00:20:35
+Association man kan sige hvor vi moterer, varsler fra den europæiske level.
+
+00:20:41
+Der er en stormflods produkt. Det bliver udviklet, og den bliver sendt til beredskab. Når Der er 1 1 1 varsel Der er en lignende produkt med.
+
+00:20:56
+Skyderod og den ligner lidt den her blus bluesbot kort.
+
+00:21:01
+Og sin sidste sommer eller 2 sommer nu har vi sender vi risikomendelig for oversvømmelser fra vandel, og den fortæller i lidt om, og jeg fortæller også, hvad det kommer sket fra sommer, hvor det hvor vi skifter fra en mere Sådan statistisk model til en hydrolokisk model.
+
+00:21:24
+Så ja som sagt Jeg har startet i 23 og Det var en god timing for at starte fordi Det er en 23 24 vinter den var ret voldsom. Der var mange rekord der bliver slået den vådeste kalenderår, og den er muligvis blevet slået igen siden den her slide lille og og ja så der har været faktisk en del oversvømmelser og fra alle fra fra hav.
+
+00:21:50
+Lidt som fra vandløb eller tid og også fra skydebordet og en lidt over det hele Danmark. Så Det har været en god en god stress test man kan sige.
+
+00:22:01
+Og yes Det er lidt en overblik over Danmark hvor Vi har nogle. Det er der man kan sige om hvor er der oversvømmelser og hvilken slags.
+
+00:22:12
+Og man kan sige Der er Der er lidt af det hele over det hele.
+
+00:22:18
+Selvfølgelig er for eksempel stormflod en en større emne lige nu, end end vandløb oversættelse, men der kommer altså lidt en del vandløb, oversvømmelse, og Det er derfor, Det er vigtigt, at Vi er forberedt og har som en national system til det, Der er nogen steder, hvor Det er som mere allerede at udvikle, og hvor de er lidt mere vendt, at her er overse fra vandløb, så Der er.
+
+00:22:43
+Nogle lokale kommuner?
+
+00:22:46
+Hvor Der er nogle ja systemer for eksempel II Vejle, men der var ikke nogen national system og og Det er det jeg kommer og snakker om og specifik ja. Hvad kommer måske II sommer? Vi kommer her som borgerredt varsel bokkeret varsel.
+
+00:23:06
+Det kommer ved at blive en ret Sådan høje niveau som lige nu alle varslet på DMIDK.
+
+00:23:13
+De er på kommunen, så hvis der kommer ja muligvis stormflåde eller skydevåds varsel de er. Det er man varsler for nogle flere kommuner og der kommer være det samme for oversvømmelser, så det betyder at der kommer en varsel for ja, de og de her kommuner og det kommer og hver en varselkategori 1, 2 eller 3 og de forskellige kategori har selvfølgelig 1 1 1 1 mening hvor alvorlig Det er så Det er for nu det eneste det kommer værket.
+
+00:23:43
+Bucker-niveau der kommer der nogle kommentarer selvfølgelig varslet måske ved den vandløb, det drejer sig om og og lidt hvad hvad hvad betyder det for? Men Der er ikke særlig meget mere information end det.
+
+00:23:59
+Vores varselssystem den er faktisk ikke kun til borer. Den er også tilberedskab.
+
+00:24:06
+Og til beredskab har vi allerede sendt varsel.
+
+00:24:11
+Sin ja tore og her har vi som en kontinentuel udvikling om ja, hvad er information vi deler? Hvad er information der hjælper beredskab så det nuværende system? Den her var ret simpel med fordel, at den kunne udvikles i nogle få måneder og og og være i gang og allerede bliver brugt i sæsonen 23 24 men den er.
+
+00:24:36
+Den bruger faktisk bare demi som er du også bruger prognoser.
+
+00:24:40
+Og så Vi har realtids observation fra DNPS og være vandstand II nogle flere ord i Danmark. Og så har vi beren en som kritisk være instans, for hvis vandstand er højere end den her kritisk vandstand, og det kommer en vis antal regn, så er der en risiko for oversvømmelse og Det er baseret på nogle statistiks og så om Vi har observeret nogle oversvømmelser.
+
+00:25:07
+Altså hvilken regnniveau?
+
+00:25:09
+For hvilken vandstand her giver nogen ordet svømmelse så så den er meget, meget simpel. Vi kan se hvad er den?
+
+00:25:17
+Ja hvad er den nuværende vandstand? Hvor meget regn kommer det? Og så har vi en meget nemt system til Vores meteorolog, hvis vandstand Det er højere end Det er en kritisk vandstand, og det kommer mere end for eksempel 25 mm regn, så skulle det sendes en risikomælding så meget nemt, men Det har været faktisk ret eksistient.
+
+00:25:38
+I de sidste vinter.
+
+00:25:42
+Nu Vores mål for den her sommer, og det Vi har udviklet. Det er modelbaseret, så Det er Sådan. Ja forkast.
+
+00:25:52
+Om vandstand eller vandføring, så det kommer at være lidt lidt forskelligt, så til den her har vi.
+
+00:25:59
+En.
+
+00:26:02
+Ja så Det er også faktisk Vores dækning for Vores nuværende system, så Vi har nogle.
+
+00:26:08
+Før målestationen vi bruger som varslingstation, fordi Der er godder og de dækker mest af de de mest vigtige oversvømmelser om året.
+
+00:26:19
+Nu udvikler vi en hydrologisk model, så her har vi fået hjælp fra Vores svenske venner, så vi vil bruge sammen med en model som den svenske Meteorologiske og hydrologiske Institut. Og ja, Det er en hydrolokisk model, så Det er som semidigt hybridisk model hvor.
+
+00:26:37
+Danmark er delt ind i flere upplande og hver ottland, der har forskellige slags landbrug eller.
+
+00:26:44
+Søjlab og så er det Sådan ja semi det som model hvor vi beregner hvor meget vandet falder på jorden. Hvor meget går ned, hvor meget bliver i grundvand? Hvor meget kommer ud II å.
+
+00:26:56
+Og så.
+
+00:26:58
+Og den her har jeg Sådan lidt højre ja resolution. Det er resolutionen over Danmark.
+
+00:27:05
+Og den bliver også som sagt udviklet med SMI, men også med nogle support fra gears.
+
+00:27:15
+Især omkring grundvandet.
+
+00:27:19
+Så ideen med den her model er, at nu har vi modelbaseret vandføring eller vandstand på alle de her opplan, som vi kan bruge for at give nogle prognoser.
+
+00:27:32
+Og ikke kun bruge realtidsestater, som som vi gør nu.
+
+00:27:39
+En som sagt Det er en bokket varsel, men en af de vigtige modtagere af Vores varsel. Det er også et beredskab.
+
+00:27:50
+Så Vi har faktisk ret meget Sådan kurudvikling med beredskab, og vi prøver at finde ud af hvilken slags information er vigtig for dem, hvad dansker de bare så værre hvordan ja er det hvis Der er usikkerhed er Det kan de mere bruge vandstand vandføring.
+
+00:28:08
+Så så ja Jeg har den her udvikling med med med beredskab og.
+
+00:28:15
+Som sagt Det er som en løbende udvikling af Vores produkt, så så vi starter med det her. Bocade versel på kommuneniveau og og Vi har nogle prognose, men vi håber, at vi kan udvikle og give mere og mere information til beredskab og også til til til borger.
+
+00:28:32
+Nu er det noget if faktisk kan gøre som kommuner eller.
+
+00:28:37
+Forsyning eller?
+
+00:28:40
+Og Det er faktisk at give os faktisk de første ting i kan gøre. Det er at modtage Vores varsel, så Det er meget nemt. Man skal bare tilmelde sig, og så får man det mest varsel.
+
+00:28:53
+Der er sikker mange, altså mest Kommune er er tilmed eller er forsynet, men hvis ikke så er jeg noget godt at være.
+
+00:29:03
+Den 2 ting vi kan gøre. Der er faktisk 2 ting så Vores model så vi lægger prognoser med ja vandføring og vandstand, men Vores model er kun så godt som vi kan kalibrere og eller validere model så og til den og til det så bruger vi vandløbs datter.
+
+00:29:26
+Og fra Danmarks miljøportalform, der hedder wanda og Vi har nogle flere gange spørgsmål fra Kommune eller forsyninger, der spørger uh, men i Vores i jeres system. Jeg har ikke den her målestation, Det er fordi vi læser kun vi kan kun læse målestation. Det er i den her portal så.
+
+00:29:48
+Ja det alt det der det kommer derind kan blive brugt i Vores system et og de kommer rigtig hurtigt ind i Vores system, så så så Det er ja en god ting at gøre hvis i vil have bedre værelser. III jeres Kommune.
+
+00:30:05
+En 2 ting og Det er ikke direkte den her hydrologiske model, men vi udvikler også nogle andre produkter og det her at skikkelsesstater og Det er faktisk det kommer i samme platform som.
+
+00:30:20
+Georg har vist så, og det bliver brugt til at udregne nogle oversvømmelses området. Men Det er ikke en del af den her hovedvarsel projekt.
+
+00:30:33
+Men ja Det er jo Sådan noget det faktisk en forbedret Vores produkter.
+
+00:30:41
+Og så er det faktisk en trætte ting, man kan gøre som Kommune Forsyning eller myndighed.
+
+00:30:47
+Det er at give os som lokalvind, så ideen er, at vi starter med en national system.
+
+00:30:56
+Hvor Vi har Sådan noget, der virker for hele Danmark. Men Vores erfaring for eksempel af dem i med den her høj vandstand fra hav. Det har været at.
+
+00:31:08
+Det er godt, og den har en national model med altså system for for hele Danmark. Men faktisk den bliver meget mere brugbar når man følger lokale informationer, så for eksempel fra versel fra høj wasten fra hav, så er der alle forskellige havn har sendt nogle information med lokale kritik, kritiske niveauer og og det bliver brugt nu som en del af hovedvarselsystemet hvor hver hav.
+
+00:31:36
+Eller mange forskellige har omkring Danmark har en en.
+
+00:31:42
+En kritisk niveau og og føre informationer om den her kritisk niveau bliver OS 2. Så Det er altså noget vi tænker at det kommer ske med. Hvad varsel for oversvømmelser fra vandløb?
+
+00:31:57
+Det at vi fører mere og mere lokal information og lokale niveau, og Det kan vi bruge for at få bedre Vores produkter.
+
+00:32:07
+Og ja her er jeg også en ikke mad, og Jeg er ret sikker ikke en del den igen efter den her myte. Nå men så Det var lidt hvad. Hvad er det hårde del af Vores projekt og og og hvordan iken samarbejde med og nu er det bare nogle 2 3 Sådan fremtidige udvikling.
+
+00:32:31
+Den er faktisk ret meget i gang den her Vi har som har sagt. Vi har udviklet en tyrologisk model.
+
+00:32:38
+Men Vi har også nu udviklet en maskinlæringemodel. Det virker også som en postprocessering og den her udologisk model og forbedrer ret meget.
+
+00:32:50
+Prognose og Det er noget vi også planer at.
+
+00:32:55
+Få sat i gang for den her sommer eller hurtigst muligt at at bruge dem operationel, men Vi har set et forbedret relativt meget Vores prognose.
+
+00:33:06
+En 2 produkt Vi er med at udvikle det Vores skybrud kort, så lige nu har vi som en stats skybrudskost. Det er meget Jeg tror mange kender, Det er mere og mindre det samme produkt som det man kender som blusebot.
+
+00:33:23
+Men det bliver sendt til beredskab, når Der er en skyrsevasel.
+
+00:33:30
+Og ja man kan vælge en filtration altså afløb ja over sommetider mere afløb og en filtration eller uden, og så kan man vælge en en antal regn og så er det Sådan. Ja en statisk kort hvor man kan se OK, men den her antal regn så er det de her områder det bliver som også og og det lidt lignende tid faktisk den prologialk har vist bare.
+
+00:33:54
+Kunne få regn og ikke og ikke vandløb.
+
+00:33:59
+Så den har også nogle af de her limitation, som at hvis Der er nogle brain Det er lidt mærkeligt på terræn kort, så så kan det Der er nogle overdrevet oversvømmet.
+
+00:34:13
+Men den 2 limitation Der er lige nu Det er at man skal sidde som Det er en fix antal regn over hele Danmark man vælger.
+
+00:34:22
+Og ideen er udviklet det med at integrere det mest prognose i den her, så i stedet for at have en en fix antal regn. Man kan selv vælge. Man fører faktisk.
+
+00:34:31
+Det er mest prognoser i den her kort og muligvis ikke kun Det er mest prognose, altså kun et prognose, men også nogle simple og usikkerheder, som man kan have som lidt en ide fra år til vort hvad Det kan ske.
+
+00:34:46
+Så Det er ind og og og ja det projektet og ja Det var Det var bare det hvor vi bruger samme kort nogle prognoser og og og ensimple for at have noget mere Sådan usikkerhed level og den sidste Vi er ved at udvikle, og Det er også der hvor jeg.
+
+00:35:05
+Bed jer om hvis i har nogle skikkelsesstater det Det er noget vi kan bruge. Det er at bruge nogle dynamiske socialiscore så det her. Det er meget linjen til produkt geark har har lige vist.
+
+00:35:21
+I den her er at så forskel det vil være med det her dynamiske overismast kort. Det er at Der er ikke den her uendelige strømning af vand, så vi håber at med det her man kan få nogle lidt mere realistiske oversvømmelser.
+
+00:35:41
+Men Det er stadig i Sådan udvikling, og Det er Sådan noget altså den her projekt Det er.
+
+00:35:47
+Det er mild, men med mange samarbejde så vi arbejder med DNPC og så KDS hvor arbejder og så Det er noget Vi skal finde ud sammen hvad hvilken ja. Hvilken produkt giver også gå oversvømmeluskort?
+
+00:36:05
+Men Det er det i udvikling, og det bliver ikke brugt nu i varsel eller tilberedtskab. Men Det er selvfølgelig noget, Vi skal finde ud også med med den produkt Jeg har vist.
+
+00:36:18
+Om Det er noget Det kan give værdi til beredskab, hvordan og eller hvad er de ting der mangler til at kende? Det kan bruges så ja det, det bliver spændende. Det var det fra min side, så ja nu.
+
+00:36:32
+Letter vi os at der.
+
+00:36:33
+Er nogle spørgsmål fra jer?
+
+00:36:39
+Super 1000 tak til jer begge.
+
+00:36:43
+Og.
+
+00:36:45
+Som raffelt i sag, så er der åben for spørgsmål og kommentarer. Jeg kan se Der er kommet nogen.
+
+00:36:50
+I kan stadig nå at stille nogen, Der er lidt tid.
+
+00:36:55
+Og ellers så vil jeg bare lige kort sige at.
+
+00:37:00
+Ej den, det venter jeg med det første spørgsmål her den. Den går nok til tilo her har i har i prøvet at kalibrere i forhold til droneoptagelse?
+
+00:37:12
+Ja ja Det er Det er et glimrende spørgsmål vi Vi har ikke. Vi har ikke haft mulighed for at flyve særlig meget, men præcist det område jeg jeg viste omkring werbro å der der har vi jo haft en en oversvømmelses hændelse sidste år i februar, hvor en af mine kollegaer eller faktisk 2 af dem var ude. Både Jonas, Der er hydrolog og som ikke som ikke arbejder længere og så Jesper som kan flyve med en drone flyve med hans egen drone faktisk som ikke er en fotodone, men bare Sådan en en hobby drone.
+
+00:37:38
+Der lavede han et lille hurtigt billede af af werbro's oversvømmelse. Den har jeg desværre ikke lige en sammenligning med på selve overløbet fra vandløb II visning men men vi prøver at sammenligne det lidt med en dynamisk beregning for den for den samme tidspunkt, men Det var 3 dage efter selve hændelsen, så den er. Den er ikke så nem at bruge direkte som eksempel kalibrere en svær øvelse, for det betyder rent faktisk at man skal ud og have fløjet en del forskellige steder.
+
+00:38:02
+Med drone, men Vi har Vi har tænkt, at hvis Der er nogle kommuner, Der er interesseret i samarbejde. Vi har selv nu en en lidt bedre drone til fotoflyvning.
+
+00:38:10
+Og hvis der kommer nogle oversvømmelses ind, så kunne vi godt være interesserede i noget samarbejde og specielt den 2 vej rundt. Hvis Der er er kommuner eller andre der har droneoptagelser af vandløbsoversvømmelser eller andre oversvømmelser, så så kan vi godt stille noget rod. Hvad hedder det arbejde til rådighed for at lave det om til et otofoto, fordi tit er det jo nogle gange svært at få billederne fra dronen og så lave det om til et godt kort grundlag.
+
+00:38:30
+Men det Det har vi nogle folk til Der er godt, Der er rimelig gode til.
+
+00:38:34
+Så er det måske mere fremadrettet, at Vi skal prøve at kalibrere det lidt ind i.
+
+00:38:38
+I den sammenhæng kan jeg så sige, hvordan kan vi bruge optagelser af oversvømmelsen til at se, hvor langt hvor udbredelsen egentlig? Det gætter jeg også på. DMI er meget interesseret i at få få gode data for for aktuelle eller historiske hændelser, så hvis man kigger den vej, så tror jeg Det kan blive et fint samarbejde.
+
+00:38:57
+Så er næste spørgsmål her. Det er kunne man få lavet hvad nulpunktet for opmålingen inde på hit data DK.
+
+00:39:05
+Det Det er faktisk også rigtig godt forslag eller spørgsmål, fordi at Det er lidt bøvlet, som jeg lige viste her i præsentationen. Hvis man skal ind og have åbnet et gisprogram og så hente hente værdien for for nulpunktet ud, hvis man kunne få en på en måde nemmere kunne gøre det ved at klikke på samme kort i hit data og sige her her sælger man nulpunktslaget til, og så går man ind i hit data og klikker på kortet og ser, hvad får man så værdien?
+
+00:39:27
+Så det vil jeg. Det vil jeg tage med tilbage og så spørge min kollega, om Det er en mulighed for at få få lavet det som en visning, for det vil klart gøre det meget mere brugervenligt.
+
+00:39:35
+Det er en god ide.
+
+00:39:37
+Så er der kommet nogle spørgsmål, som også er kommet svar på og tager jeg det alligevel fordi at Det kan jo være at i har en holdning til Det er den kritiske vandstand i vurderet lokalt og ud fra en bestemt højde eller antal boliger, Der er oversvømmes. Eller hvad er kriteriet så svar er det det det ved du måske i hvert.
+
+00:39:55
+Fald ja så så med mine kollegaer magi da jeg jo så her har eller svaret.
+
+00:40:02
+Jamen ja Vi har. Vi har vurderet.
+
+00:40:06
+For at for at ramme den her 3-5 hårde hændelse og Det har været Sådan lidt justeringen om hvis der var nogle informationer om om om der har været nogle oversvømmelser eller ej, men men som generelt er der som ja for at ramme den her den her niveau, men den del af Vi har.
+
+00:40:27
+Ja så.
+
+00:40:29
+Uden uden at kigge på. Altså uden uden at kigge så meget på impact, men mere som statistik hvor hvor højt kommer i hvert vand?
+
+00:40:38
+Så så bliver jeg spurgt til hvor om jeg gik også var. Men den kan måske også tage. Hvordan beskrives den temperale og rummelige variation af maningtal i dynamiske modeller?
+
+00:40:51
+Ja og og og som sagt faktisk i den oversættelsesprodukt, vi udvikler nu som hurtigt der.
+
+00:41:02
+Er jeg faktisk ikke helt sikker, hvordan det bliver gjort, men det Jeg kan sige, at Vi har også en.
+
+00:41:11
+En doktor, hvad hedder det nå enten projekt?
+
+00:41:17
+Ja, hvor det bliver udviklet en maskinlæringsmodel. Det er regner ud den her variante mining tal baseret på.
+
+00:41:35
+Ja vandhøjde og vandstand og og så så Det er noget Der er i udvikling man kan sige og som Jeg har som.
+
+00:41:45
+Er god fra.
+
+00:41:46
+Rent hydroloismesmodel som Vi har nået til lidt mere hydrolidamisk, men Det er ikke en man kan sige en del af det der bliver brugt nu i sommer. Det det det Det er noget det kommer.
+
+00:42:01
+Og så hvis der skulle være et eller 2 spørgsmål til så så må vi bare skrive dem. Ellers så vil jeg bare lige kort nævne at i næste uge så har.
+
+00:42:10
+Vi en godmorgen med DNAK den 6. Februar på 1,5 time på 8 38. Kl.
+
+00:42:15
+09:30 groning, klimachlasning, kunst og samarbejde i praksis. Og Det er noget helt andet end det her, men Det er Det er meget interessant i forhold til Der er både projektleder fra klimatilpasning i København og.
+
+00:42:30
+Der er en tegnestue med, og så er der også rådgiver og en billedkunstnerkunstner, som vil fortælle om samarbejdet på tværs af de her.
+
+00:42:38
+Og.
+
+00:42:40
+Der er ikke.
+
+00:42:42
+På det lille jo Søren Søren spørger her. Der er lige et spørgsmål til her, hvordan kombineres tilbage? Stuvning i vandløb på grund af stormflod med oversvømmelse for vandløb.
+
+00:42:54
+Ja så lige nu bliver det faktisk ikke gjort det som 2. Vi har en havmodel og en vandløbsmodel og Det er separat og de snakker ikke sammen, men Det er noget vi kigger på fordi Det er en af de ting der gør jo at vi vi følger mere oversvømmelser fra vandløb. Det er et havniveau stiger og og og Vi har den her tilpasstudieffekt, så Det er II pipelinen men men Det er ikke nu igen.
+
+00:43:24
+Og hvis der skulle være nogen derude som gerne vil se optagelsen, så bliver den lagt ud, som jeg sagde i starten. Der kan man også se slidene, men hvis Der er behov for at se slidene, så kunne jeg også kunne stå på peberaffald at de kan godt deles, og Det kan gøres ved at finde frem til deres mail is eller så skrive til mig.
+
+00:43:44
+På KPDNK.
+
+00:43:47
+DK
+
+00:43:50
+Men ellers så vil jeg bare sige 1000 tak til dig Georg og til dig i hvert fald for for at stille op og fortælle Det er noget spændende og der var gode spørgsmål.
+
+00:44:01
+Hvis Der er ikke andet, så vil jeg bare runde af og og de skal allesammen være en god dag.
+
+00:44:07
+Tak.
+
+00:44:08
+Tak for at vi kunne være med.
+
+00:44:11
+Hej igen.
+

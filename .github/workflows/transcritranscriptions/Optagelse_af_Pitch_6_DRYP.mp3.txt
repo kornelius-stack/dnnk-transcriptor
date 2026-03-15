@@ -1,0 +1,123 @@
+00:00:00
+Jeg hedder Peter rash jeg kommer fra firmaet dryp og dryp er Inter lige kommer op og køre her, så kan jeg jo sige en af de 3 virksomheder som Claus nævnte det i starten, som altså er delvist eget Aarhus valg og Det har ikke så meget med om nu, men det vil jeg meget gerne fortælle om bagefter, fordi det synes jeg faktisk er en fantastisk måde at få viden ud af Sådan nogle organisationer som offentlige organisationer som Aarhus vand, hvor der sidder folk som virkelig ved hvad de snakker om, men hvor den viden nogle gange.
+
+00:00:29
+Kun panasak kommer til udtryk i nogle projekter og ikke så meget bliver delt på tværs af forsyninger rundt i Danmark. Så det Det er en model Jeg kan anbefale til til alle.
+
+00:00:39
+Det jeg skal snakke om nu. Det er så om drøm og og og vi handler om data vi kommer fra data og vi vil gerne gøre data til løsninger, så hvor remoy sagde Vi skal skabe datastrømmen, så prøver vi ligesom at sige Vi skal tage de datastrømme og gøre det til noget brugbart løsning.
+
+00:00:56
+Og hvorfor sagde vi det? Jamen i bund og grund.
+
+00:00:59
+Tror vi på, at vi kan bruge den eksisterende vandinfrastruktur Vi har, og her snakker vi. Hvem er spildevands infrastruktur meget bedre, end vi gør i dag? Det vil sige, når Vi skal ud og lave klimatilpasning, altså i stedet for nødvendigvis at bygge en masse nye lar løsninger, så prøv at bruge den infrastruktur.
+
+00:01:14
+Der findes allerede og måske bare bruge den lidt smartere og lidt bedre. I dag lever alt vand ned ad bakke. Tænk hvis man kunne stoppe noget af det, fordi skybruddet kun var en del af byen og ikke over hele byen samtidig og så koncentrere sig om det her problem.
+
+00:01:27
+Det var.
+
+00:01:27
+Det er Sådan det grundlæggende, men før man skal turde det, jamen så skal man ligesom vide hvor det værd end er. Og Det er så det vi prøver at komme med nogle løsning, så man kan lave datadreven overvågning realtid.
+
+00:01:41
+Vi kommer ud af et samarbejde mellem kommuner og flere vandselskaber og universitetet og har fået støtte både fra innovationsfonden og og også miljøministeriet i forhold til overløb. Og Det er jo fordi man ligesom tænker, at her kan faktisk gøre en en stor forskel.
+
+00:01:56
+Helt grundlæggende så vil vi egentlig gerne udvide Sådan, så i stedet for at måle på vand, som vi gør i dag. Typisk nede på pumpestationer og på renseanlæg, så sætte de her små målere op over det hele. Fordi jo længere op i oplandet vi kan komme jo tidligere ser vi, hvad Der er på vej.
+
+00:02:13
+Vi ved allesammen det regner og så stiger vandet et eller andet sted, og så løber det ja i bund og grund ned ad bakke, som vi også hører der før.
+
+00:02:21
+Og det mønster. Det ser vi igen og igen, uanset hvor faktisk hvor kraftigt det regner.
+
+00:02:26
+Selvfølgelig er der hænger, hvor det regner, men hvis Vi har de her målepunkter derude og rigtig mange af dem, jamen, så kan vi skabe det her overblik. Og hvordan får man målepunkter med? Jamen det gør man ved at de skal være billige, eller så er det for dyrt målepunkt, så Det er det Vi har brugt et års tid på.
+
+00:02:42
+Og men men så målet delen er er en del af Vores produkter. Vi har Sådan set hele.
+
+00:02:49
+Værdikæden kan man sige fra måling og til beslutning.
+
+00:02:51
+Men Vores fokus er faktisk på det inde i midten. Altså det med at få data vasket gjort klar til at tage nogle beslutninger på, får vi ensrettet og få den kørt sammen og så bruge noget machine learning og andre ting selv og og få sat system i tingene og gøre det klart og vi kan vise her i årets vand, at man faktisk kan spare på driften med det samme op til 20%.
+
+00:03:12
+Og så op på de helt store. Det er selvfølgelig, hvis vi kan begynde at lave klimatilpasning, hvor vi gør det smart i stedet for bare at hælde beton og og CO 2 ned og gøre det stort.
+
+00:03:25
+På målersiden Der er det en IT måler, som Vi har brugt rigtig mange penge på. Ikke også at sige Det er for dyrt at lave hardware. Til gengæld er den nu blevet så fleksibel.
+
+00:03:34
+Den er egentlig bygget til kloakker, men har været brugt af alle mulige andre steder, der har været sat vejrstationer op sammen med dem.
+
+00:03:41
+Som som vil køre ind igennem boksen og også vandkvalitet er som vi vi tester II øjeblikket blandt andet i Aarhus.
+
+00:03:48
+Øhm for det Der er kernen i det. Det er at få kvalitet og kvalitet er ikke nødvendigvis den absolut størrelse. Det er kvalitet.
+
+00:03:57
+Må godt være relativt, men det skal være kendt Sådan. Så når vi bruger data i forskellige sammenhænge, så skal vi vide hvad for en kvalitet Det har, og Det kan man skabe på rigtig mange niveauer helt ude på sensoren, hvor den laver Sådan et sanattitjek det jeg måler nu passer det med det jeg målte for lidt siden, og hvis Det er helt anderledes, så prøver jeg lige at måle igen.
+
+00:04:14
+Sådan ville de selv gøre, og hvis i stoler ud med en tommestok, og Det er Sådan set det samme. Vi prøver at putte ind i Vores sensorer.
+
+00:04:20
+Og når man så kommer op igennem, så skal man selvfølgelig vide hvor man er, og om det giver mening at måle det man gør fjernelse af tidsserie eller tidsanalyser og Sådan noget. Det har i sikkert alle sammen leget med på et tidspunkt, og så kommer vi op i de næste lag, hvor Vi har noget mail learning ind over det. Jeg kommer lige med et eksempel på lidt og så til sidst, så er der altså også noget menneskelig intelligens der skal ind over, fordi der sidder noget viden ude hos alle forsyninger II Danmark så som simpelthen kan se på de her tids her, hvad der foregår på en måde, som vi i hvert fald ikke endnu kan lære Vores maskiner.
+
+00:04:49
+Men hver eneste gang de registrerer det, jamen så kan vi jo lære det kort tid. Måske blive lige så dygtige.
+
+00:04:54
+Musiklagning delen her er er kritisk, fordi Vi skal kigge på rigtig mange data på en gang, og det vi gør, Det er at bygge Sådan et neuralt netværk, som man har derovre til til Venstre for hvert enkelt sensor.
+
+00:05:05
+Det man så bruger som input. Det er alle de sensorer Der er omkring det.
+
+00:05:09
+Det vil sige netop det her. Forestil jer det regner og man ser den her. Puls går ned igennem systemet, om det nu går den ene eller den 2 vej jamen så så laver vi faktisk en forudsigelse af den enkelte måling og helt nok med det, det andet output.
+
+00:05:20
+Det er hvor hvor meget tror vi på den forudsigelse vi nu har lavet, er det et mønster Vi har set før, er det kraftigere end det plejer, er der et eller andet anderledes ved det, og så stiger usikkerheden, og Det kan vi så bruge i Vores beslutning.
+
+00:05:33
+Et et par få eksempler, fordi man kan egentlig bruge det her over det hele, og vi vil egentlig gerne bare måle over det hele. Men når Vi er ude at snakke, så skal det her implementeres i en eller 2 grad.
+
+00:05:43
+Eksempel herfra i Roskilde, hvor de kiggede på regnvandsbassiner, og Det var, at de havde Sådan en fornemmelse af, at deres regnvandsbassiner måske ikke stort set altid var tørre. Regnvandsbassiner burde jo blive vrede engang imellem. Det var ligesom det de er bygget til, og derfor har vi haft de her billige sensorer siddende.
+
+00:06:00
+Over et år, og vi kan se at over det år, hvor der faktisk har været op til flere skybrud hændelser. Jamen Der er har den maksimale fyldningskart hjælpepassinerne har været 50%. Nogle af de andre har været helt nede på 10%, og det vil sige, de har simpelthen ikke bidraget til løsningen, i hvert fald ikke i særlig høj grad og slet ikke i den grad de kunne gøre.
+
+00:06:18
+Så der kigger vi på og og og og bruge den her viden aktivt selvfølgelig videre.
+
+00:06:23
+Et andet eksempel, Det er Det er så fra Norge, når man bruger det her til oversvømmelser. Det handler meget om om om hvordan nedbør fungerer i bjergene, når sneen smelter, men det kunne lige så godt være alle mulige andre steder i Danmark, og Der er fidusen her er, at Det er fuldstændig datadrevent og og det så kommer ud med en med en aktuel beslutning og faktisk et tiltag som som beredskabet pavillo II et givent sted, som vi går ud og og fjerne stykke vejen for at gøre det bedre.
+
+00:06:52
+Jeg kunne også have vist andre eksempler Vi har bombemøl har brugt det her hvor som modelforslag oppe i oppe i kalsnæs og og Nordic Group har kigget på lejr løsninger præcis på samme måde. For at se på fungerer de her lejr løsninger, som vi lige hører hørte om, før faktisk i virkeligheden.
+
+00:07:07
+Og og det bringer mig frem til den her slide, fordi Det er egentlig ikke nødvendigvis Vores data, der skal ind i det. Det kan være alle mulige andre, så Det er bygget meget åbent, så man kan putte hvad som helst ind i den ene side. Man kan faktisk også hive det ud og bruge det i alle mulige andre sammenhænge på den 2 side, og Det er blevet gjort.
+
+00:07:21
+Og og det gør jo, at vi kan også modellere og lave andre ting ovenpå der og samarbejde med netop både rådgivere og og lave færdige løsninger ud til kommuner og forsyninger.
+
+00:07:33
+Så Det er et eller andet sted information som en service.
+
+00:07:38
+Og vi og bliver meget godt færdig, og det vil vi faktisk klar til at rulle ud nu. Hartberg er på plads. Det vi mangler, som vi andre også har sagt Det er, hvordan får vi det egentlig bragt ind II folks hverdag, så det faktisk bliver et værktøj i det daglige og ikke kun i Aarhus vand.
+
+00:07:54
+Så så man skal spørge sig selv, får du nok ud af dine data i dag og og tager du beslutninger baseret på mavefornemmelser eller gør du faktisk på basis af data tak for opmærksomheden.
+
+00:08:13
+Tak, Peter.
+

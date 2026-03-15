@@ -1,0 +1,627 @@
+00:00:06
+Rockflow.
+
+00:00:08
+Var et for mig ukendt produkt indtil for et par år siden, hvor jeg så blev kontaktet.
+
+00:00:16
+Og fordi der var nogen der gerne ville have det ind i den almindelige danske dimensioneringsmetodik, fordi når man begynder at stoppe Sådan et materiale ind i belægninger, så vil man gerne have en vis sikkerhed for, at Det er.
+
+00:00:32
+Afprøvet. Eller i hvert fald at Det er.
+
+00:00:35
+Der er nogen der har kigget på teorien og eftervist hvordan?
+
+00:00:40
+Dets egenskaber er i pavenmæssig henseende.
+
+00:00:46
+Og det synes jeg var en rigtig spændende opgave.
+
+00:00:50
+Og og den gav så en mulighed for at jeg kunne komme til at lege med nogle af de ting, som jeg gjorde.
+
+00:00:57
+Mig ud i da jeg startede som ingeniør og og PHD. Studerende på DTU for.
+
+00:01:05
+45 år siden eller Sådan noget lignende?
+
+00:01:09
+Og og nogle af de instrumenter Jeg har brugt undervejs, er jo faktisk nogle af dem, som jeg havde i hånden dengang også og.
+
+00:01:16
+Man starter med at ligge med røgen i vejret og installere instrumenter i belægninger og gud hjælpe mig, men ikke også gøre det i sine sidste år, men lad os hoppe ud i det og se.
+
+00:01:29
+Hvad vi hvad Jeg kan huske.
+
+00:01:39
+Hvorfor sker det ikke? Ja.
+
+00:01:42
+Se i ser det der.
+
+00:01:46
+Det vil jeg Sådan set også godt se her.
+
+00:01:53
+Ja.
+
+00:01:55
+Er vi ikke den der du skal over til jo den der.
+
+00:02:01
+Nå jamen.
+
+00:02:03
+Jeg behøver ikke at stå deroppe og spille fransk klovn. Jeg kan se stå her og kigge på det.
+
+00:02:12
+Når man går til Sådan noget der, så skal man.
+
+00:02:16
+Her er en ide om, hvordan man vil gribe sagen an og.
+
+00:02:20
+Det gjorde vi ved at at tænke på hvordan?
+
+00:02:24
+Kan vi lave en en forsøgsbefæstelse?
+
+00:02:28
+Der fortæller os noget om, hvordan tingene opfører sig.
+
+00:02:34
+Og til det brug der snakkede vi med aarslef der havde et et lille testfelt ude på avedøre.
+
+00:02:44
+Og hvor vi tænkte, at vi kunne opbygge en befæstelse.
+
+00:02:49
+Og.
+
+00:02:51
+Det man ser, Der er i skematisk form den testopbygning, vi skulle have, hvor vi så lagde det der hedder tryktceller ind.
+
+00:03:01
+I på oversiden overtryk over.
+
+00:03:07
+Rockflagen som er det mørke og så i undersiden lige under der hvor vi vil lave belastningscentrum og så ud til siderne. I må forestille jer, at disse stiplede linjer angiver rockflow elementer altså bats der står ved siden af hinanden og det vi havde en formodning om Det var at.
+
+00:03:33
+Der ikke ville være ret meget.
+
+00:03:35
+Overførsel kraft overførsel mellem elementerne, når vi beslastede på toppen af et element.
+
+00:03:42
+Så ville der ikke flyttes meget kraft over til elementerne ved siden af, men derimod ville.
+
+00:03:51
+Så meget mere af kraften, der så blive fordelt på langs af det enkelte element.
+
+00:03:57
+Så Det var formålet med den instrumentering, vi vi lavede.
+
+00:04:04
+Når man så ved noget om hvordan.
+
+00:04:11
+Kræfterne, og hvordan spændingerne fordeles ned igennem en befæstelse, som ikke er en almindelig linealastisk homogen befæstelse. Så kan man begynde og og regne på i og det II regne på.
+
+00:04:26
+Hvad det vil betyde for nedbrydningstakten af de ville fastelser, man nu engang opbygger med et rockflowmateriale. Og Det var ligesom det, vi skulle gøre. Først finde ud af hvordan er.
+
+00:04:42
+Mekanikken i det og derefter hvor den er matematikken, så i nedbrydningen.
+
+00:04:51
+Så ser vi, hvad der sker.
+
+00:04:58
+Vi.
+
+00:05:06
+Der var den.
+
+00:05:09
+Bare for at vise hvad de her tryksager var for noget, så er det Sådan en titanium fidus på denne her størrelse med en membran i midten, hvor der sidder en string gates på.
+
+00:05:24
+Den er helt oppe til højre der det der den der sol.
+
+00:05:28
+Som når man får tryk på membranen, jamen så giver det en en forskel i spændingsniveauet.
+
+00:05:37
+Over Sådan en stramgage.
+
+00:05:42
+Det var dem, som jeg havde brugt tilbage i 1980, da jeg lavede min PHD. Og og de har så ligget i nogle befrielser undervejs på på DTU.
+
+00:05:56
+Og er blevet genanvendt adskillige gange, og så fik vi venligst lov til at låne dem til projektet her. Uheldigvis så var.
+
+00:06:09
+Kalibreringsarkene for de her tryksæder, de var pænt nummererede, og som AB og c tryksælder, så vidt jeg husker de var pænt nummererede men. Men der var ikke nogen kalibreringsark med dem, så det vi måtte gøre var at lave en omvendt kalibrering i virkeligheden. Vi byggede dem ind i befæstelser.
+
+00:06:34
+Og sagde, hvad får vi af signal?
+
+00:06:37
+Og hvad skal vi på det sted, hvor de ligger have af spændingsniveau? Og så kunne man så sige godt signaldideret med spændingsniveau. Det gav en kategorieringsfaktor, som vi ville kunne anvende, når vi lavede Vores virkelige forsøgsbestelse.
+
+00:06:59
+Skide smart synes jeg.
+
+00:07:04
+Befæstelserne blev som sagt opbygget i en lille 2 x 2 eller 1,8 x 1,8 m grav ude på helseholmen hos.
+
+00:07:20
+Årslev, som var stærkt behjælpelig med alt det praktiske.
+
+00:07:26
+Også med at stille registreringsudstyr til rådighed, fordi et er at have en tryksæde og et stik i den ene ende. Noget helt andet er faktisk at få noget fornuftigt ud af det, men det havde årslaget, fordi de er ret forskningsmæssigt.
+
+00:07:44
+Oppe på mærkerne har fået sig en kæmpe trioxal med på 1,5 meters højde eller Sådan noget lignende, hvor de virkelig kan teste.
+
+00:07:55
+Storkornede materialer og og.
+
+00:07:59
+Her har de altså en forsøgskrav med en rig, hvor man kan spænde et et.
+
+00:08:08
+Pladebelastningsudstyr op på, så man kan lave sine belastningsforsøg.
+
+00:08:18
+Hvad er der at sige om det? Ja altså.
+
+00:08:23
+Man opbygger befest man opbygger først lagene af rockflow under det hele. Der ligger der et et sandlag til.
+
+00:08:34
+2 3 meters dybde eller Sådan noget lignende, som så vi i praksis har en en uendelig underbund.
+
+00:08:43
+Så pakker man så steder man sine rockflow batch ved siden af hinanden, og så pakker man ellers det samme sand ned på alle siderne af det, så det bliver holdt ordentligt sammen som det ville blive i en rigtig befæstelse også. Og til sidst så blev der så lagt et.
+
+00:09:02
+15 20 cm stabilt, Rusland på toppen.
+
+00:09:08
+Hvordan belastede vi dem?
+
+00:09:10
+Jeg vil belastede dem med en statisk pladebelastning 60 cm plade, hvor vi så belastede op i.
+
+00:09:18
+I trin.
+
+00:09:20
+Hvor den holder i tiden ork.
+
+00:09:25
+I trin Det er grafen i midten forneden.
+
+00:09:31
+Hvor vi ser den trinvise belastning og en en smule aflastning.
+
+00:09:40
+Og vi ses faktisk signalerne fra.
+
+00:09:44
+De forskellige tryksætter øverst den øverste den blå i toppen er den trykselle, der ligger på toppen af rockfloven. Den røde er den, der ligger lige nedenunder belastningscentrum.
+
+00:09:59
+Og den grønne er den der ligger. Vi har rockflow balsene stående, så Vi har en i midten, og så har vi en ude for enden af badsene, som altså giver fortæller os hvor at at spændingsniveauet derude for enden af cirka det halve af, hvad Det er inde under midten af af et belastet batt og.
+
+00:10:23
+Den, Der er helt i bunden.
+
+00:10:26
+Prudsigt.
+
+00:10:29
+Det er den der ligger under nogle af de bats, der ligger forskudt ud til siden, som altså får meget meget let kræftoverførsel fra de belastede bats II centrum.
+
+00:10:46
+Det var den statiske pladebelastning. Vi ser det samme billede, når vi går til et minifalt, hvor Vi har.
+
+00:10:59
+Pulsen dels fra cellen på toppen.
+
+00:11:03
+Og så har vi pulsen fra de celler, der ligger under.
+
+00:11:08
+Under balsende.
+
+00:11:10
+Igen.
+
+00:11:13
+Med en tydelig forskel på den celle, der ligger lige under belastningscentrum og den celle der ligger.
+
+00:11:23
+I parallelt med et batch og den der ligger på tværs.
+
+00:11:33
+Nå, så kommer problemet at når Vi skal.
+
+00:11:39
+Analysere dette her. Vi vil jo gerne have det ind i map programmet, som er et lineær elastisk program, hvor der forudsætter, at alle lag er en.
+
+00:11:50
+Homogene og i iotropisk og alt muligt ensartet i alle retninger.
+
+00:11:56
+Og Det er lige præcis det som rocksflow pats befæstelser ikke er, så Vi er nødt til at at.
+
+00:12:06
+Analysere dem.
+
+00:12:08
+Det Vi skal komme frem til, er, at kan vi beregne, hvad spændingerne også er, fordi et er at at få sandsynliggjort, at Vi har de forskelle, som vi vi gættede på, men Vi skal også kunne beregne.
+
+00:12:23
+Nogle spændinger nede i befæstelserne?
+
+00:12:26
+For at kunne køre Vores analyser videre.
+
+00:12:30
+Så for at.
+
+00:12:34
+Analysere det, så er vi nødt til at gå over i et franellement program, hvor vi kunne.
+
+00:12:40
+Modellere de enkelte rockflow bats. Det er egentligt et finanprogram, Der er lavet til betongbelægninger, men altså om du har en meget smal betonflade, der til gengæld er 50 cm høj det.
+
+00:12:54
+Er programmet Sådan set ligeglad med.
+
+00:12:56
+Så vi sagde jamen Det er godt vi bruger det program og og nu skal vi så sørge for, at vi tilnærmer den belastning Vi har på oversiden af offslogbattene eller til det, som Vi har i virkeligheden, eller det, som vi vi vil få i en lille elastisk bilegning.
+
+00:13:25
+Det gjorde vi så ved at lave en beregning af liniel elastisk af. Hvordan ser spændingsniveauerne ud på toppen af offslogbattene?
+
+00:13:34
+Og hvordan kan vi tilnærme dem med et antal kvadratiske belastninger, som er det som finansmandprogrammet opererer med? Og det blev til Sådan en tretrinsmodel, som så er vist i den nederste billede, hvor Vi har de 3 niveauer.
+
+00:13:58
+For belastninger og deres udstrækning, altså et forholdsvis lavt niveau.
+
+00:14:03
+Eller et lavt niveau, Der er det det største og så.
+
+00:14:08
+Klodser vi ovenpå.
+
+00:14:14
+Ja.
+
+00:14:18
+Hvad fik vi ud af det?
+
+00:14:20
+Det fik vi, der fik vi så ud af i første omgang kan man sige. Nu klistrer vi regningsmæssigt Vores rockflowbats sammen, så de er et isotopisk homogent lag og beregner.
+
+00:14:37
+Defektionerne.
+
+00:14:39
+På undersiden af rockflowbatsene, som vil være proportionale med det modtryk, der kommer fra underbånden.
+
+00:14:48
+Det er så den linealastiske beregning.
+
+00:14:52
+Og når vi så i stedet for slipper dem løs og siger vi fjerner limen mellem offerbattene, hvad får vi så? Så får vi den der det der badekar eller swimmingpool, eller hvad Vi skal kalde det, som Vi har på det nederste billede som.
+
+00:15:08
+Det ser ganske vist ud, som om Det har præcis den samme maksimale spænding. Det har det ikke. Det er bare fordi programmet synes at det skal bruge hele farveskalaen.
+
+00:15:21
+Ligegyldig hvad så det Der er rødt på den nederste er ikke det der svarer til til rødt på den nederste sagt på den 2 måde den røde farve på den øverste svarer mere til den gule farve i den nederste.
+
+00:15:38
+Grafik men det de beregninger vi lavede der viste os at at den formodning vi havde om at at.
+
+00:15:51
+Eller de viste, at spændingsniveauet.
+
+00:15:55
+Under rockflow-balsene var cirka 1,5 gang højere, end hvad vi ville få, hvis vi havde en lineær elastisk beregning.
+
+00:16:04
+Så nu har vi et eller andet, vi kan gå videre med i mobberegningerne og sige OK.
+
+00:16:13
+Når vi stopper rockflow batch i en mop belægning, så vil vi altså få spændinger, Der er 1,5 gang højere.
+
+00:16:25
+I nede under bahtslaget end hvad Vores normale mop beregninger af spændinger vil give, og Det er det, der kommer til at betyde noget for hvordan befæstelserne opfører sig på sigt.
+
+00:16:41
+Når de udsendes for trafik.
+
+00:16:49
+Så.
+
+00:16:51
+Satte virksomheder og tænkte engang til fordi hvad er det, Vi skal gøre for nu at få det ind som et mobmateriale?
+
+00:17:03
+Vi skulle se og få defineret deformations og de dynamiske og plastiske deformationsparametre.
+
+00:17:13
+På den måde, som de er defineret i mug vi skulle.
+
+00:17:20
+Finde en eller 2 måde at håndtere den der spændings koncentration på i må.
+
+00:17:28
+Vi og vi skulle finde os finde ud af, hvad er i det hele taget? Hvad er niveauet for hvad rockflow kan tåle at belastninger, og der var vi jo så heldige, at der var nogen der havde lavet en masse laboratorieforsøg i deltaas på et tidligere tidspunkt, for for la pinus. Så der havde vi noget at støtte os på.
+
+00:17:53
+Og så skulle vi til sidst lave anvende mops klimasimulationsdel. Det er den del, som vi siger. Jamen den er kun til sammenligning.
+
+00:18:03
+Den er kun til orientering. Det der gælder i byretten. Det er den den matematisk desaministiske dimensionering ved festelser, men klimasimulationsdelen er netop til at sammenligne.
+
+00:18:18
+Hvordan opfører forskellige belæstelser sig relativt til hinanden.
+
+00:18:23
+Det kan godt være, at det ikke er den præcise levetid man får, men men relativt når Vi har 2 befæstelser der udsættes for den samme.
+
+00:18:33
+Klima og belastnings påvirkning, så vil disse simulationer fortælle os, hvordan opfører den ene sig i forhold til den 2.
+
+00:18:48
+Som sagt det vi havde og går ud fra i starten. Det var forsøg, der var udført af deltaas med forskellige belastnings spændingsniveauer.
+
+00:18:59
+Hvor vi kan se at.
+
+00:19:02
+Spændingsniveauer op til 60 kg per skal der opfører befæstelserne sig pænt. Det er den.
+
+00:19:11
+Fuldt optrukne.
+
+00:19:13
+Og prik streg prik linjen de de.
+
+00:19:18
+Går ikke blandt andet, men så snart vi kommer op på den prikkede, som er udført ved 70 kg per skal, så vidt jeg husker.
+
+00:19:30
+Så går det galt forholdsvis hurtigt.
+
+00:19:35
+Forholdsvis 150.000 befestende belastninger, men men men alligevel. Det er en eller 2 deformations.
+
+00:19:43
+Udviklingen, som vi ikke har lyst til at se i en bevægelse.
+
+00:19:49
+Og helt den der går lige op til gud.
+
+00:19:54
+Som er bare er.
+
+00:19:57
+Den stiplede eller den streg streg streglinjen. Der er vi altså oppe i 80 kg på skal, så vi var sikre på at vi skulle holde os under 60 kg per skal.
+
+00:20:11
+At anytime med Vores befrister når vi ville stoppe rockflow i dem.
+
+00:20:19
+Og så kunne vi lave en fin.
+
+00:20:23
+Lille udmattelses.
+
+00:20:29
+Udmattelseskriterie Det er den nederste, som fortæller os, hvor mange belastninger skal der til for at vi opnår en permanent deformation på på 0,2% som vi sats som en?
+
+00:20:46
+Grænseværdi.
+
+00:20:49
+Den kunne vi fik vi brug for senere.
+
+00:20:54
+Elastiske deformationegenskaber, Det var Sådan set meget let, fordi det havde vi fra delta's testene, så de.
+
+00:21:04
+Kom bare ind i på normal måde II mop med en e modul på 20 megabasal og.
+
+00:21:16
+En.
+
+00:21:18
+Minimums lig en maksimumsykelse på 500 mm.
+
+00:21:26
+Så vidste vi som sagt at under.
+
+00:21:31
+Offslog ville vi få en spændingskoncentration eller en en spænding der ville være omkring 1,5 gang det som moph.
+
+00:21:43
+Ville beregne almindelig lineær elastisk.
+
+00:21:47
+Det gjorde så at at at Det kan vi ikke for sige som op. Du skal lige skrue op med 50%, men til gengæld ved vi så også at at deformationshastigheden øges cirka med med spændingsniveauet i 2 så 1,5 x 1,5. Det er 2,25 vi sagde 2.
+
+00:22:10
+Så gjorde så, så så gjorde vi.
+
+00:22:12
+De underbund, som vi nu lavede simulationer for dem gjorde vi kun halvt, så deformationsmodstandsdygtige som de ellers ville være i normale mobberegninger.
+
+00:22:30
+Så.
+
+00:22:33
+Så kunne vi gå i gang med at stimulere det. Vi skal simulere os frem til Det er.
+
+00:22:40
+At en befæstelse en t 2 befæstelse eller 1-4 befæstelse med et.
+
+00:22:49
+Rockflowlag og en variabelt stabilt udslag på toppen og så en normal t 2 asfalt eller t 2 eller til 4 asftefæste. Den skal gerne opføre sig ligesom en almindelig til 2 befæstelse.
+
+00:23:08
+Lever.
+
+00:23:11
+Når Vi har, så varierer vi altså stabilt rusleds tykkelse, indtil vi får den levetid i sportkøringsmæssigt jævnhedsmæssigt. II et altså de de mål som mob nu engang har for levetider.
+
+00:23:34
+Der er ikke nogen, der begynder.
+
+00:23:38
+Så så lavede vi så en gang simulation hvor?
+
+00:23:48
+Vi sagde at at.
+
+00:23:55
+Ja at at alting var konstant II.
+
+00:24:00
+I alle årstider.
+
+00:24:05
+Og fastlagde så nogle tykkelser på den på den måde, men Det var så en ideal situation, hvor alting var konstant i levetider eller II temperaturer.
+
+00:24:22
+For at komme over i noget der var mere realistisk, så sagde vi godt nu tager vi og siger.
+
+00:24:32
+Vores normale klima ting de varierer som de plejer at gøre.
+
+00:24:41
+Men.
+
+00:24:43
+Lag nummer 3, som altså er rockflowlaget. Det har overhovedet ingen variation i sine e moduler.
+
+00:24:51
+Og så kan vi bruge. Kunne vi bruge det til at fastlægge, hvad er Vores tykkelser?
+
+00:24:59
+Belægningstykkelser i den situation.
+
+00:25:03
+Og det gav os til 2 og til en t 4 belægning, Sådan som den ville være ideelt set og når når vi.
+
+00:25:13
+Brugte den bedst mulige klimatilpasning af Vores deformationsparametre.
+
+00:25:22
+Det kan jeg så nogle nødvendige tykkelser for en befæstelse, men.
+
+00:25:29
+Det det Vi har der øverst til højre med klima. Det er jo altså en situation, som vi ikke kan sætte den sende den almindelige mobbruger ud i at skulle til at modificere klimabelastning eller klimaparametrene.
+
+00:25:48
+Så.
+
+00:25:50
+Når vi nu havde et sæt.
+
+00:25:54
+Rockflow parametre der passede til den det der som man må sige Det er den bedst mulige tilpasning.
+
+00:26:02
+Af af af rockflow eller af af klimasituationen.
+
+00:26:07
+Så var vi nødt til at at.
+
+00:26:12
+Og justér Sådan at vi også.
+
+00:26:19
+Holdt fast i eller varierede de øvrige?
+
+00:26:25
+Eller at vi varierede.
+
+00:26:29
+Årstidssparametrene, Sådan som standardmob variationen ville blive.
+
+00:26:36
+Så alt i alt gav det os nogle.
+
+00:26:41
+Spændingsniveauer, som vi ville skulle overholde, hvis Det var til 2 belægninger eller til 4 belægninger, som så kunne omvendt om om formuleres til 1 1 et udmattelseskriterie, som vi kunne fylde ind i mob.
+
+00:27:01
+Og på den basis kunne vi lave en database.
+
+00:27:06
+Og.
+
+00:27:08
+Udforme, 1 1 1 1, tillæg til mop.
+
+00:27:15
+Brugermanualen, der fortalte, hvordan man man kunne kunne fylde rockflow ind i belægningerne.
+
+00:27:25
+Så det bliver alt i alt til en database der kan hentes på lapinus til et set udbudsdokumenter.
+
+00:27:35
+Som kan hjælpe den definerende ingeniør, der udbyder projekter til at at opstille sine.
+
+00:27:46
+Udbudsdokumenter.
+
+00:27:48
+Og.
+
+00:27:51
+Ja Det var vel Sådan set det?
+
+00:27:56
+Vi nåede i mål, synes jeg med noget, som er troværdigt, som vi tør tro på.
+
+00:28:03
+Og som vi ikke er bange for, at det det bryder sammen om ørerne på os, og det kommer vi vel også til at høre noget om efter frokostpausen fra Frederiksberg?
+
+00:28:16
+Hvor der ligger nogle befæstelser, som der også er blevet målt på, og og en af de ting, som man må konstatere Det er.
+
+00:28:24
+Man kan faktisk ikke måle på overflowbefædstelser. Det det der sker er at når man måler på dem og gerne normalt, så vil vi jo gerne vide hvordan hvordan deformationerne er, når vi kommer væk fra belastningscentrum.
+
+00:28:42
+Og det der sker, er at rockflowbansene, de opfører sig som som en en ret usammentrykkelig blok. Og så har vi ellers en deformation af underbånden. Så når vi kommer væk lidt væk fra fra belastningscentrum, hvor vi normalt ville have deformationen af.
+
+00:29:03
+Rockflå lagene og og og og underbunden og endnu længere ude alene under bunden, så måler man faktisk også bare på underbunden.
+
+00:29:15
+Ret tæt på på.
+
+00:29:19
+Belastningscentrum.
+
+00:29:22
+Vi kløede os temmelig meget i håret, da vi da vi fik de beregninger eller de målinger, men men vi kunne altså ikke ud af dem umiddelbart udlede hvad for en e modul har rockflowen, når den nu engang ligger i en befæstelse.
+
+00:29:39
+Så Der er noget at tage fat på. Ja Jeg tror har faktisk ikke mere. Skal vi lige have en hånd?
+

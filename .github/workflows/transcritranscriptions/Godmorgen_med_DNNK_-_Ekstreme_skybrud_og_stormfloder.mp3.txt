@@ -1,0 +1,1272 @@
+00:00:05
+Ja, godmorgen til alle derude.
+
+00:00:08
+Velkommen til DNRNK's godmorgen med DNRNK.
+
+00:00:12
+Vi har i dag inviteret Charlotte Sinkbæk-Skov fra Envik Dagen ind i vores virtuelle studie her, og Charlotte hun prøver at sætte fokus på de ekstreme skybruder, de ekstreme stormfloder, som forekommer sjældnere end hvert 100 år.
+
+00:00:26
+Og det er jo fordi, at dem skal vi jo lære af i fremtiden, hvor vi får dem.
+
+00:00:30
+mere ekstreme hændelser og hyppigere hændelser, og derfor er det historisk vigtigt at lære af, når vi skal planlægge fremtiden.
+
+00:00:38
+I er velkommen til at stille spørgsmål i chatten, og så vil vi samle op, når Charlotte har holdt sit oplæg og prøver at få gang i lidt spørgsmål og svar der.
+
+00:00:49
+Så vil jeg egentlig bare igen sige godmorgen og give ord til Charlotte.
+
+00:00:53
+Vær så god, Charlotte.
+
+00:00:54
+Tusind tak, Stasm.
+
+00:00:56
+Og til jer, der sidder derude og måske sidder og griner lidt af den her forside, så er det jo en rigtig ingeniørforside.
+
+00:01:05
+Og jeg er jo også ingeniør.
+
+00:01:08
+Men den forside, jeg havde lavet, der var noget pænere, den ville bare ikke virke, når den blev delt.
+
+00:01:14
+Så den her forside, den er blevet lavet på et halvt minut og ligner noget for en rigtig ingeniørrapport.
+
+00:01:20
+Men så har jeg jo også bekendt kulør.
+
+00:01:23
+Først, tusind tak for, at jeg har fået lov at få ordet her i dag.
+
+00:01:28
+Det her med de her ekstreme hændelser, det er noget, der interesserer mig rigtig meget.
+
+00:01:33
+Lige præcis som Steffen sagde, fordi det, vi synes, er ekstremt i dag, det er jo ikke ekstremt om særligt mange år.
+
+00:01:42
+Så det er rigtig vigtigt at lære af det.
+
+00:01:46
+Lige en meget kort præsentation af mig selv.
+
+00:01:49
+Så kommer jeg, som sagt, fra Invidan.
+
+00:01:52
+hvor jeg sidder som magtschef.
+
+00:01:55
+Jeg er uddannet civilingeniør fra DTU tilbage i 2007, og så har jeg sidenhen arbejdet bredt med vandhåndtering og klimatilpasning på planlægningsniveau inden for alle mulige forskellige typer af vand.
+
+00:02:12
+De refleksioner, jeg tænker, der kunne være relevante at tage med hjem fra i dag, det er om, de hændelser, vi ligesom bruger i dag og baserer hele vores planlægning på, om de matcher den historiske lokale viden, der er omkring skybrud og stormfloder.
+
+00:02:35
+Og så om det også er relevant at modellere de større historiske skybrud og stormfloder, og der taler altså de helt ekstreme hændelser, som sagt, ud over en 100-årshændelse, eller om det bliver lidt for dommedagsagtigt, hvordan vi kan anvende den her viden om historiske skybrud og stormfloder til at reducere risikoen for fremtidens, og nu har jeg skrevet, uacceptable skader og hændelser.
+
+00:03:04
+Og det er fordi, at når vi snakker om de her helt ekstreme hændelser, så snakker vi ikke om, hvad der er samfundsøkonomisk mest optimalt osv.
+
+00:03:16
+Det skal jeg nok komme ind på senere.
+
+00:03:18
+Men så snakker vi om, hvad kan vi overhovedet ikke acceptere sker uanset hvilken hændelse, der rammer os.
+
+00:03:25
+Og hvordan er det, vi så kan indtænke den her viden om de her historiske skybrud og stormfloder i arbejdet med dynamisk, adaptiv og strategisk klimatilpasning og bioudvikling?
+
+00:03:40
+Jeg vil lige starte med at fortælle om en oplevelse, jeg havde som syvårig, som jeg tror betyder rigtig meget for, at jeg sidder her i dag, og jeg har valgt det her studie.
+
+00:03:52
+Da jeg var syv år, der boede jeg i Fredensborg og gik på Fredensborg Skole, og da skolen var slut, der skulle jeg gå hjem fra skole, og så fik jeg som altid at vide, at jeg måtte ikke krydse den farlige Bendigtevej.
+
+00:04:07
+Jeg skulle gå ned til den her gangtunnel, og gå under der, og så gå hjem til mit hus der.
+
+00:04:12
+Det var en meget fin og sikker skolevej ind til den dag, hvor der kom et kæmpe skybrud.
+
+00:04:20
+Jeg ved ikke, hvor meget det har regnet dengang i Fredensborg, men da jeg kom ned til den der gangtunnel, som lå under Benediktevej, I kan se den her i Skalbro.
+
+00:04:31
+Det er det her, der er markeret med blåt her.
+
+00:04:34
+Der står meget vand.
+
+00:04:36
+Da jeg kom ned til den, der kunne jeg godt se, der var vand ude i den her gangtunnel.
+
+00:04:43
+Men jeg var syv år, og jeg tænkte mig måske ikke helt om og tænkte, jamen det er jo den vej, min mor og far har sagt, jeg skal gå hjem, så jeg går den vej hjem.
+
+00:04:53
+Og jeg begyndte så at gå ud i den her gangtunnel, og jeg stod i dybere og dybere vand, indtil jeg i hvert fald stod i vand til brystet.
+
+00:05:02
+Og der kan jeg huske, der blev jeg bange.
+
+00:05:05
+og vidste faktisk ikke, hvad jeg skulle gøre, og panikkede lidt, og lykkedes heldigvis at gå over til den rigtige side af gangtunden.
+
+00:05:12
+Der var heldigvis ikke mere vand end det, men det har i hvert fald altid sat sig i mig som sådan en oplevelse med, at det kan godt være, at vi regner samfundsøkonomi og alt det der.
+
+00:05:22
+Det giver rigtig, rigtig god mening, men vi skal også forholde os til, at der faktisk kan komme nogle hændelser, hvor der er nogle risikopunkter, hvor folk kan komme til skade.
+
+00:05:32
+Det er ikke, fordi vi nødvendigvis skal lave jordens største kloakrør under en gangtonne.
+
+00:05:40
+Men det, vi skal gøre, er at sikre, at hvis der kommer en monsterregn over Fredensborg i dag, så skal vi sikre, at der måske lige er en fra beredskabet, der kommer ud og sørger for, at folk ikke går ud, hvis der virkelig står rigtig meget vand derude.
+
+00:05:58
+Det kunne være en løsning.
+
+00:06:01
+Hvis vi lige kigger på den her gangtunnel, og nu er det bare sådan en helt standard skalgo med vandopland, og hvor meget vand står der, så hvis der løber 10 mm vand på terræn, som ikke kan løbe i kloakken, og som ikke kan nedsive, og som ikke kan fordampe, vi er altså over kloakkens service niveau, så kan der faktisk stå omkring 70 cm vand nede i den her gangtunnel.
+
+00:06:26
+Vi kan kun konkludere, at jeg ikke kan huske, hvor høj jeg var som sygeårig, men jeg tænker ikke, at jeg har været 1,33 m høj.
+
+00:06:34
+Det var godt, at der ikke var 25 mm på terrænet, for så havde hovedet ikke holdt sig op.
+
+00:06:41
+Det her med at få spottet de her risikopunkter, også for de ekstreme hændelser.
+
+00:06:48
+Normalt snakker vi om hverdagsregn, og vi snakker om ekstremregn.
+
+00:06:54
+Og i forhold til det her oplæg, der har jeg tænkt lidt det her igennem.
+
+00:07:00
+Hvordan er det egentligt, vi bruger de her begreber?
+
+00:07:04
+Vi har ligesom hverdagsregnen.
+
+00:07:06
+Det er den nedbørsmængde, som forsyningsselskaberne håndterer.
+
+00:07:12
+Så har vi det, jeg nu har kaldt det økonomiregn.
+
+00:07:16
+Det er så, når vi er nået over.
+
+00:07:18
+Der er ikke mere plads i ploagtsystemet.
+
+00:07:22
+Og det er der, hvor vi begynder at regne samfundsøkonomisk optimalt niveau, for så kan det være, at vi finder ud af, at det er en 25-års hændelse, det er optimalt at sikre for, og så laver vi nogle tiltag i forhold til det.
+
+00:07:34
+Så er der også noget, jeg har kaldt vandhåndteringsplanregn, og det er, fordi oftest rigtig mange steder, når man går ind og laver vandhåndteringsplaner, så går man f.eks.
+
+00:07:43
+og kigger på en 50-årshændelse eller en 100-årshændelse og sikrer i det her nye område, man går ind og bygger, der vil vi godt kunne have, hvis der falder en 50- eller 100-årshændelse, så må der altså ikke komme vand ind i bygningerne, eller det må ikke gøre nogle store skader i det her område, og vi må heller ikke gøre det værre for naboarealer.
+
+00:08:05
+Vi skal sikre, der kan ledes vand gennem det her område, hvis der kommer det i dag på terrænet, og vi må heller ikke gøre det værre for naboerne.
+
+00:08:13
+Og det jeg så vil snakke om i dag, det er de her monsteregn, det er der, hvor vi er over det, vi planlægger for i vandhåndtingsplaner, via over, hvad er det rette serviceniveau på terræn.
+
+00:08:27
+Det er de her helt ekstreme regn, hvor vi skal sikre, at der ikke opstår uacceptable skader, og det kan f.eks.
+
+00:08:35
+være sådan noget, som der er en, der drukner.
+
+00:08:38
+Det samme med højvande og stormfloder.
+
+00:08:41
+Der har vi de her mindre højvandshændelser.
+
+00:08:45
+Det kan være dem, vi oplever, en, to gange om året, eller hver andet år.
+
+00:08:49
+Det er dem, vi godt vil have, de giver aldrig skader.
+
+00:08:52
+Der er ikke nogen, der har lyst til at gå ud og lægge watertubes to gange om året.
+
+00:08:59
+Så er der noget, jeg har kaldt forsikringsstormflod.
+
+00:09:03
+Det er den her grænse for, hvornår vi kan opnå dækning for skader, og hvor Stormrådet er inde og vurderer, det er en stormflod, Så har der det her dimensionsgivende stormfloder.
+
+00:09:20
+Det er typisk, når man går ud og laver en højvandssikring, at man beslutter sig for, hvad det er for en hændelse, vi vil sikre os mod.
+
+00:09:30
+Det kan være, at det for eksempel er en 100-års hændelse om 50 år.
+
+00:09:34
+Det er så meget, vi går op og ud og bygger vores stige, eller hvad man nu laver til, og så vil man så sidenhen forhøje det.
+
+00:09:41
+Og så er der de her monsterstormfloder.
+
+00:09:44
+Det er der, hvor vi er nået over, hvis vi går ud og bygger en sikring, som vi måske havde regnet samfundsøkonomi på, hvad den skal være.
+
+00:09:53
+Og det er også de her kæmpe stormfloder, hvor det ikke hjælper at gå ud og lægge watertubes eller sådan noget, fordi de er simpelthen større end dem.
+
+00:10:05
+Hvis vi starter med at kigge på skybrød, så har vi en masse eksempler på større skybrød, hvis man så begynder at rode lidt i historiebøgerne og arkiver og diverse oversigter.
+
+00:10:19
+Og der er rigtig, rigtig mange.
+
+00:10:21
+Og vi ved jo også alle sammen, at hvert nyt år, det giver os endnu flere.
+
+00:10:27
+Så det her med nogle mere høre, der er faldet 100 millimeter, Det er sådan set ikke noget, vi bliver helt så overrasket over mere.
+
+00:10:37
+Hvis vi kigger på nogle af de større, der har været, så er der Halsø Skibrådet syd for Viborg tilbage i 1948, hvor man estimerede, at der faldt 200-225 mm på to tiber.
+
+00:10:53
+Da Gråsten, der i august 2007 blev ramt af 156 mm på halvanden time, og 111 mm på 30 minutter.
+
+00:11:03
+Det har godt nok været hæftigt.
+
+00:11:05
+Så er der Sønderfælling, Kibek, der også blev ramt af noget ret hæftig intensitet i løbet af 24 timer, og med de her 53 mm på 30 minutter.
+
+00:11:18
+Det er sådan et skybrud, man også kan finde mange andre eksempler på i den størrelsesorden efterhånden.
+
+00:11:26
+Kerteminde blev i 2021 ramt af 169 mm på mindre end 24 timer.
+
+00:11:33
+Vi har et historisk skybrud fra Åbenråd i 1931, der minder en del om det, med 189 mm på 36 timer.
+
+00:11:43
+Det gik også galt.
+
+00:11:44
+Og så kender vi vist alle sammen skybruddet i København i 2011, hvor især i blandt andet Ishøj og Botanisk Have, blev målt ret store nedbørsmængder.
+
+00:11:59
+Hvis vi lige kigger på det data, vi normalt kigger på, så har vi jo de her regneark fra Spillemandskomitéen, hvor man kan gå ind og indtaste en gentagelsesperiode af en regn, man kan indtaste en varighed, og så kan man indtaste en sikkerhedsfaktor, typisk en klimafaktor.
+
+00:12:21
+Og hvis vi nu bare kigger på det uden, klimafaktor, som sådan, man kan sige, præsenterer dens historiske situation, så er der her nogle nedbørshændelser med en varighed på 12 timer og forskellige gentagelsesperioder, der viser, hvis man taster ind i sådan et degængselsværktøj, hvor meget af det så det viser, det regner.
+
+00:12:44
+Og hvis vi f.eks.
+
+00:12:45
+tager en 100-årshændelse af en varighed på 12 timer, alt efter hvor vi er henne i Danmark, så er det ca.
+
+00:12:56
+70-80 mm, der falder.
+
+00:12:59
+Det kan jo så være meget sjovt at holde de her historiske nedbørshændelser op mod, hvis vi taster dem ind med den varighed, de har haft.
+
+00:13:13
+Taster dem ind i de her normale værktøjer, altså spillevariantskvalitetsregner, og se om vi overhovedet kan ramme det, eller hvad det er for en gentagelsesperiode, vi skal op på, for at kunne finde sådan en hændelse her.
+
+00:13:27
+Og hvis vi kigger på Haldsø Skybruget i 1948, og prøver at sige en varighed på to timer, hvis vi tager en gentagelsesperiode på 100 år, så giver det 48 mm.
+
+00:13:42
+Det er ret langt fra en gentagelsesperiode på 250 år.
+
+00:13:46
+Jeg ved godt, at regnearkene bliver Men det er alligevel interessant, hvor langt vi er fra det.
+
+00:13:52
+57 mm.
+
+00:13:53
+Og tager vi en gentagelsesperiode på 1.000 år, så giver det 72 mm.
+
+00:13:58
+Så hvis man bruger de gængse værktøjer, og man ville lade det her SVK-regneværke være baggrund for at kigge på, hvad er en monsterregn i vores område, så rammer man slet ikke det, der er faldet.
+
+00:14:15
+Jeg har prøvet det samme med Gråsten, hvor jeg har taget nedbørsmængden, der faldt i løbet af 1,5 time, og nedbørsmængden, der faldt i løbet af 30 minutter.
+
+00:14:26
+Og der er konklusionen også, at vi slet ikke kommer op og rammer de 156 mm, som der fandt på 1,5 time, lige meget hvor meget vi skruer op for gentagelsesperioden.
+
+00:14:40
+Og det samme er også tilfældet, for den regn, der faldt i løbet af 30 minutter.
+
+00:14:46
+111 mm på 30 minutter.
+
+00:14:48
+Det er faktisk et syvdubbelt skybrud.
+
+00:14:51
+Det er ret vildt.
+
+00:14:53
+Hvis vi så kigger på områdeskybruddet som sådan en nedbørshændelse, der havde længere vejhed, så begynder vi med de høje hændelser og begynder at nærme os lidt.
+
+00:15:11
+Så det er jo super interessant det her med, at uden klimafaktor, der er faktisk flere, rigtig mange af de hændelser, vi har oplevet i dag, som vi ikke rammer ved de høje hændelser.
+
+00:15:26
+Så har jeg prøvet samme øvelse, hvor jeg så har sat klimafaktor ind, og jeg har anvendt klimafaktoren fra skrift 30 Spilevandskomitéen, hvor jeg både har kørt med en klimafaktor på 1,4, som er den her standard klimafaktor, og så den høje klimafaktor på 2, som er den klimafaktor, der svarede det her udledningsscenarie RCP 8,5, som er det, vi kan se, vi nogenlunde følger i dag, og som er repræsentativ for de klimaforandringer, vi ser i dag.
+
+00:16:06
+Hvis vi så kan se dem her, for eksempel, de står her, hvis vi tager halv sø, skybrudet, jamen så står der for en 100 årshens 48 mm, det er uden klimafaktor, 67 mm, det er så med den her standard klimafaktor på 1,4, og så er der de 96 mm, der er med klimafaktoren på 2.
+
+00:16:31
+Og der er det jo igen interessant at se, at selvom vi sætter den høje klimafaktor på, som skal repræsentere, hvordan sådan en hændelse vil se ud om 100 år med det klimascenarie, vi ser ud til at følge nogenlunde, at så kommer vi faktisk heller ikke op og rammer sådan en hændelse.
+
+00:16:55
+Så hvis man satte sig og sagde, nu vil jeg modellere noget helt vildt, nu tager jeg en tusindårs hændelse, over halvsø området om 100 år, så var den stadig lavere end det, der er hent.
+
+00:17:06
+Det samme er konklusionen.
+
+00:17:09
+Hvis vi kigger på det her skybrud i Gråsten, så kommer vi heller ikke op at ramme det.
+
+00:17:15
+Hvis vi så kigger på åbenrådets skybrud, så lykkes det også faktisk at ramme det, når vi begynder at bruge den høje klimafaktor, eller vi går helt op på en tusindårssendelse.
+
+00:17:28
+Og det får i hvert fald mig til at tænke, at det er rigtig fornuftigt det her med at kigge på de her større historiske nedbørshændelser og forholdelser til, hvordan er det, de rammer.
+
+00:17:43
+Også selvom de ikke lige har ramt ens by, så kan det være, at det er noget, der har ramt en nabokommune.
+
+00:17:50
+Men sådan et skybrud kommer nok også forbi en gang.
+
+00:17:55
+Derudover skal man jo være opmærksom på, når vi kigger på de her forskellige skybrud, at nogle gange så ser vi det samme, det sker igen og igen.
+
+00:18:06
+Det her er Adspøl i Sønderjylland, hvor man både havde en stor rang i 1931 og i 2007.
+
+00:18:14
+Og hvis man går ind i arkiver og ser, hvad der skete i 1931, og man kigger på, hvad der skete i 2007, så er det ligesom de samme steder, der bliver ramt.
+
+00:18:24
+Så er der også alle de her ukendte skybrud.
+
+00:18:29
+Det er dem, der ikke lige rammer i en stor by.
+
+00:18:33
+Nu boede jeg i en lille landsby Ravnstrup tilbage i 2021, og der havde vi en rigtig spændende hændelse med 28 mm på 12 minutter.
+
+00:18:45
+Og det værste var nok, at der kom nogle kæmpe store havl, der fik smadret folks bilsage osv.
+
+00:18:53
+Men det er jo sådan en hændelse, der går relativt ubemærket hen.
+
+00:18:57
+Den var super lokal, og dem i Viborg, de synes store nok, det havde regnet.
+
+00:19:04
+Lad os så kigge på stormfloder.
+
+00:19:07
+Lige med hensyn til stormfloder, der er vi så heldige, at vi ved rigtig, rigtig meget.
+
+00:19:13
+fordi der ligger forskellige opgørelser over historiske stormfloder.
+
+00:19:19
+Der ligger den her rapport tilbage fra 1991, som simpelthen har oplæstet alt, hvad man ved om historiske stormfloder.
+
+00:19:31
+Og Køstdirektoratet har også det, der hedder BILA, der også har en oversigt over historiske stormfloder.
+
+00:19:37
+Og det er super relevant, når man skal planlægge køstsikring, simpelthen at gå ind i de her to rapporter og forholde sig til, hvis jeg skal planlægge køstsikring i Haderslev, hvad er der af viden her om, hvad der tidligere har ramt Haderslev eller Friksund eller hvor man nu er henne i verden.
+
+00:20:00
+Når man så kigger i de her rapporter, så kan man finde en god blanding af hændelser, Der er også nogle af dem, der står, at det er usikkert, om de har været der.
+
+00:20:10
+Der er også nogle, man er ret sikker på, og man kan finde sådan nogle helt ekstreme hændelser.
+
+00:20:16
+De her har sikkert flere af jer hørt om, bare på grund af navnet.
+
+00:20:20
+Den første store mandstrukning, og den anden store mandstrukning.
+
+00:20:26
+Men det var altså hændelser, der ligesom var med til at forme.
+
+00:20:30
+hvordan kysten ser ud i Sønderjylland på vestkysten.
+
+00:20:35
+Til højre ser I et billede af, hvordan der så ud før, og til venstre ser I et billede efter sådan en hændelse.
+
+00:20:47
+Hvis vi går præcis 400 år tilbage til 1624, så når man går ind i de her optegnelser, så kan man faktisk selvom det er 400 år siden, at finde information om adskillige stormfloder.
+
+00:21:11
+Så der ligger altså et super godt datagrundlag her.
+
+00:21:14
+Om end er det selvfølgelig af varierende niveau.
+
+00:21:18
+Så kan man se, hvad det er for nogle byer, der blev ramt osv.
+
+00:21:24
+Derudover er der også en masse viden at hente i lokale arkiver.
+
+00:21:30
+For eksempel kan man finde historien om Handelsbyen Brønnehøje på Møen, der blev skyllet væk under en stormflod i 1625.
+
+00:21:42
+Hvis vi kigger på stormfloden i oktober 2023, en stormflod, der ligesom ramte de østlige kyster i det sydlige Danmark, skal det nok hedde, så er det meget interessant at se på, hvor slem er den egentlig?
+
+00:22:09
+Og nu er der lige kommet helt nye højvandsstatistikker fra Køstdirektoratet, og at dem, Hvis vi nu f.eks.
+
+00:22:18
+kigger på Åben Rå, så kan man se, at en 100-års hændelse skulle have en vandstand på 1,97, og en 200-års hændelse skulle have en vandstand på 2,08.
+
+00:22:30
+Det, der ramte Åben Rå i 2023, var en stormflod i kode 2,16.
+
+00:22:38
+Hvis vi skriver den tilbage til 1872, hvor man havde en historisk stormflod, så cirka har været i kode 1,81 år normal vandstand, fordi at vandstanden er steget ca.
+
+00:22:53
+35 cm siden da.
+
+00:22:56
+Så hvis vi skal begynde at sammenligne den stormflod med noget, der skete i 1800-tallet, så skal vi altså kigge på nogle stormflodrøder, der lå omkring kode 1,8.
+
+00:23:05
+Hvis vi kigger på den her historiske stormflod i 1872, den ramte Ungerå i 3,35 meter og skriver den frem til I dag ville den ramme i omkring kode 3,7 meter.
+
+00:23:21
+Det her er et godt eksempel på, at man lige skal forholde sig kritiske nogle gange i forhold til statistikkerne, fordi hvis man nu løber de her dokumenter igennem og kigger på, hvad er det, der har ramt området i løbet af de sidste 1.000 år, så kan man se, at der har været 10 stumfloder på 1.000 år der har været væsentligt større end stormfloden i 2023.
+
+00:23:49
+Så historisk set har vi en gang hver 100 år formentlig, det er jo selvfølgelig lidt usikre data, når de går så langt tilbage, haft nogle stormfloder, der er større end det.
+
+00:23:59
+Og vi har i løbet af 1000 år haft 8 stormfloder med en vandstand på 3 meter eller mere over normalen.
+
+00:24:08
+Og for mig, der giver det ligesom anledning til det her, jamen det er måske meget fornuftigt at forholde sig til de her store stormfloder.
+
+00:24:18
+Og hvad er det så, vi skal, når vi skal kigge på de her monsterregn og monsterstormfloder?
+
+00:24:23
+Formånet er at reducere risikoen for uacceptable skader og hændelser.
+
+00:24:29
+Det er altså ikke at bygge så høje diger eller lave så store kloakker eller hvad der nu skal til.
+
+00:24:37
+at der ikke må komme vand ind i folks stuer.
+
+00:24:42
+Det er slet ikke den type skader, vi snakker om.
+
+00:24:47
+Vi snakker om skader som dødsfald, og vi snakker om skader, som at hospitalet ikke er i funktion, eller at rensanlæget bliver oversvømmet, og man først kan rense spillevand om tre måneder igen.
+
+00:25:04
+Det er sådan noget, vi vil lide.
+
+00:25:06
+Og det kan være relevant at lave en kortlægning og en analyse af, hvad er det ligesom, der kan ramme os?
+
+00:25:14
+Hvordan vil det ramme os?
+
+00:25:16
+Hvad vil der være for nogle konkrete konsekvenser?
+
+00:25:20
+Hvad er det for nogle af de konsekvenser, vi ikke kan acceptere, trods lille risiko for, at hændelsen indtræffer?
+
+00:25:27
+Men som udgangspunkt må vi forvente, at hændelsen indtræffer en eller anden gang i fremtiden, især når vi går ind og tænker klimaforandringer indover.
+
+00:25:35
+Og hvordan er det så, at vi sikrer, at det her helt uacceptable ikke sker?
+
+00:25:40
+Og så skal vi ind og arbejde med en række metoder.
+
+00:25:43
+Det kan være beredskab.
+
+00:25:45
+Det kan være information og evakuering.
+
+00:25:47
+Det kan også være fysiske tiltag.
+
+00:25:49
+Det kan også være, at vi skal flytte noget, hvis vi har en historisk bolig, som bare overhovedet ikke må blive oversvømmet, og vi ikke kan blive ved med at og holde dem tørre, så kan det være sådan nogle tiltag, man skal til at overveje.
+
+00:26:06
+Man kan arbejde med tilbagetrækning.
+
+00:26:08
+Det skal indtægnes i fremtidig planlægning.
+
+00:26:11
+Og så skal vi sikre, at vi ikke tilfører nye uacceptable risici.
+
+00:26:20
+I forhold til kortlægning af monsteregn, der er det ret vigtigt, at man anvender det rette modelværktøj.
+
+00:26:30
+Vi er i nogle situationer, hvor både by og åbent land afvandrer, så det er ikke nok at sidde i en ploak-model med overflade på, der kun er afgrænset til byen, fordi de grønne arealer i kanten af byen, de kan også sagtens begynde at arbejde ind mod byen.
+
+00:26:52
+Strømningvejenes udbredelse bliver rigtig, rigtig vigtig, når vi kigger på de her store hændelser.
+
+00:27:00
+Derfor behøver man at begynde at bruge en hydrodynamisk model.
+
+00:27:05
+Jeg vil anbefale, at man ikke går helt amok og skal kortlægge 10 forskellige skybrød, der har ramt Danmark.
+
+00:27:13
+Man ved aldrig, hvad der 100 % rammer, men holder fokus på, at det, vi gerne vil vide, er, hvis der er noget større, Der rammer større skybrud, større stormflod.
+
+00:27:22
+Hvor er det, der er de helt store?
+
+00:27:25
+Lige for at komme med et eksempel på det, hvis vi kigger på den her store skybrud, der ramte ved Haldsø tilbage i 1948.
+
+00:27:39
+Osmid siger, at når vi tror, at der er der blev nedsivet og fordampet omkring 50 mm, der faldt 150 mm, og smider det ind i skalgo på en glasplademodel, så ser det ret fredeligt ud.
+
+00:27:57
+Her der lå en kro, der simpelthen blev skyllet væk, der var simpelthen en strømningsvej, der løb igennem den, så den endte nede i søen, halvdelen af kroen, og så stod der noget kro tilbage på hver side.
+
+00:28:08
+Det ser rigtig, rigtig fredeligt ud, og man tænker, det kan da bare ske igen.
+
+00:28:13
+Hvis man så går ind og bruger hydrodynamiske beregninger med 2FLOW i Skalbo, så ser det straks anderledes ud.
+
+00:28:23
+Så får man nogle større strømningsveje, og hvis man kigger nede ved groen her, så kan man også se, at der er mere vand omkring den.
+
+00:28:35
+Det samme gælder også, hvis vi kigger på de her områder, der bliver oversvømmet, der ser det også ret fredelig ud, hvis man bare tænder for strømningsveje, men hvis man kører de her hydrodynamiske regninger, så kan man ligesom godt genkende det her billede med, hvordan der bare har været vand alle steder.
+
+00:28:58
+Så det er for at sige, det er let at trykke på en knap og beregne, men man skal lige gøre sådan nogle overvejelser omkring, hvad det er, man egentlig regner på, og om det matcher den virkelighed, der var.
+
+00:29:16
+Hvis vi prøver at tage det her Halt-Sø-Skybrode og lade det ramme lidt mere mod nord ind over Viborg, så er det jo meget interessant at se, hvad der sker der, og hvad der bliver oversvømmet.
+
+00:29:29
+De her orange-brunlige nuancer, det er fluxen.
+
+00:29:34
+Det er der, hvor der flyder vand, og de blå, det er der, hvor der er vand, der står på terrænet.
+
+00:29:41
+Man kan også tage det her store skybrud og lede ind over København.
+
+00:29:47
+Så bliver der også meget vådt, og der flyder også meget vand i gaderne.
+
+00:29:50
+Og hvis man sidder og sammenligner det med sådan en normal skalkeugle, hvor man smider rigtig mange millimeter på, så får man også nogle risici her, som man ikke kan se, hvis man ikke har strømningsvejenes udbredelse med.
+
+00:30:11
+Det samme er interessant for stormfloder.
+
+00:30:16
+Husk, hvis man arbejder med de her historiske stormfloder, at få dem fremskrevet til i dag, f.eks.
+
+00:30:24
+1872, hvor vandstanden stedede omkring 35 cm siden.
+
+00:30:32
+Kig på, hvordan det er, de rammer, og især, med hvilken dybde de rammer.
+
+00:30:39
+et kort her, så kan det være svært lige at lure, om folk skal tage gummiståler på, eller om de virkelig står i vand, tårer hovedet.
+
+00:30:52
+Og det er jo der, hvor dybden betyder rigtig meget for den her risikovurdering, og om der er noget, hvor man skal have særlig fokus, beredskabsmæssigt.
+
+00:31:02
+Og så lige for at tydeliggøre igen, at det er altså de uacceptable skader, der skal være fokus på, Det er ikke samfundsøkonomien.
+
+00:31:13
+Hvis man laver en skadesberegning på forskellige stormfloder, så bruger sandsynligheden, så vil de her store hændelser heller ikke bonge ud som nogen, der vil have en stor skadesværdi, hvis man udregner det per år.
+
+00:31:33
+Så derfor skal det være de der helt uacceptable, altså kan vi drukne, er der nogle plejehjem, handicapinstitutioner, vuggestuer, steder, hvor folk ikke kan komme væk, som er i særligt risiko for, at hvis den her monsterregn, det kan godt være, at det går med en 100-årsregn, men hvis der nu kommer en endnu større regn, skal vi så være opmærksomme på det her beredskabsmæssigt og få dem væk.
+
+00:32:00
+Særlig fokus på det her med spillevand.
+
+00:32:03
+Kan der afledes spillevand?
+
+00:32:04
+Kan der løbe spillevand i gaderne?
+
+00:32:06
+Hvor lang tid bliver spillevandssystemet sat ud ad drift?
+
+00:32:10
+Er der nogen risiko for udslip af kemikalier?
+
+00:32:13
+For eksempel nogle virksomheder, som bare ikke skal oversvømmes?
+
+00:32:18
+Særlige historiske og kulturelle værdier, der kan godt være, at man Man har et eller andet i sin by, hvor man siger, at det her har så stor bevaringsværdi, så det må bare ikke blive oversvømmet igen.
+
+00:32:31
+Og kig på, hvordan er det egentlig, hvis en af de her store hændelser ramte vores by, for eksempel en af de store stormfloder.
+
+00:32:38
+Hvor lang tid var vi egentlig sat ud at spille?
+
+00:32:42
+Hvornår fungerede virksomheder, skoler osv.
+
+00:32:45
+nede i det berørte område igen?
+
+00:32:52
+Og jeg vil foreslå, at man simpelthen opstiller, at man simpelthen sætter nogle krav til, hvad der må ske, og hvad der ikke må ske.
+
+00:33:05
+Og det kunne for eksempel være, at uanset hvad der rammer, så skal intensiv-, akut- og fødeafdelinger på det lokale hospital, de skal holdes kørende, og man skal kunne komme til og fra systemet.
+
+00:33:18
+Det kan godt være, at man kan acceptere spillevandssystemet.
+
+00:33:21
+Det sættes ud af drift i 24 timer, og der vil ske overløb, og der vil være risiko for spillevand i gaderne.
+
+00:33:28
+Men det kan være, at det har så store konsekvenser, hvis rensanlægget bliver ramt, at der går lang tid, før det fungerer igen, at det kan man ikke acceptere.
+
+00:33:37
+Der kan være nogle særlige steder, man ikke vil acceptere, og så er det det her med, at ingen må drukne, og der skal man selvfølgelig også have at have fokus på særligt udsatte borgere, som måske ikke selv kan komme væk, hvis man beder et område om at blive evakueret.
+
+00:33:57
+Jeg vil anbefale, hvis man arbejder med det her, at de kommuner, der ikke har skulle udarbejde risikostyringsplaner, at de kigger ind i den her vejledning, der er for kystturaret til risikostyringsplaner.
+
+00:34:14
+Fordi den tilgang, der er til risikostyringsplaner, er rigtig god i forhold til at arbejde med det her.
+
+00:34:20
+Fordi det også meget handler om beredskab.
+
+00:34:24
+Det handler også om, hvad man gør efter sådan en hændelse.
+
+00:34:28
+Så det dækker hele paletten før, under og efter.
+
+00:34:32
+Og hele den her palette af tiltag, man kan arbejde imod.
+
+00:34:39
+Som jeg har nævnt før, så arbejder man i rigtig mange steder med forskellige mobile løsninger.
+
+00:34:47
+Der bliver sat watertubes op, når der kommer stormklod og forskellige andre løsninger, der er sikret af vandet.
+
+00:34:55
+Forhåbentlig ikke kommer ind der, hvor det gerne skulle komme ind.
+
+00:34:59
+Det kan være fint mange steder til de mindre stormfloder, hvor det kan holde vandet ude, men hvis vandet lige pludselig står en halv meter eller en meter over den her barrière, så hjælper den naturligvis ikke.
+
+00:35:14
+Det er også derfor, at det er vigtigt.
+
+00:35:15
+Det er rigtig godt, at man har nogle strategier i forhold til de her sandsynlige stormfloder, men det er også vigtigt at have en strategi i forhold til, hvis nogle af de her helt slemme skulle ramme igen, hvor man ikke kan bruge de metoder, man plejer at bruge.
+
+00:35:35
+Så i forhold til at arbejde med det her, der kan det være fornuftigt at lave en eller anden form for GIS-kortlægning.
+
+00:35:46
+Man kan bruge fremadrettet i forhold til planlægning, så man ikke nødvendigvis skal gå ud og at redde hele verden nu og her, men at hver gang, man har et eller andet planlægningsprojekt i kommunen, det kan være, der er en vej, der skal omlægges, det kan være, der skal laves, give en ny byggetilladelse til et sted kystnært eller langs en strømningsvej, at man kan forholde sig til, selvom man ikke er ekspert i klimasætoplastning, man sidder i en helt anden afdeling, om der er noget, man skal være opmærksom på her.
+
+00:36:23
+Og der i Invedan, der har vi været med til at udvikle konceptet InnoVand, som jeg tænker, at af nogle af de her koncepter, der er i det, der var nok flere af jer, der hørte det oplæg i juni, som min kollega Thorbjørn havde omkring det.
+
+00:36:40
+Men det her med at få kortlagt byen, i problemområder.
+
+00:36:47
+Det kunne være, hvis vi fører det over til de her monsterhændelser, det er de områder, hvor der sker uacceptabelte skader.
+
+00:36:52
+Det vil sige, hvis vi skal til at lave noget i den del af byen, der skal laves en ny lokalplan osv., så skal der virkelig være nogle klokker, der ringer, fordi det er her, vi skal undgå, at de her uacceptable skader sker fremover.
+
+00:37:10
+Så i forhold til monsterhændelserne, så kan der være de her og opmærksomhedsområder.
+
+00:37:16
+Det kunne være områder, hvor der sker en oversvømmelse, men der sker ikke noget uacceptabelt for de her monsterhændelser.
+
+00:37:26
+Så mit forslag er, at man laver en kortlægning af det her, der kun er for monsterhændelser.
+
+00:37:32
+Og så har man nogle mulighedsområder.
+
+00:37:34
+Det kunne være der, hvor man kunne løse nogle af problemerne.
+
+00:37:36
+Det kunne for eksempel være ud mod kysten, hvor man kunne lave kystregering, men det kunne også være, nogle af de her steder, hvor man ser at opland til nogle af de her steder, hvor det går helt galt under et skybrud.
+
+00:37:51
+Så vil jeg også anbefale, at man får rigtig meget fokus på, at borgere og virksomheder osv., de træffer nogle gode valg i sådan en situation.
+
+00:38:04
+Jeg var rundt i forbindelse med stormfloden i 2023, og der var jeg blandet nede ved et sommerhuseområdet ved Kolding.
+
+00:38:17
+Det var den dag om fredagen, hvor stormfloden skulle peake omkring midnat, og folk gik rundt og byggede med sandsække.
+
+00:38:25
+Det, jeg kunne se mange steder, var, at folk måske byggede 10-20 cm høje barriere.
+
+00:38:34
+Og i virkeligheden skulle de nok bygge en halv meter eller en meter højt.
+
+00:38:40
+Fordi hvis man så på den her kode og talte bølger oveni, så var det slet ikke nok det, de var i gang med at bygge.
+
+00:38:47
+Så det her med at få informeret folk om, hvordan er det, når jeg nu får at vide, at der rammer en stormflod i 2010, hvordan finder jeg ud af, hvilken kode jeg er i?
+
+00:38:58
+Hvor højt skal jeg så bygge?
+
+00:38:59
+Der er noget med nogle bølge.
+
+00:39:01
+Hvad kan jeg forvente der?
+
+00:39:02
+Det kan undgå rigtig, rigtig mange skader, at folk forsikrer sig selv godt nok.
+
+00:39:10
+Så når vi kigger på de her monsterhændelser, så skal vi selvfølgelig være opmærksomme på klimaforandringer.
+
+00:39:20
+At monsterhændelserne, hvis vi ligesom skal bruge dem, så ændrer de sig også.
+
+00:39:25
+Hvis vi for eksempel tager stormfloden i 1872 og fremskriver, så kan vi se, at de der 335, der for eksempel var i Åbenbro, dengang hedder jo meget snart lige pludselig 390 og 405, og så skal vi nok lade være med at kigge længere frem, men det samme gælder jo også i forhold til nedbørshandelserne, at det også ændrer sig helt vildt.
+
+00:39:57
+I forhold til vores tilgang til det, er det lidt forskelligt med skybrød og stormfloder, fordi stormfloderne kender vi som udgangspunkt til i god tid.
+
+00:40:10
+Skybrød er sådan noget, der bliver varslet, at nu kommer der skybrød, men der er ikke nogen, der kan sige nødvendigvis, at det er lige præcis her, det rammer.
+
+00:40:21
+Hvis man læser lidt på nogle af de større skybrød, der har ramt, f.eks.
+
+00:40:25
+det, der ramte Kerteminde, så er der typisk en beskrivelse af, at der var sådan en tordenvær, der blev hængende over byen og ikke rigtig flyttede sig i en periode og bare gav rigtig meget regn.
+
+00:40:40
+Det er svært at sige, om det rammer Kerteminde, Odense, Munkebog eller Nyborg i særlig god tid.
+
+00:40:48
+Så derfor skal ens tiltag målrettes af det stormflod, vi ved i god tid, eller skal det her simpelthen...
+
+00:40:58
+Det kan være lige pludselig midt om natten, at skybruddet falder.
+
+00:41:03
+I forhold til skybruddet, der vil jeg anbefale, at man arbejder med øget brug af data for regnmåler og for vejrarter, og får lavet en digital tvilling af vores byer og den regn, der forventes at ramme, så vi hele tiden har sådan et...
+
+00:41:23
+Hvad er det, vi skal gøre lige nu?
+
+00:41:25
+Ser det ud til, at der er et skybrud, der rammer nu?
+
+00:41:29
+Så er det nu, vi skal ud og gøre noget og spærre af.
+
+00:41:32
+Så det giver også to forskellige tilgange til beredskab.
+
+00:41:37
+Jeg har sådan en lille ønskeseddel i forhold til at arbejde på det her, fordi jeg synes, der er nogle...
+
+00:41:46
+Der er nogle opløsninger, nogle data, man mangler, hvor man kan sige, jamen der er jo rigtig mange data, vi har fået efterhånden, vi kan arbejde med, vi ikke kunne arbejde med for 10 år siden.
+
+00:41:56
+Det kunne være fedt med en opdateret oversigt over historiske stormfloder, med nyere stormfloder, også selvfølgelig i en digital form, så man ikke skal ned og sidde og lede i et eller andet dokument, men man kan trykke på, jeg vil gerne vide, hvad der er relevant for Frederik Sund eller et eller andet, Det samme med nedbørshændelser.
+
+00:42:18
+Jeg tror, man kunne lave en helt POD om at få fundet de her nedbørshændelser frem.
+
+00:42:23
+Det kunne være rigtig spændende at have samlet en oversigt over dem.
+
+00:42:30
+Der kunne helt sikkert også være brug for at få indsamlet yderligere data på lokalarkiverne.
+
+00:42:35
+Der ligger rigtig meget viden rundt omkring.
+
+00:42:39
+Så at få genbesøgt gentagelsesperioder for hændelser.
+
+00:42:43
+De steder, hvor det er relevant, hvor man kan se, at der er noget i forhold til de data, vi plejer at bruge, som afviger, hvis vi kigger historisk tilbage, eller hvis vi kigger på de her større skybryd, der har ramt Danmark, især de sidste 10 år.
+
+00:43:01
+Få lavet vejledning til borgere og virksomheder i forhold til, hvordan er det, man sikrer sig?
+
+00:43:06
+Hvordan er det, man får lavet en god barriere med sandsække?
+
+00:43:10
+Hvordan finder man ud af, hvor høj den er?
+
+00:43:13
+Og så en opdateret DAP-vejledning, det her dynamisk adaptiv klimatilpasning, der også tager højde for, at der er flere serviceniveauer.
+
+00:43:26
+Altså det her med, at der er noget, vi sikrer os til, og så er der de her niveauer af uacceptable skader, som ikke er det, vi ellers planlægger vores klimatilpasning efter.
+
+00:43:39
+Så tror jeg også, det er vigtigt, at de forsyningsselskaber, som ikke allerede er i gang, begynder at arbejde mere med at kigge ind i, hvordan de her stigende havvandstande kommer til at påvirke vores forsyning.
+
+00:43:59
+Der vil være en masse udløb, og man er allerede godt i gang mange steder, der i dag at gravitation, som skal pumpes i fremtiden, det her med at få lavet en plan for omtransligt.
+
+00:44:09
+Hvornår forventer vi, at vi skal til at etablere pumper?
+
+00:44:14
+På hvilket udløb?
+
+00:44:15
+Og det kan man også godt arbejde med strategisk.
+
+00:44:19
+F.eks.
+
+00:44:20
+hvis man har et område, f.eks.
+
+00:44:24
+der er et stort opland, det har det samme udløb, det løber ned ad en bakke, så kan det være de nederste huse, der om 30 år, ikke kan gravitere deres vand ud mere, men det kan alle resten af oplandet, der ligger højere op.
+
+00:44:40
+Det kan man jo godt begynde at arbejde med i sine spillevandsprojekter, om man skal begynde at dele nogle oplande op, så man har noget, der i fremtiden skal pumpes ud, det laveste, mens det andet kan få lov at gravitere ud.
+
+00:44:53
+Man kan også arbejde med at reducere antallet af udløb, hvor det er muligt, så man også reducerer antallet af fremtidige pumper.
+
+00:45:02
+I forhold til nyere kystnære områder, der handler det om, hvornår vi når dertil, hvor vi skal til at pumpe.
+
+00:45:11
+Der kan man arbejde med at holde vandet på terræn, hvor det er muligt, inden man leder det ud, for så går der længere tid, før vi skal til at pumpe det, end hvis vi smider det halvanden meter ned i røret, eller jorden i et rør.
+
+00:45:25
+Så vil jeg anbefale, at man arbejder med det her gap, også i forhold til forsyninger, fordi det kan noget, når man kigger ind i det her med stigende havvandstanden.
+
+00:45:40
+Så har jeg en række anbefalinger.
+
+00:45:45
+Det ene er, at vi er nødt til at forholde os til de her største skybrud og stormfloder og kigge på, hvordan det rammer os.
+
+00:45:57
+Vi skal have fokus på, hvad vi ikke kan acceptere, der sker, og så skal vi have det tænkt ind i diverse planer, når vi laver klimaanpassningsplaner, når vi laver risikostyringsplaner, beredskabsplaner, evakueringsplaner osv.
+
+00:46:12
+Også i lokalplaner.
+
+00:46:14
+Få tænkt ind det her ekstra service niveau.
+
+00:46:20
+Vi skal sørge for, at vi bruger de rette værktøjer, Det vil være en fordel at indtænke det i byudvikling.
+
+00:46:28
+Og så skal vi ikke lukke øjnene for det her, fordi det vil der nok være nogen i fremtiden, der kunne blive ked af, vi ikke har kigget på.
+
+00:46:38
+Jeg har udarbejdet en forslag til process for de her monsterskybrød og det samme for stormklodet.
+
+00:46:47
+Og det er meget af det her, vi har snakket igennem.
+
+00:46:49
+Finde ud af, hvad er det, der kan ramme os for korteligt lagt en repræsentativ større historisk hændelse.
+
+00:46:59
+Husk noget med klimaforandringer og klimafaktorer.
+
+00:47:03
+Find ud af, hvad der sker for den her hændelse, ikke kun hvad der bliver vådt dybden af det, og hvad er det, der konkret rammes.
+
+00:47:11
+Lav en liste over de her særlige risici, der er i området.
+
+00:47:16
+Det er ikke alle steder, der rammes af vand.
+
+00:47:18
+Det er der, hvor der virkelig sker noget, vi absolut ikke har lyst til, der sker.
+
+00:47:21
+Der står for eksempel to meter vand i gangtunnelen.
+
+00:47:24
+Det er ikke så rart.
+
+00:47:26
+Identificere, hvilke skader, der er uacceptable, og så få lavet en plan for, hvordan vi sikrer, at vi minimerer risikoen for det her absolut uacceptable, det sker.
+
+00:47:39
+Få det indarbejdet planerne.
+
+00:47:42
+For kort lagt, hvor det er relevant i forhold til at indtænke i fremtidige byudvikling, lokalplansarbejde osv.
+
+00:47:50
+Og så sørge for, at borgere og virksomheder har det vidensniveau, der skal til, til at reagere fornuftigt og sikre dem selv i sådan en situation.
+
+00:48:02
+Der er også en for stormfloder, og det minder meget om hinanden.
+
+00:48:07
+Så vil jeg gerne sige tak for i løbet og høre, om der er nogle spørgsmål.
+
+00:48:17
+Vi har lidt spørgsmål og lidt kommentar.
+
+00:48:21
+Jeg tror, vi starter med, at der er en, der spørger om, hvordan oplever I, at kunderne reagerer på, at man skal indbygge de her monsterhændelser i.
+
+00:48:31
+Deres planer?
+
+00:48:33
+I bund og grund er min oplevelse, at det i sidste ende er et politisk valg, Så det er jo i høj grad politikerne, man skal overbevise om, at hvis vi kigger fuldstændig bort fra det her, og det er noget, vi ved, der kan ramme os, så kan der altså ske et eller andet i jeres kommune, som I ikke ønsker skal på forstående ekstrabladet.
+
+00:49:07
+Så jeg tror i høj grad, det handler i høj grad om det her med at kunne kommunikere.
+
+00:49:16
+Hvad er det for nogen?
+
+00:49:17
+Altså det her med at få sagt, det er lige præcis det her, og det arbejder man jo også meget med i risikostyringsplaner.
+
+00:49:21
+Det er lige præcis det og det og det.
+
+00:49:24
+De her fire ting, der kan ske, der er særligt kritiske.
+
+00:49:29
+Og så få snakket ind i, om det er noget, man kan acceptere.
+
+00:49:34
+Der er jo ikke nogen, der er i tvivl om, at man får vådet til.
+
+00:49:37
+Så jeg synes, det er en ekstra vigtig hat at tage med.
+
+00:49:43
+Og det er jo selvfølgelig, at der vil være nogen, der synes, det er relevant, og der vil være nogen, der ikke synes, det er relevant.
+
+00:49:50
+Men for mig er det vigtigste i hvert fald, at man sikrer, at både dem, der sidder og arbejder med det her, at de arbejder på et oplyst grundlag.
+
+00:50:00
+At man har undersøgt, hvad det er, der sker, hvis sådan en hændelse sker.
+
+00:50:05
+Det samme er politikerne orienteret om det og har taget stilling til, om man vil gøre nogle tilsag i forhold til det, eller om man siger, at risikoen er så lille for det her, så det kan vi godt leve med.
+
+00:50:18
+Du talte lidt om flygtning og tilbagetrækning.
+
+00:50:23
+Hvornår er vi der, hvor vi begynder at diskutere det i større omfang.
+
+00:50:28
+Tænker du?
+
+00:50:28
+Ja.
+
+00:50:29
+Er der nogen, der har diskuteret allerede nu?
+
+00:50:33
+Ja, helt sikkert.
+
+00:50:34
+Jeg har også oplevet flere projekter, hvor man begynder at snakke om det her med tilbagetrækning.
+
+00:50:40
+Det er jo for det første de steder, hvor man kan sige, at det her med, at den generelle havvandsstand stiger, det kommer jo til at påvirke grundvandsspejlet.
+
+00:50:52
+Så man skal også være opmærksom på, at det ikke kun er grundvandsspejlet, følger med op, så i mange områder kan det også blive det, der bliver problemet kystenært.
+
+00:51:03
+Og der er ikke nogen, der har lyst til at gå rundt i gummistøler hver dag.
+
+00:51:08
+Jeg tror, man skal have fokus på det der med at også kigge på de...
+
+00:51:15
+Ligesom man skal kigge på monsterhændelserne, så skal man også kigge på de normale hændelser.
+
+00:51:19
+Altså hvad der indtræffer en gang om året.
+
+00:51:23
+og få vurderet, hvornår vi bliver nødt til at trække os tilbage.
+
+00:51:29
+Og så tror jeg, at man har nogle særlige historiske bygninger, hvor man siger, at hvis vi ikke kan sikre dem, dem vil vi rigtig gerne bevare.
+
+00:51:36
+Så kunne det være fornuftigt i god tid.
+
+00:51:39
+Hvis det er det, man vælger, at få flyttet dem lidt højere op på bakken.
+
+00:51:45
+Ellers tror jeg, at det der med at få lavet sin tilbagetrækningsstrategi, at begynde at kigge ind i det i byudvikling i forhold til, hvornår det vil...
+
+00:51:57
+Hvornår...
+
+00:51:59
+Altså, kig på sin by, og så sige, hvornår er det, vi forventer, at vi skal begynde at trække tilbage i nærmere 50 år, 100 år, 200 år.
+
+00:52:08
+Og så have det med ind i planlægningen.
+
+00:52:10
+Jeg tror, at hvis man ikke begynder at planlægge med det, så kan vi risikere, at vi får nogle bynære kystområder, hvor der står nogle forfaldne boliger osv.
+
+00:52:24
+Det der med, at vi hele tiden sikrer, at vi har en super attraktiv front til vandet.
+
+00:52:34
+Så har vi en kommentar fra Jonas fra DMI, der siger at de er i gang med at lave en digital oversigt over historiske hændelser Og den vil vi da gerne i DNNK i hvert fald præsentere, eller stille platformen til ordighed for, når I er klar til at publicere det Teknisk spørgsmål, skal vi i gang med en historisk hændelse?
+
+00:53:01
+Historisk data for eksempel 30 år med klimafaktor.
+
+00:53:03
+Får LTS beregning.
+
+00:53:06
+Gange de.
+
+00:53:10
+Historiske data for eksempel 30 år med klimafaktor får LTS beregning.
+
+00:53:15
+Hvad vi skal have en forklaring fra?
+
+00:53:23
+Ja, og det kender jeg godt, den der udfordring.
+
+00:53:28
+LTS-beregninger, det er de her regnserier over længere tid.
+
+00:53:34
+F.eks.
+
+00:53:34
+kan man tage sådan en regnmåler som herningregnserien, der har kørt i rigtig mange år, og så har man simpelthen styr på, hvor meget det har regnet hver eneste minut hele vejen tilbage.
+
+00:53:47
+Og så kan man køre de her langtidssimuleringer, typisk i sin Mike Urban-model, og se, hvor mange årløb man har på bassiner.
+
+00:53:56
+Der er en rigtig relevant dialog.
+
+00:53:59
+Hvad gør man der i forhold til klimafaktorer?
+
+00:54:02
+Hvis man nu har den her regnserie, der går 30 år tilbage, og man skal kigge ind i, hvordan kloaksystemet ser ud i fremtiden, skal der så ganges 1,4 eller 2 på det hele, fordi det er jo kun på 100-årshændelserne, der skal så høj klimafaktor på.
+
+00:54:22
+Det der er 5-årshændelser i den her langtidssimulering, der skal ikke en lige så høj klimafaktor på.
+
+00:54:32
+Så der er ikke bare sådan en, vi ganger 1,15 på, og så kører det bare derudad.
+
+00:54:40
+Jeg vil sige, at det går nok lidt an på, hvad det er, man skal bruge det til.
+
+00:54:48
+Den er svær at svare på generelt.
+
+00:54:53
+Godt, så bliver.
+
+00:54:55
+Der spurgt, om du kan sige lidt om, hvad der kræver ressourcer både for kommunen og for en rådgiver.
+
+00:55:02
+Ja.
+
+00:55:03
+For at lave sådan en plan for ekstreme vejrhandelser.
+
+00:55:06
+Der er jo det hele.
+
+00:55:07
+Træskulent.
+
+00:55:09
+Ja, for mig at se, er det en forholdsvis overskuelig om opgave.
+
+00:55:18
+Det jeg ville anbefale, det var, at man startede med at udvælge, hvad er det for nogle historiske hænde, som man vil se på, om det er stormflod eller skybrud.
+
+00:55:26
+Hvis det er stormflod, så kommer man ret langt med at sætte den her vandstand på Eskalgo, som jo ikke tager lang tid.
+
+00:55:35
+Se på, hvad der bliver oversvømmet.
+
+00:55:37
+få lavet nogle GIS-øvelser i forhold til, hvad det er for nogle dybder, og så på baggrunden det, få parret ud det her og her, få kigget på, altså man skal også holde det op mod, hvad er det så, vi har i området, så få udparret de her risikospots.
+
+00:55:55
+Så vil jeg anbefale, når man ligesom har fået lavet det her analysarbejde, at man får lavet en workshop, hvor man snakker om de her risici, og få kortlagt, hvad kan vi acceptere, og hvad kan vi ikke acceptere.
+
+00:56:07
+Og så har man ligesom første step, som er sin viden, som jeg tænker sådan, trods alt, altså hvis det er skybrud, så vil jeg lave de her 2FLOW-beregninger i Skalco, som jeg også vil sige er en forholdsvis overskuelig opgave.
+
+00:56:23
+Og så vil jeg sige, at step 1 i sådan en pakke, det ville være at få lavet den her analyse, få fundet ud af, Hvad er det, der er særligt kritisk?
+
+00:56:36
+Og så få lavet noget workshop, måske også inddrage politikerne i forhold til, hvad er det, vi kan acceptere, og hvad kan vi ikke acceptere?
+
+00:56:43
+Og ud af det, der udspringer sig en eller anden form for nogle projekter, om det er noget, Beredskabet skal arbejde videre med, eller hvad det er.
+
+00:56:52
+Det vil jo så afhænge af, hvad det er.
+
+00:56:54
+Så jeg vil helt klart anbefale at få lavet den der analyse del og få udpeget de særlige risici.
+
+00:57:06
+Så har vi et spørgsmål, der handler om skybruder, om der er en udfordring med forsyningssekretariatet, som ikke vil acceptere de høje scenarier.
+
+00:57:15
+Er det noget, du oplever?
+
+00:57:17
+Jamen, det vil jeg sige ja.
+
+00:57:20
+Det er der helt sikkert, fordi man kan også sige, når man begynder at arbejde med det her, med de ekstreme hendelser, så kan man begynde at snakke om, hvem er det så, der skal betale for det her.
+
+00:57:33
+Og som udgangspunkt, så De her monsterhændelser, dem betragter jeg ikke nødvendigvis som nogen, at det skal være bygget tiltag, måske i nogle helt særlige tilfælde, for eksempel at beskytte domkirken eller et eller andet.
+
+00:57:48
+At man har en eller anden port, der kan komme op, når der kommer et skybrud eller et eller andet.
+
+00:57:53
+Men ellers ser jeg dem mere som noget, hvor man arbejder med evakueringer og afspæringer.
+
+00:58:01
+Og så kan man sige, der hvor det bliver en udfordring, I forhold til det her med, hvis for eksempel man vil gå ind og klimasikre sit rentanlæg eller sin pumpestation osv., så der er helt sikkert en lovgivningsmæssig udfordring helt generelt i forhold til det her ønske med at klimasikre mere.
+
+00:58:23
+Godt.
+
+00:58:26
+Jeg tror, det er det, vi når.
+
+00:58:27
+Tak Charlotte.
+
+00:58:28
+Jeg vil bare lige sige.
+
+00:58:29
+At.
+
+00:58:29
+Du har nævnt et par ting undervejs.
+
+00:58:31
+Du har nævnt en digital swilling.
+
+00:58:32
+Det kommer der en TikTok om.
+
+00:58:34
+Jeg mener, invitationen er sendt ud til jer, så det er bare at melde sig til.
+
+00:58:38
+Der er nævnt højgrænsstatistikker, og det kommer der også et godmorgen med DNNK om i september måned med akustiaktualet.
+
+00:58:46
+Så ellers vil jeg bare sige tak for nu.
+
+00:58:48
+Tak til dig Charlotte, og tak fordi I lyttede og så med her.
+

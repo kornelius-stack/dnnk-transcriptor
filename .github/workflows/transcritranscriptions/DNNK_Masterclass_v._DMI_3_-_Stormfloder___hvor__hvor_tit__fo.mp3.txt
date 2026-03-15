@@ -1,0 +1,1227 @@
+00:00:06
+Hej allesammen og velkommen til den 3 del og sidste del af DNN k's og DMI masterclass i dag. Der kommer det til at handle om stormfloder, både hvor de sker hvor tit de sker og noget omkring forandringer, men Det har vi både Carsten og Martin som skal gå jer igennem det med jer det næste 1,5 times tid, så det håber vi bare på at i er klar til at have hentet jeres kaffe til og så.
+
+00:00:33
+Håber vi på, at i vil blive med helt til til sidst, fordi der vil vi meget gerne også lige få lidt feedback fra jer.
+
+00:00:41
+Som i jo kan tænke over løbende også for hele masterclæresten, og det skal vi nok komme til vende tilbage til, når vi når dertil. Men først så vil jeg bare give ordet videre til Martin først som.
+
+00:00:54
+Vil præsentere sig selv, og det vil Carsten også, når han kommer på.
+
+00:00:59
+Ja hej allesammen. Jeg hedder Martin Olesen og Jeg er kildeforsker på DMI på nationalcenter for klimaforskning og har arbejdet med regional klimamodellering i ja 15 år nu.
+
+00:01:14
+Og vil fortælle lidt om.
+
+00:01:17
+Havniveaustigninger og nogle af de modeller, der ligger bag det, og det vil jeg gøre sammen med Carsten alle ikke om om jeg lige skal blende rundt og du lige kan.
+
+00:01:25
+Kan se præsenterer dig også her, så vi lige ved, hvem der rydder en gang imellem.
+
+00:01:29
+Jo tak stembjerg også klimaforsker på DMI og med knap så lang. Jamen tak grecket som Martin.
+
+00:01:35
+Men jeg glæder mig til at møde. Jeg kan se Der er allerede et par kendte ansigter som er med, så det bliver forhåbentlig en god dag.
+
+00:01:43
+Yes Sådan lidt lavteknisk venner jeg lige skærmen igen.
+
+00:01:47
+Når jeg nu sætter min præsentation i gang lige om lidt, så kan jeg ikke rigtig se jer derude, og vi vil egentlig gerne have nogen ja spørgsmål Sådan undervejs, hvis Der er et eller andet i gerne vil have uddybet eller noget i ikke forstår, så så skriv endelig i chatten. Ja eller rækken hånden op, så kan Carsten her ved siden af holde øje med at at Der er noget aktivitet der, og så tager vi det Sådan.
+
+00:02:11
+Undervejs derudaf så nu vil jeg lige starte med at dele skærmen.
+
+00:02:18
+I vindue dette vindue bum.
+
+00:02:26
+Der.
+
+00:02:32
+Så.
+
+00:02:35
+Starter min præsentation her.
+
+00:02:39
+Stormflod og som sagt Det er Carsten og jeg der vil trække jer igennem stormfloderne i med fokus på Danmark primært.
+
+00:02:50
+Det er den her. I har jo været en en del igennem de 2 foregående masterclasses og og som i ved, så er vi jo og ved fra andre steder, så er vi jo i gang med at at hæve Vores globale middeltemperatur.
+
+00:03:04
+Stille og roligt derudaf og stille og roligt. Det kan man sige for den første del af den her kurve, som i kan se nu fra 18. Tresserne og frem til nittentresserne.
+
+00:03:14
+Og så Sådan mere accelererende frem mod i dag.
+
+00:03:18
+Og hvorfor? Hvorfor overhovedet vise den her kurve når vi når vi snakker havnebogstigninger og stormflod?
+
+00:03:25
+Det er selvfølgelig fordi.
+
+00:03:27
+At altså den globale millille temperatur i sig selv er jo ikke Sådan specielt interessant. Altså at temperaturen nu foreløbig er steget op mod 1,5 grad er jo ikke så imponerende i forhold til at vi sidste for for et par uger siden havde et temperaturhop fra minus 10 til plus 16 grader over en enkelt dag. Det er jo så 26 grader fra den ene dag til den 2.
+
+00:03:49
+Men når det så alligevel er vigtigt, så er det fordi at at når man globalt set.
+
+00:03:53
+Hæver temperaturen, så hæver man simpelthen.
+
+00:03:56
+Ja det generelle energiniveau og man går ind og og og påvirker og virker ved ved hele vejrsystemet, og Det har nogle ret så markante og voldsomme konsekvenser. Og meget af Det er virkelig noget, man kan tage og føle på.
+
+00:04:10
+Jeg var ude at holde en en præsentation for en gymnasieklasse, og vi kom frem til det her. Ja altså bære over med skrift type hernede sagt håndskrift og så videre, men det kom frem til 1 1 en et diagram der ser Sådan her ud, hvor man kan se.
+
+00:04:31
+Der hvor det hele startede. Det er med en en øget mængde CO 2 eller drivhusgas i atmosfæren, og det går ind og ændrer temperaturen, som vi lige har set her med en.
+
+00:04:40
+Foreløbig stigning på 1,5 grad, men den her temperaturstigning.
+
+00:04:45
+Den fører en helt masse andre ting med sig. Nu var det jo en en gymnasieklasse der der der Sådan brainstormmede frit fra leveren og alt hvad der står her, er Sådan set rigtigt. Altså en højere temperatur.
+
+00:04:55
+Det gør et havisen bliver mindre der. Det gør så at alberedoen den den ændrer sig, så vi går fra at have en meget lys overflade til en meget mørk overflade og der absorberes mere, og det giver så en feedback mekanisme til temperaturen og så videre.
+
+00:05:10
+Der er færre skibakker. Det er jo det her med Det var en gymnasieklasse, så er der også et særligt fokus på Sådan nogle ting. Måske.
+
+00:05:16
+Men der hvor det bliver interessant for os.
+
+00:05:18
+Det er hvis vi går over mod højre her, hvor vi siger temperaturen. Det giver noget varmt vand, og det ændrer havniveauet, og det ændrer forekomsten af stormfloder, og Der er også, hvis man går lidt ned fra temperaturen her, så er der nogle iskapper, der smelter, og det giver også noget.
+
+00:05:33
+Så Det er Sådan set den her den højre. Hvad kan man sige den sydøstlige del af af af kortet her vi vi kommer til at kigge på i dag.
+
+00:05:46
+Vejret i Danmark har så også forandret sig. En ting er jo, at vi kigger på det globale billede, som vi som vil lade ud med. Vi kan også kigge på vejret på Vores egne breddegrader.
+
+00:05:58
+Det her, Det er et billede af.
+
+00:06:00
+Parken lige bag ved vigerslev eller Det er åen i vigerslev parken syd for København.
+
+00:06:08
+Sidste år i november, hvor Det er Sådan en lille sidehistorie, men hvor hvor vi havde 1 1 1 stormflod noget der man kunne kalde en stille stormflod. Det kommer jeg tilbage til kombineret med med meget regnvand og Ballerup opstrøms fra haustrup å og det gav Sådan i sig selv nogle problemer her.
+
+00:06:26
+Men hvad i Danmark kunne forandre sig altså ligesom ligesom det globale gennemsnit.
+
+00:06:32
+Så har vi.
+
+00:06:35
+Oplevet en temperaturstigning Det har jeg sikkert også hørt før man kan, hvis vi arbejder, når vi snakker om vejr i forhold til klima, så og særligt når Det er på meget lokal skala som Danmark jo er, så skal vi op på Sådan nogle 30 års perioder for at Sådan rigtig kunne se at det at klimaet Der er under forandring og ikke bare en en over til år variation eller en en særlig kold periode som så modsvares af en varm periode et andet sted eller modsat, så Vi skal op på 30 år for at virke på at det vi registrerer Det er Sådan egentligt klimasignal.
+
+00:07:04
+Og ikke bare.
+
+00:07:06
+Det er ikke bare mærk, men opvarmningen. Den giver jo så anledning til til mere regn.
+
+00:07:12
+Der har vi også observeret 1 1 1 1 svag stigning altså temperaturen er steget 1,5 grad også på Vores breddegrader og mængden af nedbør er også steget i en cirka 15% i den tid Vi har målt. Der er så meget støj, fordi det varierer meget fra år til år.
+
+00:07:28
+Derudaf sidste år. Ja, Det var så iøvrigt et rekordår.
+
+00:07:33
+Men det, Der er så særligt interessant. Det er jo at havet omkring Danmark det stiger lidt ligesom det gør globalt, og vi kan lægge ud med med Sådan en lille oversigt her over, hvad der egentlig for havnebudet til at stige. Og det der.
+
+00:07:49
+Det er der flere bidrag til den første og.
+
+00:07:54
+Første vigtige det første vigtige bidrag. Det er simpelthen, at temperaturen stiger og ånder vand. Det bliver varmere.
+
+00:08:01
+Så udvider det sig, og når vandet udvider sig. Ja, så Det er klart hvis man har vand i et glas og det udvider sig, så så står der højre II glasset og det det gør havniveauet også. Så står der højre oppe langs kysterne rundt omkring.
+
+00:08:13
+Så bare det faktum at vi varmer vandet op. Det giver os en havneudstilling, så skal vi så lægge, at alt det is der ligger på land.
+
+00:08:24
+Som smelter den løber i vandet, så når.
+
+00:08:27
+Isen i Grønland på Grønlands indlandsis eller på antarktis eller på i alperne og andre steder, når det smelter og løber i vandet, så giver det simpelthen anledning til en direkte.
+
+00:08:40
+Her og nu.
+
+00:08:41
+Menstand stigning.
+
+00:08:43
+Der er så Sådan 1 1 1 lille finurlig.
+
+00:08:47
+Ting vi vi lige præcis de her.
+
+00:08:51
+Smeltende gletscher fordi hvis vi tager.
+
+00:08:54
+Iskappen i Grønland og smelter den, hvis jeg nu forestiller os, at vi smelter hele iskappen altså den er jo 3 km tyk, og hvis vi smelter hele molevitten så så så giver det op mod 1 6 7 meters vandstandsstigning globalt set.
+
+00:09:08
+Men, Der er lige den lille detalje, at hvis vi smelter hele indlandsisen, så mister vi en hel del tyngdekraft masser af tiltrækning op ved nordpolen, og det betyder, at den is der smelter der den rydder faktisk ned på sydpolen og giver problemer dernede.
+
+00:09:23
+Det kan man så sige Det er heldigt for for os på Vores breddegrader at at den is der smelter i Grønland egentlig ikke giver havnemusstigninger for os omkring Danmark. Omvendt forholder det sig desværre med antarktis. Den iskappe, der ligger på land, der den i sig selv, hvis man smelter det hele.
+
+00:09:40
+Det skal jeg huske at sige det. Det sker jo ikke lige i løbet af de næste århundreder, men hvis man kunne smelte det hele, så ville de give op mod en 60 cirka meters havnudstigning noget mere.
+
+00:09:52
+Og det der ligger dernede hvis man fjerner det jamen så mister man så en masse tiltrækning i den ende af jordkloden, og det giver så tilsvarende problemer hos os. Så hvad der smelter på anarktis. Det ryger op på den nordlige halvkugle, og hvad der smelter i Grønland ryger ned på den sydlige, og hvis det smelter lige meget jamen så fordeler det sig Sådan set bare lidt jævnpude over det hele.
+
+00:10:15
+En en den sidste detalje, den det sidste bidrag til havniveau ændringer, skal jeg så sige?
+
+00:10:23
+Det er det vi kalder landhabing. Det er illustreret med den her gamle vægt, altså landhaven.
+
+00:10:30
+Der har vi i Danmark som Sådan et response på sidste istid, blandt andet altså efter sidste istid, som var godt 11.000 år siden cirka 11.000 år siden der.
+
+00:10:43
+Den den massive isklump der lå på Vores på Vores i Vores gård, der trykkede trykkede ned i Vores på Vores del af af jordpladen der og efter den smeltede og trak sig tilbage, så har der været Sådan en en tilbagejustering, så landet langsomt har hævet sig siden.
+
+00:11:05
+Dengang, og Det er et par millimeter om året Sådan i gennemsnit over landet.
+
+00:11:11
+Der kan man Jeg har lige et kort her du viser det ude til højre her. Der kan man se hvordan landhvævningen er, er er foregået eller er foregået her og nu.
+
+00:11:22
+Efter den sidste istid og det det her. Det er et en meget en dugfrisk kurve.
+
+00:11:28
+Med helt opdateret tal, fordi at man har justeret, hvor hvor meget landet hæver sig og og den her nullinje. Den lå engang lidt nordligere II Danmark så som man sagde tidligere, at en del af Danmark faktisk ikke hævede sig.
+
+00:11:41
+Hvorimod Skagen hæver sig en en her del af 2 3 mm om året.
+
+00:11:46
+Nu ligger nullinjen syd for Danmark, så hele landet hæver sig efter sidste istid dog mest i den nordlige del.
+
+00:11:54
+Der er også et andet bidrag til, altså et mere nutidigt bidrag til den her landhævning, og Det er jo at at at Grønland jo mister Netto masse år efter år og og det giver Sådan 1 1 1 Sådan en hvad kan man sige en elastisk.
+
+00:12:12
+Effektisk effekt af at.
+
+00:12:15
+At at landet hæver sig yderligere, at det, at det bidrager.
+
+00:12:20
+Herovre til Venstre. Der kan man så se, at Der er noget tilføjet vand fra fra iskapper til den blå linje, og Der er en varmekspantion. Det er den røde linje og de 2 bidrager tilsammen det giver simpelthen havniveau stigning, som man har målt.
+
+00:12:44
+Man har målt havniveaustigningerne med satellitter siden starten af halvfemserne og frem til i dag og.
+
+00:12:53
+Ja, Der er jo så mange. Der er mange informationer i det her kort blandt andet så så kan man hvis man Sådan knipper øjnene sammen, så kan man se en en svagt Sådan eksponentiel stigning. Det er ikke bare en ret linje der der udgør den her røde linje her.
+
+00:13:10
+Og kigger man på de sidste den sidste, hvad kan man sige grønne linje her så den den nuværende stigningsrate så så stiger vandet globalt cirka.
+
+00:13:21
+0,42 cm om året.
+
+00:13:24
+Og det seneste det seneste år, og der har den så steget 0,7 altså mere end 0,5 cm.
+
+00:13:31
+0,76 cm men.
+
+00:13:34
+Og altså man man gør også det Sådan også. 1 1 1 lille detalje at man man kan jo se at Der er en en ordentlig variation i.
+
+00:13:43
+I havløsstigningen her, og den hænger den hænger jo sammen med den den permiske ekspansion. Altså at temperaturen den den den kører jo op og ned med en med en årlig cyklus derudaf. Og så kan man se nogle år, Der er det meget varmt og andre år, Der er det ikke Der er det knapt så varmt.
+
+00:14:00
+Og at vi lige præcis har en en høj rate her fra 23 hænger jo så sammen med med helenius som jeg kommer tilbage til.
+
+00:14:11
+Man kan så se her altså Vi har det. Det er cirka Det er 5 satellitter der Sådan overtager hinanden her fra starten og frem mod i dag som har målt overfladens havniveau globalt set.
+
+00:14:25
+Og Det er jo Det er jo et lukket system globalt set altså altså selvfølgelig kommer der noget til fra fra iskarberne men men Det er ikke Sådan at at vandet kan gemme sig nogen steder. Det er mere tilfældet, når man måler. Vi måler jo også havniveau i Danmark.
+
+00:14:41
+Jeg har bare taget en kurve med her som som viser en flot stigning. Jeg kunne også have taget en kurve med, som faktisk ikke rigtigt viser nogen stigning i Danmark, og og det Der er tydeligt ved Sådan 1 1 1 kurve her Det er hvad hedder det vandstandsstigninger også i.
+
+00:14:56
+Centimeter.
+
+00:14:59
+Fra fra Esbjerg målt fra 1900 tallet og så til i dag, og Det er jo helt tydeligt, at Der er en en hel del støj på det her. Altså de her prikker. Her ligger ikke flot på på den her regressionslinje, som som er tegnet som Sådan en 2.
+
+00:15:16
+Ordensregression men altså, men Det er dog en en stigning man kan se de.
+
+00:15:23
+De høje.
+
+00:15:26
+Vandstanden ligger tættest på nutiden, og de de lave ligger ligger typisk mange år tilbage.
+
+00:15:34
+Men altså når Det er når Det er et mere mudret billede for Sådan en helt lokal måler, så er det jo fordi at at vandet det det det flyder rundt omkring sig, så når Der er målt meget vand over en periode et sted og måske ikke så meget andet sted, så er det fordi at at de her vandmasser de de er jo de bevæger sig jo rundt.
+
+00:15:54
+Og kan kan kan man sige så at sige gemme sig nogle steder, hvor de så ikke bliver altså opfattet i på esbjergmåleren eller eller gedsermåleren, eller hvor man har et mål stående. Det er jo ikke tilfældet for det globale.
+
+00:16:07
+Hav og det globale oceaner de.
+
+00:16:11
+De bliver Sådan fanget lidt af af satitterne.
+
+00:16:14
+Ja.
+
+00:16:21
+Vejret generelt har jeg været inde på, men det hele hænger sammen, og Jeg har lyst til lige at fiske lidt tilbage. II det år vi lige har afsluttet for at at at understrege.
+
+00:16:35
+Den tid vi vi Vi er i lige nu og her altså 2023 og og og 2024 og og hvilke vejrhændelser der der rammer os her.
+
+00:16:47
+Fordi normalt når når når vi holder holder oplæg om klimaforandringer, havniveaustigninger og andre forandringer med nedbør og temperatur, så skal vi normalt tilbage i et årti eller 2 og finde de Sådan mest exceptionelle vejrhændelser, men lige præcis i år der behøver vi ikke at gøre andet end bare at kigge på 2023, fordi Det var et et ret vildt overrekordmæssigt.
+
+00:17:13
+Vi var ikke. Vi var ikke rigtig gået i gang med året 1. Januar.
+
+00:17:18
+Der stod vi med den første.
+
+00:17:20
+Rekord altså der havde vi den varmeste januardag nogensinde målt i dansk vejrhistorie. Det vil sige helt tilbage til 18. 73.
+
+00:17:30
+Så Det var Det var en brat opvågning fra det her nytårsmål, og Vi har ikke.
+
+00:17:37
+Vi skal bare lige have afsluttet i januar måned, så kunne vi konstatere, at vi havde den vådeste januar måned.
+
+00:17:42
+Nogensinde er registreret med 124 mm nedbør henover hele måneden, og så havde vi så den den den mest solrige juni måned, og Det er jo så noget af det der, der går ind og påvirker havniveauet med med med ekstra meget indstråling Sådan lokalt, hvor det hvor det foregår.
+
+00:18:04
+Påvirker det i hvert fald temperaturen.
+
+00:18:07
+Efter juni, hvor man var klar på til at gå på sommerferie, så kom så juli måned den populære sommerferiemålet, som så slog over fuldstændig og blev den vådeste juli måned nogensinde registreret der 140 mm nedbør.
+
+00:18:23
+Og.
+
+00:18:26
+Så kom september som den varmeste september måned nogensinde målt. Der kan man se hvordan.
+
+00:18:32
+30 års gennemsnit stille og roligt er stigende der ud af Sådan lidt op og nedture dog og så med et en rekord der. Sådan ligger pænt højt i forhold til de de foregående.
+
+00:18:47
+Så i november havde vi en ny døgnrakort i nedbør ude ved tårnby, og så sluttede det hele året af, som jeg allerede har nævnt med at at slå Vores årsrekord eller rekord for årsnedbør II Danmark. Og også hvad kan man sige med længder? Altså med med en hel del millimeter ned til ned til de 2 tredjepladsen tilbage i tiden, så Det er et år, hvor Der er sket rigtig meget, og så kommer vi så til det, Der er relevant nu her.
+
+00:19:15
+I den her forbindelse. Det er jo vi havde så også i den 20. 21.
+
+00:19:19
+Oktober 100 stormflod i de indre danske farvande.
+
+00:19:23
+Og Det var Sådan en.
+
+00:19:25
+Ja, så havde vi også stormende ortur piger henover juletid, som som lavede bøvl med med juletrafikken der og op til jul. Men men hvis vi lige.
+
+00:19:36
+Taler lidt ved ved stormfloden der den 20. 21. Oktober, så var det Sådan en en stormflod, som altså normalt.
+
+00:19:43
+Så har vi de her stormfloder der der skyldes et en storm, simpelthen at Det er kraftigt blæsevejr. Der er et meget et dybt lavtryk II nærheden, som som giver storm der presser vand langt op af kysten.
+
+00:19:58
+Og ind over land det giver en stormflod. Når vi så over et vist niveau, så kalder vi det en stormflod en en typisk en type årsendelse og der hvor vi starter. Men det her Det var en 2 slags stormflod altså Det var Det var ikke.
+
+00:20:13
+Det var ikke Sådan den hårde storm, der bare stuvede vand op langs kysten. Det var mere end en konsekvens af en et længerevarende blæsevejr fra fra nordvest, der ligesom har presset vand ned igennem Kattegat og de ældre danske farvan.
+
+00:20:29
+Og rundt om Bornholm og Sverige oppe i Østersøen, så har det ligget der i noget tid.
+
+00:20:36
+Hvor så vinden den vender, og så er der så opstået 1 1 1 1 hvad kan man sige unaturligt høj vandstand inde i Østersøen og Det er jo et. Det er jo et stort område, så så en Der er en lille forhøjet vandstand derinde.
+
+00:20:51
+Giver jo mange kubikmeter som nå, så det her tryk af vand fra en en vestlig vindretning ophører, fordi vinden enten forsvinder eller fordi at lavtrykket driver videre. Og så lige pludselig så bliver man ramt af den tilsvarende østenvind i det samme.
+
+00:21:05
+Omkring det samme lavtryk jamen så bliver vandet hjulpet ud igen, og så skal det forbi.
+
+00:21:11
+Alle de der lidt snævre danske stræder, og Der er simpelthen ikke plads nok til at få få vandet igennem, og så stiger det som en altså i det her tilfælde 100 års stormflod, og det gør det faktisk uden at der behøver at være specielt kraftigt blæsevejr forbundet med det.
+
+00:21:27
+Så Det er det vi kalder en en stille stormflod.
+
+00:21:31
+Modsat en hvad kan man sige en mere almindelig stormflod, hvor Der er storm, som der også ligger i ordet?
+
+00:21:41
+Så kan man spørge, hvorfor ser vi så de her rekorder netop nu, fordi Vi har jo på det allerførste kort eller er det allerførste plot jeg viste med den globale middeltemperatur? Der kunne man se at temperaturen flyver op og ned.
+
+00:21:54
+Fra år til år og så en generel stigning, så hvorfor er det lige præcis nu, at vi en hel masse rekorder, og Det er der en rigtig god grund til, og der skal vi nemlig kigge ned i havet og kigge på den.
+
+00:22:05
+Det samspil, Der er mellem havet og atmosfæren, som foregår II stillehavet, og Det kan man så se herud for Sydamerika lige midt i kortet her. Der kan man se en temperatur animal i det står på hvad hedder det. Den her collage herude II højre side at der har vi usædvanlig varm overflade temperatur.
+
+00:22:29
+Og Det er det vi kalder elinju, og når så stort et område er usædvanligt varmt, så har det stor indflydelse på på hele vejrsystemet og hele atmosfæren og versystemet globalt.
+
+00:22:41
+En 2 ting når man nu har det her kort fremme.
+
+00:22:45
+Så kan man så kan man se at at Der er også foregået noget II nordatlanten, så her har vi også ekstra varmt og og meget varmere end end end end man normalt har i det her område.
+
+00:23:01
+Og det altså sammen med det andet sammen med med en linje, så er det jo noget af det Der er med til at at sætte sætte skub i den hektologiske cyklus, så vi.
+
+00:23:11
+Så vi får mere.
+
+00:23:13
+Bekræft kraftig og nedbørhændelse blandt andet altså. Der er jo den sammenhæng mellem temperatur og og nedbør, at der kan. Atmosfæren kan indeholde cirka 7% mere vanddamp per grad, man varmer op, når man så varmer op.
+
+00:23:26
+Jamen så den 1,5 grad vi alle har allerede har nu, og når havet så oven i købet er varmere, så der der opstår en en kraftigere fordampning, så er der bare sat ekstra skub på og og vi får de her.
+
+00:23:39
+Rekorder.
+
+00:23:41
+Så Det er altså. Det er altså her man skal finde svaret på nogle af de her ting, vi vi oplever her nu.
+
+00:23:47
+Hvis man lige tænker spoler 5 minutter tilbage, hvor jeg gennemgik de her rekorder vi havde i Danmark, så kunne man jo godt se at man på den ene side havde nogle nedbør rekorder, og så havde man nogle varmerekorder og så nogle flere nedrekorder. Og så nåede man noget sol og varme, nogle blokeringer og så videre. Og så kom så den her stormflod også altså så Det er Sådan en alle de her ting de går hånd i hånd og.
+
+00:24:12
+Og spiller sammen og.
+
+00:24:14
+Ikke fordi at der skal være Sådan en vekselvirkning mellem en varme og i kuffert og en nedbør, rekord eller en stormflod, så er det bare altså det varmere vejr. Det er bare en katalysator for at ting kommer til at at køre hurtigere.
+
+00:24:29
+Og og kraftigere.
+
+00:24:31
+Man kan se her, hvordan den her. Det er jo det, vi kalder den en linje på kortet her. Det er kraftige en linje Vi har her i 3.
+
+00:24:37
+24, og der kan man se hvordan en linje fra 1982 og frem til i dag har været kraftigt positiv, og så har man den den negative fase, som hedder la linja, altså hvor hvor man kan sige overflade vand vandtemperaturen ud for.
+
+00:24:53
+Ud fra hvad hedder det? Sønderikas vestkyst er er lavere end normalt. Det er så det, vi kalder en landlinje og så hedder.
+
+00:25:01
+Kommer der en linje og en land linje. Det overtager og afløser hinanden derudaf med Sådan lidt varierende.
+
+00:25:08
+Periode imellem.
+
+00:25:10
+Og der kan man se her til sidst. Der er vi ude i en i en i en kraftig linje, som har givet anledning til det her. Og sidste gang vi havde en kraftig ninue.
+
+00:25:18
+Det var der II 16, hvor hvor vi også havde en hel del rekorder, og hvis vi så lige kigger på kortet igen fra før, så kan man godt se. Og Det er jo ikke fordi Der er fuldstændig sammenfald mellem at Vi har 1 1 1 Sådan peak II, global temperatur og en linje, men alligevel så kan man godt se at at Der er noget.
+
+00:25:39
+De her og små op og nedture her. Det er det vi kalder de naturlige variationer og en stor del af dem.
+
+00:25:43
+Kan tilskrives en linje jo her så man kan Sådan tage det her og lægge over i og så kan så kan man Sådan forklare hvorfor, hvorfor det kører op og ned, hvor hvor imod den generelle stigning her. Det er jo så bare eller bare, men Det er jo så på grund af den øgede koncentration af strivhedsplads, som giver Sådan en en mere jævn stigning II temperatur.
+
+00:26:03
+Bare lige for at at at se på den seneste.
+
+00:26:08
+Måling af den globale overflade, temperatur II, havet.
+
+00:26:14
+Så så her den 1. december. Der ligger vi der ligger vi stadigvæk meget, meget højt efter den sidste ellinje som Sådan er vejret og dø ud stille og roligt.
+
+00:26:25
+Den.
+
+00:26:26
+2024 var 1 1 1 rekordår.
+
+00:26:31
+Sludder 2023 var et rekordår.
+
+00:26:35
+Starten af Sådan i den øvre del af af normal temperaturen, altså normal. Temperaturen er Sådan gennemsnittet af de her.
+
+00:26:44
+Alle de år, Der er målt fra 91-20, 20 altså 30 år. Der er 30 forskellige Sådan spaghetti kurver her.
+
+00:26:54
+Og og og gennemsnittet. Det er så den stiple linje her, og der kan man se i 23, der der begynder vi i april måned at at stikke af fra fra den tidligere rekord og ligge meget, meget højt, og den den rekord fortsætter så ind i 24, som så viste sig at være nu også. Altså inden at at året er slut, kan vi godt konkludere allerede at at Vi har med en.
+
+00:27:18
+Ja, det vil jeg sige.
+
+00:27:19
+En en ny rekord at gøre når vi snakker overflade.
+
+00:27:22
+Temperatur i havet.
+
+00:27:25
+Man kan måske også lige kigge lidt på de her altså. Det har jo en lidt særlig hvis man kigger hvis man laver den samme måling for.
+
+00:27:34
+For hvad hedder det atmosanstemperatur, så vil man se Sådan mere end noget der ligner en normalfordeling, altså hvor temperaturen peaker Sådan omkring sommer globalt set på den altså sommer på den nordlige halvkugle og så kører ned igen fordi at Der er mere land på den nordlige halvkugle end end på den sydlige halvkugle så.
+
+00:27:52
+Så varmer kloden gennemsnitligt mere op om sommeren i forhold til om vinteren, men for havniveauet her. Der er det Sådan lidt anderledes eller slet ikke havnniveauet for havtemperaturen er et lidt anderledes. Det har man nærmest Sådan 2 2 små peaks og den ene den ene.
+
+00:28:09
+Det er Sådan en en forsinkelse af af høje lufttetemperaturer, som Sådan er globalt.
+
+00:28:17
+Udbredt og det og den 2. Det er Sådan mere den direkte.
+
+00:28:21
+Indstråling på den sydlige halvkugle, fordi hvis man tager jordkloden og kigger direkte fra antarktis altså ned på sydpolen, så er der jo bare meget mere hav der end Der er, hvis man gør det tilsvarende for nord, så så Der er en større del af, der kan blive varmet op og giver den her den første peak. Så Det er Sådan lidt en sjov detalje her.
+
+00:28:44
+Så vi.
+
+00:28:45
+Man kan se have om, at Vi har.
+
+00:28:49
+Ja okay, nu behøver jeg ikke gå hele vejen tilbage. II har forstået Jeg er sikker på at Vi har målt en forhøjet vandstand II Danmark og det er simpelthen gennemsnittet gennemsnitsvandstanden og Det er når man tager tager hvad hedder det? De daglige variationer ud af vandstanden og også de månedlige og og ugentlige så vidt Det er muligt.
+
+00:29:09
+Det Jeg har vist her. Det er altså at man går fra når man har en vandmåler i for eksempel Esbjerg eller det her. Det er så et billede af Sønderborg for eksempel, så måler den jo den daglige vandstand, og der har vi jo.
+
+00:29:23
+Først tidevandet.
+
+00:29:24
+Og tidevandet det det kører jo op og ned Sådan Sådan cirka 2 gange II døgnet altså Vi har højrevande 2 gange i døgnet. Det kan man se her det her Det er så skal det tilbage igen det her Det er så den.
+
+00:29:38
+Den første altså den 3. januar, tror jeg Det er der. Har vi højvande på cirka 18 cm om morgenen, og så har vi igen ved sekstiden om aftenen på 24 cm og så har vi så lavvande som er de her minus 19 indimellem.
+
+00:29:53
+Så det kører op og ned, og Det er jo altså Det er jo.
+
+00:29:57
+Hvis vi lige skal knytte et par ord til det, så er det jo månens tiltrækning i havet. Det er der jo ikke. Det er der ikke nogen der, Der er i tvivl om, tænker jeg.
+
+00:30:03
+Men det der med at man har 2.
+
+00:30:06
+Højvande og 2 lavvande. Det er jo så fordi man skal.
+
+00:30:09
+Man skal se månen og og jorden som Sådan 2 2 masser II universet der danser lidt omkring hinanden og og Sådan slynger hinanden rundt, så når.
+
+00:30:20
+Så Der er Sådan flere kræfter der påvirker vandet på jorden. Der er den her centrifugal eller her centrifugalkraften, der ligesom hiver vandet væk fra fra den her dansende det her dansende centrum her altså væk fra fra månen.
+
+00:30:36
+Og så er der så selve tiltrækningskraften fra månen, så de 2 modsatrettede kræfter de de gør så at Der er højre højvande og lavvande 2 gange i et i et punkt om i døgnet.
+
+00:30:51
+Men derfra, så skal vi så op på de her forhøjede vandstande, og Der er så flere ting, der gør sig gældende der. Når vi snakker forhøjet vandstand.
+
+00:30:59
+For det første så altså Vi har jo tidelandet og, og der kan jo så også sige at altså en ting er jo at månen trækker i vand og man ikke når solen jo også ikke engen er så meget, men men dog lidt. Og hvis månen og solen står ud for hinanden, altså hvis Det er fuldmågen eller ny måned, så har vi det vi kalder springflod og så og så er tidevandet ekstra.
+
+00:31:19
+Kraftigt.
+
+00:31:22
+Så har vi så alt Vores vejr, det vil sige vind og tryk, og som så går ind og og påvirker og så er der noget og så er der noget hukommelse III havet også altså det vil sige.
+
+00:31:36
+Vi har for eksempel oven i sidedannelse. Har vi noget blæsevejr, der presser vand i en bestemt retning og giver forhøjet vandstand?
+
+00:31:43
+Så er det så vi kommer ud II Sådan noget med en en etårs hændelse eller en tiårs hændelse afhængigt af hvor høj den her vandstand står. Altså det vil sige hvor kraftig en vind påvirker. Der er også noget med noget tryk, hvis Der er et højtryk i, så så har det helst til at fjerne vand fra fra området.
+
+00:31:57
+Hvis Der er et lavtryk, så trækker det så også vand til.
+
+00:32:01
+Og så er der så er der den sidste som så har noget at gøre med de lidt mere stille stormfloder altså der ligger også noget hukommelse i har man lagt nogle store vandmasser et eller andet sted der skal tilbage igen.
+
+00:32:12
+Og måske bliver hjulpet tilbage, at blæsevejr jamen så så giver det så anledning til Ekstra ekstra forhøjet vandstand.
+
+00:32:20
+Det her, Det er en kurve taget fra højvandsstatistikker 2024 og i kommer til at kigge lidt mere på det, når når Karsten tager jer igennem en en lille øvelse senere. Men Det er så Det kan godt betale sig lige at at spidse ører nu. Det bliver det bliver gentaget også, men Det er simpelthen middel vandstanden man kan se op af.
+
+00:32:44
+Y aksen her, altså 100 cm forhøjet vandstand, 150 cm 200 og så videre forhøjet vandstand. Altså hvis man kan se højre lavvande. Det er cirka 20 cm her fra det her område.
+
+00:32:55
+Det er Vejle.
+
+00:32:58
+Så der skal lidt ekstra til for at få den op på 100 og 150 og man kan også se hernede på gentagelsesperioder. Det vil sige år altså hvor mange gange.
+
+00:33:08
+Går der mellem, at Vi har for eksempel lad os sige 150 cm forhøjet vandstand. Der skal vi helt herud og finde kurven herude. Jamen der går 10 år imellem.
+
+00:33:17
+Så man kan sige Det er en 10 års hændelse at Vi har 150.
+
+00:33:22
+Hvad hedder det centimeter ekstra eller forhøjet vandstand II Vejle.
+
+00:33:26
+Og en Det er jo en logritisk skale her nederst, så Vi har en et års gentagelse, og så har vi en 10 års gentagelse og en hundreårs gentagelse. Alle de sorte prikker. Det er målinger.
+
+00:33:37
+Det er Sådan man har registreret.
+
+00:33:41
+Hvor ofte man har registreret de her vandstande her og der kan man se, hvis man så fitter en kurve til de her målinger, så får man den her røde kurve som som er som kan også ekstra polere lidt der ud af.
+
+00:33:56
+Og der kan man også gå ind og aflæse på den røde kurve at 100 årsendelse jamen den den forekommer at den den den har en vandstand svarer til cirka 180 cm eller Sådan noget.
+
+00:34:09
+Ja man kan gå ind og hente de her for hver havn inde i højlandsstatistikker. Der er et link hernede, så man kan følge og så går ind og hente dag, så Det er altså vi går fra daglig tidevand og så til til noget der rækker ud over altså det her. Det vil så være halve år og så er det så ned på måneds niveau altså forhøjet vandstand og så helt op til.
+
+00:34:32
+En tiårs endelse en tyveårs endelse en tårsendelsen ligger her.
+
+00:34:36
+Halvtredsersendelsen og så 100 årsendelse, så kan man gå helt ud til en ja 10.000 års endelse. Det er også noget af det vi Der er. Man så ikke så meget data længere.
+
+00:34:44
+Det er klart, for der går længere og længere tid imellem man observere det, men så kan man så estragere de her kurver ud, og Det er så det, man har gjort i klimaatlas blandt andet for at at komme med estimater af det.
+
+00:34:56
+Ja her er så gentagelsesperioderne de gentagelsesperiode på 20 år. Det var her cirka, som ligger på 160 stund her i 90. Og så skal vi så lige have det fremskrevet til.
+
+00:35:08
+Altså, Det er i 1990 ikke, og så skal man have fremskrevet det til 2024, og der kan vi jo se at altså Det er så med en en fremskrivningsfaktor at at Vi har hævet eller havniveauet allerede 8 cm.
+
+00:35:20
+Det det det flugter meget godt med de målinger. Vi har forskellige steder i de interdanske farvande.
+
+00:35:24
+Helt klart det der de har dem fra.
+
+00:35:31
+Her er bare en 2 kurve der viser en 2 havn. Hvordan Det kan jo have forskellige former det her så forpagn.
+
+00:35:39
+Så.
+
+00:35:43
+Og vi kommer tilbage til endnu flere det her.
+
+00:35:46
+Alt det Jeg har vist nu med med de her forskellige returværdier med stormfloder og som er grebet ud fra højbensstatistikkerne.
+
+00:35:53
+Det er jo, Det er jo for eksempel. Det er jo fortid. Altså Det er i hvert fald noget, Der er observeret og er sket, og det vi gerne vil i nationalcenter for klimaforskning og for jamen, Det er jo at kigge frem i tiden.
+
+00:36:04
+Og.
+
+00:36:08
+Til det der har vi jo et setup af klimamodeller, og jeg ved at at ole og mark allerede har fortalt jer om klimamodeller og klima ensembler, så det vil jeg ikke. Det vil jeg ikke gentage alt for meget og bruge for meget krudt på. Men altså klimamodeller er jo dels er det.
+
+00:36:24
+Det er jo koblet. Det er jo koblet modeller som håndterer ting der sker i oceanet.
+
+00:36:29
+Og ting der sker i atmosfæren, så vi får 1 1 1 1 klar kobling af og at den energiudveksling Der er mellem havet og atmosfæren. Det er jo Det er jo selvfølgelig helt afgørende, når vi for eksempel har Sådan en.
+
+00:36:41
+En en periode med el ninjo eller en linje, for Der er den helt tydelige kobling som hvor hvor hvad der sker II havet har store konsekvenser for, hvordan vejret på hele kloden udfolder sig. Men altså, Der er de her inddelinger af gitre globalt set.
+
+00:37:02
+Vi har både i højden. Der er der en en 60 70 lag i højden, og så er der i dybden til oceanerne.
+
+00:37:08
+Og så hvert tidsskrift, så regner man ud energiflues og tryk og og og og hvad hedder det vandflux II hver kasse og så regner man bare derudaf hvordan det hele det det kører frem i tiden og og der kan man så regne vejret ud, så har man godt vejr dårligt vejr på skift forskellige steder III verden som som som helst og som også repræsenterer nogenlunde det vejr man har og det man så gør i en klimakontekst. Det er så at gå ind og forcere klimamodellen med noget.
+
+00:37:37
+Mere drivhusgas som har Sådan 1 1 1 det hedder radiative forsing, altså drivhusgasserne går ind og virker opvarmende isolerende i atmosfæren og så kan man simpelthen hæve temperaturen, og Det er jo ikke som vi eller har snakket om. Det er jo ikke temperaturen alene der bliver hævet, Det er jo hele.
+
+00:37:54
+Hele dynamikken altså. Der er flere storme på de lavere breddegrader og Der er.
+
+00:38:03
+Mere mere vand i bassinet og så videre, så Det har det. Har en stor indflydelse.
+
+00:38:08
+På på på det og på nedbør generelt.
+
+00:38:10
+Alt det her. Det er jo som ole han også har nævnt allerede. Det er jo lavet på et meget.
+
+00:38:15
+Groft opløst gitter, altså cirka 100 km. Der har vi sendt nedskaleret med forskellige regionale modeller til en 10 12 km og så yderligere nedskaleret det til til klimaatlas. Det kan man så se man går fra de globale til de regionale og klimaatlas til cirka 1 km, hvor man så kan se hvad der foregår.
+
+00:38:34
+Og Det er så også der, hvor Vi har i klimaatlasset og det Det er jeg sikker på markerne har.
+
+00:38:38
+Fortalt rigtig meget om, men i klimapladsen der har vi jo også ikke bare, hvad der sker i atmosfæren, men også hvad der sker II havet og ikke langs kysten eller kysterne langs.
+
+00:38:53
+Ja rundt om Danmark her.
+
+00:38:55
+Det kan man se. Det er noget omkring på på klimaatlas.dk det Det er altså simpelthen plus klimaatlas.dk der har vi der har vi simpelthen.
+
+00:39:06
+Man kunne gå ind og vælge vandstand som det første i klimapvariabel, og så kan man gå ind og vælge, om man vil have middel vandstand eller om man vil have stormflods højder af 20 eller 100 års hændelser og 10.000 årsendelser. Så gør og Der er et års vandstand og 5 års vandstand.
+
+00:39:21
+Og så får man simpelthen et kort ud, der viser, hvordan ændrer middelalstanden sig først i århundrede i midten af århundrede og i slutningen af århundrede, og Det er vist for de her forskellige scenarier for vandstand. Der har vi 5 scenarier. Et nummer er revet et lavt et mellemhøjt, et højt og et meget højt for nu at bruge nogle gode danske ord.
+
+00:39:41
+Men Det er simpelthen bare forskellige koncentrationer af drivhusgasser frem på slutningen af atmosfæren.
+
+00:39:47
+Og så med et ensemble på Det er vidst 72 modeller. Vi har nu globale modeller nedskaleret med forskellige regionale modeller. Deres bud på hvor meget havnevåd kommer til at stige i Danmark for de her scenarier og det man lige kan.
+
+00:40:03
+Bide mærke i her Det er at for det høje scenarie, Der er der Sådan en ekstra høj usikkerhed her ude i slutningen af århundredet, og det skyldes det, som jeg nævnte tidligere, det potentielle potentielle bidrag, Der er i en ustabil.
+
+00:40:18
+Indlandsvis pointarktis altså hvis hvis store mængder is.
+
+00:40:24
+Brækker af smelter af eller et eller andet og ender i havet. Jamen så har det en stor, en stor indflydelse på havniveauet på Vores breddegrader man kan hente.
+
+00:40:34
+Man kan en detal ned for det her i excel format, og man kan ja også i den netcel format, hvis man er meget teknisk kyndig og og og bruger af klimadata, så kan man hente det i et mere detaljeret format, og man kan også hente det som en rapport for den enkelte Kommune.
+
+00:40:55
+Nu vil jeg lige vise et par eksempler her fra klimaetlas altså jeg sagde man kunne gå ind og hente.
+
+00:41:03
+Basa for 100 års stormfod, altså man kan gå ind og se hvor hvor højt bliver en stormflod i Køge bugt er valgt, altså den kyststrækning syd for København, som jo også går ind i København, hvor højt står vandet for et?
+
+00:41:17
+Lavt og et mellemhøjt og et meget højt scenarie.
+
+00:41:20
+Reference anstand den er 159 cm så vi vi stiger til 192 202 117 for de her.
+
+00:41:31
+På de her 3 scenarier og Jeg kan også lige knytte det en kommentar til scenarievalget. Det er måske også blevet nævnt før, men.
+
+00:41:39
+Det her mørkeblå scenarie er Sådan et et mere eller mindre.
+
+00:41:44
+Aftalen venligt scenarie altså det flugter nogenlunde med, at hvis vi overholder det, Der er blevet lovet i Paris aftalen foregående eller koppen for nogle års år siden.
+
+00:41:54
+Det gule scenarie. Det er Sådan et scenarie, der nogenlunde flugter med den kurs, Vi har med de politikker, Der er implementeret. Nej er vedtaget ikke implementeret endnu, men hvis de bliver implementeret, så følger vi nogenlunde det gule scenarie her et mellemhøjt scenarie.
+
+00:42:10
+Og så ja så hvis hvis vi bliver ved med at at.
+
+00:42:14
+Eller vi accelererer nogle udledninger. Måske endda, så følger vi det det høje scenarier.
+
+00:42:19
+Og hvis det ikke lykkes med det gule, jamen så er det måske mere det.
+
+00:42:22
+Det det lyserøde scenarie, og Det er Sådan den den fremtid det ser indeni med med 100 stofløsningser. Man kan også vende bøtten lidt på hovedet og stille spørgsmålet anderledes, altså i stedet for hvor højt står 100 årsendelse i slutningen af 100 eller i midten af 100, så siger de, hvad er hyppigheden af en nuværende 100 årsendelse om 50 og 100 år? Og der Der er det for de samme scenarier der står det der bliver 100 års.
+
+00:42:47
+Til en fireårs endelse altså den optræder.
+
+00:42:51
+22 gange for per 100 år for det ja altså for det lave scenarie for Paris aftalen, scenariet. Det er jo Sådan lidt tankevækkende, så selv når vi overholder.
+
+00:43:00
+Paris aftalen så ser vi ind i 1 1 1 virkelighed, hvor vi får 2500 sædelser på 100 år.
+
+00:43:07
+46 for det mellemhøj scenarie og ja 165 per 100 år. Det er jo så.
+
+00:43:14
+Et par gange om året cirka for det ekstra højsinje der.
+
+00:43:20
+Så så tror jeg, at jeg Jeg vil give ordet videre. Carsten har der været nogle har der været nogle?
+
+00:43:27
+Aktivitet ude på chatten der jeg.
+
+00:43:30
+Har simpelthen ikke været nogen, der har slået sig, ikke?
+
+00:43:32
+Er der nogen? Er der nogen på mødet?
+
+00:43:34
+Er der nogen levende?
+
+00:43:37
+Kan du se hvor mange Der er med dernede?
+
+00:43:44
+Altså vil jeg nemlig.
+
+00:43:47
+Holde inde her.
+
+00:43:50
+Og så.
+
+00:43:52
+Men Jeg er.
+
+00:44:07
+Glimrende og så også stoppe med at dele.
+
+00:44:10
+Detle også, Der er mange ting så.
+
+00:44:13
+Der er mange knapper i Sådan en computer her.
+
+00:44:16
+Godt.
+
+00:44:17
+Så begynder jeg at dele her.
+
+00:44:21
+Den første opgave, som vi havde tænkt os, vi skulle gå i gang med.
+
+00:44:25
+Det var i virkeligheden at prøve at få en.
+
+00:44:30
+Og lade genskabe de værdier, som ligger i klimaatlasset.
+
+00:44:35
+Og det vil vi gøre ved i virkeligheden ved at starte et helt andet sted, nemlig ved at gå ind og sige, hvor var det for nogle mystiske data, som Martin havde fat i. Nu er vi inde i klimaatlasset her nedbør og så lige gå ind og sige, der var vandstand og stormflod her.
+
+00:44:52
+Og hvis vi så prøver at gå ind i den her, så er det det her Martin har snakket om indtil nu.
+
+00:44:58
+Middelvandstanden.
+
+00:45:00
+Og den han så gik ind og viste Det var så hyppigheden at nuværende 100 årsendelse her.
+
+00:45:06
+Og så kan man så hernede ændre på, hvor langt man ser frem i tiden, og her kan man ændre på sit scenarie og så Martin sagde, så var det et mellemhøjt udlægningsscenarie. Det er nogenlunde der hvor.
+
+00:45:20
+I havner hvis vi implementerer de politikker, Vi har vedtaget.
+
+00:45:26
+Men ikke mere, og det høje udlændinge snart. Det er det, som vi.
+
+00:45:31
+Kan.
+
+00:45:34
+Hvad skal vi sige, hvis vi fortsætter nogenlunde så nu så så er det der, vi havner, og Det er et, der ofte bliver brugt til klimatilpasning.
+
+00:45:42
+Og så kommer de her figurer lige hernede.
+
+00:45:46
+Og tilsvarende så er der så højen statistikken og.
+
+00:45:51
+Og hvis man går rundt og kigger her, så kan man.
+
+00:45:55
+For eksempel finde København.
+
+00:45:58
+Og.
+
+00:46:04
+Så kommer man ned i den her. Det var den her Martin havde klippet ud og her er så de enkelte hændelser inde i den her PDF fil fra kyststituttet og så også på næste side. Så er så den figur som Martin viste.
+
+00:46:17
+Nu har jeg så taget København, som holder lidt længere, men stadigvæk det samme at Der er nogle observationer der viser alle de ekstreme ren har målt og så også den røde.
+
+00:46:29
+Model der siger, Det er indenfor det her område har vi en model vi tror rimelig meget på.
+
+00:46:35
+Så Det er det Vi skal arbejde med, og så kommer vi faktisk også til at gå ind og kigge lidt på de her.
+
+00:46:41
+Højvandsstatistikker, og de ligger også tilgængeligt på DM i's hjemmeside, så vi cykler lidt rundt på klimaets hjemmeside på DM iss hjemmeside og så på kystdikturelt hjemmeside, fordi Det er der data kommer fra, når Vi skal ind og.
+
+00:46:56
+Og arbejde med det her.
+
+00:46:59
+Marken stoppede her med højreven statistikkerne og og hvordan vi kommer ind og kigger på de her modeller, og det gjorde han fint. Det, som er væsentligt for os og og notere Det er, at stigende havvand flytter koden opad.
+
+00:47:15
+Og Det er i virkeligheden det, Vi skal arbejde med III, når vi arbejder med, hvad betydningen af klimaændringer er. Så hvis vi går ind og og og tager summen af det, som Martin sagde og koger det ned til en enkelt illustration, bliver Sådan en powerpoint figur, så svarer det i virkeligheden til, at den her kurve den går opad ikke ikke fordi stormene bliver hyppigere, fordi Det har vi ikke evidens for, men simpelthen fordi havvandstanden stiger generelt.
+
+00:47:47
+Og det vil så sige at at det bliver den nye kurve og så afhængig af, hvor langt vi kigger frem i tiden og hvilket scenarie Vi er. Så vil den her kurve stige mere eller mindre.
+
+00:47:59
+Og det Der er tricket, når Vi skal finde ændringerne. Det er så i virkeligheden ikke at have de her.
+
+00:48:05
+2 kurver fordi her kan vi jo så aflæse 50 års hændelsen. Den vil være Sådan og Sådan nu og så så og så meget senere i fremtiden.
+
+00:48:14
+I stedet for at gøre det, så vil vi lave et lille trick. Vi er dovne og har kun en kurve. Til gengæld flytter vi os nedad, når vandet stiger, fordi det svarer i virkeligheden til at sige, at det der det som havet stiger.
+
+00:48:31
+Det svarer det i virkeligheden til at Vores kyst den bliver mindre i forhold til hvor tit ting med have en effekt.
+
+00:48:39
+Hvis vi går ind og kigger på det Sådan at data fra.
+
+00:48:43
+Fra fra klimatlas så har jeg prøvet at sige i København. Der har vi, hvis vi kigger på det her mellem scenarie mellem høje scenarier, så har vi midt i århundredet en udvikling på cirka 27 cm stigende havinstand i København.
+
+00:49:03
+Og når Vi skal ind og finde ud af, hvad betyder det for de her gentagelsesperioder?
+
+00:49:09
+Så er det i virkeligheden bare de 27 cm Vi skal trække fra herovre, og Det kan vi så gøre for 100 års hændelse eller for en 10 års hændelse. Men under alle omstændigheder er hele kurven bliver rykket nedad med 27 cm.
+
+00:49:22
+Og Det er så den måde, man i klimalas har regnet ud på at en hundredsendelse nu.
+
+00:49:28
+Midt i århundredet i et mellemhøjt scenarie, så blev det cirka til en otteårs hændelse.
+
+00:49:34
+Tilsvarende.
+
+00:49:36
+Den 2 vej rundt, hvis vi går fra den ene ende af koden til den 2 så.
+
+00:49:43
+For en hundredsendelse til 1 2 årsændelse altså noget der hvad vil der ske 50 gange så tit.
+
+00:49:50
+Så kan vi i virkeligheden gå ind og se på, hvornår sker det for de forskellige scenarier, og vi kan se i slutningen af århundredet. Der er det midt i. Det er meget høje scenarie.
+
+00:50:01
+Og for de andre Der er det noget, hvor vi siger, det ligger stadigvæk højt.
+
+00:50:06
+Så vi kan se, hvis vi ligger i det. I det gule steg det mellem øje, så er der stadigvæk en en høj værdi, men den er absolut sandsynlig hvorimod hvis Vi har.
+
+00:50:18
+For hele verden med på at Vi skal reducere lige så meget, som vi håber på, at vi gør i Danmark, så kommer vi ned på den lyseblå.
+
+00:50:26
+Og så er vi faktisk der hvor vi Det er relativt usandsynligt at det sker.
+
+00:50:32
+Og det illustrerer jo meget godt at at vi ikke er færdige med at diskutere stigende havinstand endnu. Der er stadigvæk en stor usikkerhed på det.
+
+00:50:41
+Afhængig af hvad vi vælger at foretage os også med udlændinge af drivhusgasser.
+
+00:50:48
+Så for lige at opsummere Sådan 100 tændelse i 2024, hvis hvis havinstand stiger 27 cm, som vi kan forvente i midt i århundredet på den mellemhøjede scenarie, så er det en otteårs hændelse, Der er midten af scenariet og de 60 centimeters ændring.
+
+00:51:07
+Det sker i hvert fald efter 2065. Skal vi sige rimelig sikkert og formentlig også måske efteråret 2100.
+
+00:51:17
+Så Det er egentlig det største trick, men Der er lige et mere fordi.
+
+00:51:24
+Man lever jo hurtigt ind i et problem, og Det er at.
+
+00:51:29
+Den her kurve er jo ikke ret lang i virkeligheden, der hvor de længst kan gå. Den er op til de her 2 300 år. Den som Martin viste fra Vejle.
+
+00:51:37
+Den går gik op til 100.
+
+00:51:41
+Og hvad jeg hverken gør med nu, når man skal forlænge den ene eller den 2 vej Det er Det er ikke så nemt.
+
+00:51:48
+Og det til det formål bruger vi et lille trick.
+
+00:51:51
+Som ikke er særligt pænt, men Det er det Vi har brugt II og Det er den måde, Vi er kommet frem til, at Det er 100 årsendelse faktisk fremkommer 165 gange om året i København i slutningen af det her 100.
+
+00:52:05
+Og det handler om at sige, vi prøver at gætte på, hvordan den her kurve den forlænger den vej. Man kan også gøre det i den 2 ende oppe på de høje gentagelsesperiode, så ville det jo være at forlænge den røde linje.
+
+00:52:17
+Men vi prøver nu her første gang og se, hvor langt kan vi komme ved at forlænge ned på de kortere gentagelsesperioder?
+
+00:52:25
+Og Jeg har prøvet nu og og sige i princippet så er kurve jo taknemmelige, så man kan altid prøve at gøre noget og det helt grundlæggende problem her. Det er jo at sige at at Vi har ikke stor viden om hvordan det lige Sådan udvikler sig.
+
+00:52:41
+Men, Der er det ene trick at sige. Der er faktisk et punkt vi kender.
+
+00:52:46
+Og Det er, at vi cirka der hver hver 100 gange om året var den så cirka Sådan hver 3. Dag.
+
+00:52:52
+Der har vi faktisk et godt bud fra svarende til Vores højvandsstatistikker.
+
+00:52:58
+Og Det er den måde, vi bedst kan forlænge den her gåde på. Det er farligt at at forlænge oppe på på den røde kurve og forlænge den opad.
+
+00:53:09
+Så derfor har vi med nogen forsigtighed valgt i klimaatlas og sige, men vi kan godt forlænge det nedad.
+
+00:53:17
+Og her er er linket til den hjemmeside, som som man tager den fra.
+
+00:53:24
+Og nu har vi så faktisk Sådan, så vi kan sige, nu har vi lige pludselig fra 100 gange om året og op til 2 1 gang eller 200 år og det vil sige, så har vi lige pludselig i stedet for kun at have de der cirka.
+
+00:53:37
+En eller eller 1,5 detkades så har vi den nu en 5 stykker opereret på.
+
+00:53:43
+Og det gør vi, og så går vi simpelthen ind og aflæser på kurven. Det er røde punkter eller de røde afskærmningspunkter på på y aksen her for 2 hunders hændelsen og så videre der nedad.
+
+00:53:56
+Og så ned til kyststatistikken der.
+
+00:54:01
+På på kysterne.
+
+00:54:05
+Og med det link Der er her jo så kommer vi lige for langt, så kan vi i virkeligheden lave Sådan nogle data der svarer til det Der er i det her excel ark. Nu prøver jeg lige at gøre den eneste størrelse.
+
+00:54:18
+Nu har jeg her aflæst på på hver af dem og sagt jamen engang var 100 år, så kommer der i København.
+
+00:54:26
+En hændelse på 162 cm.
+
+00:54:28
+Og Sådan en almindelig lille tidevandskurve den. Den ligger cirka 10 m over over dagligvandet.
+
+00:54:38
+Og så kan vi så lave en en figur på det.
+
+00:54:43
+Og hvis vi lige laver det lille trick, at vi gør det om til et XY kort.
+
+00:54:50
+Her.
+
+00:54:52
+Og så lave den her skala eller rytmisk.
+
+00:54:58
+Kan du gøre vinduet> eller Sådan et helt?
+
+00:55:01
+Så har vi nu faktisk fået.
+
+00:55:06
+En kurve som er ret nem og ekstra poleret i.
+
+00:55:09
+Og Det var det, vi forestillede os, ville være den første opgave, som som vi bad om at lave, ikke Sådan noget sjovt at gøre det for for København.
+
+00:55:19
+Det har jeg lige gjort her, men vi kan lave de her kurve og sige hvad går der sker der fra 100 års hændelse ned til en 10 års hændelse. Og hvad sker der fra tiårs hændelse ned til noget der sker 10 gange om året? Det her Det er Sådan som som min ser ud for min kurve ser ud for Vejle.
+
+00:55:38
+Jeg har været inde og aflæse 20 km på højren statistikken eller på på de daglige.
+
+00:55:46
+Sidevandsbevægelser.
+
+00:55:48
+Og så aflæse nytårsandelse på 105 cm og så op til 20 og 50 og 100 så man kan se så er Vejle jo.
+
+00:55:58
+Af den lidt højere end København generelt. Sådan så 100 års hændelsen er noget> den meget København, og Det er så også betydning for de.
+
+00:56:07
+De niveauer vi udregner i forhold til.
+
+00:56:19
+Til til Vores store ændringer er.
+
+00:56:22
+Og det vil sige, hvor vi beregner i at aflæste i, og hvis i har været inde i klimalasset. Så hvis i Vejle ændrer sig cirka 29 km i midten af århundredet, og hvor vi så sagde, at i København det gik vi faktisk 100 hen til vi ville blive til en otteårs hændelse. Så kan vi se, at i Vejle der bliver det den så i den helt tilsvarende analyse, så bliver den så til 11 år og.
+
+00:56:46
+Det samme kan man sige for for.
+
+00:56:51
+Få den når vi går over til Esbjerg, så må man se, at så bliver Sådan en 100 årsendelse ændrer sig faktisk ikke ret meget, og Det er fordi at Vores sognefoder på Vestkysten, specielt når vi kommer ned omkring Esbjerg er så store, så så vi flytter faktisk ikke så meget på Vores indsats periode.
+
+00:57:11
+Og det andet spørgsmål, der har mit bud været. Det er Sådan lidt mere pluffet, hvordan man går ind og fortolker det.
+
+00:57:19
+Men Jeg har prøvet at sige en tursendelse er 168 cm og en tursydelsen altså 120 cm.
+
+00:57:25
+Det er 48 centimeters henting og i gennemsnit så man så sige, at jamen Det er måske Sådan lige efter 2085, så vi kan i hvert fald sige, Der er i mindst 30 år til til vi kan forvente at.
+
+00:57:38
+At Vi har set så stor en ændring som som vi bliver spurgt om her.
+
+00:57:43
+Og jeg ved ikke om Der er nogen spørgsmål i den sammenhæng.
+
+00:57:47
+Om i har fået nogenlunde sammenlignelige resultater eller Der er noget II den her gennemgang som er mystisk.
+
+00:57:57
+Vi skal lige prøve og er der noget i chatten?
+
+00:58:00
+Hvad er det du hedder chatten?
+
+00:58:01
+Der er ikke noget i chatten.
+
+00:58:04
+Så.
+
+00:58:06
+Så vil vi gå videre til.
+
+00:58:08
+Til den 2 opgave Jeg kan se jul er allerede kommet ind, så måske så skal vi bare lige demonstrere den, men bare lige vise.
+
+00:58:17
+Og gøre opmærksom på, hvis Der er nogen, Der er i tvivl, at Vi har den her.
+
+00:58:23
+Kom som er ligger inde på klimatilpasning.dk.
+
+00:58:29
+Der kan jeg hvor man kan gå ind, og hvis man zoomer tilpasende meget ind på et område, så kan vi se hvad er det der bliver oversvømmet og hvor tit hvis vi går ind og kigger på det her.
+
+00:58:40
+Og vi kan se, at i København, der bliver der lynhurtigt relativt store områder, der bliver oversvømmet.
+
+00:58:46
+Og det samme gælder faktisk i Vejle.
+
+00:58:49
+Så Det er det, man kunne forestille sig. Vi man kunne gå ind og gøre her. Det var og.
+
+00:58:57
+Og sige man kunne gå ind og tage det samme et byområde inde i den by, som i kiggede på. Det kunne være Vejle og så sige hvor stor er forskellen på antal huse? Der bliver også sendt ved en hundredhændelse i nutiden og i slutningen af århundredet.
+
+00:59:10
+Igen for Sådan 1 1 1 højt scenarie SSP 3 7 0 og så prøve at kigge på det for en 10 årsendelse og Jeg har snydt og lavet det både for København og for Vejle og II. Lyset af at tiden så.
+
+00:59:27
+Så når man går ind og kigger på de her vandstande og i det her. Det er faktisk ret væsentligt at sige man skal lige være opmærksom på, at kamp er ikke helt fejlfri.
+
+00:59:37
+Så Der er nogle af de her ret store nye byggerier i København. Der er også dem allerede ved kvote nul, og det vil sige, de bliver oversvømmet hver dag. Det skal man måske lige tage med et gran salt, men nede II højre hjørne.
+
+00:59:53
+Der kan man se hvilke bygninger der bliver påvirket ved forskellige vandstande.
+
+00:59:58
+Og hvis man går ind og kigger på Vejle. Jeg tog et eller andet lille tilfældigt område lige syd for syd for centrum.
+
+01:00:06
+Der hvor åen kommer ind.
+
+01:00:08
+Og det her. Det giver et billede, og Det er ikke usædvanligt for for for de her kystbyer at sige jamen en tiårs endelse i 2024.
+
+01:00:18
+Ja, der vil være et eller andet antal huse her, og eftersom 10 års hændelsen er under det som naturskagerådet refunderer, og Det er i det hele taget er ret tit, så kunne man godt mistænke det for at Det var en af de her modelfejl.
+
+01:00:35
+Og i hvert fald så lige gå ind og tjekke, hvad det hvad Det er.
+
+01:00:38
+Men både at se på ved 100 års hændelsen og jo især påvirkningen den bliver. Det går hurtigt relativt galt, for for de her kystbyer, og Det er det, vi ser i de her store estimater, for hvordan klimaændringerne kommer til at påvirke på grund af stigende havnstand. Det vil sige, at 100 årsendelse går vi fra at.
+
+01:01:01
+At i et eller andet lille område i Vejle, som selvfølgelig ikke er helt tilfældigt udpeget, men men dog stadigvæk.
+
+01:01:08
+Ikke er usædvanlig. Der ser vi en fordobling af, hvor mange huse der bliver påvirket i løbet af af en hændelse, som som er en hundredesendelse, som jo er er stor og kraftig.
+
+01:01:19
+Men som jo ikke ikke er helt utilstedelig stor om jeg så må sige og jo endnu mere væsenligt er det allerede ved tiårshændelsen, at vi går fra, at Det er der simpelthen ikke nogen huse i det område der Der er jorden til.
+
+01:01:34
+At halvdelen af det her område faktisk vil blive oversvømmet i fremtiden.
+
+01:01:39
+Med de bygninger, Der er der og.
+
+01:01:43
+Og Det er et ganske typisk tegn, og Det er jo det, som blandt andet DTUS rapport påpegede det her at sige, at at vi får relativt hurtigt.
+
+01:01:52
+Nogle relativt voldsomme påvirkninger af oversvømmelser?
+
+01:01:57
+Og Det kan i så det vil jeg så invitere jer til at gøre på jeres eget hjemmeområde, specielt hvis i selv bor i kysten. Men jo ellers måske i de kommuner i at forsyninger sidder i og gå ind og bruge kamp som som værktøj til at finde ud af, hvor stor den her påvirkning er.
+
+01:02:15
+Jeg vil bare lige hvilket hvilket område vejlige jeg bliver jeg brugte, så man kan se det. Det ligger der lige omkring åen.
+
+01:02:23
+Og så med en lidt bedre angivelse nede i højre hjørne kan se at kampen tæller op hvor mange bygninger Der er påvirket.
+
+01:02:32
+Krudt Det var de Det var de 2 opgaver.
+
+01:02:37
+Og dermed slut på på det vi havde at sige i forhold til til Stine havn.
+

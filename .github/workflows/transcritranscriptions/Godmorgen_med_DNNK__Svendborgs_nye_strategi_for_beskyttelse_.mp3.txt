@@ -1,0 +1,828 @@
+00:00:05
+Nå godmorgen allesammen.
+
+00:00:08
+Kan i høre mig derude?
+
+00:00:11
+Det virker. Det er godt.
+
+00:00:15
+Jamen så vil jeg egentlig bare sige godmorgen og byde velkommen til denne her omgang. Godmorgen med DNNK, som i dag handler om Svendborgs nye strategi for beskyttelse mod højvande.
+
+00:00:27
+Og mit navn er Camilla sarko Larsen. Jeg sidder til dagligt Gentofte Kommune og er vært på webinaret her til morgen. Svendborg Kommune.
+
+00:00:35
+De har jo siden 21 været pilot Kommune i miljøministeriet, realdanias kampagne byerne og det stigende havvand, der handler om, hvordan de danske kystbyer skal møde vandet i fremtiden. I takt med det her stigende havvand.
+
+00:00:49
+Og det som vi stiller skarpt på i dag. Det er Svendborg Kommunes projekt fra blå kant til blå zone.
+
+00:00:57
+Der omfatter havneområdet i Svendborg.
+
+00:01:00
+Og det, som blandt andet gør projektet her super interessant og ikke mindst lærerigt, måske også herude bag skærmene. Det er, at man for godt et år siden sadlet om rent strategisk, og man gik fra en.
+
+00:01:14
+Beskyttelse med sluseporte ude i vandet til en integreret beskyttelse, der inviterede vandet ind.
+
+00:01:20
+I oplægget her til morgen. Der vil anna als og Marianne skov fortælle om, hvad der har været udslagsgivende for for det her strategiske sporskifte. Men det kommer også ind på beskyttelsesniveau, og alt blev tilpasning, finansiering, borgerinddragelser og alt muligt andet godt.
+
+00:01:38
+Hvis jeg lige kort skal præsentere dagens oplægsholdere, så er det anna als anna. Hun er arkitekt i Svendborg Kommune. Hun har arbejdet til dagligt med havneudvikling, og så har hun været projektleder på strategien her.
+
+00:01:49
+Marianne skov kommer fra Rambøll, hvor hun arbejder som cronent risk specialist og fagkoordinator, og så har hun været rådgiver på projektet.
+
+00:01:59
+Og lige inden jeg slipper jer løs.
+
+00:02:03
+Så er der lige et par praktiske bemærkninger, Vi skal på plads. Det kommer til at foregå Sådan, at jeres kamera og mikrofoner vil være slukket undervejs, hvis i har spørgsmål til oplægget, så kan i skrive dem i chatten.
+
+00:02:15
+Og Der er afsat tid til spørgsmål bagefter, så samler vi op der.
+
+00:02:20
+Og så skal du selvfølgelig nævnes, at webinaret her jo bliver optaget, så hvis man nu var en af de uheldige, der ikke nåede at se det, så er der altså mulighed for at gensætte inde på hjemmesiden.
+
+00:02:30
+Men så vil jeg egentlig bare give ordet til oplægsholderne, så kære anna Marianne, Vi er superglade for at i vil komme. Vi glæder os rigtig meget til at høste og høre om alle jeres erfaringer i det her projekt, så scenen er jeres værsgo.
+
+00:02:43
+1000 tak.
+
+00:02:45
+Og 1000 tak for at invitere os til at fortælle om om det her projekt, som har fyldt rigtig meget de sidste par år i Svendborg.
+
+00:02:55
+Og når jeg når vi lige har det her billede, så vil jeg lige starte med at sige at.
+
+00:03:01
+Meget Sådan 2 ord om Svendborg havn, fordi Svendborg havn er en ekstrem levende havn. Det er færgehavn ude til småøerne. Det er.
+
+00:03:11
+Hjemstedet for reparationsværfter både til stålskibe og træskibe.
+
+00:03:16
+Det er et sted som er gæstehavn. Det er også et sted, Der er under udvikling, som man også kan se på billedet med nye byggerier og og med en udviklingsstrategi, hvor hvor der bliver sat en fremtid for den her. Der har været en ren tidligere erhvervshavn, og som i fremtiden bliver en blandet byhavn, hvor en del af erhvervet stadigvæk vil være der og hvor.
+
+00:03:41
+Der så også vil komme nye funktioner til.
+
+00:03:45
+I dag, der har vi lavet det her oplæg i samarbejde mig og Marianne og og Det har været også en måde at Sådan prøve at give et lidt det her projekt. Ejer rådgiver vinkel, så Der er ligesom de her 2 vinkler på det.
+
+00:04:02
+Og Jeg synes at at Camilla har allerede præsenteret nogenlunde hvad hvad hvem Jeg er, og jeg ved ikke Marianne om du lige vil sige 2 ord om dig.
+
+00:04:12
+Jamen jeg tænker også at Camilla sagde sagde fint, præsenterede os alle sammen og og bød velkommen, men ellers kan jeg måske supplere, at jeg arbejder bredt set med stormflodsikring og særligt de indledende faser her og, men det kommer vi jo nærmere ind på, når vi kommer igennem.
+
+00:04:33
+Godt, så Vi har forberedt et oplæg, hvor vi kommer igennem nogle forskellige ting, og Jeg vil starte med Sådan.
+
+00:04:41
+At sætte rammen hvorfor overhovedet klimatilpas på Svendborg havn? Og hvad gik egentlig forud for hele det her arbejde som Rambøll og Marianne har hjulpet os med?
+
+00:04:53
+Og så vil Marianne gå lidt mere ind i det her med hvad er det for nogle analyser og lidt ned i dybden i maskinrummet, hvor rådgiverne har været ude i hjørnerne og hjælpe os med at få en masse viden til at give os et beslutningsgrundlag? Og til sidst vil jeg fortælle.
+
+00:05:08
+Lidt om hvad det så er for en strategi og hvordan vi nu er gået i gang med realiseringen.
+
+00:05:15
+Så hvad er egentlig klimaudfordringen på Svendborg havn? Det her billede er et meget nyligt billede. Det er fra 2023 og, og det viser også, at det her med med klimaudfordringer i forhold til højvande fra havet.
+
+00:05:32
+Det er ikke noget, vi Sådan kigger frem imod. Vi kender oplevet. Vi har oplevet højvandsændelser, Vi har stået med fødderne i vand.
+
+00:05:41
+Og og Det har vi gjort en del gange, bare indenfor de sidste år.
+
+00:05:45
+Så så udfordringen er allerede oplevet både fra os, der sidder og arbejder med det, men i den grad også for de borgere, som som bor og har virksomheder på vandkanten i Svendborg.
+
+00:05:58
+Der er en historisk baggrund, Der er vigtig at lige komme forbi, når man snakker om det her, fordi kystlinjen i Svendborg.
+
+00:06:06
+By har ændret sig gennem tiden, og det viser det her diagram.
+
+00:06:11
+Og man kan Sådan, hvis man skal sige den korte version, så er det en en by Der er startet i middelalderen på bakketoppen, og der har man lagt de store kirker og vigtige bygningsværker og byens bygherrerne.
+
+00:06:25
+Og så har man haft sammenhængen til vandet ved en skibsbro nede ved kystlinjen, og at Det var her man ligesom havde linket ud til verden og ud til ø havet. Og Det er også Det har gjort Svendborg altså beliggenheden af Svendborg inde i den her bugt i Svendborg sund det den har i den grad haft.
+
+00:06:48
+Grund til at være der på grund af at man har haft linket ud til verden og handlen og så videre.
+
+00:06:54
+Men man kan også se på den øverste tegnede kort, at Det er Sådan en naturlig kystlinje med strande og og strande i det hele taget. Og så sker der en udvikling op gennem industrialiseringen og med dampskibenes indtog, hvor der var brug for flere kaj og mere areal, der skulle bruges til det Erhverv som havnen. I takt med industrialiseringen blev indrettet til.
+
+00:07:19
+Og på billedet nede hvor der står 18 90 der kan man se ligesom ude.
+
+00:07:24
+I Venstre side, hvordan der begynder at blive slået en kaj ind ude i vandet og og på den måde, så inddragede man vandet og og fyldte op inde bagved og allerede i 1920 der har havnen, de kajer og den kystlinje, som vi egentlig kender i dag, og Det kan man også se på billedet fra 1935.
+
+00:07:48
+Hele den her måde, vi Sådan har indvundet noget noget vandareal til land. Det gør også, at havnen er et stort fladt areal og igen nogle billeder fra de oplevede hændelser, der har været. Vi er vant til at leve med vandet.
+
+00:08:04
+Vi er vant til at håndtere de mindre hændelser, og Det har vi egentlig været gennem mange år, og her er der nogle hændelser fra 2017 og 19.
+
+00:08:13
+Og i 2006 havde vi en hændelse op til kvote 2, og der der var.
+
+00:08:17
+Der var Svendborg på prøve og fik sat den her, Sådan de her mere håndterbare hændelser II perspektiv og der der kunne man se kajakker sejle op i gaderne og og og mange huse, der fik skader og andet infrastruktur, der fik skader og selvfølgelig er udfordringen jo stigende i takt med at det generelle hav vandt snyde det stiger.
+
+00:08:42
+Og derfor har vi også arbejdet rigtig meget med det her.
+
+00:08:47
+Og Det har og og igen den her med at Det er en Det er en oplevet.
+
+00:08:53
+Det er noget vi allerede har oplevet, og her er et billede fra oktober 20. Oktober, som der var hele den sydligere østlige Danmark, der blev ramt af den her stormflod. Men Det var også en stormflod, der var lidt anderledes end dem, Vi har oplevet indtil nu, og som Jeg har vist billeder af indtil nu.
+
+00:09:09
+Det var en hændelse, hvor der faktisk var en del vind, og hvor der også var regn fra oven.
+
+00:09:15
+Så så at vi kigger frem imod nogle hændelser, Der er anderledes. Der måske er vildere, og i takt med det generelle havniveau det stiger, så vil vi også få mere vand på terræn.
+
+00:09:27
+Vi har arbejdet med at finde løsninger på den her udfordring igennem mange forskellige strategier og projekter og et vigtigt vigtigt milepæl. Det arbejde har været klimatilpasningsplanen, man skulle lave tilbage i 2013, som skulle integreres i Vores kommuneplan, og der fik man sat nogle en analyse på, hvor sker skaderne i Svendborg Kommune, og hvor er der flest skader ved de enkelte hændelser?
+
+00:09:55
+Og, der blev det meget tydeligt, at Svendborg havn vil være det område i hele kommunen, der har flest skader ved højansættelser og. Og derudover så har vi igennem en havneudviklingsplan i 14 og en større konkurrence i 17 og 18 stillet endnu mere skarpt på. Hvad skal løsningerne så være i forhold til den her udfordring?
+
+00:10:17
+Og og endelig har vi været pilot Kommune i byernes Stine havvand. Det kommer vi også mere ind på, og nu er vi i gang med realiseringen af den første del af.
+
+00:10:26
+Højvandsbeskyttelsen.
+
+00:10:29
+Hvis Vi skal stille skarpt på konkurrencen i 2018, så offentliggjorde vi vinderforslaget fra en længere proces, hvor vi havde haft en meget omfattende borgerinddragelse. Vi havde skrevet program med mange analyser til grund for det og fået kortlagt den udfordring, vi havde. Og den blå kant handlede også om at få bragt havnen ind i fremtiden, så Det var ikke kun omkring klimatilpasning, men var også for at give.
+
+00:10:57
+Et bud på hvordan man kunne bruge de forskellige udråb langs byens blå kant i fremtiden, og da vi stod i den sidste fase af konkurrencen, der stod vi med 2 forslag, som var Sådan der, hvor de virkelig var forskellige. Det var i forhold til, hvordan det skulle beskytte os mod højvande. Konkurrenceprogrammet sagde, at vi skulle beskytte alting på havnen.
+
+00:11:20
+Det var det, vi skulle have nogle bud på og.
+
+00:11:24
+Og vi ønskede os en sted specifikt klimatilpasning.
+
+00:11:27
+Og det det forslag Der er til Venstre. Det var et forslag, hvor man beskyttede havnen langs den kanterne og integrerede en beskyttelsesmur ind i den fremtidige kant på havnen, hvor det forslag der var til højre var en ydre beskyttelse, hvor man dragede fordel af, at Vi har frederiksø, der ligger midt ude i havnen og på den måde skød genvej med nogle sluseanlæg henover havnen og fik skabt den her ydre beskyttelseslinje.
+
+00:11:57
+Og Det var en enig dommerkomité med borgmester i spidsen, der valgte det her vinderforslag og rigtig meget af argumentationen for at vælge det her var at bevare nærheden til vandet, så vi ikke fik skabt nogle store barrierer inde i Vores havne inde på Vores havnearealer.
+
+00:12:17
+Og.
+
+00:12:19
+Og Det var.
+
+00:12:21
+På den måde gav det god mening at skubbe den her.
+
+00:12:24
+Lidt store barrierer ud på havnens ydre kanter, hvor der også er en igen i forhold til det stedspecifikke en 2 skala der kunne bedre tåle at have nogle lidt større anlæg og mure.
+
+00:12:37
+Så Det var en en klar idé, at vi havde den her vision. Vi skal have beskyttet havnen på de ydre kanter. Og hvorfor blev vi så overhovedet?
+
+00:12:47
+Hvorfor blev vi så ved, når vi havde fundet den her gode løsning? Det var fordi, at vi havde.
+
+00:12:53
+En udfordring med at få det realiseret. Politikerne havde sat penge af til at komme i gang. Allerede inden vi udskrev konkurrencen, og vi stod med 25 mio.
+
+00:13:03
+Som vi kunne lave første etape, og da vi stod med vennerforslaget her blev det meget hurtigt tydeligt, at vi ville ikke kunne realisere en etape, der også indeholdt beskyttelse mod højvande. Alle de etaper eller den måde, vi kunne opdele, vinderforslaget i etaper på var.
+
+00:13:21
+Var at bare for store anlægsmæssigt så så det her med, at vi vi var nødt til at kigge på. Hvordan kunne vi egentlig komme fra den her mission til realisering, og derfor søgte vi ind i byerne og Stine havvand for at få lavet en handleplan. Hvordan skulle vi kunne, hvordan skulle vi kunne realisere den her plan?
+
+00:13:42
+Og vi søgte ind med et, at vi ønskede at få lavet en handleplan, hvordan vi kunne få.
+
+00:13:49
+Igen truffet valget om var det her vinderforslag det rigtige. Jeg vil indrømme, at da vi gik ind i byernes Stine hauband, der tænkte vi nok mest, at Det var, hvordan kan vi realisere vinderforslaget?
+
+00:14:03
+Og Det var nogle af de her ting, vi skulle. Vi søgte ind med at blive klogere på at få udviklet os i Svendborg til at.
+
+00:14:11
+Og hoved og få viden om, hvordan man behandler Sådan nogle højvandsudfordringer.
+
+00:14:19
+Vi skulle ind og og vurdere omkring linjeføring, og.
+
+00:14:24
+Og omkring de her sikringskvoter. Vi skulle snakke om. Hvordan kan vi bygge en løsning hen over tid i små etaper i stedet for en stor løsning?
+
+00:14:36
+Og så er der en hel række andre ting her, som som var vigtige også at få undersøgt II det her pilot kommuneprojekt.
+
+00:14:46
+Så når man kigger på vinderforslaget igen, og som bare Vores udgangspunkt, da vi gik ind i byerne og det Stine havvand, så så noget af det der var udfordringen var at vi havde hvis man skulle opdele det her i nogle etaper, så var der 3 store sluser.
+
+00:15:02
+Og den ene sluse ville man kunne bygge og så få bygget en midlertidig løsning op i terrænet, så det kunne blive en etape. Men når vi kiggede på den indre del af havnen, altså der hvor der står jessens smule.
+
+00:15:16
+Indre havn og havnepark og nordparkay så ville man ikke kunne lave den etape uden at bygge de 2 største sluseanlæg på en gang og alt det der forbandt dem og det ville blive en ekstrem stor anlægset etape.
+
+00:15:30
+Og Det var Det var noget af det, vi gik ind i arbejdet med. Hvordan kunne vi få brudt det her? Det her projekt ned i noget realiserbart?
+
+00:15:39
+Og så vil jeg give ordet til Marianne.
+
+00:15:42
+Ja fordi Det var så heldigt at rample og arkland kom med på projektet for at kigge lidt nærmere ned i det her med Vores linjeføring og og sikringer og noget af det vi ligesom jo skulle afdække. Det var her på den blå linje. Hvordan fik vi den realiseret?
+
+00:16:01
+Så hvis du klikker en enkelt gang så noget af det første. Det var jo ligesom at finde ud af at låne den der hvor den skulle ligge eller skulle man modificere en lille bitte smule? Hvad var fordele og?
+
+00:16:13
+Og ulemper, det bliver jo ret hurtigt klart, når man er i en i en aktiv by med mange visioner at at der kommer nyt til alt fra omdannelser, områder nye byggerier, men også tanker om skal færgen være på el skal færgelade flyttes kan man kan man flytte positionerne, så vi dykkede lidt mere ned i de forskellige analyser.
+
+00:16:40
+Og nu tager jeg igennem et par eksempler på nogle af dem, som vi ligesom dykkede ned i og noget af det første. Det var den her besejlingsanalyse. Fordi hvad var det egentlig for nogle portåbninger, vi skulle have?
+
+00:16:52
+Hvordan fik vi ligesom præciseret hvad en mulig anlægsøkonomi kunne være omkring de her højvandsporte? Og det betød også at at vi ligesom indhentede en masse data, og hvis du klikker videre anna.
+
+00:17:06
+Så så lavede vi Sådan lidt empiriske analyser omkring.
+
+00:17:10
+Hvad er der i dag af skive? Hvad forventer vi i fremtiden, og hvad er så minimumsbredne? Og det ledte os så hen til, hvis du tager den næste slide.
+
+00:17:19
+Den anlægsøkonomi, der måske kunne være forventet med de forskellige positioner, og hvad Det var for nogle porttyper, og Det er en af dem her, som vi også kommer ind på senere, som måske var lidt afgørende for, at vi havde behov for måske at tænke anderledes eller skifte eller i hvert fald at rykke.
+
+00:17:37
+Den her tanke længere ud i tiden, fordi Det var alligevel nogle rimelig betydelige anlægs eller potentielle anlægssummer, der kom og som anna lige sagde, jamen så er det ikke muligt Sådan stepvis og implementerer dem. Man blev ligesom nødt til at tage dem begge 2 for at få det indre havnebassin, men hvis vi går lidt videre, så er en del af det. Det var jo det her med at Der er udvikling, og hvis vi kigger på hvad Der er planlagt, så havde Svendborg Kommune allerede ligesom givet os.
+
+00:18:09
+En del tanker visioner ideer og som i kan se så særligt til højre, så er der realiserede projekter, hvor alt det grønne og der var en del projekter, der var under afklaring, men også i gang, som er det gule og de røde. Så det blev jo tydeligt at både nybyggeri kommer ind og omvendt så er et af de største aktiver med Svendborg havn er jo foruden erhvervshavnen også lystbådehavn.
+
+00:18:34
+Og hvis man bliver ved med at være attraktiv i fremtiden, så skulle vi også kigge lidt på, hvad var der egentlig for nogle renoveringsbehov, vi kiggede ind i af kajkanterne og funktionerne, når vi nu skulle ind og lave en.
+
+00:18:48
+Stormflodsbeskyttelse og ideerne er jo mange her. Det er jo det, der udfordrer lidt fordi hvordan beskytter man det nuværende? Det fremtidige og med øje for også det eksisterende, og hvor man er på vej hen?
+
+00:19:02
+Så hvis vi kigger lidt videre.
+
+00:19:04
+Så har det været vigtigt. Måske lige at genbesøge. Hvad er det egentlig, Der er i risiko?
+
+00:19:10
+Både det det kendte og det ukendte. Altså hvad er det for nogle højvandsændelser? Svendborg bliver ramt af, hvad er det for nogle steder i landskabet, hvor Der er nogle tærskler, som ligesom gør, at vi bliver udsatte og Sådan lidt hurtigt, så kommer man jo frem til OK, man kigger lidt på højre vandstand, man kigger i højvandsstatistik og man diskuterer lidt om, hvad kan de fremtidige housespejl stigninger blive?
+
+00:19:32
+Og dermed også skal det være med eller uden bølgetillæg, som anna sagde, så var bølger ikke rigtigt kendt fænomen eller noget. De i hvert fald havde oplevet. Så bare det vi insisterede lidt på.
+
+00:19:43
+Vi måske lige skulle kigge lidt på bølgerne. Det var.
+
+00:19:47
+Det var alligevel lidt noget nyt end bare at kigge på en designvandstand, så hvis vi kigger lidt videre på, hvad var det for nogle højvandsændelser eller hvad er det for nogle højvandsændelser Der er i Svendborg?
+
+00:19:59
+Så kan man se på oversvømmelseskortet her til højre, at de her famøse en 66 versus en.
+
+00:20:10
+81 Det er egentlig forskellen mellem en statistisk tyveårshændelse og 100 års hændelse. Og hvis man kigger på kortet, så er der faktisk ikke særlig stor forskel i udbredelsen, og det bliver ret relevant senere hen, fordi Det er udslagsgivende, når man rent faktisk beregner sin risiko.
+
+00:20:27
+At der sker faktisk ret betydelige skader hernede ved de lave hændelser, så lad os kigge lidt videre på hvad der var så så når jeg sagde så bølgerne betød noget og grunden til vi var interesserede os lidt for dem. Det var jo særligt på grund af at finde den samlede sikringsniveau, så vi gik i gang med lidt at kigge. Hvad er det de forskellige havnebassiner, men det blev også klart at jo højere vi havde ting jamen så rev der noget rent visuelt ned på havnen vi skulle forholde os til.
+
+00:20:57
+Og skulle det så være lidt længere inde på kanten eller lidt tættere på?
+
+00:21:03
+Og hvis vi ligesom kigger på konstruktionstypen og placeringen, hvis du klikker videre endnu, så kunne vi ligesom se, at det alligevel betød noget for det ekstra tillæg af bølger. Hvis Det var vi valgte at designe for det. Hvad vi så skulle lægge til den designvandstand, som Svendborg Kommune havde arbejdet med over længere tid, så det betyder lidt det der med.
+
+00:21:24
+Hvad er det for nogle typologier vi kigger ned i, og hvor på placeringsmæssigt på havnen er det både fra et anlægsstatknisk synspunkt, men også hvordan vi oplever Vores kaj og Vores arealer alle de andre dage om året. Så hvis vi ligesom går lidt videre, så kan vi se at.
+
+00:21:44
+Den risikoanalyse, Der er blevet lavet, inden vi kom ind i samarbejdet af Ellen HW water. Der havde man allerede kigget lidt på, hvor var det de største.
+
+00:21:53
+Værdier og potentielle skader og tab ville være.
+
+00:21:57
+Og her blev det jo tydeligt hvis man hvis du lige klikker en enkelt gang andet at hvis man kigger på skaderne jamen så helt traditionelt, så er de stigende som forventeligt fra de lave hændelser op til de lidt højere hændelser. Og de er selvfølgelig også stigende over tid, som vi får flere hyppige højvandshandlingser. Men det Der er lidt interessant, hvis i kigger på kortet.
+
+00:22:18
+Det er at alle hændelserne har ligesom ikke den samme risiko, det vil sige, de har ikke de samme forventede årlige.
+
+00:22:26
+Skader.
+
+00:22:27
+Nej per år, og Det er særligt delområde et, som i ser på billedet med til.
+
+00:22:33
+Den Venstre del af figuren som også der Der er beboelse der vil også har meget kulturarvnede, og hvis vi ligesom snakker om det der hedder risikotæthed.
+
+00:22:44
+Det er Sådan en parameter, der indikerer lidt om hvad er det for nogle hændelser som man Sådan?
+
+00:22:52
+Oplever hyppigst og dermed giver en skade, som alligevel bliver så alvorligt, at rent risikobetrækningsmæssigt, så er det dem her, man skal nedbringe, og man vil se på den første graf her.
+
+00:23:03
+At både de nutid og de fremtid. De ligger ret lavt og måske lidt overraskende, fordi de fleste, der går i gang med et kystbeskyttelsesprojekt, de vælger gerne at starte med 100 årsendelse. Men Der er bare ikke noget odiøst i et flot rundt tal som 100 og kick 50 år frem eller 100 år frem her.
+
+00:23:22
+Der viser den første figur allerede at og og og prøve at dæmme op for hændelser helt ned til.
+
+00:23:28
+En 20 årsendelse. Det kunne faktisk godt betale sig, så hvis vi kigger lidt videre, så.
+
+00:23:35
+Så er vi jo tilbage til det her med hvor hyppigt sker ting, hvor sandsynligt er det? Og det gør også at.
+
+00:23:44
+Det her, Det var jo en måde og måske sænke niveauet lidt her i de første indledende faser og måske tilegne sig lidt mere adaptiv udvikling af sin plan og den kystbeskyttelse man havde tænkt. Og måske også var det der åbnede lidt op for at gå tilbage på de indre kanter, fordi vi behøvede måske ikke at starte til kvote 3.
+
+00:24:02
+Vi kunne godt starte med noget Der er lavere, og så kan man vælge over tid. I sin strategi. Skal vi blive på de indre kanter, eller skal vi ud på sigt?
+
+00:24:09
+Men det blev i hvert fald tydeligt her i Vores risikoanalyse, at Det er med de lave hændelser, der var de største økonomiske gevinster. Men Der er selvfølgelig andet end økonomi, der ligesom vejer ind, men Det er alligevel et vigtigt signal at sende. Fordi hvem er det egentlig vi designer for og med er det det nuværende, er det det fremtidige?
+
+00:24:32
+Og også ligesom være lidt opmærksom på, at i er en del af processen. Senere vil anerkende lidt omkring os borgerinddragelsen politisk involvering altså det der med hele tiden at komme rundt og sikre sig, at forskellige mennesker bliver hørt. Typisk er det også bedre og restaurere og beskytte eksisterende i stedet for selvfølgelig at bygge nyt.
+
+00:24:56
+Men Det kan også være det, at en en mere kombineret tilgang, at vi må erkende at.
+
+00:25:01
+Det ikke er et enten eller, men både og så i hvert fald lige vigtigt og perspektivere lige løfte blækket et øjeblik og finde ud af.
+
+00:25:10
+Hvem? Hvem er det vi gør det for og med og er det til stede og har din stemme i det her designproces?
+
+00:25:18
+Så lad os gå lidt videre herfra.
+
+00:25:21
+Det betød, at vi jo ligesom vi kom jo ind i projektet med henblik på egentlig at skulle realisere det vinderforslag altså den ydre kant som anna snakkede om, men i virkeligheden så blev vi nok nødt til at træde et skridt til siden og og gå tilbage og overveje om Det var den rigtige strategi, fordi en del af kystbeskyttelsesloven og måske også en del af det.
+
+00:25:45
+Og Sådan social ansvarlighed eller en bæredygtig tilgang var i hvert fald også og.
+
+00:25:50
+Vurdere, hvad er det, vi vil beskytte? Hvad er det, vi drømmer om i det her område og med så mange ideer tanker i havnen, så var der også oplagt og synergitænke, og Det var noget, vi tit siger. Og vi ved alle sammen, at det komplicere ting, fordi så skal vi på tværs af forskellige forvaltninger, økonomi og puljer og tid.
+
+00:26:10
+Og omvendt så stod vi jo også med en risikoanalyse og klart sagde, det gav ingen mening at vente fordi.
+
+00:26:16
+Vi oplever hændelserne nu?
+
+00:26:18
+Og vi oplever stor skade nu, men jo mere som man flytter på linjen og linjer bliver til zoner. Ja, så ændrer der også noget med økonomi. Noget med ejerforholdene og hvem Der er der potentielt kan kan medfinansiere det så på en eller 2 måde.
+
+00:26:34
+Så åbnede vi æsken en gang til, selvom vi jo er eller i hvert fald Svendborg Kommune havde håbet på, at vi vi jo måske snørede lidt ind i tragten.
+
+00:26:44
+Så hvis vi går lidt videre, så bliver en en del af det at genbesætte det. Det blev meget og prøve at få en lidt mere bred økonomiandskuelse, så foruden den klassiske hvad koster krysbeskyttelsesanlægget, så måske også kigge lidt omkring. Hvad skal det ellers kunne?
+
+00:27:03
+Hvad var der af arealer? Kunne vi sammentænke med en areal kaj renovering manglede vi nogle faciliteter til Vores lystbådehavn til Vores erhvervshavn.
+
+00:27:12
+Hvad ville vi gerne æstetisk og ved ligesom at flytte lidt rundt på linjerne psykologierne, så blev det også tydeligere, at man Sådan kunne gå i gang med at tælle, hvor mange bygninger får så beskyttelse. Mange enheder hvor mange matrikler hvad er der af forsyninger i området? Og så kunne man ligesom begynde igen den her dialog og starte med at gøre lidt op.
+
+00:27:34
+Og det leder jo frem til noget af det her med bidragsfordelingen, fordi Der er jo også en tendens til, at hver gang vi bygger nyt, så laver vi en en ligesom en lokal sikring, vi skriver ind i.
+
+00:27:44
+Lokalplaner det skal hade os arkitektonisk er det et integreret, og det der jo Sådan set mange gode principper i problemet for Svendborg her var også at hele den nordlige sidepotentielt jo så røg ud, at bidragsfordelingen, fordi de så lokalt sikrede sig i nye, spændende arkitektoniske designs. Så allerede der så vaklede den der medfinansiering også til den ydre sikring og til de løsninger, der egentlig var på tegnebrættet.
+
+00:28:10
+Så hvis vi går lidt videre, så.
+
+00:28:13
+Så er det jo ligesom blevet klart i løbet af processen, at selvom man havde startet ude lavet nogle indledende betragtninger, havde snøret ind til nogle idéer, så er vi alligevel hele tiden nødt til at ændre Vores fokus og Vores opfattelse af ting. Vi er hele tiden nødt til at tillade det der lidt idrættive og tillade at at vi genbesøger nogle ting.
+
+00:28:32
+Samtidig med at vi selvfølgelig holder for øje at at Vi skal også fremad, at vi ikke kan blive ved med at at lukke ting op til diskussion bare for diskussionens skyld. Men hvad er det for nogle nye informationer, der kommer til? Og Det har været vigtigt her og og ligesom kigge ind i, var det den rigtige vej vi gik, og som anna sagde, der var jo faktisk et enig, enstemmende byråd eller en borgmester og kommenter, ville det så så det her med at lave en strategi?
+
+00:29:02
+Og måske også kigge på risiko håndtering bredere end bare og gå direkte til sin beskyttelse. Det man måske har tillade sig, at nuancering de, der måske lidt klassiske begreber omkring, hvad er det vi vil tilpasse på bygningsniveau?
+
+00:29:19
+Tilbagetrækning det lyder altid Sådan lidt voldsomt, at man man måske opgiver bygningen, men Det er også lige så meget.
+
+00:29:27
+Det er da midlertidighed i den.
+
+00:29:30
+Og det betyder også, at hvis vi ligesom kigger fremad på nye ting, så skal vi jo også forebygge, at nye risici kommer ind. Og Det er jo det, der tit i Vores plangrundlag arbejder med den her. Men Vi skal nok også erkende, at det, det ligesom ikke er en enten eller man vil det ene eller det andet.
+
+00:29:47
+Selvfølgelig har Svendborg stadig en overordnet beskyttelsestrategi, men de har også langt hen ad vejen en meget mere nuanceret strategi, hvor dele bliver tilpasset dele er lidt lettere.
+
+00:29:58
+Tilbagetrukket over tid, men Der er også plads til den nye udvikling, og så kan man jo selvfølgelig altid diskutere, hvad er mest hensigtsmæssigt, hvilken hvilken risikovillighed har man som by, men også ligesom omfavne den her midlertidige. Så hvis vi ligesom går lidt videre, så har jeg alligevel puttet en en slide ind, der måske også skal minde os om, at selvom vi prøver at have den her helhedstilgang, selvom vi prøver at være mere dynamisk.
+
+00:30:26
+Omkring Vores planlægning altså det der hedder de adaptiv planlægningsprincipper. Det at vi måske adaptivt også udbygger Vores anlæg, så er det alligevel altid godt at have i mente, at det måske godt kan være lidt en odiøst forestilling, at man rent faktisk altid kan styre havet eller styre vandet bredere. Se det her.
+
+00:30:44
+Det gælder jo Sådan set også regnvand og å vand, men at have lidt respekt for den, og Det er endnu en reminder om at få lagt de der tipping points ind få lagt de der desession points ind hvornår.
+
+00:30:56
+Ny viden hvornår skal den nye viden potentielt føre til beslutninger om at blive på en strategi eller en indre en strategi så så så med det, så kan vi gå videre til til det næste, som jo er. Hvad er det så vi vi kom ud af her?
+
+00:31:16
+Eller fik mad fra.
+
+00:31:18
+Og og Jeg kan sige lidt om, hvad var det vi som Sådan projektejere og Kommune stod med efter de her analyser og et helt vælg af andre spændende ting vi var igennem.
+
+00:31:32
+Men i hvert fald altså. Det gentager lidt det Marianne siger man. Risikoen var ikke at lave en høj kvote fra starten.
+
+00:31:40
+Risikoen lå i de lave hyppige hændelser, der ville ske oftere og oftere i takt med at hav venner kommer til at stige.
+
+00:31:48
+Og og det her med at bygge store porte på vandet. Det havde store konsekvenser for, hvilke skibe der kan sejle ind i Vores havn. Og selvom vi fandt på andre portløsninger og så videre, så ville der stadigvæk være en meget høj økonomi bundet i bare portanlægget.
+
+00:32:07
+De er dyrere anlæg og vedligeholde driften af dem. Bare det at lukke dem koster ret mange penge, når man begynder at dykke ned i.
+
+00:32:16
+I.
+
+00:32:17
+I hvordan andre har bygget porte, og så er der den her erkendelse om at porteanlæg de er lidt sværere og Sådan skubbe på modellere.
+
+00:32:29
+Tilpasse i fremtiden, hvis nu man bliver klar over man får ny viden. Der er nye prognoser. Der er andre ting, som som Vores beskyttelse skal håndtere.
+
+00:32:40
+Og det gav også en erkendelse om, at en indre linje giver mulighed for at stave starte med den viden, Vi har starte lavt starte med at beskytte sig mod den udfordring, vi står i allerede nu, og så have et blik for at kunne forhøje den til et vist niveau senere og.
+
+00:33:00
+Og det giver også altså Vi er nødt til at tænke på, at Der er også bliver, at havnen har altid udviklet sig.
+
+00:33:07
+Og havnen skal blive ved med at udvikle sig og og Det er vigtigt at lave en strategi, som som hele tiden kan kan tilpasse sig den virkelighed, man står i også i fremtiden.
+
+00:33:19
+Det var en stor erkendelse, at vi, hvis vi lagde linjen længere inde på kajen, så havde vi mindre behov for at lægge bølge tillæg på. Jo højere jo længere ude jo hårdere kanten er, jo mere bølgetilæg, og jo højere skal din beskyttelse være, og jo mere.
+
+00:33:37
+Barriereskabende vil den være.
+
+00:33:41
+Renovering af Vores kajkanter er også en kæmpe udfordring. Vi har masser af vedligeholdelsesefterslæb på havnen, og det bør tænkes med ind i en fremtidig beskyttelse. For hvis kaj kanten ikke er tæt, eller hvis den er ved at skride i havet, så kan muren du bygger ovenpå være lidt lige meget så det her med at tænke ind i, at man måske også står for at sætte nogle investeringer ind i selve.
+
+00:34:05
+Vedligeholdelse af kajkanten skal tænkes med i klimatilpasning, og så blev vi klar over, at med den situation Vi har på Svendborg havn der vil det kun være en lille del af finansieringen, der kan komme fra grundejerne. Og Det er ikke et stort boligområde, der bliver ramt af hændelserne, men Det er Vores havn, som er en fuldstændig sammensat.
+
+00:34:29
+Blanding af både boliger, Erhverv og.
+
+00:34:33
+Alle mulige andre anvendelser, og derudover så er der rigtig meget kulturarv og rigtig meget byens DNA bundet i selve havnen. Så beskyttelse her bliver ligger på vippen mellem at være i almen interesse og for hele kommunen.
+
+00:34:49
+Og så de enkelte ejendomsejere, der bliver beskyttet.
+
+00:34:52
+Og og når alt Det er sagt, så har vi fået ny erkendelse, men Det er der stadigvæk svært at realisere Sådan en stor strategi. Og Det er heller ikke fordi Vi er gået fra de 700 mio. Og så til 0 kr.
+
+00:35:05
+Det er stadigvæk rigtig dyrt at realisere den her strategi, men det hjælper på det, at vi kan gøre det skridt for skridt og bid for bid i stedet for at skulle finde et trecifret millionbeløb til at lave en løsning en gang for alle.
+
+00:35:21
+Så så noget, der også har været vigtigt i den her proces. Det har været at have politikerne med hele vejen. Vi har haft en del temamøder undervejs, hvor de her analyser Marianne har beskrevet.
+
+00:35:34
+De har været præsenteret for politikerne, Vi har.
+
+00:35:39
+Stået med valget mellem flere strategier og givet politikerne mulighed for at give deres tanker og besyv med.
+
+00:35:47
+Og Det er klart, at når man spørger umiddelbart første gang, så er vi igen et sted, hvor man helst vil beskytte alting, fordi de fleste Svend brugerenser elsker deres havn. Og hvorfor skal vi ikke beskytte den? Den skal jo også være der en gang i fremtiden, men når man netop kommer ind i maskinrummet og får øje for alle de mange facetter Der er så.
+
+00:36:09
+Så så det med at man begynder at kalde noget for zoner og blå zoner.
+
+00:36:14
+Det behøver ikke betyde, at man ikke holder afstedet, og Det har været vigtigt. Og Det er også et råd til alle andre, der har skulle stå over for det. Sådan noget her.
+
+00:36:23
+Det tager rigtig lang tid at skabe 1 1 1 fælles beslutning om det her, og det kræver en del temamøder. Det kræver ikke bare beslutningsdagsordener, hvor de skal sige ja eller nej til ting, men men det kræver, at man lukker dem med ind i.
+
+00:36:41
+I øvelsen.
+
+00:36:43
+Og derudover så er der jo byens borgere, som har, som jo også er alt, hvad der handler om havn. Det er noget, der ligger svendeborgenserne på<3 og hvis man forandrer ting på havnen, så mener de fleste svendborgenser noget om det. Og Vi har grebet borgerinddragelsen an med mange forskellige greb, og dels har vi haft traditionelle borgermøder, hvor Vi har fortalt om.
+
+00:37:09
+Både hvad Der er.
+
+00:37:10
+Altså både før konkurrencen har vi haft borgerne med inde og sige noget omkring hvilke drømme og ønsker har de fra Vores fremtidige havn og og når vi så er gået ind i det her med hvordan Vi skal gå til mødet med vandet i fremtiden, så har vi også inviteret dem til borgermøder, men også en del havnevandringer, hvor Vi har gået ture på havnen og og ligesom prøvet at beskrive nogle af de steder, Vi har stået, hvad det vil betyde, hvis man gør enten det ene eller det andet.
+
+00:37:40
+For for stederne derudover så har vi arbejdet med og.
+
+00:37:46
+For eksempel at sætte nogle klistermærker op, og det klistermærke, Der er til Venstre.
+
+00:37:53
+På i billederne her. Det er fra en udstilling, vi lavede sammen med det lokale museum 150 år efter stormfloden i 18. 72, og det giver en viden om, at vandet har allerede stået til kvote 2 4 for 150 år siden og begynder at sætte Sådan nogle små klistermærker.
+
+00:38:10
+Det kan virke som et Sådan lidt enkelt og plat greb, men Det har været ekstremt.
+
+00:38:15
+Et vægtfuldt og sætte dem op både på lygtepæle og på bygninger og og sige jamen det her. Det var det der skete i 18 72 og så havde vi lavet den her udstilling, hvor at museet fortalte noget om, hvordan man har levet med vandet tilbage i tiden, og vi fortalte, hvordan man går til det i fremtiden.
+
+00:38:37
+Som Kommune, så det samarbejde var rigtig godt og er noget, vi stadigvæk har dialog om, hvordan Vi skal.
+
+00:38:44
+Både kigge tilbage og frem i forhold til formidlingen af tilgangen, og så har vi altid udstillingers omhavneudvikling og klimatilpasning stående ude fysisk på Vores havn alle dage om året, så man altid kan gå hen og læse om projekterne, og Der er også links til selvfølgelig hjemmesider, hvor Der er nogenlunde opdaterede viden at hente der også.
+
+00:39:10
+Et sidste ting, Jeg vil komme ind på.
+
+00:39:12
+At Vi har brugt Det har været at lave nogle Sådan mockups ude på kajen og den her oppe i højre hjørne. Det er en højvandsbænk vi fik bygget et sted på på en kaj, hvor vi lige nu planlægger for at lave en højvandsmur og den kunne give et bud på. Dels hvor høj bliver muren?
+
+00:39:34
+Hvad er det når vi snakker om kvoter og kvote det ene og kvote det andet det her? Det bliver meget, meget konkret.
+
+00:39:41
+Så høj bliver muren, og derudover så gav vi et bud på, hvordan man så også kunne bruge dele af muren til at få skabt siddemuligheder og og lavet et plantebed for os at sige. Jamen man kan bruge den her højvandsbeskyttelse til også at skabe et nyt rekreativ byrum op og ned ad muren så og igen med masser af information på selve bænken, så man igen ved hvor man kan læse mere om det.
+
+00:40:10
+Det her med at have politikerne med på rejsen. Det har jeg en oplevelse af er har været ekstremt vigtigt, fordi Det er ikke kun Svendborg havn, Der er et risikoområde, så at Vores politikere, der møder borgere, der står med vand op over anklerne og på en eller 2 måde kan tage diskussionen om ikke bare love. Jamen Vi skal beskytte det hele på en gang, og det gør vi lige om lidt, men at.
+
+00:40:35
+At man ligesom prøver at gå ind i den komplekse problemstilling. Det er, at Der er vand mange steder.
+
+00:40:41
+Og også stå på mål for de her svære valg. Der har været II at skifte strategi i Svendborg, og her er det Svendborg Kommunes borgmester, bo Hansen, der bliver interviewet til 1. 1 artikel i magasinet kommunerne og og og Der er det ligesom at han er helt med med i detaljerne om, hvordan den her beslutning, hvad den betyder og hvorfor Vi har truffet den.
+
+00:41:09
+Og hvorfor politikerne haft truffet den, og for eksempel har bo også blevet inviteret til at deltage på Folkemødet på fredag, hvor han igen skal være en del af en debat, der fortæller, hvorfor er det billår lader dele af havnen oversvømme?
+
+00:41:25
+Så gode råd til andre, der står med det her arbejde, og der vil mig og Marianne prøve at komme med lidt Sådan den her igen. Hvad er kommunens synsvinkel og hvad er rådgiverens synsvinkel? Men Jeg vil starte med at sige turde at stille de svære spørgsmål, turde genbesøg beslutninger, som allerede er stillet.
+
+00:41:48
+Og det betyder også at at Det er lidt vigtigt at være bevidste om de her udfordringer, vi står overfor. Altså hvad er både de kendte og de ukendte og både begrænsningsmæssigt både i forhold til medarbejdere og viden lokalt det og måske samarbejde på tværs i enheder og andre virksomheder og organisationer, men bestemt også på den strategi eller det løsningsforslag i har så vær åben omkring det her.
+
+00:42:16
+Og så er det vigtigt at se klimatilpasning i sammenhængen med byens udvikling i øvrigt, og Det er en kompleks størrelse, fordi man ved, hvad man ved lige nu. Og så sker der altid alt muligt dynamisk og uforudset, men man i hvert fald prøver at tage den viden, end man har i forhold til øvrige udvikling.
+
+00:42:36
+Og det understreger ligesom også, hvor vigtigt Det er, at vi hele tiden får struktureret, hvad Det er, Vi skal have undersøgt og kortlagt, som bringer os videre til en beslutningstand, således vi får fremdrift i Vores klimatilpasning.
+
+00:42:52
+Og et andet godt råd er at få kortlagt jeres værdier, altså få styr på hvad det egentlig er, som dels noget omkring skader og Sådan noget, men også få taget snakken om hvad er egentlig umisteligt for jeres by og hvad er mindre vigtigt, eller hvad er mere robust til at kunne klare nogle højvandsættelser, dels både anvendelser og Sådan teknik i forhold til bygningernes.
+
+00:43:18
+Beskaffenhed kan man sige.
+
+00:43:21
+Og det går også rigtig godt i hånd med det her med at forholde sig lidt mere til risiko. Vi har nok lidt en tendens til at blive på Vores farekort, blive lidt overvældet af mængden af af blot på kortene i Vores oversvømmelseskort, men rent faktisk tage Vores risikoanalyse til os. Kig på strategien, lav nok fleksibilitet og robusthed i den her strategi.
+
+00:43:46
+Sådan at at det bliver lettere og og hvad hedder det at realisere den, men også hele tiden er åben for forandring og Det kan integreres.
+
+00:43:57
+Og så er det vigtigt, som jeg også nævnte før for både borgere og politikere med på rejsen, og det koster bare tid, og det koster ressourcer, og Det er vigtigt at både høre, hvad folk synes, men Det er bare en ret stor del af. Det er hele tiden kommunikation, kommunikation, kommunikation om hvad Det er, man er i gang med. Og der har jeg Sådan et motto, der hedder transparens og ærlighed, altså dels transparens i forhold til lægge bare analyserne ud et sted hvor folk kan hen.
+
+00:44:28
+Med så man kan gå i dybden, hvis man er interesseret i det, men også være ærlig, når folk siger hvorfor bliver bliver jeg ikke beskyttet. Bliver mine bygninger ikke beskyttet, at der må man være ærlig om hvad der kan lade sig gøre, og hvad Der er besluttet politisk og og hvilken retning man er på vej i.
+
+00:44:47
+Og så er vi jo lidt tilbage til det her også og og være åben om den her bevidsthed eller usikkerhed. Vi drømte om noget større. Vi drømte om en ydre sikring, den vanvittigt god ide og vision om.
+
+00:45:00
+Vi bliver også nødt til at at være realistisk omkring hvad vi kan gøre, fordi Det er ærgerligt ville være at ingenting skete så det her med at sige OK klimaet forandrer sig, men det gør byen altså også, og derfor bliver vi nødt til at kunne lave en strategi, der i højere grad endkluderer det her.
+
+00:45:18
+Og de ukendte usikkerheder, der kan være fra alt fra den tekniske løsning til finansieringen af den og så videre.
+
+00:45:26
+Og helt kort tag snakken også om økonomi og bidragsfordeling sig til folk fra starten af, at Det kan være de kommer til at være med til at finansiere de løsninger man snakker om. Og Det er jo i Vores kystbeskyttelsesloven mulighed, at at man kan lave kommunale fælles projekter og på den måde få dele af finansieringen eller måske hele finansieringen bliver bidragsfordeling.
+
+00:45:50
+Så det et af de budskaber, som vi i hvert fald gerne vil have med i dag. Det er, at inden vi bliver grebet af løsningsrummet og dykker ned i detaljen og har det her behov for at fikse det og lyse det, så måske være lidt mere bevidste om, at vi får en mere robust og måske mulighed for at realisere Vores projekter i højere grad.
+
+00:46:14
+Hvis vi får lagt dem ind under en strategi, hvis vi får dem brudt op, hvis vi får modnet.
+
+00:46:19
+Vores settings altså både det politiske, men også borgerne ser de her forskellige aktioner og projekter i spil. Så kan vi arbejde med det løbende, fordi klimatilpasning er ikke noget, som er et projekt fikset, og vi kan tikke af. Altså særligt havspejlet bliver ved med at stige, og det gør det Sådan set også efter at vi potentielt får nedbragt lidt af Vores drivhusgasser.
+
+00:46:43
+Men Det er ikke kun om 50 og 100 år.
+
+00:46:46
+Vi er helt ude i 200 år, og Det er klart Det er abstrakt og planlægge på Sådan en lang bane, så det her med at at måske ændre sit mindset eller sit ord. Få råd til at det ikke helt er nogle løsninger Der er afsluttes og fikses, men Det er nogle projekter Det er step på vejen. Det er trædesten til et mere klimarobust samfund.
+
+00:47:08
+Ja så.
+
+00:47:11
+Jeg kan se. Vi har også nærmer os noget, hvis Vi skal have noget tid til spørgsmål, men altså vi Vi har nogen strategi, der går delvist langs havnens indre kant, men hvis vi tænker tilbage på det slide omkring de 2 forslag, der var i konkurrencen, så er det ikke enten eller Det er en strategi, Der er dele af den beskytter og dele af den inviterer vandet ind i nogle zoner.
+
+00:47:35
+Og for eksempel frederiksø, der ligger her i billedet, er et af de blå zoner, der kommer til at være. Den ligger udenfor beskyttelseslinjen. Det, Der er vigtigt omkring frederiksø, er, at Der er ikke nogen boliger.
+
+00:47:46
+Der er nogle erhvervsvirksomheder. Dem har vi også inddraget i processen og spurgt om de, hvad de egentlig var mest.
+
+00:47:55
+For om man skulle beskytte alle arealer, eller om de helst så at de kunne tilpasse deres bygninger og virksomhed i takt med.
+
+00:48:04
+Havvandsstigningen og Det var.
+
+00:48:08
+Ikke interesseret i at blive lukket inde bag en mur og nogle sluser og ville egentlig gerne være fri for det.
+
+00:48:16
+I forgrunden er billedet er der en stor nybygning og nybyggeri på Svendborg havn er hele tiden gjort opmærksom på de bygge eller de projektejere, der bygger, at Der er en højvandsrisiko, og de bygger robuste bygninger, hvor dele af dem inviterer vandet ind på gulvet.
+
+00:48:35
+Nede i deres stueetager og andre bygger sig op på en plan.
+
+00:48:40
+Vi er i gang med at realisere strategien, og første del er en del af den, hvor Vi har en beskyttelseslinje ude i den sydlige del af havnen, der også er den lavest liggende, og Der er vi i gang med at at projektere det her, og vi regner med at have bygget projektet i 2027.
+
+00:49:01
+Og nu tror jeg, at vi vil give ordet til Camilla, der måske.
+
+00:49:07
+Er tigget nogle spørgsmål ind i chatten.
+
+00:49:11
+Ja Det er der.
+
+00:49:14
+Nu skal jeg lige finde den frem her øjeblik.
+
+00:49:17
+Malene kamsted spørger jeg forstår ikke helt hvad løsningen blev, hvad og hvordan beskytter i nu byen?
+
+00:49:24
+Yes.
+
+00:49:26
+Den vil jeg gerne svare på. Vi har lavet en, hvis vi lige går tilbage til billedet her, så når man kigger.
+
+00:49:35
+Langs med havnens kant er der en beskyttelseslinje op til den røde bygning nede II højre hjørne, og Det er en beskyttelseslinje med en højvandsmur langs med kajkanten. Og så når man når ned til den sydlige del af havnen altså.
+
+00:49:53
+Hvor det store træskib vender sin stævne hen imod der har vi så en ydre løsning med en mindre sluse port som og der, hvor vi valgte at beholde den. Det var at man stadigvæk man kunne kombinere den beskyttelse med også at skabe en forbindelse henover vandet.
+
+00:50:11
+Så der har vi simpelthen altså der har vi en ydre løsning med en sluseporter, nogle højvandsmåler og så den her højvands.
+
+00:50:21
+Mur op langs bygningen op til højre hjørne og så i forkanten her, hvor Der er nye byggerier på vej på billedet. Der er det en blå zone, så der bygger man beskyttelsen ind i en fremtidig terræn og ind i et fremtidigt.
+
+00:50:39
+Ind i de fremtidige nye bygninger, der kommer til at ligge II 2 eller 3. Række og alle de bygninger, der ligger foran beskyttelsen. De skal kunne håndtere og blive oversvømmet.
+
+00:50:51
+Eller have vand op og ned af soklen engang imellem, og når vi så bevæger os videre ud mod i den i den Venstre side af billedet, hvor Der er nogle siloer. Det område står over for en fremtidig omdannelse, Der er kornoplag i dag og i en nær fremtid vil der skifte anvendelse, og der afventer den præcis hvordan linjen skal ligge for beskyttelse lidt hvad Det er for en anvendelse, der så skal være, men der.
+
+00:51:20
+Kan det være man skal bygge sig ind i fronten af facaderne og lade bygningerne være en del af beskyttelsen? Og Det kan også være, at det giver mening, at de ligger ude i en blå zone og ikke bliver beskyttet, og frederiksø ligger sig udenfor beskyttelse, og det kræver, at hver eneste bygning, der ligger på frederikssø de skal, hvis man kommer til at skulle omdanne dem eller investere i.
+
+00:51:45
+I renovering af de bygninger, så skal man forholde sig til, at der kan komme.
+
+00:51:49
+Vand i højvandsinden så stormflåder. Blandt andet er der en af de store gamle værtshaller, der bliver bygget om til et teater, og der vil det i den proces med ombygningen give mulighed for enten at bygge sig op på en blindt eller invitere vandet ind i stueetagen i det her nye teater.
+
+00:52:08
+Og hvis jeg lige kan supplere, så prøv at gå til den slide der hedder 360 graders anskuel fordi så er der et kort og så kan Camilla læse det næste spørgsmål op og så kan man lige kigge på den fordi Det er.
+
+00:52:21
+Måske en tilbage mere tror jeg måske til den der hed 360 grader.
+
+00:52:29
+Ja så Det er det der hedder strategi b på det her kort, som der nu i højere grad følges.
+
+00:52:40
+Er vi klar til næste spørgsmål? Yes anja Weiss. Hun skriver mange tak for et virkelig spændende oplæg ana Marianne, Det er rigtig godt.
+
+00:52:48
+I kommer med de reflektioner og læringer i har gjort undervejs. Der er mange danske kystbyer, der i de kommende år står over for nogle lignende tiltag med de erfaringer, i har gjort jer hvilke anbefalinger har i til dem forud for arkitektkonkurrencen? Så valg af arkitekt og løsninger møder de behov, de har.
+
+00:53:05
+Vil du starte Marianne?
+
+00:53:07
+Ja Det kan jeg godt. Det er jo Det er jo måske et lidt svært spørgsmål i den forstand at.
+
+00:53:14
+Når jeg kigger på, hvad Svendborg Kommune har gjort, så synes jeg jo, at Der er mange spændende ideer omkring arkitektkonkurrencen, men det bliver også lidt den evige diskussion om hvad kommer først og sidst skal. Hvornår skal man have lavet nogle tekniske undersøgelser, der fremmer noget? Og hvornår skal man have kortlagt sine arkitektur, eller hvad der betyder noget?
+
+00:53:37
+Men Jeg tror man skal tænke det lidt mere når man laver arkitektkonkurrencer, så er det måske i højere grad inspirationskatalog til så at få den efterfølgende dialog i stedet for at sætte det ligesom op som Sådan det her. Det er vinderen, Det er den her vej Vi skal. Så jeg kunne måske også godt tænke mig en gentænkning af, hvad arkitektkonkurrencen skal kunne, for Der er ingen tvivl om, at Vi skal blive ved med at have det her mulighedsrum, hvor man tænker ud af boksen, hvor man får dialogen.
+
+00:54:01
+Men så ligesom sikre sig, at Der er plads til den her.
+
+00:54:07
+Proces om både politisk borgermøde, men også gør plads til undersøgelserne. Om Det er kortlæg med historisk samtale med nogle developers samtale med eksisterende Erhverv eller hvad. Det er altså skab noget rum i den der proces.
+
+00:54:24
+Og hvis jeg skal supplere, så synes jeg også at altså Vores arkitektkonkurrence har ikke været værdiløs. Altså selvom at vi Vi har været nødt til at genbesøge beslutningen om vinderforslag, så har vi en dommerbetænkning, der indeholder et helt katalog af løsninger til, hvordan man kan omforme sine kanter ned mod vandet på en måde, der også giver mulighed for byliv og rekreativt liv og.
+
+00:54:51
+Og hvordan erhvervshavnen kan fortsætte og så videre, så så Jeg er enig med Marianne, at det måske en måde hvordan man kan få en masse ideer ind, men i virkeligheden så er der en rigtig vigtig snak man skal have med sin egen by, altså sine egne politikere og borgere om hvad er det umistelig? Hvad er det der skal beskyttes og hvad er hvad er andre arealer, som som vi kan gå til på en 2 måde altså Vi har?
+
+00:55:17
+Med Vores havneudviklingsplan fra 2014. Nogle byudviklingsarealer og dem.
+
+00:55:22
+Havde vi som som forudindtaget, og de skulle selvfølgelig beskyttes, så man kunne bygge omme bagved, men i virkeligheden med den nye strategi, så så bygger man og Det er det, der hedder Nordre kaj på på strategi b der der bygger man nogle nye bygninger, som bliver en del af beskyttelsen for den bagvedliggende by og det. Det er jo en helt 2 måde at gå til det på, men men risikoanalyse altså hvor ligger værdierne? Og så er der også nogle andre værdier som er svære at sætte.
+
+00:55:50
+Økonomi og tal på, men hvor er det umistelige for jeres by?
+
+00:55:58
+Jeg tror vi kan nå et spørgsmål mere. Det er fra Birgit sønderskov Weber. Hun skriver interessant.
+
+00:56:04
+Findes der en skitse af ændringerne, som du forklarer nu anna? Og så tilføjer hun, hvis man skal bruge jeres erfaring hos strategiarbejdet til en strategi for hele kystlinjen, har i så input til hvad hvordan man bruger jeres erfaringer samtidig med at man bliver på et mere overordnet niveau?
+
+00:56:22
+Altså Jeg synes klart Det er vigtigt at man får lavet nogle indledende analyser, og Det er fint at det Det er på screenings niveau, men man bliver simpelthen nødt til at have gang i den her multikriteranalyse om hvad der kan vægte og Det kan altid laves om. Det er ikke det om at sidde og fedte med et tal eller rødgult grøn, men simpelthen få den her snak om hvad skal det et område kunne og så måske bløde op for enten eller at.
+
+00:56:49
+At hver gang Der er noget meget bynært. Hvad hedder det beboelse eller noget helt nede i vandkanten, så går vi ret hurtigt til til beskyttelse og sætter en streg og skriver beskyttelse foran i Vores overordnede strategi på en kystlinje. Men men ligesom lige zoom lidt ud og sige ja, Der er en overvejende at beskytte strategi, men den har elementer af noget andet eller Vi skal kigge ind i det i nogle ting.
+
+00:57:12
+Men altså det kræver stadigvæk, at man har lidt for øje for.
+
+00:57:17
+Hvad området kan, og selvfølgelig har Danmark en masse offentlige data, som man hurtigt kan screene værter natur, hvilket miljø ting hvor har vi bebygget? Hvor er der et eller andet, men at tillader lige at hævde det lidt op om hvad. Hvad kunne det give til området og hvem skal betale?
+
+00:57:34
+Selvfølgelig for den her forkystbeskyttelsesloven og kystbeskyttelse er jo et teknisk anlæg og.
+
+00:57:40
+Den primære nytte og men det med at drømme stort og det med at det skal kunne multifunktion. Jeg synes personligt Det er den eneste rigtige vej. Det er den eneste bæredygtige investering, men vi bliver også nogle gange så store visionsmæssigt at at det rent økonomisk bliver alt alt alt for store beløb til at vi kan samle den investering i et hug.
+
+00:58:02
+Så overordnet set. Det er sikkert ikke så anderledes end hvad hvad de fleste af jer egentlig gør i dag. Men have den der dialog.
+
+00:58:09
+Mindre fokus på et produkt og en løsning fremadrettet og mere, at Vi skal have lagt en strategi. Vi skal have lavet den adoptiv planlægning, så vi tør vende tilbage til noget, så ny viden kommer ind, og Det kan man sagtens lave for længere kyststrækning eller helt for på kommuneniveau, at man lige snakker lidt om, hvad det skal kunne, og hvor Vi er i dag, og hvor Vi skal hen.
+
+00:58:32
+Og så i forhold til om der findes en skitse. Det gør der, og Vi har en hjemmeside der hedder fremtidenshavn.dk og der kan man læse en masse mere om den blå kant og man kan downloade dommerbetænkningen fra konkurrencen og og strategien, som er blevet politisk vedtaget i april sidste år.
+
+00:58:54
+Jamen klokken nærmer sig med hastige skridt 9 Det har simpelthen været super super spændende at høre om, og Jeg kan i hvert fald notere mig, at Jeg har en masse ting jeg skal tilbage i mit bagland og og snakke med dem om og som sagt anna igen. Jeg vil virkelig anbefale at gå ind på Svendborg Kommunes hjemmeside. Der står nogle rigtigt og nogle rigtig gode, også nogle foldere i har lavet borgerrettet og Sådan noget, så gå ind og tjek det ud, for Der er masser af inspiration at hente der.
+
+00:59:22
+Men ellers bare 1000 tak for for jeres oplæg og jeres tid. Det har været en kæmpe fornøjelse.
+
+00:59:28
+Så tak og så skal jeg lige minde jer allesammen om derhjemme, at webinaret jo er blevet optaget så.
+
+00:59:36
+Det kan altså genses eller Det kan stikkes ud til en kollega, der simpelthen bare skal høre det her. Men tak for nu.
+

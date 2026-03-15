@@ -1,0 +1,1458 @@
+00:00:05
+Hej allesammen så blev kl. 01:00, så jeg tænker vi går i gang. Jeg skal først og fremmest lige sige at Vores webinar her det bliver optaget.
+
+00:00:16
+Bare sige Jeg er opmærksom på det. Det ved jeg. I er blevet gjort opmærksom på af flere omgange vil sige det alligevel, så ville jeg ønske jer meget velkommen her til DMI masterclass i samarbejde med DNAK det kommer til at handle lidt om hvad er det for noget arbejde vi går med her hos DMI.
+
+00:00:33
+Og Det har vi så sammensat en række klimaforskere til at gå og fortælle jer lidt om her, både i dag og de næste par tirsdage, så det håber vi, at i har fået en kaffe klar og er klar til det. Så Jeg vil egentlig bare dele nogle slides med det samme, og så synes jeg bare, Vi skal gå i gang.
+
+00:00:51
+I skal være i selskab med os de næste 3 tirsdage inklusiv i dag og i dag. Der skal det handle om klimamodeller. Det vil sige både klimaatlas.
+
+00:01:00
+Og nej, Det er statlen for det hele. Det er titlen for det hele her så klimaatregn dag tager stormfloder både nu og i fremtiden. Det skal vi handle om de næste par tirsdage, og i dag handler det så om fra globale klimamodeller til klima atlas.
+
+00:01:19
+Vi prøver lige at få det til at ske.
+
+00:01:22
+Og Det er i selskab med i dag med Vores klimaforskere, mark og ole.
+
+00:01:27
+Og næste tirsdag, der skal vi Sådan dykker vi ned i regn hvad, hvorfor og hvornår, og det bliver i selskab med hjalte og Jonas og til sidst 3. December. Jamen så går vi så ind og dykker ned i stormfloder, hvor hvor tit og hvad er det for nogle forandringer Det kan give, og det sker så med Carsten og Martin, så det håber vi på, at i finder spændende.
+
+00:01:48
+Vi glæder af mig også i hvert fald til at fortælle jer alt muligt om det.
+
+00:01:52
+Første oplæg det bliver rolig, og så holder vi cirka 5 minutters pause.
+
+00:01:56
+På et tidspunkt, når ole har været igennem det, og så bliver det mark, der går videre til at fortælle noget om klimaat de kommer også lige til at præsentere sig selv lidt bedre lige om lidt, når de går på hver især. Og så skal i bare huske, at spørgsmål er meget hjertelig velkommen undervejs. Vær sød lige at skrive dem i chatten eller ræk en hånd op.
+
+00:02:14
+Vi skal nok prøve at holde øje så godt som muligt, men hvis i synes i har ventet lang tid, så sig lige til.
+
+00:02:22
+Så det tror jeg, at det Jeg vil sige for nu, og så vil jeg bare give ordet videre til ole.
+
+00:02:30
+Og så håber jeg at II har en et godt godt med min navn nu her.
+
+00:02:36
+Tak.
+
+00:02:37
+Tak skal du have Julie.
+
+00:02:41
+Stopper lige delingen, som i også kan få lov at sige hej til mig. Se hvordan jeg ser ud. Jeg hedder ole Christian Christensen og Jeg har arbejdet med klimaodeller specifikt med regionale klima-modeller her på DMI mange år, og det Jeg vil fortælle om Det er altså, at hvad får man ud af klimamodeller hvad er klimamodeller?
+
+00:03:03
+Hvad er det for en form for resultater, der kommer ud?
+
+00:03:06
+Jeg vil snakke om.
+
+00:03:08
+Forskellen på global og modeller, regionale modeller og meget højt opløste.
+
+00:03:14
+Convection permentting modeller.
+
+00:03:18
+Og så lad os se engang den jeg skal dele. Det er den her ikke også.
+
+00:03:24
+Ja Sådan der nu kan i forhåbentligt se.
+
+00:03:27
+Ejner sliden igen ellers mundoveren lige send en mikrofon og råb højt.
+
+00:03:34
+Så.
+
+00:03:38
+Skifter.
+
+00:03:42
+Slip her jamen det hjalp ikke.
+
+00:03:51
+Ja ja.
+
+00:03:53
+Der var lidt træghed i musen så som sagt, hvad er en klimamodel ECM? Det er en global klimamodel RCM. Det er en regional kaliomodel fra en CPM.
+
+00:04:04
+Det er en convection premiering, altså en særlig afart af en regional piramodel, og Jeg vil gå ind på.
+
+00:04:12
+Den det, der ligesom gør Vores model resultater klar til at kunne blive brugt i for eksempel klimaatlasset, altså hvad. Hvordan får vi resultater ud derfra? Hvad er det for en form for resultater og snakke en lille smule om usikkerhed?
+
+00:04:30
+Hvorfor i alverden vi gør det?
+
+00:04:33
+Og hvordan hvis i nu hvis nogle af jer får lyst til at arbejde direkte med klimamodeller? I kan selvfølgelig få en hel masse ting ned fra Vores klimaatlas, men i kan også hente modelresultater direkte forskellige steder fra.
+
+00:04:51
+Det er det det handler om.
+
+00:04:56
+Oplevet.
+
+00:04:59
+Modeller. Det er dem, der ligesom der danner grundlaget for det hele, fordi hvis man skal.
+
+00:05:07
+Altså måske 3 1 skridt baglæns, såfremt Der er nogen der ikke Sådan helt ved hvad en klimamodel overhovedet er.
+
+00:05:16
+Hvis man vil gøre sig håb om.
+
+00:05:19
+At kunne sige noget om, hvordan de her menneskeskabte ændringer i atmosfæren, hvordan de vil.
+
+00:05:28
+Manifesterer sig i jordens klima, så er man jo nødt til at lave en model og den slags model, Vi har her. Det er.
+
+00:05:36
+En meget, meget omfattende model. Det er ikke en statistisk model. Det er en dynamisk model.
+
+00:05:41
+Vi skal kende atmosfærens tilstand.
+
+00:05:46
+På et eller andet tidspunkt tidspunktet nu og for at kunne det, så deler vi jo op. Vi deler jorden op i en masse kitterbokse, og vi deler den også op i en masse niveauer.
+
+00:05:58
+Og i hver eneste af de der små kuber hver eneste gitterboks hver eneste niveau. Der kender vi nogle fysiske felter. Vi kender temperaturer og vind i 2 retninger.
+
+00:06:10
+Vi kender fugtighed, og når vi så kender de ligninger der.
+
+00:06:16
+Der styrer, hvordan atmosfæren bevæger sig, så kan vi løse de ligninger og dermed vide, hvordan atmosfæren så ser ud lidt anderledes.
+
+00:06:27
+Og mit tidsskrift og et tidsskrift. Det er jo altså kort tid. Det er for en global model, måske et kvarter eller Sådan noget.
+
+00:06:36
+Og så regne og regne og regne og regner vi og så en del af det input som.
+
+00:06:42
+Sådan en model har Der er der blandt andet drivhusgasser er jo solgt koncentrationer og Sådan noget som menneskene jo er ved at ændre. Og så kører vi de her modeller i.
+
+00:06:55
+Måske 150 år hver især og kigge på alle de Meteorologiske felter der kommer ud af det.
+
+00:07:03
+Selvom Vi har en frygtelig masse gitterbokse og en frygtelig masse niveauer, så kan vi ikke beskrive alt det, Der er relevant. For eksempel så foregår altså Sådan nogle gitterbokse i en global model er måske 100 km, og Det er jo alt for stort til at kunne sige noget om nedbør til at kunne sige noget om, hvad der løber i floder til at kunne sige noget om land havkontrast og så videre og så videre og så videre. Så derfor har vi også noget der hedder.
+
+00:07:28
+Den fysiske parametreisering, som er nogle ligninger, der ligesom.
+
+00:07:32
+Tilnærmer alt det der sker på< en gitterbokse skala og hvad der så er med i den her fysiske parameterisering. Det afhænger jo af opløsningen af modellen, så Det er lidt forskelligt fra den her globale model vi snakker om lige nu og så til den de regionale modeller, som Vi skal snakke om om lidt.
+
+00:07:55
+Opløsning med Sådan nogle modeller har ændret sig gennem tiden. Bare lige her er en.
+
+00:08:02
+Nogle eksempler på, hvad for en form for opløsning man arbejdede med tidligere, da de første rapporter fra.
+
+00:08:12
+Fra EPC kom frem den første den 2.
+
+00:08:17
+Skal lige se engang Sådan.
+
+00:08:20
+Jeg fik at vide, hvis jeg trykker kontrakt eller så ud i sengen på vejen. Det virker godt nok ikke Sådan der.
+
+00:08:25
+Den 3 og den 4. Og så kunne man selvfølgelig fortsætte til den 5 og den 6 rapport som er kommet. Hvordan opløsningerne er vokset.
+
+00:08:35
+Så det hele er Sådan lidt emoving picture det hele ændrer sig som som tiden går.
+
+00:08:47
+Der er også regionale modeller, fordi 100 km x 100 km kan selvfølgelig ikke hjælpe os til at sige noget som helst om hvordan.
+
+00:08:57
+Klimaændringer er i Danmark altså. Det vil jo bare være Sådan en en firkantet kasse man kan ned over over Danmark, så derfor så indlejrer vi regionale modeller i de globale modeller.
+
+00:09:10
+Det er for det meste kun atmosfæren der beskrevet i en regional model, men lægger Sådan en lille firkant ned et eller andet sted på jorden. Og så lader man en global model fortælle, hvad der kommer ind over kanterne på det her område, hvad der flyver ind, hvad der flyver ud i alle de her jord. Men så lader vi den regionale model arbejde inde i midten af området, og Det er jo cirka på samme måde som den globale model.
+
+00:09:34
+Men som sagt.
+
+00:09:36
+Så er der nogle ting der skal tilpasses at opløsningen så af en 2.
+
+00:09:39
+Det bliver Sådan meget højere opløsning, end man har råd til inde i Sådan et begrænset område.
+
+00:09:45
+Stadigvæk. Der er fysik af alle mulige saks alt muligt skal beskrives ved tilnærmede ligninger, men Sådan er det og og man kan jo sige.
+
+00:10:00
+Hvis man spørger om modeller virker, så må man må man jo simpelthen gå ind og se på hvad kommer der fra. Resultater ud af modellerne og de er jo.
+
+00:10:08
+Faktisk rimelig korrupte til at reproducere det klima, Der er i virkeligheden. De ser ikke noget om hvornår specifikke vejrsystemer kommer. De siger noget om.
+
+00:10:21
+Statistikken hvor tit sker hvad for en form for værd.
+
+00:10:26
+Og som sagt, nu er det bare illustreret. Opløsning betyder noget. Her har vi Danmark, hvis der var 200 km skidtafstand.
+
+00:10:34
+Det er Sådan en lille firkantet ting det bliver bedre, hvis Vi har en regional model på 50 km og endnu bedre hvis Vi har en på den nuværende.
+
+00:10:44
+Opløsning, som man plejer at bruge til til at kigge på Europa på cirka 12 km.
+
+00:10:51
+Og ja.
+
+00:10:54
+Så kommer vi, hvis Vi har den opløsning, i kan se til højre, kommer vi meget tættere på at kunne beskrive de faktiske vejrsystemer, der så flyver indover for eksempel Skandinavien.
+
+00:11:04
+Det som er problemet. Det er at Det er meget, meget dyrt, når man skal køre det på en computer, fordi når man gør opløsningen dobbelt så stor, så har man jo dobbelt så mange punkter i den indretning og dobbelt så mange punkter i den 2 retning og oven i Det er man så nødt til også at have et kortere tidsskrift i den her model det her kvarter. Det bliver måske til 5 minutter i en regional model.
+
+00:11:29
+Altså det vil sige at den dobbelte opløsning den giver mindst 8 gange flere computerressourcer, der skal bruges. Så vil jeg gå fra de 2 graders opløsning. Jeg viste til Venstre til de 12 km jeg viste til højre Det er en faktor 18, så er der jo altså mange 1000 gange dyrere at simulere et år II modellen til højre end Det er at gøre det i modellen til Venstre.
+
+00:11:56
+Så det Det er prisen, men Vi er jo nødt til det, fordi Vi er nødt til at at prøve at sige noget om.
+
+00:12:02
+Det som er relevant. Altså hvad sker der i Danmark?
+
+00:12:06
+Hvad sker der i Europa? Men også hvad sker der med ekstremer? Hvad sker der med ting, som har en høj tidslig opløsning?
+
+00:12:15
+Ikke kun rummelig. Det kan man se her. Det er et eksempel på det, man får ud af og og bruge en regional model.
+
+00:12:26
+OK det her Det er noget statistik Der er lavet over alperne.
+
+00:12:32
+Der er nogle.
+
+00:12:35
+Nogle kurver her II højere panel.
+
+00:12:38
+Det er en intensitetskurve af daglig nedbør.
+
+00:12:45
+Man har.
+
+00:12:50
+Den europæiske reanalyse på hvad var det? Den var 60 km eller Sådan noget på det tidspunkt.
+
+00:12:57
+Hvordan dens intensitet udvikler sig, altså hyppigheden af nedbør over så og så mange millimeter per døgn for den helt ekstreme ende af af nedbørsfordeling, så bliver det lidt bedre den blå kurve hvis man har 44 km og faktisk når Vi har de her 11 kilometers opløsning, så kommer vi grumme tæt på observationerne, som er den grønne.
+
+00:13:22
+Kurve så for daglig nedbør. Der er 11 km langt bedre end end groverløsninger.
+
+00:13:27
+Til at sige noget om om ekstrem nedbør, fordi det bliver simpelthen ikke beskrevet ordentligt i de i de grove opløsninger.
+
+00:13:40
+Jeg har fortalt at det tog en frygtelig masse computerressourcer at lave det her, så derfor for at få noget.
+
+00:13:48
+Få noget man kan sammenligne, altså køre køremodeller mange gange Sådan man kan lave statistik på det og få et begreb om usikkerhed. Så er man nødt til at have et internationalt samarbejde, og Det har vi heldigvis haft mulighed for.
+
+00:14:05
+De enkelte lande har givet en masse penge til at give til at til, at deres institutioner har været i stand til at udføre klima.
+
+00:14:17
+Simuleringer der har også været en masse penge fra e us forskningsmidler. Deres rammeprogrammer horizon programmer til at finansiere det her.
+
+00:14:28
+Det første store internationale projekt sluttede i 2004. Det hed prugtens den næste generation med mange flere modeller og højere opløsning sluttede i 0 9 og siden da. Der har vi haft Sådan en slags paraplyorganisation, som vi kalder codex, som er en del af verdens betologiske organisations underudvalg for numeriske simuleringer.
+
+00:14:53
+Af klimaet kongeliser p.
+
+00:14:56
+Og i det samarbejde er der lagt områder ned over hele verden, som er blevet simuleret med forskellige institutioners forskellige regionale modeller og drevet af forskellige klimasimuleringer.
+
+00:15:12
+Europacort ikke er så en underdel af det og.
+
+00:15:15
+Jeg håber i jeg går ud fra, at i har mulighed for at se de her links senere, at i ikke sidder og kræfler som vanvittige lige nu. Men hvis i vil have fat i klimasimuleringen, kan man gå.
+
+00:15:26
+For eksempel de her steder hen og hente for eksempel de europæiske datanadder.
+
+00:15:36
+Han, beklager.
+
+00:15:41
+Og hvis Det er en af jer der har tager mikrofonen sendt.
+
+00:15:47
+Det her Det er Sådan.
+
+00:15:50
+Området ser ud, som Vi skal kigge meget på det europæiske 12 kilometers område, hvor der findes virkelig mange simuleringer. Det kan i se på det her. Skema 133 er en country, og jeg beklager, at nogle af de her slides jeg kommer til at vise jer de her.
+
+00:16:05
+De er altså på engelsk, fordi det her foredrag er sat sammen fra lidt forskellige kilder.
+
+00:16:11
+Det håber jeg ikke er noget noget problem. Ellers må i erobre højt.
+
+00:16:16
+Han 133 simuleringer og når jeg siger en simulering, så mener jeg hele Europa fra cirka 1950 eller 1970 følgende et bestemt udslipsscenarie op til over 2100. Det er virkelig meget computere ressourcer Der er blevet brugt på at få de her resultater, som man så kan.
+
+00:16:41
+Lave statistik på når man har mange simuleringer.
+
+00:16:45
+Men men er er der så kommet helt nye resultater? Nej, Der er bare kommet flere resultater hvis man kigger på de ting som man allerede sagde noget om i de oprindelige simuleringer.
+
+00:16:57
+De oprindelige projekter, så er der ikke stor forskel.
+
+00:17:01
+På.
+
+00:17:03
+Altså Der er forskelle, men ikke så kæmpe stor her ser vi nogle kort vi ser Sådan de allervigtigste ting, som man mest kigger på. Det er ændringer i vinter sommertemperatur, vintertemperatur, ændringer i sommer, nedbør og vinter nedbør. Her i procent, hvor vi så i søjlerne her, der sammenligner vi det allerældste 20 år gamle sæts eksperimenter det næste 15 år gamle.
+
+00:17:29
+Og så det Vi har nu. Det er lige meget med den 3. Kolonne.
+
+00:17:32
+Lad os kigge på kolonne 1, 2 og 4 og i kan se altså Der er en forskel. For eksempel er udtørringen eller opvarmningen i sydeuropa om sommeren.
+
+00:17:45
+I slutningen af overhovedet er århundredet i forhold til nu. Den er meget kraftigere end den er nu, men selve selve tendenserne, det fænomen at sommeropvarmningen er størst i sydeuropa.
+
+00:17:56
+Hvorimod vinteropvarmningen er størst i nordeuropa. Det det det ser vi.
+
+00:18:01
+Og Det har vi set i de i de her sidste 20 år.
+
+00:18:06
+Og, Der er tilsvarende meget store ligheder mellem de her nedbørsændringer. Der er et eller andet tosset ved de helt gamle simuleringer i Østersøen, men det ved vi godt af tosset, og Det er der også blevet skrevet af artikler om.
+
+00:18:22
+Hvorfor og vi stoler mere på de nyere resultater, hvad det angår.
+
+00:18:28
+Det her ved at hoppe lidt ind over. Der er nogle en reference Der er nogle steder i kan gå ind og kigge hvis i vil have mere om det bagefter.
+
+00:18:37
+Og indeni begynder at downloade data, så skal i jo så lige huske at Det er virkelig ved at give mange data, så i skal være i stand til ligesom at håndtere det mange data. Det kan man godt, men Det er meget vi snakker om.
+
+00:18:50
+Og hvis i bare lige skal have et indtryk af hvad der kommer til at ske i Danmark, så kan jeg jo anbefale det danske klimaatlas.
+
+00:19:00
+Vi kan også gå ind. Vi kan stille os selv det spørgsmål, hvad hvad betyder det? Hvad for en global model?
+
+00:19:06
+Vi vælger, hvor stor en variation er der og er det lige meget hvad for en global model vi vælger, eller er det omvendt lige meget hvad for en regional model vi vælger, er det helt bestemt er den globale model, og Det har vi så en lille analyse. Jeg kan vise nogle billeder.
+
+00:19:22
+Af først vil jeg lige vise hvad de her 133 simuleringer jeg nævnte lige før.
+
+00:19:27
+Hvad hvad? Hvordan er det egentlig fordelt?
+
+00:19:31
+Der er nu skal jeg prøve at tælle 24 68 10 12 Der er 13 forskellige regionale modeller. Det er de dem i kan se på linjen her foroven, og så er der for hvert af de her tidligere af de såkaldte ACP scenarier Der er der en 9 modeller eller Sådan og Det er næsten man ikke helt de samme modeller for de forskellige.
+
+00:19:55
+Scenarier og alt det Der er farvet grønt eller blåt. Det er simuleringer, Der er udført, altså hvor lige netop den her globale model er blevet nedskaleret til 12 kilometers opløsning af lige netop den her regionale model og alle de her data ligger lige til at hente og lige til at lave statistik på det Jeg vil vise. Det er så de dem jeg lige pludselig har farvet rødt her.
+
+00:20:17
+Det er så en komplet undermatrix på 4 x 5 altså.
+
+00:20:21
+5 globale makemodeller det passer ikke 6 globale modeller.
+
+00:20:25
+Jeg tror kun Jeg har lavet det for 5 og så 4 regionale.
+
+00:20:31
+Her har vi dem.
+
+00:20:34
+5.
+
+00:20:35
+Og 4 ja.
+
+00:20:38
+Og det her skal ikke lære udenad det her. Det er hvordan afviger resultaterne fra middelværdien over de her 20 simuleringer, som vi kigger på lige nu. Og det og Det er jo ikke, fordi jeg Sådan vil gå ned i nogle detaljer her.
+
+00:20:52
+I skal jo bare have et indtryk af, hvad man kan og ikke kan med en regional og en global model, så kan i se Der er variationer, og Der er også variationer som er.
+
+00:21:04
+Betydelige.
+
+00:21:05
+I forhold til selve opvarmningen.
+
+00:21:08
+Men det skal man lige holde sig for øje. Man skal ikke bare vælge en tilfældig simulering. Man skal aller allerhelst kigge på så mange simuleringer som muligt og man og når man har den der firkant på 4 x 5 så kan man jo spille så split op og man kan sige den enkelte globale model.
+
+00:21:25
+Hvad betyder den for temperaturen og den enkelte regionale model? Hvad betyder den for temperaturen som vi kigger på lige nu og vi kan se at.
+
+00:21:33
+Der er en betydning især af de globale modeller for hvor meget.
+
+00:21:38
+Opvarmning Der er Der er en model, den britiske hat-jam, som har en meget højere følsomhed end end den.
+
+00:21:48
+End de andre det her er ved at springe let henover.
+
+00:21:52
+Og Jeg vil igen vise et eksempel på hvordan.
+
+00:21:58
+Man kan presse de sidste dråber information ud af sine simuleringer ved at kigge på dem alle sammen eller under et.
+
+00:22:07
+Det her Det er.
+
+00:22:09
+Et plots der dækker model forskellige modelsimuleringer.
+
+00:22:16
+Midlet over det område i kan se her er indrammet af den gule streg nemlig oplandet til Østersøen, altså det landområde, hvor vandet ender i Østersøen.
+
+00:22:31
+Hver eneste symbol på det her plot er en helt simulering, hvor Vi har taget ændringen fra en nusset periode på 30 år til en fremtidsperiode langt ud i fremtiden slutningen af århundredet. Vi har tal forskelle i temperaturer. De er absolutte og forskelle i nedbør regner vi i procent og det her.
+
+00:22:54
+Det forventer DJF betyder december, januar, februar.
+
+00:22:58
+Så, og Vi har så taget alle Vores simuleringer fra codex og fra det tidligere projekt, der hedder ensembles for forskellige.
+
+00:23:11
+Udslipsscenarier Sådan at Vi har.
+
+00:23:14
+Nogle højere opvarmninger ved de kraftige udslipsscenarier, som til gengæld også giver en høj ændring i nedbør. Så det vi ser, hvis hvis vi kigger på alle de her punkter under et som repræsenterer utroligt mange simuleringer utroligt mange computerressourcer, der kan vi se at.
+
+00:23:35
+Der er en klar tendens til at jo ramme. Det bliver i regionen jo højere nedbør får vi også undskyld. Der er en positiv ændring i vinternedbør.
+
+00:23:50
+Hvis vi går videre.
+
+00:23:55
+Til.
+
+00:23:58
+C til vindhastigheden.
+
+00:24:02
+Så det så ser vi et meget mere støjfyldt. Det er vist faktisk ekstremt end vi kigger på her. Så ser vi et meget mere støjfyldt billede og så Vi har bare kigget på en simulering.
+
+00:24:14
+Den simulering, som Vores eget Institut havde lavet, eller hvad det nu kunne være, så risikerede man at at få noget, man overhovedet ikke rigtig kan bruge.
+
+00:24:24
+Hvis man kigger på dem alle sammen under et, så kan man se Der er en svag og den er insigant. Men Der er en tendens til at der vil komme mere ekstremt vind når det bliver varmere, altså i fremtiden. Men man er ligesom nødt til at kigge på alt hvad man har i bøtten for for at kunne grave den konklusion.
+
+00:24:43
+Og den er som sagt ikke rigtig statistisk signifikant på på noget højt niveau.
+
+00:24:49
+Så som der står her. Modellerne er ikke enige i derfor så vidt muligt, hvis i sidder og skal kigge på effekter af klimaændringerne, og hvad man skal gøre, så kig på mange.
+
+00:25:05
+Og jeg skal så nævne en parentes, at Vores klimaatlas kigger lige præcis på mange. Den der der bruger man hele det her euro-kort x ens ensemble.
+
+00:25:17
+Ja.
+
+00:25:20
+Så har jeg ikke så frygtelig mange af mine noter tilbage. Jeg vil bruge dem til at ligesom kigge en lille smule ud i fremtiden. Vi vil vældig gerne kigge på endnu flere modeller, og vi vil også vældig gerne bruge de moderne udslipsscenarier.
+
+00:25:36
+Men Jeg tror det der lige nu sker, og som også vil være til nytte for folk der prøver på at regne konsekvenser ud af klimaændringerne af menneskets ændring af klimaet.
+
+00:25:48
+Det er den her det her skridt mod endnu højere opløsning endnu, Sådan at man for eksempel kan få simuleringer, der realistisk siger noget om.
+
+00:26:01
+Om Danmark, hvor der jo er en masse lokale kontraster, der påvirker hver og klima.
+
+00:26:11
+Så hvad er en convertion premiering model en CPM.
+
+00:26:16
+En model, der tillader konverktion, altså billedet. Det er, at hvis vi går ned under de her cirka 4 km mellem kilderpunkter, så er der jo nogen konventive vejrsystemer, hvor skyerne altså, eller hvor systemerne fylder mere. Hvorved man altså faktisk eksplicit kan opløse dem ved de værdier Vi har i hver eneste gitterbokse på hvert eneste niveau, som er snakket om.
+
+00:26:42
+Så skal man fjerne noget af den der fysiske parameterisering, som er nogle approximative ligninger, der siger noget om hvad der sker på.
+
+00:26:49
+Den skala i ikke kan opløse, fordi nu opløser vi dem rent faktisk.
+
+00:26:56
+Fortsæt.
+
+00:27:01
+Og hvis vi kommer ned under 4 km kan man så køre de her modeller?
+
+00:27:05
+Og et eksempel, Det er herovre alperne, hvor der har været Sådan et fælles europæisk projekt, og Vi har prøvet at kigge på effekten af at køre de her meget højt opløste modeller. Men Det er selvfølgelig måske mere relevant for jer for os at at kigge på Danmark, og der har vi også nogle simuleringer.
+
+00:27:26
+Det her skal i heller ikke lære udenad. Der står simpelthen, at der kommer mere ekstrem nedbør i.
+
+00:27:33
+I.
+
+00:27:36
+Deres CP mer må en Der er III andre modeller i lavere opløste modeller og her kan i virkelig se nogle billeder der viser det. Det er det som englænderne kalder e bøcy plot.
+
+00:27:51
+Der er 2 blokke.
+
+00:27:53
+Nej de øverste 3 rækker figurer kort over alperne. Det er vinter og de nederste 3 rækker Det er sommer.
+
+00:28:05
+Vi hver søjle er et felt kan man sige altså det helt simple. Det er middel nedbøren og Det er den Venstre søjle det næste. Det er for tit regner det frekvensen af nedbør den næste igen.
+
+00:28:19
+Det er intensiteten.
+
+00:28:21
+Når det regner, hvor meget kommer der så?
+
+00:28:26
+Og Det er team nedbør det her. Det glemte jeg at sige, så Det er ikke daglige nedbør, så vi kiggede på lige før der retfærdiggjorde.
+
+00:28:36
+Kære seaberne på 12 km, nu hvor Vi har højere opløsning, så kan vi faktisk med mening kigge på kigge på temanedbør og så endelig her til højre. Der har vi et ekstremt Det er den Det er 99%.
+
+00:28:51
+Perentilen er nedbør altså den intense nedbør, som kun bliver overskredet i en procent af dagene.
+
+00:28:59
+Eller i timerne. Undskyld.
+
+00:29:02
+Og når vi så kigger på de forskellige rækker, så kan vi se observation, så kan vi se.
+
+00:29:07
+Det er en meget højt opløste model. Den convection tilladende konvektionstilladende model CPM og i den næste række igen. Der har vi det som jeg lige før pralede med, men som jeg nu skal overbevise jer om at knap så god model, nemlig r cden på 12 km og det som i kan se Det er at Der er søreme ikke den store forskel, hvis man kigger på vinter de øverste 3 rækker i kan se nogenlunde det samme nogenlunde det samme, og Det er nogenlunde realistisk og i sammenligning le med observationerne.
+
+00:29:37
+For alle de her forskellige felter, men.
+
+00:29:40
+Hvis vi går ned til sommeren, vil i se, at 12 kilometersmodellen, selvom den måske ser forholdsvis realistisk ud i den Venstre søjle for intensiteten, så er den Sådan set korrekt af de forkerte grunde, fordi hvis man kigger på den næste søjle, kan man se, at 12 kilometers modellen, der regner det.
+
+00:30:01
+For tit.
+
+00:30:02
+Og det regner for lidt når det regner hvorimod 3 km kilometers modellen er langt tættere på de observationer man har. Og Jeg kan lige jeg skal lige huske at sige at de har et helt fantastisk observationsbaseret data selv for nedbør i området deromkring alperne.
+
+00:30:22
+Det samme tiden er ved at løbe ud. Det ved jeg godt. Det samme kan man se, hvis man kigger på de her intensitets plots igen at.
+
+00:30:32
+Den Det er det samme vi så før, men vel at mærke er det her nu for tim nedbør intensiteten af timene nedbør og ikke for dagsnedgør døgnnedbør.
+
+00:30:41
+Og der kan man så se at når man har en CPM, så kommer man betydeligt tættere på virkeligheden, end hvis man har en almindelig gammeldags 12 km særserie. Den her springer vi over.
+
+00:30:56
+Vi har også nogle simuleringer over Danmark.
+
+00:31:00
+Og det her. Det er Sådan et plot man kan prale med.
+
+00:31:03
+Vi ser Vores DMI klimakrint Danmark datasæt som er en.
+
+00:31:12
+Et gitter som bygger på stationsobservationer, så Det er ligesom så tæt, vi kan komme på et realistisk nede i Vores kortår Danmark som muligt, og man kan se hvor det regner mest og hvor det regner mindre, og det passer sikkert også med hvad i Sådan går og ved. Og Det er jo så ikke så godt, når vi kigger på 12 kilometerskørslen her at.
+
+00:31:32
+Der falder nedbøren faktisk ude ved kysten i langt højere grad end ved end ved den jyske højderyg.
+
+00:31:40
+Det er bedre når vi kigger på et 5 km skete og Det er endnu langt bedre, når vi kigger på Sådan en simulering. Vi har her for at Gitte afstanden kun er 750 m. Det er et område der der skal kun lige akkurat dækker Danmark og som vi lige skulle prøve at se om om det gav bedre resultater at formidle nedbøren der der giver det i høj grad bedre resultater.
+
+00:32:03
+Det giver også højere ekstrem nedbør.
+
+00:32:08
+Jo, ja som sagt ved at have lidt travlt, så Jeg vil ikke gå i så mange detaljer. Hvad siger du?
+
+00:32:14
+Jeg har masser af tid, siger mark jamen så vil jeg fremture til Venstre kan i se punktobservationer altså i kan se at.
+
+00:32:26
+Og ja og og og og rækkerne må jeg prøve lige at få få det hele med rækkerne her. Det er varighed, så vi kan kigge den nederste række, hvor der står del i 360. Det er underforståede minutter altså 6 timers nedbør, og når den er timen nedbør, så er der halv times nedbør og kvarter nedbør, hvordan de forskellige statistikker opføre sig og Det er ekstreme nedbørshændelser vi kan kigge på, og det ekstreme Vi har valgt.
+
+00:32:52
+Eller som en tidligere PHD. Studerende emma har valgt Det er.
+
+00:32:58
+Det er den hændelse, der kun bliver overskredet 3 gange om året i snit, og Det kan man så lave noget statistik på og så videre og så videre og så videre. Og hvis vi så sammenligner den næste søjle som er.
+
+00:33:12
+Vores hyper højt opløste 750 m kørsel, og den næste Det er indkørsel 3 km Vi har og den næste Det er 5 næste er 12 og så har vi den europæiske reanalyse, som er i omkring 30 kg opløsning og den næste Det er den gamle. Den tidligere version som er vist en 60 70 km. Hvis jeg husker rigtigt og det som i vil kunne se er at vi Sådan ligesom kører fra højre mod Venstre i søjlerne og sammenligner med.
+
+00:33:41
+Den farve, som punkterne har herovre i observations datasættet.
+
+00:33:44
+Så kan i se, at Det er faktisk.
+
+00:33:48
+I hvert fald bedre når vi når de 3. Vi kan så diskutere, hvor meget bedre zerhundrede halvtredserne er i forhold til træerne, og Det er Sådan et helt foredrag i sig selv at snakke om, så det vil jeg ikke komme nærmere ind på nu.
+
+00:34:02
+Ja selvfølgelig velkommen til at spørge.
+
+00:34:05
+Og det. Det er så hvad jeg egentlig.
+
+00:34:08
+Havde valgt at snakke om, og jeg håber at det også er noget af det, i havde ønsket jer, at jeg talte om nemlig at GCM er RCM er CPM er vi nødt til at have de her modeller for at kunne sige noget om de mange forskellige vejrparametre, som ændrer sig på grund af de menneskeskabte klimaændringer ud i fremtiden, fordi man simpelthen får det konkret Der er støj i modeller af forskellige.
+
+00:34:33
+Der er vejret kan ikke forudsiges. Man kan kun lave statistik på det.
+
+00:34:37
+Og derfor er man nødt til at have mange års simuleringer og mange forskellige modelkørsler, hvis man vil kigge på små steder såsom Danmark, så er man nødt til at kigge regionalt. Man kan ikke nøjes med en global model.
+
+00:34:51
+Det hele altså det hele ændrer sig. Løbende computer bliver større og større.
+
+00:34:57
+Modellerne bliver bedre og bedre, og de får højere højere opløsninger. Der kommer flere og flere kørsler, og Det er alfa og omega, at Vi har mange modelkørsler, fordi Det er alfa og omega og have usikkerheden med at vide, hvor godt kender vi de forskellige felter. Vi kan se en ændring, men er det nu bare støj eller er det, er det reelt?
+
+00:35:19
+Der skal vi kigge på mange simuleringer for at for at få et billede af, hvad vi kan tro på, og hvad vi kan tro knap så meget på, og hvad vi ikke kan tro på.
+
+00:35:30
+Og Jeg kan sige en parentes. Det er jo også alfa omega for IP csrapporter, som hele tiden handler om hvad for nogle ændringer tror vi meget på. Hvad for nogle ændringer tror vi kun lidt på og så videre og så videre.
+
+00:35:44
+Så som nu har jeg efterhånden sagt det mange gange. Pas på med at vælge enkeltmodeller. Tænk jer om.
+
+00:35:53
+Der er en lang liste af referencer her. Det er en absolut ikke udtømmende liste. Det er dem jeg specifikt har taget figur fra og nævnt i den her præsentation.
+
+00:36:06
+Så hvis i har den liggende, så kan i jo om i har lyst, klikke og hente.
+
+00:36:13
+Og ja Det var det.
+
+00:36:16
+Tak fordi i lyttede til mig.
+
+00:36:21
+Så har.
+
+00:36:22
+Han fundet plads.
+
+00:36:31
+Klokken der.
+
+00:36:34
+Der er noget i chatten kan jeg se den, som jeg ikke har set indtil nu. Lad mig lige kigge.
+
+00:36:43
+Ja lister hold fast vel tak for et godt oplæg jamen 1000 tak kan du sige noget om hvilke udviklingsområder i arbejder med for modellering i Danmark. Og når du nævner at det dyrekørsler, hvad taler vi om? Ja, for nysgerrighedens skyld.
+
+00:37:01
+Men Det er jo. Det er jo frygteligt svært at sige noget om. Altså Jeg kan jo.
+
+00:37:05
+Jeg kan jo sige for eksempel at man kan køre et år af en simulering om dagen på en supercomputer, men altså hvad en supercomputer er det.
+
+00:37:19
+Det ændrer sig jo også hele tiden, og i takt med at vi får større og større supercomputere, så øger vi jo bare de her opløsninger. Vi vi øger antallet af.
+
+00:37:28
+Af punkter altså.
+
+00:37:32
+Vi bruger jo.
+
+00:37:35
+DMI og alle mulige andre Meteorologiske institutter bruger vi jo i forvejen supercomputere, fordi vi laver vejrudsigter.
+
+00:37:46
+De skal køre i en ekstremt høj opløsning, og Det kan vi gøre, fordi det jo kun skal køre nogle få dage. Og så er der en hel masse arbejde som.
+
+00:37:55
+Blive sparet for i klimaet, men som er vigtigt for vejrudsigtet, som er at de skal gøre ting og sager ved observationer. De skal have alt muligt data ind og behandle og så videre og så videre og så videre. Og derfor så er der bevillinger til at købe store supercomputere.
+
+00:38:08
+Vi har en forholdsvis ny en, som vi som står på Island, og som vi driver i samarbejde med det Meteorologiske institutter i Island og i.
+
+00:38:20
+Holland, nederlandene og i Irland.
+
+00:38:23
+Og så også, og som vi lige nu bruger til at køre de her.
+
+00:38:28
+Convertion per meting CBM er.
+
+00:38:33
+Eurocordics, der har vi også bidraget. Vi har lavet en del simuleringer, og Det har vi gjort på Vores tidligere supercomputer, som Det er min ejede selv.
+
+00:38:44
+Men altså Det er amen det det. Det er et svært spørgsmål, fordi Jeg kan selvfølgelig vælte tal på bordet i en halv time, men.
+
+00:38:54
+Lad os sige at Det er.
+
+00:38:57
+Langtfra så meget som det der bliver brugt til vejrudsigter, men dog ikke forsvindende let altså. Det er en eller 2 brøkdel. Jeg jeg ved såmænd ikke rigtig.
+
+00:39:09
+Jeg vil Jeg vil tie.
+
+00:39:11
+Ud af mit ærme 10 7% af hvad man bruger til vejrudsigt, og det bruger vi til klimasimuleringer.
+
+00:39:20
+Så er der selvfølgelig masser af universiteter, som ikke laver vejrudsigter og som bruger deres egne supercomputere til at lave for eksempel globale modelkørsel.
+
+00:39:33
+Ja Det var Det var.
+
+00:39:35
+Det var lidt plaprende. Jeg ved ikke i hvor høj grad det stillede din nysgerrighed.
+
+00:39:40
+Nej og der hvad vi arbejder med med vurdering i Danmark altså Der er det jo ligesom jeg jeg snakkede om Sådan med de med de brede penselstrøg Vi er på vej ind i et samarbejde om en bestemt CPM som hedder harmony climnet, som er en afart af den model, som blandt andet DMI bruger til at lave vejrudsigter med. Altså Det er en Det er en afart, hvor vi for eksempel ikke kigger på observationer, og hvor Vi har nogle bedre beskrivelser af jordoverfladen og.
+
+00:40:11
+Eller hvad der har lange karakteristiske tidsskalaer.
+
+00:40:16
+Men det Det er jo Det er et stort konsortium, og Det er vi meget glade for, fordi så kan vi jo.
+
+00:40:23
+Løse konkrete problemer sammen med andre mennesker, altså Der er en.
+
+00:40:29
+8 10 forskellige nationalmæssologiske institutter som samarbejder om den her harmoniklit model. Mest de Sådan halsmå lande fordi alle de store lande som Tyskland og Frankrig og Storbritannien, de har deres egen modeludvikling og deres egne klimaodeller.
+
+00:40:49
+Ja var der.
+
+00:40:51
+Andre spørgsmål, så kan i jo skrive noget i chatten?
+
+00:40:59
+Ja der kom noget.
+
+00:41:05
+Arbejas korrektion ja.
+
+00:41:07
+Altså det der det som i ser i klimaatlas Det er.
+
+00:41:14
+Bias korrigerede altså det vil sige man tager det output Der er kommet fra modellen, og så masserer man det Sådan at nutidsimuleringerne såvidt muligt har den samme statistik som virkeligheden, og jeg går ud fra at markedet er mere.
+
+00:41:32
+Ja mark har lidt om det. Siger han.
+
+00:41:37
+Så så Det er et selvstændigt skridt og alt det Jeg har vist jer i det her. Det her foredrag har været ikke biasajested bias korrigeret.
+
+00:41:47
+Fordi altså der der Der er jo Der er jo gyngere karruseller man kommer tættere på virkeligheden og man laver biasedjøstrent som man normalt kun gør med slutproduktet. Slut outputtet er den sidste model man kører, men på den 2 side vil man jo også gerne vide noget om de fysiske processer og dem piller man jo ved når man får output til at ligne virkeligheden.
+
+00:42:09
+Og vi vil gerne forstå hvorfor tingene er, så derfor kigger vi i Vores altså i Vores.
+
+00:42:16
+Forskningen kigger vi mest på de ikke korrigerede, men selvfølgelig når Vi skal ud og bruge det til anvendelser og og og klimapåvirkninger, så er det jo selvfølgelig meget vigtigt at at at bordellerne er så realistiske som overhovedet mulige.
+
+00:42:32
+Men det, men Det er Sådan et skridt der kommer efter det Jeg har snakket om.
+
+00:42:36
+Så er der yderligere et spørgsmål.
+
+00:42:43
+Ja om den globale ulighed ja.
+
+00:42:47
+Altså jeg må jo.
+
+00:42:49
+Jeg bliver jo nødt til at indrømme, at.
+
+00:42:52
+Eurocordex.
+
+00:42:54
+Hvor Europa jo er fyldt med ret rige institutioner, euro-x og langt flere simuleringer end den sydamerikanske cordeks.
+
+00:43:05
+Afrika er et lidt specielt tilfælde, fordi vi bevidst rekordik samarbejdet. Der valgte vi Afrika som Vores pilotområde, så der blev faktisk for nogle år siden lavet.
+
+00:43:17
+Ret mange simuleringer over Afrika Afrika er stor, så Det var i 25 kilometers optøvelse. Men og Det er dog ikke helt så mange som et eurocort eksamen, altså der. Der må jeg jo sige ja altså vi modtager jo penge.
+
+00:43:31
+Men Vi er jo nødt til at have penge for at få råd til at køre de her simuleringer, og Det er jo tit i forbindelse med, at den enkelte nation eller måske på EU plan, at man vil vide noget om hvad sker der her.
+
+00:43:46
+Vi er meget.
+
+00:43:49
+Bevidste om det, og vi leder efter muligheder for at kunne lave simuleringer andre steder i verden, også fordi Det er jo fuldstændig korrekt.
+
+00:44:00
+At, Der er andre steder i verden, der bliver meget, meget kraftigt ramt af de menneskeskabte klimapåvirkninger.
+
+00:44:09
+Altså måske hvad mark snakker om Vores ghanaprojekt.
+
+00:44:14
+Han laver en slide her flyvende fordi DMI altså specifikt DMI har et solgt samarbejde med ghanas metologisk Institut om at lave en pendant til det her klima somagt kom til at snakke om lige om det øjeblik.
+
+00:44:28
+Men men absolut og og det det gode er jo så at Det er nogle internationale. Det er nogle globale organisationer der.
+
+00:44:38
+Er paraply oven over kort x og Der er og Det er og Der er også nogle projekter inde i kortet, som handler om at de enkelte institutioner der kan køre model de forpligter sig til ligesom at køre nogle nogle områder et antal områder der dækker.
+
+00:44:56
+Hele hele jorden hele jordklodens områder, så der Vi er bevidste om det, og vi gør noget. Men vi kan jo heller ikke lave noget andet end det, vi får penge til.
+
+00:45:06
+Så det det, Det er en balancegang. Det er klart vi vil. Vi vil jo gøre så meget nytte som muligt, så derfor er vi interesserede i det og køre modeller over andre steder i Europa.
+
+00:45:19
+Nu ser jeg ikke flere spørgsmål i chatten, så nu vil jeg da foreslå at vi holder 5 minutters pause.
+
+00:45:27
+Okay for at komme tilbage. Jeg har jo været i.
+
+00:45:32
+Hvad de er have tilladt at løbe over og få en ekstra kop perf og at i fandt at eles forja var var spændende og interessant. Det er Det er altid gør at se hvad der sker fandtes bagboysende og Det er som i kan måske se Det er virkelig meget arbejde.
+
+00:45:51
+Som som wiler ever, og man kan man kollegaer og her på DMA og andre forskningsdag og begyndte omkring i verden. Fatter slaver.
+
+00:46:00
+Forfatter sat at begynde at snakke om klimaet.
+
+00:46:05
+Mit navn er mark planck mark plan. Jeg er den også som cameroon skal have på DMA, og Jeg er den faglærer for Vores klima alders og. Men der jo er den her veloplæg, handler om Vores klima ellers.
+
+00:46:21
+Og især den her ide om, at klima alders er en klassisk, som vi kalder en clima servers engelsk.
+
+00:46:32
+Og så i dag, så er i dem dem Jeg er sikre på, at Der er mange af jer som har hørt mig kommer over og snakker om klimaaters, og så Jeg har tænkt at at ikke nødvendigt at give dem klassisk klimaatlas for job, men giv jer lidt mere detaljerne om hvor præcis vi laver og hvorfor vi laver det.
+
+00:46:50
+Og som perspekter for Vores fremtid, og hvad Vi har ellers tænkt gjorde med klima alders. Men hvad er der samtidig i med dem om? Jeg har snakket lidt mere om det klassiske ting, som vi forstår om klima og så hvordan eller bliver anvendt.
+
+00:47:05
+Så at starte med at Vi har skrevet klimaalder som er primært service.
+
+00:47:10
+Og dermed ske at året som som i har ikke hørt før Det er det fandtes sikke et åh som har en ceri oversættelser på på dansk. Man kan oversætte det til klima, service eller klimatjenester på svensk kalder det der klimatjans, som er stort set en direkte oversættelse.
+
+00:47:31
+Vi haver en snak om det her på DMI op at slytherin jo bare fortsætter mærkeligt at kalde det primært serveres the engelsk fordi mange må Jeg synes at Det er mest beskasserne ordet for det.
+
+00:47:45
+Men, Der er selvfølgelig kommer den her passage alder som han snakker om bobl er at planet servers.
+
+00:47:53
+Og det findes faktisk mange forskellige definitioner.
+
+00:47:58
+En climmer serveres og Jeg har taget den her direkte forfatnings clement finalen, fordi Jeg synes at Det er måske en af de bedste på engelsk skriver det, at private sever ses and bog the provision of primet information in saxo way astred the sition making så clement serveres handler om at lade være temainformation som kan understøtte beslutningstagning.
+
+00:48:23
+Og beslutninger til sidst og der.
+
+00:48:28
+Mandags virkelig, virkelig mange ting end i den her definition men death meching of League hvad Der er at den snakker om primært information som et consent, der handler om provision debatness know som er leveres til samfund og især den her mother session making Det er Det er faktisk været skete det vigtigste Det er.
+
+00:48:51
+Så hvorfor er det at Vi har behov for den her, og som vi faktisk gjorde, så mødet, som faktisk gør beskrivet er at.
+
+00:49:04
+Mest almindelige måde at forskning fungerer, er, at Vi har en masse a cykeldygtige folk, som sælger i Vores universiteter og Netto og elever banebrydende forskning og kan lige pludselig forklare noget, som vi ikke forstår for.
+
+00:49:21
+Og når man arbejder på en især på Universitet, men også II akademi akademia generelt.
+
+00:49:30
+Det pleas os må, som man færdiggøre sit arbejde er, skriver en videnskabelig artikelco og pubbaser i en tilskrift, og Det er stort set den når den er popbasere, så gør man videre til den næste at stå på arbejde.
+
+00:49:45
+Og moderne er, at når den er publiceret, at samfund kan komme ind i den her tilfælde mils gaffolac og seer. Jeg vil gerne have en af dem og 2 af dem og 3 af dem og tage af sine gaffl tjek og kør dem væk og så Det er virkelig den her discinat mellem videnskab på det ncl og samfundets behov for information på den 2 side.
+
+00:50:09
+Vi kan faktisk være lidt mere konkret, fordi når vi begynder at tænke over over planen of franding.
+
+00:50:18
+Og alt det her sportsmavn som samfund har om, hvorfor sidste clemmer frandien kommer og betyder for os. Det er converex sambo, at Det er en bøde, som er bekymret over stormflill. Det kan være et sommerhusejer, som er bekymret over, hvor Det er sommerhus bliver især for for stormflod i fremtiden.
+
+00:50:37
+Allert converte hospital som er bekymret over, hvor man bliver indlagt, begynder at klima drive hillarbølger, og så når de tager de her sporsvag over tilsammen tager videnskab. De svarer, som de typisk får ser Sådan ud, hvis man kigger på FNS klimapanaler, så er det næsten firetusinde sider af tekst et of fester rapport, som ser næsten ikke når om Danmark.
+
+00:51:04
+Og slet ikke når som.
+
+00:51:06
+Om man vil som Lemvig allernestival ala bord man har fattet behov for troven beslutning.
+
+00:51:13
+Og der samtidig era som ligger bag ved det her rapporter. Den er fandas tæt i appstract allahbar variabler som som timpure allah lillboar en den som man har fattet, interesserer obs man er hospital er man fattet siger and a er bekymret over hvor man hvor man får bliver indlagt hele bølger, så vil jeg selvfølgelig ægte sammen som temperatur. Det er relateret, men den er ikke det samme.
+
+00:51:41
+Og mængder til arbejde og addarin, som faktisk er involveret, er kæmpe stort, som alle snakker om. Det er virkelig, virkelig store tal.
+
+00:51:52
+Hvis man kigger bag ved f ns klimapanelens rapport, så vil der omkring 30 pisse arbejde. Ada som er blevet publiceret. Så hvis i ikke bekender Peter byt de fleste er ikke, så har vi et kill vejht megabyte gigabyte.
+
+00:52:08
+Terrorist og så petar byde petabyte er en er tørver. Petar by er en turl vat når 15 nuller efter det, så Det er ikke. Det er bare ikke noget som man downloader at gå i gang med i xer.
+
+00:52:23
+Og så Vi har proppen. Vi kan se at den Der er der som videnskab eller hver ægte sammen som den klimainflammation, som samfundet har fattet behov for. Det er en forskel i Barcelona francisca double straight, som har kommet med den her meget fint øtor, som simpelthen siger at prime addasa this not priemand inflammation.
+
+00:52:46
+Det som vi gjorde i priamant services r reprood and bruo, malone klima, videnskab og klimaata Pedersen.
+
+00:52:54
+Og den inflammation som samfund har fandtes behov for på den 2 side og så mødet som vi gjorde det af fandtes the modsat af dans, som Jeg har lige læst dig på denne her. Det er den, som man beskriver. Man kalder mode one site og mode one size, hvor vi bare pubbaiserer Vores artikler, set dem op i et tilskrift.
+
+00:53:14
+Det fungerer ikke, og Det er præcis som Jeg har forklaret her.
+
+00:53:20
+Hvorfor den ikke fungerer?
+
+00:53:22
+Noget som ville løse i den her poppen af fastnet, som vi kalder møgty opdater patricierence er vi fattet samarbejde.
+
+00:53:31
+Om det som i er Vores branch. Vi kalder plantebaseret at worlds bror og folk som har vært at behov for information og trofæ beslutninger skriver, fandtes være involvery i pracession lige fra starten for at at help os som forsker at design og øværge PCS information som Det har behov for. Og clement serveres som en en concept af lov som har.
+
+00:53:58
+A reality of nye stativægt. Det er kun.
+
+00:54:00
+Enten få det sidste 10 år er jeg virkelig begyndt at se arklevis som AC concept bliver defineret.
+
+00:54:08
+Og nu er vi virkelig begyndt at opleve opblomstring af mange eksempler verden rundt af forskerne plantebaseret eksempler, som jeg tager med her. Den fest kommer fra ikea midt hofers, så har vi den tyske den æsk udgava.
+
+00:54:28
+Den norsk.
+
+00:54:30
+Arvi har en hollandsk, den schweiziske en synes. Jeg er virkelig, virkelig fed. De laver nogle fantastisk fotografics og det her fair for terninger, on fromtelle klima og det sove in, som kommer hele vejen frem i cellerne for hvor Estland og Frank oprindeligt.
+
+00:54:46
+Og Det var virkelig.
+
+00:54:49
+På omkring 5 6 år siden.
+
+00:54:53
+Kom vi og ser en lignende situation i samfundet i Danmark, hvor at den her disconac mellem klar og information begynder nok at lære meget, meget klart og så først svare på den der den her propindstilling, så bliver Vores klima og adlers på DMA grundlagt hele vejen tilbage i churchill og 18.
+
+00:55:13
+Og mårmomagklima alders er skaber and a 2 agf og intet Arthur dart of set, som kan anvendes til klimatal passning hereand hearred i Danmark. Vi er financier og igennem finansloven.
+
+00:55:27
+Og Vi har været igang for 6 år. Den første udgave der kom ud i optriver til tider og 19. Og så i kan måske huske at sidste måned fra fireo vil Vores 5 års fødselsdag.
+
+00:55:43
+Når man forsøger en stor bevælling fra fra regeringen eller fra en fond gelt super spændende ting som en forsker, og de fleste ting er, at man har lyst til at lave simpelthen at sidde inde og gå i gang med analyser og begynde at skrive nøglen. Og heldigvis Det var ægte som en kollega gjort, og jeg holder at i kan se, at du har valgt at være en fejl, fordi det det vigtigste ting som.
+
+00:56:09
+Men kollega har faktisk gjort her.
+
+00:56:12
+Bare fandtes af kommer du og begynder at snakke med folk og hele vejen igennem playstation i klima alders har vi snakket med Vores samfund all for store folks behov for klima, information og at at snakke om klima franding og komme a betyder for for Danmark og for dansk samfund.
+
+00:56:34
+Og Jeg har fat from her Invest som var mad i typisk og 19 og aldi-grupper som har.
+
+00:56:44
+Vi har snakket med out i klima alders.
+
+00:56:47
+Og det her er en liste, som har kun vokset og var til, og man kan se, at der Der er mange forskellige løbere, som har en borgegaver i det. Det er selvfølgelig communer og her til Venstre.
+
+00:57:00
+Men Det er også forskellige ministerier. Det er selskaber og firma fra forskellige info struktur og berlskabs firma. Års engineer også en virkelig stor teknisk kryb, som også stor inde bagved.
+
+00:57:18
+Vores arbejde. Vi prøver at altså tale om hvor mange brugte at snakke med.
+
+00:57:26
+Til Vores 5 års fødselsdag, og vi kom meget hurtigt op til og en hånd lidt forskellig akter i alt og det man kan sige, at den måske den den vigtigste ting i klima adlers, er det virkelig den her netværk og folk som Vi har snakket om og den forståelse, som det mere har fandtes.
+
+00:57:46
+Velnå man har sagt mig for om samfundets behov for klimakon, og Det er kun når Vi har haft den her snak, at vi kan faktisk gå i gang med analysen.
+
+00:57:57
+Det her med en alarm maske presse reklame allers vækker, og allah har virkelig lavet en fantastisk stykke arbejde at forklare det. Men jeg løber igennem det en gang til.
+
+00:58:09
+Der hvor vi starter er rande joybell clement modeller som a ulla snacch og de her tøj. Der skal nok løsninger som er 100 km, men som om de kan se meget om. Det er ikke særlig godt til at snakke om Danmark.
+
+00:58:22
+Man kan se at at Vi har slet ikke Sjælland der hvor den Danmark ser o ikke Sådan globalclmann.
+
+00:58:29
+Der.
+
+00:58:30
+Og så har vi k-tx som fandtes. Bassero er basero på de glory bell og kører de her reaganere problemer whatever enden for de glopealt og så i Sådan en model, så siger Denmark meget bedre.
+
+00:58:45
+Det som, men så Det er den her HRX starter som er Vores udgangspunkt.
+
+00:58:52
+Men som Det var et sportsmeget om i chatten, så tager jeg allers foretager og som reality så evalte at det her modeller har også problemet.
+
+00:59:05
+Det er ikke perfekt. Og så hvis man kender Prince abbro på eller modellerne den her.
+
+00:59:13
+Klienter den rein klimo model som vi curret på DMI tilbage i 2014. Den haller hearlland bliver ny udskiftet med hcts klin, men den her fik aviser Vores model bias, så Det er en sammenligning mellem, hvor modellen ser om temperaturen og den, som Vi har færdig hos Mount.
+
+00:59:33
+Og som man kan se, at jeg virkelig er meget fra systematisk mønster, og hvor det hele er Europa. Den her model er er alt for cult i forhold til Vores observationer og målinger, og især i Danmark kan man se at at den er arab lear out måske.
+
+00:59:51
+Hvad sker der? Tytten mellem 21 rivaler coller and the.
+
+00:59:57
+Men problemet er at at hvis vi kigger på en 2 model og den her er faldet den tysk. Det er med mode hvilken af klemme mada så fremad den andet modstand og i den her tilfælde så kan vi se at den den Factor stort set rammer pladen omkring Danmark, men den er ikke særlig gjortisk i albana allah i Østergaard.
+
+01:00:22
+Så alle de her modeller er stort set forkert, og Det er allesammen man har fejlet i det. Men det, som vi gjorde i klima allers og er i fælles proter og i de der 4, som gør som vi kan, og Det er det, som man kalder bryors conraction eller kaliberbration er mere generelt. Og så det som vi gjorde, er jo programerscriber på den her fair.
+
+01:00:48
+Brunnene har vi i Vores målinger.
+
+01:00:50
+Og til Venstre har vi de samme resultater fra modellerne, og i den her tilfælde, den er.
+
+01:01:03
+Jeg tror Det er temperatur som jeg elsker det, så det som vi gjorde er. Det er selvfølgelig en fordeling af temperatur.
+
+01:01:13
+Og.
+
+01:01:16
+Som vi forventer, så vi kan forvente, at Der er no.
+
+01:01:19
+Deri hvor den var, varmer en genopstand, og den er der, hvor den er, er colin genopstand.
+
+01:01:25
+Og så vi kan tage det samme fordeling som kommer ud af Vores modeller.
+
+01:01:32
+Undskyld or er en bestemt moder.
+
+01:01:35
+Og så rige. Hvis spørgsmål var perfekt, så må det fandtes være en endte end sammenhæng mellem at betyde dette roldlinje der. Men når vi i faktisk laver den her plot, så ser det Sådan, at nu hvor det der krydser det svarer til det tilsvarende punkter, så det som vi kan se i den her tilfælde er at.
+
+01:02:00
+At modellen, fantas acola.
+
+01:02:03
+2 er aldersfair når temperaturerne acult i midten af deruk, så har der faktisk er det et still hvor?
+
+01:02:13
+Den overvurderer.
+
+01:02:16
+Temperaturen og så er faldet faldet den tilbage igen, så vi kan fandtes at tabulere den her. Forholdet mellem the tu og så simpelthen live and slags loc-outtab. Så når modellerne siger, at temperaturen er omkring 0,5, så kan vi fandtes sløjt den op og siger, at det vil svarer til en observation alon måling, som er omkring no gravid.
+
+01:02:42
+Og så Det er. Det er simpelthen der der hvor den vil fandtes arbejder med med den her bars conraction, og vi gjorde det for hver enkelt og den også opdaget efter årstid.
+
+01:02:55
+Og Vi har lavet antagelsen af den her best cargeying kaliberbration, som Vi har lavo i nutiden, at den også holder øje frem til.
+
+01:03:08
+Og så kan vi komme tilbage til Vores.
+
+01:03:12
+Christeres Floyd ageren, og så kan vi sige at.
+
+01:03:16
+Det er her, hvor klima-alders arbejder, at vi tager Vores målinger.
+
+01:03:23
+Som Vi har DMA vi kører igennem den her kaliberbrationspraces og så vil ender med was klima alder starter på omkring et kilometers opløsning.
+
+01:03:34
+Det er vigtigt at understrege, at erintes at den her er ikke praces, som vi gjorde ingen gang. Vi fandt os skjorte for aller modeller i kordx og sætte den der fandtes direktør how 80 modeller, som Vi har af de her regener modeller som vi bruger.
+
+01:03:51
+Som som vi lagde den kaliberation for at være en kommer model og til sidst vi lavede hvornår optimering af Vores statistik i klima.
+
+01:04:00
+Og så når man har den her kæmpe store quarterbase, så kan man begynde at at søge med n og begynde at se og fortælle at pre med Frankrig bander spor ah et bestemt sted i Danmark. Jeg har valgt næst hvwl.
+
+01:04:14
+I.
+
+01:04:14
+Dag som ligger selvfølgelig her nærmest.
+
+01:04:17
+Og så kan vi trække nogle data ordet Vores starterbasis og begynde at se. Hvad betyder klimaforandring? Fakta.
+
+01:04:27
+Og skal man ind.
+
+01:04:28
+I den her kan vi se at Vi har til langs bunden, og Vi har provincill gendring i den temperatur i næstflad, og vi kan se, at i slutningen af året har.
+
+01:04:42
+Er timp, john ster mellem n og try grader als efter bilken you leling senari vi snakker dette tredie søjler som står her, og Vi har gjort det Frank helm masse det skal være endda Jeg har valgt den nyploket dem her og så vi kan se, at vi forventer at at hav never Vores Det er omkring 60 cm vi forventer 40 gange.
+
+01:05:07
+Hyppigere stormflod omkring 20% mere vinter nerv bord.
+
+01:05:12
+Og christoffersend flair schoolbo.
+
+01:05:15
+Og Det er en verdengrimmer for artik vi kan også. Vi har også lavet opregning for en verden hvor vi opfylder Paris aftalen smow, og vi kan se, at stort set alle de der tal er. How will mange tal inde i better?
+
+01:05:31
+Og den her klar, så er obsumeret i en rapport, som man kan gøre inde på Vores hjemmeside og downloade i den her fill health. Man kan se eksempler på næste år kan vi og så Vi har fælles mange forskellige produkter. Det har som vi laver.
+
+01:05:48
+Vi har vist jer Vores kortviser og Vores facer og Vores commune rapporter, men Vores starter også tilgængeligt, så man ikke ser urimelark, så man kan gøre begynder at lave sine egne beregninger.
+
+01:06:00
+Vi har en roomlay dhata tjenester, wallas gæst tjenester, hvor man kan også tage denne kygges a la archis, og hvis man virkelig har lyst og evner at arbejde med store mængder, så lever vi fat i alle darter offentlig tilgængelig.
+
+01:06:17
+Hvor man kan gøre en, og Det er en løgnde der Det er omkring fedt terror der som er daglig 1 km. Der er altså fora på new halvtrice over gange 3 re leatningsscenarier gange 2 kl. 03:30 klima note så Det er nok det arte der ad live med i hvert fald.
+
+01:06:38
+Vi har også en stor bunke af endda en cliimallas. Det er næsten som det står i dag.
+
+01:06:47
+Det er.
+
+01:06:49
+Præcis halvtres endda tilgængeligt idag i Vores seneste opdatering, men vi også arbejder på flere end de katter. Vi forventer, at næste år vil der komme lov om havmiljø. Jeg har valgt at sidde lige lag mod den der opdatering om vandstanden og stormflod.
+
+01:07:07
+Så det der fandtes ved en bladel Apple. Jeg har glemt den opdatere den her slide.
+
+01:07:13
+Så den med tåelige sportsmål er bruger den lære burstada anvende. Og så hvis vi fortsætter med næste community. Det har udviklet en klimahandelsplan, enten får den såkaldte de her 20 og 20 netværk, og hvis man går ind bagved, så kan man faktisk se en tage værels som den her, som er løsnet direkte fra klimaet ellers og til sidste førte så klimahavensplan, som gjorde ness well samfundet fandtes mere robust.
+
+01:07:42
+I den her fill falder genning samble som kommer fra enerry, hvor de har bygget en d der, hvor den store OI begyndelsen og der hvor den ser OI dag hvor de har fandtes hvor den her. Det er faktisk baserede på Vores tal højt og baserer på Vores tal, så primært blandt andet alle selvfølgelig og at.
+
+01:08:07
+Den DAM al beer at beskrivel arresten af af ugen og at gjorde det samfund med robust.
+
+01:08:15
+Og Det er ikke kun ness vel som har lav den her arbejds vi vi kan i 2020 fantas dækker hele landet og som det ser her underskriften her at new fandelsday klimaplaner der hele Danmark, og hvis vi kigger ind i analyser og hvor hyggelige planer alder så bliver anvendt i udvikling af af de her planer, vi kan sige at.
+
+01:08:39
+Den der fandtes 10%.
+
+01:08:42
+Der fandtes kun t patienter som har fandtes ikke anvendt klimahandlers i deres i deres klima og handlingsplan, så det fandtes over havstimst procent af Camilla har brugt Vores Vores resultater i deres klimahandelsplan, og nordmin brower længe malhia analysen. Så kan man se, at de der 10 pers de er fandtes blandt de allerførste de her typer 20 commer.
+
+01:09:09
+Som.
+
+01:09:11
+Mor.
+
+01:09:12
+Plan med 2 passende ikke hans store daller krav fra for de her type typer, så det det giver mening vi gik i gang med. Vi var meget igennem kom i contact med de der caminer og har shop dem i gang og vi holberg fandme sat becondas for allah commena at bruge klima alders når de opdaterer dets næste handlingsplan.
+
+01:09:35
+Vi kan også se at clay will har anvendt meget hyppige på den national niveau. Vi har et øblok her for den national klimato-passningsplan og klima-alast.
+
+01:09:49
+Mener applesza her Vi har eksempler fra Danmarks national bank, fra finansministerium og fra berelskabsstyrelsen her, som er allesammen anvendt klima ellers i deres arbejde.
+
+01:10:06
+Og klima ellers også endda system af værktøj for det der andre climate sevenes som befaktisk flyttet ind i.
+
+01:10:15
+I kender maske camp og hep, som begge anvendte anvender. Will starter i forskellige rald og kys planlægger, og hvad der samtidig disse beregninger skader. De kongelige beronninger er også inflammat af klimaerne at starte.
+
+01:10:34
+Så man kan se at være dærg meget tidligt derud af nicrysister.
+
+01:10:40
+Så fort lav of netle opsummering over den her clime-serves ID. Man kan lave en slags værdi her og man starter med samfundet og en dialog, som man har med samfundet samlet dada som eller har lige snakket om. Og Det er kun når vi selv sammen, at vi kan skabe information som fører til planlægninger og til sidst handlingsplan.
+
+01:11:04
+Og og handlinger som gjorde samfundet med roust, og så hvis i måske tænke tilbage til, hvor jeg starter med hendes intim og services i Vores gether maskine getter på det næste script, som er at Vi skal fattes, gentager den her dave and praces, som vi gjorde engang. Det er praces, som vi gjorde hele tiden, er vi, Vi har den her del.
+
+01:11:29
+Er er i constant gang.
+
+01:11:33
+Så fort afrunde og give jer lidt mere indblik i på ellers villaer. Jeg vil klienter altså. Jeg har tænkt at lave little.
+
+01:11:42
+Sned previe kan man sige fatte os hopper af planer næste år i klima ellers.
+
+01:11:50
+Først er, at vi arbejder på lava fremscripting og Danmarks hav milliard, og Det er fordi, at klima allers er næsten udelukkende. Folk kan se over på på land, og Vi har lettere havvandstigninger og stormflod, men Vi har faktisk ikke noget, som handler om ændring i dansk farvand, og det fandtes var vigtigt. Vi har allesammen at have hvor meget.
+
+01:12:17
+Debat, der har været om el zen.
+
+01:12:19
+Og få os taget nogle fisk, men dansk far var en fandtes er også i gang med opvarmet markant hørte jeg end end bland og det der fandtes lidt større for at høre det den går og den her faker af abbaserer besætteligt og den viser opvarmning og The sidste.
+
+01:12:38
+År, og vi kan se at the stall i.
+
+01:12:43
+Business'en for eksempel som har farmor mere end 1,5 gravid II det sidste 40 år.
+
+01:12:50
+Land på Danmark har også meget how and gravid og The sidste 50 ord, så Det er en markant stor forskel i, hvor hørte i den fælles gjorde til sidst, og Vi har fælles.
+
+01:13:06
+Forælden her arbejde godkended det, som man kalder.
+
+01:13:10
+Deckthate Ocean science for suzanne with development, som er et stort globe andnesual forod for bitre Vores forståelse af have.
+
+01:13:18
+Og sætte klima og ellers har fandtes og spillet ende i den her og man kan se Vi har enormt meget.
+
+01:13:27
+Forløb i resortater, som jeg viser her, hvor Vi har til langs bunden.
+
+01:13:34
+Der han er jo, og Vi har den genopstand, temperatur over det hele og Danmark.
+
+01:13:40
+Og så vi kan se, at vi forventer at merlhøj livning, scenarier omkring halvgravet og en høj levenningsscenarie op til 4 grables op-parming.
+
+01:13:54
+Men Det er noget, som vi arbejder på at få vant til at komme ud.
+
+01:13:59
+I starten af næste år.
+
+01:14:02
+Vi har også arbejdet på at få bedre Vores observations grundlag, som jeg sagde tidligere climat og sige day abaseret på en 10 kilometers opløsning over det hele og Danmark, og Vi har udviklet det, som man kalder en reanalyse på DMI, som giver et princip meget bittert uden ej.
+
+01:14:23
+Forre altså at lave primært alders fordi den kommer hele vejen halv kilometer.
+
+01:14:30
+Og Jeg har falcon en foreløbig her som viser on resort, teater og den, og den viser den genopsættelige daglige maksimumtemperaturer, der trives og lammet, og så man kan motivere se for eksempel at de store byer stikker ud her at København ah Det er så oddense er meget tidligt, men også mindre by som Horsens spejler runnés man kan sidde der og og simpelthen.
+
+01:14:57
+Stort set.
+
+01:14:59
+Alla.
+
+01:15:01
+Alle bøger i Danmark og os kan næsten se dem her, og Det er fordi at være bekendt at bøger er bare med landet på grund af urlow urban heat har on and perfekt, og det vigtige har den her i klima altså for at give et mere.
+
+01:15:18
+Brandvæsen og billede af den nyvarende klima og DML fremtidige klima i det her vej, så Det er noget, som Vi er virkelig begejstret for og ser meget frem til at prad indarbejde et klimaks.
+
+01:15:31
+Man er også en 2 vigtig ting, som vi laver her, at vi.
+
+01:15:41
+Siden primære alders bliver lanzero tilbage i chique til 1919. Der har vi jo virkelig en en kæmpe stor anjing imod, som vi snakker om klimaforandringer.
+
+01:15:50
+Tilbage i var den der tidspunkt var det altid. Debatterne blev en udlændingsseminarier, handler det om og og Det er der også i dag. Men så er der også kommet den her sprog omkring opvarmningen snakker vi om en 1,5 allan-tøg Allan 4 graders viden ifølge FN er vi på vejen til en tredie graders.
+
+01:16:11
+Vi er den nye tab om Vores aftaler under Paris aftalen eller Vores mall under parisaftaler er halen godt.
+
+01:16:19
+Og Det er fandtes.
+
+01:16:21
+Han synes Jeg er en virkelig, virkelig gold må at at snakke om klimaforandring fordi det Det er en mand må markant nemmere altså for middler og for stor. Og så vil jeg alvorligt begyndt at at lave arbejdet.
+
+01:16:35
+I den her retning at indarbejde opvarmningsnivever NE klima allers. Den her faker viser fandtes al of 72 klima mada.
+
+01:16:47
+Det som Vi har i dag i clemannas og så langs bunden har vi en gloile opvarmning, og til Venstre har vi.
+
+01:16:56
+Den gennemsnitstemperatur over Danmark og thuresy hele året, og vi kan se, at de har fat the send and direkte sammenhæng mellem the toy diffant su virkelig gøry 5 det her 2. Så vi kan derfor begynde at snakke om hvor meget af varme Danmark i en track-grunde er den, og Det er når som Vi er godt i gang med at indarbejde.
+
+01:17:17
+Men hvad der sker det vigtigste og det store stå opdatering, som der kommer, er en opdatering til den, som vi kalder colde x. Hvis i tænker tilbage til den her.
+
+01:17:30
+Rapport eller den her knalde skalingsfækker som jeg viste, jamen jeg skal i opmærksom på, at Vi har fattes and ny rapport som kommer fra IPC for FNS Kenneth planen tilbage fra e 2021.
+
+01:17:43
+Og bagved den her Der er så bare den næste generation af globe clement er. Det er de GC ma som eh snavygaard.
+
+01:17:53
+Den her navn, scaleringspraces. Det tager dog en lang tid og vil jeg stadigvæk i gang med det på DMI og hele vejen rundt omkring i Europa og sætte i forventer at the new vers out teater burde være klart i starten af næste år, og så vil vi begynde at indarbejde dem ind i klima adlers i løbet af næste år. Norddie bekom tilgængelig.
+
+01:18:17
+Og til sidst det Vores virkeliggøre i Vores meget om clipper early hal og bilic and Alice gjorde mad med den her og så DMI har fastsat samarbejde med den ghanesisk metalogisk Institute, hvor Vi er også i gang med at udvikle en klima alders il ganer, og Jeg har vi vurderer nal 3 gange og Vi har faktisk lige haft dem her på besøg for 20 uger siden.
+
+01:18:43
+Og vi kan sige, at Vi har valgt at lave fest og kørsel, adjactor.
+
+01:18:48
+Ah fortema eller scaner det her er David, som har stort set det samme stilling som Jeg har var i klima og siganer, og Det er Peter, som er ansvarlig for dets ET og den her sort kasse, som man kan se her. Det er klima allersganer, som er godt i gang, og den der falder unge størrelse arbejder, når jeg tager den lell, fordi der falder surfer.
+
+01:19:16
+Og der larmer ad helvel til.
+
+01:19:18
+Men den har også air conditioning, og Det er vigtigt i accra organer, når den kommer ikke under 25 hvadgraaler så Det er. Det er altid dejligt at tage en i serven og fælles arbejde der, og så man kan se nogle af de første resultater som man ser DNR Vi er før Vores forløb i resultater viser, at agana varmer omkring trevor-procent, hører de her end and globe gennemsnit?
+
+01:19:47
+Så retters opvarmning gloy bell svarer til omkring 4 giganer, men man kan også se at Det er fandtes at store forskelle mellem kystnære og know og længere op i det nordlige alreganere, som er er mere ovre i sahara orkanen eller i hvert fald en 17 a taiel or know.
+
+01:20:07
+Så prøv at lavvan little obsumering af den som Jeg har snakket om det, som vi gjorde i klima adlers er reprodukt, converter, klima, dada, så klima information for at understøtte klimatill passende Danmarks fremtidy klima wubler, warma og woolle. Og det kommer af flere øforgninger af Falck streamer, som hedder bølger, stormflod og skyder udbrud.
+
+01:20:31
+Problemet er allers ligesom alline gerner services. Airbus skal være drive og samfundets behov for information øden at snakke med jer øden den her dealog giver healing project tockmay.
+
+01:20:44
+Som er det så stopper jeg og tak ja for at stoppe med som hel og prøv at svar på jeres spørgsmål i kan en send the mey chat eller hvis Jeg er.
+
+01:20:55
+Ægte jeg så kan i lufte jeres holm.
+
+01:21:02
+Ja OK, så Vi har det første sportsmarow fra træner.
+
+01:21:09
+Eller opløsning af primært der et kilameter også for thorkeca her og vente ja, vi præsenterer Allan would starter på en a kilameter gætter man kan sige at.
+
+01:21:21
+Vi har ikke nødvendigt.
+
+01:21:23
+Det er informationer er.
+
+01:21:27
+Hele vejen med jeg plejer at anbefale at man får toke det på den commune ab nevery. I må ikke sidde der og prurse at sammenligne enten og commænding mellem ancell, men at sammenligne en af caminerne det Det kan der Arsenal gjorde.
+
+01:21:44
+Oh, så har hun rettle sig til 10 10 km.
+
+01:21:50
+OK så spor træner også kan vi se noget om, hvor vi kan arbejde med bølge, højder og hyppig hallen og bølgetiltag været forskellig verdens situation. Vi har snakket virkelig meget om at at lav a know om om bølger og bølger klima, og hvor den kommer Angels i fremtiden.
+
+01:22:13
+Problemer er at den er fattigsen and rawung regning at lave.
+
+01:22:18
+Og Vi er ved, eller Vi har simpelthen ikke nok rider craft her på DMI at curted. Vi har kun gjort at men.
+
+01:22:28
+Den 2 ting som er værd at tage ind i betragtning er at.
+
+01:22:33
+Vi kan ikke virkelig se en stor ændring event, i hvert fald enden for den sikkerhed, som Det er.
+
+01:22:41
+Hvis man kigger på fremskyning af den, Det er.
+
+01:22:44
+Virkelig virkelig meget støj i det, så vi kan ikke se noget, som indikerer at der kommer en ændring II vinden og DM al ja når Jeg vil behandles at komme en en angel i.
+
+01:23:01
+I bølger, men når den er sagt Det er superkomplekst, og Det er noget, som vi arbejder på, og hvor meget gin lav mere arbejder på, fordi Det er en stor rydder i Vores forståelse om hvad kommer der sker i fremtiden.
+
+01:23:19
+Er der andre små smed.
+
+01:23:25
+Nej Jeg tror der fandtes. Han gør et punkt at afunder dig fordi Det er kl. 14:29.
+
+01:23:34
+Hvis jeg sætter den der tilbage, Vi har.
+
+01:23:37
+Little.
+
+01:23:40
+Afrings slide.
+
+01:23:44
+OK.
+
+01:23:46
+Nu kan jeg så siger jeg tak for i dag og tak fordi i jeres opmærksomhed den næste gang er næste næste tirsdag den.
+
+01:23:54
+Nej det bliver den ja næste tirsdag den 26. Eller november, hvor shelter og hjørnes kommer snackholm nine hvornår? Hvorfor og?
+
+01:24:04
+Hvad? Jeg har ikke.
+
+01:24:07
+5 racerførere end forkert.
+
+01:24:10
+Allan spillet tak for det så med som helst i siger har spurgt mig i also delcomere. Skriv att.
+
+01:24:17
+Vi er er meget vældig at snakke med jer. Ellers tak for jeres opmærksomhed og forudsat gør i dag.
+

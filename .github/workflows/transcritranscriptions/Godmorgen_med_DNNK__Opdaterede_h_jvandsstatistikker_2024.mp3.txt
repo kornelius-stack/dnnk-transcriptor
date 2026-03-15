@@ -1,0 +1,876 @@
+00:00:04
+Godmorgen tal til allesammen, og så Der er bastan Poulsen. Du er en af mine gode kollegaer i kystoratet, hvor du er projektleder på opdatere højrestatistikker på 2024, og Det er dem, som du vil præsentere for os i dag som en kort introduktionsevne kan jeg fortælle, at statistikkerne har til formål at kortlægge risikoen for ekstandstande og en vigtig del af at understøtte klimatilpasning og planlægning af kystbeskyttelse mod fremtidige stormhalser.
+
+00:00:34
+Storm blodsendelser.
+
+00:00:37
+Og nu vil jeg give dig ordet bastan, som gør os klogere på selve dataindsamlingen analysemetoder og hvordan statistikkerne kan bruges i praksis og i der lytter med i er meget velkommen til at stille spørgsmål i chatten. Og så vil jeg følge op på dem efter præsentation.
+
+00:00:55
+Tak for det.
+
+00:00:57
+Ja tak for for det anne, og tak for for interessen omkring det her med med højvandsstatistik og det Det er jeg glad for. Det er jo noget som jeg bruger meget tid på, og så synes jeg også Det er sjovt at kunne få lov til at dele det med jer.
+
+00:01:16
+Jeg har en forventning om, at i på nuværende tidspunkt kan se mit powerpoint slide og og hvis det ikke.
+
+00:01:24
+Af tilfældet jamen, så så må du lige afbryde mig anna derudover så skal jeg beklage lyset II baggrunden her det det.
+
+00:01:36
+Står altså på af med med en ret høj frekvens. Jeg har prøvet at korrigere for det ved at sætte en 2 baggrund på, men.
+
+00:01:43
+Men, der kommer til at være lidt skift II belysningen på mig. Det skal jeg beklage.
+
+00:01:51
+Ja højvandsstatistikkerne. De blev udgivet her II slutningen af juli, og de kan hentes på hjemmesiden her, som de kan ses. Man kan både.
+
+00:02:04
+Skrive det direkte link til dem, eller også så kan man gå ind på kyst DK og så så følge.
+
+00:02:11
+De de link som der nu er der. Der er også Sådan nogle genveje fra kyst DK og så ind til højre vandstatistikkerne.
+
+00:02:21
+Det som højvandsstatistikkerne, de de handler om. De er baseret på 70 stationer placeret rundt omkring II hele landet.
+
+00:02:33
+Og Der er 3 resultater kan man sige Der er en 20 årsendelse, en halvtredsårsendelse og 100 års hændelse.
+
+00:02:44
+Hvor satte 20 års hændelsen. Den er vigtig, fordi den bliver brugt af naturskaderådet til at vurdere, hvorvidt der skal udbetales forsikring under stormfloder eller ej.
+
+00:02:58
+50 eller 100 årshændelserne. De bliver mere brugt II forbindelse med at man kystsikre forskellige områder og og Det kan også blive brugt under høringssvar i de her kystsikringer her.
+
+00:03:17
+En 20 årsendelse, Jeg vil gå dybere ind på det her senere hvad? Hvad Det er at forsøge at at forklare det?
+
+00:03:26
+Lidt grundigere, men de her 2050 og 100 års hændelser. Det skal forstås som en statistisk sandsynlighed. Det vil sige, at hvis vi for eksempel tager 20 års hændelsen, så hvis jeg går ind og kigger her på Aarhus.
+
+00:03:42
+Jeg prøver at cirkulere den med min mus. Det ved jeg ikke om i ser. Men hvis jeg går ind og kigger på Aarhus, hvis jeg så tager en 20 års hændelse, så kan jeg aflæse at den er 148 cm.
+
+00:03:54
+Og det betyder at baseret på det statistiske baseret på det materiale, som Vi har, altså det danske data som Vi har. Jamen så er der en statistisk sandsynlighed for at en hændelse på hundredeotteogfyrre centimeter eller derover hvem vil indtræffe en gang hvert 20. år.
+
+00:04:16
+Og tilsvarende, hvis man går ind og kigger på en.
+
+00:04:20
+100 års hændelse jamen så 1 1 1 vandstand på 166 cm eller derover vil i gennemsnit indtræffe.
+
+00:04:31
+En gang per 100 år.
+
+00:04:34
+Og det tal. Det skal man forstå som Det er gældende i 2024 baseret på det datagrundlag Vi har i 2024 og baseret på de vandstande, som der nu er engang i 2024, fordi at havniveauet det generelt stiger.
+
+00:04:51
+Så Det er det tal der gælder i 2024 og du kan altså ikke sige at det vil være det samme år. Det samme tal om 50 år ud i fremtiden.
+
+00:05:05
+Ja som som indledningsvist sagde, så er Vores data. Det er fordelt på halvtre 70 stationer nogenlunde ledeligt fordelt rundt omkring i Danmark.
+
+00:05:18
+Vi har lidt flere stationer i Vadehavet og så er vi lidt tyndere besat på på nordkysten heroppe.
+
+00:05:30
+Op oppe ved ved Nordsøen skærer ret.
+
+00:05:37
+Man må også forstå, at de resultater, som der kommer ud af det. Det er altså resultater, der svarer til de her punkter her. Vi, vi kan som Sådan ikke sige, hvad en 20 års hændelse eller de andre hændelser er langs resten af kysten.
+
+00:05:51
+Vi kan sige hvad, hvad en 20 års hændelse er lige præcis i det punkt, hvor Vi har en målestation og og alt hvad Der er derudover. Det er forskellige former for interpolation.
+
+00:06:06
+De stationer som Vi har de det vigtigste arbejde, kystdirektoratet. Detvisteret af DMI, og så så har vi cirka lidt lidt under 1/3 af stationerne, som er ejet af forskellige lokalt interessanter.
+
+00:06:26
+Kvaliteten og af det data som Vi har den varierer meget.
+
+00:06:32
+Og og man kan også sige at eller man kan generelt sige, måske er det rigtigt at sige Sådan, at at Vi har jo både på kystdirektoratet og DMI der har vi faste procedure og faste team til at vedligeholde Vores stationer og og og der har vi rimelig vedligeholdt data.
+
+00:06:52
+Og og så er der lidt mere svingende kvalitet på, hvor godt at de lokale stationer de vedligeholdt derudover så varierer længden af stationerne også. Vi har den station der har den længste måleserie. Det er Esbjerg den har 150 år og så går vi faktisk helt ned til 16 år, som Vi har valgt at medtage.
+
+00:07:13
+Der ligger en station oppe i Limfjorden på på 16 år oppe ved Aalborg.
+
+00:07:18
+Som som vi også har valgt at medtage, men men ellers så lægger vi jo Sådan. Altså Vi har en del af de korte stationer, men men cirka halvdelen af de stationer Vi har de er 40 år eller derover, så lang tid har de målt.
+
+00:07:36
+Og og Der er det jo bare Sådan, at jo længere tid de har målt, jo bedre data har vi. Det er statistikker, der forudsiger 2050 og 100 års hændelser, og ofte så vil folk også.
+
+00:07:46
+Gerne gå længere ud end det og og der må man jo sige jamen altså for at sige noget om hvad er sandsynligheden for at en hændelse forekommer en gang hver 100 år?
+
+00:07:58
+Ja, så er man bedre stillet hvis man har målestationer der har målt i lang tid.
+
+00:08:06
+Det som vi gør, når vi laver de her statistikker, Det er på.
+
+00:08:12
+Det er en anelse forsimplet det jeg siger her helt i praksis, så er det ikke helt Sådan jeg gør. Men men det det viser alligevel tankegangen i det at vi forestiller os, at vi laver et histogram. Det vil sige, at jeg sætter op, hvor mange vandstande har jeg målt.
+
+00:08:28
+Der ligger i intervallet mellem 260 og 280 cm.
+
+00:08:33
+OK dem tæller jeg op, og så får jeg så de her 2 43 her så kan jeg tage det næste interval her 280-300 cm tæller op der har vi cirka 28 vandstande, så trykker det ind i histogrammet og så videre og så videre. Nu er det Esbjerg station den her så den har Det er den længste serie den har så rigtig mange ekstremer.
+
+00:08:57
+Ekstremt vandstande som som Jeg kan tælle op og smide ind II histogrammet, men men mange andre stationer. De vil altså ikke opleve at have et lige så pænt histogram som det her.
+
+00:09:10
+Hvor hvor Der er lige så mange vandstande at tage af.
+
+00:09:15
+Når vi så har lavet Vores histogram, så prøver vi at tilpasse en eller 2 form for matematisk fordeling. Det er det som den røde linje på histogrammet illustreres. Så prøver vi at tilpasse en eller 2 form for matematisk fordeling, der kan beskrive ikke bare hvordan er det i et interval fra 260-280.
+
+00:09:37
+Og 280-300 og så videre, men også hvordan er vandstandene i?
+
+00:09:44
+Inde i intervallet altså Sådan så jeg i virkeligheden kan gå ind og aflæse jamen hvad er hvad er sandsynligheden for at få en vandstand Der er præcis 267 cm eller det som man jo ofte hellere vil gøre. Det er at gå den modsatte vej og sige, hvis jeg gerne vil have en vandstand, Der er så sjælden. Lad os sige at det kun er 5% chance for at den indtræffer.
+
+00:10:09
+Nå jamen, så kan jeg gå ind og aflæse på den røde kurve i min i mit histogram.
+
+00:10:14
+Jamen Det er en vandstand der svarer til deres sige 335 cm eller hvad det nu er.
+
+00:10:23
+Så ved at tilpasse den her fordelingsfunktion, som vi kalder det, så får vi altså en en højere opløsning på Vores resultater.
+
+00:10:32
+Og igen nu det her Esbjerg og der altså. Man er typisk tilfreds med at gå 150 år ud i tiden, men men for stationer der har kortere data serier. Jamen så vil man jo have en interesse i at komme noget længere ud end end hvad man egentlig har data til.
+
+00:10:52
+Man, man vil gerne have hændelser, Der er sjældnere, end hvad vi observerer, hvis man kun har 20 års data.
+
+00:11:01
+Men man vil egentlig gerne observere en hændelse, Der er så sjældent, at den kun forekommer en gang med 100 år. Jamen så er vi uden for histogrammet herude, og Det er jo ofte det, som man er interesseret i.
+
+00:11:14
+Så det som man skal forstå med de her højvandsstatistikker. Det er, at de afhænger altså dels af.
+
+00:11:21
+Det datagrundlag som Vi har, men så afhænger de også af, hvad for nogle subjektive beslutninger, som vi træffer der kan være forskellige måder at lave den her fordelingsfunktion på og og i kan jo godt se at herude II den ende hvor hvor at søjlerne de er lave ude i højre side af histogrammet.
+
+00:11:44
+Der Der er det.
+
+00:11:48
+En en lille ændring kan faktisk betyde ret meget, altså om den røde kurve.
+
+00:11:55
+Den er ligger dobbelt så højt oppe eller ej. Det det det gør jo en forskel, og det vil kun være en lille ændring II. Selve den måde, som Vi har tilpasset funktionen på om den ligger dobbelt så højt oppe som den gør ude II den højre ende.
+
+00:12:13
+Så Det har Det har stor betydning, hvordan vi vælger at tilpasse den her fordelingsfunktion her. Og så har det selvfølgelig også betydning, hvad for noget data, som vi vælger og medtage. Det kunne jo for eksempel være, at jeg vurderer, at ekstreme vandstande, Det har vi faktisk kun over 300 cm.
+
+00:12:34
+Jamen så vil jeg først gå i gang med at lave kurvetilpasningen fra 300 cm og altså droppe de 2 første søjler her.
+
+00:12:42
+Og det kunne også være, at jeg i stedet for vurderede, at vi havde brug for at have nogle ekstremt vandstande, som lå til Venstre for kurven. Altså nogle endnu lavere vandstande, selv når vandstandene var under 260 cm, så var de stadigvæk ekstreme og de skulle stadigvæk være i fordelingen. Så Der er altså nogle valg her som afgør, hvad for nogle resultater vi kommer frem til.
+
+00:13:09
+Det resultat som vi så får Det er Det er et resultat som jeg også har været inde på tidligere det.
+
+00:13:17
+Vi når Vi har lavet Vores fordelingsfunktion, jamen så kan vi gå ind og indtaste den på på en Sådan måde, at vi får.
+
+00:13:28
+Vores gentagelsesperiode. Den får vi ud af x aksen, og så får vi vandstand op af i aksen, og så kan jeg jo gå ind og aflæse.
+
+00:13:37
+For eksempel 100 års hændelse. Hvad er 100 års hændelse? Den er 408 cm, og så har vi de her begreber her, som vi så bruger indenfor indenfor Vores felt, hvor vi taler om gentagelsesperioder og midlertidand.
+
+00:13:56
+Og der må man forstå, at til enhver gentagelsesperiode hører der en middeltidsvanstand.
+
+00:14:04
+Og en gentagelsesperiode det. Det svarer altså med. Man kunne også kalde det for en sandsynlighed.
+
+00:14:11
+Det er i virkeligheden bare en sandsynlighed, hvis vi for eksempel tager en 20 års hændelse, så er det sandsynligheden for, at en eller det nej en 20 års hændelse Det er. Det giver jo en middelalt tidsvanstand, som indtræffer i gennemsnit en gang hvert 20. år, hvis man vil omsætte det til en sandsynlighed, så kan man også sige jamen, hvad er sandsynligheden for, at jeg måler vandstande i et år?
+
+00:14:40
+Og så måler en vandstand, Der er over det, som der svarer til en 20 års hændelse. Og det bliver jo så hvis man går ind og aflæser brugeren, så bliver det cirka de her 360 cm. Så hvad er sandsynligheden for at Jeg kan måle vandstande i?
+
+00:14:57
+I et år og registrere mindst en vandstand, Der er over 360 cm.
+
+00:15:04
+Der vil jeg få at vide jamen Det er 5% chance det Der er en 5% sandsynlighed for at registrere den dannestand og tilsvarende for 100 årsendelse. Hvis jeg registrerer vandstanden II et år, så har jeg en procent chance fordi at 1 / 100 Det er en procent. Der er en procent chance for at registrere en danstand der Der er 408 cm eller derover.
+
+00:15:32
+Den har en procent chance for.
+
+00:15:35
+Så så man kan altså omsætte de her gentagelsesperioder til sandsynligheder. Det er Sådan man egentlig skal fortolke det. Det er bare ofte rart at at have det i terminologi af gentagelsesperioder, fordi det det giver et indtryk af, hvor hvor ofte kan vi forvente af en hændelse?
+
+00:15:54
+Indtræffer og det det skal jeg jo så også siges, at Det er også den terminologi, man har vænnet sig til at bruge ude II kommunerne.
+
+00:16:04
+Hvor hvor at man arbejder med gentagelsesperioder og og.
+
+00:16:12
+De de bygningsværker, som man konstruerer forskellige kystbeskyttelse og så videre. Jamen, de er alle sammen konstrueret til en eller 2 bestemt gentagelsesperiode.
+
+00:16:24
+Og så har vi den her terminologi middeltidsvandstand. Det er altså en vandstand, der knytter sig til sandsynligheden. Så til hver gentagelsesperiode hører en midlertidig bandstand.
+
+00:16:40
+Ja.
+
+00:16:44
+Når vi så laver Vores statistik, så er det vigtigt at data de er sammenlignelige.
+
+00:16:53
+Og Vi har en generel havniveau stigning i Danmark. Den ligger Sådan alt afhængig af, hvor i landet vi befinder os, så ligger den et sted mellem 0 mm og 3 mm om året.
+
+00:17:07
+Og det.
+
+00:17:09
+Den havniveaustigning har der været siden den lille istid og og Det har jo noget at gøre med afsmeltning fra Grønland og.
+
+00:17:16
+Fra sydpolen også lidt fra fra nordpolen.
+
+00:17:21
+Men men de 2 store gletschere Vi har. Det er Grønland og sydpolen, så så Der er afsmeltning derfra, og og Det er den primære årsag til, at vi oplever ravniveau stigninger.
+
+00:17:39
+Når man så er havneudstigninger, så betyder det at en vandstand i.
+
+00:17:44
+I.
+
+00:17:46
+År 1900. Den er ikke sammenlignelig med en vandstand mod de og 2000, fordi der i mellemtiden har været havniveaustigning og og og der må man forstå.
+
+00:17:57
+Det glemte jeg at sige ved forrige slide, at når vi taler om en midlertidsvandstand, så er det en.
+
+00:18:03
+Vandstand, der ligger over middelhavneiveauet.
+
+00:18:08
+Så så Det er altid i forhold til Middelhavet.
+
+00:18:13
+Og, og det vil så også sige, at hvis vi registrerer, hvis Vi har registreringer fra danstand i 1990 og gerne vil sammenligne det med en vandstand, der for eksempel ligger i år 2020, jamen, så gør vi det, at vi skriver alle bandestande frem eller tilbageskriver dem.
+
+00:18:33
+Som om at de alle sammen var indtruffet i 1990, hvor vi i 1990, der har vi defineret middelstand til at være 0 cm, så en vandstand Der er indtruffet i 1990. Den skal have løftet sit havniveau. Nej undskyld en vandstand Der er indtruffet i år 1900.
+
+00:18:54
+Den skal have løftet sit niveau og tilsvarende en vandstand, Der er indtruffet i og 2020.
+
+00:19:00
+Den skal vi så have sænket sin sin værdi for at de er sammenlignelige, og der der sammenligner vi alle tal med tal i 1990. Det er i øvrigt også det tal som DMI de laver deres klima fremskrivninger til. Det går også ud fra fra 1990.
+
+00:19:22
+Og og dermed så giver det jo mening, så det så det til at arbejde med de forskellige referencer her. Det er altså 1990 vi arbejder med.
+
+00:19:30
+Som refererence de resultater som vi så får der skal man jo så være opmærksom på, at de vil jo også blive registreret som om at de er indtruffet i år 1990.
+
+00:19:46
+Og der bliver vi jo så nødt til at at korrigere de resultater, vi får for vandstande for for den havnniveaustigning, der har været Sådan, så at vi tager Vores resultat, og så tillægger vi havniveaustigningen Sådan, så vi får et resultat, som der svarer til år 2024.
+
+00:20:04
+Så Det er altså vejen frem, når vi laver Vores analyse, så først og fremmest tilbage skriver vi vandstanden til år 1990. Så kan vi lave Vores statistiske analyse, og når vi så har lavet Vores statistiske analyse det resultat vi så får. Det svarer til til hvad en middelsvandstand der overstiger et middelhav i år 1990.
+
+00:20:27
+Det skal vi have fremskrevet til og 2024 år.
+
+00:20:34
+Så har vi Sådan et her datablade her, som Der er vist her.
+
+00:20:40
+Og ja nu sagde jeg at Der er 3 resultater på det her blad er der 4 resultater. Det kommer vi til at opdatere Sådan så der kun er de her 3 resultater for en 2050 og 100 årsendelse 200 års hændelsen den fjerner vi igen og.
+
+00:20:57
+Det handler. Det handler noget om formidling. Altså i princippet, så kan vi jo godt have en 200 års hændelse med.
+
+00:21:04
+Men men det hele. Det er et spørgsmål om jamen hvordan? Hvordan kan brugeren, hvordan forstår brugeren de her data her?
+
+00:21:12
+Og hvis brugeren ikke forstår den usikkerhed som der ligger II data på en 20 års hændelse eller på en 20 års data serie ikke forstår at Det er meget svært at at bruge en 200 årsendelse her. Jamen så er det måske bedre for os at udelade den og det. Det har i hvert fald været den vurdering, som Vi har været nødt til at foretage.
+
+00:21:33
+Baseret på de tilbagemeldinger, som de har fået, og derfor så indgår 2200 års hændelsen ikke II. Den opdatering, som der vil komme af af højvandsstatistikerne.
+
+00:21:47
+Men Vi har altså en gentagelsesperiode her, som som Jeg har redegjort for, hvad der ligger i det 20. Halvtres århundrede, så har vi en midlertidandstand.
+
+00:22:01
+Jeg håber i følger min mus. Det er lidt Sådan jeg snakker men men jeg skal nok prøve også at sige hvad Det er for for nuværende tidspunkt så kigger jeg i den statistiske midlertidighedsstand den tabel.
+
+00:22:15
+Så har vi midlertidigsvandstandene i midten af tabellen.
+
+00:22:20
+Og hvis man har gode øjne, så kan man se at her står 168 cm og 189 for en 50 års hændelse af 205 for 100 årsendelse. Men Det er så den vandstand, som den ville være i år 1990. Det er en overskridelse af middelhavniveauet i og 1990.
+
+00:22:41
+Og når vi fremskriver det til år 2024, så har vi de her 174, 195 og 211 cm.
+
+00:22:51
+Så så Det er altså hvis man skal arbejde med tallene 29, 24 så skal man bruge de tal, som Der er fremskrevet til og 2024.
+
+00:23:01
+Hvis man gerne vil have præcise tal videre frem, så skal man ind og kigge på de tal, som der står her der. Der står, at der efter 1990 har været en relativ havne hos stigning på 0,18 cm om året.
+
+00:23:19
+Det er så fra den her station her. Det er på Roskilde station.
+
+00:23:24
+Og, og så må man så gå ind og og tillægge. For hvert år må man tillægge.
+
+00:23:28
+1,8 mm, 0,18 cm om året.
+
+00:23:35
+Ja så derudover så har vi.
+
+00:23:40
+De 40 største hændelser, som har været datagrundlaget for for for Vores analyse.
+
+00:23:49
+Der har indgået flere hændelser, som i kan se her, så står der, at der har været 45 hændelser og har indgået i analysen.
+
+00:23:58
+Men Vi har listet de 40 største hændelser her.
+
+00:24:02
+Og Der er en dato. Den forklarer vel sig selv, så er der den målt vandstand. Det er altså den mål vandstand, som der ikke er blevet korrigeret for at der har været havn i Vores stigninger.
+
+00:24:13
+Og så til sidst så har vi vandstanden frem eller tilbagespærdet til år 1990.
+
+00:24:21
+Her fra Roskilde så den højeste mål til vandstand Det er Det er storm Bodil i år 2013 og der kan i se mål det vandstand den er 206 cm, men hvis Vi er tilbageskriver det til år 1990, så er vandstanden faldet, så er vi nede på 202 cm.
+
+00:24:47
+Ja og så er der også den her figur her, hvor at folk i det omfang de har lyst, så kan de selv gå ind og aflæse de forskellige midlertidige og gentagelsesperioder.
+
+00:25:04
+Som jeg gennemgik indledningsvis, så har vi varierende kvalitet af data.
+
+00:25:11
+Og det, som der jo er udfordringen. Det er at målerne de med jævne mellemrum, så står de af de skal vedligeholdes stot der. Der kan være forskellige grunde til at målerne de står af og og så får vi altså Sådan noget her data som det Der er illustreret her, hvor at den enten låser sig fast på en konstant værdi, eller også får nogle helt større målinger som afviger fra fra de almindelige vandstand.
+
+00:25:38
+Og det ligger der et stort arbejde i inden, at Vi er i stand til at behandle data og og få renset ud i alle de her ting her.
+
+00:25:49
+Derudover, så er der også en udfordring med at at målerne de måske ikke nødvendigvis er korrekt nulpunktsindstillet. Her har jeg vist dejde Fjord, som er en en ny måler, og så har jeg sammenlignet den med Fredericia juelsminde og Bogense. Det er 3 stationer der ligger tæt på.
+
+00:26:13
+Ja juelsminde den har også sine problemer, men men det som jeg gerne vil illustrere her Det er at Vejle den rimelig konsekvent ligger.
+
+00:26:22
+6 7 cm under de andre stationer.
+
+00:26:27
+Og det betyder Sådan set ikke så meget i forhold til den statistiske analyse. Så får man bare en værdi der konsekvent er 6 7 cm lavere, men så længe at målerstationen også måler 6 7 cm lavere, så så gør det jo ikke så meget. Så vil den 20 årsendelse den vil stadigvæk kunne passe ind i det her, men stadigvæk så også for andre sammenligninger.
+
+00:26:50
+Så foretrækker vi jo at.
+
+00:26:53
+At de er korrekt nulpunktsindstillet de her mål og stationer.
+
+00:26:59
+Derudover, så så kan der jo simpelthen også ske det at at.
+
+00:27:05
+At forholdene for hvordan måler stationen den ændrer de ændrer sig her. Her har vi en station, hvor Jeg har indtegnet de månedlige middelbande, og så kan man se her omkring 20 12 20 14. Der sker der lige pludselig et skift op imod 2016, hvor hvor det virker som om.
+
+00:27:25
+Der har måle, og stationen rykket sig.
+
+00:27:27
+Og og Det er uheldigt, når det sker. Det giver.
+
+00:27:32
+Det vil ikke give retvisende.
+
+00:27:35
+Midlertidigtsvandstand når vi laver analyse på på Sådan et her datasæt.
+
+00:27:43
+Hvis vi så tager og kigger på nogle konkrete resultater, så havde vi en meget stor stormflod i oktober.
+
+00:27:52
+Og hvis man går ind og kigger på Vores gedser målstation. Den har en dataserie på cirka 130 år.
+
+00:28:03
+Og og der kan man så se hernede i den nederste tabel. Der har jeg vist de 5 højeste vandstand, der har været målt.
+
+00:28:12
+Og når de bliver omskrevet til reference 90, så kan man se at på gedser stationen Der er den faktisk 10 cm lavere oktoberstormklorien den der var i 2023 oktober 2023 end den højeste, Der er blevet registreret som blev registreret i 1913.
+
+00:28:33
+Så på Vores ghettomålesstation, der vil oktober stormsloden. Den vil cirka gå ind og placere sig Sådan lidt under 100 års hændelse, hvis man går op og kigger i den.
+
+00:28:45
+Øverste tabel.
+
+00:28:49
+Derudover, så skal man lægge mærke til, at jo højere og midlertid jo højere gentagelsesperioder vi kigger på jamen, jo mindre er afstanden faktisk hvis i kigger på en gentagelsesperiode fra 100 fra 100 år til 200 år. Jamen så er der faktisk kun en forskel på 6 cm og og Sådan er det jo også Sådan. Sådan skulle det gerne være at der var Sådan et.
+
+00:29:15
+Den går mod et øvre maksimum for hvor høj en vandstand egentlig kan lide. Men men det som man jo så også må forstå i det her. Det er at altså forskellen på 100 årsendelse og 1000 årsendelse den.
+
+00:29:32
+Den er faktisk ret begrænset.
+
+00:29:35
+Det vil jo så også i praksis sige, at Det kan være meget små forskelle II de derforhold der rent faktisk forekommer.
+
+00:29:44
+Som som kan give anledning til.
+
+00:29:48
+En hændelse går fra at være 100 årsendelse til at være en en noget højere hændelse. Lad os sige en 300 årsendelse eller en 500 årsendelse.
+
+00:30:00
+Hvis vi kigger på den samme oktoberstormflod men kigger på den i Fyns hav i stedet for det. Det ligger nede i det fynske ø hav.
+
+00:30:12
+Så så vil vi se at oktober stormsloven. Det er den højeste, der nogensinde er registreret. Hvis i husker tilbage fra gedza stormkloden, så er den højeste, Der er registreret.
+
+00:30:22
+Den lå tilbage fra 1913, men på Fyn stationen.
+
+00:30:27
+Så den går kun 70 år tilbage, og derfor så er den her oktober storm på. Altså ikke med eller 1913 stormfloden er ikke med i datagrundlaget og og her kan man så også se at.
+
+00:30:43
+Den her storm på her den er registreret til i reference 90 og være 194 cm og den går faktisk ind og bliver højere end end 200 også enmelse og Det er jo Det er jo interessant fordi det Det er det samme vejrfænomen og de samme.
+
+00:31:02
+De samme farvand som den her hændelse sker i.
+
+00:31:07
+Og i og med at så fyn så har en kortere data serie.
+
+00:31:11
+Og den alligevel går ind og lægger sig på over en 200 års hændelse. Det bliver faktisk en 340 års endelse, Det er. Det er den forskel på de tre centimeter i virkeligheden giver.
+
+00:31:24
+Jamen i og med den går ind og lægger sig her. Jamen så.
+
+00:31:31
+Så må man spørge sig selv hvad hvad kan vi stole mest på? Kan vi stole mest på gedser eller kan vi stole mest på fyns hav? Og her vil jeg da sige at.
+
+00:31:40
+Noget mere retvisende fortolkning Det er jo nok at oktober storm det varer omkring 100 års hændelse. Altså gå ind og fortolke på gedser dataene frem for at gå ind og fortolke på fyns havdataene. Simpelthen fordi at gedser dataene har en.
+
+00:31:58
+Har en længere datasering.
+
+00:32:05
+Hvis vi tager et andet eksempel, så er det Roskilde Fjord. Den oplevede Bodil stormen i 2013, og Det er altså en stormflod, der bliver ved med at drille Vores statistikker. I kan se den her i den nederste tabel her.
+
+00:32:19
+Den går ind og er 202 cm.
+
+00:32:24
+Og i den den er simpelthen 50 cm højre, altså 33% højere end den næsthøjeste stormflod.
+
+00:32:34
+Og det skal jeg jo ses i lyset af det, som jeg sagde lige før, at når vi går mod de høje hændelser, så er der faktisk ret små forskelle på på på på hvad vandstanden kan blive. Så en forskel på på 33% her på 60 cm. Det er helt vildt og den den driller altså Vores statistik, og det betyder også hvis vi kigger på den røde kurve her.
+
+00:33:00
+Og der står en slags, hvis vi kigger på den røde kurve her.
+
+00:33:05
+Så så krummer den faktisk opad, og Det er jo urealistisk fordi det det viser i virkeligheden, at der ikke er nogen øvre grænse for hvor høj verdensstandene kan blive. Og selvfølgelig er der en øvre grænse. Det er fysisk umuligt, at der ikke er en øvre grænse for, hvor højt vandestand man kan blive.
+
+00:33:24
+Men Det er altså et udtryk for hvordan at forskellige stormfloder de kan påvirke Vores statistikker.
+
+00:33:32
+Ja og så et slide stå slut så Jeg vil sige tak fordi i hørte det med.
+
+00:33:44
+1000 tak for Sebastian. Det var virkelig spændende dit oplæg. Vi har lige et par spørgsmål i chatten, og vi starter bare for en ende, bliver statistikken kolleger med tidevand, altså den enkelte måling sammenholdt med tidevand.
+
+00:34:00
+Nej, det gør de ikke på nuværende tidspunkt. Vi kigger ind i og og gerne vil forbedre statistikkerne, og Der er Der er noget litteratur, der tyder på at at hvis man sammenholder med tidevand, jamen, så får vi en en bedre statistik.
+
+00:34:22
+Det.
+
+00:34:24
+Det kræver noget mere arbejde for os og det. Det kigger vi ind i og og skulle have lavet det og også have have kørt nogle tests på om om det også vil give nogle gode statistikker for os.
+
+00:34:34
+Men Jeg kan sige på nuværende tidspunkt, så bliver det ikke korrigeret for tidevand.
+
+00:34:43
+Laver i den statistiske analyse på hver enkelt målestation for sig, eller indgår kollektionen men nærliggende stationer i beregningerne?
+
+00:34:53
+Vi laver den på den enkelte station, og det altså når vi ikke korregler med nærliggende stationer.
+
+00:35:03
+Så så handler det om at at det går meget hurtigt hen og bliver bliver meget subjektivt. Hvordan at man skal gøre det, og i praksis så vil det betyde at.
+
+00:35:17
+Jamen statistikkerne, de vil skifte med hvem Det er der laver dem.
+
+00:35:22
+Vi kigger ind i nogle metoder til at til at kunne kunne sammenholde.
+
+00:35:31
+Samtlige stationer med hinanden.
+
+00:35:33
+Eller i hvert fald stationer II et sammenhængende. Hvad hedder det?
+
+00:35:40
+Farvand et et sammenhængende farvand?
+
+00:35:45
+Der er lidt forskellige teknikker til det. Der er det der hedder en video og frekvency og analasys og Der er også en bioix model som det hedder og det kigger vi også ind i.
+
+00:35:58
+Vi.
+
+00:36:00
+Vi er et der endnu, hvor vi vil begynde at lave det, men med tiden så vil det jo være rart ikke bare at have.
+
+00:36:10
+Have en model for punkter, men simpelthen kunne angive midlertidigt standard hele den danske kyst, og Det er det som at kigge ind i Sådan en her model, hvor man sammenholder vandstanden mellem de forskellige stationer.
+
+00:36:24
+Det vil det kunne give os men, men det skal være det skal være på et rigidgrundlag.
+
+00:36:36
+Så har vi en her. Hvordan er klimaændringerne gradvist mere sandsynlige statistikkerne frekvenser ud over gentagelsesperioder.
+
+00:36:47
+Jamen altså.
+
+00:36:52
+Jeg er nok tilbøjelig til at sige, at Det er de ikke.
+
+00:36:58
+Og Det er igen noget jeg gerne vil lave flere analyser på.
+
+00:37:03
+Men på nuværende tidspunkt. Der kan jeg ikke se de tendenser, som man ser IIPC med et accelererende havvand.
+
+00:37:13
+Havniveau Vi har en lineær tendens i stigningen af havniveauet.
+
+00:37:20
+Og og den har jo så været der siden den lille istid.
+
+00:37:25
+Så så på nuværende tidspunkt, så er det faktisk svært at se effekten af af af nogle klimaændringer.
+
+00:37:36
+Og og og man kan også hvis man så kigger på.
+
+00:37:41
+Jamen er er vejrforholdene så for forandret fordi man kunne altså en ting er om havniveauet stiger.
+
+00:37:48
+Det, det ser vi ikke en tendens til. Ud over den lineære stigning, som som der jo så har været siden den lille istid.
+
+00:37:57
+Men man kunne spørge sig selv om.
+
+00:38:01
+Om vejret giver anledning til til forandret ekstremt vandstande, og der har DMI kørt nogle analyser på det.
+
+00:38:11
+Og de får.
+
+00:38:13
+Altså de er et sted nu hvor de de ikke synes at de kan konkludere noget på det. At det. Det er ikke fordi de vil hverken sige, at det ikke at der ikke kommer mere større ekstreme eller det modsatte, altså de de finder tendenser der går i begge retninger at at vejret.
+
+00:38:34
+Det kunne give anledning til endnu højere ekstremt vandstande, men de finder faktisk også tendens, der går i den modsatte retning og er ikke klar til at at konkludere.
+
+00:38:44
+Mere præcist på det, vi havde et stort projekt med at at kystsikre København, og der der var konklusionen, at de kunne ikke sige noget hverken i den ene eller den 2 retning.
+
+00:38:57
+Tak for det.
+
+00:38:59
+Arbejdes der med noget tilsvarende i forhold til statistik indenlands, altså for ferskvand vandløb med mere.
+
+00:39:09
+Ikke noget som jeg kender til. Altså nej, det her på kystdirektoratet der der tror jeg godt, at Jeg vil sige at det der bliver ikke arbejdet statistisk med med Englands.
+
+00:39:25
+Or IAI til og se mønster.
+
+00:39:28
+De er begyndt på det, men Det er ikke en del af Vores konklusioner endnu.
+
+00:39:35
+Så er der en her der skriver. Tak for et godt indlæg. Har i overvejelser om at udgive statistik statistikkerne hyppigere, for eksempel hvis vi får store stormflodsændelser i fremtiden og samler i data, som er tilgængelige for hvilke vejrssituation der var knyttet til stormfodsendelserne.
+
+00:39:53
+Dette kunne være noget, som vi kan bruge til at forstå Vores lokale systemer.
+
+00:39:59
+Nu skal jeg lige jeg skal sørge for at få svaret på begge spørgsmål, så jeg siger lige husk det her.
+
+00:40:05
+Det første spørgsmål overvejer vi at udgive hippier. Det gør vi.
+
+00:40:12
+Men, Der er konflikt interesser her, fordi Der er Der er nogen, der gerne bare vil have højvandsstatistikkerne opdateret så hyppigt som muligt. De vil gerne vide hver eneste gang der sker en ændring. Hvad har det så af betydning?
+
+00:40:26
+Og så er der andre, og Det er jo nok dem som har store projekter. De vil egentlig gerne have en investabilitet over tingene.
+
+00:40:34
+Og de de er for grå hår i hovedet, hvis der udkommer en en ny statistik hver eneste gang Der er sket en ekstrem vandstand, så kan de stå og kigge på jamen så alt det som Vi har planlagt Det var så forkert.
+
+00:40:47
+Og og Der er jo nogle overvejelser om hvor.
+
+00:40:51
+Hvordan skal vi? Hvordan skal vi formidle det her Sådan? Så man forstår at at jamen højvand statistikkerne er dynamiske, og man bliver, man bliver nødt til at planlægge det datagrundlag, Der er tilgængeligt.
+
+00:41:05
+Altså skal vi gå ind og formidle det her og så forvente at at så kan så kan de forskellige interessante. De kan så håndtere det her. Eller skal vi i stedet for anerkende, at højvandsstatistikkerne?
+
+00:41:19
+Det er en stor autoritet, og derfor så bliver folk nødt til at have den her stabilitet som som det giver.
+
+00:41:27
+Der er nogle overvejelser, og Det er ikke afgjort, hvor den danner.
+
+00:41:35
+Yes.
+
+00:41:37
+Kan i dele datagrundlag, som inkluderer jeres processing.
+
+00:41:44
+Nej, Det var det andet spørgsmål der.
+
+00:41:48
+Altså DMI har jo en stor database hvor at de har alle i hvert fald nyere vandstande. De lokale stationer som vi også bruger dem har vi ikke.
+
+00:42:03
+Dem skal man spørge om tilladelse til at få dem i de de publicerer nogle kurver men men datagrundlaget tror jeg ikke bare man kan gå ind og hente.
+
+00:42:13
+Men, men Det er deres database, man som udgangspunkt ville skulle gå ind og hente vandstandsdata fra.
+
+00:42:22
+Og så hvis jeg så forstår det sidste spørgsmål her om vi kan dele data datagrundlaget.
+
+00:42:33
+Det må jeg sige at det det vil jeg gerne have lov til at lade være med at svare på nu. Jeg har hørt spørgsmålet og og Jeg vil vende det.
+
+00:42:43
+Med med resten af gruppen her, som arbejder på højt eller en statistikkerne.
+
+00:42:49
+Om vi kan og hvordan vi kan, men Jeg kan ikke svare på det.
+
+00:42:56
+Hvordan beregner i konferenceintervaller i Roskilde er 200< 100 år. Hvordan kan det være?
+
+00:43:05
+Der skal jeg lige forstå hvor konsistens intervalitet er< i 100 års hændelsen bliver der solgt.
+
+00:43:14
+I Roskilde er 200 år< 100 år.
+
+00:43:20
+Nå på den måde? Ja OK ja.
+
+00:43:27
+Jamen kondens intervallet det altså. Der er mange forskellige metoder til at udregne et konfidens interval. Det som vi gør det altså.
+
+00:43:37
+Det er 95% procent kontigens intervalse vidt jeg husker 90 eller 95% konfidens interval. Og det som vi gør Det er Det er ved hjælp af Fischer information.
+
+00:43:52
+Jeg tror ikke i den version Der er offentlig lige nu, så tror jeg ikke Der er et link til Fischer informationen, men vi opdaterer højvandsstatistikkerne nu her indenfor meget kort tid.
+
+00:44:12
+Og der vil der vil der i den indledende tekst. Der vil der ligge et link til til det matematiske grundlag for hvordan vi beregner kontigdens intervalitet.
+
+00:44:23
+Altså hvis man undrer sig over den her.
+
+00:44:29
+At at i kontigensintervallet, der ligger 100 års hændelsen over en 200 års hændelse, der siger det jo bare noget om at at usikkerheden, den bliver bare større, jo længere vi kommer ud og og Det kan altså godt give anledning til til den her krumning her.
+
+00:44:46
+Så som vi nu engang ser.
+
+00:44:50
+Men, men Det er selvfølgelig klart en.
+
+00:44:55
+En kurve tegnet på på baggrund af den yderste del af af konfidentervalget ved en 200 års hændelse.
+
+00:45:04
+Ja der vil man så få 100 årsendelse, der ligger under den yderste del af af konsintervallet ved en en 100 års hændelse men men men der der må man jo så også sige, at der har man jo også valgt valgt at at kigge på noget. Der er endnu mere usandsynligt.
+
+00:45:27
+Ja vil det ikke være relevant at medtage historiske stormflodanalyserne for stationerne i Østersøen, for eksempel stormfloden i 19. 4 og i 18 72.
+
+00:45:41
+Det er en relevant overvejelse.
+
+00:45:46
+Min konklusion på Det er nok altså Der er rigtig mange meninger om det her.
+
+00:45:54
+Min vurdering af det her er, at Det er ikke til at at sige på et nogenlunde fornuftigt grundlag hvad hvad de her vandstande i virkeligheden har været, hvis vi tager 18, 72 storm på en for eksempel.
+
+00:46:10
+Så de tal som man vurderer. De ligger og svinger imellem 252 cm og 290 cm 293 cm tror jeg Det er.
+
+00:46:24
+Så alene usikkerheden på selve vandstanden giver et problem, så er der en udfordring i jamen, hvordan inkluderer man så en enkelt vandstand eller nogen enkelte vandstande?
+
+00:46:40
+Og og Det kan jeg jo der der ligger igennem nogle vurderinger til grund for det, som Jeg synes at Det er.
+
+00:46:50
+Det er svært at få med i de højmandsstatistikker, særligt fordi statistikkerne har den autoritet, som de nu engang har. Jeg ville synes Det var lettere, hvis man snakkede om et specifikt projekt, altså en Kommune, der havde behov for.
+
+00:47:06
+Nogle specifikke udregninger, så kunne de ligesom forholde sig til. Jamen, hvad vil vi gerne have med i de her udregninger her?
+
+00:47:14
+Og og så sige jamen på det og det grundlag, så vurderer vi, at Vi skal have bygget så og så højt. Men når Vi har landsdækkende statistikker, som er en autoritet.
+
+00:47:26
+Så så synes jeg det bliver for problematisk og og.
+
+00:47:31
+Passe nogen her lidt mere.
+
+00:47:35
+Er det ja, det bliver i hvert fald meget subjektivt med tilgangen skal være til det.
+
+00:47:41
+Ja.
+
+00:47:43
+Så har vi et her. Vejle ligger 6-7 cm lavere end Fredericia og juelsminde Vejle havns statistik er, som du også opløste, har ikke så mange registreringer som de Fredericia og juelsminde, som Jeg tror som de har i Fredericia og juelsminde. Hvilken statistik vil du anbefale at Vi skal bruge og hvilken vil KDE bruge i deres varer og risikokortlægning?
+
+00:48:10
+Jamen altså det som jeg sagde II gennemgangen så så er.
+
+00:48:17
+Altså selve det at den ligger 6-7 cm under af i og for sig ikke problematisk så længe at alle de vandstande man registrerer de også bliver registreret. De bliver relateret til den vandstandsmåller som der ligger 6-7 cm under.
+
+00:48:37
+Nu.
+
+00:48:38
+Nu tog jeg det som et eksempel på på noget, der kunne være problematisk og Vejle. Det er noget, som vi vil kigge ind i fremover.
+
+00:48:48
+Hvordan kan vi? Hvordan kan vi kvalitetssikre vejles data?
+
+00:48:55
+Og og der vil nok der vil vi nok fremover se ind i at at hæve den.
+
+00:49:02
+Men men som udgangspunkt, så vil jeg jo sige at at at brug vejlestatistikken og så bare relatere den til måleren, Sådan som den nu engang er, fordi så er statistikken god nok.
+
+00:49:13
+Jeg håber det besvarer spørgsmålet ellers så må vedkommende lige skrive igen.
+
+00:49:21
+Yes så er der et her som relaterer til et tidligere.
+
+00:49:29
+Hun spørger lige på en 2 måde samler i op på hvilken ver situation der gav højvandet et givent sted i Danmark.
+
+00:49:38
+Og er der viden, som vi kan bruge til forberedelse, altså hvilke vejrsituationer kan give højvande, hvor og hvor meget.
+
+00:49:49
+Jamen altså. Vi har et rimelig godt overblik over hvad for nogle værkfænomener der der giver anledning til ekstremt vandstande. Det er Det er forskelligt alt afhængig af hvad for en Region man kigger på af landet.
+
+00:50:02
+Men Vi har et rimelig godt overblik over det.
+
+00:50:07
+Det er jo.
+
+00:50:09
+Særligt DMI, der der kigger på de her ting her og og forsøger at at kigge på hvad Det er for nogle vejrfænomener, der giver anledning til det. Men men Det er også noget, vi kigger ind i her på kystdirektoratet.
+
+00:50:23
+Og.
+
+00:50:25
+Vi har et rimelig godt overblik over det. Anna vil du lige repetere spørgsmålet for mig var der mere i det?
+
+00:50:36
+Hvilke vejr situationer kan give højvande, hvor og hvor meget? Jeg ved ikke om.
+
+00:50:42
+Jamen det. Det afhænger meget af af, hvor i hvor i landet vi befinder os. Altså hvis du tager Sådan et sted som østersø regionen, så så.
+
+00:50:54
+Så vil der.
+
+00:50:56
+Altså hvis du har en vind mod vest, så vil der ske en opstuvning af vandet i den vestlige østersø, og Det er den ene del af det vejrfænomen, som kan give anledning til højværende II Østersøen. Men det vil også kræve, at der inden da er blevet blæst en god portion vand ind i Østersøen, altså at Der er en forhøjet vand i Østersøen i forvejen.
+
+00:51:24
+Og og nogle gange det opdagede man i 2017. Der havde vi det som der var den stille stormflod.
+
+00:51:32
+Så Det var i øvrigt også en del af stormfloden her i 2023.
+
+00:51:39
+Så ville det også bare være tilbagevuldt. Altså at selvom det ikke er blæsende, så fordi at Der er blevet Sådan blevet blæst så meget vand op imod Helsinki og så videre deropad.
+
+00:51:52
+Jamen, når det så oplever tilbage, jamen så vil vi opleve høje vandstand II Østersøen omvendt. Hvis du er ude mod vesterhavet, jamen så er det at vinde mod øst som som der giver anledning til ekstrem vandstanden her.
+
+00:52:09
+Tak for det bastian. Det var det sidste spørgsmål der var i chatten.
+
+00:52:14
+Godt og.
+
+00:52:14
+Så vil jeg sige tak til alle jer der lytter med.
+
+00:52:21
+Og.
+
+00:52:23
+Så runder af.
+

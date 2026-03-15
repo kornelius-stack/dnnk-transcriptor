@@ -1,0 +1,390 @@
+00:00:05
+Jeg hedder Louise, og Det er min kollega Thomas, og vi arbejder i en vagen, og.
+
+00:00:12
+For cirka.
+
+00:00:14
+Det er vel næsten snart 2 år siden Anders at du hyrede os ind til ligesom at finde ud af, hvordan kan man egentlig modellere Sådan et rockflowmagasin? Altså hvor der rent faktisk er forsinkelse i selve magasinet? Hvordan kan vi modellere det II hydrauliske programmer som for eksempel mike urben?
+
+00:00:32
+Og nu er mike plus som som bliver anvendt rigtig meget af hydrauliker.
+
+00:00:38
+Og og Vi er lidt ligesom det 3 led fra.
+
+00:00:43
+Efter isak med ligesom at sige jamen OK Der er. Der er nogle anvisninger for hvordan man skal dimensionere et et.
+
+00:00:50
+Et rockflowmagasin.
+
+00:00:52
+Hvordan fanden?
+
+00:00:54
+Sådan der.
+
+00:00:57
+Og og hvad sker der så bagefter? Hvordan kan vi se, at hvordan påvirker det så egentlig? 1 1 1 andet hydraulisk system som for eksempel et kloaksystem hvis man putter det det ind i en model, så Det er lidt det vi gerne vil fortælle jer lidt om her i dag, og det første vi ligesom vil komme ind på.
+
+00:01:14
+Det er jamen. Hvad har de første overvejelser egentlig været lidt en intro til hele vi kalder det bare projektet.
+
+00:01:22
+Så vil vi komme lidt ind i den periode, hvor vi prøver at kalibrere et modelset up et modelset up, som vi havde fået ligesom antaget, kunne være noget vi kunne bruge til. Og så vil vi komme lidt ind på selve model setuppet og hvilke modelparametre man vil gå videre med, får så sidst at ligesom komme ind på jamen hvad er hvad er det så for et et værktøj Vi har udarbejdet til modellering af rockflammagasin II mac plus.
+
+00:01:49
+Eller mike urban og så lige til sidst evaluere lidt på jamen hvor hvor langt er vi egentlig og hvad er det egentlig for et værktøj som som nu er parat?
+
+00:01:58
+Til at blive brugt.
+
+00:02:00
+Nej Det var undskyld. Det var så denne vej.
+
+00:02:02
+Nå jamen hvad. Hvad var der ligesom det først og fremmest? Hvad var det første vi ligesom skulle skulle kigge på, når vi da vi fik den her opgave?
+
+00:02:10
+Jamen Det var jo helt simpelt vi skulle prøve at forstå hvad er det for nogle hydrauliske aspekter der foregår i et rockflowmagasin?
+
+00:02:21
+Og hvordan kan vi oversætte det her til et meget plus sprog eller en mike urban sprog?
+
+00:02:28
+Fordi en ting er, hvad sker der i virkeligheden? Men hvordan kan vi simulere det?
+
+00:02:33
+Og hvad skal ende produktet egentlig være? Og endeproduktet var vi egentlig også lidt enige om i starten? Jamen, det skulle være en eller 2 form for et manual og et værktøj til, så at Det er nemt for mike open og mike plus brugere til ligesom at indsætte det her rockflowmagasin i mycurben og my plus.
+
+00:02:54
+Så Det var ligesom det vi fik snakket om i starten.
+
+00:02:59
+Og så ja OK hvad Vi skal prøve at forstå hvad er det for nogle hydrauliske aspekter Der er III et rockflowmagasin fordi Det er egentlig ikke så så simpelt som at Det er bare et volume og så løber der vand ud, fordi inde i selve magasinet jamen så sker der nogle nogle hydrauliske forhold som som kan være meget varierende afhængig af om det Vi har et fyldt magasin eller et delvist fyldt magasin.
+
+00:03:24
+Magasin og flow igennem magasinet, jamen Det er der kan både være et mættet flow og et umættet flow og det mættet flow. Jamen Det kan være.
+
+00:03:34
+OK simpelt og og beskrive, men det umættede flow er faktisk mere komplekst.
+
+00:03:42
+Men Vores ønske. Det er jo faktisk at prøve at beskrive noget komplekst.
+
+00:03:47
+Men simpelt fordi når man skal hen og så lige pludselig at modellere noget, jamen det den værste fjende for en mulør. Det er når noget Det er komplekst, fordi Det er der man laver fejl.
+
+00:03:59
+Hvis Der er alt for mange parametre, og Det er alt for meget du skal med i en model. Jamen så begynder det faktisk og og du faktisk laver fejl og og og laver får nogle forkerte resultater. Så i sidste ende så vil vi gerne over og prøve at lave 1 1 1 simpelt setup altså beskrive noget komplekst i et simpelt setup som mange my good og mike plus brugere faktisk kender til.
+
+00:04:21
+Så det model setup som vi i første omgang tænkte det her. Det er noget alle kender til og noget alle kan bruge. Og Det er et simpelt koncept.
+
+00:04:29
+Jamen Det er at beskrive selve rockflommagasinets forsinkelses volumen, men så også det flow der kommer igennem magasinet via et udløbsledning. Helt simpelt koncept så mange hydraulikere kender til.
+
+00:04:45
+Men, før vi kunne sige, at jamen Det er bare det her i skal gøre. Det er bare Sådan her. I skal sætte det op.
+
+00:04:50
+Jamen så er vi nødt til at kalibrere og validere det her setup og derfor komme ind i den her lidt længere kalibreringsperiode. Nu er der blevet snakket lidt om før det der med at tingene tager tid og man skal være lidt tålmodig, og Det er lidt det samme koncept her Vi har. Vi har fulgt med på på linjen.
+
+00:05:08
+Med Anders og isak og og Mathias og det med at at.
+
+00:05:12
+Jamen vi vi vi vi lærer noget nyt hele tiden med hvordan også de hydrauliske forhold fungerer og og Det er Sådan det vi også kalibrere op imod, og Det er Sådan noget Thomas vi fortæller lidt om.
+
+00:05:26
+Ja går igennem.
+
+00:05:28
+Så.
+
+00:05:30
+Kalibrering via laboratorieforsøg og testanlæg i marken.
+
+00:05:36
+Til at starte med i forhold til den her kalibreringsproces, fordi vi gik jo ind med mere eller mindre ingen viden, så vi indhentede alt det data, vi egentlig havde. Vi havde både data fra de forsøg i isak fortalte om tidligere. Vi havde en masse data fra Holland.
+
+00:05:53
+Der begyndte også stille og roligt at komme nogle data ind fra forskellige testanlæg i marken.
+
+00:05:58
+Så.
+
+00:05:59
+Vores tilgang var jamen vi startede med nogle af de lidt mere kontrollerede laboratorieforsøg. Det her viser for eksempel tømningen af vand fra et rockflow element.
+
+00:06:11
+Vi har 2 forskellige forsøgs setup og Vores Sådan model fedt.
+
+00:06:20
+Det kan man se. Det er dejligt nemt i det her tilfælde. Det passer altid bedre i laboratoriet, end det gør i virkeligheden, hvilket er næste case her.
+
+00:06:34
+Det er vi, Der er vi i Aarhus trods.
+
+00:06:37
+Lokationen blev nævnt tidligere omkring risvang.
+
+00:06:45
+Og når man går ud og begynder at måle i virkeligheden, så kan man få mange sjove resultater og.
+
+00:06:51
+Nogle gange. Der må man erkende det, men Der er måle usikkerhed, som gør at nogle målinger bare ikke egner sig til at indgå i Sådan en kalibrering. Der er også nogle setup, hvor man finder ud af.
+
+00:07:06
+Jamen måske er der et eller andet galt med selve elementet der ligger ude II vejen og under jorden, og så handler det om en eller 2 form for fejlfinding at finde ud af jamen.
+
+00:07:17
+Kan vi gå ud og gøre noget ved det her?
+
+00:07:19
+Men så der har i den her kalibreringsproces?
+
+00:07:23
+Det har også været en form for længerevarende proces, hvor vi løbende har kigget på data og fundet ud af. Jamen hvilke data er sigende for?
+
+00:07:31
+For elementerne og deres måder at agere på, når vi hælder vand på og der løber vand ud, så.
+
+00:07:38
+Det er også lidt til at Vi har fået måneder perioder hvor vi stoler på Vores datasæt, hvor vi kan se at Der er en masse balance som er ret væsentlig, hvis man skal kunne modellere det teoretisk altså. Det hjælper ikke så meget. Hvis hvis Vi har nogle måledata der siger der løber mere vand ind end der løber ud eller omvendt mere ud end der løber ind.
+
+00:07:57
+Det bliver ret svært at ramme en teoretisk model så.
+
+00:08:02
+Det har været en udvælgelse af nogle.
+
+00:08:05
+Perioder og mål altså som vi stoler på.
+
+00:08:10
+Ja.
+
+00:08:13
+Og Det har så givet os en mulighed for at kalibrere de her modeller, således at vi kan illustrere, at vi får samme model output, som vi gør i Vores målinger, og det gælder så vidt både for de her test anlæg i virkeligheden så vidt som.
+
+00:08:32
+Laboratorieforsøgene.
+
+00:08:35
+Som Louise nævnte tidligere, så er der lidt forskel på, hvordan vandet reagerer, om Vi har et mættet volumen og vi.
+
+00:08:44
+Følger dig sidst lov Sådan med tryk igennem volumen eller om Vi er nede i den her umættede zone, hvor Der er varierende flow igennem.
+
+00:08:55
+Elementet afhængig af, hvor vandmættet selve elementet er.
+
+00:09:01
+Vi har forsøgt i den her samlede model, ligesom at komme med et samlet bud på, hvordan man nemt kan.
+
+00:09:07
+Modellere elementerne således, at man kan sætte dem ind i de hydrauliske modeller, vi anvender til at dimensionere afløbssystemer.
+
+00:09:22
+Ja, du kan sige et par ord omkring det.
+
+00:09:27
+Jamen med kalibrering af det her model setup jamen så kunne vi faktisk ligesom komme lidt videre og se jamen egentlig. Så kan vi godt sætte et simpelt setup som som andre my goben og mike plus brugere egentlig også kan sætte sig ind i. Så vi prøver lidt at fjerne den her kompleksitet.
+
+00:09:45
+Eller og ligesom simplificere den, så at det bliver nemmere at få hydraulikere og egentlig at at beskrive et et rockflowmagasin II et hydraulisk program.
+
+00:09:57
+Så det vi ligesom hvad hvad når vi så kommer om på den 2 side af af kalibreringsperioden? Jamen Det var ligesom at sige jamen OK vi vi tror egentlig på det her setup som vi i første omgang antog vi godt kunne bruge.
+
+00:10:09
+Vi fandt også ud af med tiden, at Det var mere komplekst.
+
+00:10:13
+Men, men vi tænker godt, vi kan i hvert fald godt få beskrevet det simpelt alligevel.
+
+00:10:18
+Men, Vi er nødt til at differentiere mellem nettet, flow og umættede flow, og hvor umættede flow. Jamen Det er. Det er noget Vi har defineret på baggrund af noget kalibreringsfaktor og den fyldningsgrad, Der er selve magasinet.
+
+00:10:32
+Men det ende produktet så blev til jamen Det var.
+
+00:10:36
+Ja et excel værktøj, hvor at de input Der er i selve excel værktøjet. Jamen Det er det man får fra hvis man bruger VS ps anvisninger, så Det er rockflotes rockflowmagasinets dimensioner. Hvad for nogle kvoter har man projekteret og hvad er det for en hydraulisk ledningsevne som vi går videre med?
+
+00:10:58
+De input gør så at selve hydraulikeren, når man så ligesom skal til at eftervise rockflus magasinets hydrauliske effekt på et for eksempel kloaksystem. Jamen det får så noget bassingeometri ud og en en flowregulering man kan putte på den her på udløbet.
+
+00:11:17
+Så man netop kan dokumentere?
+
+00:11:20
+Hvilken effekt?
+
+00:11:23
+Det så har på på et kloaksystem og og og ja det sidste så det helt ende. Produktet bliver simpelthen en manual. Man kan følge lidt slavisk.
+
+00:11:31
+Hvordan skal man sætte et et rockflowmagasin op? Teoretisk i et hydraulisk program og.
+
+00:11:39
+Hvordan skal man bruge selve excel værktøjet og og bare lige for at så at give et helt simpelt måske ikke så fascinerende eksempel, men det her det øverste især med den grønne kasse og de røde streger. Jamen Det er faktisk Sådan et helt.
+
+00:11:54
+Simpelt rockflowmagasin sat op inde i mig plus og det det. Det er godt at se meget kedeligt og uinspirerende ud men men Det er faktisk Sådan det det det sættes op, fordi Det er et helt simpelt koncept, så den grønne kasse i ser jamen Det er Det er selve volumen Der er blevet beskrevet de røde streger. Jamen Det er Det er symboliserer rør hvor at den Venstre.
+
+00:12:19
+Ledning Det er der hvor at udløbsflowet beskrives.
+
+00:12:24
+Og så kan man jo så sige jamen jamen er det egentlig ikke et setup som man bruger i alle mulige andre volumer derude, men men men og så sætter en eller 2 drosling på en ledning, men men forskellen er at her hvis man bruger walkflow Det er at selve rockflowmagasinet Det er det der forsinker vandet. Det er ikke en eller 2 drosling, men bud på Det kan man også og sige, men der må jo maks komme det her vand ud, men III langt II mange.
+
+00:12:49
+Hvad kan man sige mest af tiden?
+
+00:12:51
+Jamen så vil flowet faktisk være meget mindre fordi Det er rockflows magasinets eget legeme, der styrer hvor hvor hurtigt at magasinet tømmes, og Det er den hydraulik der har været vigtig og og og vise hvis man skal ind og se. Jamen hvordan det tømmes til en kloak for eksempel eller tømmes til til til et vandløb.
+
+00:13:13
+Og det i så ser hernede. Det er for eksempel et resultat af fyldningen af.
+
+00:13:18
+Af volumen det her Det er så altså som Vi har fået ud fra mig plus og peaket det op. Det vil jeg sige. Jamen Det er Det er fyldningen af volumet og det man ligesom ser Det er Det er der forholdsvis hurtig fyldning.
+
+00:13:31
+Hvor at udløbsflowet jamen for det. Det vil jo blive tømt stille og roligt stadigvæk mens det det fyldes, men fordi vi ikke har helt mættet volume. Altså et helt fyldt volume.
+
+00:13:43
+Jamen så er det ikke et særligt stort flow der held og løber ud.
+
+00:13:46
+Og i kan også se tømningen bagefter efter peak, hvor det ikke længere regner. Jamen så vil det blive tømt meget, meget langsomt, hvilket også at at den ligesom det et hårdflugtmagasin kan. Det er at det Det kan fyldes forholdsvist hurtigt, men tømmes langsomt.
+
+00:14:02
+Særligt hvis man følger anvisningerne.
+
+00:14:05
+Ja.
+
+00:14:11
+Yes.
+
+00:14:13
+Man kan sige Vi er nået rigtig langt ved at kunne beskrive et råflow element i de hydrauliske modeller, men Der er stadigvæk lidt arbejde endnu.
+
+00:14:25
+Vi tænker selv, at det her umættede flow. Der er stadigvæk nuanceringer det, at vi godt kunne tænke os at beskrive bedre, men det vil altid være en opvejning mellem, at man vil gerne beskrive det korrekt og komplekst og Sådan, men det skal stadigvæk være simpelt at anvende, så det vil altid være en afvejning der så.
+
+00:14:47
+Ja ser vi frem til stadigvæk flere løbende valideringer med nye testlokationer. Det, der kan man lære ekstremt meget, lige så snart man går til en ny legolation.
+
+00:14:57
+Og det hænger lidt sammen med den næste det her med at jamen næste skridt. Det er at det her værktøj skal tages i brug i forbindelse med nye testlokationer.
+
+00:15:09
+Både for at få noget feedback på. Jamen er det. Er det da også det, man ser i virkeligheden?
+
+00:15:15
+Det vand vi hælder ud, kommer det også eller ind, kommer det også ud i den måde, Vi har beskrevet det på nuværende tidspunkt og også på noget feedback på. Jamen værktøjet Vi har sat op og den manual Vi har sat op, er det nem at følge Sådan at man sidder ved forsyninger, kommuner, rådgivere og kan bruge den.
+
+00:15:33
+Og nemt kunne beskrive det her kydraulisk.
+
+00:15:36
+Og så det tidspunkt. Det er offlo i komplekse kloakanlæg, som dækker lidt over det her med at.
+
+00:15:43
+Vi forsøger at beskrive det simpelt, således at Det kan både være nemt og også indfyre en fagligst model, men også Sådan, at Det er omfattende for mange.
+
+00:15:55
+Anlægstyper, men der vil være.
+
+00:15:59
+Komplekse kloakanlæg, hvor man skal ind og skrue på nogle ting. Det ved vi også fra alle andre hydrauliske anlæg, at man kan have nogle meget simple bassiner, men man kan også have nogle bassiner der hænger sammen i.
+
+00:16:12
+Meget komplekse sammenhæng, hvor man ikke kan bruge standardmodellerne, så Det er også noget, der på sigt vil komme mere af og sige. Jamen hvornår skal man ind og.
+
+00:16:24
+Lave noget mere komplekst.
+
+00:16:26
+Ja.
+
+00:16:28
+Det var.
+
+00:16:30
+Det.
+
+00:16:41
+Mikrofonen på er Der er nogle spørgsmål.
+
+00:16:54
+Der er super.
+
+00:17:00
+Hej hej ida fra Rambøll jeg tænkte på nu Der er jo blevet lavet noget i forhold til maskiner og modellere dem i mike plus også hvordan adskiller det her sig fra fra det jamen altså Sådan altså Der er ja Der er en funktion II mig plus og mcugen der hedder jamen det Det er Sådan en du kan. Det er faktisk lidt den grønne kasse du kan sætte ind og sige jamen Det er definere et et lejr anlæg.
+
+00:17:26
+Forskellen er bare at Det er lidt det samme som for eksempel spildevandskomiteen har også deres lejr regneark, men men forskellen er bare at at at et rockflowmagasin Der er simpelt, Der er forsinkelse inde i selve magasinet. Der er nogle krafter derinde der styrer hvor hvor hurtigt Det kan tømmes, og hvis man kigger på lad os sige på en helt almindelig facine, for eksempel som vi kender det. Kassette plastik kassette jamen der Der er Der er ikke forsinkelse igennem, og Der er ofte jamen så sætter man.
+
+00:17:55
+En drosling på eller Der er nedsivning hvis nu for eksempel at man laver et et rockflowmagasin med nedsivning, jamen, så er det faktisk også mere jordens egen hydraulskidningsevne. Der er ligesom.
+
+00:18:08
+Bestemmer hvor hurtigt magasinet kan tømmes, så Der er egentlig ikke så stor forskel, men lige så snart vi siger, Vi har et lukket magasin med tæt membran, og Vi har udløb til kloakken, jamen så er det lidt nogle andre aspekter, fordi så er det selve magasinet der bestemmer det.
+
+00:18:27
+Kommentar.
+
+00:18:34
+Jeg er udmærket klar over, at i er jo engagerede af af rockflow, og så derfor så bliver det så helt specifikt på netop performance fra fra fra den type man kan det danne grundlag for for eksempel forskellige vækstmedier i stedet for.
+
+00:18:50
+Rockflow, Sådan at det bliver nemmere.
+
+00:18:54
+Og tilgå det for eksempel fordi så tænker jeg, at det får en lidt bredere anvendelse også på sigt.
+
+00:19:01
+I forhold til forskellige typer.
+
+00:19:05
+Ja ja altså man kunne ja.
+
+00:19:08
+Det performer som eller hvad? Forsinkelsen inde i opbygningen er jo helt essentiel men men den vil jo være anderledes i forskellige andre typer.
+
+00:19:17
+Ja og men men hvis man nu lige kigger, hvis det vi ligesom har lært i hele den her proces, Det er jo at at vi troede vi havde en en hel klokkeklar ide om hvordan hydraulikken fungerer igennem Sådan et filter, men det man jo så også har lært under processen. Det er jo at Det er ikke helt så tydeligt og der skal mere viden til der skal mere forståelse til, før man ligesom bare kan gå hen og beskrive det så simpelt som vi jo gør det.
+
+00:19:46
+Det er selvfølgelig med noget nogle nogle empiriske relationer vi prøver at lave for også at sætte et simpelt koncept op, så Der er noget kompleksitet bag. Ved simpelt det simple koncept, men.
+
+00:19:59
+Jeg ved ikke om man kan overskrive det direkte, hvis Det er andre. Lad os sige porøse legemer fordi Det er igen en ting man jo lærer her. Det er jo at at Det kan være meget forskelligt fra fra materiale til materiale.
+
+00:20:14
+Men Jeg vil ikke afvise det, men Jeg kan heller ikke sige det på stående, for særligt når man nu har fået lidt mere viden omkring hvordan så, så er der noget materiale fungerer.
+
+00:20:25
+Ja.
+
+00:20:30
+Om du kom Sådan set omkring det Louise og men men altså Det var det der med om om.
+
+00:20:36
+Om det kunne bruges på andre meter som som du spurgte om, men altså hvis Det er et parisk medie, hvor man kan antage at der sidste lov det gør sig gældende, og Der er en linje af sammenhæng mellem trykkraditionen og flowet ud af legemet.
+
+00:20:47
+Jamen, og Det er jo Det er jo Sådan grundforudsætningen i den måde Louise og Thomas har modelleret det på. Ikke jamen, så kan det da fint bruges til lige præcis andet end.
+
+00:20:56
+En et Rockwool element.
+
+00:20:59
+Godt skal vi ikke sige tak til Thomas og Louise fra 11 dage?
+

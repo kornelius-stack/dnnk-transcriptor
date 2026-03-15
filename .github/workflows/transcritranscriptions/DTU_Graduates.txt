@@ -1,0 +1,858 @@
+00:00:05
+Så det her. Det var 1-1 premieren på at det danske Universitet og vidensinstitutioner har en mulighed, en platform under DNK, altså for en til at præsentere nogle af de mange spændende arbejdere og projekter, der bliver lavet.
+
+00:00:17
+Først og fremmest 1000 tak for at få muligheden for at præsentere Vores projekt her. Jeg hedder.
+
+00:00:22
+Lukas og jeg hedder Thomas.
+
+00:00:25
+Og ja som sagt så som der står i titlen, så arbejder vi med regional hydrologisk forudsigelse og optimal allokering af vandressourcer med rock.
+
+00:00:33
+Hvilket falder ind fra feltet vedrørende vand ressourcer, vand ressourcer, management.
+
+00:00:39
+Og hvorfor så det? Jeg tænker bare at Vi skal lægge ud med at dykke ned i det.
+
+00:00:45
+På Vores valg og emne kan koges lidt ned til en form for hvad Vi har kaldt en tretrinsraket. Så først og fremmest er der stor vandmangel i Marokko.
+
+00:00:54
+Det næste er at lige netop Marokko investerer heftigt i at udbygge og forbedre deres venstrestruktur for at imødekomme deres problemer vedrørende vandmangel.
+
+00:01:02
+Og det sidste er så, at der ikke er tidligere lavet en hydro økonomisk model på national basis i landet for at understøtte management af marokkosven ressourcer.
+
+00:01:12
+Og det leder også lidt frem til Vores 2 hovedformål, som er henholdsvis at kortlægge marokcos nuværende situation angående vandressourcer og at vurdere det. Jeg har valgt at kalde det feceibility, men ellers hvor rentable de planlagte investeringer er i deres vendeinfrastruktur og metoden vi gør det med, er som sagt hydro økonomisk optimeringsmodel, så vi kommer kort til at gennemgå, hvordan modellen er sat op lidt omkring. Hvad er dit primære inputs er og hvad den altså hvordan vi forarbejder det her inputste, at de kan anvendes til modellen.
+
+00:01:43
+Noget omkring modelresultaterne, og så følger vi op med spørgsmål for panelet.
+
+00:01:48
+Så først og fremmest den her hydro økonomiske optimeringsmodel. Vi har lavet den estimerer de optimale alokeringer og vandressourcer i marocco på månedlig basis.
+
+00:01:58
+Og den bygger på en allerede eksisterende model som hedder what if, som tidligere også er blevet brugt i lignende. Sådan vandressource management studier på større skala.
+
+00:02:09
+Også på tværs af landegrænserne, og den bruger Vores model. Den bruger linære programmering til at finde den optimale løsning på baneloking. Men i øje med Vi har at gøre med Sådan nogle her vandressourcesystemer og især også på større skala kan de være superkomplekse.
+
+00:02:24
+Så det. Det er virkelig kritisk først og fremmest at prøve at simplificere de her systemer og samtidig repræsentere dem på bedst mulig vis. Og det gør man typisk ved Sådan en form for konceptuel model, som er meget ligende.
+
+00:02:37
+Det vi ser i figuren oppe til højre.
+
+00:02:41
+Her ser vi først og fremmest. Jeg ved godt noget af det på engelsk. Jeg håber det går, men vi ser det der hedder notes eller som repræsenterer opland, og de er forbundet med det, der hedder links, som typisk er floder.
+
+00:02:54
+Og udover det så har vi en masse komponenter, som enten er danproducerende, såsom den naturlige afstrømning, altså run off eller Vi har vandforbrugende komponenter, som såsom for eksempel landbrugs landbrug eller også private husstande.
+
+00:03:12
+Ja men hvordan? Hvordan er det så, at når Vi har de her forskellige komponenter, som vi kan se, og hvis Vi har et helt land, så så bliver det rimelig komplekst. Og hvordan får vi modellen til at afgøre hvordan vi bruger den begrænsede vandressource og hvordan den skal blokeres i Vores system og det her økonomidelen kommer i spil?
+
+00:03:30
+Få tilgangen er, at vi vi pålægger alle alokeringer eller udfald, en økonomisk værdi eller pris.
+
+00:03:36
+Hvilket, hvilket vi så får modellen til at optimere på, så vi får den maksimalt største totale økonomiske værdi i hele systemet, og Det er skrevet med lidt mere matematiske sprog i det der hedder objected function nederst, hvor især Der er 3 henholdsvis 3 komponenter som giver værdien, så Det er vandkraft det her Det er at give vand til forbrugere og give vand til landbrug. Og så har vi 2 negative værdier eller priser som henholdsvis er og pumpe grundvand.
+
+00:04:05
+Og producere afsaltet havvand og det modellen ligesom kan bruge til at tune på det her for at finde den med maksimal værdi finder vi de primære variabler ude i boksen til Venstre.
+
+00:04:16
+Så næste skridt er så Vores modelparameter og hvordan vi i princippet har sat dem op, så det første er, at den figur vi ser til højre kan vi se lidt mere.
+
+00:04:29
+Hvordan Vi har gjort det i forhold til med rock og der det starter med selve den konceptualisering af de her forskellige noder i så før de røde prikker. Det bliver konverteret til opland, og jeg ved ikke hvor færme i er i den vaukanske geografi, men Vi har atlas bjergene, der løber igennem landet.
+
+00:04:45
+Herfra nord til syd, og så har vi ellers de forskellige opland er en delt, hvilket man gør ved hjælp af højdekort og hele den her proces er egentlig en grundsten for modellen, Der er ret essentiel, fordi den den beskriver ligesom de de fysiske veje, som vandet kan bevæge sig i systemet, og så er de også med til at afgøre, hvor stor rummelig opløsning Vi har af Vores resultater.
+
+00:05:08
+Ja og det næste vigtige input. Vi vil vise jer til Vores model. Det er Vores klimadata, som Vi har hentet fra DHIS global hydrologisk model, og den omfatter blandt andet afstrømning, nedbør og fordobling, som vi kan se på de tre kort her forneden.
+
+00:05:26
+Og her kan i igen se den fordeling som Lucas snakkede om før mellem nord og syd atlas bjergene. Hvis i kigger her, kan i se, Der er meget vand tilgængeligt, hvor nede sydpå er der også slet ikke lige så meget.
+
+00:05:41
+Og nogle andre inputs Vi har. Det er de her faste producenter af vand til Vores system, og Det er afsætningsanlæg og grundvandsmagasiner.
+
+00:05:51
+Og begge de her 2 producenter har vi tildelt en fast omkostning for produktion i et dollar per kubikmeter, og det skal lige nævnes, at grundlandsmagasinerne er kun begrænset af indtugningsretten til grundvand, og vi tager ikke højde for selve oplæringskapaciteten II magasinerne.
+
+00:06:13
+Så kommer vi til Vores vandforbrugere, og Det er lidt mere kompliceret input, end de er foregående. Men her har vi delt op. Vi har delt oplandene op i indbyggertal og så brugt det til at beregne en efterspørgsel efter efter vand for hvert opland og.
+
+00:06:32
+I højre side kan vi se landbrugsarealet og det her data har vi hentet fra FAO stat, hvor vi blandt andet har defineret.
+
+00:06:41
+Omkostning for at producere enhver forskellige typer afgrøder, men også værdien i hver afgrøde og de forskellige vækststadier.
+
+00:06:51
+Og igen her der ser vi den tydelige opdeling mellem nord og syd mod rock, hvor Der er.
+
+00:06:57
+Meget landdetekeret til afgrøder nordpå, men også her. Vi ser de fleste forbrugere ved de store byer som casablanca og rabat.
+
+00:07:10
+Nu kommer vi så til nogle resultater for modellen, og Vi har bare valgt et lille udpluk af de mange resultater, som som modellen kan vise.
+
+00:07:19
+For eksempel så ser vi her en vandbalance for hele systemet, og Det er den gennemsnitlige vandbalance per år.
+
+00:07:27
+Så de grønne tal. Det viser Vores input til systemer og de røde tal viser forbruget af vand eller det vand, der ryger ud igen.
+
+00:07:38
+Og Vi er i omegnen af milliarder kubikmeter per år her for hver del.
+
+00:07:43
+I højre side ser vi den gennemsnitlige tilgængelighed af vand for hvert opland, og her har vi så grigeret det på månedsbase for at vise sæsonvariationen.
+
+00:07:54
+Og den her bliver defineret som run off plus instrument, og det giver et indblik i, hvor meget vandressourcer Der er tilgængeligt i de forskellige religioner i landet. Og igen ser vi oppe nordpå, at der tydeligt forskel på, hvor meget vand Vi har.
+
+00:08:08
+Modsat nede sydpå.
+
+00:08:15
+En 2 måde at visualisere Vores resultater på er igennem tidsserier og det her. Det er egentlig præcis det samme data, som vi viste på kortet lige før, men nu har vi valgt at inddele det efter de her forskellige klimargioner.
+
+00:08:28
+Og her ser vi også den tydelige forskel, hvis man kigger på y aksen i for eksempel nordvest.
+
+00:08:36
+Modsat syd.
+
+00:08:38
+Og Det er jo bare et eksempel på hvordan man kan bruge tidsserier til at vise data. Vi kunne også kigge på andre ting som fyldningsgrader og restauranter eller udnyttelse af turbine kapacitet i Vores vandkraftværker.
+
+00:08:53
+Og den sidste i sidste resultater vi lige vise jer Det er udnyttelsesgraden af landbrugsarealet, som vi ser på kortet her til Venstre, så som vi nævnte tidligere, har hvert opland defineret et bestemt landbrugsareale. Men det her det viser så hvor meget af det landbrugsareal, som rent faktisk bliver udnyttet.
+
+00:09:14
+Og de mørkebån.
+
+00:09:17
+Ja.
+
+00:09:29
+Kan i se skærmen igen.
+
+00:09:30
+Ja tak.
+
+00:09:31
+Ja OK.
+
+00:09:33
+Og i har 1 2 minutter tilbage.
+
+00:09:35
+Ja OK ja så Det er procentvis udnyttelse af landbrugsareal, og til højre ser vi vandværdien i hvert opland, og Det er så den gavn man får af at tilføre et ekstra kubikmeter vand til systemet.
+
+00:09:51
+Yes, så alt i alt så kan man jo få rigtig mange resultater ud, og det vi lige har gennemgået og var lidt omkring Sådan den reference model Vi har. Vi har opstillet som gerne skulle afspejle Sådan. Vi har sat de anførselstegn her, fordi Vi skal lige huske at Det er en optimeringsmodel.
+
+00:10:04
+Det er ikke en simulationsmodel som vi ønsker ikke at lave Sådan en tro replikker af hvordan situationen ser ud.
+
+00:10:11
+Og det lyder lidt det videre til det næste punkt, som er selve der, hvor optimeringsmodellen får lov til virkelig at få stor værdi. Det er at man efterfølgende kan opstille nogle scenarier, hvor man tricker lidt på det system man har defineret i sit referencemodel, og Det kan være for eksempel at indføre investeringer i infrastruktur. Det kan være at køre modellen på andre klimascenarier og så videre, og så kan man kigge på de relative forskelle mellem scenarierne frem for at kigge.
+
+00:10:38
+Sådan på om det nu reflekterer virkeligheden fuldstændig.
+
+00:10:42
+Og Det er det punkt, hvor vi faktisk er nået. Det har vi. Det kan vi ikke vise os så meget af, fordi Det er det punkt, hvor Vi er nået til Vores proces med Vores projekt.
+
+00:10:48
+Men Vi har gjort det lidt mere med nogle billeder her, så vi her ser vi på for eksempel på 3 forskellige muligheder, som man kan nogle 3 forskellige scenarier, man måske køre i sit sin model, hvor man er henholdsvis en en ny dæmning. Det kan være et nyt afsætningsanlæg eller den sidste mulighed se et.
+
+00:11:05
+Et mere effektivt måde at danne sine afgrøder på. Det kan man så føde ind til modellen, og Det kan så hjælpe til i sidste ende at understøtte Sådan beslutningstagning i forhold til hvilke af de her investeringer skal man prioritere i, kan det være at 2 af dem spiller rigtig godt sammen. Så er der en synergi, eller kan det faktisk være for eksempel som Der er med mulighed b og c, hvor man gerne vil indføre c alene men ikke samme b?
+
+00:11:28
+Så Det er lidt det som hele Vores output er med til at hjælpe til. Det er at understøtte beslutningstagere i sidste ende.
+
+00:11:38
+Ja Det var alt, hvad vi havde for i dag.
+
+00:11:41
+1000 tak Lukas og Thomas et mega spændende projekt. I er i gang med og Jeg kan så forstå i er i processen. Vi har 1 2 3 minutter til spørgsmål og refleksioner fra fra publikum, så så byd endelig ind.
+
+00:11:55
+Er der et spørgsmål eller en kommentar eller eller andet derude?
+
+00:12:02
+Og indtil Der er nogen der lige tager sig til mod til det, så kan jeg jo så starte med at spørge altså i det. Det er jo stort og masser af data og og og det ene og det andet, hvor i sætter noget økonomi på den her vandinfrastruktur.
+
+00:12:15
+Noget jeg ikke lige har set med. Altså fordi det man ofte glemmer i de her økonomiske beregninger i forhold til at forstå vand og vandhåndtering. Det Det er jo at naturen jo en sag Der er et system som bliver svært ved at sætte kroner på.
+
+00:12:27
+Vi ved vi lever i en biodiversitetskrise som er enorm og hver eneste gang vi kigger på, hvad koster det ens af den?
+
+00:12:33
+Den forarmelse Vi har af naturen, hvor vandet jo er en del af det.
+
+00:12:38
+Så så så så er det meget, meget, meget store tal, men den mangler jo et eller andet sted. Hvis jeg så rigtigt i jeres økonomiske beregning på en teaterklæbe de her vandbalancer op var det rigtig set eller og og Det er vel også meget, meget, meget svært at at håndtere den.
+
+00:12:54
+Ja Vi har som Sådan, at det indgår ikke i Sådan selve den ligning vi bruger at optimere på, men den måde Vi har prøvet at integrere det med at man også tager nogle miljømæssige hensyn. Det er at Vi har Sådan en slags minimums afstrømning i de forskellige oplande, som er som er som er defineret ud af der skal være minimum.
+
+00:13:13
+Altså så tager vi regnet et gennemsnit på hvor hvor hvad er den årlige? Hvad er det årlige?
+
+00:13:19
+Så skal der minimum være måske 20% af det i alle tidsskrift, så Der er en form for at sikre, at vi ikke bare tørlægger Vores floder fuldstændig.
+
+00:13:28
+OK så Det har i ligesom lagt ind til Sådan en minimumskrav. Altså der skal mindst være det her vand for for at have et hydraulisk system der også har en naturværdi.
+
+00:13:35
+Ja præcis så den her outlet flow som i ser i vandbalancen. Den er Sådan set begrænset af Vores minimums flow til økosystemet.
+
+00:13:45
+Nå godt set er der andre derude der har et spørgsmål eller en kommentar og i skal bare stå heres mikrofon til og og sige hvem i er og så stille spørgsmålene.
+
+00:14:00
+Det er det jeg ikke til, men lad mig spørge her til sidst altså III er i gang med at lave de sidste ting og så skal i aflevere hvad meget snart.
+
+00:14:07
+I slutningen af januar skal vi aflevere.
+
+00:14:10
+OK så i skal have billedet bundet de sidste sløjfer nu altså og.
+
+00:14:15
+Får i mulighed for at præsentere det her. Jeg gætter på i har været i Marokko, men altså har en sat mulighed for at få det trykprøvet IIII Marokko i forhold til de vandforvalter og andet der Der er der.
+
+00:14:29
+Ja, Vi har faktisk ikke været i Marokko selv, men Vi har kunne præsentere for nogle.
+
+00:14:35
+Folk nede i Marokko, som har arbejdet med nemlig dette og og de har også kunne give nogle input i forhold til den måde, Vi har lavet Vores opland på og men også i forhold til datovaldering har de kunne hjælpe os lidt på vej. Ja.
+
+00:14:50
+Så Vi har haft lidt lidt samarbejde på tværs for ligesom at validere Vores model.
+
+00:14:56
+Men jeres arbejde er også relevant i en dansk kontekst, altså hvor en så prøver at gå ind og beskrive det her oplandssystem og sætter økonomi på så 1000 tak 1000 tak til til Thomas og Lukas vi springer videre og ja nu skal vi ned i jorden og til en 2 problemstilling som jo så er er er p fas altså som vi jo over det seneste tid har set igen og igen og igen er.
+
+00:15:22
+Det har altid været et problem, men nu har det ligesom fået en eller 2 form for opmærksomhed eller andet og og så så derfor foregår der rigtig mange arbejder og studier lige nu i en til at forstå problemstillinger omkring p fast altså og og den kompleksitet Der er ens dag der så sagde Jeg vil give ordet til til edith og Theresa i forhold til jeres arbejde omkring ting p fast altså transport i jorden og Vores grundvandsressourcen.
+
+00:15:46
+Mange tak.
+
+00:15:48
+Ja og Vores speciale Det var modelbaseret undersøgelser er vertikalt transport og fordeling af pfast i danske jorde. Hvad hedder therese? Og Det er edith og Vores vejleder er Claus småt og Annika fjordbølgen, og vi modellerer i programmet.
+
+00:16:03
+Kom så.
+
+00:16:06
+Og ja jeg studerer ny teknologi på DTU sustyam. Jeg er studentermedhjælper i covid i afdelingen med nye ressourcer.
+
+00:16:14
+Så har jeg været foran engang en projektansat på DTU system, og så har jeg været på udveksling på Hawaii på sidknik University, og jeg bliver færdig i maj 2024.
+
+00:16:24
+Jeg hedder edith mensted og jeg læser også miljøteknologi på det tidspunktsystem og er specialiseret i vand ressourcer og miljøkemi.
+
+00:16:31
+Og Jeg har været på udveksling i Schweiz og er studentermedhjælper i samme afdelingskredse i lai, og jeg bliver færdig her til januar, når vi egentlig afleverer Vores speciale.
+
+00:16:43
+Og kort formålet Vores projekt. Det er selvfølgelig at opstille en vertikalt transportmodel for p fac i morgeneler moren sand og så undersøge effekten af udvalgte parametre på transporten og fordelingen af pfas. Og Det har vi gjort ved.
+
+00:16:56
+Vi har undersøgt litteraturen for vigtige parametre for peterstrorden og hvilke processer vi kunne bruge modellen. Vi har dykket den ned i og forstå hvad for nogle peters karakteristika, Der er indflydelse på transporten.
+
+00:17:10
+Derudover vil Vi er vi i gang med at innovere indflydelsen af subktionsprocesserne, og hvordan størrelsen på den umattede zone påvirker transporten. Og Vi er også i gang med at undersøge fordelingen af PFI jordprofiler fra forurenet grunde i Danmark og så evaluere modellens fedt.
+
+00:17:30
+Ja, så Vi har opstillet en model og Der er vi udvalgt 3 pige fra stoffer p først p foa og PFPA mange af jer der kender den nok måske lidt til p fos og perfekt. Det er de Sådan de mest velkendte p passtoffer. Det er langkædet og.
+
+00:17:48
+Det er ligesom dem, Der er mest undersøgt. Så har vi også medtaget IPFPA fordi den er kortkædet og den her kædelængde på molekylet.
+
+00:17:58
+Er ret afgørende for transporten af stoffet, så vi vil jo gerne have en alsidig model, der ligesom kan håndtere flere p først stoffer.
+
+00:18:07
+Er den samme grund har vi også medtaget både.
+
+00:18:11
+P først dobbelt med carboxylsyre og sulofonsyre, som man kan se ned på strukturerne hernede, fordi Det kan også godt den funktionelle gruppe kan også godt afgøre noget for transporten.
+
+00:18:22
+Og inputtet af Vores p pas er sat op som Sådan afspejler det historiske forbrug af fifa, og hvornår Det er blevet udfaset.
+
+00:18:36
+Så Vi har opsat den her transportmodel. Det er en 2 d vertikalt transportmodel, så Vi har kun vertikal flow. P klasserne kommer Sådan ind oppe i toppen med indfløstrationen og bliver så transporteret ned igennem jorden.
+
+00:18:52
+Det Der er meget specielt når man modellerer p fast Det er at p fasker kan lide at lægge sig mellem interfasen mellem luft og vand, og Det er fordi at den her floreret kæde den er meget hydrofob.
+
+00:19:04
+Og den funktionelle gruppe er ofte hydrofil og. Derfor er det ret vigtigt at modtage den umættet zone, når man modellerer peters transport. Det gør man tit ikke i pesticider eller andre forureningskilder, fordi at det ikke helt har den samme betydning med den her interface option.
+
+00:19:28
+Så Det er noget af det Vi har brugt meget tid på, og det første Vi har gjort Det er at opsætte en flow model, Der er etablerer den her mætningskurve, hvor meget vand Der er i det øverste parameter ned mod grundvandspejlet.
+
+00:19:42
+Og så har vi brugt den flowmodel som en input til en transportmodel, hvor vi modellerer forskellige processer, der forsinker p fassens transport ned gennem jorden, blandt andet den her luftvandsoption og så også subption til jord.
+
+00:19:59
+Og Det har vi sat op som en funktion af det organiske materiale i jord.
+
+00:20:05
+Ja og Vi har sat 3 generiske strukturer og domænerne er 5 m brede og 15 m dybe og Det er en meget homogen geologi.
+
+00:20:16
+Den første meter er enten muld eller prus, og så er de resten af den resterende 14 m er en morene ler eller sand.
+
+00:20:27
+Og vandspejlet står i 10 m, så Der er 5 meters umættet zone og så 10 meters Mette zone.
+
+00:20:36
+Og resultaterne for de generiske simuleringer. Dem har vi taget et udsnit af fra consol her her. Der bliver koncentrationerne i vandet plottet ned over dybden, og Det er så for henholdsvis perfora og PPEA, og Det er for et enkelt år, at vi her, Vi har taget et udsnit, og her er det meget tydeligt at se, at Der er en inputkoncentration for funktionen for beboere.
+
+00:21:04
+Som, hvor der ikke længere er en input koncentration, og derfor så ser vi et fald i koncentrationen i det øverste meter, hvor med PFPA som lidt senere blev udspaset. Der ser vi stadig maks koncentration i vandet over hele dybden.
+
+00:21:19
+Og da vi kørte den her simulering fra 1960-2040, så kan vi også plotte flere forskellige år. Koncentrationen i vandet her er det fra årene 19 60, 19, 80, 2020, 20 og 2040 som står helt ude til højre. Her kan man tydeligt se at PFPEA, som er en kortkædel p fast den transporterer sig på det første hurtigere, og Der er jo en langt mindre subktion af.
+
+00:21:45
+I luftvand fasen eller til jord da?
+
+00:21:48
+Koncentrationen i vand er konstant for de øverste meter og svarer til Vores inde på koncentration.
+
+00:21:55
+Hvis du derimod kigger på piva og pfoss graferne, så ser vi, at koncentrationen i vandet den falder.
+
+00:22:03
+Og man kan også se, at for den umættede zone, der falder den langt mere drastisk, og det betyder, at det tegn på luft vand interbasen har en, Der er en større subktion til luft-interfasen end til jordfasen, fordi vi ser en lang langt hurtigere et hurtigere fald end nede i et mættet zone, hvor der ikke foregår luftvand interface somktion.
+
+00:22:26
+Og så er vi bare udtaget nogle enkelte ekstra resultater fra Vores generiske simulationer. Vi har en vist en subportion i morgene ler og i muld, og der ser vi os bare meget fint. Hvordan epocen har enormt stor indflydelse på, at Der er en højere subtion, for her er det pefoa.
+
+00:22:49
+Op i mulden end i moren, fordi Der er højere indhold af frition of organik carbon og hvis vi kigger på luftforvandlingser fasen der her igen har vi afbilledet deffora og den subktion der foregår henover de forskellige år, og Der er en meget højere subtion i sand i luftvand interfasen end forurenela, og Det er fordi at vandindholdet i morgenelær langt højere og det giver en langt lavere luft vand.
+
+00:23:16
+Subtion, interface-ception.
+
+00:23:21
+Så har vi.
+
+00:23:23
+Brugt en case til at prøve at skulle fedte Vores egne resultater med hvad man finder ud i virkeligheden, og der har vi valgt en case, som er en brandøvelsesplads, Der er blevet brugt siden 1969. Der har været flere boringer på den her site, men Vi har fokuseret på 2 boringer. Vi har kaldt b et og b 2.
+
+00:23:41
+De her bruinger bruger vi, Der er nogle meget det tidligere jordprofiler med en geologi, som er meget repræsentativ for dansk geologi. Det er gros sand og rene værd fyldt toppen.
+
+00:23:52
+Derudover er der blevet målt taget prøver for hver meter helt ned til en dybde på 9 m, så vi kan fedte Vores model også i de dybere og dybder. Men spejlet for den her case står i 14 m og det vil sige at Det er en udmattet zoomende i hele domænet.
+
+00:24:11
+Ja så vil jeg præsentere Vores lidt midlertidige resultater for det her case studie, fordi dem Jeg har taget med her. Det er egentlig bare, hvor Vi har lagt Vores model ind på geologien fra case. Der er det en og Vores næste skridt nu er så at lege med lidt lidt med de parametre vi ved Der er lidt usikkerheder på og prøve at fedte endnu bedre.
+
+00:24:35
+Og optimere modellen yderligere så ud til Venstre her. Der har vi den her mætningskurve.
+
+00:24:43
+Den er jo rigtig vigtig, fordi den afgør hvor meget Der er sorber i den her luft vand interfase.
+
+00:24:49
+Og som vi kan se, så er mætningen meget højere. Der er meget mere vand i morgenen end i sand og grus, og Det er også som regnet, fordi Der er en meget lavere hydraulisk kontaktitet i morgen. Læreren og den kan derfor bedre holde på vand.
+
+00:25:05
+Og så har vi her p først p foa og PFPA den grønne er Vores modellerede og de blå er de målte.
+
+00:25:15
+For den her case, der kender vi faktisk ikke input koncentrationen. Det er jo ret normalt med forurenende grunde. Vi ved cirka hvilken periode Der er blevet udført brandøvelser, men præcis hvor meget Der er udledt.
+
+00:25:26
+Det ved vi ikke.
+
+00:25:28
+Så Vi har fået tilpas input koncentration til at ramme de her koncentrationer bedst muligt.
+
+00:25:35
+I har 2 minutter nu.
+
+00:25:37
+Tak.
+
+00:25:38
+Og det vigtigste se Det er, at Vores model skyder lidt under på det største pac, og det indikerer lidt at enten har vi måske lidt far lidt for lidt organisk carbon i de øverste parameter eller også så har den her løfan interfase som vi allerede har med. Måske den er har endnu større betydning end vi hardst med.
+
+00:26:02
+Og så det samme hernede med rene at skyder vi også en lille smule over og relativt meget herover for perfekt, og så skyder vi faktisk under pepboa. Der er selvfølgelig lidt usikkerheder i de her målinger, som man kan se, så hopper de og slet.
+
+00:26:18
+De mål, koncentrationer, men det kunne godt tyde på. Måske at det organiske carbon, det falder ned over dybderne.
+
+00:26:27
+Som man ser på nogle cases, hvad der lidt har været Vores udfordring til den her case studie. Det er at mange af de geologiske parametre, som er meget afgørende for Vores model. Dem har vi faktisk ikke haft tilgængelige.
+
+00:26:41
+Og mange af de her geologiske parametre, så som kornstørrelse, organisk indhold og Sådan noget. Det kan infiltrationsrate. Det kan variere rigtig meget rundt omkring i Danmark.
+
+00:26:52
+Så ja Det er lidt nogle usikkerheder.
+
+00:26:55
+Som, vi arbejder med lige nu.
+
+00:26:59
+Den her model Vi har opstillet den anvendes blandt andet til at præcisere, hvilke nøgleparameter, Der er vigtige, når man vil modellere p fast.
+
+00:27:11
+Hvilke parametre Der er vigtige at måle, når man er ude i felten og skal have en ide om en forurenet grund.
+
+00:27:19
+Der er vi også ved at lave nogle sensitivitetsanalyser lige nu, men Det er ligesom kan afgøre, hvad Der er vigtigt at have med der og hvad for en vi bare kan estimere på.
+
+00:27:28
+Litteraturværdier.
+
+00:27:30
+Så kan man bruge seriens estimerer grundvandsforurening på forurenet grunde. Nogle steder har man slet ikke den her luft-fanception med, så Der er kan den sige lidt mere om det, men ellers er den god til at stimulere, hvornår det rammer grundvandet cirka hvor meget hvis man kender en input koncentration over fordelingen af de forskellige faser og dybder. Og så er den jo relevant, fordi den også kan forudsige nye projekter, hvis man for eksempel ønsker at udlede noget.
+
+00:27:56
+Slank, noget spildevand eller har nogen nye konstellationer, hvor man konstruktioner, hvor man kender en vis peters udladning, så kan man regne, hvor meget vil ramme grundvandet og hvornår og hvordan vil det?
+
+00:28:08
+Det var hvad vi havde. I er meget velkomne til at kontakte os, og ellers vil vi høre, om Der er nogen, der har nogle spørgsmål.
+
+00:28:18
+Ja 1000 tak er i nogen derude der har et spørgsmål eller en kommentar til.
+
+00:28:24
+En af de mange store problemstillinger vi vi står i dag, altså p fast og og udfordring omkring.
+
+00:28:35
+Og indtil Der er nogen der Sådan tør sig mod til det, så kan jeg da bare lige spørge Sådan fordi Jeg har jo siddet i en sag og modelleret og modelleret med en masse antagelser og det Det er jo svært og kompliceret, men men men Det er jo en helt 2 verden end når man så går ud II virkeligheden og den store kompleksitet altså altså hvad var jeres første Sådan observation eller andet der fordi man kan jo godt se Der er en del af de observationer der ligger langt væk når jeres model.
+
+00:29:00
+Og så skal der til at fitte sig. Altså hvad?
+
+00:29:03
+Har i haft Sådan en analyse tilgang til til hvordan for ens at dit verdener til at berige hinanden.
+
+00:29:10
+Det første vi Sådan har gået meget op i Vores model. Det er at have en relativt simpel model faktisk fordi.
+
+00:29:19
+Hele det her lufte vand option er meget nyt studie, og Der er nogle meget komplicerede måder man kan implementere det på, men vi synes jo, at hvis man skal kunne bruge det i Danmark, så skal man jo ikke have alt muligt vanvittigt dyrt udstyr, der skal kunne måle det på det specifikke sager, så derfor har vi netop prøvet at tilpasse lidt, at Det er nogle simple parametre som kornstørrelse. Det er relativt nemt at måle.
+
+00:29:43
+Organisk carbon indhold.
+
+00:29:45
+Så Vi har prøvet at tilpasse den der. Vi har så ikke været så heldige med Vores data, fordi det ikke er blevet målt på Vores specifikke site, og vi tror Det er derfor den afgiver ret meget. Vi har brugt fra et andet site til Vores model, men den er ligesom prøvet at tilpasse at Det er nogle parametre man kan få hvis man står med 1, 1 1 site i fremtiden, hvor Der er en parameter der skal estimeres.
+
+00:30:11
+Tak er der spørgsmål eller kommentarer derude, og Jeg kan også lige sige altså man er velkommen i chatten til til at skrive sit spørgsmål og andet, så skal jeg nok læse det op. Men er der nogen der har har et derude?
+
+00:30:22
+Fordi ellers så vil jeg så vil jeg sige 1000 tak til til et og therese og ja man kan jo blive så overrasket. Jeg vidste ikke at vi var kollegaer i Vores nettemedhjælpere III min kone så Det kan være vi støder på hinanden en 2 dag, men nu ved jeg i hvert fald hvilken afdeling kan sidde i så så 1000 tak for for jeres spændende arbejde fordi vi kommer til dagens sidste præstation.
+
+00:30:46
+Fra Frederik og.
+
+00:30:49
+Ja og og Det er jo en af dem jeg var censor for dig her i sommer altså der der sad vi jo så også omkring bordet altså og og så Jeg har hørt din præstation en gang og du arbejder videre med det det siden da Det var meget spændende stykke arbejde, så så Frederik tag du din 12 minutter og så lad os høre hvad du har at byde på.
+
+00:31:06
+Godt jamen sammen med Carsten sagde så forsvarede jeg i sommers.
+
+00:31:12
+Mit navn Det er Frederik. Jeg havde christara fra den ene dal som vejleder fra DTU jeg havde Kristine colin som vejleder fra svego og ja Carsten som censor.
+
+00:31:24
+Jeg vil hurtigt give en lille introduktion til, hvad det handler om. Selvfølgelig. Det handler om den her europæiske taksonomi for bæredygtighed.
+
+00:31:34
+S ene miljømål, der handler om tilpasning til klimaforandringer, og Det er så i relation til det byggede miljø, hvor jeg så prøvede at lave en metode til, hvordan man skulle gøre det her i overensstemmelse med det taksonens foreskrev.
+
+00:31:46
+Så Jeg vil hurtigt lige lave Sådan en indflyvning til taksonien, så vil jeg fortolke lidt på det her miljømål 2 som det hedder og så komme med nogen af resultaterne.
+
+00:31:55
+Så EU taksonien. Det er det det hele handler om EU, taksonien. Det er et certificeringssystem i forhold til investeringer, som er e us svar på modsvar på Green washing, hvor de prøver at sikre, at man laver investeringer, der rent faktisk er grønne.
+
+00:32:14
+Det foregår på virksomhedsniveau og ikke på produktniveau, som man egentlig er vant til normalt altså man har grønne produkter.
+
+00:32:21
+Her Der er altså virksomhederne, man kan gøre grønne.
+
+00:32:25
+Helt overordnet, så handler det om.
+
+00:32:29
+Ens omsætning ens investeringer og ens udgifter. Det vil i så over til Venstre, der hedder capex opecs og omsætning. Det er nemlig noget man fremadrettet skal implementere i sine årsrapport.
+
+00:32:44
+EU taksonomien den er egentlig bygget op meget simpelt EU taksonien. Den stiller krav til at man skal yde et væsentligt bidrag til en ud af 6 miljømål. Derudover skal du gøre ingen væsentlig skade på de resterende 5 miljømål, og samtidig skal man overholde nogle minimumsgarantier for.
+
+00:33:02
+Sociale minimumskrav i forhold til FN og OEC ds guidelines.
+
+00:33:08
+De 6 miljømål som Jeg har omtalt Det er de her 6. Det er modvirkning af klimaforandringer.
+
+00:33:15
+Tilbage til din forside.
+
+00:33:17
+Det har.
+
+00:33:18
+Jeg valgt hov Der er de 6 miljømål.
+
+00:33:21
+Jeg ved ikke lige hvad der skete.
+
+00:33:23
+Det er de 6 miljømål modvind.
+
+00:33:26
+Ja klimaforandringer tilpasning til klimaforandringer bæredygtig anvendelse af vand og hav ressourcer, omstilling til en cirkel og økonomi forebyggelse og bekæmpelse forurening og så genopretning af biodiversiteter, beskyttelse af økosystemer de her krav, som der ligger under de her miljømål. De bliver lagt op til, de bliver ændret hele tiden engang hver 3 år, men i det her år bare der har de ændret sig 3 gange, så Det er et moving target.
+
+00:33:51
+Og jeg valgte så at skrive speciale om netop lever mål 2 tilpasning til klimaændringer.
+
+00:33:57
+Hvorfor er det relevant? Man kan sige Det er relevant, fordi lige nu Der er det alle virksomheder med 500 ansatte, som der skal rapportere på det fremadrettet. Der bliver det alle med 250 ansatte der derefter bliver det små børsnoterede virksomheder, og til sidst bliver det alle virksomheder også ikke EU virksomheder med datterfilialer IEU, så Det er dem alle sammen der skal arbejde med det her værktøj og rapportere på det i deres årlige regnskabs rapport.
+
+00:34:23
+Derudover har det også noget at gøre med den her ESRS, hvis man har hørt om det. Der er 8 datapunkter i den som nævner noget om vurderingen af klimarisicii i forhold til ens aktiver man har i sin virksomhed.
+
+00:34:41
+Helt overordnet, så handler det om den her bæredygtighedsrapport, man gerne vil præsentere. Det er CSRDESAS, der handler om bæredygtig finans og rapportering som sammenspiller over med taksoniforordningen, der definerer hvornår noget er bæredygtigt.
+
+00:34:57
+Det kan vi. Det kan man læse op på selv. Det er ved at gå mere i dybden med.
+
+00:35:02
+Jeg vil ikke mere snakke om tolkningen end bliver 0 2 i forhold til byggeindustrien fordi den snakker om at man skal lave en screening af hvilke fysiske klimarisici på den her tabel over til højre som kan påvirke ens aktivitet eller ejendom i løbet af dens levetid. Hvis man finder ud af at Der er en risiko, så skal du lave en klimarisiko og sårbarhedsvurdering for at vurdere væsentligheden og risikoen og måske derudover have nogle tilpasningsløsninger, som kan reducere risici.
+
+00:35:30
+Så skal man så som økonomisk aktør implementere de tilpasningsløsninger, der reducerer de mest væsentlige risici.
+
+00:35:37
+Hvis man dykker lidt ned i det, så kan man læse frem til at man skal lave en klimafremskrivning, som minimum indeholder en 10-30 års fremskrivning samt en længere fremskrivning til end of life af ens virksomhed. Aktivitet som for eksempel bygninger. De kan have en levetid på 50-80 med små op op til 100 år.
+
+00:35:59
+Og som i kan se, så er der rigtig mange risici man kan kigge på, og dem har vi så kogt ned til dem Der er mest relevante i Danmark og i byggeindustrien.
+
+00:36:12
+Yes for at vurdere risikoen af de her klimarisi, så først handler det om, at man skal vurdere, hvor ofte de sker. Det er den her lightly of impact, og derudover skal du vurdere konsekvensen i forhold til bygningens værdi.
+
+00:36:31
+Så har Vi har jeg valgt at dele det op i 3 forskellige analyser. Det måden man kan se forskellen på. Det er egentlig i tabellen over til Venstre hvor der står tempoll scope.
+
+00:36:41
+Det er i virkeligheden at vi laver en analyse i starten af århundredet. Efterfølgende laver jeg en analyse i midten af århundredet og laver så en i slutterhundrede. Den er så baseret på byggesektoren i det her fremtidsscenarie der hedder.
+
+00:36:56
+RCP 8,5 eller SSP 5 8,5.
+
+00:36:59
+Det er et fremtidsscenarie, hvor vi foreskriver at eller forestiller os, at vi vil have fremdrift i samfundet ved hjælp af fossile brændstoffer.
+
+00:37:11
+Og vi vurderer risikoen på en social og en økonomisk vurdering.
+
+00:37:18
+De klimarisci Vi har eller Jeg har valgt som er de mest relevante. Det er baseret på en best practiceguidens fra EU samt litteratur analyse. Jeg har lavet af den danske byggeindustri, hvor vi ligesom ser skader fra ja fra vejret.
+
+00:37:33
+Og så har vi så har altså highlightet dem Der er mest relevante. Det er hvad kan man sige overtemperaturer frost.
+
+00:37:41
+Wild 4 altså naturbrande storm har vi en masse oversvømmelse både fra regn fra kysten, fra søer og floder og fra grundvandet. Og så har vi en form for landslight eller en kystootion altså jorden, der forsvinder i kysterne og til sidst subdens altså en slags sætningsskade.
+
+00:38:01
+Og andre jordbundsbevægelser på grund af tørke og grundvand.
+
+00:38:08
+Og det som det hele er resulteret i, fordi som Carsten siger, så Jeg har jo arbejdet videre med det her.
+
+00:38:14
+Og Jeg har lavet en afgrænsning i forhold til, hvad det her ligesom skal indeholde.
+
+00:38:22
+Og det det ligesom skal.
+
+00:38:25
+Kom ud i Det er at kvantificerbart resultat for risikoen for hver klimapåvirkning. Det skal være baseret på gratis services og metoder og klima fremskriverne. Klimafremskrivninger skal være fra offentlige institutioner.
+
+00:38:37
+Det er i virkeligheden for, at andre kan reproducere dem, og at man kan anvende dem ligegyldigt om du har en licens og arbejder i en stor virksomhed eller ej, og så skal du kunne gøre som ud fra desktop research Sådan, så Det er rentabelt for investorer og virksomheder.
+
+00:38:52
+Og Det har noget at gøre med at.
+
+00:38:53
+EU taxonomen nok ikke vil blive anvendt, hvis det økonomisk set ikke giver mening for en investor at at gøre det her.
+
+00:39:01
+Så.
+
+00:39:03
+Det det der ligesom sker?
+
+00:39:05
+Det er en form for proces, som skal laves for at opfylde de her klimarisanalyser.
+
+00:39:13
+Jeg har valgt at dele den op i man kan sige en 5 femtrins raket som herovre har noget tekst men ovre til højre er lidt mere beskrevet i et diagram, at man er først vurderer hvilke af risiciene.
+
+00:39:25
+Nu røgrer vi tilbage på din forside igen.
+
+00:39:27
+Jamen det. Det er da helt vildt.
+
+00:39:29
+Nu er vi ved de 5 step.
+
+00:39:30
+Sådan.
+
+00:39:32
+Men først vurderer og identificere, hvilken klimarisci Der er vigtige, så beregner man den konsekvensen fra dem her, der får der så en risiko uden tilpasningsløsninger, så kan du kigge på hvilke.
+
+00:39:46
+Hvad kan man sige tilpasningsløsninger, der kan reducere de her risici?
+
+00:39:49
+Og så kigger vi så på en det Vi har kaldt. Ja Det er Sådan Der er blevet kaldt en medigation plan eller en handlingsplan i virkeligheden. Så går det ud på at man lige går et skridt tilbage, og så siger man OK Vi har det her tilpasningsløsninger der findes.
+
+00:40:01
+Findes der også noget der allerede er implementeret i ejendommen, og så går man lige hele analysen igennem igen, og så får vi så til sidst en risiko med tilpasningsløsninger.
+
+00:40:13
+Når du så har den, så kan du så begynde at implementere ekstra tilpasningsløsninger for at reducere de væsentligste klimarisci, hvis man finder ud af, at Der er nogle af dem.
+
+00:40:23
+Eksempel på hvordan man kan beregne skaden af en klimarisiko. Det er for eksempel kyst oversvømmelser.
+
+00:40:30
+Der bruger vi det gratis værktøj kamp, som man kan bruge til at visualisere oversvømmelser i Danmark, så bruger vi DM is gratis hverdag for fremskrivninger, og vi kan se, at en 100 års stormflodshændelse den var 181 cm i perioden 1980-2010 og i slutningen af det her århundrede. Der kommer den nok op omkring 230 cm.
+
+00:40:59
+Så Det er nogle væsentlige forandringer, vi ser ind i.
+
+00:41:03
+Og så kigger vi på de her vanddybder, som vi simulerer på de forskellige tidsperioder.
+
+00:41:10
+Både for et årsscenarie 5 5 årsscenarier 20 år, 50 og 100 års hændelser.
+
+00:41:15
+Og så smider vi dem ind i de her skader. Nogle skadesfunktioner og for alle klimaredicinende, der baserer vi skadesfunktionerne på forsikringsdata fra ja brancheorganisationer.
+
+00:41:27
+F og p, som indsamler data fra alle forsikringsselskaber.
+
+00:41:31
+Og Vi har også også nogle generiske skadesfunktioner.
+
+00:41:38
+Nå ja som sagt. Det gøres for alle de her klimarisi.
+
+00:41:43
+Det ender ud i en ejendomsrapport kan man sige. Nu står der svedgaard over det hele. Men Det er jo som sagt, fordi jeg arbejder hos svingo nu.
+
+00:41:52
+Hvor vi laver en one pager fra ejendommen, laver fremskrivninger henover tid og laver en fordeling af, hvor stor hver risiko betyder for ejendommen.
+
+00:42:03
+Og så derudover har vi så en en rapport, hvor vi forklarer baggrunden for hvorfor det blev taget med, hvorfor det ikke er blevet taget med og så giver et katalog over de tilpasningsløsninger, vi vurderer kan reducere den risiko både med et økonomisk.
+
+00:42:20
+Implementerings hvad hedder Sådan noget? Ja, en omkostning hvor Vi har kunne estimere det for også at kunne lave en cost benefitanalyse.
+
+00:42:30
+Man kan også gøre det på port følgeplan hov. Der kom jeg tilbage der. Man kan også gøre det på port følgeplan, hvor man kigger henover en hel portfølge som ejendomsadministrator ser på, hvordan alle ejendommene ligger i forhold til hinanden og kan lave en fremskrivning for hele porteføljen på tværs af de forskellige klimarisi det i virkeligheden for at kunne give en strategi for tilpasning af ens portofolie til klimarisi.
+
+00:42:55
+Eller hvis man er Kommune, så kan det give en strategi for at sige jamen hvilken klimarisiko er i virkeligheden mest relevant?
+
+00:43:01
+Fra min Kommune at fokusere på.
+
+00:43:05
+Og så kan man sige, hvad er det man får ud af det her til i sidste ende? Jamen man får svar på de her spørgsmål. Jeg har listet op svarene på spørgsmål, som er min ejendom i risiko for klimafare, hvor mange af mine ejendomme er risiko for klimafar og hvor stor er risiciene?
+
+00:43:19
+Og vi gør det lige nu mest på økonomisk plan.
+
+00:43:23
+Fordi så kan du sammenligne din risiko på tværs af dine aktiver og fordi risiko i forhold til økonomi simpelthen det Der er allermest udviklet lige nu.
+
+00:43:32
+I især i investeringsbranchen kan man sige.
+
+00:43:37
+Og derudover så laver vi Sådan en, hvad kan vi gøre ved problemerne? En cast benefanal analyse.
+
+00:43:43
+De her svar på de her spørgsmål er rigtig vigtige for rigtig mange egne virksomheder, fordi som sagt det det spiller ind i det her CSRDESG rapportering. Det giver nogle kvantificerbare SG indikatorer, der siger noget om hvor godt man gør det og hvor man gerne vil hen i fremtiden. Og så kan du sammenligne dig med dig selv fra året før.
+
+00:44:03
+Det er vigtigt, fordi taksonomien her stiller krav til det og stiller krav til rigtig mange aktiviteter, at man skal lave den her klimatilpasning strategi.
+
+00:44:13
+Og samtidig så kan det give en reduktion i fremtidige skadesomkostninger. Hvis du tilpasser dig og ja give bedre forsikringer i virkeligheden.
+
+00:44:23
+Og derudover så er det relevant fordi.
+
+00:44:27
+Vi har. Jeg har i hvert fald arbejdet rigtig intensivt på at få det her digitaliseret og få det gjort hurtigere og bedre.
+
+00:44:34
+Og Jeg er i hvert fald nede på at kunne lave Sådan en analyse på en 7 timers arbejde. Måske 5 du sidder 7-10 men 5 timer hvis Jeg er rigtig effektiv.
+
+00:44:43
+Både sammen med rapportskrivningen, så Det er Det er noget, der kan gå rigtig hurtigt og kan give meget værdi på beslutningstagere.
+
+00:44:52
+Meget nemt kan man sige.
+
+00:44:55
+Og det, der ligesom har været den helt store begrænsning for mig.
+
+00:44:59
+Det sidste minut, du har nu.
+
+00:45:01
+Det er super den store begrænsning. Det er at taxonin stiller krav til økonomisk risiko.
+
+00:45:08
+E us tekniske guidens dens stiller krav til både eller siger, at man kan gøre det både økonomisk og socialt. Men Det er ligesom om, at der bliver glemt den her natur eller de økologiske processer i det her. Altså man kunne godt.
+
+00:45:23
+Dykke lidt ned i hvilken impact klimaforandringerne har på naturen og ikke kun på økonomi og social og risici. Især de her cast cating effekt, som det hedder eller kædereaktioner.
+
+00:45:36
+Hvor stigende havvand leder til stormflåde, der også graver jord væk, og det ødelægger nogle habitater. Og hvad gør det så for biodiversiteten? Men Det er noget, som vi må arbejde videre med.
+
+00:45:49
+Og Det er jo ingen mange tak. Frederik mega spændende og Det er noget af noget mundfuld også at skulle samarbejde sig ind i det her, men det her kommer vi til at fortsætte med i mange mange år. Altså hvor du har taget din interessante åbningskb Der er.
+
+00:46:01
+Der er et spørgsmål Der er 2 spørgsmål det første fra før Alexander der skriver risikerer man ikke at ens tiltag er meget ressource tungt som er med til at forværre den fremtidige risiko for boligen.
+
+00:46:14
+Altså.
+
+00:46:16
+Det.
+
+00:46:17
+Det meget ressource tomt er det i forhold til?
+
+00:46:21
+Alexander om du vil uddybe det altså at at at de her tiltag så som en sagt altså det det kræver jo så også en del ressourcer så så jeg ved ikke Alexander kan du uddybe dit dit dit dit spørgsmål. Jeg ved ikke om det ene sagde Det er jamen et tiltag ender jo så med også at skal bruge en masse beton som så har et CO 2 aftryk eller andet og om Det er det der ens talt.
+
+00:46:47
+Fordi.
+
+00:46:49
+Ja hvis jeg giver ham lige 5 sekunder til at svare. Ellers kan jeg prøve og.
+
+00:46:53
+Og han skriver hvad står der live?
+
+00:46:56
+Det er Lives psykoseurdering altså. Og der kan man sige saxoin skal lave et yderligere krav om at man skal favorisere naturbaseret og vandbaseret løsninger. Sådan blå grøn infrastruktur.
+
+00:47:06
+Så vidt Det er muligt, så man kan jo altid arbejde med landskabsarkitekter.
+
+00:47:12
+Og vand og miljøingeniører for at lave et grønt en grøn tilpasning mod.
+
+00:47:18
+For eksempel oversvømmelser. Det er i hvert fald et oplagt bud, men der vil jo være nogle ting, hvor du bliver nødt til at lave en tilpasning, som måske ikke ikke er naturbaseret. Det Sådan er det jo.
+
+00:47:31
+Men hvis du har en tidlig planlægningsfase og og virkelig gennemarbejder det her og finder de gode løsninger frem, så vil jeg ikke mene overhovedet, at man vil bruge mere beton eller være mere ressourcekrævende end et almindeligt byggeri.
+
+00:47:44
+Men det må du jo sætte ind i det loop der du egentlig tager der ad, hvor man kort lavede en risiko en til at vende tilbage. Der kan du jo godt lægge det ind som noget observationsproget, man skal kunne lave det ved natrius som et krav. Hvis man ikke kan det, så må man så i gang med noget beton.
+
+00:47:58
+Ja så så er der et spørgsmål med fra fra Benjamin holm altså der skriver hvad gør man hvis CB aen viser at der ikke at det ikke kan betale sig at gøre noget ved risikoen? Kan man så argumentere for at man ikke behøver at gøre noget?
+
+00:48:12
+Altså man kan sige umiddelbart, så er det her jo en risikovurdering fra en et ejendomsselskab eller en virksomheds perspektiv.
+
+00:48:23
+Og de kan jo godt gå ind og så sige jamen Vi har nogle risici, som vi kalder neglicher.
+
+00:48:29
+Dog men er der nogle risikogrupper, hvor hvis de kommer op over de her 8% af ejendommens værdi i skadesomkostninger, så mister du simpelthen muligheden for at forsikre din ejendom.
+
+00:48:39
+Og hvis du ikke har det altså, så er det noget rigtig rigtig rigtig rod at have en ejendom fordi så så bliver det simpelthen så store omkostninger, hvis det sker at du ikke kan betale dig fra det.
+
+00:48:50
+Uden at have lidt hjælp.
+
+00:48:52
+Tak Frederik tiden er gået, så Jeg vil bare hurtig rappe op altså det her. Det var 1-1 premieren på at det danske Universitet og vidensinstitutioner har en mulighed, en platform under DNK, altså for en til at præsentere nogle af de mange spændende arbejdere og projekter, der blev lavet. Altså Vi har været omkring klimarisiko og sårbarhed IEU taxamien.
+
+00:49:14
+Vi har været nede i jorden i forhold til p facerne og deres transport i forhold til grundvandsressourcen. Vi har været omkring sne, som jo er en del af vandets.
+
+00:49:22
+Kredsløb også i forhold til vandressource, modellering og andet. Og Vi har været II Marokko og kigge på vandressourceplanlægning. Altså ud bøjet for at hydro økonomisk perspektiv, så så Jeg synes at Det har været en enorm berigelse i en sag og og og få DTU altså blev præsenteret for 4 arbejdere.
+
+00:49:42
+Altså i er jo i fremtidens helte altså Det er jo jer der skal ud og og sørge for at vi kommer på tilbage på sporet i forhold til en bæredygtig verden.
+
+00:49:50
+Og Jeg synes med jeres meget, meget interessante og og gode præstationer har har vist.
+
+00:49:57
+Et Universitet her Det er IDTU en sag at arbejde med nogle nogle nogle yderst relevante problemstillinger omkring klimatilpasning og vandhåndtering på meget, meget højt niveau. Så så så så på vejene er DNK og og young Walter professionel, så vil jeg sige 1000 tak for jeres 4 præstationer.
+
+00:50:16
+Og og tak til til jer der har lyttet med og. Og Vi har en forventning om, at vi egentligt talt forudsætter det her format, altså med andre universiteter og vidensinstitutioner, der præsenterer det her spændende arbejde, der der foregår derude.
+
+00:50:30
+Den her præstation bør optaget og bliver lagt ud på et tidspunkt, så alle har mulighed for at gense den eller dele den med gode kollegaer. Hvis man mener her, var der noget, der var interessant for, for det man sidder og arbejder med.
+
+00:50:41
+Og og så.
+
+00:50:43
+Kommer der forhåbentlig?
+
+00:50:44
+Mange flere af af de her præstationer fra fra for de spændende stykker arbejder og og og specialer II sidder og laver, så hvis der ikke er yderligere det, så vil jeg sige tak for for for jer alles tid jer i dag og fortsat god dag.
+
+00:50:58
+Selv tak.
+

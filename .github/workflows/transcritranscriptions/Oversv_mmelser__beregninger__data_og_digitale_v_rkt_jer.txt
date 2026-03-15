@@ -1,0 +1,1203 @@
+00:00:19
+Rigtig hjertelig velkommen til dette webinar. Mit navn er lars kolund. Jeg er konsulent her IKL og arbejder til daglig som projektleder i et projekt som hedder dataunderstøtte klimatilpasning og her sammen med mig i studiet. Der har jeg Steffen.
+
+00:00:35
+Tak for det lars som sagt jeg hedder Steffen Vestergaard, Jeg er sekretariatsleder i det nationale netværk for klimatilpasning. Og stor velkommen til jer derude, men også en meget stor velkommen til Vores 4 oplægsholdere og debattører, som i kommer til at møde nu her.
+
+00:00:49
+Men også et tak til KL for samarbejdet og fordi i stiller produktionsfacilitet og studiet til rådighed. Tak. Ens program er som følger, der kommer 4 bud her. De har cirka et kvarter hver 4. Bud på programmer, der kan anvendes til skadeberegninger i forbindelse med oversvømmelser.
+
+00:01:07
+Det tager Sådan cirka en times tid, og derefter så har vi 10 minutters pause.
+
+00:01:13
+Og så genoptager vi webinaret cirka 15 15.
+
+00:01:17
+Men debat mellem de her oplægsholdere, og det ser vi meget frem til, så vi slutter udsendelsen kl. 16:00. Der har været rigtig stor interesse for og få både for emnet, men også for at få lov til at deltage. Der er rigtig mange kommuner, der har efterspurgt, at vi tager fat i det her tema.
+
+00:01:34
+I har en mulighed for at smide en lidt inde i chatten til Vores teknik, men Vi har desværre ikke mulighed for at følge med i chatten og trække spørgsmål ind, så det håber jeg på forståelse for til gengæld er i meget velkommen til at kontakte lars. Eller jeg eller Vores oplægsholdere efterfølgende?
+
+00:01:54
+Ja. Det er jo Sådan, at Vi har en lang tradition for og og et fagligt miljø omkring hele den hydrauliske beregningsdel. Det med at beregne oversvømmelser. Det har vi kun længe.
+
+00:02:06
+Vi kan forudse, hvornår de kommer deres udbredelse og deres varighed. Vi kan regne forskellige scenarier igennem og både dynamiske og stationære. Det er ikke helt samme faglige niveau Vi har, når vi taler om de ting, som så går i stykker, når der kommer vand på.
+
+00:02:26
+Hvad er det for nogle skader? Hvad kan hvad? Hvad går?
+
+00:02:27
+Hvad går i stykker, når når det bliver vådt? Hvad koster det at genoprette? Det er der forskel på skybrud og på en stormflod og og Det er jo faktisk ikke så godt, at vi ikke kan det, fordi når Vi skal regne risikoen ud, så skal vi jo både bruge farekortet og sårbarhedskortet.
+
+00:02:45
+Og når ikke Vi er helt gode i sårbarhed, så får vi nogle resultater, som kan være diskutable. I dag der præsenterer vi så 4 programmer som prøver på og hjælpe os alle sammen igennem den problemstilling ved at arbejde med. Farekorden og ved arbejde med skadesberegninger og.
+
+00:03:10
+Jeg har flere gange blevet spurgt, hvad skal vi vælge af de 4 systemer, som nu bliver tilbudt her? Og svaret er simpelthen jamen man skal vælge det system, som er bedst til at give svar på det problem man står med.
+
+00:03:23
+Og Der er også andre systemer end de 4 som vi ser på i dag, så gå ind i og prøv at forstå hvad Det er for nogle svar man kan få ud af af programmerne. De er udviklet til forskellige med med forskellige formål, og derfor giver de også en række forskellige svar.
+
+00:03:48
+Og i kan godt se, hvori en række af forskellighederne består, men nu vil jeg starte med at give ordet til det første oplæg, og Det er til jan Jeppesen, som er seniorspecialist og i klimatilpasning hos niras og Jan har været med og været en af de drivende kræfter bag det program, som hedder best klimatilpasning.
+
+00:04:08
+Første version blev frigivet i september 2021. Så programmet er altså ikke engang et år gammel endnu. Det bliver spændende. Værsgo jan. Ordet er dit.
+
+00:04:19
+Tak for det og tak fordi jeg måtte komme i dag. Tak for invitationen.
+
+00:04:24
+Jaja karl hedder jan Jeppesen og repræsenterer så niras i dag og skal fortælle om det her værktøj. Bedst klimatilpasning, som står for beslutningsstøtte i forbindelse med samfundsøkonomisk analyser og fastsættelse af af serviceniveauer for vand på terræn.
+
+00:04:41
+Og Jeg vil starte med at sige lars du nævnte det her med at fokus. Det er det her på på skadesberegningerne. Men det der egentlig er omdrejningspunktet for for bedst. Det er at kunne lave den fulde samfundsøkonomiske analyse. Og fastsatte de havde serviceniveau og for vand på terræn.
+
+00:04:58
+Ja udgangspunktet for udviklingen af best klimatilpasning Det er den her nye lovgivning, Der er kommet omkring klimatilpasning vel og mærke helt specifikt omkring mulighederne og for at spildevandsforsyningsselskaberne kan gå ind og finansiere skybrudsprojekter for håndtering af tower og overfladevand.
+
+00:05:21
+Og den her. Mulighederne for at taks finansieret klimatilpasning Det er bundet meget op på de her samfundsøkonomiske analyser, hvor Der er krav om, at der skal være den her samfundsøkonomiske hensigtsmæssighed. Og det kommer jeg lige tilbage til.
+
+00:05:34
+Lovgivning er er bundet op på på særligt de her 2 bekendtgørelser, hvor det her med samfundsøkonomien er vigtig. Der er serviceniveaubekendtgørelsen, hvor kommunerne har mulighed for i regi af spildevandsplanen at hæve serviceniveauet for håndtering af tag og overfladevand over de her sædvanlige 5 år i separatlookerede områder og 10 år i fællestokerede områder.
+
+00:06:00
+Det kan man gøre for såkaldte vandopblande, men det der så er et krav, og det der skal regnes på hvad enten kommunen eller forsyningen. Det er at det niveau det serviceniveau altså for håndtering af en en specifik regning. Der skal der være en en samfundsøkonomisk hensigtsmæssighed, og Det er ikke nok med, at det skal kunne betale sig.
+
+00:06:20
+Det skal bedst kunne betale sig, når man sammenligner projekter til forskellige serviceniveauer.
+
+00:06:25
+Så dette Der er illustreret på på figuren herovre, at man går ind og laver kospenefitanalysen af af det her samlede klimatilpasningsprojekt, man har for et givet vandopland, hvor man ser på, hvad koster det at lave klimatilpasning, altså omkostninger forbundet med klimatilpasningsanlæg, og så regner man på.
+
+00:06:46
+Hvor stor en gevinst man får ud af det i form af sparede skadesomkostninger.
+
+00:06:50
+Og så er det den her forskel, altså Netto gevinsten man man ser på, og som er hovedresultatet. Den skal man se på til forskellige serviceniveauer, altså forskellige klimaprojekter til forskellige serviceniveauer og det niveau som spildevandselskabet kun kan finansiere til. Det er der hvor du har det mest hensigtsmæssige serviceniveau, altså hvor du har den største Netto gevinst.
+
+00:07:15
+Og Det er nogle ret omfattende beregninger, som som er påkrævet for at skulle eftervise det her, og Det er hovedformålet med bedst klimatilpasning, at vi automatisk kan gå ind og lave de her beregninger.
+
+00:07:28
+Så Det var serviceniveau bekendtgørelsen. Man kan også vælge at gå efter omkostningsbekendtgørelsen, hvor Der er mulighed for, at forsyningsselskabet kan gå ind og og finansiere supplerende klimatilpasning, som det hedder såfremt at man kan afholde udgifterne til de her supplerende tiltag inden for 5% af et hovedprojekt, som for eksempel kan være en seperat kloakering for et vandopland.
+
+00:07:54
+Så er det dem med de 5%. Det må ikke koste mere end det, men derudover så skal der også være en samfundsøkonomisk hensigtsmæssighed forbundet med det projekt.
+
+00:08:02
+Så der kommer det igen ind det her med at Der er ret høje krav omkring beregninger af samfundsøkonomi, når man skal gå ind og og se på, hvad man kan takfinansiere.
+
+00:08:14
+Og og kunne lave de her beregninger. Det er simpelthen hovedformålet med bedst klimatilpasning. Det er et et screeningsværktøj Vi har udviklet i regi af et Region mess projekt cost 2 coach projekt. Og Det har udviklet et samarbejde med alle de her kommuner og forsyningsselskaber II partnerskabet.
+
+00:08:36
+Og da vist nogle figurer her, som illustrerer ret godt bedst klimatilpasning. Det er noget negere sætter op for en en givet kunde, og i Region Midtjylland har vi så sat det op for for alle kommuner.
+
+00:08:50
+Så Det er kommunedækkende. Vi indarbejder og de her forskellige inputdata, som jeg kommer tilbage til.
+
+00:08:57
+Men, men pointen er, at når Det er sat op, så leverer vi egentlig blot en en webadresse til til kunden, og så får de et brugernavn og en adgangskode, og så har de adgang til til værktøjet, og så kan man gå ind og se på ens Kommune. Se på de her vandoplande, se på de samfundsøkonomiske resultater allerede og få et indblik i, hvordan ser det ud med de her serviceniveauer og forskellige steder i.
+
+00:09:19
+I kommunen, hvor kan det betale sig at hæve serviceniveauet, hvor det ser det ikke ud til at kunne betale sig?
+
+00:09:24
+Så kan man dykke mere ned i de enkelte vandopblande som Der er vist et eksempel på her, hvor Der er arbejde med konkrete klimatilpasningsløsninger til forskellige til 3 forskellige serviceniveauer, og så kan værktøjet så regne den her cos benefit analyse ud og automatisk konkludere på hvor er det så Vi har den største samfundsøkonomiske hensigtsmæssighed, som er det niveau som forsyningsselskabet kan kan finansiere til.
+
+00:09:49
+Og resultaterne i bedste klimatilpasning kan kan inspiceres på forskellige niveauer. Man kan gå ned på bygnings og matrikelniveau. Man kan også se det på kloakoplandsniveau og endelig på vandoplandsniveau, hvor vi vi regner de her samfundsøkonomiske resultater ud.
+
+00:10:07
+Så Det er Sådan hovedpunkterne af værktøjet. Det regner meget hurtigt, fordi vi laver nogle præberegninger af af oversvømmelserne, før vi når vi sætter det op. Så Det er det her med, at det tager relativt få sekunder for en hel Kommune, og det bliver automatisk udført.
+
+00:10:23
+Input data og output data er overskueligt. Og man regner på det på en ensartet måde, og man kan få det her overblik helt fra starten til ligesom at gå ind og prioritere på de her vandopblade, hvor det ser ud til at Der er noget at komme efter, når vi snakker klimatilpasning og skadegevinst.
+
+00:10:44
+Vi får også automatisk udført de her følsomhedsanalyser, hvor man går ind og og automatisk laver en justering af de forskellige input parametre, der betyder noget i den her samfundsøkonomiske cost spinffeinde analyse.
+
+00:10:57
+Så man får den illustration af, hvilke parametre Der er det, der betyder noget for det resultat, man får ud, og hvor robust er resultatet. Så Det er ret væsentligt, vi får det ud.
+
+00:11:07
+Så lægger vi op til den her nemme adgang via webgez, og vi sigter også efter at at værktøjet kan bruges af ikke specialister. Så Det er ikke kun gives medarbejderne i kommunen, der kan bruge det her værktøj. Det er også de enkelte planlæggere ved kommunen og og Forsyning ja.
+
+00:11:26
+Så lidt omkring den samfundsøkonomiske metode og og bedst klimatilpasning. Det vil jeg gå meget hurtigt igennem den her. Den er måske lidt tung, men i bekendtgørelsen er der ligesom lagt op til at man skal bruge en en fast samfundsøkonomisk metode, når man skal regne på på cros benefitanalyserne og serviceniveauerne, og den er ligesom lagt op II 6 trin, som Der er vist her.
+
+00:11:50
+Og bedst klimatilpasning anvender de her 6 trin. Det er ligesom. Maven af af motoren. Vi anvender så forskellige approksimationer rundt omkring, så Vi er i stand til at kunne lave de her meget hurtige screeningsberegninger.
+
+00:12:04
+Men hvis vi vi starter med med starten, så det man først skal jævnligt for bekendtgørelsen. Det er at definere vandoplandet, og Det kan man gøre ud fra forskellige principper, og man kan gøre det ud fra forløbet af topografi forløb af kloakoplandet arealanvendelser og faktisk også i forhold til det samfundsøkonomiske resultat i sig selv.
+
+00:12:23
+Og der kan bedst gå ind og understøtte, at man kan gøre de her vandoplandet mindre eller større, så i trin et der skal man så sammenholde oversvømmelsersudbredelse med et et værdikort og og som input til oversvømelseskort. Jamen der kan vi bruge forskellige typer. Det kan både være hydrolynamisk og oversvømmelseskort, altså typisk for meget flot.
+
+00:12:48
+Men vi kan også bruge lidt mere simple skaldo skyskort. Som input. Med hensyn til værdikorte jamen der sætter vi et standard værdikords op fra starten. Brugeren kan så efterfølgende gå ind og justere på typerne og definere nye typer, hvis man har lyst til det og og justere på enhedspriserne.
+
+00:13:09
+Og så går værktøjet jo ellers ind og regner automatisk på risikoen og Der er nøglebegreb som hedder forventet årlig skade, som siger noget om, hvad kan vi i gennemsnit forvente af skader i kroner pr. År?
+
+00:13:23
+Og så har man egentlig overstået trin 1-3, som giver et overblik over hvor hvor store skader ser vi ind i, hvis vi ikke hæver serviceniveauet over over status? Og så har man udgangspunktet for at gå videre, gå ind og se på og udvikle løsningstiltag II trin 4.
+
+00:13:40
+Og se på effekten af dem og i best, der kan man gå ind og og definere de her løsningstiltag på forskellige niveauer. Man kan meget groft gå ind og anvende nogle enhedspriser for hvad det koster og klimatilpasse. Altså simpelthen Sådan nogle kroner per hektar opland.
+
+00:13:57
+Det er det, vi lægger ud som default ved starten, men man kan også gå ind og og anvende det løsningskatalog, som er indarbejdet II værktøjet. Det vil sige, man kan gå ind og tegne tiltag op i.
+
+00:14:08
+I værktøjet, og så på den måde får får indarbejdet konkrete løsningstiltag ud fra nogle enhedspriser, men Det er bedst, så gør og det der indarbejder som default. Det er at den kan gå ind og approximere den her effekt på på skaderne. Ud fra de løsningstiltag, Der er implementeret, forstået på den måde at de eneste overskudskort Vi har lagt ind i værktøjet, jamen Det er overskudskort for status.
+
+00:14:33
+Og så er det faktisk op til brugerne at angive til, hvilket serviceniveau de her forskellige løsninger nu ligesom sikre til. Og så er det det der indgår II beregningerne af.
+
+00:14:44
+Er de undgået skader som jo jævnfør bekendtgørelsen udgør de her gevinster, som man skal sammenligne med med omkostningerne II trin 6, hvor man regner cørstanal analyserne og ud til til de her forskellige serviceniveauer og identificerer det mest ansigtsmæssige serviceniveau.
+
+00:15:00
+Så alt det her. Det bliver udført automatisk II værktøjet, og Det er udført på den måde. Brugervenligt synes vi, at hvis hvis brugeren går ind og justerer på nogle input et eller andet sted, jamen så er det. Så er der gennemtvunget 1 1 1 genberegning i værktøjet.
+
+00:15:19
+Ja.
+
+00:15:21
+Hvordan skal man så anvende værktøjet? Jamen der i forhold til bekendtgørelsen jamen der siger, siger vi egentlig, at styrken i bedst? Det er de her indledende faser i forhold til at lave et et endeligt projekt, man kan sende ind til forsyningsekretariatet.
+
+00:15:35
+Det er her, hvor man får stillet værktøjet op for en hel Kommune. Danner sig det her overblik over vandoplandene. Hvor man kan se jamen hvor kan det betale sig, og hvor kan det ikke betale sig at hæve serviceniveauet.
+
+00:15:47
+Og og så få udgangspunktet for at prioritere i hvilket opbland man skal arbejde videre med. Det vil jeg også typisk afhængig af en hel masse andet end end selve klimatilpasningsbehovet. Men så er det først efterfølgende, der i de senere faser, at man begynder at arbejde sig mere ind i den her 1-1 beregning i forhold til bekendtgørelserne.
+
+00:16:05
+Og Det er for at sikre, at man man gør sig skarp i starten og prøver at danne sig det her overblik over.
+
+00:16:11
+Hvor alt Det kan betale sig at arbejde mere detaljeret med det her og frasortere der hvor det ikke giver mening, så er man ligesom sikrer, at Det er ressourceforbrug bliver målrettet til det absolut nødvendige.
+
+00:16:23
+Jeg har lige et et hurtigt eksempel her. Det er fra Aarhus Kommune på anvendelse af værktøjet, og Det er nogle slides fra Mathias friisted fra Aarhus Kommune, som bruger bedst klimatilpasning. Så Det er faktisk hans slides og Det er hans arbejde, jeg viser her.
+
+00:16:39
+Som er en en anvendelse af af bedst til at afprøve det her eksempel 2 fra vejledning til serviceniveau bekendtgørelsen, som omfatter det her projekt ved Vesterbro torv, hvor man sammen kæder flere behov, Der er behov for at at at gøre kvarteret lidt mere fredeligt. Der er noget fredeliggørelse, og Der er noget behov for at lave noget byforskyndelse med blågrønne løsninger og så alt det her behov for også at håndtere noget skybrud.
+
+00:17:06
+Det kalder man så sammen i et samlet synergiprojekt, og Der er jo lavet et et større rådgivningsarbejde tidligere, før Mathias implementerede det her i best. Men det han så gjorde der, Det var at implementere de her forskellige løsninger til 3 forskellige serviceniveauer II værktøjet ved at tegne dem op her ganske hurtigt og dermed kunne få resultatet af.
+
+00:17:30
+Af den samfundsøkonomiske analyse og og bedst har faktisk vist, at den giver det samme resultat, som der også er regnet.
+
+00:17:36
+Meget detaljeret på II vejledning, så det synes jeg, at et godt og interessant resultat, at vi faktisk med det her screeningsværktøj kan kan få nogle valideresultater. Det andet eksempel, Det er fra den her masterplan fra ebeltoft by.
+
+00:17:51
+En masterplan, som er udarbejdet på et meget indledende niveau, hvor man ser på, hvordan man skal håndtere skybrud. Og hvordan sikrer man sig at at den her plan den hænger sammen med alle mulige andre planer og og projekter?
+
+00:18:04
+Og de her forudsætninger svæver ret meget kloakeringsstrategien er ikke lagt fast, og Der er også noget med mobilitetsplanen og Sådan noget. Der er noget noget elastik i det, men det man ønsker Det er ligesom at få det her overblik over.
+
+00:18:18
+Hvilke tiltag skal der til? Hvad koster de og hvad er mulighederne at få og få det finansieret ved forsyningen?
+
+00:18:25
+Så der har vi indbygget anvendt bedst til ligesom at indarbejde samlede løsningsforslag for at håndtere de her det her vand, så der ikke sker oversvømmelse II byen og Vi har brugt det på Sådan en ret overfladisk niveau ved at sige jamen vi sidder på 2 forskellige serviceniveauer et et let forhøjet serviceniveau, hvor vi sidder på på 10 og 20 årsættelser henholdsvis et betydeligt forhøjet service niveau.
+
+00:18:51
+50 og 100 sættelser og Det er ikke Sådan noget med 2 streger under det her. Det er nogle ret hurtige analyser af hvor hvordan det ser ud med med med de samfundsøkonomiske analyser til hvilket niveau det ser ud til, at vi kan at vi kan hæves serviceniveauet, og hvor kan det slet ikke betale sig, og her ser det jo ud til at Det er kun det her letforhøjede serviceniveau, som man kan opnå takstfinansiering til i byen.
+
+00:19:17
+Og Det er en meget hurtig screening, og vi ved jo godt, at de her resultater og beregninger, de bliver sikkert lavet om 10 gange inden man laver et detailprojekt, fordi så ændrer forudsætningerne sig, så skal man måske ud og separat kloaker steder, og så bliver det pludselig billigere, og Det er nogle andre løsninger man skal lave, men pointen er at man har bedst med hver gang, så man hurtigt kan evaluere, hvordan hænger det ud, hvordan hænger det sammen med med samfundsøkonomien, og hvordan ser det ud med mulighederne for at finansiere?
+
+00:19:43
+Klimatilpasning. Så tror jeg min tid er gået. Det var et et hurtigt indblik i bedst klimatilpasning krydret med et par eksempler, og så er i meget velkommen til at tage fat i mig efterfølgende ved de her kontaktoplysninger, hvis Der er flere spørgsmål til til værktøjet. Tak for det.
+
+00:20:04
+Mange tak igen fantastisk lige på minuttet lige på sekundet faktisk og den vekselvirkning Der er imellem at få Sådan et program som det her tidligere ind i planlægningsfasen. Så ikke man regner, så er jeg død og så finder ud af at 3000 trehundredetusinde kroner senere. Nej, Det var ikke nogen god ide tidligt ind med med de her screeningsting der.
+
+00:20:23
+Det er virkelig Det har potentiale så mange tak for det. Og Vores næste gæst. Det er per Skovgaard caspersen, som er seniorspecialist ILNHW water.
+
+00:20:37
+Per står bag et program, som hedder skadesøkonomi, og det blev i sin nuværende form frigivet omkring 1. December 2021. Altså heller ikke et år gammel endnu, og Der er allerede flere variationer af det lidt yngre end bedst. Men kørende så værsgo per.
+
+00:20:59
+Ja mange tak og tak for invitationen til at komme og præsentere det værktøj, som vi hos LNHW water har været med til at udvikle. Og jeg bare repræsentant for den gruppe, som har været med til at udvikle værktøjet, der hedder skadesøkonomi. Og dem skal jeg nok nævne her om et øjeblik.
+
+00:21:18
+Jamen formålet med udviklingen af det her værktøj har været at lave et værktøj, som kommunerne og forsyningsselskaberne og dem, der nu er interesseret i at lave de her typer af beregninger med hensyn til skadest og risiko.
+
+00:21:31
+At som de selv kan bruge og som er åben source og som anvender offentligt tilgængelig data. Sådan så at man nemmest muligt kan få adgang til det, man rent faktisk skal bruge. Og det man kan med det her værktøj her.
+
+00:21:43
+Det er at beregne skade på en forskellig lang række af forskellige sektorer og at regne risikoen ud, som kan bruges til de her computerfedt analyser. Og så kan man også få udpeget forskellige andre sektorer, som vi ikke sætter kroner og ører på.
+
+00:22:01
+Og det, Der er helt essentielt ved det her værktøj. Det er, at Det er udviklet blandt andet i samarbejde med med en lang række fynske kommuner og også i samarbejde med KL og det vigtige her. Det er, at vi ligesom har fået inputtet med fra fra kommunerne, som i hvert fald udgør den væsentligste gruppe af brugere lige nu til hvordan Sådan et værktøj skal fungere og hvordan det skal være sat op, og hvad det skal indeholde.
+
+00:22:20
+Og så er det også vigtigt at nævne det her med, at Det er altså open source værktøj, så alle kan gå ind og bruge det også. Ja fra nios som præsenterede før. Altså Det er Det er uden begrænsning.
+
+00:22:32
+Baggrunden for værktøjet. Det er her, jeg kommer ind på at nævne nogle af de andre, der har været med. Jamen Det er et et værk.
+
+00:22:37
+Det baserer sig på et værktøj som blev udviklet af dt 2 management og Kirsten halsnæs i forbindelse med et innovationsfond projekt, som sluttede for et par år siden og og den første version af af værktøjet her blev udviklet til archis, som er et licensbetalt gidsværktøj.
+
+00:22:54
+Og, der var fokus på havvand udelukkende for Det var det det projekt, det ligesom omhandlede. Og så fandt vi ret hurtigt ud af jeg var ansat på det på DTU på det tidspunkt, at at der var en efterspørgsel for at det ikke kun var havvand og at Det var open source, så alle ligesom kunne bruge det.
+
+00:23:10
+Og så satte vi os ned og talte med med dem, der hedder Georg Fyn og nogle af de fynske kommuner og og de var meget interesserede i, at det her det blev 1 1 1 værktøj II det gis software der hedder cookies. Som er gratis værktøjer, og vi fik de andre oversvømmelsestyper repræsenteret også.
+
+00:23:27
+Og Det var så det, der ligesom blev blev gennemført i løbet af sidste år, og som så gjorde vi havde et værktøj i slutningen af sidste år, som er er tilgængeligt. Et andet ønske, som Jeg tror mange af os har. Det er at at kommunerne til en vis grad benytter sig de samme metoder og de samme værktøjer.
+
+00:23:42
+Sådan så man ligesom kan sammenligne resultater på tværs af kommuner og måske på tværs af beregninger. Frem og tilbage i tid.
+
+00:23:52
+Og Jeg har som sagt Det var. Har været et samarbejde mellem de her forskellige kommuner. Vi var også lidt ovre på den jyske side og også lidt på den sjællandske side i forhold til at få inspiration og input til hvordan Sådan et værktøj skulle se ud.
+
+00:24:05
+Hvad beregnes der så med skadesøkonomi? Jamen altså først og fremmest så får man beregnet skaden ved forskellige oversvømmelser, altså det de her oversvømmelseskort farekortlægning.
+
+00:24:18
+Så hvad end oversvømmelserskort man importerer til værktøjet. Jamen så regner den ud hvad er skaden og hvad er den risikoen forbundet hermed? Risikoen på samme måde, som er jan, præsenterede før jamen det følger de retningslinjer, Der er i den her bekendtgørelse for faststillelse af serviceniveau.
+
+00:24:34
+Så det bliver regnet Sådan Netto nutidsværdier over en længere periode, og der kan brugeren selv beslutte også om Det er om den skal. Resultatet skal være i celler eller på vandoplanding eller vand, hvilket opland man nu ønsker det, så Der er ret stor fleksibilitet.
+
+00:24:48
+Foruden skader for de sektorer eller enheder, som vi kan regne om til kroner og ører. Jamen så er det også muligt at få udpeget de særlige værdier, der måtte være i ens område. Jamen Det kan være rekreative værdier, eller Det kan være måske.
+
+00:25:02
+Offentlig services, skoler og Sådan noget, som er lidt svært at sige. Jamen, hvad koster det, hvis en skole bliver oversvømmet andet end bygningskade? Jamen, så får man udpeget de enheder, som man nu har i sit inputdata og kan anvende dem, når man så efterfølgende skal prioritere.
+
+00:25:18
+Og de sektorer, som vi på nuværende tidspunkt arbejder med iværksættere, eller man kan arbejde med Det er de her 10. Og når jeg siger på nuværende tidspunkt, jamen, så er det fordi at værktøjet udvikler sig hele tiden, og der kommer også en ny version sikkert måske senere på året og en endnu en nyere en næste år og så videre. Altså, Det er alt efter hvor vi kan se hvilken efterspørgsel Der er, så sætter vi os sammen i projektgruppen og og finder ud af, hvordan kan vi ligesom få udviklet på den mest hensigtsmæssige måde, men lige nu så er der bygninger som er underdelt i en masse forskellige bygningstyper.
+
+00:25:47
+Så er der vej og trafik. Vi har en kategori, der hedder mennesker i helbred, turisme, rekreative områder, landbrug og så videre og så videre. Og for 6 af de her sektorer bliver der regnet et økonomisk tab og for de 4 resterende.
+
+00:25:58
+Jamen der får man udpeget de enheder, som ligger i området, som er oversvømmelsesråd, så man kan tage det med, når man skal til at beslutte noget omkring hvor man skal sætte ind.
+
+00:26:08
+Og værktøjet virker Det er ikke helt ligeså fuldautomatisk som som bedst klimatilpasning her. Der skal brugeren selv importere de data, og heldigvis er det offentligt tilgængeligt data og data, som kommunerne typisk selv sidder med og opdaterer og viser på deres diverse webkys portaler. Så Det er data de allerede har stort kendskab til.
+
+00:26:28
+Det er den ene del af det, de her sektordata, og så er der en 2 del som er de her farekort eller oversvømmelseskort.
+
+00:26:35
+Og det tror Jeg er noget af det, vi blandt andet også vil diskutere i panelet bagefter. Hvordan skal de helst være lavet og og hvordan inkluderer man dem bedst muligt? Men Det er op til brugeren selv ligesom at at at få de her kort importeret også når man så har gjort det.
+
+00:26:49
+Jamen så lægger skadesøkonomi den går så ind og beregner skader. Der ligger en række skadesfunktioner inde i værktøjet, og så laver den den her risikoberegning, og så kommer der en masse. Hvad kan man sige resultater både som kort og man kan få på sat på.
+
+00:27:03
+Tabelform, der ligesom udpeger de områder, hvor at de højeste skader og den største risiko er.
+
+00:27:14
+Nå, hvilke svar giver eller hvilke spørgsmål giver værktøjet så svar på jamen først og fremmest får man udpeget Sådan meget bredt. Jamen hvor er det Vi har de særligt udsatte sektorer eller enheder over for oversvømmelser både i dag og i fremtiden. Hvad er det forventet samfundsøkonomiske tab altså?
+
+00:27:29
+Det er ikke udelukkende skadesopgørelser, Der er, men Det er faktisk samfundsøkonomi som følge af de oversvømmelser. Hvad er det for nogle samfundskritiske funktioner? Det kan være? Der ligger noget vandforsyning eller noget spildevand eller rensningsanvæg.
+
+00:27:45
+Uhensigtsmæssigt, og hvor og hvor meget bør vi investere i klimatilpasning? Så der ligger også op til, at det output der kommer kan anvendes til cost benefitanalyser også i relation til den her servicebekendtgørelse.
+
+00:27:59
+Ja og på nuværende tidspunkt. Vi vil gerne have, at der også stod noget med trængende og grundvand. Det gør der ikke endnu. Det håber vi der kommer, men på nuværende tidspunkt. Jamen så håndterer den oversvømmelse for nedbørst stormflod vandløb.
+
+00:28:10
+Og det kunne også være, at der var andre typer af ekstreme hændelser, der var værd at tage med. Nu har det jo været en meget varm sommer, så det kunne godt være vi skulle kigge på noget med hedebølger også måske.
+
+00:28:20
+Og hvad er det så særligt egnet til? Jamen, man kan jo ikke lade være med, når man når man kigger på sit eget værktøj, eller Det er det værktøj, som Vi har været med til at lave. Jamen at sammenligne med med de andre mere, men altså det Der er en af det Der er anderledes det værktøj Det er at Vi har en meget bred tilgang til hvad vi man bør tage med eller hvad hvad værktøjet kan tage med i forhold til at udpege som værende i risiko, og Det er er noget af det som.
+
+00:28:44
+Kommunerne har har fortalt os at at Det var et ønske fra dem, at man ikke kun regnede ud. Hvad koster det at reparere en bygning? Så kom frem kan man også gå ud på de områder, som det giver mening at udpege både på kort og på lang sigt.
+
+00:28:58
+Og så det her med den her. Hvor meget bør vi være villige til at investere? Altså det der skal ind II cost benefitanalysen.
+
+00:29:05
+En 2 centralt element i det her Det er at at i og med at Det er et værktøj som open source og som du lægger op til kommunerne selv sidder med både med data og med beregningerne i hånden. Det er, at der sker altså en vis form for kompetence og vidensopbygning ude hos kommunerne og forsyningerne. Hvis Det er dem, der bor det.
+
+00:29:21
+Og Det har også vist sig at være meget værdifuldt for dem, altså det her altså. Det har været Sådan læringsøvelse for dem også og for det her i hånden, og så er de meget bedre kunne.
+
+00:29:30
+Du ved stille krav til jamen hvad værktøjet skal kunne. Hvad er det vi egentlig har brug for, når de ligesom selv har siddet med? Med detaljerne i hånden.
+
+00:29:41
+Ja hvad med fremtiden? Nu skal man selvfølgelig passe på med at afinsløre alt for mange ting, men Det er jo et open source software. Men altså, vi kunne godt tænke os, at der var flere forskellige.
+
+00:29:52
+Oversvømmelsestyper eller ekstreme hændelser ind, altså terrænet og grundvand tror jeg. Der er mange der snakker om lige nu. Erosion kan man faktisk allerede regne med værktøjet.
+
+00:29:59
+Det ligger ikke automatisk inde i værktøjet, men Det er blevet brugt til det forskellige steder, så hedebølger kunne måske også være et område, hvor men hvor der måske kræves at Vi har lidt mere viden om, hvis vi i hvert fald vil vil regne økonomi.
+
+00:30:14
+Så kunne det også være interessant, hvis vi frem for kun at kigge på. Jamen, hvad sker der med klimaændringer og oversvømmelser måske også kunne tage noget omkring den her samfundsudvikling med ind i beregninger lige nu? Der er beregnende de fleste eller alle værktøjer på en statisk by og en måske et klima som ændrer sig, og det kunne være rart at få den dimension med også.
+
+00:30:34
+Bedre skadesituationer jamen, det ønsker vi alle sammen at snakke om, tror jeg mere viden.
+
+00:30:38
+Og så kunne det jo måske også være en interessant at få noget af det her. Data integreret i værktøjet, altså sektordata eller oversvømmelseskort, for Det er noget af det, der arbejdsbyrden ligger lige PT. Og få stykket der data sammen.
+
+00:30:50
+Og så kunne det også være interessant at få flere sektorer, som vi kunne sætte kroner og ører på, og Der er helt aktuelt. Er vi i gang med at prøve at finde ud af, hvordan man gør i forhold til produktionstab for virksomheder, så det også kan blive afspejlet?
+
+00:31:02
+Hvordan kommer man så i gang med værktøjet? Jamen, Det er egentlig relativt let. Altså enten så går man ind på den her git hub meget usexet nørdet hjemmeside for primært for gisbrugere.
+
+00:31:13
+Det er der den ligger nu her og downloader sit værktøj. Ellers tager man kontakt til mig eller en 2 fra det team der har været med til at udvikle det og lige får lidt hjælp til hvordan vi kommer i gang med. Der ligger en installationsvejledning til hvordan man kan installere det her program, så indlæser man sin inputdata.
+
+00:31:29
+Og så er man faktisk klar til at regne med værktøjet, så kommer der resultater ud og det Der er lagt op til her på samme måde som jeg kunne høre fra jan også. Jamen Det er det måske altså Det er et samspil eller både gismedarbejderen og planlægnings eller klimatilpasningsmedarbejderen, som skal sidde med det her værktøj her.
+
+00:31:49
+Ja, Jeg har egentlig ikke så meget mere. Jeg tror det ville være mere interessant at tage resten under diskussionen, men her er i hvert fald et screenshot af hvordan værktøjet ser ud, når man har det åbnet inden inde i kuokens. Så mange tak for jeres opmærksomhed.
+
+00:32:04
+Mange tak per, og Det var et fantastisk at have så stor en plan for udviklingen allerede efter efter 0,5 års brug, og det illustrerer jo også meget godt allerede de 2 eksempler Vi har set hvor forskelligt.
+
+00:32:19
+Hvor forskellige resultater man kan få. De kan noget de der programmer. De kan bare noget forskelligt og og det skal man holde sig for øje, når man når man arbejder med dem, og når man vælger, hvor man vil lægge sine kræfter, fordi at svarene er ikke ens.
+
+00:32:35
+Men, Der er et udvalg, som gør, at man faktisk kan få svar på det, man gerne vil have svar på. Man skal bare vælge sine programmer med omhu Vores næste program og næste præsentation. Den kommer fra malte Beijing fra, som er teknisk specialist i Miljøstyrelsen, og han har fået æren af at præsentere alders.
+
+00:32:58
+Den, der holder den den længste alder her. Det er Sådan cirka 0,5 1,5 år siden.
+
+00:33:04
+At vi første gang hørte om kamp, og jeg tør godt at sige at det at det det det program som de fleste af jer kender fordi at det kommer fra en statslig myndighed. Det har stor autoritet og Det er meget meget nemt at bruge. Det er meget nemt at komme ind i det og.
+
+00:33:22
+Hvad? Nu vil vi høre hvad? Hvad du har at sige om det, og hvad fremtiden peger på der mange tak for det kom.
+
+00:33:27
+Jo tak tak fordi mine måtte komme ja men Det er rigtigt. Det er alderspræsidenten så vidt Jeg er orienteret, men Det er jo når vi. Det er jo også en del af formålet, kan man sige hvis vi kan få skubbet lidt til en udvikling, så gør vi det gerne.
+
+00:33:37
+Der er jo ikke nogen der siger Vi skal gå forrest, men og skubbe til udviklingen. Det gør vi gerne. Kamp jamen Det er et screens værktøj til klimapladsning, og hvis jeg Sådan lige ganske kort skal sikkert komme igennem. Det giver en kort introduktion.
+
+00:33:51
+Så så går jeg, så kommer jeg ind på hvad Det er for nogle overførsler data vi rent faktisk bruger. Hvad for nogle kilder indgår i værktøjet? Og jamen, hvordan ser det egentlig ud? Hvordan kunne et eksempel på anvendelsen være og og hvor som du siger hvor vi så på vej hen, ja.
+
+00:34:06
+Et stort slide med en masse tekst på, men men ganske kort. Hvad er kamp egentlig for noget? Jamen kamp.
+
+00:34:10
+Det var jo en forkortelse vi synes var sjov og pudsigt der vi skabte den og så hang den ligesom ved, men men forkortelsen er en klimatilpasning og al anvendelsesværktøj til miljø og planmedarbejdere. Deri ligger det måske også allerede i navnet, at Det er et meget brugervenligt værktøj. Det er et værktøj, hvor vi i udgangspunktet ikke har behov for forhåbentlig i første omgang at skulle gå ned og og tage fat i Vores IT afdeling eller Vores gidsfolk eller.
+
+00:34:32
+Slå op i en masse manualer i udgangspunktet. Det er tanken, at man starter her.
+
+00:34:36
+Og kommer videre derfra og bliver klogere i den her forbindelse, og man kan også bruge det som et dialog værktøj, så Det er jo det, i formålet var i udgangspunktet at give adgang til, fordi mange af de data fandtes allerede, men var svært tilgængelige. Eller man skulle have en særlig viden for at få adgang til dem, eller man skulle have et specielt værktøj for at samle dem hele eller have en større workshoppen energi afdeling. Det var det, der var ligesom et behov for førhen, men det Det er ikke i udgangspunktet behovet længere.
+
+00:35:01
+Inden man kommer et skridt længere hen, så målet. Det var i virkeligheden at give det her samlede overblik på screenings niveau vil jeg gerne understrege som kigge på jamen både hvad er det for et areal Vi har med at gøre? Altså hvert enkelt areal anvendelse er det og dermed også er der nogle bygninger eller natur?
+
+00:35:15
+Hvad er det for noget Vi har og så hvad? Hvad er det der bliver ramt og er hvad og at kunne gøre det uden at have en særlig teknisk indsigt?
+
+00:35:26
+Sådan ganske kort, hvor kommer det fra? Jamen det blev skabt. I virkeligheden er det skabt med Danmarks hypotal, som jo igen er ejet af af både kommuner og stat og regioner, så Der er en en forankring derude og og Vi har ikke et produkt Vi skal sælge i udgangspunktet.
+
+00:35:39
+Vi laver det for for kommunerne til kommunerne. Og dermed ønsker vi også at at gøre at gøre det, der giver værdi for kommunerne i den sammenhæng. Det er et værktøj, så nu siger du, Det var alles præsidenten? Det er også rigtigt. Det er et værktøj, der bliver opdateret løbende.
+
+00:35:52
+Der vil være små opdateringer undervejs, som vi ikke går ud og laver fanfarer med, men som vi bare implementerer og så er der vil Der er der lidt større opdatering, hvor vi tilføjer nye væsentlige funktioner, hvor vi nok skal komme ud og og ligesom vifte med faget.
+
+00:36:04
+Men altså, vi sørger altid for at holde det optaget i forhold til nye højmodeller, når når der en gang om året bliver fløjet, og når vi får på den måde nye huller. Så hvem er? Hvem er målgruppen i får er det en 2 målgruppe end de andre værktøjer? I er lidt altså den primære målgruppe.
+
+00:36:18
+Det er planmedarbejderen i virkeligheden, så Det er ikke.
+
+00:36:22
+Det er ikke nødvendigvis den den nørdede medarbejder i forsyningen, som har også at lave risikobegninger i forhold til en skrift 31 beregning eller Sådan et eller andet. Det er ikke der, Vi er henne. Det er udgangspunkt der, Jeg vil gå ind og sige, jamen hvor er det så Vi skal disponere over nogle regler, eller Vi skal gøre plads til noget vand.
+
+00:36:36
+Vi skal måske også bygge noget nyt, og hvor er der plads til at bygge nyt? Jamen så går man ned, så kigger jeg i første omgang, så er der en masse sekundære målgrupper, som som også har syntes værktøjet har haft, fordi Der er adskillige undervisningsinstitutioner, der nu bruger kamp.
+
+00:36:49
+I undervisningen, og jeg bliver også blevet ringet op af en skolelærer eller 2 dag. Sådan et helt almindeligt skolelærer, der bare synes Det er fantastisk det her og det Det er godt. Men du er ikke primært målgruppen.
+
+00:36:57
+Det er godt du bruger det, men du er ikke primært målgruppen. Ja, ligesom de kommunale medarbejdere udgangspunktet. Ja og med Det kan vi jo også tillade os at stille nogle krav, når når vi stiller fri adgang til værktøjet.
+
+00:37:09
+Hvad har vi med af data? Jamen Vi har nedbøren med og som statsberegning Vi har hævet med også som statiske og Vores beregninger, og Vi har en masse muligheder i, at man kan gå og justere på det. De 2 datasæt her de bliver optaget løbende, som jeg sagde før ny højt modellerne pædagogisk tilpasningslag som jo er kommunerne.
+
+00:37:27
+Der er det ude i kommunerne, der har ansvaret for at holde det opdateret. Så hvis i ser noget der ser forkert ud derinde jamen så kan det jo være at vi skulle opdatere jeres psykologiske tilpasningslag, og så kommer det også til at se slå igennem en kamp udgangspunktet. Ja.
+
+00:37:41
+Vandløbene en lidt ældre datasæt, men står stadig det bedste landsdækkende datasæt Der er og så grundvandet der jo kom til og som var Jeg kan sige var en af årsagerne til at vi fik fik behov for at lave værktøjet i sin tid.
+
+00:37:53
+Hvis vi Sådan kigger på, hvad er det så vi sammenstiller med, fordi en ting er, at Vi har noget vand der kommer. Men hvad er det så det rammer, så har vi nogle data omkring hologien, altså hvor løb på vandet henne. Hvor kommer det fra og oppefra og ned og hvor lander det henne?
+
+00:38:05
+Er der noget erosionssikring, hvis Det er noget Vi har ude at snakke om? Hvad er det for nogle oplande Vi har? Er der noget jordforurening? Er der nogle synergier i forhold til for eksempel lavbundsjord? Vi kan parkere noget vand, så derfor har vi fyldt rigtig mange data med der.
+
+00:38:18
+Så har vi nogle naturdata. Det er selvfølgelig fordi Det er noget, Vi skal passe på, men også fordi at. I nogen gange nogen i nogen sammenhænge er det en hindring. Nogen gange er det en synergi, og derfor er det meget væsentligt. Vi ser mange projekter, som ligesom får en længere proces.
+
+00:38:33
+Hvis Der er man har glemt og fået nogle af de her fredninger med. Og selvfølgelig planerne, hvor man som planmedarbejder kan holde det op mod de planer, man enten har som forslag, eller som man har på allerede udarbejdet ekstra fredninger og lidt lidt ekstra data eller noget.
+
+00:38:49
+Så hvad vil der så rent faktisk bruge til i dag? Jamen jamen det. Det hvor hvor latterligt hvad bliver ramt bygninger var anmeldelser. Den indledende screening, hvilke bindinger er der? Hvilke synergi er der i landskabet? Det er der hvor hvor værktøjet har sin styrke.
+
+00:39:05
+Og man ikke behøves og gå ned og spørge nogen eller gøre, man kan bruge det dagligt. Man skal ikke logge ind eller noget. Det ligger frit tilgængeligt. Der er også andre der bruger det så så hvis man Sådan ligesom Sådan liste ret hurtigt.
+
+00:39:15
+Det er egnet til kommuneplanlægning. Det er helt oppe i helikopteren. Det opfordres til en tværfaglig dialog på tværs af fagligheder, netop fordi man ikke har behov for den dybe indsigt i nødvendigvis hvor data kommer fra eller hydrodynamisk modeller eller risikobegninger.
+
+00:39:27
+Men man kan stadigvæk få den tværfaglige snakke, men man skal ikke gå ind og bruge det til detailplanlægning. Det er meget væsentligt. Det vil vi ikke opfordre til. Det giver lige et par korte eksempler på anvendelsen.
+
+00:39:40
+Sommeren Det var foråret sidste år. Der var der en motorvej nede ved Svendborg, der så Sådan her ud, og hvis vi går lidt tættere på, så kan i se herovre. Der har vi en en bil, der forsøger at forcere vandmasserne det her.
+
+00:39:51
+Det var en af de situationer, hvor hvor himmelen virkelighed åbnede sig, og hvor kunne man sige jamen, hvad kunne man kunne man have vidst med på forhånd var det noget, man kunne have sagt sig selv? Jamen det kunne man, hvis man havde været inde i kamp for eksempel.
+
+00:40:04
+Her Der er et udsnit dem vi ser. Vi ser hernede for på det blå klat og de 2 streger lytter og streg her. Det er Sådan set motorvejen vi ser herovre og Det er lidt sværere at se, men Vi har nogle blå strømningsveje, hvor ligesom grenene på 1 3 der strømmer ned mod den store oversvømmelse.
+
+00:40:21
+Og Det er selvfølgelig ikke den store dynamiske model og de steder, hvor man har skybrudstundler eller andet, så skal man have det dynamiske værktøj i spil. Men men i institutionen som det her der kunne man godt sige jamen.
+
+00:40:30
+Der er ingen tvivl om, at det Der er land og vandet der vil have landet, og man kan gå ind og bruge sin screenings rapportfunktion, der også er i værktøjet til at sige. Jamen, hvordan ville det have været værre, eller hvordan ville det se ud i fremtiden?
+
+00:40:41
+Man kan se jamen Det var måske de der 78 mm på 3 timer jamen hvordan? Hvad ville det svare til i fremtiden? Så når man får en masse ekstra information som vi ikke ønsker at præsentere på overfladen, fordi det bliver simpelthen for komplekst.
+
+00:40:53
+Det som vi gør i kamp. Nu snakker vi skader risiko for Det er vi tæller op. Vi fortæller, hvor mange bygninger bliver ramt, hvad er det for nogle bygninger, vi bliver ramt?
+
+00:41:00
+Har de kælder, hvis man går ind i rapporten, så får man at vide, at Det er nogle bygninger med en helt særlig skadesprofil. Er det jamen er Det er forsynings er det en forsyningsbygning? Er det en erhvervsbygning og er blevet talt op derinde, så man får en fornemmelse af, hvad er det egentlig, Der er på spil her?
+
+00:41:16
+Man får ikke den samme psykologiske risiko beregning, Det er der ikke. Lagt ind på nuværende tidspunkt, men man får en fornemmelse af.
+
+00:41:22
+Hvad er det Der er på spil? Og så får man et bud på jamen hvad er det Sådan set? Vurderingen er fra en offentlig vurdering, men ikke såvelskadesberegningen et andet eksempel, som Jeg synes Der er væsentligt at få med Det er det med de aktualiseringen.
+
+00:41:35
+Kampen bliver automatisk opdateret. Man skal ikke selv huske det, man skal ikke gå tilbage til et gammelt projekt og sige jamen mine data, de var så gode på det tidspunkt, men men måske er de blevet bedre det her. Det er et eksempel fra Syd i nærmere.
+
+00:41:47
+Retvisende data Det er vigtigt de nyeste data. Sæt den håndhelle, der ligger nu, ser Sådan her ud.
+
+00:41:51
+Hvis vi går en højt mod baglæns, så sover som Sådan her ud altså vi Der er nu 28 bygninger og nu var der 4,5 1000 bygninger oversvømmet her, så det en ting er, at vi sørger for at holde det opdateret, så når der kommer nye data, så er det det nyeste der ligger derinde, men Det kan man være ret sikker på. Men man vil også selv som Kommune kunne gå ind og påvirke resultaterne direkte som andre ser ved at så for at holde det hyldorisk tilpasningsslag.
+
+00:42:16
+Opdateret. Et sidste eksempel ganske kort omkring grundvandet. Det her Det er et område i det nordvestlige nordøst i Odense, hvor man allerede har en udfordring. Kan man sige? Det står ganske højt.
+
+00:42:30
+Det er det nyeste datasæt med 10 x 10 meters opløsning på nationalt niveau, så Det er det bedste, Vi har på nationalt niveau. Nu får vi at vide, hvad Det er, og man kan gå ind og se. Jamen, hvordan ser det så ud over set over et år?
+
+00:42:41
+Jamen 80% af tiden er det altså de her bygninger Der er spil og igen giver det rigtig god mening med kælderen her i forhold til at se, hvem er det særligt som som er udfordret? Så men husk lige.
+
+00:42:53
+Validere i forhold til lokal data inden i går ind og laver detalplanlægning på det. Det er meget vigtigt. Det kan man gøre i nogle databaser, man kan gøre det ved at gå ind og kigge på hitdata eller i private og boringer, så Det er meget væsentligt at have med, men Det er et godt udgangspunkt, og grundigt kommer vi til at høre mere om i fremtiden.
+
+00:43:07
+Det er nok hensigten. Så Det kan vi nu, så hvor er vi så på vej hen jamen.
+
+00:43:15
+Vi har i høj grad brugerfokuseret, så Vi er også interesseret i at høre. Hvad er det for nogle behov, vi hører ude hos kommunerne, og selvfølgelig hører vi noget i Vores daglige arbejde, men vi og i forbindelse med udviklingen havde vi en følgegruppe. Men nu vil vi oprette en ny følgegruppe, og Det kan vi annoncere.
+
+00:43:27
+Vi så her i dag, at hvis Der er nogen, der har en interesse derude i at være med til at forbedre værktøjet eller ser nogle ønsker og behov, jamen, så opretter vi en følgegruppe for primært kommuner, men også andre interesser, som jeg kunne give nogle input ind her.
+
+00:43:39
+Så Det er Det er tanken, så vi vil have en øget fokus på grundvandet, hvor understøt den proces Der er. Jamen i fremtiden. Jamen kunne man forestille sig, der vil være et større behov eller en efterspørgsel på kollektive løsninger?
+
+00:43:50
+Det tror vi, og derfor kommer vi også til at understøtte den proces i kamp i forhold til at udpege områder, hvor kollektive løsninger rent samfundsøkonomisk giver mening at gå ind i. Og ikke mindst så vil vi begynde at give et bud på egentlige skadesestimaler direkte ind i kampforfladen.
+
+00:44:06
+Det har vi været betænkelige for tidligere, fordi noget af det, Vi har fået ros for. Vi har en brugergruppe, Der er delt. Vi har en brugergruppe, Der er delt i forhold til det meget tekniske og det meget brugervenlige, og der tror vi, vi vil finde på, at Vi er ved at finde en god løsning, så vi kan godt kan få det med, uden at vi får gjort det alt for komplekst over interface.
+
+00:44:24
+Så Det er tanken og ikke mindst gratis frit tilgængelig. Bare gå ind og prøv og så kan i tage kontakt med deres spørgsmål. Det var det.
+
+00:44:33
+Yes tak for det malte. Det er jo som altid fantastisk spændende at høre. Du skal lige blive stående 2 sekunder. Og høre, hvad miljøministeriet de har til os og.
+
+00:44:44
+Jeg synes Der er en en du har en meget vigtig funktion, som du faktisk ikke nævnte. Det er tryk på knappen, og så får du en kommunerapport. Ikke det.
+
+00:44:51
+Det er jo altså Det er virkelig guld værd at man kan man får en dokument, en dokumentation af det man har lavet og kan vedlægge sin sagsbehandling. II de udvalgte det nu skal igennem, når man har bestemt sig for at Det er det her vi vi kigger på Det er Det er altså Det er super hurtigt og nemt, og så tænker jeg også at jeres arbejde med grundvand.
+
+00:45:09
+Det er også forudsætningen for, at de andre programmer kan komme videre, fordi at det, Det er ligesom. Staten Det er jer. Det er geos som skal finde sammen om at få det her hip data til at blive til noget som som vi tør stole på.
+
+00:45:23
+Og det vil komme i kamp i første omgang, og så kan de andre lægge sig i slipstrømmen og gøre det gøre det til nogle andre ting. Men men det kommer der fra, så det. Det glæder mig at at det også er det du har med, som det der kommer i fremtiden. Så mange tak for indlægget.
+
+00:45:40
+Og næste og 4 program. Det er counts som præsenteres af jørn bo Nielsen, som er partner ICBMC Group, og nu har jeg været så optaget af, hvor gamle de andre de er. Og her har vi en, som ikke engang er nyfødt endnu, fordi det her program det frigives først den 31.
+
+00:45:57
+I 8. Og Jeg har set, hvor at du har en lille reklame for hvordan man kan komme ind og se release på den på det her program. Så så dem skal vi lige lægge øje, holde øje med, når vi kommer derhen i din præsentation, så værsgo. Ordet er dit.
+
+00:46:13
+Tak lars og tak for meta reklamen her. Det er altid dejligt hvis Der er nogen der understøtter ens proces. Vi kan komme tilbage til lige præcis release workshoppen lidt senere.
+
+00:46:24
+Så som sagt, Der er 9 dage til det her eksisterer. Det vil sige det eksisterer jo, men relesan er så om 9 i dag og hvad er det så karams?
+
+00:46:35
+Ja man kan sige Det er Det er nærmest den overbygning som som malte snakkede om til til kamp. Det er bare risikokort delen, så Det er en en webservice hvor man kan få risikokort for de 3 oversvømmelsestyper nedbør og og hav og fra. Fra vandløb.
+
+00:47:02
+Karms er udviklet i det MHOP projekt, som har kørt over det sidste 1,5 år af 3 partnere. Udover os selv, så er det et andet lille firma, hydroinform, og så et meget større firma, atkins Danmark. Lidt mere specifikt hvad finder man i karms? Ja man finder som sagt risikort og det dækker hele Danmark.
+
+00:47:27
+Vi er i høj opløsning. De er i form af de her forventede årlige skader, som jan også snakkede om. Og kvantificerede i kroner per kvadratmeter per år i den her højere oplysning.
+
+00:47:42
+De dækker som sagt skybrud, så dækker de havvand. Det vil sige kombinationen af stormfloder og vandstandstigning som følge af klimaændringer. Og de dækker oversvømmelser fra vandløb. De dækker så 3 klimahorisonter nutid cirka 2070 og cirka 21 20.
+
+00:48:06
+Og når det gælder nedbør, så dækker de også 2 serviceniveauer 5 år og 10 år. Og en lille ekstra feature er at de her kort, de kan så anvendes gratis af kommuner og forsyninger.
+
+00:48:25
+Hvad bygger det på? Hvad bygger counts på? Jamen det der kamp kommer ind i billedet igen, fordi Det er i meget høj grad de samme data som som dem, der også bliver vist i kamp. Det er oversvømmelseskort, bluesbot kort og så stationære modelresultater.
+
+00:48:42
+I bygningsdatafreds DFI Det er skadekurver, som vi tager fra plask eller fra skadesøkonomi. Så er det højrevandsstatistikker fra DMIS klima atlas. Og så endelig er det vandløbsoversøgelser fra kystdirektoratet.
+
+00:48:58
+Så Det er alt sammen data som man kender, og som er udbredt brugt i Danmark i forvejen og til klimaprojekter. Ikke mindst.
+
+00:49:09
+Hvad gør vi så med de data, vi vi tager oversvømmelseskort for en række gentagelsesperioder. Vi tager værditypekort og skadekurver, så kører vi mænd gennem et værktøj, som vi selv har udviklet. Der hedder yuca, som regner skaderne ud og regner integrerer det op til risikort, og så lægger vi ja risikokort ud for for hele Danmark.
+
+00:49:36
+Yukat bygger på de beregningsmetoder, som vi også har hørt nævnt allerede her i dag, nemlig meto metoderne som er beskrevet i skrift 31 fra spildevandskomenten. En lille detalje som som vi bruger for at gøre det overkommeligt. Det er at.
+
+00:49:54
+Vi gennemfører script skypebrudsberegningerne efter et Netto nedbørsprincip. Det vil sige, vi tager hensyn til nedsivning og til afløbssystemets kapacitet ved at fratrække den regnmængde, som optages den vej, før vi regner oversvømmelseskortet ud.
+
+00:50:16
+Kom så godt til noget og ikke så godt til noget andet og lad os prøve lige at at kigge på hvad hvad vi synes Det er godt at og mindre godt til.
+
+00:50:27
+Som de øvrige værktøjer, der har været nævnt her i dag og skrevet her i dag, så er kamps i høj grad et screeningsværktøj. Det er altså ikke der du skal gå ind og finde svaret på præcis hvor har vi en høj risiko? Hvor kan vi spare en masse penge ved at gå ind og lave klimatilpasning?
+
+00:50:46
+Få en idé om, at Det er de her hot spots Vi skal fokusere på, og så kan du gå ind og kigge nærmere på dem og lave analyser på dem med mere detaljerede værktøjer end carms. Men, Der er en række styrker også.
+
+00:51:01
+Og den en af de største er selvfølgelig Det er komplet. Det dækker hele landet, og det dækker oversvømmelser fra de 3 primære oversvømmelser typer i dag. Gør det efter ens metoder?
+
+00:51:16
+Det er nemt at tilgå brugerinterface og ligner kamps brugerinterface, så Det er uhyre nemt at at gå ind og hente de her kort og man kan også downloade kortene med et tryk på en knap.
+
+00:51:31
+Og så bygger det som sagt på offentlige data og kendte beregningsprincipper, så Der er ikke noget hokus pokus i det nogen steder. Og Det kan godt tåle gentagelse, at det i grundudgaven her, Der er det gratis at anvende for kommuner og forsyninger.
+
+00:51:50
+Men, Der er også nogle begrænsninger i Carlsberg og og den i Vores øjne. Væsentligste begrænsning. Det er netop det her med, at vi bruger stationære, bedragiske stationære modelresultater til oversvømmelseskortene.
+
+00:52:07
+Og det vil sige blues spots. Det vil sige ekstra populationer fra havniveau, og Det er stationære vandløbsberegninger. Det er selvfølgelig godt. Det er dejlig nemt, og det virker hurtigt og så videre. Problemet er det ikke altid er rigtigt. Og.
+
+00:52:24
+Det kunne vi vise dem rigtig mange eksempler på, men vi nøjes med et her. Det er fra en by, der hedder fole nær gram i Vestjylland i Haderslev Kommune.
+
+00:52:35
+De står i juli, der havde de et kæmpe skybrud, faktisk nærmest et rekordagtigt agtigt skybrud. De kalder det syndfloden i fole. I hvert fald de lokale. De målte det til op imod 150 milimeter vand på meget kort tid. Og det førte til oversvømmelser i hele byen. Gaderne var fyldt med vand og.
+
+00:52:58
+75 cm vand hos smeden i hans værksted og så videre og så videre. Værkstedet for smedens værksted ligger hernede et sted. Det vi ser her er så 2 simuleringer af den hændelse, det ene en blusspotkort.
+
+00:53:14
+Så der virker blusspotkortet måske ikke helt så godt som det gjorde i malthe Svendborg eksempel, men fordi Der er ikke meget vand her. Det andet det med en dynamisk model. Der er en amackuty, en model vi selv har udviklet.
+
+00:53:26
+Og der får vi faktisk lidt mere end 75 cm hos smeden, så måske har der enten regner vi ikke helt rigtigt eller også så har der kun været 120 mm i stedet for 150 milimeter regn i den her hændelse. Men. Hvorfor er der så stor forskel?
+
+00:53:44
+Det er egentlig ikke så svært at forklare, fordi med med stationære en stationær model, hvis Der er et hul ud som vandet kan løbe ud af, så løber du ud og det du ser. Det er det vand, der bliver liggende i lagningerne rundt omkring. Det er ikke det vand Der er på vej igennem og på vej ud.
+
+00:54:00
+Det er væk den stationære model. En dynamisk model derimod. Jamen der får du hele backwater effekten hele opstunningen bag forhindringerne i foleack løber der en lille bæk igennem byen. Den har nogle vejunderføringer.
+
+00:54:16
+Og det vand, der faldt sidst i juli. Det kunne på ingen måde komme igennem de underføringer på< 12 timer eller noget, der lignede det, så der gik tid, og den dynamiske model viser også, at vandet kommer selvfølgelig igennem, men den viser så også hvor det ligger i mellemtiden.
+
+00:54:32
+Og i tilfælde af foged Der er det i hvert fald et bedre resultat.
+
+00:54:38
+Så derfor så er karls også forberedt til at kunne anvendes med risikokort baseret på dynamiske modelberegninger. Det vi ser til højre her. Det er et eksempel på en dynamisk model beregning for hele Skanderborg Kommune for 30 mm nedbør.
+
+00:54:57
+I øjeblikket i gang med at køre et antal scenarier årtier op til 70 mm i Skanderborg Kommune og lave oversvømmelseskort, som så i øvrigt skal ind i skadesøkonomi og regnes videre i skadesøkonomi bagefter. Så det vi Vi har forberedt kampens til.
+
+00:55:15
+Og Vi har også med støtte fra innovationsfonden snart klar med en enkelt, intuitiv og ikke mindst billig service til at lave dynamiske skybrudsimuleringer, fordi vi tror faktisk, Det er den vej, man er nødt til at gå i længden.
+
+00:55:35
+Som sagt, carls er næsten nyfødt den 31. August klokken 10-11 30. Der holder vi et webinar, som fokuserer på detaljerne i karms og om planerne fremadrettet med carls.
+
+00:55:50
+Rigtig mange af jer derude er allerede inviteret og har allerede tilmeldt jer det webinar. Men hvis i ikke er inviteret og skulle få lyst til at deltage, så skriv lige en besked på info at CBMC Group dot com så skal jeg sørge for at i kommer med på teams invitationen.
+
+00:56:11
+Det tror jeg var det for nu. Tak for nu.
+
+00:56:15
+Mange tak. Det var det, tror jeg faktisk er. Det er det mest illustrative eksempel Jeg har set på forskellen på stationær og dynamisk oversvømmelser. Det det det, Det er virkelig noget, der taler for sig selv.
+
+00:56:28
+Det der, når man forstår hvad er det for nogle dynamikker Vi har, og man kan tage med sig i sine overvejelser, når man skal vælge programmer. Og så glæder jeg mig til den 31., så Jeg kan få lov til at trykke på knapperne og se hvordan det går med mit hus i Roskilde.
+
+00:56:41
+Om Det kan holde sig tørt når når når syndfloden kommer. Så mange tak for nu, og vi ses igen lidt senere. Feffen.
+
+00:56:51
+Ja, Vi har jo gjort det, og Vi har fået optaget det her webinar. Det bliver tilgængeligt på KLS hjemmeside. I morgen vil jeg tro og også på DNG ks hjemmeside og ligeledes powerpoint præsentationer vil jeg også blive tilgængelig på DN ks hjemmeside.
+
+00:57:05
+Men Jeg har faktisk siddet herude bagved, mens udsendelsen har kørt det. Jeg har fået en del mails om de her powerpoint som det jeg gør. Det er jeg sender simpelthen link ud, og jeg sender de 4 præsentationer ud til jer i morgen.
+
+00:57:17
+Når Vi har det hele samlet. Vi skal have en lille pause. 10 minutters pause fra nu. Så Det er kl. 03:07 10 minutter over kl. 03:10, siger Lars vi tager kl. 03:10, og der skal vi have en paneldebat, så Vi skal lige have de her folk samlet sammen og have dem sat ind foran.
+
+00:57:40
+Scenen her lars han vil være moderator på det, og Vi har sammen skrevet en række spørgsmål, som vi vil prøve og ikke bare få svar på, men også få få op de 4 oplægsholdere til at diskutere, så det ser vi meget frem til.
+
+00:57:54
+Så 10 minutters pause fra nu. Det gælder også jer. Kom tilbage om 10 minutter. Mange tak og rigtig hjertelig. Velkommen tilbage fra pausen. Og. I den første time, der fik i jo lov at høre om 4 rimeligt forskellige programmer fra 4 mænd i rimelig ens blå skjorter.
+
+00:58:17
+De har simpelthen ikke gjort, hvad Vi har bedt dem om, nemlig tage noget TV og venligt tøj på og så tak for det og så må i undskylde at i kom til at se så ens ud. Det er Det er. Det er noget Vi har bedt dem om at gøre, og så har jeg faktisk 1 1 1 ting som jeg lige kom til at reflektere over også sammen med de 4 herrer.
+
+00:58:36
+Vi har så mange dygtige kvindelige hydraulikere og planlæggere, klimatilpasningsmedarbejdere derude. Næste gang der ligger jeg altså mig selv på sinde. Vi skal have nogle kvinder i studiet, så Det er en lovning herfra.
+
+00:58:51
+Vi har hørt om de forskellige programmer, Vi har set, at Der er mange forskellige muligheder og og også mange forskellige retninger, som de udvikler sig i. Og Jeg synes bare, at Det er helt fantastisk vildt at forestille sig, at Det er 550 dage siden.
+
+00:59:05
+At vi havde det her TKV seminar altså 0 6 1 hvor vi præsenterede. Resultaterne af 1 3 4 års udviklingsarbejde omkring data. Der hørte vi en kamp for første gang, og så er der sket så meget lige siden.
+
+00:59:20
+Det. Det er heldigvis et område, hvor hvor de faglige interesser de driver 1 1 1 udvikling som er helt vild, og hvis Der er nogen der tænker gud Det har jeg aldrig hørt om, så er det faktisk ikke så mærkeligt, fordi Det er temmelig nyt.
+
+00:59:40
+Det er dejligt, virkelig dejligt når Sådan noget sker. Steffen og jeg Vi har forberedt nogle.
+
+00:59:45
+Spørgsmål til jer, og de kommer Sådan lidt i forskellige flyvehøjder starter ligesom dejligt oppe i helikopteren og prøver at Sådan at at danne os nogle lidt større overblikket, så kommer vi ned i noget kommunalt perspektiv og noget regulært regulatorisk perspektiv. Og så kommer vi til sidst lidt tættere på data, så.
+
+01:00:07
+Vi kommer, kommer lidt rundt omkring og. Mit første spørgsmål, det bygger jo så simpelthen på den antagelse, at når Vi skal have et risikabillede, så skal vi have styr på Vores, som vi vi nå på den antagelse at for at kunne træffe gode beslutninger, så skal man have et risikort. Så helt overordnet.
+
+01:00:30
+Hvad? Hvad vil i svare til og de de? De omkostninger i når frem til. Er er det svarer de nogenlunde til det. Det koster i virkelighedens verden. Nogen der? Ja bo.
+
+01:00:48
+Jamen Jeg har tør godt give et bud og og og. Sige at det, det gør det nogle gange. Det gør det ikke altid.
+
+01:00:55
+Jeg tror også jeg fik sagt at at man skal ikke tage de der hotspots man man man beregner i sin risikort for gode varer i sig selv. Man skal ind og kigge på detaljerne. Altså Det kan være at en bygning det i virkeligheden er en silo, som overhovedet ikke bliver beskadiget, fordi Der er 30 cm vand langs.
+
+01:01:12
+Fundamentet. Jamen og den klinger ud med et stort beløb, fordi Det er en standardberegning man kører. Der er mange andre muligheder for at at at at få nogle ikke nøjagtige resultater, så man skal ud og kigge på de enkelte hot spots, før man begynder at lave detailplaner.
+
+01:01:32
+Og så hænger der selvfølgelig at gøre med sammen med med den datakvalitet man har.
+
+01:01:38
+Ikke.
+
+01:01:39
+Mindst på Aarhus tilskortene.
+
+01:01:41
+Hvis man supplerer Jeg er helt enig altså man skal jo og det tror jeg også altså. Vi skal også huske hvad er det for et niveau Vi er på fordi vi du kan jo godt have en risikokortlægning, hvor du siger jamen jeg sidder på planlægningsniveau, jeg skal se hvor er det, Jeg har min største risiko end rent økonomisk, og jeg skal prioritere noget over noget andet, men er det på det samme niveau vi sidder og argumenterer for Vi skal opfylde en eller 2 serviceniveaubekendtgørelse beregning til hvad forsyningsselskabet må finansiere overforsyningsekretariatet ikke altså Det er lidt nogle forskellige opgaver, den ene er en planlægningsopgave, hvor man skal prioritere noget over noget andet ud.
+
+01:02:12
+Økonomandsynligt og den 2 er at man skal leve op til nogle formelle krav til til en bekendtgørelse helt nede i detaljen. Ikke så så Det er lidt hvad for et niveau er vi på ikke og der tror jeg Jeg tror faktisk du startede hele showet. Vi skal til at kalde det det med at sige jamen det rigtige værktøj til det rigtige tidspunkt og det synes jeg passer meget godt til til det du siger med i forhold til det sigeringsgraden.
+
+01:02:30
+For beregningerne skal også svare til det du skal bruge det til det tror Jeg er meget vigtigt pointe.
+
+01:02:36
+Hvis jeg må supplere hjem, så så er der så det der tæller den 2 vej. Det er at mange af de beregninger du laver Det er jo netop sammenlignende beregninger. Det er relativt beregninger og Der er værktøjerne nok alt andet lige noget mere pålidelige.
+
+01:02:51
+Det er nemmere at sammenligne resultater for forskellige scenarier og og og have en tro på at at sammenligningerne er fornuftige.
+
+01:03:01
+Ja. Det. Det synes jeg.
+
+01:03:06
+Ja, men jeg tænker måske også lidt i samme boldgade, men måske sat lidt mere på spidsen. Så tror jeg mit svar vil være nej altså vi. Jeg tror ikke at vi rammer skaderne særligt præcist.
+
+01:03:15
+Og det altså delvist grundet at at de oversvømmelser, korte eller farekort vi smider ind. Nej, Vi er meget usikre på i hvert fald på altså på gentagelsesperioden også på kvaliteten af om reelt de oversvømmelser eller de områder om de bliver oversvømmet. Og Det er der, hvor at som vi også har talt om.
+
+01:03:33
+Inden vi kom herind. Jamen det giver mening at få den her lokale erfaring med ind i spil for ligesom at verificere om det som mit oversvømmelseskort og min skadesberegning siger, passer det nu også i virkeligheden.
+
+01:03:44
+Så Jeg tror måske den eneste ting, Vi er helt sikker på Det er nej. Vi rammer nok ikke særlig præcist, men så vi også var inde på jamen altså relativt set at kunne udpege hotspotsene. Det er måske der om det så lige er 10 mio. eller 20 mio. eller 5 mio. Skaden er altså det.
+
+01:03:59
+Det tror jeg ikke Der er nogen af os der der lige måske rammer særlig rigtigt på.
+
+01:04:05
+Vi har en en rapport fra DTU som er lavet til miljøministeriet, som siger, at Vi har ikke voldsomt mange videnskabelige undersøgelser, som ligesom dokumenterer skades omfanget. Og Det er selvfølgelig en en.
+
+01:04:19
+En en ting, som giver usikkerhed i beregningerne på den 2 side, så sagde jeg jo indledningsvist, at Vi har øvet os i at lave hydrauliske beregninger i mange år. Har har i nogen Sådan fornemmelse af, altså hvor hvor er usikkerheden egentlig størst? Hvad er det der, der giver os fejl i Vores beregninger?
+
+01:04:34
+Er det fordi vi ikke ved hvad det koster, eller fordi vi alligevel ikke ved hvor vand løber hen? Igen.
+
+01:04:39
+Det er jo begge dele.
+
+01:04:39
+Det er begge dele.
+
+01:04:41
+Amen sandheden er jo, at Der er en myriade af af forskellige usikkerhedskilder i det her beregninger.
+
+01:04:48
+Og Jeg synes jo også Det er vigtigt at man hele tiden igen. Det kommer an på formålet, men hvis det handler om at man har et klimatilpasningsprojekt og så fra starten og får lavet den konspænefitanalyse, så man ligesom kan få den der vurdering af, hvorvidt det her kan betale sig eller ej.
+
+01:05:04
+Og så kan man godt starte på et screenings niveau, og hvis det står der allerede viser sig jamen det. Det er jo fuldstændig givet at det her Det er en rigtig god business case, at vi laver klimatilpasning.
+
+01:05:14
+Jamen, så behøver man jo ikke og lave supplerende yderligere dataindsamling, hvis Det er det det handler om. Det synes Jeg er en væsentlig pointe. Man får de der følsomhedsanalyser med tidligt. II arbejde så man ikke jagter data, så man ikke er nødvendig for at få det svar man gerne vil have.
+
+01:05:31
+Om, Der er samfundsøkonomisk hensigtsmæssighed.
+
+01:05:35
+Og de følelserhedsanalyser, og Det er nogle af dem, der kommer af bekendtgørelsen, altså det den kræver.
+
+01:05:39
+Ja det gør den jo faktisk et minimum af af følsomhedsanalyse på resultatet, så man kan se hvor robust Det er.
+
+01:05:49
+Så hvis man vil have en idé om, hvad det egentlig er, vi taler om, og vi taler følsomhedsanalyse, så kunne man læse lidt i bekendtgørelsen og se, hvad Det er, der bliver krævet der.
+
+01:05:57
+Ja Det er Det er rigtigt.
+
+01:06:00
+Og så tror jeg så tror jeg også at vi jo en ting er de her samsøkonomiske beregner og hydrauliske beregninger Vi har gjort i mange år men men også altså de her klimafremskrivninger Vi er bare. Det er bare en usikkerhed. Usikker fremtid vi vi kigger ind i, så Vi skal kunne navigere IE usikkerhederne og stadig træffe beslutninger, så når vi sidder og siger nej nej ja, vi ved ikke helt om vi kan få den, får den helt rigtige resultat.
+
+01:06:19
+Nej, men vi bliver nødt til at træffe beslutninger alligevel.
+
+01:06:22
+Så Vi skal kunne navigere i de usikkerheder, Der er være bevidste omkring, hvor de største usikkerheder er henne og så prøve at gøre dem mindre. Selvfølgelig så vi stadig får truffet beslutninger og får noget fremdrift i at få taget tilpasningen, for det tager bare tid. Og jamen altså klimaet skal nok komme alligevel, så Jeg tror ikke man skal så der.
+
+01:06:39
+Altså vi kan altid bruge flere data. Vi kan altid få bedre data, men det betyder ikke nødvendigt. Man skal sidde på hænderne. Det vil i hvert fald ikke være Vores anbefaling.
+
+01:06:46
+Jeg tror måske også en af af de konklusioner, som Vi har gjort os, når Vi har arbejdet med kommunerne. Det er at at i forhold til om om usikkerheden er størst på skadesdata eller eller oversvømskordning. Jamen, det afhænger altså helt utroligt meget af, om man bruger de bedst tilgængelige metoder, eller om man bruger noget Der er næstbedst eller 3 bedst og får kan man altså få vidt forskellige resultater.
+
+01:07:07
+Og Jeg tror helt den store udfordring i hvert fald på oversvømmels kortningsdelen. Det er at. Det kan godt være at Vi har nogle metoder, som er tilstrækkelige. Men dem der skal bruge de metoder. De har måske ikke adgang til dem i det omfang, Der er brug for det og er i stand til at anvende den.
+
+01:07:25
+Så Jeg tror lige så meget. Det er et spørgsmål om at få den viden, Vi har ud til dem, der rent faktisk kan bruge den og så måske få lidt kompetenceopbygning. Sådan så at man man har en ide om hvad man får når man gør det ene kontra det andet. Altså lidt a la det her webinar også forsøger på.
+
+01:07:41
+Jeg.
+
+01:07:42
+Vil sige noget af det som nu, som du selv siger. Der er jo ikke gået ret lang tid med den her udvikling. Det vil sige alle vi, der sidder og udvikler. Vi er faktisk også nået at blive temmelig meget klogere undervejs af de fejl, vi selv har lavet primært.
+
+01:07:56
+En af de ting, som Jeg synes, at Vi er blevet klogere på. Det er, at Det er det her bluesbot kontra dynamisk modellering. Vi kommer sikkert tilbage til lidt senere.
+
+01:08:05
+Men at Der er simpelthen nogle systematiske fejl ved at bruge blu-spots, når man laver klimafremskrivninger, fordi hvis oversvømmelsesudbredelsen ikke bliver større. Når du putter mere vand på jamen, så bliver skaderne heller ikke større. Og så vil du få at vide, at når klimaet kan udvikle sig lige så tosset det vil der bliver ikke større skader af den grund.
+
+01:08:23
+Det Det er en systematisk fejl som som man lige skal være opmærksom på i hvert fald.
+
+01:08:27
+Så mens Der er mens Vi har 100 mennesker eller Sådan noget, der lytter på os og kl og det hele til stede, kunne vi så ikke blive enige om, at det ville være superlækkert, hvis vi kunne sammen overtale forsikrings forsikring og pension til at stille nogle forsikringsdata til rådighed, Sådan at vi kunne også blive klogere ved at kalibrere og validere op imod skadesdata, som er virkelige data her? De har gjort det i en i en kort overgang sendt nogle data. Vi har været fået fat i nogle data vi kunne bruge.
+
+01:08:58
+Enkelte kalibrering. Men det det ville være så meget bedre, hvis vi havde 100 gange så mange data og Det har dem. De er bare bange for GD, pærer og så videre og så videre, så så så nogle skal hjælpe dem i den proces.
+
+01:09:10
+Valgte, hvis du vil hjælpe dem.
+
+01:09:12
+Nogen vil gerne hjælpe dem, og Der er faktisk altså der der bliver talt med forsikringspensioner også bag om døren og Der er bliver arbejdet på en løsning så men men altså man kan sige det Der er svært Det er.
+
+01:09:24
+Jeg kan nu huske, at jeg sad også med de data til for nogle år tilbage, og spørgsmålet er, hvor hvor langt ned kan vi få dem? Kan vi få dem? Giver lokaliseret, kan vi ikke få dem give lokaliseret?
+
+01:09:31
+Kan vi få dem, skal det være på kommunen, skal det være på en kategori, og skal det være i, hvor tæt kan vi gå på? Men men Det er en problematik, vi også er opmærksomme på og arbejder på så, men Det er jeg egentlig helt enig.
+
+01:09:44
+Så blander jeg mig lige med mit eget lille forslag til hvad jeg gerne gerne ville have. Vi kunne blive enige om Det er at vi får oprettet en taskforce af nogle forsyninger og nogle kommuner og noget stat som er klar når vi får et skybrud og kommer ud. Altså jamen fordi Der er rigtig mange af de her skader som ikke bliver registreret fordi Det er også lige meget.
+
+01:10:04
+Det bliver bare vådt eller vi får alligevel ikke noget fra forsikringen eller.
+
+01:10:08
+Whatever så vi kan komme ud i området, når Det er der eller lige efter Det har været der og sige til folk hvad. Hvad gik egentlig i stykker da det regnede eller en oversvømmelse, altså en stormflod og Sådan noget, men at Vi har er klar med det her beredskab med nogle studenter der kan komme ud og lave nogle nogle interviews. Det tror jeg på ville flytte Vores forståelse og Vores viden om hvad er det der går i stykker.
+
+01:10:31
+Der Der er jo en Der er undskyld ja Der er jo ingen tvivl om at at Der er et skyggetal altså Det er klart det. Det hvor Vi har empiriske værdier på Det er at når folk ringer og siger Jeg har haft en skade og Der er jo også jamen så kan vi pege tilbage på jer altså kommunerne i er jo også selvforsikrede i kommunerne, så så så i har jo heller ikke indberettet. Tænker jeg alle her skader på kommunale bygninger til til forsikringsselskaberne, så så så der kunne man også måske begynde at samle op og registrere samfang fordi, men Det er væsentlige data uden tvivl om det.
+
+01:10:58
+Der er så.
+
+01:10:58
+Mange gode data i Danmark, så Vi har en unik mulighed for at være og blive ved med at være nummer et på det her felt her fremover, især hvis vi kunne få adgang til Sådan nogle data. Det er jeg helt enig i din ide der også.
+
+01:11:12
+Men når vi så lige kommer over på på den kommunale banehalvdel her, så så tænker jeg på har i mødt nogle gode måder, hvorpå kommunerne kan organisere sig og holde fast? Altså man får lavet en rapport og en undersøgelse hos en rådgiver. Det har vi prøvet rigtig mange af os gennem tiderne, men hvordan holder man fast i det her?
+
+01:11:32
+Altså den viden man ofte bygger og den altså den indsats der skal til fordi. Vi ved jo alle sammen, at politikerne er valgt for 4 år. Og det her. Det har bare 100 års horisont. Har har i mødt nogle gode eksempler på, hvordan man holder fast i det. Jan.
+
+01:11:50
+Jamen, Der er jo serviceniveau bekendtgørelsen, der ligesom angiver en metode for, hvordan man skal regne på på samfundsøkonomi og og serviceniveauer. Og det bliver jo forankret i spildevandsplanen, så Der er jo 1 1 1 ramme for hvordan man skal gøre det på den måde.
+
+01:12:06
+Så er det jo lovfæstet, kan man sige. Så Det er jo også det vi anbefaler, når vi hjælper kommunerne med at lave spildevandsplaner jamen så få skrevet lidt mere til hvordan i vil arbejde med det her. Og hvordan er rollefordelingen mellem kommuner og Forsyning og så videre og så videre.
+
+01:12:20
+Ja Det er jo en måde at at forandre det på.
+
+01:12:22
+Absolut ja malte først så drift.
+
+01:12:26
+Jamen også altså forsøge at fange den organisatoriske vil jeg nok prøve, at i den planlægning man laver ret altså. Så siger du selvfølgelig risikoen jo helt nede. Eller vil du opfylde lovkravene og alt det der endelig, men også altså.
+
+01:12:37
+Vejfolkene, de er meget vant til, de kommer først, så skal der lægges nogle veje, og de kan både køre op og ned af bakkerne. Men men vandet. Det løber altså kun ned ad bakkerne, så det man burde Sådan set tænke vandet først.
+
+01:12:45
+Så når man laver den planlægning, så det med at have de der store vandhåndteringsplaner og og og få gjort plads til nogle vandkorridorer og få tænkt det ind i de store streger og planer i byplanlægningen. Tidligt det og og få det forankret organisatoriske kommuner, så det ligger derinde, når nogen skal begynde at pille ved noget. Jeg der var det hvor du er lige i nærheden af en stor vandkorridor her.
+
+01:13:04
+Det er rigtig, rigtig vigtigt, og Der er nogle gode eksempler på det rundt omkring hvor det lykkes.
+
+01:13:09
+Hov.
+
+01:13:10
+Jamen altså. Vi har også set nogle gode eksempler på hvor hvor det lykkedes i hvert fald for en tid. De kunne 2020 har jo været 1 1 1 1 fremragende instrument til at få det til at lykkes nogen steder andre steder har man.
+
+01:13:25
+Måske være lidt mere hurtig til at klare det med, at de forhenværende søm men men men det hænger det hænger jo lidt desværre på nogle enkelte medarbejdere med med stor ildhu og og og engagement i det. Og jeg kunne godt frygte, at når det kunne 2020 er overstået, jamen så bliver de.
+
+01:13:45
+Sat til noget helt andet og. Kan forhåbentlig få noget ud af deres engagement, der også men men den viden Der er bygget op IDK 2020 den den tror jeg man skal forsøge fra KL side og understøtte at den bliver bliver forankret og bevaret i systemet.
+
+01:14:02
+Det er taget til mig. Når når når man når man står med jeres beregninger, så.
+
+01:14:13
+Så er det. Det er klart at at man man skal kigge ud af vinduet og sige, kan det virkelig passe at der skulle være vand på græsplænen? Det har der aldrig været, men men har i nogen altså kunne man forestille sig at man lavede 2 uafhængige beregninger eller noget med nogle usikkerheder som jan snakkede om der hvordan kvalitetssikrer man og holder fast i at at at det skal være så retvisende som muligt?
+
+01:14:37
+Ja altså jeg ved ikke om jeg om Jeg vil anbefale man laver 2 separate beregninger det Det er rimelig omfattende beregninger hvis man skal gøre det grundigt. Jeg tænker det her realitetstjek er med at man har en en måske en erfaren medarbejder III kommunen og og får ændret de relevante kompetencer og den relevante erfaring til ligesom at sige hej passer det her faktisk altså nu har vi fået lavet den her flotte analyse fra os eller fra 9 os eller gode hvem der nu laver Sådan noget.
+
+01:15:03
+Og de viser at Vi har et stort problem om 50 år i det område her. Giver det mening? Og der der sidder viden altså den er altså ude hos kommunerne. Den sidder ikke hjemme hos mig bag mit skrivebord omkring hvordan man erfaringsmæssigt har har oplevet de her ting.
+
+01:15:19
+Om det gav mening og og så både lave en beregning kamp om altså med Vores allesammens værktøjer. Og så ville man nå frem til jamen den ene siger 100 mio. og den 2 siger 150 den 3 siger halv 50.
+
+01:15:31
+Og få udpeget 3 forskellige områder som hotspot. Jamen, hvordan skal man så navigere det? Jeg tror Jeg tror måske det bare bliver lidt sværere at navigere i måske altså.
+
+01:15:41
+Så Vi er tilbage ved at vælge det. Det program, som passer bedst til spørgsmål.
+
+01:15:45
+Ja og måske få det få det realitetstjek på en 2 måde end at bare tage et andet værktøj.
+
+01:15:50
+Ja alle modeller som bekendt forkert er det ikke Sådan Det er.
+
+01:15:54
+Og Det er. Jeg tror også på den der med realitetstjekket at man at man kan lave den der ensartede screening og prioritering af af kommunen allerførst og så så får man prioriteret de vandafladninger og projekter, hvor det giver mening at arbejde videre. Og som sagt, jeg ved ikke kun klimatilpasningsbehovet, Det kan være man skal lave en ny en ny vej der går igennem området.
+
+01:16:13
+Jamen så er det jo relevant at tage tage klimatilpasningen op, og Det er så der man kan lave realitets cækket og og gå ind og se på også. Jamen hvilke bygninger, hvilke områder er det der bidrager meget til skaden? Skal vi gå ud og besigtige, hvor hvor? Hvor sårbart er det egentlig i virkeligheden?
+
+01:16:31
+Og så kan man gå ind og og justere skadesberegningen efterfølgende.
+
+01:16:34
+Måske bare lige for at slå per altså Det er jo ikke Sådan. Så når når Vi har hjulpet nogle kommuner med beregninger, altså at det kommer som en overraskelse, at Det er de områder, som vi udpeger det ved de jo godt altså III store træk. Det kan godt være 100 årsendelsen om 100 år, at de ikke lige har styr på hvor den eventuelt befinder sig henne, men de har jo styr på i de fleste tilfælde hvor deres problemer er.
+
+01:16:54
+At de så i måske ikke kender størrelsesordenen, og hvor meget man måske bør være villig til, ligesom at bruge til at beskytte det. Det er måske så en 2 snak, men de har godt styr på. De fleste kommuner er mit indtryk, hvor problemerne i hvert fald er i store træk.
+
+01:17:10
+Ja jeg var lidt inde på altså noget af det der jo optager rigtig mange af kommunerne. Det er jo Det var det højtstående grundvand også som som kun er på vej. Altså tror i vi bliver indenfor et par år bliver meget bedre til det altså jeg ved jo i allesammen har har rørt ved det i jeres program og tænkt Søren skal vi lige regne?
+
+01:17:30
+Det er jo lidt en 2 form for hændelse end det vi ellers ser og Sådan noget. Altså har i en fornemmelse af at kommunerne ville kunne bruge højtstående grundvand til noget planlægning inden for en årrække på 2. Måske hov.
+
+01:17:43
+Jamen, Det er jeg sikker på at vi at man kan, fordi Der er jo kommet de de rapporter nu som som er tilstrækkelige til at man kan lave beregningsprogrammerne til også at regne på. Risiko der.
+
+01:17:57
+Og så sige, at man skal jo så være klar over at usikkerhederne, når det gælder grundvandet, er nok endnu> når det gælder de øvrige. Standarder om jeg så må sige ja. Og hvis man forsøger at kigge på.
+
+01:18:12
+På altså de data der ligger til grund der der ligger et eller andet 17 1920 klimamodeller og de peger jo i øst og vest. Når specielt når det gælder grundværende. Så man skal man skal gøre det bedste man kan nu, og så skal man være klar til at kigge på det igen om 5 år når vi når vi ved lidt mere.
+
+01:18:33
+Okay.
+
+01:18:35
+Jamen Jeg tror der Der er stadig en del usikkerhed på på selve metoden. Altså hvordan man skal regne på de her skader. Som følge af grundvandet er det en diskret hændelse eller er det ikke og Sådan noget og det Det kan være altafgørende for hvordan man. Man regner på tingene.
+
+01:18:50
+Men igen vil jeg påpege at at det her med at inddrage consanalysen tidligt.
+
+01:18:55
+Og så prøve at se på Det er træskoene og se det her ud til at at være en god business case eller ej. Uagtet hvordan man så præcist regner på på skaderne som følge af højtstående grundvand. Det det tænker jeg kunne være en vej for ligesom at at få nogle svar. Ja.
+
+01:19:10
+Ja jamen jeg Jeg er måske så lidt mere pessimistisk i forhold til at Det er noget Der er er lige på trapperne som værende er tilsvarende kvalitet som de andre oversvømmetyper, og Det er både det, når jeg sidder og kigger på data også det at høre fra for dem der har har lavet det data Der er tilgængelige, også når man kigger på opløsningen af data og skulle sidde med 100 x 100 meters celler eller 10 x 10 m og så udpege enkeltbygninger. Altså man man vil i hvert fald skulle gribe det måske an på en lidt anderledes måde end at sige jamen den bygning og den bygning.
+
+01:19:39
+Så Jeg tror det vil kræve en 2 tilgang og altså hvad jeg hører, så indtil videre er der ikke nogen af dem der udarbejder de her datasæt som vil eller tør stå på mål for at de bliver anvendt på på den samme altså detaljerede måde, men Der er jo blevet uddelt eller nogle penge til at at videreudvikle på det område til nogle forskellige aktører, så man kan jo håbe at der kommer noget bedre inden for en årrække.
+
+01:20:02
+Vent.
+
+01:20:03
+Jo, men man kan sige at som skal reguleren jo også lige følge med. I dag er det jo den enkelte boligejer der tager grundvandet på skulderen. Ikke altså vi vi forventer og tror på der vil komme en konto løsning på sigt, men Jeg er jo helt enig.
+
+01:20:14
+Altså en Sådan regulering hvor hvor jeg også tager højde for den store usikkerhed Der er, og man kan vel ikke altså serviceniveauet for dit grundvand er 12 år altså det giver ingen mening altså det det gør det ikke altså Det kan vi ikke så så jeg håber at.
+
+01:20:27
+Når når vist en Sådan regulering kommer på et tidspunkt, så er det en lidt andet.
+
+01:20:32
+Det sigeringsgrad, vi arbejder med der altså er det her et område, hvor det samme, hvis nogen måske giver mening at give sig kast med en kollektiv løsning, for eksempel lægge et træet rør. Det kan vi godt komme frem til. Det kan vi godt komme frem til i dag og og lige om lidt, som du siger ikke det tror jeg mere på.
+
+01:20:49
+Det er Det er et stykke lovarbejde, vi alle sammen glæder os til, at der der kan blive taget beslutning om. Men det kræver selvfølgelig et et folketing et enigt folketing, som som som vil vil tage de beslutninger, der skal til der.
+
+01:21:04
+Nu har jeg jo sagt flere gange det her med jamen Det er ikke en konkurrence mellem 4 programmer eller endnu flere programmer. Det Det er et spørgsmål om at vælge det rigtige til det rigtige spørgsmål, men selv når man så har valgt det rigtige, så er der jo nogen der siger, kunne vi så ikke få en form for certificering?
+
+01:21:22
+Eller en bekendtgørelse som siger Det er de her data i må bruge. Det er de her scenarier, der skal i spil. Man gør Sådan og Sådan. Jeg synes sit Det er vejen frem for de programmer i har der, at at der faktisk var en certificering. Bo.
+
+01:21:42
+Jamen altså, Jeg vil klart melde mig på banen som modstander af af certificering. Det vil dræbe alt fremtidige innovation, tror jeg, hvis man prøver at certificere beregningsprogrammer. Det er jo en tanke der ikke er ny.
+
+01:21:56
+Den har jo været der inden for hydraulisk modellering og inden for en hel masse andre typer af modellering gennem årene. Og Jeg tror al erfaring viser, at Det kan bedre betale sig at.
+
+01:22:09
+At Der er noget sund konkurrence, og at det tvinger hinanden til at blive bedre hele tiden. Og den forbedring den den den skriver man ud. Hvis man hvis man laver en certificeringsordning, fordi så bliver det firkantet og det det tager lang tid at ændre.
+
+01:22:25
+Det er jo højt. Der var ikke kommet 4 nye programmer på 1,5 år.
+
+01:22:28
+Det var der i hvert fald nej.
+
+01:22:30
+Valgte nej, men jeg. Jeg er i virkeligheden led i samme boldgade, der ikke altså pas på man ønsker sig i den sammenhæng. I får fordi godt nok altså staten er en mastodont og så hurtigt reagerer de ikke, og vi ikke altid i den sammenhæng vel så nej måske ikke certificering på programmer, men men dog tror jeg stadigvæk Der er mulighed for forbedring i forhold til noget vejledning, i hvert fald nogle nogle om Sådan noget ensretning i forhold til nogle af de metoder og nogle de beregningsmetoder vi anvender.
+
+01:22:53
+Altså er der noget med dybde kurver hvor vi skulle prøve at sige det her? Det er den vi.
+
+01:22:56
+På i udgangspunktet er der nogle af de her skadesilgange, vi regner på, at Det er en celle, eller er det en perimeterværdi i for os? Altså Der er en masse af de her beregningstekniske ting, som vi godt kan sige. Vi anbefaler, man gør Sådan her, og så kan programmerne så selv implementere det som de vil, men men at gå ud og certificer de enkelte programmer, tror jeg også ville være voldsomt omkostning tungt i forhold til gevinsten.
+
+01:23:15
+Det kan jeg ikke rigtigt se skulle være hensigtsmæssigtsmæssigt.
+
+01:23:22
+Så kommer vi lidt til dataene. Hvad er det, hvad hvad? Hvor er hvor ser i hullerne i Vores data? Jeg har jo selv været plæderet for i flere sammenhænge, at Vi har data nok. Vi har brug for at bruge dem i stedet for, men ikke desto mindre kan man jo godt spørge, altså når i sidder og hjælper.
+
+01:23:39
+Kommuner og andre med at regne. Hvad er det for nogle data, Der er sværest at få fat i per?
+
+01:23:45
+Jamen Det er uden tvivl de gode oversvømmelserskort altså der hvor der har været en kloakmodel og du har en dynamisk overflade og og lige nu, der ligger modellerne typisk hos forsyningsselskaberne måske også hos nogle rådgivere og få og få dem i spil i større grad og få resultatet af kørsler med de modeller ud til kommunerne eller at få kommunerne og forsyningsselskaberne til.
+
+01:24:10
+I måske i større grad til at samarbejde omkring de her ting, fordi altså Jeg tror på det område Der er der har vi der har vi så god data som vi nu har, men meget af det. Det ligger ligesom og ikke bliver ikke anvendt, fordi så kommer der måske en Kommune og siger kan jeg få sygeselskab? Vil i ikke godt lave nogle oversvømskort til os og Vi skal være færdig med Vores projekt om om 2 måneder og så siger cykelskabet vi kan have et kort klar om.
+
+01:24:36
+2 måneder. Jamen Vi skal bruge 10 kort og så du ved så og så gør kommunen det som kommunen gør. Jamen så løser de opgaven på en 2 måde ved brug af simple data.
+
+01:24:52
+Jeg vil sige jeg. Jeg tror der kommer udviklinger der på på på det område, der så dynamisk modellering bliver nemmere og billigere også. Men forudsætningen for at det virkelig kan bryde igennem Det er at at der kommer lidt mere fokus på det såkaldte tilpasningslag, altså at at det bliver muligt at med tiltro og læse ned.
+
+01:25:12
+Hvor er der nogle vejunderføringer? Hvor er der nogle rør som skal med i Sådan nogle beregninger der? Som fører vandet fra den ene side af en vej til den 2 side af en vej, fordi hvis ikke man har det nogenlunde rigtigt beskrevet i sin model, jamen så så kommer oversvømmelserne de forkerte steder.
+
+01:25:29
+Så og og Der er tilpasningsledet i dag ikke komplet nok og kvaliteten er ikke høj nok og der mangler en hel masse dimensionsdata på de underføringer, som selvom de er registreret i tilpasningsland, så Der er der et et stykke arbejde der for kommunerne og tage fat i på et tidspunkt.
+
+01:25:50
+Så øjeblik, så så for lige at være helt præcist der altså det tilpasningslag Vi har i dag. Der er det jo Sådan, at man skærer en en.
+
+01:25:58
+Et rør det, man skærer det bare igennem. Det er 3 mm tykt og så, men så regner vi jo stationært på det og der siger du at hvis Vi skal skridtet videre, så så er det ikke, så er det ikke godt nok.
+
+01:26:09
+På det, så er det altafgørende, om Det er Sådan et rør, hvor Det er Sådan et rør der går under vejen her, for hvor hurtigt vandet det flytter sig ikke så så så der der skal man have dimensionerne med.
+
+01:26:20
+Så vi må se, om vi kan få nogle vandløbsreulativer ind, fordi Der er jo en en del af dimensionerne i hvert fald med jan.
+
+01:26:28
+Jamen Det var lige for at vende tilbage til spørgsmålet omkring, hvilke data der var mest nødvendige, men men der synes jeg også igen. Vi skal nævne de her konkrete skadesdata. Altså en ting er der her oversvømmelserskort, men har man nu kendt viden om, hvor oversvømmelserne er, så kan det man jo også bruge det sammen med.
+
+01:26:44
+Måske en simpel oversvømmelseskort. Og som model til ligesom at at skabe sig et godt billede af hvor Det er man tror oversvømmelserne sker til til givende hændelser. Og så synes jeg jo igen det her. Det her med helheds blikket og kombineret det med lokal viden om, hvor skaderne opstår.
+
+01:27:04
+Så man ligesom kan få flere led med svarende til den korsbæne analyse man skal lave for at være sikker på robustheden er det resultat man man gerne vil have. Om en given klimaindsats nu kan betale sig eller ej.
+
+01:27:18
+Og der kan der kan jeg igen godt være lidt bange for nogle gange. Det synes jeg man ser en tendens til at.
+
+01:27:23
+At man tilstræber virkelig at lave nogle meget store dyre oversvømmelserskort, der dækker en hel Kommune. Der synes jeg jo Det er bedre at kan lave en screening på et mere simpelt grundlag, og så udpege de områder hvor det giver mening og.
+
+01:27:37
+Og så rette ressourcerne ind på at lave de mere detaljerede beregninger og indarbejde de her lokale data omkring skaderne. Så man ikke ligesom over at gøre øvelsen. Og så er der jo de her håndtag.
+
+01:27:52
+Bekendtgørelser at man kan anmode forsyningsaitære om at lave oversvømmelseskort, hvis man skal regne på på serviceniveau. Når man kommer til det?
+
+01:28:02
+Ja jeg tænker bare at det altså det med at bruge et forsimplet årsstrømskort til at få udpeget, hvor man bør sætte ind med et detaljeret beregning. Det det kræver jo at man stoler på sin altså sin forsimplede kort eller man har 1 1 1 noget erfaring der sidder og kigger på. Ja, vi kan godt se at at Det er måske lidt forkert her, men det her det ved vi altså passer så som den.
+
+01:28:23
+Jeg tror bare det at hvis man bruger de forsimple kort, så kræver det, at man måske går lidt mere kritisk til værks inden man så beslutter det næste trin. Men jeg Jeg vil give dig ret i at det giver jo ikke mening.
+
+01:28:32
+Og bare som det første så sætte en stor dyr model op og så køre et kort uden at vide hvad hvad Det er man egentlig har tænkt sig at bruge det til. Men man skal være lidt mere påpasselig, fordi altså de simple kort viser altså noget vidt forskelligt fra de. Du ved de bedst mulige metoder og om det så er dobbelt så meget vand eller 3 gange så mad meget vand eller et helt område der ikke var blevet oversvømmet altså, men så det kræver måske man er lidt mere kritisk.
+
+01:28:54
+Ja, men Det er jo også det her med. Hvad er et for eksempel et overraskelseskort altså?
+
+01:28:59
+De bliver også hele tiden mere og mere raffineret. Altså skal alle gå lavere et skybrud med en filtration, som efterhånden jo må give et rimelig godt bud på hvor vandet samler sig også inde i byen, fordi aulussmodeller hydrodynamisk afløbsmodeller kan søreme også være forkerte, altså og fuldstændig meget bundet op på de antagelser der nu er omkring rørsystemet. Om Det er noget status eller plan man vil regne på.
+
+01:29:22
+Det er jo fuldstændig afgørende for. For den analyse man man skal lave.
+
+01:29:27
+Jeg synes Det er vidunderligt der i det mindste er et sted, hvor vi kan være uenige. Jeg jeg Jeg synes jo af erfaringerne med med de simple housespot kort her er at. Du kan simpelthen ikke bruge den til klimafremskrivninger. Ej.
+
+01:29:41
+Men Det er heller eksempel med bluesport kort. Jeg påpeger man skal bruge OK.
+
+01:29:46
+Godt.
+
+01:29:46
+Men, men Det er jo Det er jo interessant fordi Sådan III mit begrebsverden der Der er det Der er det næsten at enten er vi i blusesport stationær verden, eller også så kommer vi over i noget som er rimelig peber i 100.000 kroners klassen.
+
+01:30:02
+Malthe du ryster heldigvis på hovedet altså hvad hvad har vi noget? Har vi noget midt imellem altså noget bo du nævnte noget 2 d har vi noget nogen værktøjer som vi vi mangler at få fokus på?
+
+01:30:14
+Jamen altså du du nævnte skal du ikke Der er gået et skridt videre du man kan også vælge at hvis man kører med de store hændelser at tage en dynamisk model og så måske have fokus på det overtræning, men så mindre fokus på det under, så Der er nogle mellemveje som ligger mellem den helt overordnede statiske tilgang til det og og til den fuld dynamiske trevejs koblede model et eller andet ikke. Altså så Der er altså nogle niveauer man kan bevæge sig i, og så vil jeg lige en sidste gang eller lige fremhæve endnu en gang mere det der med at at at man skal prøve at lægge indsatsen der hvor den giver værdi. Altså Det er ikke det sidste decimal i din lønol.
+
+01:30:45
+Dagens model, som kommer til at gøre forskellen for den samlede billede. Det er det altså ikke, om du lige har mellemtallet på 23 eller 24.
+
+01:30:52
+Det er ikke det der gør forskellen, så du skal prøve at have indsatsen tilbage til hvis du har været bevidst omkring din usikkerheder. Det kan jo være svært nok også, men hvis du er nogenlunde bevidst omkring hvor du har dine store sikkerhed henne, jamen så ret og fokus der og der kan være nogle usikkerheder adlateret til oversvømmelsen. Der kan også være nogle usikkerheder relateret til til skadesprængningerne.
+
+01:31:09
+Og at have fokus der hvor det skaber størst værdi. Det tror jeg, Det er en disciplin i sig selv, men men hvis man kan det jamen så, så får man også bedste resultater af det.
+
+01:31:18
+Og nu vil du lige nævne maningtallet, så kom jeg til at tænke på at at SDFI jo har et webinar i september, som handler om de projekter, som er sat i gang i statens institutioner. Mange af dem netop med henblik på at forbedre Vores måde at regne på at bruge data på, og man kan du huske hvornår Det er.
+
+01:31:40
+Man.
+
+01:31:41
+Kan gå ind på klimatilpasning, DK og arrangementer og finde det webinar. Det strækker sig over et par timer engang i september, og Det er virkelig værd at kigge på, fordi det fortæller også noget om, hvad er det, vi får helt gratis i løbet af de næste års tid, som kan bruges til det her.
+
+01:32:00
+Ja ja ja jeg må sige at Jeg har faktisk haft det rigtig godt med stationære, altså de fuld dynamiske men men det der foleeksempel det det rystede mig altså en lille smule at at Det var så tydeligt at det kunne man faktisk godt have forudset med en 2 d model, ikke?
+
+01:32:16
+Jeg synes det interessante er også at Jeg er helt enig. Der er vi enige i at at at de erfarne folk i kommunen der ved hvor problemerne. Typisk opstår de guld værd. Og de skal inddrages for enhver pris II. Den slags overvejelser her.
+
+01:32:32
+Men lige meget hvor erfarne folk de havde Haderslev, så kunne de altså ikke forudse det der skete i fole. Nej, det kunne de bare ikke. Og Jeg tror heller ikke der var nogen der havde forudset det der skete i København 2011. Det er lige meget hvor mange erfarne folk der var på pinden inden da.
+
+01:32:47
+Så så de helt ekstreme ting. De ligger næsten i sagens natur udenfor de erfaringer, som de erfarne folk har. Der er man altså nødt til at falde tilbage på en eller 2 form for modeller.
+
+01:32:57
+Ja.
+
+01:33:02
+Jeg er faktisk kommet igennem de spørgsmål jeg havde til jer, og jeg ved, at Der er nogen af jer, der har siddet og skrevet i chatten. Jeg kan altså ikke nå at læse dem og se dem, men Vi har tidligere. Det gjorde vi i hvert fald ved Vores få 6 1 webinar, at vi læser dem simpelthen igennem her bagefter, og så samler jeg op og prøver at få nogle svar på dem, og så kommer de ud ikke i morgen på DN ks og k ls hjemmeside.
+
+01:33:28
+Men så måske om en uge eller 2. Og så kan det vække dem op på klimatilpasning DK også, så vi kan svare på nogle af de spørgsmål, som jeg stiller. Nogle af dem kan jeg Sådan lige skimte er rimelig specifikke og andre Sådan er lidt bredere, men så får vi lige et lille notat som samler op på de ting.
+
+01:33:43
+Det var Vores valg at setup i dag, at at Sådan måtte det være, så er der nogen, der har et afsluttende farvel, så så er det nu ellers så så lukker vi.
+
+01:33:55
+Rigtig mange tak fordi i kom og ville være med og præsentere jeres meget, meget spændende program og arbejde. Og tak fordi i arbejdede videre allesammen med det. Det har vi brug for. Tak til jer fordi i lyttede med og pas godt på klimaet og tak for i dag.
+

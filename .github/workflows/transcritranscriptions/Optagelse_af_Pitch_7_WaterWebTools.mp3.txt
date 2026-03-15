@@ -1,0 +1,108 @@
+00:00:00
+Jeg hedder Dennis, og Jeg er en af grundlæggerne bag wall web tools.
+
+00:00:04
+Det kunne være en ny SMV startede op for 1,5 år siden, og Jeg har samtidig også professor Aarhus Universitet.
+
+00:00:11
+Ved et spinout firma fra Aarhus Universitet og vi udspringer af verdens stærkeste forskningsgruppe indenfor vandkvalitets modellering.
+
+00:00:19
+Det vi laver Det er at vi leverer data som Det er også software, altså servicefirma som ville være data på vand. Vi kigger frem i tiden, som giver prognoser til kommuner til forsyninger og også til private via Vores løsninger. ESA platforme.
+
+00:00:32
+Vores løsninger, der skal i en bedre, altså bedre beslutning. Der er også bedre økonomi i vandforsyningen og så også reduktionen af skadesforhold i forbindelse med oversvømmelser.
+
+00:00:39
+Hvor synes jeg især er relevant for vandfyldte som bruger overfladevand. Det betyder, så vi kigger også på markeder udover Danmark, så vi kigger på markeder som Spanien, Tyskland, især USA også i de her lande.
+
+00:00:50
+Hvis vi kan kigge på hvilke problemer man står overfor, hvis man er forvalter af et vandssyn Der er baseret på på overfladevand, så har vi her et reservoir og Det er ikke kun i Danmark at Vi har patent på dårlig vandkvalitet. Det har man rigtig mange steder i verden. Det har man også IUSA, hvor det her billede er fra.
+
+00:01:03
+Der har man dårlig vandkvalitet, så kan man få stor valgte opblomstringer man kan få ild svømme i bunden, og så får man produktion af margan. Det koster noget at rense det væk. Man må ikke sælge det mangant.
+
+00:01:12
+Det er grænseværdi for det, så Der er man så for at at rense det.
+
+00:01:17
+De har også udfordringer med ekstremt vejr, så Der er større risiko for oversvømmelse. Det er der noget, man måske kan megetigere ved at have et reservoir. Altså hvis man ved på forhånd med meget vand, kommer med de kommende dage.
+
+00:01:26
+Jamen, så kan vi ligesom sørge for at få mere vand ud, så vi ligesom får en buffer til at imødekomme den her potentielle oversvømmelse at komme.
+
+00:01:33
+Hvis vi kigger lidt på sit problems omfang bare IUSA, så er der over 8000 af de her store reservoirer til Europa. Der er der over 7000 og derudover er der tusindvis af mindre reservoirs og over langt over halvdelen af den har problemer med vandkvaliteten.
+
+00:01:46
+Så hvis man har forvandlet Sådan et reservoir, jamen så står den ud for en hvornår giver det bedst mening at pumpe vand ud til den videre Forsyning og for hvilken dybde så mange af de her ressourcer der har man pumpeystemer Der er i forskellige dybder som man som man kan sige operatør skal man vælge at pumpe i forskellige dybder.
+
+00:02:01
+For at finde ud af hvad der giver bedst mening og i forhold hvor meget skal pumpes og på hvilken dybde der har vi så lavet den løsning vi kalder SF platformen, så Det er en platform der samler alt data, som giver dig et overblik over realistat. For hvad er vandkvaliteten i dag og hvad er den de kommende op til 9 derfra i tiden?
+
+00:02:15
+Og hvor meget vand er der på vej til mit reservoir? Så det giver sig et bedre indblik II forhold til at træffe bedre beslutninger og optimere sit bedrift.
+
+00:02:24
+Modellerne som laver de her prognoser, har sin forankring i forskning, så Vi har kombineret 2 af verdens mest avancerede pyramiderne og en vandkvalitetsmodel, og Det er her, vi adskæder hos os fra nogle af de konkurrenter, Der er på markedet, så Vi har gjort nogle avancerede modeller super nemme at bruge, så man skal ikke være en teknisk wizard for at kunne bruge Vores system. Man logger simpelthen ind på Vores platform, og så får man adgang til alt det her data som de her.
+
+00:02:49
+Modeller producerer.
+
+00:02:51
+Det er så modellerne også udmærker sig ved. Det er, at de kan afvise superhurtigt, så de tager ikke timevis og enddavis og afvikling. Vi kan køre den flere gange dagligt efter fondens kommende nye vejrudsigt prognoser ind samlet.
+
+00:03:02
+Så kan det afvikles på baseret på globalt tilgængelig data, så vi kan sætte det her op i Danmark, viser det op i Tyskland det op IUSA Vi skal op II Spanien, hvis Det er det, vi vil baserer globalt tilgængeligt, altså hvis vi simpelthen bare kan sige ned.
+
+00:03:16
+Hvis man så gik på hvilken værdi giver det så der ved jeg, at prognosebaserede beslutninger. Det giver en mere stabil vandforsyning. Det eksempel fra USA, og det betyder også, at man som forbruger er villig til at betale en højere pris for vandet.
+
+00:03:27
+Jeg ved også at så nemt som bare en times varsling i forbindelse med en kommende oversvømmet. Det kan ikke reducere i et skades eller reduktion af kost oversvømmet på 10%.
+
+00:03:37
+Og så er det den mest atelierede som cost benefitanal analyse, Der er lavet på bag den samlede den totale værdi af af det her prognosedata til gengæld som er vandoperatør for reservoir eller IUSA og for et enkelt reservoir, Der er den totalcimeret til omkring 50 mio. Kroner hvert rum.
+
+00:03:54
+Jesus, Der er ottetusinde reservars IUSA.
+
+00:03:58
+Så hvad kræver du så, hvis man vil i gang? For Det kan se det. Det giver jo god mening.
+
+00:04:01
+Jamen det kræver for det første en onboarding man skal have bygget det her modeller op modellerne i sig selv, de er open source, de er fuldstændig gratis. Det betyder også, at Vi har et kæmpe motorrum med andre forskere i verden, der hele tiden optimerer på de her modeller. Vi har bare bygget Vores ovenpå nogle gratis tilgængelige modeller, som har en forankring i forskningen, men det kræver stadigvæk noget at sætte modellerne op og tilpasse den til den lokale case.
+
+00:04:20
+Det kan vi gøre. Det kan være betalende mellem en engangsbetaling, for man kan også gøre det selv, at man kan få tredjepart til at gøre det.
+
+00:04:26
+Det vil så ellers tage Det er et årligt abonnement for at drive de her forecast, som man får adgang til via Vores platform.
+
+00:04:33
+Hvis vi kigger på holdet bag Vores ozon, så er vi 4 grundlæggere og Vi har selv og Anders oppe i toppen. Vi har en baggrund indenfor psykologisk modellering, så vi så Vi er nørder nede i motorrummet på hvilke modeller giver mening, når man skal lære at kigge frem i tiden. Vi bruger især de her modeller til at køre klim-mas scenarie i hele verden, men for at gøre dem anvende for en æggeeksperten, så har jeg været nødt til at lave et partnerskab med nogen, som er rigtig gode til IT, så der har vi nogle et par softingeniører med indover, som er gode til skelet.
+
+00:04:59
+Få ting til at køre hurtigt i en sky.
+
+00:05:01
+Og få til at lave nogle fede brugerflade, der gør det nemt at at bruge de her løsninger, som som vi nu har produceret. Så hvis Vi har i Vores hold alt fra man kommer med en ide til en løsning, som vi kan producere det hele in House.
+
+00:05:13
+Der og så har vi også lige et inde på et strabetisk samarbejde med arm catshus, der hedder kim consulting og de har kontorer i houstonte walkie, og dem bruger vi til at imponere synligt på det amerikanske marked, så de har gjort os bedre til at kan man sige og til Vores value proposition. Så hvad vil de skabe sig af Vores produkter? Og så kan de også synlige på det og kan marked, så Jeg har masser af samtaler med forskellige ingeniørhuse og USA, så kan vi ligesom samarbejde med dem og og skabe øget værdi for deres kunder.
+
+00:05:39
+I forhold til hvor langt Vi er, så Vi er som sagt et nyt firma, så Vi er under 2 år gamle, men Vi har et betalende projekt i Danmark, i Sverige og i Spanien. Så har vi et trinstortigt i Texas i Texas. Der har vi en en stor drikværdsforsyning, der forsyner noget af Dallas og ford words.
+
+00:05:53
+Omkring 2,5 million mennesker og alt deres drikker forsynet er baseret på 4 store reservoir, og der laver vi så en showkis på Vores løsninger, og det kører operøgelt nu, og der prøver vi også på selv at blive klogere på. Hvordan kan Vores prognose indgå i Det kan man sige deres daglige arbejde, så vi kan være endnu skarpere på at sælge det.
+
+00:06:07
+Den ugentlige verden, så vi arbejder målrettet på at vokse, især på det amerikanske marked, men også på det danske og spanske marked. Har vi et projekter lige nu så defineret efter det, så ville vi lede efter kunder, men også strategiske partnerskaber. Altså hvem der gerne vil være med til at bidrage til løsninger og kigge på hele verdens kredsløb og ikke kun ned i rørsystemerne, som Der er rigtig mange, Der er dygtige til.
+
+00:06:24
+Vi er gode oppe i den store skala på det holistiske overblik, at når det vil lege med os og hjælpe os med at komme ud på på det internationale marked, så er vi klar til at lege med.
+
+00:06:32
+Tak for opmærksomheden.
+

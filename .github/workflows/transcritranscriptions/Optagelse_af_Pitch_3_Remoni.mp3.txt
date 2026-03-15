@@ -1,0 +1,117 @@
+00:00:00
+Hej jeg hedder Anders hjortsholm. Jeg kommer fra dæmoni hos vermoni, der handler det alene om at spare ressourcer vi Vores fokus. Det er optimering, energieffektivisering, vi når vi siger ressourcer, så taler vi energi, så taler strøm, så taler vi vandbåret, altså vandbåret energi, vandbåret varme vandbåret køling, og så taler vi også vand.
+
+00:00:25
+Vi oprindelig kom vi fra bygninger og produktion, og Det er der, vi Sådan har Vores Sådan oprindelige hjemmebane. Det er der vi spiller mest.
+
+00:00:34
+Men Vi har også over det sidste stykke tid kigget mere og mere på forsyningsnet. Især fjernvarmenet og vandet og ikke overraskende. Og det vil jeg gerne snakke om i dag.
+
+00:00:44
+Så lige kort omone, så er vi. Vi er 8 år gamle stiftet i 14 og vi vi bor i Skanderborg så en SMV Vi er omkring 45 i dag.
+
+00:00:56
+Grunden til vi overhovedet taler forsyningsnet. Det vender lidt den 2 vej for det vender egentlig at vi lavede i bygninger, og så havde vi nogle forsyningsselskaber der spurgte også det vi gør i bygninger kan man gøre det, kan man optimere på den samme måde i forsyningsnettet.
+
+00:01:09
+Det synes vi jo var rigtigt interessant, så det problem som vi ligesom kiggede ind. Det er vi, vi arbejder rigtig meget om digitalisering og med data. Det er egentlig den måde, vi optimerer Vores ressourcer på.
+
+00:01:18
+Når vi kigger på den, så kigger vi altid. Det vil sige. Vi er nødt til at finde ud af, hvad problemet er.
+
+00:01:22
+Det er et godt sted at starte, digitalisere ikke bare for at digitalisere, det skal løse et eller andet det næste step, der kommer. Det er det her med at samle relevant data nogen siger jamen Vi har masser af data er med Vores gruppe relevant data, man skal bruge data fra de rigtige steder, og man skal bruge data i den rigtige opløsning.
+
+00:01:38
+Det vil sige den rigtige tidsmæssige oppe. Når man har de data, så har man selvfølgelig nogle analyser, og man har noget handling på de her.
+
+00:01:46
+Vi prøvede at finde ud af lidt. Hvad er det egentlig, man gerne vil løse det Vi har hørt? Det er man har helt klart den her infrastruktur, levetiden på infrastrukturen.
+
+00:01:53
+Der er et den lever simpelthen ikke så længe, som man egentlig har i sin business case. Den skal leve.
+
+00:01:59
+Det er jo interessant nok. Det vil man selvfølgelig gerne forlænge, så har man Det er jo en del af det et ønske om at kunne lave mere intelligent trykstyring i vandforsyningsnettet. Vi hører meget mere intelligent pumpning, Det er meget mere meget bedre styr på, hvornår pumper man, hvordan pumper man, hvornår gør man det?
+
+00:02:17
+Og selvfølgelig åh, der kan man sige fylder måske lidt mindre i Danmark det her non reven water, men hvis man bare kommer en lille smule ud det sidder i Middelhavet, så så fylder det jo helt vildt meget.
+
+00:02:28
+Det snakkede vi lidt om og fandt ud af at det Der er et problem mange steder. Det er at man mangler de her relevante data, og så finder jeg ud af hvorfor gør man det? Det er jo ikke fordi der ikke findes en løsning.
+
+00:02:39
+Det er ikke fordi man ikke kan installere en flowsensor i sit eventnetværk i dag. Problemet er bare at Det er dyrt og eftermontær, og så har man den her installationsrisk som man altid har når man er inde og ligesom skære i røret.
+
+00:02:53
+Men vi bringer til det, der tror jeg. Hvis man lige skal starte, så kan man lige starte med hvad Vores platform er. Den kom som sagt fra bygninger og produktion.
+
+00:03:00
+Det jeg tog den her med, så kan man også lige se den.
+
+00:03:02
+Grundlæggende så har vi en platform, der egentlig tager alle de trin jeg viste, før det vil sige. Den er bygget op med henblik på og samme data ind. Den er bygget op med henblik på analyserer den også bygget op med henblik på at handle, når vi taler vandforsyning, så er det primært det her med at samle data ind.
+
+00:03:16
+Vi kigger på Vores platform, måden den samler ind. Det er via de her. Nu er det lidt et lille rør i forhold til vandforsyningen, men Det er enormt besværligt at slæbe Sådan et 200 millimeters rør mig rundt, men men princippet er faktisk præcis det samme, så Sådan her ser de ud.
+
+00:03:31
+Og man kan se, så er de clay one, så de kommer udenpå.
+
+00:03:34
+Tryk ja en lille smule svært at måle udefra. Det har jeg ikke mødt nogen der har løst endnu. Det har vi heller ikke så tryk når Vi er målt og tryk, så måler vi det med en normal trykcenter, men tager det med ind i platform.
+
+00:03:45
+Og det man får, Det er at man får det her, ikke inklusiv måde at måle flow, tryk, temperatur og så overvågning af pumperne overvågning af pumperne. Det er den her, så den sidder Sådan set på ledningsbumpen.
+
+00:03:59
+I batteridrevne de har i hvert fald 15 års levetid. Når i sidder dernede så så Det er hele ligesom bygget op omkring. Nemt at installere bliver dernede længe og skaber den datastrøm.
+
+00:04:11
+Det er Vores løsning. Kan i det her? Det er Det er lidt i forretningsmodellen, Det er.
+
+00:04:14
+Det er en rigtig lav omkostning i forhold til Sådan det traditionelle. Det er en lav teknisk teknisk risk det her med jamen vi sidder udenpå. Vi skal ikke ind og røre ved drikkevand.
+
+00:04:23
+Vi skal heller ikke ind og rydde op i gamle sedimentrester, altså Det er der i hvert fald nogle steder, man har en bekymring om hver gang man skruer, så siger de, så bruger man lige 2 3 uger på og på rense ud igen.
+
+00:04:34
+Så har vi en 2 forretningsmodel. Vi leverer data som en service som forretningsmodel, så vi leverer ikke vi. Vi leverer den datastrøm, der skal til, så vi.
+
+00:04:43
+Vi kommer også med det hap, hvad der skal til sker der noget med det abba, så leverer vi også noget nyt hepware Vores mål. Det er som en service at levere datastrøm.
+
+00:04:52
+Og så har vi et meget åbent forhold til data så ment på den måde, at Vi har ikke noget behov eller krav om, at man bruger Vores dataplatform. Vi stiller Sådan set datastrømmende til rådighed, hvis man gerne vil have det ind i sit skattesystem ind i noget andet, så integrerer man det bare ind der.
+
+00:05:12
+Sådan lige for at opsummere. Der var også spørgsmålet før, hvad vil man gerne have, hvis jeg Sådan kigger på hvor Vi er det her omkring bygninger og produktion? Det er der, vi fylder noget der skalerer vi der, Det er der går det ud af det her Forsyning, som også sagde, Det er forholdsvist nyt for os, og Det er Det er noget, Vi er i gang med at udvikle.
+
+00:05:30
+Så kan man sige hvad kigger vi efter? Jamen hver gang vi går ud og snakker med nogen, så bliver vi bekræftet i Der er et behov. Det vil man gerne have.
+
+00:05:35
+Det er jo en god start.
+
+00:05:37
+Vi har teknologi, der virker. Vi har Vores platform, sidder jo en en. Vi har en masse installationer med den, alt det virker, men Der er noget applikationstilpasning, som vi mangler at lave, og det vil vi.
+
+00:05:47
+Det vil vi gerne lave sammen med nogen. Det er grundlæggende. Det er Sådan, vi tænker, Jeg har skrevet joine Technology 1 + 1 = 3 Vi er rigtig meget tilhængere af at finde nogle gode partnerskaber og så være sammen om det vi siger.
+
+00:05:57
+Vi er rigtig gode i det her til skaffe resuredata, men Vi er faktisk måske ikke så gode til at sige.
+
+00:06:03
+Alle de fede ting, man kan bruge det her til.
+
+00:06:06
+I vandforsyningen så derfor så leder vi efter partnere som som har den den vinkel lidt vi leder efter. Hvem er det Vi skal udvikle? Den her applikationsspecifikke anmeldelse sammen.
+
+00:06:18
+Der var bare lige 5 jeg hvis i har lyst til at snakke noget mere om det.
+
+00:06:22
+Jeg håber Jeg synes Det er.
+
