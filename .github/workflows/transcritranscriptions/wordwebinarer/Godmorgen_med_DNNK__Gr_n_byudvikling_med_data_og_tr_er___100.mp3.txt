@@ -1,0 +1,1275 @@
+00:00:06
+Godmorgen og velkommen til DNNK Morgen.
+
+00:00:10
+I dag har vi en god opstart, efter mange har været på sommerferie.
+
+00:00:15
+Vi skal høre om et spændende projekt, 100K Trees, der overordnet handler om grøn byudvikling med data og træer, og er et digitalt værktøj, der kan hjælpe med at dokumentere værdien af naturbaserede løsninger i bymiljøer, Det er et sværforholdt projekt, der kommer til at være interessant for ret mange faggrupper.
+
+00:00:42
+Det er også et meget aktuelt projekt, særligt i forhold til skybrudssikring.
+
+00:00:47
+Til at præsentere detaljerne har vi Ali Islami, Ph.D.
+
+00:00:53
+at VOB in Brussels.
+
+00:00:56
+Mads Christensen fra DHI.
+
+00:00:59
+Birgitte Holt-Andersen, der er økonom og initiativtager til projektet.
+
+00:01:04
+Og så Henrik Appelgaard Nønnegård, som er landskabsarkitekt i Kolding Kommune, og han vil dele deres erfaringer med projektet.
+
+00:01:13
+I kan løbende stille spørgsmål i chatten, så vil jeg følge op på det til sidst, og vi skal lige sige, at vi optager det hele og lægger på jeres hjemmeside, så I kan også altid gense det efterfølgende.
+
+00:01:26
+Ellers vil jeg bare give ordet til dig, Birgitte, og tusind tak, fordi I allesammen stiller op med det her spændende projekt.
+
+00:01:35
+Tak skal du have, og godmorgen alle sammen.
+
+00:01:37
+Mit navn er Birgitte Holt-Andersen fra C-Ware.
+
+00:01:41
+Som Sandra sagde, var jeg en af idémægerne bag projektet.
+
+00:01:50
+Som blev skrevet for mere end fire år siden, så der er sket meget siden da.
+
+00:01:55
+Ideen var, at Københavns Kommune havde en strategi med at plante 100.000 træer.
+
+00:02:02
+Så tænkte vi, at vi kan hjælpe dem med at optimere på, hvor man kan plante træerne, så de bliver mest nytte i forhold til deres økosystem.
+
+00:02:11
+Tjenester og hvor der er de fleste hotspots i form af dårlig luftkvalitet, vandproblemer og hvor beboerne kan få mest ud af dem.
+
+00:02:22
+Det blev til det her 100K3-projekt, som så åbenbart Det blev fundet under Spaceprogrammet under Horizon Europe.
+
+00:02:35
+Så skal vi finde ud af at skifte.
+
+00:02:38
+Nu vil jeg sætte mig til engelsk, for alle slidere er i engelsk.
+
+00:02:42
+Nogle af medlemmerne er også engelskspændende, så det er bedre at gøre det i engelsk.
+
+00:02:47
+Vi formulerede et mål for 100k-træprojektet.
+
+00:02:51
+Vi ville gøre bygderne bedre til at leve, ved at anbefale mere træplanering.
+
+00:02:57
+Men baseret på evidensbaseret metadata, som en toolbox, som vi har udviklet med satellittet data, mapping og i særligt modellingstol, så vi kunne modelle og optimere ekosystemsbrugene.
+
+00:03:13
+Vi ville også prøve at sætte monetære værter på ekosystemsbrugene, og du får nogle eksempler af det her i præsentationen af Ali.
+
+00:03:22
+Og igen, at plantere træer for at forbedre deres kvalitet, varmt stress, men også for menneskets velfærd og biodiversitet.
+
+00:03:34
+Projektet begyndte to og en halv år siden, og vil blive afsluttet i november.
+
+00:03:43
+Konsortiumet er europæisk, med en kombination af start-ups, industri, NGO's, og nogle konsultationsfirmaer.
+
+00:04:01
+Vi har brugt København og Sofje som vores teststeder.
+
+00:04:07
+Nu har København blivet forlænget til Roskilde og Kolding.
+
+00:04:12
+Idéen var at have to forskellige steder i klimaet, men også i dataudvikling.
+
+00:04:19
+Vi ved, at København er godt opfyldt med data.
+
+00:04:23
+og Sofia har ikke så meget data.
+
+00:04:26
+Det her er, hvad vi har prøvet at gøre, og jeg tror, at vi har udviklet det, som går meget godt.
+
+00:04:35
+Vi har udviklet forskellige bygningsblokker.
+
+00:04:38
+Vi har haft en masse dialog med de forskellige steder, hvor de anvender os til at forstå behovene.
+
+00:04:47
+Vi har også udviklet en crowd-science-app, som børn kan bruge til at mappe træer.
+
+00:04:53
+Der har været udviklet nogle automatiserede træanalytikker.
+
+00:04:57
+Nogle kompanikus enhængsmål.
+
+00:04:59
+Vi har prøvet at definere nogle standard træer.
+
+00:05:03
+Vi har prøvet at se, hvilke træattributer det inkluderer.
+
+00:05:07
+Modellen og simulationen, som Allure vil præsentere, har været udviklet.
+
+00:05:13
+Vi har prøvet at valorisere træplanting.
+
+00:05:16
+Både kosten, men også benytningerne i monetære termer.
+
+00:05:21
+Og så har vi tænkt på nogle brugskasser, som du kan se nogle eksempel på her også.
+
+00:05:28
+Så igen, som jeg sagde, er ideen at prøve at modelle de ekosystem- servicer, der er tilgivet af træer, og så komme fra grøn til grøn i vores byer.
+
+00:05:40
+Så det her er en liste af nogle af de servicer, der er blevet udviklet.
+
+00:05:46
+2D, 3D træmapping, forvandling, detektion, træinventur, Kandidat træplanering områder, hvilket er et stort problem.
+
+00:05:53
+Hvor kan vi plantere træer i byen, da der er få steder?
+
+00:05:58
+Ego-system-servicemaps- og hotspot-identifikation, udvalgning.
+
+00:06:05
+Vi har også prøvet at tage ind på klimascenarierne.
+
+00:06:12
+Som jeg sagde, har vi brugt nogle konkrete brugskasser for at gå mere i detaljer.
+
+00:06:18
+Tre af dem er i Sofje og Bulgarien.
+
+00:06:21
+Vi har set et park i Sofje og prøvet at udvide det.
+
+00:06:26
+Vi har også prøvet at identifere nye planteringsområder i Sofje.
+
+00:06:30
+Vi har også set et projekt, My Green School, hvor de har prøvet at plante træer i skolegårdene i Sofje.
+
+00:06:37
+Vi vil også se, hvilken impact det vil have på det lokale klima.
+
+00:06:41
+I Danmark har vi havet Greening Kolding, hvor du vil høre Henrik sige lidt om, hvordan de har brugt det i Kolding, det materiale, vi har udviklet.
+
+00:06:53
+Vi har havet en kage i Roskilde, hvor de planler at forvandle en kage til en pocket park, så vi har også modelleret effekterne.
+
+00:07:04
+Der er Amager Boulevard, hvor vi har været planter virtuelle træer, og se, hvilken impact det vil have på deres kvalitet.
+
+00:07:16
+På denne note vil jeg give ordet til Mads, som vil forklare lidt mere om, hvordan vi har brugt satellitdata i projektet.
+
+00:07:26
+Så Mads, gå videre.
+
+00:07:29
+Ja, tak.
+
+00:07:30
+Birgitte.
+
+00:07:31
+Jeg finder bare mine skridt her.
+
+00:07:40
+Tak for introduktionen.
+
+00:07:47
+Jeg hedder Mads Christensen.
+
+00:07:50
+Jeg arbejder for DHI AS i Danmark.
+
+00:07:55
+Det er en vandingeniøring kompagni.
+
+00:07:57
+De fleste af jer er nok familier med DHI.
+
+00:08:00
+Vi har også en underbranche, hvor vi arbejder.
+
+00:08:03
+specialiserer i jordobservationsdata, EOS Center of Excellence.
+
+00:08:09
+Det hedder primært satellitdata.
+
+00:08:11
+Satellitdata har spjældet en grundløs rolle, eller remote sensing generelt, har spjældet en stor rolle i dette projekt på mange måder.
+
+00:08:24
+Både os og en anden partner, EuroSense, har udviklet flere uafhængige produkter til at informere om projekts mål, men også til at adresse nogle af de prædomente datagaber, som vi har oplevet, og som er nødvendige for Alice og VUBs modellingspart.
+
+00:08:48
+Så det er det, vi har arbejdet med, primært for at adresse disse datagaber, for at udvikle en komprehensiv data-inventar, som er nødvendig for at udvikle modeller, som Ali kommer til at snakke om i en moment, men også at se, hvilke muligheder og perspektiver der er ved at bruge satellitdata til at mappe en inventær grønne områder i det øvrige område.
+
+00:09:12
+Så jeg vil bare give en kort introduktion i hvordan vi brugte og forvandlede satellitdata, men først vil jeg touch upon what remote sensing data is and what types of data we've been using.
+
+00:09:30
+Most of you are likely familiar with these types of data, but I'm just going to quickly set the scene here in terms of what can we do with modern satellite data.
+
+00:09:42
+Here you see from the far left the best of the best free and open data that we can get right now through ESA's Copernicus program.
+
+00:09:53
+multispectral satellite imagery in 10 meters that's freely available everywhere.
+
+00:09:58
+In Denmark, you'll get a new image roughly every three to five days.
+
+00:10:04
+In the middle, you'll have some of the best commercial satellite data from Airbus.
+
+00:10:10
+That's in 30 centimeters.
+
+00:10:12
+Then to the far right, you'll see the auto imagery that you're likely familiar with in Denmark that's acquired every spring.
+
+00:10:22
+Jeg vil gøre det lidt hurtigt.
+
+00:10:26
+I fri og åbent data kan man gøre kosteffektive, skalabelseanalyser på stor skala.
+
+00:10:34
+Man kan lave nationelle og regionale forvurderinger af brede miljøparameter.
+
+00:10:40
+Man kan se på skogsforskning, skogshælp.
+
+00:10:43
+Man kan mappe en inventory af det urbane landskab i brede termer.
+
+00:10:47
+Man kan ikke glemme detaljerne.
+
+00:10:50
+Det er derfor man bruger det.
+
+00:10:52
+Så de højere granularitetsdata, så både kommersielle satellitdata og en evrigtet imagery.
+
+00:10:58
+Vi har været påvirket en stor del på middelparten her, så Pleiad Neo, til at mappe en inventær individuelle træer i det øvrige domæn, men samme data kan bruges til at mappe ud luftbåder, luftbåder, vinduer, vejer, biler, som er parkeret, så vi ser på, hvad er, ja, Den dynamik af parkerede biler i nogle områder, man kan se i bøger og mange andre ting.
+
+00:11:27
+Så hvis man vil dække sig i detaljer i det urbaniske område, så er den type data sikkert brugelig.
+
+00:11:37
+Så en ny ting fra Spaces, som også med den nye Albedo Clarity-1 satellit, der bare løb, tror jeg, forrige år.
+
+00:11:49
+Man kan faktisk også få 10 centimeter data fra luften nu, så det er en interessant udvikling, at nu fra luften kan vi få den samme type af resolution, som man kan få fra juleimagerkampagner.
+
+00:12:05
+Så ja, hvad kan man bruge dette data for?
+
+00:12:09
+Mange forskellige ting.
+
+00:12:12
+digitale elevationsmodeller.
+
+00:12:14
+Vi kan mappe ud forskellige lande, typer og ydersteder gennem det urbaniske landskab.
+
+00:12:22
+Vi kan lave flodmappering.
+
+00:12:25
+Vi kan se på evapotranspiration og sovmæssigt mærke.
+
+00:12:28
+Vi kan mappe ud yderstedsvandet dynamik, urbaniske varmeisler og andre ting.
+
+00:12:36
+Men selvfølgelig har det her projekt været om træer.
+
+00:12:41
+Det er det, jeg vil præsentere nu, hvordan vi bruger det til at mappe og analysere træer.
+
+00:12:48
+En af de første ting, vi blev udfordret med, er at de fleste byer ikke har en komprehensiv træindventor.
+
+00:12:58
+Få byer ved, hvor de har træer og hvor mange de har.
+
+00:13:04
+De kan have en indventor af de træer, effektivt forhandle, men forudom det har de ikke denne wall-to-wall-bevægelse.
+
+00:13:15
+Så det var første instans af dette projekt, at se på, hvordan vi transformerer satellitdata i en punktinventor af træer.
+
+00:13:26
+Jeg vil ikke gå i detaljer om det, jeg har ikke tid til det, men vi anvendte en metode, som også er brugt til for at finde ud af, hvor mange folk er i en koncertgruppe.
+
+00:13:42
+Vi ser på densiteten af masser.
+
+00:13:46
+Her ser vi på densiteten af træer.
+
+00:13:51
+Vi bruger et threshold af dem til at identifere, hvor vi har den største signal, der indikerer de individuelle træer.
+
+00:14:03
+Så gør vi sådan noget.
+
+00:14:07
+Først ser vi på densiteten, og så bruger vi dem til at indsætte træets egen lokation.
+
+00:14:15
+Vi har gjort det i dette projekt i alle pilotområder, startet her i København.
+
+00:14:24
+Her kan I se et eksempel til højre.
+
+00:14:25
+Her har I Københavns egen træindsats fra dette kvartalsområde i Amalie Galle i København.
+
+00:14:37
+Og ja, du kan se, at vi faktisk ramte det ganske akkurat.
+
+00:14:43
+Og selvfølgelig er denne tilfælde, at vi kan opdatere det i en meget kort tid, hver gang det er nødt til.
+
+00:14:51
+Så du kan virkelig bruge det til at holde din træindvendelse opdateret i tid.
+
+00:14:59
+Ja, bare en anden måde at se på det.
+
+00:15:03
+Selvfølgelig er også en af hjælpene til dette træ at visuelt skabe datasætter, der giver information om, hvordan dækningen af træet forsvinder gennem de urbane områder.
+
+00:15:17
+Det er det samme, som du så før, præsenteret i denne hexagon-grid.
+
+00:15:23
+Du kan glemme detaljerne i København, for at finde ud af, hvor du har de højeste dænser af træer, og hvor du måske er nødt til at adresse nogle gager.
+
+00:15:38
+Når du køber en kommersiel satellitdata, kan du bruge den til en masse andre ting.
+
+00:15:50
+Det er ikke bare træmappering, du kan lave en inventory og mange andre ting.
+
+00:15:59
+en højresolution landkover-map af København, som var en af de nødvendige dataset, som VOB brugte til deres modeller.
+
+00:16:08
+Det var også en del af projektet, at vi udviklede de her landkover-mapper for stederne, fordi det fødte til modellerne, men selvfølgelig There are a ton of other applications that you can use these types of data sets for.
+
+00:16:25
+So as soon as you purchase one satellite imagery, you can really use it for many, many different things.
+
+00:16:32
+So digging into the 33300, I assume Henrik might talk about this also.
+
+00:16:41
+So I'm not going to dig into the details of it, but I'm just going to set the scene here.
+
+00:16:46
+Mange af jer må være familier med det.
+
+00:16:48
+Det her koncept for at systematisk tracke træmetriks i det åbne landskab, og hvordan det fulfører behovet af børnene.
+
+00:17:05
+Det blev udviklet fire år siden, og det diktaterer, at fra hvert hus skal man se tre træer.
+
+00:17:13
+Du bør leve i en område med mindst 30% kanobi-bevægelse, og du bør leve i højst 300 meter fra den nærmeste brugelige, funktionelle grønne område.
+
+00:17:25
+Så ved hjælp af det trædatasæt, som vi har udviklet, og andre AI-modeller og geospatiale operationer, har vi også udviklet et framework til For at mappe det på skala, begynder vi nu med Danmark.
+
+00:17:43
+Vi har begyndt at mappe flere danske byer, så her kan man systematisk tracke, hvor mange hus lever op til disse forskellige regler.
+
+00:17:55
+Vi har skabt en dynamisk skala, som kan adopteres på bygdevelse.
+
+00:18:00
+Vores regler er ikke så binære.
+
+00:18:03
+Det er ikke bare, om man kan se tre træer eller ikke.
+
+00:18:06
+Det ser også ud til, hvor mange træer man kan se i 100 meter.
+
+00:18:12
+Hvor stor de er.
+
+00:18:14
+Og andre regler.
+
+00:18:16
+Det giver et tilfældigt kontekst, i forhold til det, der var reglerne.
+
+00:18:25
+Vi har bare lavet denne launch i dag, så jeg anmelder jer alle til at gå til vistatrees.dhigroup.com, hvor vi sætter op en simpel webkontroller for at udforske nogle af disse datasætter for jer selv lige nu.
+
+00:18:45
+Henrik, måske er det brugeligt for dig.
+
+00:18:49
+Vi har kun data for at købe, men måske er du kæmpe for at udforske det.
+
+00:18:53
+Jeg anbefaler dig at kigge på dette og se hvordan de her regler er anpasset gennem denne metodologi.
+
+00:19:00
+Geospatialt i disse mapper.
+
+00:19:05
+Det.
+
+00:19:10
+Samme vil jeg tilføje til Ali kort.
+
+00:19:17
+Det er bare eksempel på de tre score, men tiden er kort, så jeg anbefaler dig Måske gå til vores hjemmeside, som jeg lige delte, eller kontakt mig for flere informationer.
+
+00:19:33
+Ja, og vi har også denne totalskore, som bare kombinerer alle de tre metoder.
+
+00:19:38
+Så det er også en ny udviklingsaspekt i forhold til det originale formål af regleret.
+
+00:19:47
+En anden ting, som vi udviklede som en del af dette projekt, was what we call a human-in-the-loop land cover mapping portal.
+
+00:20:01
+We plan to launch this later this year.
+
+00:20:06
+It's sort of in the pilot stage right now, but basically what it does is that it allows the user to til at sætte det op for deres egen by.
+
+00:20:18
+Så det her er for København, og så sætter de en måned og et år af interesse for, hvornår de ønsker at lave en komprehensiv landskab.
+
+00:20:27
+Så hvis du er i en by i Danmark, og du er interesseret i at se landskabets evolution i de sidste fem år, så kan du vælge en måned i to-tre år, og så kan du lave din egen landskabsklassifikation her, med AR-modellen, som vi har trænet på ganske meget data, som automatisk laver en basemapping.
+
+00:20:57
+Og så er den innovative del her, at du også kan træne modellen med at skrive din egen lokale repræsentativ træningsdata for at fine-tune modellen.
+
+00:21:10
+Det mest interessante er, at det ikke bare bruger Sentinel-2-data, som er den hoveddrivere.
+
+00:21:17
+Det rejser også automatisk op til 5 meter.
+
+00:21:22
+Som du kan se, er det et lille eksempel.
+
+00:21:25
+Til venstre ser du den standard 10 meter Sentinel-2-data.
+
+00:21:31
+I den nedre rejse har vi SuperResolution-produktet, som er et hot-topic i vores domæne i dag.
+
+00:21:40
+Mange mennesker arbejder med superresolution data.
+
+00:21:44
+Det vigtige her er ikke at skabe hallucinationer, men at skabe ting, der ikke virkelig kommer fra det originelle data.
+
+00:21:53
+Men med denne algoritme, som vi har brugt, er den ganske forventelig, så resultatet ser virkelig godt ud.
+
+00:22:05
+Og det giver dig mulighed for at gøre din egen on-demand landskabsmapping af din stad for den periode, du er interesseret i.
+
+00:22:17
+Nogle tilfældige metodologiske detaljer.
+
+00:22:20
+Jeg har bare snakket om dem.
+
+00:22:22
+Jeg skifter til et eksempel af resultatet.
+
+00:22:26
+Det her er ganske kompærende.
+
+00:22:30
+På højre kan du se en standard Sentinel-2-baseret landskabsmapping.
+
+00:22:36
+Det er et godt produkt, men man kan også se, at mange af bygningerne og gaderne er lidt samlet.
+
+00:22:44
+Det er svært at forlade dem fra hverandre, mens Super-Resolution-algoritmet til højre forlader os til at lave en mere kompærende, detaljeret map, der forlader forskellige bygningsfeaturer, forskellige grønne elementer fra hverandre i en meget mindre måde.
+
+00:23:04
+Med det vil jeg tilføje det til Ali for at snakke om modellerne.
+
+00:23:10
+Tak.
+
+00:23:13
+Jeg vil snart.
+
+00:23:14
+Dele min skrift.
+
+00:23:16
+Tak, Mads.
+
+00:23:21
+Mit navn er Ali.
+
+00:23:22
+Jeg er studerende på VUB Brussels.
+
+00:23:26
+Sammen med Bita Green og OneTree Foundation var vi ansatte for arbejdspakket for af 100K Trees-projektet, der var mest om at udvikle modellingstol og at repræsentere resultaterne for byer og forvurderinger på urbanen skala.
+
+00:23:43
+Til start vil vi ønske at vide, hvorfor vi faktisk har brug for disse modellingstol.
+
+00:23:51
+Vi ved, at træer tilføjer forskellige økosystemserviceer i byer.
+
+00:23:57
+Økosystemserviceer som lydkontrol, urbanen køling og stormvandkontrollen, biodiversitet og flere andre.
+
+00:24:06
+Men vi vidste også, at disse økosystemserviceer er virkelig afhængige af zonen af interesse i en stad, og kan også være heterogen i en stad baseret på de lokale forhold.
+
+00:24:21
+Så vi vidste, at risikoen spredes anderledes i en stad, og vi ville optimisere denne træplaneringsscenario for et studieområde.
+
+00:24:36
+Men der er allerede modeller til træplanering og træbenevinder.
+
+00:24:42
+En af de mest bekendte er iTree.
+
+00:24:48
+iTree er en model, der giver dig den monetære værdi af en træ, baseret på de økosystemservice, som den fordeler.
+
+00:24:56
+Det arbejder baseret på USA-baserede datasætter for træspecier.
+
+00:25:02
+Med nogle landeansøgningsteknikker og en fraktion af landet i en stad, der er dækket af træer, kalkulerer de træs sæsonalitet og de tilgængelige ekosystemserviceer over hele området.
+
+00:25:16
+I forhold til en europæisk stad, hvis vi bruger I-Tree-modellen, vil vi afhænge af USA-baserede data.
+
+00:25:27
+og baseret på U.S.
+
+00:25:28
+klima og U.S.
+
+00:25:29
+træspecies.
+
+00:25:31
+Så her havde vi et problem i termer af akkuratiteten af modellen, DI-træet.
+
+00:25:37
+Det andet problem var den spatiale repræsentation af risiko i en stad.
+
+00:25:42
+Vi ved, at for eksempel, at luftpollution ikke er spredt udenom i en hel region.
+
+00:25:48
+Så vi har nogle hårde steder af risiko i staden, og vi ville identifere dem.
+
+00:25:54
+Så de vil være den potentielle planteringsområder.
+
+00:25:58
+Og også de monetære værdier for træer i I-Tree-modellen er udtalt med årlige mængder af disse ekosystemservice.
+
+00:26:09
+Så vi har ikke en træbaseret eller træassignet monetære værdier.
+
+00:26:15
+Så, sorry.
+
+00:26:18
+Objektivet af projektet var at have en toolbox for at kunne Access the environmental risks in a city.
+
+00:26:28
+First of all, identify the hotspots in terms of environmental risks.
+
+00:26:33
+And then provide some spatially distributed maps for tree ecosystem services and benefits in a city.
+
+00:26:40
+And then see their impact, quantify their impact, and then decide based on that.
+
+00:26:46
+To do so, we needed a decision support tool for tree optimization, tree planting optimization, The outcome of this would have been some spatial maps about environmental risks with some base layers and some opportunities for tree planting, identifying the areas where we can plant the trees and then visualize their impacts as well as some monetary values.
+
+00:27:19
+To do so, we developed a tree growth assessment model based on den træforskning, der blev tilføjet til os fra DHI og EuroSense.
+
+00:27:31
+Vi havde en forskning om træerne.
+
+00:27:34
+Vi havde nogle attributier, som var sammenlignet med dem, som træspecies, året, planteringsår, forhold, og inspektioner, der er gjort regelmæssigt for en enkelt træ.
+
+00:27:48
+Blandt satellitdata og nogle lokale miljøforhold, ligesom luftforskning, Vi havde et machine learning-model for at modelle grønne træer og over tid representere, hvor meget biomæssighed eller løftområde, eller alle de fysiske attributer, der kan betyde miljøservice.
+
+00:28:16
+Det her er en repræsentation af Københavns træer, og modellen fungerer meget godt.
+
+00:28:24
+er virkelig repræsentativt af trægrøvelser for forskellige træspecier.
+
+00:28:31
+Ved at bruge det trædatasæt havde vi fysiske modeller til at repræsentere forskellige miljørisker og muligheder.
+
+00:28:44
+Til at assessere biodiversitet i en stad, til at modelle lyd og temperatur, luftpollution og flod.
+
+00:28:52
+For dem Vi var nødt til landskabmapser og obstaklehøjder i en stad baseret på meget fin resolution DSM-data.
+
+00:29:03
+Vi var også nødt til trafikdata for eksempel til at modelle luftpollution og lyd.
+
+00:29:11
+Baseret på det gjorde vi nogle baslinesætninger af miljøriskerne i staden.
+
+00:29:19
+Figurerne du ser er til brug for kolding, hvor vi gjorde en urban assessment på en urban skala for hele området, baseret på de data, der er tilgængelige i det præsent.
+
+00:29:33
+Modellerne kan blive forstået i resolutioner på 10-2 meter, baseret på det mål, som brugerne har.
+
+00:29:41
+En anden ting, som modellen kan gøre, er at forandre nogle andre faktorer, ikke kun om træer, men om den urbane kanopistruktur.
+
+00:29:54
+Eller om trafik, for eksempel, hvor vi kan afslutte det til modellen, og så se scenariet og reaktionen af den urbane kanopi og træer til den specifikke intervention.
+
+00:30:10
+Så kan vi afslutte en specifik værdi af kontribution til miljømitigation til forskellige træer, i den niveau af en enkelt træ.
+
+00:30:22
+Her er Amager Boulevard i København, hvor vi gjorde basline- og luftpollutionmodelling, baseret på trafikdata.
+
+00:30:33
+Og så var hver træs kontribution til drygdeposition af pollutanter kalkuleret og anvendt til det.
+
+00:30:40
+Men dette toolbox kan også bruges i forskellige scenarieplaner, for bygderne på forskellige skalaer.
+
+00:30:52
+For eksempel.
+
+00:30:53
+I Roskilde havde vi et bilpark i et skolehus, der brugte fine-resolutionsdata for at modelle temperaturen og floden.
+
+00:31:07
+Vi planledte nogle scenarier for træplanering og anbefaling af grønland i studieområdet, og så lavede vi en komparation mellem temperaturen, fx, På venstre.
+
+00:31:21
+Undskyld.
+
+00:31:22
+Og for trafikkontrollen, igen, i Amager Boulevard, havde vi det.
+
+00:31:28
+Vi kvalificerede, hvad forandringen ville være, ved at plante træer og forandre trafikken.
+
+00:31:36
+Okay.
+
+00:31:40
+Men hvordan er disse resultater interpreteret?
+
+00:31:43
+Vi har forskellige scenarier.
+
+00:31:46
+Vi kan lave en komparation mellem dem.
+
+00:31:48
+Og disse resultater kan bruges til at afprøve de lokale indflydelse af træer, deres indflydelse på distriktsniveau eller endda på hele byen, baseret på interventionsplanerne, som brugerne har.
+
+00:32:06
+Og disse kan blive sammenlagt sammen, og beslutningen kan blive lavet baseret på det.
+
+00:32:14
+Her er en repræsentation af...
+
+00:32:21
+Her til højre ser du resultaterne for Roskilde, for eksempel, hvor vi modellerer to forskellige scenarier for grøntsætning og den næste status af sit sted.
+
+00:32:36
+Vi komparerede disse to i form af run-off, baseret på forskellige regnfalleventer, der vil opstå i de sidste 10 år, 5 år, eller to år.
+
+00:32:52
+Vi gjorde også en komparation mellem temperaturen mellem hele byen, parkeringsparken selv, eller de lokale effekter af træer på stedet.
+
+00:33:06
+På højre side ser du, hvordan det vil blive præsenteret i plattformen, og hvordan det kan væres set i form af forskellige effekter af træer.
+
+00:33:20
+som vi kommer til at forklare mere om på toolboxen.
+
+00:33:25
+Og sidst vil vi have de monetære værdier af disse ekosystems- servicer tilføjt til enkelte træer.
+
+00:33:34
+Med hjælp af hver enkelte træ i form for miljøriske mitigeringer har vi nogle europæiske handbokker, som vi kan tilføje og få de monetære værdier som træer virkelig bidrager til og giver tilfælde for, og på grund af det vil vi monetisere forskellige træer, som er planteret i forskellige lokationer.
+
+00:34:00
+Jeg vil forklare det mere i plattformen.
+
+00:34:05
+Hvordan kan denne tilfælde virkelig hjælpe kendtelefonen?
+
+00:34:14
+Med risikomapperne, i en stad og har højresolution landskabdata og de tilfældige steder for træplantering i en stad, kan vi faktisk identifere, hvor er den potentielle træplanteringsplads i en studieområde.
+
+00:34:36
+Baseret på de miljørisker, vi har, aggregerer vi dem med mulig-kriterie-assessment.
+
+00:34:43
+Vi prioriterer lokalerne, hvor en træ kan være planteret, og vil give den største indflydelse.
+
+00:34:50
+Det vil først mitigere miljøriskerne, og på den anden side, vil det tjene mere penge, i forhold til at beslutte på grund af andre kreativiteter.
+
+00:35:03
+Så jeg vil bare hurtigt gå gennem plattformen.
+
+00:35:10
+Er min skærm synlig?
+
+00:35:17
+Ja.
+
+00:35:18
+Okay, så det her er plattformen.
+
+00:35:25
+Lad os sige, at vi har en stad, og at vi ønsker at have en repræsentation af impactet af træer.
+
+00:35:34
+Useren kan faktisk hoppe rundt i forskellige områder i en stad, og så kan vi have en map af træer, som blev fordelt af DHI.
+
+00:35:46
+Vi kan filtere dem baseret på højde, krogsdiameter og deres miljøservicer.
+
+00:35:54
+For eksempel kan jeg bare filtere træer op til 24 meter højt eller mere end 8 meter højt.
+
+00:36:08
+Det vil blive visualiseret på plattformen.
+
+00:36:13
+Vi kan også repræsentere miljøriskerne For eksempel lydpollution i en stad.
+
+00:36:20
+Og luftpollution, for eksempel.
+
+00:36:25
+Og baseret på disse forskellige værdier, hvor vi har hotspots, vil vi have forskellige kontributioner af træer i en studieområde.
+
+00:36:36
+Så hvis jeg klikker på en enkelt træ, vil jeg have forskellige billeder til den træ, og den træs fysiske tilfælde, som træhøjde og kræftdiameter, og deres tilfælde til luftpollutionremovelse eller stormvandbehandling i form for monetære værdier, baseret på det europæiske handbok og CD-assignede monetære værdier.
+
+00:37:10
+Og disse værdier kan være forskellige, hvis en træ er positioneret i et specifikt sted i en by, hvor vi har et specifikt problem med luftpollution, for eksempel.
+
+00:37:22
+Her er NO2-removelsen 55 euro pr.
+
+00:37:25
+år, mens for eksempel denne her.
+
+00:37:28
+Denne.
+
+00:37:34
+Vil være 50, fordi den er yderligere fra risikoen.
+
+00:37:39
+Vi kan også definere projekt, og for forskellige projekter kan vi udvikle forskellige scenarier.
+
+00:37:47
+For eksempel her vil jeg gå gennem Frederiksberg, som var et andet testfælde.
+
+00:37:52
+Det var præsenteret i sliderne.
+
+00:37:56
+For Frederiksbergs brugsfælde udviklede vi forskellige scenarier for træer.
+
+00:38:04
+En var baslinen, som er den nye position af træer i studieområdet.
+
+00:38:12
+For eksempel her er den nye landskab.
+
+00:38:16
+Vi havde et andet scenario, hvor vi skubbede alle træer i domænen, og vi lavede modellen med modeller i termer af temperatur, og vi visualiserede det.
+
+00:38:31
+Vi lavede også nogle adjusteringer for træer, og vi repositionerede træerne i pocket parks, og det er et hypothetisk.
+
+00:38:41
+scenariet, som vi virkelig ønskede at visualisere.
+
+00:38:44
+Hvad ville være forskellen på de forskellige konfigurationer af træer i domænet?
+
+00:38:51
+Og så igen, at det resulterede i en anden temperaturpattern i studieområdet.
+
+00:38:58
+Samtidig for et tilføjet scenarie, hvor vi tilføjede numret af træer i regionen.
+
+00:39:04
+Her kan man se en komparation af de forskellige scenarier.
+
+00:39:10
+de forskellige effekter, som grønland og træer kan have i en lille område som dette.
+
+00:39:20
+Så hvis du har nogen spørgsmål eller nogen punkter, så vil jeg være glad for at.
+
+00:39:40
+I don't think we have any questions in the chat right now, but feel free.
+
+00:39:46
+But I have a question for you.
+
+00:39:49
+Thank you for all your good presentations.
+
+00:39:52
+It was very interesting.
+
+00:39:54
+But I have a question for you, Henrik.
+
+00:39:57
+Can you tell us more about how you used it?
+
+00:40:02
+Yes.
+
+00:40:04
+Is it okay that I.
+
+00:40:06
+Do.
+
+00:40:06
+This in Danish?
+
+00:40:08
+Ja, selvfølgelig.
+
+00:40:09
+Okay, tak.
+
+00:40:10
+Det er meget tidligt.
+
+00:40:13
+Så tak.
+
+00:40:14
+Ja, men det er klart, at den her toolbox ser vi jo meget frem til at kunne få ud i kolding også.
+
+00:40:22
+Det er data, vi har modtaget indtil videre, bruger vi i den daglige planlægning.
+
+00:40:27
+Vi bruger den der regel fra Siskel Køge-Dijonjak, 33300-reglen, som vi kun lagde i vores kommende bynaturplan.
+
+00:40:36
+Derfor er det jo ekstremt værdifuldt for os, at vi har vores datagrundlag på plads.
+
+00:40:42
+Vi har fået lavet nogle andre analyser og kronedæk-analyser også, og det her giver os en mulighed for at sammenligne det her datagrundlag.
+
+00:40:54
+Og der må vi sige, at det her data, vi har fået fra C-Ware for 100K Trees-projektet, er i den grad meget detaljeret og rigtig validt at bruge.
+
+00:41:05
+Det vi bruger det til, er den kommende fysiske planlægning.
+
+00:41:11
+Både internt i kommunen og i vores forvaltning, kan vi rulle det ud.
+
+00:41:16
+I forhold til at finde de spots, hvor vi ikke er så godt dækket ind.
+
+00:41:22
+I forhold til at ramme de.
+
+00:41:23
+3300 principper.
+
+00:41:27
+Det er et godt tool i forhold til politiske beslutninger eller dialog med.
+
+00:41:34
+Borgere.
+
+00:41:35
+Det er jo klart, fordi nogle af vores vigtigste opgave er at kunne glæde politikerne på, beslutningstagerne på, men også kunne kommunikere det ud til borgerne og til dem, der rent faktisk står og har nytten af den i dagligdagen.
+
+00:41:51
+Dem, der planlægger for vores trafik, dem, der planlægger for vores fysiske udvikling i forhold til nye boligområder, erhvervsområder.
+
+00:41:59
+At alle er klædt på med en form for basisviden, som vi kan i tale sætte.
+
+00:42:06
+Hvorfor det er, at vi gør det her?
+
+00:42:09
+Hvad er det for noget datagrundlag, det rent faktisk ligger bag?
+
+00:42:11
+Hvad er det, vi kan se, hvor situationen er lige nu?
+
+00:42:14
+Så kan vi selvfølgelig se, at der er nogle steder i Kolding, der er røde lige nu, hvor vi ikke lever op til de her 330-300 mål, men hvor der måske er en nyere boligudstykning.
+
+00:42:27
+Og der kan vi så se, hvis vi så gentager en måling om fem-ti år, så vil de træer, der er plantet i det område, at have noget ved størrelse og dermed også kunne ses bedre i den der mapping, vi har modtaget.
+
+00:42:43
+Så det er et rigtig godt kommunikativt værktøj, som vi stiller roligere ved at brede ud.
+
+00:42:48
+Vi modtog det i foråret, og nu er det klart, at nu har det været sommer.
+
+00:42:52
+Nu kører vi hen over i efteråret, hvor vi får rullet det ud i vores forvaltning.
+
+00:42:58
+Og det er jo også klart i forhold til den der EU-lovgivning, der kom omkring turgenopretning.
+
+00:43:03
+Vi mener, det er et 10%-kronedække inden 2030.
+
+00:43:07
+Der skal vi ligesom vide, hvad er det for et datagrundlag, eller hvad er vores situation lige her nu i vores kommune.
+
+00:43:17
+Og det må vi sige, der får vi et rigtig validt datagrundlag for her.
+
+00:43:21
+Så det er et rigtig godt arbejde, og jeg er sindssygt nysgerrig på den toolbox, som alle os viser.
+
+00:43:28
+Det er jo fantastisk, hvis man på sigt ude i kommunerne, kan få sådan et værktøj.
+
+00:43:36
+I alle kommunerne.
+
+00:43:38
+De kommuner, der nu går med i projektet.
+
+00:43:41
+Det er kun noget i forhold til at kunne kommunikere opad og udad.
+
+00:43:47
+Kræver der nogen særlige ressourcer eller kompetencer internt i kommunen?
+
+00:43:53
+Altså det, I har testet lige.
+
+00:43:54
+Nu?
+
+00:43:57
+Både I og jeg synes faktisk, at det er et kommunikativt, rigtig godt værktøjs, hvor alle kan være med.
+
+00:44:08
+Og det er uanset, hvilken faglig baggrund man har, så taler det her ind i mange af vores fagligheder.
+
+00:44:14
+Så hvis hver sæder enten med noget klimahåndtering, eller med noget boligudvikling, eller undskyld byudvikling, eller for mig specielt med den grønne struktur, udvikling af den grønne struktur, sikring af den grønne blå struktur, så taler det ind i mange af vores fagligheder.
+
+00:44:31
+Og den måde gør det så måske, Hvis man må bruge det ord, et mere universelt værktøj.
+
+00:44:36
+Datagrundlaget her.
+
+00:44:39
+Og det er rigtig præcis det, vi har fået fra Sivo her.
+
+00:44:44
+Så stor ros herfra i hvert fald.
+
+00:44:46
+Fordi det, der er vigtigt for os, det er, når vi går ind i sådan nogle samarbejder her, at det også er noget, man kan bruge og omsætte til handling i kommunerne.
+
+00:44:56
+Og det er klart, nu kan vi gå ind og se i forhold til de her spots, som nu kommer rundt omkring i Kolding, så kan vi se, hvor er det, vi har nogle handlinger eller indsatser, der er påkrævet i forhold til at kunne leve op til de her 3300-3000-regler.
+
+00:45:09
+Og det giver det her rigtig godt detaljeret billede af.
+
+00:45:13
+Så meget nyttigt værktøj, vil jeg.
+
+00:45:17
+Sige.
+
+00:45:17
+Der er en, der spørger her i chatten.
+
+00:45:19
+Et generelt spørgsmål til jer også om, hvad kræver det at få adgang til værktøjer, data, pris og kompetencer?
+
+00:45:25
+Altså nu har vi lige snakket lidt om kompetencerne, men både til udviklerne og jer til jer i Kolding.
+
+00:45:33
+Vil du spørge på den først, Birgitte?
+
+00:45:36
+Ja.
+
+00:45:37
+Tak for spørgsmålet.
+
+00:45:38
+Det er noget, vi er ved at kigge på nu, efter vi har haft de her use cases.
+
+00:45:42
+Vi er ved at beregne, hvad det vil koste for at udvikle de forskellige værktøjer, netop placeret på de erfaringer, vi har på de forskellige use cases.
+
+00:45:49
+Det vil vi samle i en pakke, så vi kan sige noget om, hvad det vil koste for en by som Kolding.
+
+00:45:56
+For eksempel er jeg også meget interesseret i at få Kolding med, så vi kan sige, at en by, som har den og den slags data, Hvad vil det koste at lave de services?
+
+00:46:05
+Det har meget at gøre med, hvilken data byen selv har.
+
+00:46:09
+Om man har high resolution data og højdemodeller osv.
+
+00:46:13
+Det bliver et varieret priseksempel.
+
+00:46:18
+Det er noget, Nina arbejder på lige nu.
+
+00:46:21
+Det bliver en af de seneste deliverables, vi skal aflevere om et par måneder.
+
+00:46:25
+Omkring den final business model for projektet.
+
+00:46:31
+Hvis man er interesseret i det, send os en e-mail.
+
+00:46:37
+Så kan vi dele det rundt, når vi har resultater på det.
+
+00:46:43
+Jeg kan lige skrive min e-mail.
+
+00:46:44
+I kommentarfeltet.
+
+00:46:46
+Hvordan er planen med udviklingen af projektet, efter at EU-projektet ender?
+
+00:46:56
+Sådan er det med EU-projekter, om jeg så må sige, at så ændrer fundningen.
+
+00:47:01
+Men som vi kan se, er der en masse rigtig bæredygtige services allerede, både fra DHI, Bitagreen og Eurosense osv.
+
+00:47:12
+Så mange af delene vil jo leve videre.
+
+00:47:15
+Og også den samlede platform kan også blive leveret fra de her mere tekniske partnere, helt sikkert.
+
+00:47:23
+Det bliver et bæredygtigt projekt på den måde, at det ikke bare dør.
+
+00:47:27
+Der er mange levedygtige elementer her, som kan bære det videre.
+
+00:47:32
+Jeg ved også, at I har store planer med forskellige ting.
+
+00:47:35
+Det er meget lovende.
+
+00:47:36
+Nu kan jeg starte helt neutralt, for jeg er konsulenten i sammenhænget.
+
+00:47:41
+Endelig send en e-mail til enten Mads eller mig selv, hvis I er interesserede.
+
+00:47:49
+Undskyld, Henrik.
+
+00:47:50
+Der blev også brugt.
+
+00:47:51
+Lidt ind.
+
+00:47:52
+Til kompetencerne til os i kommunerne.
+
+00:47:54
+Det, jeg måske ikke fik sagt, var, at det her blev rigtig brugervenligt.
+
+00:48:00
+Der har jeg også fået nogle spørgsmål på fra nogle andre kommuner.
+
+00:48:05
+Er det så kun vores GIS-folk, der kan sidde med det her?
+
+00:48:08
+Fordi jeg er ikke så stærk i det her GIS.
+
+00:48:12
+Er det noget, jeg vil kunne bruge som arbejdsredskab?
+
+00:48:14
+Det er også lige det, vi har set i dag.
+
+00:48:17
+Det ser yderst brugervenligt ud.
+
+00:48:19
+Og det er også det, der blev snakket om tidligere, så det vil jeg også bare lige adressere til folkene bagved, os masse og anige.
+
+00:48:28
+Det tyder på at blive et rigtig brugervenligt værktøj.
+
+00:48:34
+Det vil jeg bare lige sige.
+
+00:48:36
+Det lover rigtig godt.
+
+00:48:38
+Vi har.
+
+00:48:38
+Lige et spørgsmål mere også her.
+
+00:48:41
+Biodiversitet var nævnt, men hvordan kan man effektivt kontrollere biodiversitet, når fokuset kun.
+
+00:48:50
+Er på træer?
+
+00:48:51
+Det er en meget interessant spørgsmål.
+
+00:48:57
+Først og fremmest når vi snakker om at afprøve biodiversitet, må vi virkelig definere, hvad det handler om.
+
+00:49:05
+For vi mennesker er også en del af biodiversitet i byer.
+
+00:49:10
+Vi kan snakke om flora eller fauna.
+
+00:49:13
+Så i udvalgningerne på Citiescale, hvis vi fokuserer kun på flora, så vil det være landudvalgning.
+
+00:49:22
+Så vi vil se på grønne områder.
+
+00:49:27
+Metoden, vi havde her, var faktisk lidt mere inklusiv.
+
+00:49:32
+Den fokuserede mest på børn, fordi de er dynamiske.
+
+00:49:39
+De er nødt til at grønne, men samtidig er der nødvendighed for andre faktorer, som lydforurening eller for eksempel bygning af arkitekter eller bygning af volymetri.
+
+00:49:57
+Biodiversiteten vi har i projektet er baseret på lyd, landskab, men også på menneskelig tilfælde.
+
+00:50:08
+og vejer og netværker i en stad.
+
+00:50:13
+Det er et index, der er afhængig af alle disse, og det er teknisk en multikriterie-assessment af forskellige lager af menneskets indflydelse, landbrug og også lydskaber.
+
+00:50:28
+Tak.
+
+00:50:36
+Yeah, and then there is a lot of links in the chat, and there is a link for your website and your LinkedIn and email, so everyone go and look in the chat if you want to see more.
+
+00:50:53
+And if there is no more questions, then thank you so much.
+
+00:50:57
+It was very, very interesting, and it was good to see the tool, Swallow Alley.
+
+00:51:04
+It was nice that you showed us.
+
+00:51:07
+Hav en god dag, alle sammen.
+
+00:51:11
+Tak, for at I inviterede os.
+
+00:51:14
+Det har været meget brugeligt.
+
+00:51:16
+Tak, alle sammen.
+
+00:51:17
+Hav en god dag.
+

@@ -1,0 +1,885 @@
+00:00:15
+På vegne af DNNK vil jeg bøde velkommen til dagens Tech Talk.
+
+00:00:20
+I teknikken sidder Morten Halling, og jeg er Christoffer Sindby, af Dagens Hvert.
+
+00:00:25
+For god ordens skyld skal jeg sige, at Tech Talken bliver optaget, og den vil blive lagt på DNNK's hjemmeside i løbet af en uge.
+
+00:00:33
+Lidt om det praktiske, så kan I stille spørgsmål løbende undervejs i chatten, og så vil jeg tage spørgsmålet op til slutningen af den Tech Talk.
+
+00:00:42
+Dagens Tech Talk er med Sabine Bryde fra Vabro, der vil fortælle om forskellige projekter i dansk kontekst med erfaringer om brug af kontraklap og alternativer som Vasto Stop-ventilen.
+
+00:00:57
+Velkommen til, Sabine, og tak fordi du ville stille op.
+
+00:00:59
+Ordet er dit.
+
+00:01:01
+Mange tak, og tak fordi I alle sammen tager tid til at høre lidt på, hvad jeg har at fortælle.
+
+00:01:07
+Jeg går stille og roligt i gang, og som sagt, så stiller I bare jeres spørgsmål, som vi tager i slutningen af chancen her.
+
+00:01:15
+Jeg har valgt nogle projekter ud, som jeg har været i gang med de sidste par år, hvor vi har brugt kontraklappen, vi har brugt bagstoppen, vi har været inde og overveje og sådan noget her, hvordan vi gør tingene.
+
+00:01:27
+Men først så vil jeg lige fortælle, hvem jeg er.
+
+00:01:33
+Jeg skal lige have det her.
+
+00:01:39
+Vapro er et firma, som oprindelig er svensk.
+
+00:01:45
+Firmaet jeg kommer fra oprindelig, hvor jeg startede for 12 år siden, hedder egentlig Bregria, og har siden heddet Ria Vortech.
+
+00:01:54
+Men da vi blev opkøbt af Vapro, blev vi egentlig enige om, at det gav mening, at vi skiftede navnet helt.
+
+00:02:00
+Så derfor kender nogen af os måske som Bregria Ria Vortech.
+
+00:02:06
+Projektet jeg startede for 35 år siden af en ældre herre i dag, der hedder Elie Vestergaard.
+
+00:02:15
+Men på sidelinjen der startede Vapro faktisk op nogenlunde samme år i Karlshamn i Sverige.
+
+00:02:23
+Og de her to lidt opfindere har jo så begge to bevæget sig inde i det her spildevandsystem.
+
+00:02:31
+Proagria var egentlig opstart som landbrugsting, men da landbrugssektoren begyndte at gå lidt ned ad bakke, så vendte man tingene om og gik lidt over mere i spillevandsbranchen og stormflodsikring og sådan noget.
+
+00:02:44
+Så Vapro i Sverige og Proagria i Danmark har faktisk arbejdet sammen de sidste 20 år om løsninger og sådan noget til de forskellige ting, så da vi blev sat til salg, der gav det mening, at vi ligesom fik slået os sammen, og det var der heldigvis andre, der også synes.
+
+00:03:02
+Lidt af de værdier, som vi alle har kørt efter, er det her med, at vi vil gerne synlægge mindst muligt ude i det offentlige rum.
+
+00:03:11
+Vi vil gerne kunne tilpasse os de ting, der er derude, uden at man skal hen og lave for meget om på bygværket.
+
+00:03:21
+Når vi tænker grønt, er det været vigtigt for os, at vi kan tilpasse os inde i det rum, man har i dag.
+
+00:03:31
+Lige lidt kort om mig.
+
+00:03:34
+Jeg startede i firmaet for 12 år siden i bogholderiet.
+
+00:03:40
+Efter et par år, så syntes jeg, at de her tal var lidt kedelige.
+
+00:03:43
+De snakkede ikke.
+
+00:03:44
+Så min rolle blev egentlig lidt ændret, til jeg sad i customer service.
+
+00:03:48
+Til jeg så for 4 år siden er kommet ud og kører og er blevet teknisk sælger.
+
+00:03:54
+Så det var lige lidt kort om firmaet og om mig.
+
+00:04:02
+Det vi i dag skal gennemgå og kigge efter, det er den her Vagestop.
+
+00:04:06
+Vagestoppen bliver produceret i Sverige på vores firma i Karlshamn.
+
+00:04:11
+Og så har vi den almindelige ContraClap, og den bliver produceret i Otterup.
+
+00:04:19
+Når vi producerer tingene ved os, så er det også, at vi bruger ret lokale leverandør.
+
+00:04:24
+Vi tænker meget fra leverandøren til os, hvor har vi den korteste vej henne.
+
+00:04:30
+Hvor kan vi påvirke, så vi påvirker miljøet mindst muligt, så vi også kan efterlade os et ret kort eller et ret lavt CO2-aftryk, fordi vi har vores leverandører i nærområdet.
+
+00:04:46
+Det giver også fordel i den her kontekst, at hvis vi har nogle ting som haster, hvor vi har brug for stor hjælp, så har vi vores leverandører lige i nærheden af os, så leverancetiden er heller ikke så stor.
+
+00:05:03
+Så jeg vil lige starte med at forklare lidt om, hvad er fordelen ved kontraklamper, hvad er fordelen ved vagestoppen.
+
+00:05:14
+Hvor jeg lige fortæller lidt om nogle punkter.
+
+00:05:19
+Vagestoppen er jo den her stålkern eller stålrør, hvor der sidder den her gummimembran inde i.
+
+00:05:29
+Jeg har en film her, som viser til dem, der ikke kender det, hvordan det egentlig fungerer.
+
+00:05:35
+Til dagligt, når der kommer noget vand fra byen af eller noget, der skal ud, så stander den et bagtryk på den her gummimembran og gør til, at den har sådan et pulserende tryk ud.
+
+00:05:49
+Når opstigningen så kommer hjem, så er membranen lukket hele tiden, så det kræver et stort modtryk bagfra for at kunne lukke vandet ud.
+
+00:06:00
+Det giver både nogle fordele og nogle udlemper.
+
+00:06:03
+Fordelen ved de her pulserende skyld, den kommer med, det er, at den altid holder røret rent foran sig og inde i røret.
+
+00:06:12
+Så det skidt, der ligger sig bagved, det vil altid blive skyllet med ud.
+
+00:06:16
+Det vil også sige, at den her fordel ved den, at hvis man har den ude ved køstområder, man har den ude ved stranden og sådan noget, jamen alt det sand og skidt, der vil lægge sig foran, som vil slukke af for en almindelig kontraklap, det vil blive skyllet væk.
+
+00:06:34
+Så der er en sikkerhed i, at den altid åbner.
+
+00:06:38
+Og det vil jo så også sige, at skulle der lægge sig en sten eller et eller andet, den bliver skyllet væk, så den kan lukke igen.
+
+00:06:46
+Så man kan altid være sikre på, at den her er lukket.
+
+00:06:51
+Ulempen er ved den, at hvis dit hydraulik i rørene ikke må være så stor, at man har brug for fripladsen i røret, så det her med, at den skal fylde røret op, før den åbner, det kan skabe nogle problemer.
+
+00:07:06
+Og det er også noget af det, vi kommer ind på her i nogle af de her cases, hvor vi har måtte finde nogle alternativ løsninger nogle steder.
+
+00:07:18
+Her i Danmark leverer vi den altid i 316-stol.
+
+00:07:23
+Dimensionerne findes som standard fra ø 75 til ø 2.000.
+
+00:07:30
+I Danmark findes den største i Esbjerg, som er ø 1.800.
+
+00:07:37
+Op til ø 200 er de CE-mærkede efter europæiske standarder, så der er vi med der også.
+
+00:07:50
+Inden på vores hjemmeside, der vil man altid gå ind på de specifikke størrelser og finde åbningstrykkene på dem.
+
+00:07:57
+Og hvor meget vi tager af hydraulikken i rørene.
+
+00:08:03
+Så der har man altid mulighed for at gå ind og kigge.
+
+00:08:08
+Og er man i tvivl, så er man altid velkommen til at kontakte os for at få hjælp til uddybelse af det.
+
+00:08:14
+Vi kan levere de her vaster med tre forskemmelige med barnet faktisk fire.
+
+00:08:21
+Hvis vi arbejder med trykket, så kan det være en fordel, at vi nogle gange kan sætte en blødere membran i, så den har en åbningstryk, der åbner lidt før.
+
+00:08:29
+Vi kan også sætte en hårdere i, fordi vi vil gerne have et større tryk, inden den åbner.
+
+00:08:36
+Så har vi også en membran, hvor vi kan sige, at der kan være risiko for nogle kemikalier.
+
+00:08:41
+Det kan være ude i havneområder eller et eller andet, hvor man tænker, at der er tit skibe, og der er noget olieslip eller et eller andet.
+
+00:08:48
+så har vi muligheden for at kunne gå ind og sætte en kemikalieresistenspakning eller membran ind i, så levetiden er større.
+
+00:08:57
+De første af de her vagestop blev sat i for omkring 25 år siden.
+
+00:09:04
+Mange af dem lever endnu.
+
+00:09:08
+Det, der kan tage af levetiden, det er egentlig et meget voldsomt miljø.
+
+00:09:13
+Det kommer vi ind på senere også nogle løsninger.
+
+00:09:15
+Men det er så også igen det her med kemikalier og sådan noget, Vi siger, at standardlevetiden på dem er et sted mellem 10 og 15 år uden problemer, men vi ser, at levetiden er længere på dem, og i og med, at vi ikke kan sige længere end de 25 år på nogle af dem, det er, fordi de her ikke har eksisteret længere.
+
+00:09:35
+Hvis vi så skal snakke om kontrakab, der har vi rigtig mange installationsmuligheder i, fordi vi kan lave dem efter ønske, vi kan lave dem firkante, vi kan lave dem runde, Det er næsten fantasien, der kun sætter grænser for, hvordan de kan gøre.
+
+00:09:53
+Fordelen med kontraklapperne er også, at der skal være en lille opstugning, for at den åbner sig.
+
+00:10:00
+Den er meget nemmere at have med at gøre, hvis man ikke vil have for meget vand i rørene.
+
+00:10:08
+Den stopper tilbage i løbet.
+
+00:10:11
+Vi producerer altid vores kontraklapper i vores pris syrefast stål.
+
+00:10:17
+Det er det mindste af det, kan man sige.
+
+00:10:19
+Ellers så er det P, E, H, D.
+
+00:10:23
+Vi har MBR-pakninger og EPDM-pakninger, alt efter hvor vi skal bruge det til.
+
+00:10:30
+Og dimensionerne, det er fra 110 af, og så, ja, det er igen, hvad natur ligesom sætter grænser for os.
+
+00:10:40
+Vi har ingen stålhængsler i vores kontaklapper, for oven der er en et gummihængsel med noget indvævet stof i.
+
+00:10:56
+Og det er egentlig det samme som man bruger i mineindustrien til transportbåndene.
+
+00:11:02
+Det er det her transportbånd, vi egentlig bruger.
+
+00:11:05
+Det er utrolig slidstærkt.
+
+00:11:06
+Det er UV-bestandigt, så der sker ikke noget ved det.
+
+00:11:11
+Vi har valgt at vinkle vores håndtræklapper i 15 grader.
+
+00:11:17
+Og det er simpelthen for at vi er sikre på, at låget lukker sig ned igen.
+
+00:11:21
+Hvis det bliver af en bølge eller et eller andet bliver lukket op, så har vi muligheden for at sige, at det er vinklet, så den skal nok søge mod luk igen.
+
+00:11:34
+Men den har jo så ikke det her pulserende skyldeeffekt, så det kan give nogle problemer, specielt i åer og havmiljøer, der kan ligge så skidt inde i de her kontraklapper.
+
+00:11:49
+Her kan der komme en gren, en plastikpose, hvad man ellers ser i de her åer og ved havvandet, som egentlig ligger sig i klemme, hvid, låg, og så lukker den jo ikke igen.
+
+00:12:02
+Så der er det vigtigt, at hvis man vælger en kontraklappe, at man er klar over, at det kræver lidt mere drift og vedligeholdelse af dem, at man er lidt mere opmærksom på det, fordi hvis der ligger sig noget i klemmen, så er den ikke lukket.
+
+00:12:16
+Det kræver et voldsomt regnskyld eller noget bagfra, for det bliver skyllet væk, fordi den egentlig står og siver en lille smule hele tiden.
+
+00:12:24
+Så det er nogle af ulemperne ved den.
+
+00:12:29
+I maj 2003 blev jeg kontaktet af Vandsted og Sød, af ingeniøren, der sidder derude af GATA, at de havde nogle kritiske udløb ved Odense Å, som de ønskede, at vi kunne hjælpe dem med.
+
+00:12:51
+Så det er egentlig den første case, jeg vil fortælle om.
+
+00:12:55
+Det kritiske område er ligesom at tage en arter her, hvis der er nogen, der kender det.
+
+00:12:58
+Vi har Odense Sygehus herude, og hernede der ligger, hvad er det nu, det hedder, Ejby Mølle, som er rensingsanlægget.
+
+00:13:05
+Så har vi åen, der går igennem her.
+
+00:13:09
+Det her område her, det er Hunderup-kvarteret, hvor nogle af de dyre boliger og sådan noget, så det har givet nogle problematikker, og det har regnet, og åh, den har stået for højt.
+
+00:13:23
+Så det der skete, det var, at jeg fik de her ni udløb.
+
+00:13:29
+Jeg har valgt at tage de fire ud i dag, fordi det var ligesom dem, der gav bedst mening.
+
+00:13:36
+Men det jeg var, det var, at jeg fik de her billeder og en meget kort beskrivelse.
+
+00:13:43
+Fattigvand sendte os ud efterfølgende og sagde, at vi rigtig gerne ville hjælpe dem.
+
+00:13:48
+Men for at vi kunne komme med den bedste løsning til det bedste sted, så havde vi brug for at komme ud og se det.
+
+00:13:55
+Og hvad det nu hedder, at få målt op og talt tingene igennem.
+
+00:14:00
+Og det passer fint.
+
+00:14:02
+I maj og måned tømrer de en del af åen ud, så der havde vi mulighed for at kunne komme ned og kigge på det.
+
+00:14:13
+Odense er en rigtig gammel bydel, så der er rigtig mange af de her gamle udløb rundt omkring, og der vil vi jo rigtig gerne kunne passe ind i, uden at der skulle laves nye bygværker, fordi det er ekstremt dyrt.
+
+00:14:28
+Det er en stor belastning for miljøet.
+
+00:14:31
+Så vi tog ud og kiggede på det.
+
+00:14:34
+Min kollega Thomas, som står her, så har vi stående her bagved.
+
+00:14:42
+Og der gik vi dem slaviske igennem, fik målet op efterfølgende.
+
+00:14:47
+Så gik vi hjem og tegnede dem.
+
+00:14:49
+Og jeg tager egentlig bygværkerne lidt for lidt.
+
+00:14:52
+Der er et billede med, så I egentlig kan følge med i, hvad der sker.
+
+00:14:58
+Man var egentlig ret forelsket i Vagestoppen og syntes, at det var en ret god løsning her til Odense Å.
+
+00:15:05
+Fordi specielt i de her områder her, det er et sted, hvor der er rigtig mange mennesker.
+
+00:15:11
+Det her sted er et kendt sted, hvor man mødes til sidste skoledag.
+
+00:15:15
+Der er som regel rigtig meget affald i åen lige her.
+
+00:15:18
+Der kunne man se en god mening med, at vi kunne sætte vagestop ind.
+
+00:15:23
+Vi støtte bare på to problemer her.
+
+00:15:26
+Det ene var hydraulikken i rørene.
+
+00:15:29
+Der var ikke kapacitet til, at vi skulle fylde rørene så meget op, for at vagestoppen kunne åbne.
+
+00:15:38
+Og den anden ting var, at vi havde problem med pladsen her.
+
+00:15:43
+Så vi fik det egentlig målt op.
+
+00:15:45
+Fik tegnet det her op.
+
+00:15:48
+Vi blev ligesom nødt til at dele kontraklappen i tre.
+
+00:15:53
+For at låget til klappen ikke blev for tung.
+
+00:15:57
+For ellers ville det igen påvirke hydraulikken på det.
+
+00:16:00
+Så vi var hen og fik det tegnet op.
+
+00:16:03
+fik lavet udregninger på, hvor meget vi ville kunne lukke op, hvor meget tager det her af lysningen i udløbet.
+
+00:16:12
+Så denne her, der var løsningen simpelthen, at vi lavede en 3-del kontraklap, som blev sat ind, for at vi kunne afhjælpe det her.
+
+00:16:26
+Den anden, som vi så før også.
+
+00:16:32
+Det var egentlig lidt samme problematik.
+
+00:16:34
+Vi havde et firkantet hul, og hydraulikken i det gjorde også til, at vi igen ikke kunne gå ind og sætte en vagestop ind i her.
+
+00:16:43
+Lige meget om vi tog en flange med små vagestop og satte i, så var det simpelthen ikke løsningen.
+
+00:16:52
+Men her kunne vi faktisk gå ind og sætte den så meget ind i bygverket, så det faktisk heller ikke ville synes så meget.
+
+00:16:59
+Så når man går tur langs Odense Å, så ser man den faktisk ikke ret meget.
+
+00:17:07
+Den sidste løsning, det var den her.
+
+00:17:11
+Der ligger de her to rør ude ved.
+
+00:17:15
+Der har vi efterfølgende også kunne hjælpe dem med runde kontraklapper.
+
+00:17:20
+Vi kan lave de her kontraklapper lignvagt efter rørmålene.
+
+00:17:25
+Så der er hvad det nu hedder, måler vi simpelthen røret op indvendigt.
+
+00:17:29
+Hvor stor er den indvendige diameter?
+
+00:17:31
+så drejer vi selve rørstusen ned bagpå, sætter nogle pakninger på, og så trykker man den egentlig bare ind, og så sætter den der.
+
+00:17:44
+Den næste løsning vi havde, den var lidt problematisk.
+
+00:17:50
+Det store rør, som I ser heroppe, endte faktisk under broen herude under åen, så der var ikke noget bygværk uden om det.
+
+00:18:00
+Og lige hydraulikken i røret her, det var et kæmpe issue.
+
+00:18:04
+Fordi lige meget om vi tog en af de almindelige kontraklapper, som vi så på slicen lige før, så gav det problemer bagud i rørsystemerne.
+
+00:18:16
+Så der var vi hen og regne frem og tilbage.
+
+00:18:19
+Hvad var den billigste løsning?
+
+00:18:21
+Men her kunne vi ikke løse det, medmindre at vi fik lavet et bygværk.
+
+00:18:29
+som kunne hjælpe afhjælpe med noget af det her og kunne tage noget af vandet.
+
+00:18:34
+Så der sammen med Vandtagelsen til Syd gik vi sammen med Vita-ingeniørerne ind i Odense og fik begyndt at få tegnet et bygværk op, som kunne rumme det her og klare de mængder vand, der skulle være.
+
+00:18:46
+Og så valgte vi at sætte en 1600-vags stop ind i bygværket efterfølgende.
+
+00:18:51
+Der havde vi kapaciteten op til at kunne tage den her, og det vi så efterfølgende kunne spare, oprensninger og sådan noget af rør efterfølgende.
+
+00:19:01
+Jeg var med ude sidste år og kiggede til det, og dem der fotograferede fortalte, at de havde ikke set rør, hvor det var så let beskidt.
+
+00:19:10
+Så det var en fantastisk oplevelse.
+
+00:19:15
+Vi havde et af bygværkerne ud af de ni, hvor hvor hydraulikken simpelthen drillede os så meget, at vi forsøgte på at lave nogle alternative løsninger og lave noget flow igennem for ligesom at se, hvad kunne vi gøre af andre løsninger.
+
+00:19:35
+Vi havde heldigvis lavet en lignende sag til Odense Kommune i Seddens Syd, hvor vi efterfølgende havde Vandcenter Syd med ud og kigge på den her løsning også.
+
+00:19:51
+Det her viser lidt af de her overvejelser, vi gør i forbindelse med, at vi holder tingene op imod hinanden.
+
+00:19:58
+Det her er kontraklappen, hvor vi ser, hvad det kræver af hydraulik i rørene, og det her er bagstoppen.
+
+00:20:06
+Så vi har noget at holde op mod med hinanden.
+
+00:20:09
+Lige den her hører til den næste slide, hvor jeg vil vise jer, hvor vi har taget en af de store brede kontraklapper.
+
+00:20:17
+Der havde de også et kæmpe problem med, Der skulle for meget modstand til, at klappen blev åbnet, så der måtte vi hen og finde en anden løsning.
+
+00:20:26
+Så der har vi egentlig taget en stor kontraklap og sat flere små kontraklapper i for at afhjælpe.
+
+00:20:35
+Så det man kan se, vi har bygværket her, hvor den sidder, og så har vi sat mindre små kontraklapper ind i bygværket, for ligesom at vi har et større flow igennem, så vi er sikre på, at den her tunge klap Jamen, der har vi noget, der afhjælper, så i de her små dagligdags vandbevægelser i åen, der lukker den stadigvæk lidt ud.
+
+00:21:07
+Og vi er altid behjælpelig med at få det tegnet op, så man kan se, ligesom her, hvor vi tegner bygværker og alt op, så vi har mulighed for at se, hvordan kommer det endelige resultat til at se ud.
+
+00:21:23
+Det andet byggeværk, som jeg snakkede om med Odense, som vi ikke rigtig kunne lave en løsning på, der havde vi jo sat sig syd med ud at kigge på.
+
+00:21:32
+Og stadig har vi et problem, hvor vi ikke rigtig kan afhjælpe med en kontraklap.
+
+00:21:38
+Så det blev en alternativ løsning med et spjæl, som vi sætter i efterfølgende, Der skal vi hen og lave et nyt bygværk til det, men vi går ind og sætter et spjæl ind i med nogle følere og en motor på, som afhjælper problemet her, som kan åbne og lukke, når vandstanden stiger.
+
+00:21:55
+Men den har jeg ikke valgt at koncentrere mig om i dag, i og med at vi kun snakker om kontraklapperne og vagestoppen.
+
+00:22:03
+Her er lidt fra montageen af de forskellige.
+
+00:22:09
+Man kan sige, at selvom den her Ø1600 vagestop er ret stor, Så tog det faktisk ikke mere end 2,5 time fra lastbilen kom, til vi havde den inde, hvor den var her.
+
+00:22:25
+Så ret simpel montage.
+
+00:22:28
+Der er lidt mere montage i kontraklapperne, men det er stadigvæk nemt.
+
+00:22:35
+Og vi er altid behjælpelige med at kunne hjælpe med at komme med ruder og vejledning og komme ud og kigge.
+
+00:22:47
+Det her er taget i sommer, de to af billederne.
+
+00:22:50
+Her ser man den første eller den sidste, vi så.
+
+00:22:55
+Det syner ikke af meget, når man kommer.
+
+00:22:59
+Her er byggeværket færdigt med den store vagestop.
+
+00:23:04
+Her kunne jeg ikke tage nogle billeder af det for et år siden, fordi der på den modsatte side af åen er huse, så det var ikke til at komme over.
+
+00:23:17
+Så det kan man se, hvis man kommer sejlende i kano.
+
+00:23:22
+Ny sag jeg har med.
+
+00:23:25
+Jeg blev kontaktet af Bornholms Forsyning over ved Allinge.
+
+00:23:29
+Da havde de monteret for fire år siden en vagstop.
+
+00:23:33
+Og de kunne simpelthen ikke forstå, at den fungerede ikke.
+
+00:23:36
+Den sidder helt ude i enden af bygværket her.
+
+00:23:40
+Så jeg tog over til dem og kiggede på den og var nede og døk nede ved den og kunne faktisk se, at hele membranen på den her vagestof, den var faktisk i stykker.
+
+00:23:50
+Og jeg snakker lidt frem og tilbage med dem om, hvad der er sket og finder så ud af, at de har haft en stor storm derovre, hvor meget af kystbygningerne rundt om her egentlig har været påvirket af store klippestykker, der havde været smidt ind.
+
+00:24:04
+Så vi gik ud fra, at det egentlig var det, der var årsagen til, at vagestoffen var gået i stykker.
+
+00:24:13
+Så er gode røde dyr, fordi jeg syntes jo, at det var den bedste mulighed for dem at have set den derude, med at kunne godt se, at den var noget følsom ude for det her miljø.
+
+00:24:22
+Så vi gik lidt i tænkeboks og begyndte at tegne os frem til en løsning.
+
+00:24:29
+Problemet er derovre også, at de har kun det her 700 rør ud, og de vil egentlig gerne have lidt mere plads i røret derovre, Så alternativet var, at vi faktisk lavede den her flange, hvor vi sætter nogle små vagstop i bunden, og så en stor en til at tage de store regnskyld, så i daglig regn og sådan noget, så virker de tre små, sørger for at holde, hvad nu det hedder, rørt tørt, så når de store regnskyld kommer, så er der en mere kapacitet i røret til at tage de store skyld og sørge for, at oversvømmelsen ikke sker.
+
+00:25:13
+Men vi ville jo gerne have det hegnet ind eller lukket af, så membranen igen ikke blev ødelagt af de her klippestykker.
+
+00:25:20
+Så til at starte med tegnede vi det her bur udenfor, hvor man så efterfølgende havde mulighed for at kunne komme ned og rense op ved det, hvis der var noget, der havde brug for det.
+
+00:25:32
+Men forsyningen derovre sagde, at vi gerne ville have det lukket af, fordi der kunne jo ligeså godt Vi har simpelthen fået designet et låg, som så gør, at det kan lukkes ned i dagligstande, så kommer der en kæde på, så når man kommer ud og skal servicere den og kigge til den, så kan man lige åbne kæden eller trække i kæden, komme ned til den og rende sammen med den.
+
+00:26:01
+Lige nu der kører noget klimatilpasning ved Haarstrup Å.
+
+00:26:05
+Her har vi sammen med WSP og H4 været sammen med nogle andre forhandlere af kontraklapper været indkaldt til noget dialogmøde om hvordan vi kunne løse de her ting.
+
+00:26:16
+Der har været nogle issues om at man ikke kunne se dem fordi de er inde i storbyen, inde i parken.
+
+00:26:25
+Der var også noget omkring noget støj.
+
+00:26:27
+Kunne de larme hvis det var almindelige klapper der lå inde?
+
+00:26:32
+Og så skulle der helst være så lidt drift og vedligeholdelse på det, som muligt.
+
+00:26:36
+Så der var vi at fortælle vores løsninger på det.
+
+00:26:42
+Og i og med, at vi kunne gå ind i de eksisterende rør og lave løsningen, som I ser herovre.
+
+00:26:47
+Den her er gået ind fra Haarstrup Å, fordi der ikke er kommet så mange endnu.
+
+00:26:51
+Den er fra Hørsholm.
+
+00:26:53
+Så her kan vi egentlig gå ind og lave en vagestop, som passer fuldstændig ind i røret.
+
+00:26:59
+Så man ikke kan se den udvendig fra.
+
+00:27:04
+I dag sidder der to hernede under.
+
+00:27:06
+Man kan se den gamle klap, der er her.
+
+00:27:09
+Så hernede under sidder der to i modellen som her.
+
+00:27:13
+Og resten, der vil komme langs parken og hele åen, vil komme til at se sådan her ud.
+
+00:27:21
+Hvor man vælger at slutte det af i de steder, hvor de skal have nye rør, så slutter de med i betonrør.
+
+00:27:28
+Og så kan vi sætte bagstoppen ind, så den ikke er synlig mere.
+
+00:27:33
+Så i og med at vælge den her vagestop løsning, som de har gjort, så har de faktisk kunnet bitholde mange af de bygværker, der er derovre.
+
+00:27:41
+Der kan komme nogle issues, når vi så også går ind i gamle bygværker med de her vagestop her, fordi har man en vagestop, der er 1000, kan man sige, så er den to meter lang, for at den her membran har deres effekt.
+
+00:28:00
+Men vi har muligheder for at gå ind og korte af den her metalkapsel, der sidder udenover bagpå, og derved tilpasser bygværkerne også.
+
+00:28:09
+Ellers bliver alternativet den her løsning, ligesom vi så på slejdet til Bornholm, at vi går ind og laver mindre bagstop og sætter ind i en flanche, så vi tilpasser os.
+
+00:28:20
+Men igen skal vi have regn på hydraulikken hver gang, så vi er sikre på, at man stadig har det flow igennem røret, som man ønsker.
+
+00:28:28
+Og det er noget, vi leverer med hver gang, at vi laver de her løsninger, så man har mulighed for at se, om det er en holdbar situation, det vi laver.
+
+00:28:39
+Jeg har lige lidt med lidt forkerte valg.
+
+00:28:46
+De første heroppe, det er ved kloster.
+
+00:28:49
+Jeg var oppe til at kigge til dem i går.
+
+00:28:52
+Vi ville rigtig gerne have de her vaser sat ind i de her rører her, fordi de havde hørt, at det var en god løsning.
+
+00:29:00
+Der sidder en pumpestation bagved, og det er en af de problemer, vores vagestop har.
+
+00:29:05
+Den kan ikke tåle, at vi pumper igennem.
+
+00:29:08
+Ringkøbing Skjernforsyning var med på at prøve det af alligevel, til trods for, at vi sagde, at det ikke var en god løsning.
+
+00:29:16
+Men vi prøvede det, og desværre gik der ikke mere end et halvt år, så membranerne var helt flosset i stykker.
+
+00:29:29
+vores almindelige kontraklapper derude, og de har siddet der over et år nu, og i går så det fint ud.
+
+00:29:36
+Nede ved Tryglæv Nord, der har man for mange år siden valgt at sætte almindelige kontraklapper ude, de sidder helt herude.
+
+00:29:47
+Og der ser man, der sad en stål en ved siden af, og så sidder der så en af dem, som vi har lavet også, og der bliver klappen bare revet af, fordi de kan slet ikke tåle det her miljø, der er her.
+
+00:29:58
+Så i dag der sidder et vagtop med den her løsning, som jeg viste over til Bornholm, hvor der sidder en bølgebryder, en strinbryder ud foran, så man ikke får de her sten ind i membranen og bliver ødelagt, så man har en løsning, der holder mange år.
+
+00:30:18
+Nede ved Ersens Marina var jeg nede at gå en dag, der så jeg den her.
+
+00:30:23
+Det her er en kontraklap, vi har lavet til inspektionsbrønde, Den har de syntes var en rigtig god idé at have deres lige dernede.
+
+00:30:32
+Desværre ikke en ret holdbar løsning, fordi når græsset vokser op, så er det ikke en rigtig løsning.
+
+00:30:41
+Det havde nok været bedre at have en vase, der skubbede et godt stykke ind i røret, så man stadigvæk havde en mulighed for at have lidt frirum i røret udenfor.
+
+00:30:51
+Og så havde man mulighed for at slå græsset efterfølgende.
+
+00:31:00
+Vi laver også kontraklapper op i de helt store størrelser.
+
+00:31:04
+Lolland Stivelav har vi arbejdet sammen med de sidste fire år.
+
+00:31:08
+De har de her fem porte.
+
+00:31:12
+Vi har lige leveret til den fjerde port og skal have leveret til den sidste næste år.
+
+00:31:19
+Så vi laver dem op i ret store størrelser også, så vi har muligheden for at kunne hjælpe i større situationer også.
+
+00:31:31
+Ja, det var det, jeg havde.
+
+00:31:34
+Så jeg håber, hvis I har nogle spørgsmål, så...
+
+00:31:37
+Sabine, jeg.
+
+00:31:39
+Siger tusind tak for oplægget fra DNIK og alle, der lytter med.
+
+00:31:44
+Og til jer, der sidder derude og lytter med, så er I velkommen til at stille spørgsmål til oplægget, hvis I har nogle af dem.
+
+00:31:54
+Jeg har et spørgsmål i forhold til den her anlægning på Bornholm.
+
+00:31:59
+Hvor tit skal det bur renses op?
+
+00:32:02
+Når det ligger dernede, og hvad der kan komme til?
+
+00:32:05
+Vi siger.
+
+00:32:06
+At en gang i kvartalet vil vi gerne have, at man kigger på buren.
+
+00:32:13
+Vi ved, at der kan komme skidder og alt muligt med ud i regnværtsrøret.
+
+00:32:23
+En gang i kvartalet vil jeg Det siger jeg, at man skal ud og kigge til dem her.
+
+00:32:31
+Jeg har.
+
+00:32:34
+Lidt i forhold til det med skidt.
+
+00:32:36
+Det vil jeg også spørge dig til i forhold til KS3, for uden sag, hvordan det kan være, at der kommer mindre skidt ved en væg afstånd, end der gør.
+
+00:32:44
+Ved en klap?
+
+00:32:47
+I og med, at den har det her pulserende effekt, så skyller den skidtet væk foran sig.
+
+00:32:57
+Kontraklappen åbner jo bare en lille smule, når vi cirka har en opstugning på 5 cm på de her kontraklapper, så åbner den en lille smule, så længe der er vand bagpå, og det vil jo også sige, kommer der en plastikpose flydende lige så stille, så ligger den sig bare ind, og så skal der et ordentligt regnskyld til, for at den egentlig kommer løs.
+
+00:33:27
+Hvor bagstoppen, der kan man sige, at der måske godt kan ligge sig en lille sten ved membranen.
+
+00:33:32
+Eller når membranen ligger sig hen over sten, så er den ikke 100% tæt, den er 99% tæt.
+
+00:33:38
+Men når den så har opbygget trykket en gang til, så skyller den det ud, og så er der rent igen.
+
+00:33:45
+Super.
+
+00:33:46
+Og.
+
+00:33:46
+Hvad gør man egentlig, hvis der kommer skidt foran?
+
+00:33:49
+Den poliserende.
+
+00:33:51
+Effekt gør, at det bliver skubbet væk.
+
+00:33:52
+Ude ved stranden, hvor de er, ser vi, at der er kommet en lagning foran bagstoppen, fordi den skyller det væk.
+
+00:34:03
+Det svarer til at åbne en vandhane, og så kommer der ordentlig skyld, og så lukker man den igen.
+
+00:34:09
+Så man skubber det fremad.
+
+00:34:14
+Jeg ser lige, at der kommer et spørgsmål i forhold til, om vi får præsentationerne tilsendt.
+
+00:34:18
+Der kan jeg sige, at de bliver lagt op, optagelsen en gang i løbet af næste uge.
+
+00:34:22
+Så kan I gense præsentationen inde på DNNK's videnbank.
+
+00:34:28
+Og Sabine, det er jo bredstoppen, den her rensning sker foran, er det ikke korrekt?
+
+00:34:33
+Hvordan i forhold til, hvis der er noget der er oppe på, og så foran en af klapperne?
+
+00:34:37
+Er det.
+
+00:34:37
+Så det samme?
+
+00:34:38
+Så har vi jo et problem, faktisk.
+
+00:34:40
+Og det er derfor, det kræver en meget mere drift og vedligeholdelse at have en almindelig klap.
+
+00:34:45
+Fordi tingene flytter sig ikke foran en almindelig klap.
+
+00:34:49
+Vi havde faktisk med Odense her, der snakkede vi faktisk om på et tidspunkt, om vi skulle prøve at se, om vi kunne lave nogle kanter, der ligesom kunne være ud foran, hvor vi ligesom kunne aflede skidtet, inden det kom ind til bygværkerne.
+
+00:35:02
+Det løste De er faktisk lidt ved at lave nogle stensætninger ud mod åen, så det bliver skærmet lidt af, så når der kommer noget flydende ned langs åen, så bliver det skubbet væk derfra, i stedet for at ryge ind.
+
+00:35:22
+Når man.
+
+00:35:23
+Laver en rensebarrier længere ud?
+
+00:35:25
+Lige præcis.
+
+00:35:26
+Ja.
+
+00:35:29
+Jeg får ikke flere forspørgseler ude fra chatten af derude, så hvis I har nogen, så må I endelig gerne lige komme med dem.
+
+00:35:36
+Og ellers så vil jeg her til slut sige, at hvis nogen af jer har lyst til at holde en tech talk eller andet arrangement, som I synes er vigtigt eller et emne, vi skal tage op i DNNK, så må I endelig tage fat i en af os netværksmedarbejdere.
+
+00:35:51
+Og så en lille reklame, kan I altid gå ind på klimakalenderen, og finde de kommende gode arrangementer, som ligger for resten af året.
+
+00:36:00
+Så jeg får ikke nogen spørgsmål ind, Sabine, så jeg vil...
+
+00:36:04
+Tusind tak for dit oplæg, og i tid og tid er jeg der, der sidder og hører med.
+
+00:36:09
+Det samme tak, fordi I har lyttet med, og så vil jeg ønske alle sammen en fantastisk dag derude.
+

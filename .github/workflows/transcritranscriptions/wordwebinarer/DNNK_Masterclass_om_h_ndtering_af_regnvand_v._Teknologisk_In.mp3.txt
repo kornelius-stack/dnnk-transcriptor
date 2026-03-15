@@ -1,0 +1,978 @@
+00:00:04
+Godmorgen. Klokken er nu lidt over ni, og jeg tænker, vi går i gang. Som jeg sagde til, hvad vi først har kommet ind, at I har mulighed for at slå jeres mikrofon til, hvis I har nogle spørgsmål overvejs.
+
+00:00:18
+Og min erfaring er også, at det er mest interessant, at hvis vi har nogle hurtige spørgsmål, så tager vi dem. Jeg kan ikke se rigtigt, om jeg holder hånden oppe, så hvis I har et spørgsmål, så tænd for mikrofonen og lige bryd ind.
+
+00:00:32
+Ellers vil jeg selvfølgelig bede om at holde mikrofonerne slukket, så er jeg stille på dem. Ellers kan jeg starte med at introducere mig selv. Jeg hedder Lars Jørgensen. Jeg sidder her på Rørcenteret på Teknologisk Institut. Min baggrund er ikke ingeniør, selvom jeg sidder herude.
+
+00:00:48
+Jeg kommer fra den grønne side, vokser op inden for gartneri og er uddannet på Lampe Højskole. Så det har været med indgangsvinkel i det grønne og planterne. Det har jeg arbejdet med i forbindelse med klimatilpasning i de sidste 15 år. Jeg sidder på Rørcenter, så jeg er også uddannet kloakmester.
+
+00:01:08
+Lige for at sige velkommen, vil jeg sige, at det her er den første af vores masterclasses om håndtering af regnvand. I dag tager vi den generelle indgang til det, hvordan vi håndterer regnvand, og især med fokus på, hvordan vi at sikre mod klimaforandringer, som vi ser i byerne.
+
+00:01:30
+Så kommer der to mere, en i januar og en i februar, hvor den første har fokus på sikring af bygningerne imod vand, altså skybrudsikring, men også hvordan vi kan gøre det, hvordan bruger vi klimaskærmen, hvordan bruger vi vores afløbssystemer og hvordan bruges regnet til det.
+
+00:01:45
+Det er min kollega Ulla Kinsberger, der står for den. Så har vi en i februar, hvor vi kigger ned i regnvandskvalitet og hvad det er, vi skal være opmærksomme på det, både med indsyn til lovgivning, Hvad er det for nogle ting, der ligger på det?
+
+00:01:56
+Det er Katrine Nielsen fra Rørcenteret, som står for det. For kort, for dem, der ikke kender os meget, er Rørcenteret 18 medarbejdere. Vi sidder i Torstrup. Vi arbejder meget med rør, afløbssystemer og kloak. Men også med et stort fokus på klimatilpasning.
+
+00:02:17
+Vi har også en sektion, der arbejder med vejer og asfalt. Vi har to større laboratorier. Vi har vores AspeLab, Rør- og klimatilpasningslab. Det er både en masse standardopprøvninger, test og udvikling af nye produkter. Vi laver rigtig mange andre ting. Vi laver kurser.
+
+00:02:38
+Vores store kursus er, at vi uddanner kloakmestre. Derudover har vi en masse i klimatilpasning og andre områdeindretning. Vi laver en del rådgivning, udredning, skadeudredning. Vi laver også noget projektgrænsning. Og så har vi tre kontrolordninger, vi står for.
+
+00:02:53
+Både TIC, som er til kvarkmesteren, men også to specialordninger for ledningsrenovering og faldstangt regnet renovering. Og så den sidste del, vi laver, det er en masse forsknings- og udviklingsprojekter. Rigtig ofte i samarbejde både med vidensinstitutioner, men især også med virksomheder.
+
+00:03:10
+Og opgavefordelen hos os er, at cirka en fjerdedel af vores forskning og udvikling, resten af det, vi kalder kommersielle opgaver, herunder blandt andet vores kurser. Hvad skal vi nå i dag? Vi skal igennem nogle ting. En helt generel intro til klimatilpasning.
+
+00:03:27
+Hvorfor det er relevant, skal vi se på det. Både, og så er der masser, vi vil fortælle om, håndseret ved regnvand. Lidt om den traditionelle måde at gøre det på i kloakker, men med et stort fokus på lar-løsninger.
+
+00:03:40
+Vi kan ikke undgå at kigge lidt ind i, hvad det er for en lovgivning, der dækker det her. Hvad er det, vi skal være opmærksomme på? Hvad er det for nogle forundersøgelser, der skal laves, for at vi kan gøre det? Og så selvfølgelig noget med teknik og opbygning.
+
+00:03:53
+Det bliver ikke hovedpunktet, for så kommer vi til at sidde her i rigtig mange timer. Og så slutter jeg af med lige at samle op på, hvad er det for en erfaring, vi har med vores klimatilpasning, når vi gør det. Men lige fra at starte med det her med regn- og klimaforandringer.
+
+00:04:09
+Er det hovedet relevant? Er det noget? Hvis man ikke har sovet i sidste års tid, så ser nyhederne jo sådan her ud. Der har været Umodentlig meget i nyhederne omkring, at vi får mere regn, og det er det mest regnfulde år nogensinde.
+
+00:04:23
+Hele sidste år fik vi rigtig meget regn, og det fortsatte også hele foråret. Så havde vi en periode både i sommeren og i oktober og november, hvor det ikke regnede ret meget. Det er nok det billede, vi ser ind i, at vi får regnen på en anden måde end vant til. En lille spørgsmål. Får vi mere regn?
+
+00:04:43
+Vi har nogle grafer her, som jeg har været ude at hukke af diverse verdenyheder. Den øverste heroppe er det, vi kalder vores 30-års gennemsnit. Hvor meget vand kommer der i gennemsnit over længere perioder. Helt tilbage fra 1874.
+
+00:04:59
+Der kan vi se, at det kan godt være, at vi synes, at regnen er kommet på en anden måde, men vi kan også se, at der er sket en udvikling over de sidste 150 år, som siger, at vi får mere og mere regn. Man kan måske også se en tendens til, at kurven begynder at stige på det sidste.
+
+00:05:14
+Vi er i den sidste periode, har opgjort tallene fra 91.000 til 2.000. Vi ligger på 759 mm i gennemsnit om året i Danmark. Det er selvfølgelig for hele Danmark. Der er nogle forskelle på det. Længere nede er der den her med de 10 vådeste år.
+
+00:05:31
+Der kan man se, at sidste år sprang rekorden fra 906 mm lige pludselig op til 973 mm. Dem, der arbejder med hverdag, ved, at det her er en meget stor stigning på et år. Alle de andre ligger meget tæt på meget få millimeters forskel, og så kommer der lige pludselig en her.
+
+00:05:50
+Så det er altså lige pludselig noget, der rykker rigtig, rigtig meget. En anden ting, man kan lægge mærke til, det er, at alle de her 10 vådestår, de ligger altså inden for de sidste 40 år cirka. Så det er noget, vi ser. Det er så heller ikke helt ligegyldigt, hvor en anden er.
+
+00:06:07
+Det her er regntommerne fra sidste år. Så kan vi se, at der er sted herovre i syd og vest i Jylland, hvor der kommer mere regn end på London Falster. Det er relativt store forskelle, hvor der er kommet 600 mm nede på London Falster, og så er der kommet over en meter i syd- og vestjylland.
+
+00:06:29
+Der er enkelte steder i Nordstjerne, hvor der er kommet. Der er kun et sted i kommunen, der er kommet op over en meter sidste år. Det er nogle lokale forskelle, og det gør, at vi ikke kan kontere det på samme måde alle steder.
+
+00:06:43
+Det skal siges, at det ikke kun er spørgsmålet om, hvor meget regn, der kommer. Hvis man kender en lidt tilvandet fast, så ved man, at det er meget flat, meget leget jord. Så problemer med regn kan også være store, selvom de ikke har fået helt så meget. Hvad sker der så med overordnet plan?
+
+00:07:00
+Der er jo noget, man kalder klimatidplasticsplaner. Det er for et års tid siden, der kom og præsenterede vores regering, det de kalder klimatidplasticsplan 1. Der er rigtig meget fokus på kyster. Det hænger muligvis sammen med, at der er kort tid for indenvarer af en stor stormflodsindelse.
+
+00:07:18
+Men det har nok været håbrigt lidt længere. Hvis man kigger på, hvad der vil tage penge af, så var den langt største til kystsikring og især meget fokus på Vestkysten. Man vil også kigge på en strukturel løsning af de udfordringer med højstående grundvand.
+
+00:07:33
+Man vil selvfølgelig sætte en udvalg, lave en analyse og tjekke, hvad naboerne gør. Der begynder at ske noget på nationalplanen. Det vi venter på, er, at det også begynder at brede sig ind i byen og kigge mere på regnvand. Der er lidt på det, men det er begrænset.
+
+00:07:49
+I januar kom der en rapport fra Concito Realdania, som gik ind og kiggede på, hvad kommunerne laver med det. Kommunerne skal jo have en klimatilpasningsplan. Det er der langt de fleste af dem, som har en klimatilpasningsplan. De begynder også at kigge på andet end bare for meget vand.
+
+00:08:11
+De begynder også at kigge på, hvad der sker, når vi har tørke. Det giver også nogle udfordringer. Når vi har en lang tørkeperiode, begynder tingene at sætte sig. Det kan give sætningsskader på husene. Hvis vi kigger på vores klarksystemer, kan vi også få ledningsbrud på den måde.
+
+00:08:25
+Deres konklusion var også, at det er meget varierende. Der er nogle meget konkrete handlingsplaner i nogle kommuner, som er meget udbygget. Der er også nogle stykker, hvor det måske mere kan anses for nogle overordnede intentioner om at gøre noget ved det. Der er også nogle anbefalinger i det.
+
+00:08:42
+Der skal være et fællessprog, og nogle egensatte metoder og tilgang til det. Og meget gerne en overordnet ramme, og det er noget, Staten skal komme med. Ellers bliver det meget forskelligt fra kommune til kommune, hvordan vi gør det. Hvad er det, når vi siger, at vi skal gøre nogle ting?
+
+00:08:57
+Hvad er det så, vi mener med det? Der er også en anbefaling om, at der er større krav til at undgå at bygge det, hvor der er troede områder. Så er der også det med, hvordan vi finansierer alt det her. Det er en stor udfordring, for det kommer til at koste mange penge.
+
+00:09:13
+Der er også lavet rigtig mange analyser siden, og konklusionen er ret klar, at ja, vi kommer til at bruge mange penge på klimasikring. Ikke kun til regnvand, men også til højstående grundvand, kystsikring og andet. Men det bliver meget dyrere senere, imens vi gør noget.
+
+00:09:30
+Hvis vi kigger på, når vi snakker klimatilpasning, så kan man nogle gange føle, at vandet kommer lidt fra alle sider.
+
+00:09:38
+Og det gør det sådan set også, fordi der er selvfølgelig noget regnvand, der kommer, der er havvandet, der er noget med åer og floder, nok ikke så meget floder, selvom nogle af de åer vi har er store, og så er der grundvandet, som også begynder at give relativt store problemer.
+
+00:09:53
+Her i dag er det regnvandet, vi kigger på, og det er også det, som vi nok har beskæftiget os mest med, i hvert fald inden for vores område. Så hvad betyder det så, når vi har alt det her regnvand, som kommer? Også der kommer fra rørbrændelsen. Hvad betyder det her? Vi kan se, at vi får mere regn.
+
+00:10:17
+Men vi kan også se, at vi får det på andre måder. Vi får flere ekstremregn. Det kommer i større klumper. De skybrud, der kommer, bliver også kraftigere. Samtidig kan vi også se, at vi får nogle længere tørværdsperioder. Det vil sige, at vi så i 2018, hvor vi havde en meget tør periode.
+
+00:10:34
+Vi så det i starten af foråret og tidlig sommer, hvor vi også havde en lang tør periode. Så gør vi det i virkeligheden værre ved, at vi i de sidste mange årtier har befæstet vores byer rigtig meget. Vi har lagt mange belægninger, vi har lagt mange fliser, vi har lavet meget asfalt.
+
+00:10:51
+Ikke kun nødvendigvis på veje, men også på privat grund osv. Hvad betyder det så? Hvis vi kigger på en klassisk karfe, hvor vi har vores byakse her, som er ku, altså vores vandstrøm, og så over tid. Når vi så får et nedgørelseområde ind over en kraftig regnskøl, så ser det sådan her ud.
+
+00:11:11
+Det begynder at regne, og så kommer det kraftige af det, og så falder det efter det. Hvis vi kigger på det naturlige afløb fra et område, som det var, før vi begyndte at bygge på det, så ser det sådan her ud.
+
+00:11:24
+Der går et stykke tid, og så kommer der en eller anden strøm, og den er forsinket, og den er ikke så kraftig, den flader ud, fordi der er et eller andet, der forsikrer det på området. Når vi så har bygget byer og lagt fliser og tage og asfalt og alt muligt andet på det, så ser det sådan her ud.
+
+00:11:42
+Der kommer det meget kraftigere, og det kommer meget hurtigere. Når vi så samtidig ved, at vi får kraftigere regn, så bliver den her kurve endnu højere, og på et eller andet tidspunkt så rammer vi de punkter, hvor der ikke er bladstætte i vores kloakker, som jeg har gjort det med altid.
+
+00:11:58
+Og hvad gør vi så? Så skal vi gøre noget hvidt. Så meget af det, vi laver i klimatilpasning, det er simpelthen at få fladet denne kurve ud. Få taget toppen af den på en eller anden måde, og det har vi forskellige måder at gøre det på.
+
+00:12:13
+Men hvis vi kigger helt overordnet på klimatilpasning, så har vi flere måder at kigge det på. Der er selvfølgelig den ting, at vi vil gerne forhindre vores oversvømmelser. Det er jo et af de primære formål. Vi skal ikke have vandet nede i vores kælder, vi skal ikke have det inde i husene.
+
+00:12:27
+Hvis vi kan undgå at have alt for meget på veje, så vi ikke kører rundt, så er det en fordel. En anden ting, vi har kigget på, er, hvordan vi håndterer vores regnvand. Vi har traditionelle løsninger med rør, og så har vi lar.
+
+00:12:43
+Et af målene er at undgå, at dem, der har problemer, ikke får oversvømmelser fremover. Det betyder, at vi ofte er nødt til at kigge andre steder, end der, hvor oversvømmelsen finder sted. Det er ikke så overraskende, at det er dem, der bor nede i hullet, som vi forvandlede.
+
+00:13:00
+Men hvis vi kan lave noget andre steder, så for hængt af det hud kommer der ned, så kan vi løse nogle af problemen på den måde. Og måske også på en billigere måde. Og den sidste del af det, det er selvfølgelig, at når det går galt, hvad gør vi så? Altså beredskabsdelen af det.
+
+00:13:14
+Og det er bevidst, at vi siger, at når det går galt, for vi ved, at der kommer en regn, der er kraftigere end det, vi har dimensioneret til. På et eller andet tidspunkt, så overblaster vi vores system. Der skal vi jo forberede på, hvad sker der så?
+
+00:13:26
+Vi bruger også ofte det, vi kalder træbågsmetoden, hvor vi siger, at vi har en mængde regn, der kommer her. En stor del af det ligger nede i det grønne område, det vi kalder A, som er vores hverdagsregn. Der kommer måske 80-90 procent af vores regn over året. Det ligger dernede i hverdagsregnen.
+
+00:13:47
+Det kan vi godt montere. Det er Nuland til at være med at gøre i mange gange. Hvis vi kigger nede på akslen her, så har vi også en gentagsbåde, dvs. hvor ofte vil det komme. Hvor vi inde på midten her har 10 år, det vil sige, at det er en 10-års hændelse, og så helt op i 100-årshændelser her.
+
+00:14:02
+Rigtig meget af det kommer i mindre hændelser, og det kan vi håndtere. Så har vi et eller andet punkt i midten, det er vores stimulationsgivende regn. Det er det, vi regner på, når vi skal lave et anlæg. Og det er angivet typisk i en tilladelse eller i en norm eller andet.
+
+00:14:19
+Når vi snakker løsninger og klimatilpasning, så er det ofte 10-årsgentagelse, det kan også være en 5-årsgentagelse. Det er lidt forskelligt, hvor vi ender henne der.
+
+00:14:32
+Enkele tilfælde, hvis det er meget kritisk, hvad der kan blive oversået, så kunne vi måske lige op og kigge på, hvad sker der ved en 100-årsgentagelseperiode. Men det er der, vi laver vores beregninger, når vi dimensionerer vores ting.
+
+00:14:43
+Hvis vi så gør det rigtig grundigt, hvad vi selvfølgelig gerne vil, så er vi også nødt til at kigge på, hvad sker der så, når vi får her kraftigt, om det er en 50-årsregn eller en 100-årsregn eller et eller andet. Hvis ikke vi har tænkt på det, så får vi nogle store skader.
+
+00:14:56
+Så et godt klimatilværelseprojekt tager os ud og kigger i, hvad der sker, når vi får ekstremregnene. Der er nogle gange, hvor man faktisk har regnet på det, hvor det er en del af det på de større projekter, at der kan bygge helt op til at man kan tage en 100-årsregn.
+
+00:15:11
+Men ellers, selv på mindre projekter, der er vi nødt til at kigge på, at når systemet, hvis vi dimensionerer til en 10-årsregn, hvad sker der så, når det bliver overbelastet, hvor løber det så hen? Svej er meget sjældent, at det løber tilbage ned i kælderen.
+
+00:15:23
+Hvis det kan løbe ud på en græsplæne, vej, parkeringsplads eller andet, er det noget bedre. Det værktøj, vi bruger, når vi kigger på det i større skala, er, at vi begynder at lave noget risikovurdering af det. Der er et spørgsmål om, hvor ofte det sker.
+
+00:15:40
+Hvis det er noget, der sker rigtig ofte, er det, når vi skal tage os rigtig meget af. Noget, der sker hver 100 år, er det relativt sjældent. Hvor store skader er der ved det? Hvad er konsekvensen af det?
+
+00:15:52
+Det er klart, at hvis det er noget, der sker ofte, og det har meget store konsekvenser, altså at det koster mange penge eller ligefrem er sundhedsskadeligt eller andet, så er det noget, vi rigtig skal betale os af.
+
+00:16:03
+Hvorimod er det noget, der sker meget ofte, men hvor det ikke betyder noget som helst, at der bliver oversvømmelse på en mark for eksempel, så er det måske ikke det, vi behøver at koncentrere os på.
+
+00:16:11
+Det har meget at sige for landmændene, men det har ikke de store samfundsmæssige konsekvenser på den måde. Det vi kan arbejde med, er at enten reducere sandsynligheden for, at vi har problemer. Kan vi forhindre, at oversvømmelserne opstår?
+
+00:16:25
+Eller alternativt, det vil sige, at vi ved, at der kommer problemer på et tidspunkt. Hvordan begrænser vi konsekvenserne af det? Der kunne vi overmod bedre skifte ind i det. Det er de overordnede tanker, vi kigger på, når vi snakker om klimatilpasning.
+
+00:16:41
+Det har jeg selvfølgelig især i forbindelse med regnvandsmontering. Det gode spørgsmål er, hvordan overfører regnvandet sig? Det er den pointe, man skal huske, når man laver det her. Vand løber nedad.
+
+00:16:57
+Det virker absurd at sige, men det er den tanke, man skal have, at vandet har det med at ligge sig i det laveste punkt. Hvis jeg har forstået den, så kan jeg lige tage en kop kaffe og stoppe nu.
+
+00:17:08
+Nej, det er nok ikke helt rigtigt, men det er i hvert fald en af de pointer, som vi nogle gange ser, at man glemmer, at vandet løber fra det højeste til det laveste sted. Når vi tænker på det, hvad kan vi så gøre ved det? Der kommer noget vand, og vi skal håndtere det lokalt.
+
+00:17:25
+Vi kan flytte det et sted hen, hvor det ikke gør skade, eller vi kan transportere det et sted, hvor vi kan håndtere det på anden måde. Vi kan bygge en stor klods af en eller anden art og opmarksinere det.
+
+00:17:35
+Vi kan lave et bassin, vi kan lave en maskine, vi kan lave andet, så det ikke løber videre og gør skade. Vi kan nedsive det. Det er ikke altid, vi kan det. Der er en del byområder, hvor det er udfordret. Både pga. højstående grundvand og pga. jordbundsforholdene.
+
+00:17:52
+Vi kan også fordampe det, og det er bevidst, at de pile er grønne, fordi der er begyndt at plante, og andet har en rigtig stor effekt på det. Vi kan fordampe noget vand på det. Og så er den sidste ting, og det er nok det, vi altid gør, når vi håndterer det. Det er, at vi forsikrer det.
+
+00:18:08
+Hvis vi tænker tilbage på vores afløbskurve, så kommer der rigtig meget vand på én gang alle steder fra, der giver de helt store problemer. Så kan vi forsænke det nogle steder, så det ikke løber sammen, når vi er rigtig, rigtig langt.
+
+00:18:22
+De måder, vi kan gøre det på, det er med opmarksinering, fordampning, nedskibning og sådan noget. Det er typisk larv, det er noget, vi gør lokalt på stedet. Transporten kan enten være noget, vi gør i rør, som vi har gjort i mange år, men vi kan også bruge overfladerne på det.
+
+00:18:38
+Så det leder os til de overvejelser, når vi har det her. Det er, at vi selvfølgelig kan bygge nogle større rør. Vi kan bevægelig bygge større og større rør. Jeg tror ikke på, at vi kan lave dem store nok, til vi kan håndtere regnvandet.
+
+00:18:50
+Eller vi kan vente om at sige, at vi kan gøre noget lokalt, og så kan vi måske endda bruge vandet som en ressource i de byerne på den måde.
+
+00:18:59
+Så hvis vi starter med den traditionelle del af det, der er nogle fine billeder her af rigtig gamle kloakker, både fra London, som er bygget i 1860 og noget andet, og også moderne.
+
+00:19:11
+Man kan sige grundlæggende set, så er det, at vi samler vores vand sammen, vi kører det i et rør, gennem et regnsanlæg, og så bliver det lidt ud til et eller andet. Og så er der den her med noget overløb på det, hvis der går for meget, og så rører det direkte ud. Det virker.
+
+00:19:25
+Vi har gode erfaringer med det. Vi kan forese i et meget højt grad, hvordan det opfører sig. Kommer vi til slip for det? Nej, det gør vi ikke. Det kommer vi også til at lave i stor stil fremover. Selv i lar- og grønløsninger bruger vi ofte rør, når vi skal flytte vandet fra ét sted til et andet.
+
+00:19:46
+Den udvikling, vi har set, eller som stadig foregår, er, at man er gået fra fællesystemer, hvor det hele, både spildevand, regnvand og det hele, er koblet på en ledning, som så er kørendesanlægget.
+
+00:19:57
+Der er det så, at når vi får snøbryderne og overblaster, så er der et ålbygværk, hvor det så løber ud i den endelige respektive, om det er sø, havbro eller andet. Hvor man så siger, at vi er i hvert fald begyndt at kunne skilde af, hvor regnvandet kan køre videre.
+
+00:20:14
+I nogle steder vil man se, om det er rent nok til, at det løber direkte ud, det ser nogle ældre systemer, I dag kører vi rigtig meget til rensanlægget.
+
+00:20:23
+Men fordelen er her, at hvis vi har overløb, selvom vi kører i rensanlæg, så er det kun på regnlandsdelen, så er det ikke også bilandsdelen, vi trækker ud i områderne, hvis vi er separeret på den måde her. Og det er en proces, der foregår rigtig mange steder, og det koster også mange penge at gøre.
+
+00:20:39
+Og så er det så at sige, hvad så med, at vi kan gøre noget andet? I stedet for at bygge nogle rørsystemer og trække vandet væk, så er det, at vi begynder at bruge vores larvemetoder. Og dem er der rigtig mange af. Det er alt fra faskiner, grøntag, vægge, bassiner, regnbed og alt muligt andet.
+
+00:20:57
+Så der er mange muligheder at gøre det på. Hvad skal man så vælge? Man skal vælge den, der passer bedst. Det er ikke det samme som at sige, at alle løsninger er lige gode. Nogle løsninger kan noget, og nogle løsninger kan noget andet.
+
+00:21:12
+Det vi skal huske, det er, at når vi begynder at arbejde med lar, at vi får noget mere ind i det. Sådan et rør her, som det her. Det graver vi ned, stikker det til, og så ser vi det ikke mere. I vores måde med lejr begynder vi at kunne gøre noget andet, især i byområderne.
+
+00:21:26
+Vi kan begynde at bruge det til noget lejr, noget læring, have nogle rekreative områder, få nogle flere grønne områder. Det vil sige, at vi får på os noget mere biodiversitet ind i det.
+
+00:21:35
+Jeg vil ikke gå ind i en lang diskussion om, hvor meget biodiversitet vi får på det, men vi får i hvert fald mere, fordi vi får noget mere grønt ind. Det betyder også, at der er noget udøvet i trivsel. Der er masser af undersøgelser, der viser, at vi mennesker har det bedst, når der er noget grønt.
+
+00:21:49
+omkring os. Der er nogle lidt andre aflige effekter. Der er noget luftrensning, og der er måske også en kobling til, at vi får et bedre klima, fordi vi får damp på noget vand, og vi ikke får ild til vandbyer.
+
+00:22:00
+Det er sådan nogle af dem, som er lidt svære at måle på, og det er især nogle, der er lidt svære at sætte priser på. Men det er noget, som vi begynder at kigge mere og mere på.
+
+00:22:11
+Og så er der den der helt konkrete ting, at vi ved, at når der er grønne områder, rekreative områder, så stiger boligpriserne, så der er også noget økonomi i det på den måde. Det helt store spørgsmål er selvfølgelig det her lar. Er det dyrt? Hvad koster det? Det kommer an på, hvad man laver.
+
+00:22:25
+Man kan gøre det meget mere dyrt, hvis man vil have grønne vægge som den her over til venstre. Det er dyrt. Det koster rigtig mange penge. Man kan også vælge en helt simpel løsning. Hvad kunne man lige mene på den? Hvad vil jeg lave på græsplænen? Det koster meget lidt.
+
+00:22:39
+Og så er der lige at tænke med regnbiddet. Det kommer lidt an på, hvad man gerne vil have. Hvordan skal jeg sætte det ud? Hvilke planter vil man have? Og alt det her. Faskinerne er en forholdsvis billig løsning, men det er stadig noget, der koster penge, når vi skal begynde at grave jorden på det.
+
+00:22:53
+Det, om lar er dyrt eller billigt, kommer an på, hvad man gerne vil have. Det, vi har set på større projekter, er, at det ofte er billigere at bruge larløsningerne, end det er, når vi skal ned og grave.
+
+00:23:06
+Særligt i den tætte by, fordi der er så mange ledninger i forvejen, så det er nærmest håbløst at grave i det. Vi har også med lidt mulighed for at lave noget under jorden. Så kigger vi rigtig meget på, hvad vi kan gøre ovenover jorden. Så kommer vi til den rigtig spændende del for nogen.
+
+00:23:25
+Nogen synes måske, at det er lidt kedeligt, men det er den vigtige del af det. Det er det med lovgivningen. Fordi når vi begynder at arbejde med regnvindshåndtering og med lar, så er det, at der er rigtig mange steder, hvor det kommer ind.
+
+00:23:36
+Der står noget i byggelovgivningen, der står noget i miljølovgivningen, specifikt i Spilladsbekendtgørelsen, og så er der også noget i autorisationslovgivning, når vi kommer ind på det område. Det her er en figur, som vi bruger, når vi underviser vores klagmester.
+
+00:23:50
+Hvad er det for nogle regler, der gælder? Hvad er det for nogle gudkendelser, der hører med at gøre? Hvad er autoriseret? Hvad er ikke autoriseret? Hvem har ansvaret for det? Hvor hører det hen? Er det forsyninger? Er det kommuner? Og alt det her.
+
+00:24:04
+Og det er et relativt komplekst område, og det har meget at gøre med, at vi på offentlig område, privat område, hvor ligger de her skildkrænser? Og vi må også bare kende, at meget af det her lovgivning, Den er lavet lidt ved siden af hinanden.
+
+00:24:20
+Sammenhængen er ikke altid helt logisk, og der er nogle sjove eksempler på det. Men det, der er vigtigt, er, at man sætter sig ind i, hvad der gælder på det. En helt væsentlig ting er, at når vi laver de her ting, skal der en tilladelse til. Det ligger hos kommunen.
+
+00:24:39
+Det er den myndighed, der giver tilladelsen til det. uanset om man sidder i en kommune, en forsyning eller andet. Tilladelsen kommer samme sted fra. Jeg har også en fornøjelse at undervise vores klagvester på noget af det her.
+
+00:24:56
+Det vi altid siger til dem, lad være med at tro på, at det er nemmere at få tilgivelsen til ladelsen. Sådan fungerer verden ikke mere.
+
+00:25:03
+Tværtimod kan vi se, at hvis man har en fornuftig dialog med kommunen, så kan man nemmere finde en løsning, end hvis man bare sætter bagbenene og prøver at komme igennem med noget, som ikke er rigtigt. Vi dykker lidt ned i det i bygningsreglementet, BR 18, i paragraf 77.
+
+00:25:20
+Der er der skrevet ind, at afløb for regnvind skal udføres, så det ikke giver skade på bygninger eller andre ulepper, tjenere fra trafik osv. Så det er der, vi starter. Vi skal ikke lave skade, og vi må ikke genere folk med det.
+
+00:25:36
+Der står i stykke 2 i denne paragraf, at tagvand skal holdes på egen grund. Så det der med at sige, at vi egentlig skal hælde i klokken, hvis vi bygger nyt, så er udgangspunktet, det skal vi ikke, vi skal håndtere det selv.
+
+00:25:50
+Alt det, der eksisterer, det fortsætter vi selvfølgelig med at gøre, men der sker en omlægning, hvor vi højreplads kan gøre det her. Der er nogle udfordringer med det, med nogle lokaliteter, hvor det ikke altid er nemt at håndtere det på egen grund, men det er udgangspunktet.
+
+00:26:05
+Der kan godt dispenseres for det, ligesom for mange andre ting, men det er der, vi starter. Helt overordnet er det, at vi skal have noget færdigt væk fra bygningerne for at forhindre skader, og så holder vi også nedsivningen, når vi gør det, væk fra husene.
+
+00:26:20
+Hvis vi kigger ind i den anden del af det, det er spildfærdsbekendtgørelsen i paragraf 38 omkring nedsivning af regnvand. Der er det der, der står, at det er kommunen, der giver tilladelse til nedsivning af tag- og overfladevand på nogle forskellige betingelser på det.
+
+00:26:34
+Så det er den her paragraf, Når vi laver nedsivningstilfælde, som det er til forskine, regnbillede, nedsvinding af græsregler eller andet, det er efter den her del af lovgivningen. Der er nogle afstandskrav til det, det er nok nemmere at se i sådan en schema her.
+
+00:26:47
+Vi siger, der er direkte skrevet i lovgivningen nogle helt lovmæssige krav, at når vi laver regnvandsnedsivning, så skal vi 25 meter væk fra drikvandsboringer, og vi skal 25 meter væk fra vandløb, sø og hav.
+
+00:26:59
+Så er der nogle vejledende krav, der ligger i andre dele af det, i nogle anvisninger og andet, hvor vi siger, at hvis det er beboelse af andre bygninger med kælder, så er det fem meter væk, Hvis det er karbord, skure, mindre bygninger, så er det to meter væk, og så skal det også være to meter væk for skæld, fordi vi ikke skal have vandet ind til naboen.
+
+00:27:15
+Der kan dispenseres for nogle af de her, men det er efter en faglig vurdering. Hvis man bor toppen af en sandbakke, så kan det godt være, at der ikke sker noget, hvis man nedskiver fire meter væk for et hus uden kælder.
+
+00:27:25
+Men det er det der med, at vi er nødt til at holde de her afstandskrav, og hvis de kan øges, så har vi en fordel med det. Så det er der, vi starter. Nogle gange møder vi ind i det, at hvis vi ligger tæt på et vandløb, kan vi nødt til at hive tættere på?
+
+00:27:42
+Ja, det kan man godt, men så skal der også samtidig skrives en udledningstilladelse, fordi der er en risiko for, at det løber ud der. Og så er der en ekstra behandling på det. Så er der dem, som jeg snakkede lidt om. De her kloakmester, hvad er det, deres område ligger i?
+
+00:27:55
+Jamen der er, skal vi sige, en associationslov. Deres arbejde gælder afløbsinstallationer og afløbsledninger i jord. til og med gennemføringen af gulden osv. Det skal så siges, at det er på metrikkelniveau. Hvad der sker ude for synsområdet, er ikke en del af autoriseringens lovgivning.
+
+00:28:15
+Det vil sige, at alt hvad de laver her er både slægledninger, men så er det dem, der har noget at gøre med regnvand og lar. Ændring af ledninger, hævne afproppninger.
+
+00:28:25
+Det er fordi, når vi begynder at koble vores regnovern fra, så skal vi sørge for, at vi laver afproppningerne rigtigt, så der ikke går rotter i systemerne. Nedsynsanlæg er, omfattet af autorisationslovudgivningen, og regnvandsledningen af tilsluttet offentligt regnvandssystem, dvs.
+
+00:28:40
+dem, der går i kloaken. Så kiggede vi på den og sagde, at de her nedskrivelsesanlæg til regnvand, hvad menes der egentlig med det?
+
+00:28:48
+Så der spurgte vi Sikkerhedsstyrelsen, og deres svar er, at Sikkerhedsstyrelsen tolkede det sådan, at de anlæg, der er konstrueret og etableret under terræn, til nedskrivelsen af rørførte regnvand i den omkringliggende jord. Dvs. at Det, der er omfattet af autoritetslovgivning, det er faskiner.
+
+00:29:06
+Det vil sige, at når vi laver noget i overfladen, nedsiver i regnbedet, nedsiver i grænsplaner og alt muligt andet, så er det ikke et autoriseret arbejde. Og regnbedsledninger, der ikke er ført til klart, de er heller ikke autoriseret arbejde. Det gør det lidt mere interessant.
+
+00:29:22
+Det vil sige, at man faktisk godt kan lave rør på den måde her, selvom man ikke er autoriseret kloakmaster. Hvorvidt vi er helt enige i, at det skal være sådan, det er en anden sag. Der kan nogle gange være, at man ikke helt ved, hvordan man skal lægge sådan en ledning her.
+
+00:29:35
+Så er der lige en lille undtagelse på det, for der er ikke en bekendtgør, som simpelt arbejder, end hver mod udfører nummer 546. I den står der, at udførelsen af nedsigningsledning til én familiehuse er ikke omfattet af det.
+
+00:29:51
+Så det vil sige, at som privat husejer, må man gerne selv lave sin fæschine, inklusive samfundsbron og ledninger. Så hvis man ser på en tegning af et hus her. Som udgangspunkt er spildevand altid autoriseret arbejde.
+
+00:30:06
+Fæskinen er autoriseret arbejde, som ligger her, men må udføres af en anne ved indfamiliehuset, hvorimod alt, hvad ligger i overfladen, plus rørene fra evt. årene ved et regnbid til fæskinen, er ikke autoriseret arbejde. Der kan man så sige, at det her er en logisk måde at gøre det på.
+
+00:30:24
+Måske ikke, men det er i hvert fald sådan, at jeg lukker hinanden sammen. Så er der noget med nogle forundsøgelser, fordi vi skal jo vide nogle ting. Der er rigtig meget, man bør kigge ind i her. En ting, som vi altid kigger ind i, det er, hvad ligger der i planer?
+
+00:30:45
+Der kan ligge nogle klimatilpasningsplaner, der kan ligge nogle lokale planer, spildevælstplaner og andet. Hvad er det, man må, hvis vi skal i det her? Så er der noget, der hedder Bluesportkort.
+
+00:30:57
+Vi skal vide noget om, hvad det er for en jord, hvad er geologien, hvor er grundvandet henne, kan vi nedsive alt det her, og så alle de afstandskrav på det. Og så er der det med, er der forurenet.
+
+00:31:09
+Fordi som udgangspunkt er vi jo ikke interesseret i, at vi hælder en masse vand på jorden, som så trækker forureningen, der er i jorden, ned. Så hvis jorden er kortlagt, som forurenet i forhøjen, så skal man ikke regne med at få en nedsivestilladelse. Og så er der alt det her med kobber og sink.
+
+00:31:26
+Der er stadig et stor brug af især sink i tagranger, inddækninger og andet. Og det kan altså give nogle problemer. Især hvis det er noget, der skal ledes ud senere. For begge dele er det toksiske i forhold til vores vandmiljø. Der er lidt forskel på, hvordan man håndterer det.
+
+00:31:43
+Om man må, eller ikke må. Men det er en ting, der er fokus på, og vi er også i gang med flere undersøgelser på området i øjeblikket. Og så alt det her, når man graver, så skal man jo vide, hvad ligger der ellers.
+
+00:31:54
+Så det er et rigtig godt sted at starte, når man kigger i lærer, ledningsarregistret, og søger på, hvad der ligger på det. Den store svaghed er, at mange af de ledninger, der ligger inde på privatbetrykket, er ikke tegnet ind.
+
+00:32:06
+Men man har i hvert fald en idé om, hvor går forsyningsledninger ind, hvor går vandledninger ind. En del af det er også lagt ind efterhånden. Det er jo sådan, at hvis man graver og ikke har søgt i lærer, så er man automatisk et andet aspekt. Det er simpelthen et krav, man søger i lærer.
+
+00:32:22
+Der er den undtagelse, at hvis man har en større gravdyb end 40 cm, så behøver man ikke at søge, fordi ledningerne skal ligge længere ned end det. Hvis vi laver vores overfladeløsninger, så slipper vi måske lidt fra det glatte. Man bør altid undersøge, hvor længe der ligger ledninger.
+
+00:32:39
+Der er nogle ting, man ikke må være nærheden af. Og så igen den der. Tag fat i kommunen, som er myndighed, inden man går i gang med det her. Langt de fleste kommuner har efterhånden også liggende på deres hjemmeside en beskrivelse af, hvordan man søger til det her.
+
+00:32:57
+Hvad er det for nogle ting, der skal laves? Hvordan dokumenterer man det? Og alle de her ting ligger der. Så det er nemt at gå til på den måde. Så nævnte jeg BlueSport. Et af de steder, man kan tage det, er den hjemmeside, der hedder KAP. Klimatilpasning.dk. Det er den, jeg selv bruger.
+
+00:33:18
+Man kan også finde det andre steder. Den har den fordel, at man ikke bare kan få et standard Plusportkort, men man kan sidde faktisk med den skyder, der sidder her. Nu er det ikke en online-version, der har liggende her. Så man kan prøve at ændre på, hvor meget vand er der, man lægger ind på det.
+
+00:33:34
+Så man kan se, hvor er problemet. Der er jo altid den lille ting med Plusportkort, at det er jo ikke sandheden. Det vi ser her, det er en model, som er lavet på, hvor vil der være en risiko for det.
+
+00:33:47
+Det man skal tænke på, det er, at det hele er lavet ud fra en højdemodel, som er lavet ved, at vi overflyver Danmark med en LiDAR, scanner overfladen og kortlægger hele overfladen.
+
+00:33:59
+Det bliver så lagt ind i de her systemer, og så er det simpelthen det, man kalder en glasplademodel, hvor man simpelthen siger, at vi har en eller anden kontur, det hælder vi noget vand henover, hvor samler det sig så henne.
+
+00:34:08
+Den tager ikke hensyn til nedskivning, den tager ikke hensyn til, hvad der er kloakerer i, Så sandheden er måske en lidt anden, men det her er altså et rigtig godt sted at starte på det. Fordelen med at bruge KAMP er også, at vi kan lægge andre ting ind i det. Vi kan kigge på højstående grundvand.
+
+00:34:24
+Den linker ind til de der databases. Der er også mulighed for at kigge på, hvad der sker med kystringerne. Og så ligger der herovre i venstre side en masse andre ting. Både med natur. Hvis man ser, er der noget beskyttet natur og nogle paragraf 3-områder. Det kan man finde i den her åsen.
+
+00:34:40
+Plus også, hvad ligger der af kortlagt forurening og andet. matrikkelgrænser og sådan noget. Den trækker på rigtig mange ting, og jeg tror faktisk, det er lidt unikt, at vi i Danmark har sådan en gratis offentlig adgang til de her ting, hvor den trækkes ind på en gang.
+
+00:34:55
+En ting, jeg altid kigger på, når jeg gør det her, det er, at jeg åbner den her, der hedder Andet, og så vælger jeg det, der hedder Høje Målbrugsbladet.
+
+00:35:03
+Det gamle kort, det er den kortlængde, der ligger af Danmark tilbage fra, jeg tror det er fra 1848 og frem til 1899, hvor man hele Danmark er blevet målt op. Hvorfor gør jeg så det?
+
+00:35:14
+Det fortæller mig jo egentlig noget interessant om, hvordan tog verden ud, før vi lavede asfalt og fliser og etanitag på det hele. Nu har jeg bevidst valgt et område. Jeg bor selv i det hus, der ligger lige der. Vi ligger i en kote 48, så vi ligger højt. Og alligevel er der meget vand i området.
+
+00:35:35
+Når jeg kigger på det gamle kort, så kan jeg jo se, at det her er et gammelt moseområde, et gammelt engeområde. Så det er måske ikke så underligt, at vi har et godt område. Man kan også kigge lidt på gamle navne, for eksempel Høgesbjerg, den her bakke.
+
+00:35:49
+Den nye vej, der er lavet her, hedder Hvide Lerbakken. Så får I præcis 3 gæt på, hvad den bakke er lavet af. Man kan også kigge ind på, om der er en vej, der hedder Mosevej eller Søbred eller andet. Der er en grund til de harde navne ofte. Det giver altså også en indikation af det.
+
+00:36:08
+Så nogle af de ting, vi ser, kan vi få en naturlig forklaring på. I et område som her, der er bygget mere ud, er der ikke ret stor mulighed for at lave nedsivning, så det er nogle bassiner, der laves i stedet for, og nogle søer, der laves for at kurrancere regnvandet.
+
+00:36:23
+Der er også udløb til kloak, men forsinket på den måde. Så vi kan få rigtig meget information, før vi går i gang på den måde her. En anden væsentlig ting, vi skal huske, det er det her, kan man overhovedet nedsive? Jamen, vi skal jo kigge på nogle ting. Hvor står grundvandet henne?
+
+00:36:43
+Hvis vi mener, at vi skal have noget vand ned i jorden, så er det ikke så godt, hvis den er fyldt op i forvejen. Det kan se ud som på billedet. Det er ikke et figureret billede, det er rent prøvekravning til nogen, der vil lægge en fiskine, og så ser det sådan ud.
+
+00:36:56
+Det giver sig selv, at her kan vi ikke komme af med ret meget vand, og vi kan slet ikke lægge noget ned i jorden på den måde her. Vi siger, at der skal være en meter til højeste grundvandsstand, når vi nedskiver regnvand. På Spilvandslægget i det åbne land, der laver vi det, der hedder et hædeanlæg.
+
+00:37:12
+Så bygger vi en jordhøj oven på jorden, og så kan vi få en meter på den måde der. Det fungerer ikke med regnvand, fordi det er nogle mest større mængder, de kommer på i større flåegange, og ikke lige så regelmæssigt. Så der kan vi ikke gøre det.
+
+00:37:25
+Det, der er vigtigt, når man laver sådan en grundvandspejling, det er, at man gør det på et rigtigt tidspunkt. Og det er altså perioden fra februar til april.
+
+00:37:31
+Hvis man har en grundvandsmåling, som er lavet i august måned, så kunne det her vand stå måske halvanden meter længere nede, Og så hjælper det sig ret meget at vide, hvor det er henne. Så siger man, at det går fint. Nej, det gør det ikke, fordi så har man et anlæg, der virker halvdelen af året.
+
+00:37:44
+Og det er altså ikke hensigten. Og så er der en anden ting, vi skal vide noget om. Det er det med jord. Den helt simple måde, som vi bruger til de mindre anlæg, det er, at vi laver en simpel nedsættningsprøve, hvor vi graver et hul og fylder vand i. Så enkelt kan det gøres.
+
+00:38:01
+Vi laver nogle stykker af dem, fordi der kan være relativt stor forskel, især på de blandede jorder, vi har i Østjylland og på Sjælland. Der kan 5 meters forskel gøre en meget stor forskel på det.
+
+00:38:13
+Den laves man i en halvtimes tid, så man har vandmættet jorden, så det er en nedsyvning under vandmættet, at tilsætte mere arbejde på det. Er det fuldstændig præcis en indengyndig sandhed? Nej, måske ikke, men vi har en praktisk erfaring, der siger, at det her fungerer rigtig godt.
+
+00:38:30
+Når vi bruger det som vores udgangspunkt, så rammer vi rigtigt. Mange steder får man lavet en geoteknisk undersøgelse og lavet sigteprøver. Det kan man godt gøre, hvis man synes, man bruger penge på det, men det fortæller os ikke så meget om vores nedsætningsevne.
+
+00:38:45
+Det er fordi, at den samme jordtype, det man får på et sigteprøve, det man får af en sammensætning i jorden, som har sand, ler, silt og andet, samme jord kan variere en faktor tusind i nedsætningshastighed, alt efter hvor komprimeret den er og hvordan den er lejet.
+
+00:39:00
+Det får vi ingen information om på sigteprøven. Det gør vi, når vi laver nedsætningsøvningstesten direkte ved Helvani. Så vi får en meget mere konkret viden om det aktuelle sted, og hvordan jorden er lejet. Vi kigger lidt på teknik og opbygning af de løsninger, vi har her.
+
+00:39:19
+Det bliver meget kort, for ellers tager det lang tid. Det tager trods alt det meste af et år at uddanne en kvarkmester. Så det kan vi selvfølgelig ikke nå i dag. Hvis vi starter med den traditionelle kloak, når det er inden for at sæde og arbejde, så er det efter bestemmelserne i DS 432.
+
+00:39:39
+Kloakmesteren kommer blandt andet over vores hal, og så får man et trivlet skos i praktisk rørlægning, som jeg skal vise, at man kan.
+
+00:39:47
+Som jeg siger til kloakmesteren, det er meget simpelt det her, fordi vi starter med, at vi skal have bestemt den dimensionsgivende regnmandsstrøm, for vi skider meget i regn, man har. Det foregår efter den tabel her i DS 32.
+
+00:40:01
+Det, som er interessant, det er, at der arbejder vi med Thorsnet med ettershændelser og thorshændelser. Ettershændelser, hvis det er et separat system, og thorshændelser, hvis det er et fælles system. Det vil sige, i modsætning til Lars, så går vi ikke normalt op og kigger på store regnehændelser.
+
+00:40:21
+Vi synes, at vores kloaktivitet må hurtigt løbe over, når det regner meget. Det er fuldstændig rigtigt. Det er, fordi den standarddimensionering ligger på relativt lave intensitet. Det er meget vand, der kommer også på en toårshændelse. Men vi går ikke op og laver en tiårshændelse på den måde.
+
+00:40:41
+Undskyld, sidder der? Der var spørgsmål. Jeg synes, jeg hørte spørgsmålet om, at det var på egen grund. Ja, det er det, når vi dimensionerer på det autoritære område. Forsyningerne dimensionerer på en anden måde. Så det er ikke ude i de store forsynningsledninger.
+
+00:41:04
+Det er på privat grund, vi snakker om her, og i stegledningerne. Næste trin er selvfølgelig, at vi skal have et fyldingsforhold. Når det regner med, så er det fyldt løbende, så vi regner det som et.
+
+00:41:16
+Og så er det den her traditionelle metode, det er, at vi går ind Hvis vi ved, hvor meget vand der er, og vi har et fyldningsforhold, så skal vi bestemme et minimumsfald af dimension.
+
+00:41:25
+Man kan gå og slå op i normen, og så er der de her skemaer, hvor man kan aflæse, hvor store rørene skal være, og hvor meget vand, de skal ligge med. Man kan også bruge nogle regnark, der kan give de samme dimensioner.
+
+00:41:41
+Der er en ting her, vi arbejder med, der hedder en klimafaktor, hvordan udvikler det sig, at der kommer mere vand, så den ganger vi ind i. Den bruger vi, når vi kigger på dimensionen, fordi vi ved, at der skal være plads til vandet fremover.
+
+00:41:55
+Men når vi bestemmer vores fald, som har rigtig meget at gøre med, hvornår røren er selvrensende, så gør vi det uden klimafaktoren, fordi det skal også virke nu, før vi får de ydermindre regn. Så derfor skal faldet altid bestemmes uden klimafaktoren, for ellers har vi ikke selvrensende rør nu.
+
+00:42:14
+Det er den meget gode måde at lave regnvandsdimensionering på, når vi snakker de mindre afløbssystemer, Hvad så med de her leger? Der er rigtig mange muligheder at gøre det på.
+
+00:42:25
+Den generelle måde at gøre det på, især på hvilken grund, det er, at allerførst dimensioneringskredset kommer i den tilladelse, man får på det. Men vi bruger det, der hedder SVK-regnerakket. Det er Spilværdenskommiteen, som har udviklet regnerakket til diverse legerløsninger.
+
+00:42:44
+Det fungerer rimelig godt. Det er, som alle andre konflikter regner af, nogle sjove tekniske ting, man ikke skal være opmærksom på.
+
+00:42:51
+En nyhed, der er i det, det er især i forhold til de udførende, at der er mulighed for, at man tester direkte den her nedsynestest eller synketest, så man ikke skal omregne til en k-værdi.
+
+00:43:04
+For vores erfaring er, at hvis man ikke er vant til at arbejde med de her tal med titelspotenser, som vi ofte løber ind i i vores vidningsævne, så er det, Nemmere at teste, om man har målt nedsævningen til 8 cm på 10 minutter, eller hvad man nu har gjort, direkte.
+
+00:43:18
+Og det kan man godt i en ny version. Det skal jo ikke siges, at hele det her regnark er opdateret for en år siden. Så har man den gamle version liggende, bør man altså trække den nye ned, fordi der er kommet nogle nye regnmodeller ind i det.
+
+00:43:30
+Det ligger på den hjemmeside, der hedder Leye Danmark, hvor vi har lagt det ind her, hvor man kan trække den nye version. Også den, hvor man kan teste syngetesten på det. Og den fungerer rimelig godt på det.
+
+00:43:43
+Men når vi så skal til at lave nogle ting, så er den traditionelle måde at gøre det på, at lave nogle faskiner. I dag er næsten udelukkende i plastkassetter. Man kan også sagtens lave dem i sinkels og andet.
+
+00:43:56
+Ulympen ved at gøre dem i sinkels eller andre former for sten, det er, at de bliver meget større, fordi der ikke er nær så meget hulrum i. I en plastkassette regner man med 95 % hulrum, hvor en stenfaskine typisk har 25 % hulrum.
+
+00:44:07
+Det vil sige, at de bliver cirka fire gange større, fået det samme ud af det. Og så er de tungere. Og væsentligt har jeg dårligere arbejde med på den måde. Der er nogle ting, der skal være. Det er selvfølgelig, at der skal være et sandfang, når vi laver en fiskine.
+
+00:44:21
+Og det er fordi, at ellers risikerer vi meget hurtigt, at den vil fylde op med alt muligt snask. Vi ved også godt, at der kommer nogle partikler ind i det, så når vi regner på den, så regner vi altid kun med udsyvning gennem siderne på det.
+
+00:44:33
+Vi regner ikke udsyvning gennem bunden med, fordi den vil slappe til i løbet af en periode. En anden ting, som vi altid siger, der bør være, det er ikke et krav, på den måde, som så er det i følge normen, det er, at der bør være noget udluftning eller ventilation i den.
+
+00:44:47
+Det er selvfølgelig et spørgsmål om, at når man har et eller andet hudrum i jorden, og der kommer et kraftigt regnvejr, og der kommer rigtig meget vand ind på en gang, så skal luften ud af den, for ellers er der ikke plads til vandet.
+
+00:44:57
+I teorien kan det godt blive presset ud gennem jorden, men hvis vi har en lidt tung jord, og den er øvet af vandmiddel, fordi det regner, så kan luften altså ikke rigtig komme ud. Så hvis den skal virke ordentligt, så bør der være ventilation på den.
+
+00:45:10
+Det kan kombineres med overløb, for på et tidspunkt fylder maskinen op, og der kommer et kraftigt regnskøl, og så skal den kunne komme væk. Hvis man ikke laver overløb, vil den stuge tilbage gennem brønden og komme op gennem Sandvandsbrønden.
+
+00:45:23
+Hvis man har et overløb, kan man også styre, hvor det kommer hen. Hvis det løber længere ud i haven, ud på en græsbane eller andet, eller mellem nogle træer, så kan man komme af på den måde.
+
+00:45:35
+En anden ting er, at vi anbefaler, at man laver nogle lange, smalle faskiner, for at få den største mulig sideflade på dem. En mere kompakt faskine har samme volumen, men den har mindre sideflade på dem.
+
+00:45:49
+Hvis man tænker, at man vil gøre en meget dyb og høj faskine, så vil man udnytte, at der kun står vand i bunden af faskinen. Det vil sige, at man udnytter ikke sideralet. Vil man lave den meget lang og meget smal på den måde, så får man en bedre udnyttelse i nedsivningen.
+
+00:46:05
+Så ved jeg, at der er nogle gamle kvarkmester, der vil sige, at den ikke ligger meget højt her. Jo, det gør den. Det er jo fordi, vi begynder at have større og større problemer med højstående grundvand. Så vi kan faktisk godt tillade os at lægge vores maskiner relativt højt.
+
+00:46:17
+Der er selvfølgelig det, at når vi har tandfang, så skal den have en vis højde her, men hvis der er fald på grunden, kan den faktisk godt ligge relativt højt. I et hæveranlæg, så siger vi, at et jorddæk på 30-40 cm er faktisk nok normalt. Hvis der skal træfik på, så er der selvfølgelig noget andet.
+
+00:46:33
+Det er en måde, vi gør det på i meget stor stil. Det er prismæssigt en mellemløsning på mange måder. Ikke voldsomt dyrt, men heller ikke voldsomt billigt. Den helt store attraktion for mange er, at man ikke kan se det. Det er noget, man graver ned, og så ser man det ikke.
+
+00:46:51
+Ved ligeholdelsesmæssigt er det måske udfordringer, fordi man ikke ser det, så er der ikke nogen, der er så mærkelig på det. Lige her skal man huske, at sandfangsbrønden skal tømmes regelmæssigt, for ellers fungerer den ikke efter indsigt. Vi kan også gøre det meget billigt.
+
+00:47:05
+Vi kan trække vandet direkte ud på græsbanen og nedsive på den måde der. Det er simpelthen en simpel lavning, hvor det filtrerer direkte fra overfladen. Der er nogle eksempel på det også, hvor der kommer nogle rande ud.
+
+00:47:20
+Den her ude fra en SFO i Brøndby, den ligger faktisk ikke helt fem meter fængt, men der er så god nedsivning i området, at det godt kan da så gøre. Det er jo noget, som koster meget, meget lidt at lave det her. Har man pladsen og forhånd til det, er det nok den billigste måde at gøre det på.
+
+00:47:37
+Man kan så sige, at man måske får en krastben, som man kan se her, som ikke er fuldstændig jævn, men kan man leve med det, så er det nemt og billigt at gøre det på den måde. Vi kan også til at lade vælge at sige, at vi gør det her hul lidt dybere og sætter nogle planter i, og så er det et regnbød.
+
+00:47:51
+Det kan se ud på mange måder. Fordelen med regnbød er, at de ofte er relativt små, imens det er meget stor mængde af vand, vi har med at gøre. Der bør altid også være et overløb på vejebiddet, som vi bruger i veje og andet. Der er det ofte i form af rist og rørført videre væk.
+
+00:48:10
+På private haver vil det ofte være, at der er simpelthen overløb fra kant ud på et græsområde. Og igen, det vi tænker altid over, hvor kommer vi hen med det? Det der hele pointen her, det er, at det stadigvæk er den jord, der ligger nedenunder, som afgør, hvor meget vi kan nedsige.
+
+00:48:26
+Nogle steder skal man sørge for, at der er sand og grus i jorden, man har sine planter i, for så kommer vandet ned. Men det kommer kun ned til, hvor vi har vores råjord. Hvis ikke den kan nedsives, så hjælper det ikke meget.
+
+00:48:40
+I virkeligheden vil jeg anbefale, at man matcher nedsivningshævnen i den jord, man planter i, til hvad der ellers er længere nede.
+
+00:48:49
+Kun hvis man har en tung jord, hvor man stadig kan have nedsivning i, kan det være en fordel, at man tilsætter noget her, så man får vandtransporten ned igennem jorden relativt hurtigt.
+
+00:49:00
+En ting, som man skal være opmærksom på med de her løsninger, især når det er regnbedet, det er, at det tager noget tid, før de fungerer ordentligt. Når vi har forstyrret jorden, så er hele den struktur, der er med porer, som kommer fra planterødder, fra regnorm og andet, de har vi forstyrret.
+
+00:49:16
+Så derfor er erfaringen, at det tager i hvert fald et års tid, før de fungerer optimalt med vandledningen. Vi kan speede det lidt op og sørge for, at der er godt en planter i. Vi kan også gøre nogle multiple ting, som er noget halm, blæde eller andet, organisk ned i jorden, når vi anlægger dem.
+
+00:49:31
+Det kan sætte af gang i omsætningen, og det tiltrækker ikke regnet overhovedet andet. Men det er ikke unormalt, at når vi har et nyt regnbæd, så kommer man ud tre måneder efter, og så står der væk i det og siger, at jeg håber, at jeg ikke har haft en kraftig regnskyld eller noget som helst.
+
+00:49:43
+Så er det et spørgsmål om at give det tid. Jeg har set flere steder, hvor man på regnbædet har I de første år stråler vand i det måske fire gange, og efter en til to gange, og efter det har vi faktisk ikke set stående vand igennem længere tid overhovedet, fordi så etablerer det sig.
+
+00:49:58
+Så det er i hvert fald en måde at gøre det på. Vi bruger også en helt lille bassiner. Der er alt, nu har jeg ikke taget et billede af med det. En klassisk måde at gøre det på, det er at have en lukket forskine eller andet under jorden, eller rørtund eller andet.
+
+00:50:15
+Der bruger vi rigtig meget til forsinkelse, hvor der er et drosseludløb, hvor vandet kan komme ned, stue op, og så komme videre ud i takt, når der er plads til et længere ude. Det kan også være åbne bassiner. Vi arbejder både med våde bassiner og tørre bassiner.
+
+00:50:31
+Det er et spørgsmål om, om det er noget, der står permanent vand i. I et tørrt bassin kan vandet komme væk, enten som et øverste, hvor der er nedtivning til det, og måske også udløb, eller som denne skaterpark hernede, hvor det er et begrænset udløb, hvor vandet kan stue op.
+
+00:50:49
+I et vådt bassin sikrer der altid et minimum vandniveau i det, hvor der ligger en eller anden form for membran eller naturlig vandstand. Det kan være en søvn, man har udvidet eller andet, eller man anlægger membran på det.
+
+00:51:02
+Grunden til, at vi nogle gange gerne vil have et permanent vandniveau, det er, at hvis det vandniveau er på en meter eller mere, så regnes det også med en rensebassin, så er der også en renseeffekt. Det har også noget at gøre med, hvordan vi styrer flådet igennem det.
+
+00:51:15
+Men det er i hvert fald en mulighed, at man gør det. Det gør man i meget stor stil i forbindelse med arbejdeanlæg. Men bassinet er i hvert fald et af de værktøjer, vi har. Uanset hvordan vi opbygger det, så har vi både noget magasinvolume, og vi kan også bruge det til forsikrelse.
+
+00:51:30
+Så det er derfor noget, vi gør rigtig meget. En anden ting, vi gør i relativt stor stil, eller er begyndt at kigge mere på, det er det med genanvendelse af regnvand. Hvis man kigger i, hvad der står i lovgivningen, så er der et område, der er velbeskrevet.
+
+00:51:48
+Det er, at hvis vi skal bruge det inde i husene, så kan vi bruge det til toiletskyld og tøjvask. Det lægger der nogle meget klare regler for. Der skal laves separat vandstrækning til det. Der må ikke være hæner, som man kan komme til at tage fejl, eller den slags ting.
+
+00:52:04
+De skal vel være markerede op, og skal være svære at åbne, så kan man godt få lov til det. Så har der været en eller anden forståelse af, at man kan bruge regnvand til andet.
+
+00:52:14
+Det hænger sammen med, at det styres af vores drikkevandsbekendtgørelse, som siger, at alt vand skal være drikkevand ellers tilsvarende kvalitet. Så kan man sige, at det er lidt tåbeligt at ikke bruge regnvandet som ressource. Det er der begyndt at være mere åbnet op for.
+
+00:52:30
+En ting, som bliver brugt i meget stor stil, det er jo havevanding. Der er ikke rigtig beskrevet, hvordan man gør det i lovgivningen. Vi kan dog se, at der har ligget noget på Miljøstyrelsens hjemmeside, hvor de faktisk skriver noget om, hvordan man kan gøre det.
+
+00:52:46
+Der er selvfølgelig det, at når man vandrer i haven, skal man overfore, hvad man gør det ved. Så længe det er brydeplanter og træer og busk og sådan noget, så gør det nok ikke så meget.
+
+00:52:54
+Men hvis man bruger det her regnvand, man har stående og hælder direkte hen over sin salat, som man skal spise om aftenen, så skal man passe på. Der er selvfølgelig lidt forskel på, om det er nedgradet tang, hvor der er noget bakterievækst, eller hvis det er en regnvandstønnelse.
+
+00:53:11
+De her regnvandstønder er et sjovt område, for de står alle steder. Hvad er lovgivningen på dem? Det er regnet som en regnvandsbeholder, der er placeret oven på terræn. Som sådan er der ikke en pligt til at søge om dem, men man skal melde dem.
+
+00:53:32
+Hvis man skal sætte en regnvandstønde op i en have, skal man melde den til kommunen tre uger før, man tager den i brug. Jeg ved, at der er en del kommunefolk her, og jeg vil gætte på, at der ikke er ret mange af jer, der nogensinde har modtaget sådan en anmeldelse, fordi det sker ikke.
+
+00:53:47
+De kommuner, jeg har snakket med, de siger, at når de får sådan en anmeldelse, så er det ikke de, der kigger på den og kører sig i nakken og siger, hvad skal vi stille op med det? Fordi der er ikke rigtig noget at vide, hvad man skal gøre ved det.
+
+00:53:57
+Men det er et af de tilfælde, hvor der er nogle regler, som er der, og som ikke bliver overholdt, og hvor der ikke rigtig er nogen konsekvenser af det. Jeg ved egentlig heller ikke, hvad konsekvenserne skulle være. Og så er der det her med, hvad vi ellers kan bruge vores regnvalg til.
+
+00:54:11
+Det kan vi jo bruge meget lang tid på. Men det er begyndt at se på det i større stil. Ikke kun et spørgsmål om, at når vi nu alligevel har det og skal have det, så kan vi bruge det til noget fornuftigt.
+
+00:54:22
+Men også fordi vi kan se, at vi kommer til at have perioder, hvor vi faktisk har et problem med at få vand nok. Det er ikke uhørt længere, at der kommer tørkeperioder om sommeren, hvor forsyningerne begynder at melde ud til forbrugerne og sige, at de ikke kan holde lidt igen med havevandingen.
+
+00:54:37
+Vi begynder at løbe tør, for vi kan ikke pumpe hurtigt nok. Der er det lidt en oplejet tanke at sige, om vi kan gennemnede det regnvand, vi har fået tidligere på året til det her.
+
+00:54:48
+Vi er begyndt at kigge på det, og der er begyndt at være nogle gode eksempler fra både gårdhave og andet, hvor man bruger det. Vanding af planter er jo oplagt. Men der er også eksempler på, at man begynder at bruge det til andre ting.
+
+00:55:01
+Frederiksberg har for eksempel allerede etableret fem tabslæder, hvor der er mulighed for, at man kan tegne regnvand. Det vil sige, at de bruger det, når de kører rundt med deres gadefejrebiler, så er det regnvand, de kører på, for de taber direkte fra deres regnvandsbesætninger.
+
+00:55:17
+Det er også oplagt at bruge det til, når vi skal smule vores kloakker. Der bruger vi en del vand på det. Det er lidt tåbeligt at bruge ren vand til det, fordi de kloakker, vi smuler, er i hvert fald ikke rene. Så der er begyndt at være stigende fokus på, hvad vi ellers kan gøre med det her.
+
+00:55:36
+Så det er noget, vi kommer til at se, og der er en lovgivning, som måske ikke er helt forberedt på det endnu.
+
+00:55:45
+Og en af de ting, vi ofte har hørt på det, det er, at hvis man spørger om det, så får man at vide, at i gamle dage var det embedslægen, nu er det styrelsen og patientsikkerheden, de siger nej, det må man ikke.
+
+00:55:58
+Det, tænkte vi, lyder interessant, så vi har faktisk været inde og holde et møde med Styrelse og Patientsikkerhed. Det er faktisk ikke dem, der er den store showstopper af det her. Dem, der sidder med det, de gik tilbage til deres arkiver, tror jeg, de gik 20 år tilbage.
+
+00:56:11
+De har i alt 30 henvendelser om det. Det er det hele. Så de bliver faktisk ikke spurgt om det. Og rigtig mange af de ting, de var blevet spurgt om, der så de faktisk ikke noget problem i det. Der er nogle forholdsregler, der er nogle ting, som er no go.
+
+00:56:26
+Hvis der er noget vand, der bliver forstøvet op, så man kan indånde det, så siger de, at det er en dårlig idé. Men generelt siger de faktisk ikke de store problemer i det.
+
+00:56:35
+Der er selvfølgelig noget arbejdsmiljø, hvis man skal spole og sådan noget, men det vil der være i, hvis man spoler i en kloak alligevel. Så der er altså mulighed for at få lov til at gøre de her ting i et langt højere grad.
+
+00:56:45
+Det skal siges, at det jo ikke er Styrelsen for Patientsikkerhed, der giver tilladelser til det. De vejleder i, hvad der er fornuftigt at gøre. Det er en ting, der ligger hos de myndigheder, der giver tilladelsen, altså kommunerne.
+
+00:56:57
+En anden ting, der er begyndt at komme lidt fokus på og er en del spørgsmål til, er det her med pumpning af regnvand. Hvad kan man der? Er det en god idé? Er det ikke en god idé? Der er nogen, der har den opfattelse, at det må vi ikke. Det er ikke rigtigt. Det må vi godt.
+
+00:57:16
+Især i nogle af de store projekter, så gør vi det også. Hvis der er nogen, der går en tur på kastellet, så vil man kunne se, at der ligger tre store dæksler, der er lagt derude. Der ligger simpelthen en stor pumpestation derude, hvor der ligger nogle kæmpestore ledninger ud i havneområdet.
+
+00:57:32
+Så alt det vand, der kommer fra Udderslev og Mose, gennem mandssystemet, gennem søerne, det ender i voldkraven på kastellet, og for at kunne få det væk, så er det altså et intervalleret pumpestation.
+
+00:57:42
+Den har så også en enorm generatorstående, fordi hvis strømmen går, og vandet ikke kan komme væk, så begynder der at komme oversvømmelser. Men på mindre områder og mindre niveauer, der vil vores svar altid sige, at det bør man helst ikke gøre.
+
+00:57:58
+Hvis man kigger i vores lov for mindre afløbssystemer DS432, så står der direkte, at hvis det ikke kan undgås at pumpe regnvand, så kommer der en længere ting på det. Så det er noget, man siger, at det kan man godt overveje, om det er en rigtig løsning. Hvorfor ikke?
+
+00:58:17
+Der er jo det med, at vi får nogle meget større vandstrømme. Vi ved, at spildevand kommer relativt jævnt. Vi kan forudse, hvor meget, der kommer ad gangen. Går det galt, har vi måske mulighed for at lade være med at trække i snoren. Når det er regnvand, kan vi ikke forhindre det.
+
+00:58:37
+Vi kan heller ikke forudse, hvornår det kommer, så vi får noget meget større pumpanlæg på det. Så der er man nødt til at lave et risikovurdering, hvis man skal pumpe det. Der er det, at man meget hurtigt er oppe i nogle ret store pumpestørrelser på det.
+
+00:58:50
+Så helt generelt er vores bud, hvis man på nogen måde kan undgå det, så bør man lade være med det. Men det er ikke ulovligt, skal det siges på nogen måde. Så her mod slutningen, så vil jeg godt lige samle op på noget af det der med erfaringer.
+
+00:59:13
+Vi fik her på vores side en bevidning fra Realdania, hvor vi gik ind og kiggede på nogle af de klimatilpaste projekter. Det var, fordi vi kunne se, at der ikke var en bredere indsamling af erfaringer på projekterne. Der er lavet mange projekter. Virker det, virker det ikke?
+
+00:59:32
+Hvad er erfaringerne på det? Det gik vi ud og gjorde. Vi gik ind og kiggede på 11 større projekter rundt omkring i hele Danmark. Vi har dog ikke været i Norge ellers, men både i Jylland, Fyn og Sjælland. Der er selvfølgelig mange omkring København.
+
+00:59:47
+Det er både fra hele bydel, kvarter, plads og parker, klimaveje, søområde og alt muligt andet, for at få så bredt et indblik i det som muligt. Helt overordnet, virker det? Med et ord? Ja, det gør det. Hvis vi kigger overordnet på det, så virker de ting, vi gør.
+
+01:00:12
+Er der nogle gange ting, der ikke virker, især på de små anlæg, ja selvfølgelig er der det. Der kan laves fejl, der kan være dimensioneret forkert og alle de her ting. Men er tingene ledet efter forskrifterne, og efter den måde, vi dimensionerer det på, så er det uudelbart sådan, at det virker.
+
+01:00:28
+Man skal også passe på med at sige, fordi man har hørt om enkelt tilfælde, hvor det ikke har virket, at så kan vi ikke bruge metoden. Vi får rigtig, rigtig mange sager ind på almindelige rørsystemer også, hvor det heller ikke virker.
+
+01:00:42
+Næsten altid, fordi der er noget, man har glemt til højde for, om man har lavet noget forkert eller andet. Og det vil selvfølgelig også være tilfældet her, at hvis man ikke laver det på den rigtige måde, så kan der være ting, der ikke virker.
+
+01:00:52
+Men på de store projekter, der kan vi bare se, om de virker. Som vores erfaring siger, vi kan lave nogle rigtig robuste løsninger. Ofte også billige løsninger. Vi har set eksempler på områder på 50 hektar, hvor man får 61 mio. har kunne lave noget klimatilpasning.
+
+01:01:14
+Vurderingen er, at det ville koste 80-100 kr. at lægge ekstra rør, så vi kunne tage det sammen. Vi kan faktisk gøre det lidt billigere, og vi kan også få noget, som virker ligeså godt. Også fordi vi har den fordel frem for en rørlægning.
+
+01:01:30
+I rørlægningen ved vi, at der er en magtskabelse, men den overstiger, så der er ikke mere plads, så der er ikke noget at gøre ved det, så løber det andet sted hen.
+
+01:01:37
+I vores klimatilpasning kan vi netop gå ind og sige, at vi har mulighed for at lave en plan B, der hedder, at når det normale system er lødt op, så har vi en boldbane, som den her, vi kan lægge lyd på.
+
+01:01:47
+Den kommer ikke i brug ret ofte, men vi har en boldbane, som bruges i langt den største del af tiden, og måske et par dage om året, så står der vand på den. Så vi kan få noget mere, helt andet udnyttelse af mærkværdien. Det giver altså altså noget.
+
+01:02:00
+Så det er med, at vi får mere end bare noget vandteknisk. Vi kan få noget grøn område, noget rekreativt område. Vi kan få noget biodiversitet, vi ellers ikke ville få. Så det er med at tænke, at der er noget added value i det her også. På den måde. Så skal vi sige, at der er en udfordring.
+
+01:02:18
+Det er, at der kigges rigtig meget på andlingsprisen. Og så er der det der med de langsigtede ting på driften og hvordan den er. Især med driften, er det måske et af de steder, vi har set udfordringer med klimatilpasning. Det er, at når vi laver et afløbssystem, så tænker vi, at det virker.
+
+01:02:38
+Vi lader være med at røre ved det et par år, så kan det godt blive, at vi kigger til det igen. Når vi snakker drift og larområder, så er det et grønt område. Dem, der er valgt til grønt drift, ved, at driften er altid kritisk i starten. Der er planterne ikke etableret.
+
+01:02:53
+Det er der, det skal vokse til. Det er der, vi skal op og køre. Så man skal vente om at sige, at vi lægger pengene på driften i starten. Når først det kører, så er det nemmere, og så kender vi det også. Det var svært at forudse præcis, hvor meget drift der er på et grønt anlæg.
+
+01:03:08
+Hvorimod vi er vant til med rørene, så sker der ikke så meget, hvis de er lagt rigtigt. Så kigger vi først på dem senere. Så man er nødt til at vente om. Især når vi snakker de store anlæg. Hvem skal så driften?
+
+01:03:19
+Fordi forsyningerne er jo ikke normalt givet til at tage sig af grønt drift, hvis der er plantanlæg i det. Der skal laves aftaler af kommunen, der skal gøre det. Hvor ligger den henne? Der er altid nye ting i det. Hvordan sætter vi det på formel og normer?
+
+01:03:38
+Vi kan ikke gøre det på samme måde, som vi kan med det andet. Slet ikke, når vi snakker om de grønne dele af det. Der lyder det måske ind i, at det er lidt svære at gøre. Vi kombinerer ofte løsningerne. Vi har regnvindspillering, forskiende, oversvømmelse over på boldbanen.
+
+01:03:58
+Det er ikke en one-size-fits-all. Vi er nødt til at tilpasse det, hvad der er af muligheder. Vi starter med at kigge i området. Hvad kan jeg lade sig gøre her? Hvad er det for terræn? Vi kan ikke bare sige, at vi skal have en sø her. Vi skal udnytte det naturlige terræn.
+
+01:04:15
+Det giver os nogle overvejelser, når vi skal håndtere vores regnvind. Det hele der med, hvor bygger vi henne? Der bliver stadig bygget meget i kystnært, der bliver bygget meget i levetlægnede områder osv.
+
+01:04:33
+Og ja, vi kan da godt lave nogle løsninger, som kan håndtere vandet, men det kunne måske være væsentligt mere samfundsløb, om vi skulle lade være med at bygge her i det hele taget. Kan vi gøre, som vi plejer? Umiddelbart nej. De forudsætninger, som plejer at lade under, de er der ikke mere.
+
+01:04:48
+Vi får mere vand, vi får det på en anden måde. Vi får problemer med tørke, som giver nogle sætningsskader. Så skal vi se hele den her norm for, hvordan vi har gjort det tidligere, den er under pres. Og så er der den her overvejelse. Hvad kan vi gøre af det her vand?
+
+01:05:03
+For hvis der er en ting, der er sikkert, det er, at vi ved, at det kommer. Så det vand, vi kan gøre, det er, hvor vi vil gerne gøre af det. Vi kan ikke sige, at vi vil ikke have vandet her. Den gamle tanke om, at vandet skal bare væk fra huset, og så er det fint.
+
+01:05:16
+Fordi så er der et rør, eller et hul, eller andet, vi kan hælde det ned i. Sådan er det ikke mere. Fordi røret er ikke stort nok, vi skal lave meget store huller, så vi skal gøre det på en anden måde. Hvad så, skal vi bare lægge det hele op i regnbedet, grønne løsninger?
+
+01:05:32
+Det tror jeg ikke, vi kommer til. Det er det her med, at vi skal kombinere det. Vi kan ikke nedsive alle steder, vi kan godt lave nogle steder, hvor vi har. Sådan som det heroppe, det er Glisholmsø ved Udense, som jo er et stort regnbedsbassin.
+
+01:05:47
+Det er bare ikke altid, at der er plads til det, så vi slipper ikke at få at se på dem her. Vi kommer ikke til at skrue ud af den mest klare opmæssede, som også lærerlægger rør. Fordi vi er nødt til at bruge det hele på en gang. Vi har en stor værktøjskasse, som er blevet meget større.
+
+01:06:01
+Det er ikke kun vores rørlægning, vi har også alle lejerløsningerne nu. Så igen det der med, hvad kan det lade sig gøre her? Hvad passer bedst her? Hvis det er meget tæt med bygget, og der ikke er mulighed for en nedsvivning, så tænker vi i hvert fald forsinkelse i det måske.
+
+01:06:15
+Og så sker det væk på en eller anden måde. Så kommer røren ind i billedet alligevel. Og så er der det der med, hvordan vi samarbejder på det. For Jacob vi vil jo se, at det er et af de steder, hvor der ofte dukker der nogle ting op. Jeg kan se lærke, du havde lige i hånden op.
+
+01:06:34
+Du må meget gerne bare spørge ind. Du er muted kan jeg se. Bjerke, var det min kommentar? Ja, det var.
+
+01:06:50
+Det. Undskyld, jeg satte den bare lige på. Jeg vil gerne stille spørgsmålene til sidst, så kom du.
+
+01:06:55
+Bare igennem. Jamen, det passer sådan set fint. Jeg kan lige gøre den færdig, for det her med samarbejde, det er med, at vi kan se, at vi bevæger os i noget andet.
+
+01:07:07
+Så den traditionelle plagtmester, hvis han skal ud og lave regnbæd, så skal han jo også vide noget om jord, plant og vand, hvad han ikke ellers ville gøre. Når vi laver større ting, skal vi bruge de her entreprisegrænser op, fordi vi arbejder på en anden måde.
+
+01:07:20
+Når vi skal lave et naturbaseret område til håndtering og rensing af regnvand, skal vi tænke på en anden måde. Det var også den sidste, jeg havde, så vi var nødt til spørgsmålene. Hvis der er noget her, har vi lige en timers tid til det. Lærke, du går bare over med det samme.
+
+01:07:44
+Sige mit tak i forhold til det der med driften af de grønne løsninger, fordi det er jo rigtigt, at der er selvfølgelig en vis variation i forhold til drift.
+
+01:07:57
+Det kan være svært at vide, om der er noget, der kræver mere i et anlæg, men samtidig tænker jeg også, at vi jo egentlig har grønne drift, grønne drift mange steder, og sådan set også, altså, og det egentlig er på linje med lar, og vi måske, altså, vi kan i ret høj grad systematisere det, vi kan i ret høj grad regne med, hvad det er, vi kommer til at drifte fremadrettet.
+
+01:08:24
+Så det tænker.
+
+01:08:25
+Jeg egentlig er ret positivt. Det er jeg helt enig med dig i. Vi kan bare se, når vi har været rundt og se de store projekter, at der, hvor der har været problemer, det er, når der ikke har været en klar aftale om det. Det er den der fordeling af, hvem der skal gøre det.
+
+01:08:38
+Hvis der ikke er aftalt, hvem der gør det, så er der kun én løsning. Det er, at der ikke er nogen, der gør det. I løbet af to år har vi et problem med, at de ser ud på en helt forkert måde.
+
+01:08:50
+Ikke nødvendigtvis ikke de lille vandtekniske, men der skal være en afklaring på det, som man ikke har været vant til, når vi bare laver rør på det. Nej, det kræver.
+
+01:09:00
+Noget drift. Vi kan faktisk i ret høj grad systematisere den drift, og også komme ned til, hvad er kvadratmeterprisen, og få erfaringspriser. Det gør, at det er noget, vi kan håndtere. Så skal der selvfølgelig lave de der aftaler, for hvis vi ikke drifter, så går det. Så bliver det.
+
+01:09:21
+Dyrt. Ja, så kan.
+
+01:09:22
+Det godt blive dyrt. Men vi kan i ret høj grad systematisere det. Det kan vi.
+
+01:09:27
+Godt. Det skal nok også forstås på den måde, at når man kommer fra afløbssiden, så er driften noget andet, som man ikke er vant til på den måde. Jeg tror virkelig, at vi er meget enige på det.
+
+01:09:42
+Her. Ja, absolut. Alright.
+
+01:09:45
+Perfekt. Lotte, du har en hånd op, kan jeg se? Ja, kan du høre mig? Ja, sagtens. Jeg.
+
+01:09:57
+Har to spørgsmål. Det ene er, at der er et lovforslag om terrængnært grundvand på vej, og en mulighed for, at Forsyningen kan tage ansvar for det, og lave en tredje ledning. Det er sådan... Mit spørgsmål er lidt...
+
+01:10:21
+Alternativ til det, som for eksempel KU's lovret lar, kan være en mulighed, eller om du har kendskab til andre løsninger. Det vi kommer til at se ind i med dit lovforslag, er godt nok, at Forsyning kan håndtere det, men det er også virkelig en rør-rør-rør og CO2. med masser af beton.
+
+01:10:50
+Jeg tænker også, at det ville være rart at kunne få noget finansiering til mere lokale, grønnere.
+
+01:10:58
+Løsninger. Helt enig.
+
+01:11:00
+Nu har jeg bevidst ikke gået ret meget ind i grundmændspolitikken, men der er jo faktisk netop her i forrige uge præsenteret et rapport, som er lavet for Danmark og KL, Blandt andet af VSP, Sjønherr og Sværfør Teknologisk, hvor vi kommer med tekniske løsningsforskninger til, hvordan vi kan håndtere det.
+
+01:11:24
+Der er også begyndt at tænkes nogle mere grønne løsninger i det. Hvor vi kan kombinere lar og træning af grundvandet. Så vi bruger nogle larlæg til at infiltrere vandet i sommerblå, hvor vi gerne vil have det. Og så kan drene væk om vinteren.
+
+01:11:42
+Men det er rigtigt, at der er meget fokus på rør, på pumpning af det osv. Og det er nok også den udebare løsning mange steder. Det, som jeg synes, er interessant i det, det er også, at der er begyndt at komme et fokus på, for vi har jo altid snakket om, at vi skal sænke grundvandet.
+
+01:11:59
+Nej, der er kommet et fokus, der hedder, at vi faktisk skal stabilisere det. Fordi vi kan se, at hvis vi bare sænker det, og vi så har en sørgeperiode, så vi kan få problemer med sætningsskader og andet. Fokus kommer nok også til at ligge på, hvordan vi stabiliserer det i et område.
+
+01:12:16
+Hvis vi bare fjerner det helt, har vi også andre udfordringer på det. Det er en helt tredje del af det. Det er det hele, der kommer en lovgivning, som jeg glæder mig til at se. Det giver os andre muligheder. Så nævnte du også, at det er en af måderne at gøre det på.
+
+01:12:35
+Vi er nødt til at tænke på andre måder, for hvis vi hele tiden tænker på, at vi skal have det ned i en forskellig nedsivning, så afskærer vi os for store deler af landet efterhånden. Så jo mere vi kan håndtere det på andre måder, jo bedre.
+
+01:12:47
+Havde jeg haft mere tid, så havde jeg også kunne snakke om sådan noget som grønne tage, for det tager i hvert fald at fjerne en stor del af vandet på årsbasis. Det kan ikke redde os fra skybruddet, for det har en begrænset kapacitet på den måde.
+
+01:12:58
+Det hele er en samtænkning af, hvilke forskellige løsninger vi kan gøre. Det er en af områderne, vi håndterer det på, hvor vi kan tage tag i meget vand. Der har været bygget et nyt anlæg til det inde omkring Bispingboen. Der kommer nogle andre løsninger på det.
+
+01:13:21
+Der har også været bygget i Gladsakse, hvor der bliver lavet et anlæg, som kører udelukkende ved fordampning af regnvandet. Hvor der ikke er nedsynning heller. Så der kommer nogle nye ting ind i det.
+
+01:13:33
+Så der er, som jeg ser det, så er det igen det der med, hvis jeg lige bladrer en enkelt streg tilbage her, at vi har en værktøjscase, som vi er ved at gøre større i øjeblikket. Vi kan ikke tillades at sige, kunne vi bruge noget af den, fordi så afskærer vi os fra nogle løsninger.
+
+01:13:48
+Og det er ikke alle løsninger, der giver mening alle steder. Så hvis ikke vi prøver at åbne op for, at der er andre muligheder. Og nej, grøntsaget kan ikke tage alt vandet. Det kan tage noget af vandet, så vi har et mindre problem længere henne.
+
+01:14:00
+Så vi tager brug for et mindre bassin måske, eller hvad vi nu gør. Så hele den her kombinationstanke er faktisk noget af det, der er vigtigst i det, som jeg ser det. Jeg har lige.
+
+01:14:11
+Et enkelt spørgsmål, men jeg skal nok over det. Nu har I været inde og kigge på de her 11 Klimaoppasningsanlæg er større. Har I også været inde og overveje, hvad er et godt monitoreringsprogram? Ja, det var.
+
+01:14:28
+Faktisk en del af projektet. Konklusionen var meget klar, at der ikke sker noget smelts. Vi får sige det, som det er. Noget af det hænger sammen med, at nogle af de projekter er nogle år gamle. Det er bevidst valgt, at vi kigger på anlæg, som har kørt nogle år, så vi har erfaringer på det.
+
+01:14:48
+Mange af dem har også skrevet i, at der skal laves en monetering på det. I bedste fald er der lavet en masse monetering, og de ligger på en eller anden database, eller på en computer hos en medarbejder, som er stoppet på projektet, eller hvad det nu er. Så der er ikke sket ret meget på det.
+
+01:15:05
+Der begynder at ske lidt mere, især når vi kigger ind i området omkring regnvandskvalitet, hvor der er nogle krav på dokumentationen, men det er et desværre et overset område, for det er noget, som kan blive meget dyrt, hvis man skal gøre det rigtigt.
+
+01:15:22
+Det med at tage en stikprøve en gang imellem, giver os ikke ret meget viden, så der skal være nogle systematiske overvågninger af det. Hvis det er ren vandbalance, så kan det gøre os nogenlunde billigt, men det kræver noget mandskabskraft alligevel. Det er det, der mangler.
+
+01:15:38
+Vi havde forventet, at det skulle fylde rigtig meget projekter, men det fyldte nærmest ingenting, for der var ikke nogen, der gjorde det. Desværre. Klimaalliancen og.
+
+01:15:46
+CONCITUS ville arbejde lidt på at lave et forslag, som også er overkommeligt. Som er realistisk.
+
+01:15:54
+Det er det. Skal vi have det helt store, som vi ville gøre, hvis vi lavede et forskningsprojekt, så blev det dyrt omfattende. Vi er nødt til at sige, hvilke nøgleparameter man skal have på det.
+
+01:16:05
+Hvis det er noget om vandbalancen, så kan man lave nogle automatsystemer, som kan overhove det på en simpel måde. Vandkvalitet kan vi til en vis grad overvåge på den måde også, men det er det der med, hvad er det, der kan gøres, og hvad er det for et krav, der ligger på diminutionen også.
+
+01:16:21
+Så det er et område, som der kommer til at ske rigtig meget på, men desværre som meget nemt beskrevet ud.
+
+01:16:28
+Det er sådan det der med, at der skal spares et eller andet sted i projektet, så er det nok, at man sparer, eller også så er det noget, der skal gøres bagefter, og så er det ikke tænkt ind, og så kan det vente at blive meget dyrt eller umuligt at gøre bagefter. Og det er Nolan svar på det.
+
+01:16:44
+Ja tak, jeg.
+
+01:16:45
+Synes, jeg vil overleve ordet til nogen.
+
+01:16:47
+Andre. Jeg kan se, at Kirsten har et spørgsmål også. Hej, det er Samantha fra H4. Det er et.
+
+01:16:58
+Opklaringsspørgsmål i forhold til det her med.
+
+01:17:00
+Stikledningerne og den klimafaktor. Er det rigtigt.
+
+01:17:02
+Forstået, at man regner en klimafaktor ind.
+
+01:17:06
+I dimensionen, men ikke i faldet? Ja. Det er rigtigt. Minimumsfaget er i hensyn til selvrensningen. Hvis vi regner klimafaktoren med der, så regner vi på en for stor vandstrøm til, hvad vi har nu. Så er det ikke selvrensende mere. Det er det, der giver problemet, så stopper rørene selv.
+
+01:17:29
+Vi regner ikke med, at vi laver minimumsfaget, men dimensionen, der siger, at det skal virke, når vi får mere valg om 100-50 år, så regner vi det på der. Tak. Lærke, du har hånden op. Er det en gammel en? Det er nok måske bare en gammel en, der hænger der. Undskyld, det er.
+
+01:17:54
+En gammel en. Jeg tager den.
+
+01:17:55
+Det er helt fint. Er der flere spørgsmål eller andet? Hvis de efterfølgende sidder og tænker over et eller andet, så er I meget velkomne til at tage fat i mig. Jeg gætter, at jeg nok kan få DNNK til at sende en kontaktinformation ud på mig bagefter. Det skal I velkommen til, så tag fat i mig.
+
+01:18:17
+Vi kan ikke svare på alting hele tiden, men hvis der er noget eller andet, så svarer vi gerne på det. Hvis der er nogen, der har lyst til at høre mere om det, så vil jeg lave en lille smule reklame og sige, at vi har nogle uddannelser inden for klimaselpasning.
+
+01:18:33
+Vi har den her regnvandskonsulent, som er Den praktiske til dem, der skal udføre det. Og så har vi klimatilpasning, hvor vi går lidt mere ind på planlægningen af det.
+
+01:18:45
+Også hvis I sidder i kommuner, forsøgninger og større virksomheder, så er der også mulighed for, at vi laver et skrædselsudkursus til jer, hvor vi kommer ud til jer. Det kan også lade sig gøre. Det var den reklame, jeg lige skulle have med. Det beklager jeg meget, men det var en mulighed.
+
+01:19:03
+Hvis I ikke har flere spørgsmål, så vil jeg sige tak for i dag. Og som sagt tag fat i mig hvis der er noget Så holder du også tiden kan jeg se, der er et minut tilbage Så tak for bifallet Og tak for i dag.
+

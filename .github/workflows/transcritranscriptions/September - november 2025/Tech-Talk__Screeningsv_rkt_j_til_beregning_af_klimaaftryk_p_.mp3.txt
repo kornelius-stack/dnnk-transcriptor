@@ -1,0 +1,1308 @@
+00:00:10
+Kære alle, på vejene af DNNK vil jeg byde velkommen til dagens Tech Talk.
+
+00:00:16
+I teknikken sidder Morten Halling, og jeg er Kristoffer Sindby og er dagens færd.
+
+00:00:20
+For god ordens skyld skal jeg sige, at Tech Talken bliver optaget og lagt på DNNK's hjemmeside i løbet af en uge.
+
+00:00:26
+Lidt om det praktiske, som det altid er.
+
+00:00:28
+Så kan I stille spørgsmål under Tech Talken, og så vil jeg stille dem i slutningen af denne Tech Talk.
+
+00:00:35
+Dagens tech talk er med Emma Østergaard Willumsen og Katrine Rygaard Pedersen fra WPSP.
+
+00:00:42
+De vil demonstrere brugen af et screeningsværktøj, der er lavet til at beregne klimaaftrykket på forsynings- og anlægsprojekter.
+
+00:00:52
+Med det vil jeg give ordet videre til dig, Katrine, og sige velkommen til, og tak, fordi I ville stille op.
+
+00:00:59
+Tusind tak.
+
+00:01:00
+Tak, fordi I havde lyst til at møde mig.
+
+00:01:04
+Jeg hedder Katrine, og det er Emma, der sidder ved siden af.
+
+00:01:06
+Vi er uddannede miljøingeniører ude fra DTU.
+
+00:01:10
+Vi sidder i dag over i VSP, i deres afdeling Klimaby og Landskab, hvor vi bl.a.
+
+00:01:16
+Sidder.
+
+00:01:16
+Med de her CO2-beregninger af anlægsprojekter.
+
+00:01:21
+Det, vi skal fortælle om i dag, er et screeningsværktøj, som vi udviklede i forbindelse med vores speciale, som vi også skrev i samarbejde med VSP, hvor vi gerne ville undersøge, hvordan man kan lave de her SA-beregninger, af indexprojekter inde på forsyningssektoren i den tidlige del af projektfasen, hvor det også er, der man kan lave de fleste ændringer.
+
+00:01:44
+Og bare lidt for at give et kort oplys af det, vi kommer til at gå igennem i dag.
+
+00:01:49
+Vi giver både en introduktion og en motivation til, hvorfor vi har lavet screeningsværktøjet.
+
+00:01:54
+Og så selvfølgelig demonstrere selve screeningsværktøjet.
+
+00:01:57
+Vi gennemgår nogle eksempler, nogle regneeksempler med det.
+
+00:02:00
+Og også viser, hvordan man fortolker, resultaterne man får ud af det, og hvordan man laver optimeringer.
+
+00:02:06
+Og så selvfølgelig fortæller vi også, hvordan I kan komme i gang med at bruge værktøjet.
+
+00:02:10
+Det er et værktøj, der ligger gratis og frit tilgængeligt.
+
+00:02:13
+Men det kommer vi til, hvordan I så får adgang til det.
+
+00:02:17
+Og som Christoffer nævnte, så skal I egentlig bare skrive spørgsmålene, og når I tænker på dem løbende i chatten, så samler vi op på dem til sidst efter præsentationen.
+
+00:02:26
+Ja.
+
+00:02:27
+Og hele vores projekt her, det startede med, at vi gerne ville at lave et værktøj, der bruges til inspiration til, hvordan man kan reducere sit CO2-aftryk.
+
+00:02:38
+Og vi skal selvfølgelig alle sammen reducere vores CO2-aftryk, der hvor vi kan, for at leve op til landets nationale klimamål om præg en 70%-reduktion i uddannelse af klimagasser i 2030, og at vi skal være klimaneutral i 2050.
+
+00:02:54
+I byggebranchen er man allerede virkelig godt i gang, og der er begyndt at komme kraver til, hvor mange kilo CO2, udledet per kvadratmeter per år i bygninger.
+
+00:03:05
+Og selvom der ikke er lignende krav i vores branche endnu, så synes vi alligevel, at det er ret vigtigt, at vi kommer med på bølgen.
+
+00:03:11
+Så det håber vi, at vores værktøj her kan være en lille del af.
+
+00:03:17
+Og vi arbejder med den her livscyklusvurderingstankegang.
+
+00:03:22
+Det hedder Life Cycle Assessment på engelsk, som der sikkert er mange af jer, der har hørt om.
+
+00:03:26
+Når man laver en LCA, så kigger man på et projekt eller et produkt i hele deres livscyklus, som man kan se på den her figur, hvor man har alle de forskellige faser.
+
+00:03:40
+Man kan kigge på flere forskellige miljøpåvirkninger.
+
+00:03:44
+Vi har kun fokus på klimaforandringer, som man måler i CO2-ekvivalenter, så det dækker over alle drivhusgasser.
+
+00:03:51
+I en fuld LCA kunne man også kigge på nedbrydning af ozonlaget, fysuring, eutropisering, vandforbrug og ressourceforbrug.
+
+00:04:00
+I en vejrhedsværktøj har vi også primært fokus på de første fem af de her livscyklusfaser A1 til A5, fordi det er her og nu udledningerne fra et anlægsprojekt.
+
+00:04:14
+Der har vi A1, som er udledning af brommaterialer.
+
+00:04:18
+Og når vi transporter de her råmateriale hen til produktfarmstilling, det er så A2 og A3.
+
+00:04:24
+Så har vi transporten af byggematerialerne hen til byggepladsen, det er det vi kalder for A4.
+
+00:04:30
+Og til sidst har vi anlægsarbejdet, som er de maskiner, der kører rundt ude på byggepladsen, og det kalder vi for A5.
+
+00:04:38
+I den her figur er der også en anvendelsesfase B.
+
+00:04:42
+Den har vi slet ikke med i værktøjet, som det er nu i hvert fald.
+
+00:04:47
+Og så har vi til sidst C og D, som er affaldshåndtering efter projektets levetid og eventuelle genanvendelse af materialer.
+
+00:04:56
+De er forbundet med en del usikkerhed, fordi det er noget, der kommer til at ske langt ud i fremtiden, når projektet skal nedbrudes igen.
+
+00:05:08
+Her kan I se lidt erfaringer med LCA'er fra branchen, som vi har Både ved at snakke med nogle forskellige folk, blandt andet fra Vejdirektoratet, Københavns Kommune og nogle forsyningsselskaber.
+
+00:05:22
+Fordi vi gerne ville høre, hvad status egentlig er med at lave LCA'er.
+
+00:05:27
+Det vi hørte var, at det var omkostningstungt.
+
+00:05:31
+Det kræver meget data, stor data input og dermed også meget tid og mange penge.
+
+00:05:38
+Og der er måske også stadig en mangel på kompetencer omkring det her emne.
+
+00:05:43
+Hvilket gør, at det kan være svært at kommunikere de resultater, man får.
+
+00:05:48
+Også fordi det er en kompleks metode, og der er mange forskellige tilgange til, hvordan man kan lave en LCA.
+
+00:05:53
+Og derfor er der også mangel på ensatthed i ifølsigningssektoren, som gør, at det kan være svært at sammenligne de forskellige projekters resultater med hinanden.
+
+00:06:02
+Både interne i virksomhederne, men også på tværs af forskellige virksomheder.
+
+00:06:06
+Og for at imødekomme nogle af de her problemstillinger, så lavede vi skrivningsværktøjet, fordi det skal gøre det.
+
+00:06:12
+nemt, hurtigt og enkelt at lave en klimaaftryksberegning med lille data-input og uden den store viden omkring LSA-metoden.
+
+00:06:24
+Og så har jeg håbet også, at hvis der er flere, der bruger det, så kan man også bedre sammenligne forskellige projekter.
+
+00:06:31
+Og så er det jo vigtigt at sige, at fordi det netop er, at der er nogle antagelser inde i screeningsmærktøjet, så er det ment til at blive brugt i den tidlige del af projektfasen, man stadig ikke har alle detaljerne på plads, men hvor man vil prøve at kigge på forskellige løsninger i forhold til hinanden og se, hvor ligger ens hotspots i CO2-udviklingen.
+
+00:06:54
+Og.
+
+00:06:55
+Nu hopper vi lige over fra vores prøvepoint over i selve screeningsværktøjet.
+
+00:07:00
+Jeg håber, I alle sammen kan se Excel-arket, som er på skærmen nu her.
+
+00:07:05
+Selve screeningsværktøjet er bygget op i Excel, og det bygger på det her eksisterende LSA-værktøj fra vejdeturettet, som hedder Inden for LSA, der også ligger frit tilgængeligt.
+
+00:07:16
+Det vil sige, at rigtig meget af det baggrundsdata, vi anvender i skyningsværktøjet, er det samme data, som man bruger inden for LSA.
+
+00:07:25
+Og når man kommer ind i værktøjet, så er den første bane, som man lige kan se nederst, hvor der står Start her, der kan man lige finde en kort beskrivelse af selve værktøjet, og en beskrivelse af, hvordan man anvender det.
+
+00:07:41
+Selve screening foregår så inde i den fane vi kan se nu her, der hedder Screening.
+
+00:07:46
+Der starter man screening ved at klikke på knappen, hvor der står Start Screening.
+
+00:07:50
+Den loader lige lidt, så det har vi gjort på forhånd, så det ikke var noget vi skulle sidde og vente på nu her.
+
+00:07:54
+Når den er færdig, så dukker den her box op, hvor der står Vælg en projekttype.
+
+00:07:59
+Og der har vi så på forhånd defineret forskellige projekttyper, så der kan man vælge vej, ledning, magasinering eller grøft.
+
+00:08:06
+Den sidste, den har vi kaldt afvandlingsprojekt, og den giver mulighed for at kombinere En eller flere af de ovenstående.
+
+00:08:13
+Vi anser, at man altid vil lægge en ledning i et afvendingsprojekt.
+
+00:08:17
+Men der kan man også lægge en vej ovenpå.
+
+00:08:19
+Så den vælger vi her for demonstrations skyld.
+
+00:08:22
+Vi tjekker alle elementer af, der man vil gerne have nede her.
+
+00:08:27
+Den sidste, det står lidt småt, men der spørger den, om man vil have en absolut bæredygtighedsanalyse.
+
+00:08:34
+Det kræver lidt ekstra forklaring, så vi hopper tilbage til slides.
+
+00:08:39
+Absolut bæredygtighed bygger på konceptet planetære grænser, som det måske er nogle af dig, der har hørt om.
+
+00:08:45
+I det planetære grænse, der forsøger man at kigge på nogle af de her lidt store systemer i jorden.
+
+00:08:52
+Så vi har både klimaforandringer, biodiversitet og forandring i landanvendelse.
+
+00:08:58
+Der er forskellige systemer.
+
+00:09:01
+Og for at kvantificere, hvor meget kan vi påvirke de her systemer som menneskehed, Og hvornår er vi i en risikozon for, at vi har påvirket systemene så meget, at de ændrer sig på måder, som vi måske ikke lige kan ændre tilbage.
+
+00:09:18
+Og baseret på det, har man den grønne del af grafen, hvor det står Safe Operating Space, prøvet at definere et sikkert rådrum for, hvor meget vi som menneske kan påvirke systemerne og stadig holde jorden inden for et stabilt klima.
+
+00:09:32
+Og det er så baseret på den her tankegang, at vi har den her absolut værdygtighedsanalyse, I vores værktøj fokuserer vi på CO2-ekvivalenter.
+
+00:09:42
+Der har vi et tal på, hvor meget drivhusgas vi som globalt samfund kan udlede.
+
+00:09:48
+Så prøver vi at skære den globale del helt ned til et projektniveau.
+
+00:09:57
+Der ligger nogle antagelser og usikkerheder i den beregning, men den kan alligevel være med til at give en indikation af, hvor man ligger i forhold til den her absolutte bæredygtighedsgrænse.
+
+00:10:07
+Hvis man vil lave sådan en, skal man angive en omkostning.
+
+00:10:13
+Det, der er smart ved den, er, at i normal LCA, kan vi sige, om produkt A er bedre end produkt B.
+
+00:10:21
+Hvor i absolut bæredygtighed, kan vi finde en grænse for, hvornår der er noget bæredygtigt eller ej.
+
+00:10:27
+Det vender vi tilbage til senere, hvordan man kigger på det resultat.
+
+00:10:32
+Derfra kommer man over til den fag, som vi har kaldt jordhåndtag.
+
+00:10:35
+Der skal man blandt andet tage stilling til de eksisterende betingelser i ens projekt.
+
+00:10:40
+Så der skal man enten vælge, om det allerede er befæstet, eller om det er ubefæstet.
+
+00:10:45
+Hvis man vælger befæstet, så anser vi lige nu, at det er en asfaltvej, som skal brydes op.
+
+00:10:50
+Det kunne selvfølgelig også være andre typer befæstelser, men det er lige nu sådan, det er sat op.
+
+00:10:53
+Og ubefæstet svarer til en åben mark.
+
+00:10:56
+Afhængig af hvad man vælger af de her to, så har det betydning for ens graveprofil.
+
+00:11:02
+Hvis man vælger befæstet, så anser vi lige nu, at det er en vejekasse, man anvender til udkravning, så den har den her rigtanglede form.
+
+00:11:09
+Hvor hvis det er ubefæstet, så får det den her trapezform i stedet for.
+
+00:11:12
+Som man også lige kan se på figurerne her, så kan man se vores antagelser omkring, hvordan man fylder ledningskraven op igen, når vi har lagt røret.
+
+00:11:21
+Så anser vi lige nu, at 10 procent af udkravningen minimum fyldes med grus, og resten afhænger af, hvor meget man som bruger anser, at man kan genanvende jorden, og hvor meget der skal fyldes yderligere op med grus.
+
+00:11:39
+Hvis vi hopper tilbage igen i værktøjet, så er det den næste del her, der skal man angive, hvor meget man mener, der kan genanvendes af den jord, man kræver op direkte i ledningskraven.
+
+00:11:48
+Og den jord, der så ikke kan genanvendes direkte, der skal man her tage stilling til, om den skal indbygges lokalt eller forskaffes.
+
+00:11:54
+Den sidste del, det er anden internt jordhåndtering.
+
+00:11:58
+For eksempel i forbindelse med terrænregulering, hvis man skal rykke en vis mindre jord rundt.
+
+00:12:04
+Vi har løbende sat sig nogle brug-for-hjælp-knapper.
+
+00:12:07
+Hvis man lige er lidt i tvivl om, hvad mener vi med de forskellige termer, så kan man klikke der og få en uddybende forklaring.
+
+00:12:14
+Under ledninger, der kan man vælge fælles eller separat lokering.
+
+00:12:21
+Hvor hvis man vælger separat lokering, så dukker der lige en ekstra valgmulighed op i forhold til materiale og dimension af rør.
+
+00:12:27
+Så angiver man en længde for ens rør og en gennemsnitlig dybde, som de skal lægges i.
+
+00:12:33
+Og så kan man ellers vælge mellem, der er både beton og glat og rippet plastik, man kan vælge mellem.
+
+00:12:39
+Afhængig af, hvad man vælger, så er der også forskellige dimensioner af rør.
+
+00:12:43
+Og de har selvfølgelig betydning for, hvor meget jord, der gravs væk i ledningsgraven.
+
+00:12:49
+Så kan man angive antallet af brønde, og der har man også både plastik og betonrør, og også nogle forskellige dimensioner af det.
+
+00:12:56
+Og den sidste her, Hvis man for eksempel har noget andet beton, man skal bruge i projektet, så kan man angive det her.
+
+00:13:03
+Så.
+
+00:13:05
+Har vi det næste bane, og det hedder magasinering.
+
+00:13:08
+Her har man mulighed for at vælge et volumen af vand, man gerne vil have i et forsinkelsessystem.
+
+00:13:14
+Og så har vi prædefineret de her fire forskellige muligheder.
+
+00:13:17
+Man kan både lave et vådbassin, hvor der er et permanent vådvolumen, ud over det forsinkelsesvolum, man gerne vil have.
+
+00:13:24
+Så kan man vælge et tørt regnvandsbassin, Og så kan man vælge enten et rørbassin eller et placettebassin, hvis man vil have noget, der er under jorden.
+
+00:13:32
+Og i dag der vælger vi et rørbassin, tror jeg.
+
+00:13:35
+Og så har vi grøftefanen.
+
+00:13:38
+Der kan man se, at den længde, vi valgte inden ledningen på 500 meter, den automatisk bliver overført.
+
+00:13:45
+Men man kan så sagtens vælge en helt anden længde her.
+
+00:13:49
+Det er ikke noget, der definerer det.
+
+00:13:51
+Så det kan man skifte ud i, og man kan også vælge bredden og dybden af grøften, og om man vil have en membran.
+
+00:13:59
+Her kan man også gå ind i brug for hjælp-knappen, hvor der er en beskrivelse af, hvordan vi beregner grøftens størrelse inde i screeningsværktøjet.
+
+00:14:10
+Og så har vi den sidste bane, hvor man skal tage stilling til noget.
+
+00:14:14
+Den hedder vej.
+
+00:14:16
+Den kunne lige så godt have heddet belægning, fordi man selv kan ændre på dimensionerne.
+
+00:14:20
+Man kan også godt lave et stort kvadrat, hvis man nu vil lave en parkeringsplads.
+
+00:14:25
+Så det kan man helt selv justere på.
+
+00:14:29
+Her skal man tage stilling til den trafikklasse, man regner med, altså hvor meget tung trafik, der skal køre på vejen.
+
+00:14:35
+Hvis man vælger den laveste her, T0, så er der mange forskellige belægningstyper at vælge, mellem alt fra grus til betonbelægning, sten og klinker osv.
+
+00:14:44
+Hvorimod hvis man vælger den højeste, i vores tilfælde den højeste trafikklasse, som er T3 her, så er det altså kun asfalt, der er relevant.
+
+00:14:53
+Og så skal man også tage stilling til frostklassen af det jord, som bajerkassen skal ligge ovenpå, fordi det har betydning for, hvor meget bundsikring, der skal laves i bajerkassen.
+
+00:15:02
+Man kan også vælge at lægge et afretningslæg, hvis man f.eks.
+
+00:15:05
+lægger nogle fliser, hvor der skal noget sand lige nedenunder og imellem.
+
+00:15:10
+Og på den sidste bane her, der står der nogle optimeringsmuligheder, og det vender vi lige tilbage til lidt senere.
+
+00:15:16
+Nu sætter vi den i gang med at beregne, fordi det tager lidt tid for den at køre nogle minutter.
+
+00:15:22
+Så vi viser lige nogle eksempler.
+
+00:15:23
+I vores.
+
+00:15:27
+Speciale ville vi jo gerne afprøve, hvad kan vores screeningsværktøj regne på, og hvad kan det ikke regne på?
+
+00:15:33
+Som en af de første eksempler vi kiggede på, der var det en separaturkering nede i Køge Nord.
+
+00:15:38
+Der fik vi noget data fra Klar Forsyning på tre forskellige strækninger med separaturkering.
+
+00:15:45
+Og for hver af de her strækninger lavede de forskellige optimeringer, hvor i den første strækning genanvendte de alle jorden, og indbyggede den også lokalt på sejten.
+
+00:15:56
+I strækning 2 fortsatte de med at genanvende jorden og indbygge den lokalt, men de optimerede også på, hvor stor en udgravning de lavede til rørene.
+
+00:16:06
+Og så skiftede de også, hvor i strækning 1 brugte de både betonrør og plastikrør.
+
+00:16:11
+Der skiftede de til strækning 2 kun at anvende plastikrør og bruge mere værdødelig plastik på nogle af rørene.
+
+00:16:18
+I strækning 3 optimerede de ydeligere på, udgravningen og hvor meget de transporterer jorden rundt på pladsen.
+
+00:16:27
+Og så en del af krusen, de anvendt var genbrugskrus fra andre projekter, som de kunne genvende direkte.
+
+00:16:36
+Og resultaterne kan man se på grafen her.
+
+00:16:39
+Der har vi de her tre strækninger, der hedder stretch 1, 2 og 3 på grafen.
+
+00:16:45
+Og der har vi lavet to beregninger for hver af de tre strækninger, som vi har kaldt detaljerede.
+
+00:16:51
+og så screening for screeningsværktøjet.
+
+00:16:55
+Den detaljerede er beregnet ved brug af infraelsag, det her elsagværktøj fra Vejdeltoralet, men hvor vi har tilføjet datapunkter blandt andet for de specifikke EPD'er, som de brugte i forhold til de rør, som de anvendte, og vi har også de reelle målinger for, hvor meget diesel- og benzinbrug de havde.
+
+00:17:15
+Så vi anser for, at den detaljerede være så tæt på virkeligheden, som vi lige kunne komme med det data, vi har.
+
+00:17:21
+Overordnet kan man se, at begge analyser har den samme tendens.
+
+00:17:26
+Vi ser en reduktion fra strækning 1 til strækning 3.
+
+00:17:30
+Der er nogle forskelle i resultaterne, og dem jeg bare lige vil pinpointe her er i forhold til transporten.
+
+00:17:38
+Det er den orange del af grafen.
+
+00:17:39
+Der kan man se, at den er højere i spinningsværktøjet end i den detaljerede.
+
+00:17:43
+Og det skyldes primært mængden af grus og hvor langt det transporteres.
+
+00:17:49
+Fordi grus har noget udledning, men den største del af dens udvinding kommer fra transporten, fordi det er så tungt.
+
+00:17:59
+Der kan man som bruger ikke ændre på transportopstanden, hvor vi har indtastet den transport, der reelt var i projektet.
+
+00:18:06
+Det er noget, vi har overvejet efterfølgende, om man skal kunne ændre det og indføre det.
+
+00:18:13
+Derudover kan man se i den blå del af grafen udvinding fra produktionen af 1-3.
+
+00:18:21
+Der kan man se, at vi godt kan reducere udledning i skyningsværktøjet, både når vi skifter fra beton til plastikrør og bruger mere bæredygtig plastik, og også i strækningen 3, hvor der bliver brugt genbrugsgrups.
+
+00:18:34
+Så det er nogle optimeringer, man godt kan tage med her.
+
+00:18:37
+Den sidste ting er den grønne del af grafen, som er A5, hvilket er emissioner fra selve anlægget, anlægsprocesserne og jordhanceringen på pladsen.
+
+00:18:48
+Her kan man se, at vi faktisk ikke kan optimere yderligere I det her tilfælde, fordi vi allerede i strækning 1 genanvender al jorden 100% og indbygger den lokalt.
+
+00:19:00
+Så der er ikke yderligere optimeringer i forhold til jordhantering.
+
+00:19:03
+Men overordnet kan man i hvert fald se den faldende tendens.
+
+00:19:10
+Her har.
+
+00:19:11
+Vi et eksempel mere, som er en byggemodning ved en brændstation.
+
+00:19:15
+Vi har lige prøvet at lave koncepttegninger af det her.
+
+00:19:18
+Så kan I se, at der både er en parkeringsplads i noget asfalt, og en terrasse i en betonbelægningssten.
+
+00:19:25
+Så skulle der laves et grønt område med noget grøft og regnvandsbassin, og der skulle også laves en grusstil, der forbandt nogle af områderne.
+
+00:19:32
+Og under hele området skulle der laves afværningen med forskellige ledninger, og også forskellige brønde.
+
+00:19:39
+Så det var et lidt mere komplekst projekt, som man kan f.eks.
+
+00:19:45
+kun vælge, En slags belægning inden screeningsværktøjet er i gang, og man kan kun vælge én type prøn.
+
+00:19:51
+Så derfor var det nødvendigt at dele det her projekt op i flere bidder, og så køre beregningen af flere omgange.
+
+00:19:57
+Og det er altså også en mulighed, man har med screeningsværktøjet, at man lige selv prøver at lave nogle opdelinger, og så har man mulighed for at gemme resultaterne i et andet Excel-archivsfelt, og så til sidst lægge hele resultatet sammen, alt efter hvad det er, man er interesseret i.
+
+00:20:16
+Det er det, vi har gjort her.
+
+00:20:19
+Der kan man se det samlede resultat for byggemoden.
+
+00:20:22
+Det, man kan se, er, at det er grus.
+
+00:20:25
+Både omkringfyldt grus og det gruset af vejklassen fylder rigtig meget.
+
+00:20:29
+Det er den orange dele, transporten, der har et meget stort aftryk.
+
+00:20:35
+Det er fordi, vi antager, at det skal transporteres 132 km fra en grusgrav til byggepladsen.
+
+00:20:43
+Det er fordi, det er vejdirektøret, de bruger, i deres program.
+
+00:20:47
+Så kan man se, at payment, det er lidt udtydeligt, men belægning, den fylder meget i det her projekt.
+
+00:20:53
+Og det er så derimod produktionen, der har den største andel.
+
+00:20:57
+Og det er fordi, at asfalt og betonsten, de kommer med et meget stort aftryk i produktionsflæsen.
+
+00:21:04
+Ja, så det er et eksempel på, hvor man kan analysere og finde ud af, hvor ens hotspots er i et projekt.
+
+00:21:10
+Og så kan man jo prøve at optimere videre på.
+
+00:21:12
+Det her.
+
+00:21:13
+Ja, nu har screeningsværktøjet kørt lidt i baggrunden, så vi hopper over og ser.
+
+00:21:18
+Så gennemgår vi lige, hvordan man tolker de her resultater.
+
+00:21:22
+Den første graf, man kan se, det er herude til venstre, hvor det står absolut bæredygtighed.
+
+00:21:28
+Der har vi forsøgt at afbilde det som et termometer og måde, man skal læse det på.
+
+00:21:34
+Helt nede i bunden kan man se, at der er noget blåt.
+
+00:21:38
+Og ens projekt skal helst ligge nede i det blå område for at være absolut bæredygtige.
+
+00:21:43
+Der kan vi sige, at det her projekt er over 25 gange for meget.
+
+00:21:50
+Udvidning i forhold til, hvad den må.
+
+00:21:52
+Det var desværre også det, vi så i de cases, som vi havde i vores specialet.
+
+00:21:57
+Projekterne lå som regel cirka 60 gange for meget.
+
+00:22:01
+Man skal ikke lade sig slå ud for meget af dette.
+
+00:22:04
+Vi håber mere, at det er med til at motivere til, hvordan vi kan gøre vores projekter mere værdygtige, for at vi kan komme i mål.
+
+00:22:12
+Der kan man nok ikke nå 100% i mål med de muligheder, vi har lagt ind i screeningsværktøjet.
+
+00:22:16
+Så det kan være, at man skal have flere ting i brug.
+
+00:22:18
+Men der må vi jo hjælpe hinanden.
+
+00:22:20
+Den næste graf, den har vi kaldt aggregeret processer.
+
+00:22:23
+Der har vi prøvet at lave nogle lidt mere spiselige kategorier.
+
+00:22:27
+Og der kan man få den her hotspot-analyse, som Emma lige snakkede om før med eksempel 2.
+
+00:22:32
+Så man kan få et overblik over, hvor ligger mine primære udledninger i projektet.
+
+00:22:36
+Så her kan man blandt andet se, at grus fylder meget.
+
+00:22:41
+men også produktionen fra rør og grønne.
+
+00:22:44
+Så en konklusion herfra kan være, at vi skal se, hvad vi kan optimere i forhold til vores grusforbrug og vores materielle forbrug i rør og grønne, som det første fokus.
+
+00:22:56
+Detaljerede processer viser på en måde det samme, men der kan man se de specifikke navne, som bliver anvendt ind i indfrælser, så de kan være lidt mere uoverskuelige, men der kan man bl.a.
+
+00:23:10
+Hvis man gerne.
+
+00:23:11
+Vil.
+
+00:23:11
+Se specifikt, at det er bundsikring og stabilt grus og omkringfyldt, der bidrager til grus, så kan man nørde lidt med det her.
+
+00:23:20
+Det samme med grafen her nedenunder.
+
+00:23:22
+Det er også de detaljerede processer, man kan se.
+
+00:23:25
+Men der har vi også tilføjet de sidste livscyklus-stadier C og D, i forhold til affaldsmontering og den potentielle genanvendelse.
+
+00:23:33
+Her vil jeg bare lige tilføje også, at B-modulet, at potentialet for genanvendelse til sidst, Så når man ser den på grafen, så er det negativt, fordi man antager, at den går ind og kan erstatte noget ny materiale.
+
+00:23:53
+Under det så har vi tabeller, hvis man ligesom i Emmas eksempel gerne vil kopiere data ud i sit eget ekselværk og bearbejde eller måske sætte flere ting sammen.
+
+00:24:05
+Og så har vi det næste graf, det er rosterforbruget.
+
+00:24:09
+Der får man det ud i et ton skruesmateriale, og der kan man sammenligne op til tre scenarier.
+
+00:24:15
+Et ton CO2 kan godt være lidt svært at forholde sig til, hvad det er, så der har vi også forsøgt at oversætte det til andre ekvivalenter, fx dansk årlig udledning eller kilo oksekød.
+
+00:24:28
+Så det er også noget, man kan bruge i kommunikationssammenhængen.
+
+00:24:33
+Og så har vi med økonomi.
+
+00:24:35
+Vi har ikke sat økonomi på alting, men der er noget på grus, asfalt og jordtidsport, så der kan man også sammenligne sine tre scenarier og se, hvor de nogenlunde ligger i forhold til økonomidelingen.
+
+00:24:47
+Vi gemmer alle de parametre, som man har indtastet, så dem behøver man ikke gå og huske på.
+
+00:24:52
+Dem kan man se herude.
+
+00:24:54
+Og så den sidste graf.
+
+00:24:55
+Der kan man se den fulde udledning på alle de her livscykelstadier i ton CO2-ekvivalenter, og så sammenligne op til tre scenarier.
+
+00:25:06
+Og det er jo netop ved samlingen af scenarier, at det bliver lidt spændende at have sådan et screeningsværktøj, fordi vi kan sagtens konkludere, hvor meget 12CO2 vi lige har, og hvor hotspots ligger, men vi har netop tilføjet den her funktion med at tilføje scenarie, for at man kan prøve nogle ting af og se, hvor meget batter det så, de her løsninger, som jeg vil prøve af.
+
+00:25:26
+Så det kommer vi.
+
+00:25:27
+Til at gennemgå her.
+
+00:25:30
+Når vi skal optimere projekter, så har vi i VSP lavet en handlægtscirkel, som skal bruges til inspiration til optimering og reduktion af klimaaftryk.
+
+00:25:42
+Den følger i projektsfaser.
+
+00:25:46
+Den første hedder bygge mindre.
+
+00:25:48
+Det kunne være noget med at tænke over dimensionen af for eksempel en ledning eller en vejerkasse, om man kan minimere den.
+
+00:25:56
+Det kunne også være at bygge en mindre vej, den ikke behøver at være lige så bred.
+
+00:26:01
+Så har vi en, der hedder Byg til fremtiden.
+
+00:26:04
+Det kunne være sådan noget med kun at bygge det, man har brug for lige nu, i stedet for at overdimensionere fx et tørt regnvandsbassin.
+
+00:26:13
+Der kan man bygge det, man har behov for lige nu, og så kan man vente 50 år, og så kan man udvide sit tørt regnvandsbassin, når vi ved, at Anlægsmaskiner og så videre, de er blevet meget mere effektive, og derfor bliver der værende CO2-givenst i at udskyde nogle af sine projekter.
+
+00:26:30
+Så skal man bygge sammen og tænke tværfagligt, inddrage borgere og så videre.
+
+00:26:35
+Det kan være i forhold til at få nogle rående løsninger implementeret, i stedet for nogle underjordiske tænkeover, hvordan man bedst muligt kan arbejde sammen.
+
+00:26:47
+Bygge klogt, det kunne være sådan noget med at tænke over sin jobbalance.
+
+00:26:52
+kan vi indbygge jorden lokalt i stedet for at transportere den langt væk.
+
+00:26:57
+Så er der den her, der hedder byg med et lavt CO2-aftryk.
+
+00:27:01
+Det handler om at vælge nogle materialer, der har et lavere CO2-aftryk.
+
+00:27:07
+Og den sidste, den omhandler drift, hvilket vi så ikke har med i vores screeningsværktøj, men det er selvfølgelig også rigtig relevant at overveje.
+
+00:27:16
+Og når man så skal optimere pæringens screeningsværktøj, så trykker man på Så kommer der et lille pop-up-vindue med nogle af de ting, jeg lige har nævnt her.
+
+00:27:27
+Nogle eksempler til, hvordan man kan optimere.
+
+00:27:30
+Og så krydser vi de samme felter af, som vi havde lige før.
+
+00:27:35
+Og så kan man se, at de ting, vi før testede ind, de er altså gemt.
+
+00:27:39
+Så man skal ikke huske på, hvad det var, man lige skrev.
+
+00:27:42
+Det gør programmet for en.
+
+00:27:43
+Og derfor kan man nøjes med at ændre det, man er interesseret i.
+
+00:27:48
+Vi kunne se, at vi brugte virkelig meget brus i det her fiktive projekt, som vi testede lige før.
+
+00:27:52
+Så nu prøver vi på at genanvende mere af jorden i ledningstrasen.
+
+00:27:57
+Og så i stedet for at køre alt vores overskudsjord væk, så prøver vi at se, om vi kan indbygge det lokalt.
+
+00:28:04
+Og så havde vi på den sidste side nogle forskellige optimeringsmuligheder.
+
+00:28:09
+Den øverste hedder elmaskiner til indbygning.
+
+00:28:12
+Der antager vi, at man i stedet for at bruge dieselmaskiner på byggepladsen, så bruger man elmaskiner.
+
+00:28:18
+Og der anser vi, at man går ned til en tiende del af den dimension, der vil være fra Annex-arbejdet.
+
+00:28:26
+Så er det næste, vi hedder genbrugsmateriale som omkringflyvsgrus.
+
+00:28:30
+Der anser vi, at man har et eller andet projekt, hvor man kan opgrave noget grus direkte og indbygge det i sit nye projekt.
+
+00:28:39
+Så har vi betonrør i mere bæredygtigt materiale.
+
+00:28:42
+Den bygger på de her IK2-rør fra IBF, som der måske er nogle af jer, der har hørt om.
+
+00:28:47
+hvor man sparer ca.
+
+00:28:49
+40 % af CO2-udledningen i produktionsfasen.
+
+00:28:53
+Så den faktor bliver ganget på alle ens betonrør, hvis man tjekker den af herinde.
+
+00:28:58
+Og for plastikrør, mere bæredygtigt materiale, der har vi kigget lidt på nogle bioplastikrør, og også på nogle forsøg med at blande genbrugsplast og ny plast.
+
+00:29:10
+Så der antager vi, at man ca.
+
+00:29:11
+kan spare 50 % CO2 i produktionsfasen.
+
+00:29:15
+Så det er igen en faktor, der bliver banget på, ganget på alle plastikrørene, hvis man vælger dem.
+
+00:29:20
+Så det kan være, at vi lige skal vælge elmaskiner og bæredygtigt betonrør her.
+
+00:29:24
+Og så sætter vi den i gang med at køre igen.
+
+00:29:28
+Som sagt, så tager.
+
+00:29:29
+Det lige et par minutter.
+
+00:29:31
+Ja, så det vi har fået med, det er et screens-værktøj, som er ment til at blive anvendt endnu tidligere del af projektet, hvor man også kan lave de største ændringer.
+
+00:29:41
+Det er ment til at være en lidt hurtig beregning, som er baseret på få ure-inputs, og hvor Vi har så på forhånd lavet en del af antagelserne, så man ikke skal tage stilling til lige så meget som bruger.
+
+00:29:52
+Den giver et estimat, men det er altså ikke den sanne virkelighed.
+
+00:29:56
+Så ser det som sådan en quick and dirty beregning.
+
+00:29:58
+Og en måde, hvor man lidt nemt kan sammenligne forskellige scenarier og afprøve forskellige optimeringsmuligheder.
+
+00:30:05
+Som vi nævnte i starten, så er værktøjet gratis og frit tilgængeligt.
+
+00:30:10
+Så I skal bare kontakte os.
+
+00:30:12
+Vi har et slide til sidst med vores kontaktoplysninger.
+
+00:30:15
+Så sender I os en mail.
+
+00:30:17
+får I et link til SharePoint, hvor I kan downloade Excel-arket.
+
+00:30:23
+Nu har vi givet en gennemgang her til webinaret, men vi kommer også meget gerne ud og afhænger workshops med jer og jeres kollegaer, hvis I tænker, at det er noget, der kunne være relevant for jer i den daglige arbejdsgang.
+
+00:30:33
+Så vi vil gerne hjælpe jer i gang med at bruge værktøjet.
+
+00:30:37
+For nu var det et værktøj, som vi udviklede i forbindelse med specialet, men vi vil også meget gerne videreudvikle på det.
+
+00:30:43
+Så hvis I sidder ind med nogle gode idéer til noget, der kunne være fedt at få med i værktøjet, så må I egentlig skrive til os, og man kan også gå sammen med flere, så er vi meget åbne for at samarbejde omkring det.
+
+00:30:57
+Screeningsværktøjet er netop godt til den tidlige del af et projekt, og også med lidt mere simple projekter.
+
+00:31:05
+Hvis I sidder og har et projekt, der er senere i projektfasen, og I måske har nogle specifikke EPD'er for ting I har brugt, Vi kender mængden for, hvor meget jord I har gravet op.
+
+00:31:18
+Og gerne vil have en oversigt over, hvor meget citot og reelt har været udledt.
+
+00:31:22
+Så må I også bare kontakte os.
+
+00:31:24
+Vi sidder og laver de her SA-beregninger i vores afdeling på anlægsprojekter.
+
+00:31:30
+Og det gælder også, hvis det er projekter, som er mere komplekse end det, som screeningsværktøjet lige kan favne.
+
+00:31:36
+Så vil vi også meget gerne hjælpe jer med at lave den type beregninger.
+
+00:31:43
+Vi prøver lige at hoppe tilbage.
+
+00:31:45
+Kan man lige få lov at se lidt af, hvordan det ser ud, når den loader.
+
+00:31:50
+Vi er ved at være ved vejs inde af præsentationen her.
+
+00:31:56
+Så det kan være, at vi skal tage et spørgsmål, mens den loader.
+
+00:31:59
+Og så samler vi op for optimeringen og efterfølgende.
+
+00:32:04
+Tusind tak for jeres indlæg, Emma og Katrine.
+
+00:32:09
+Det er virkelig interessant, og der er kommet en del spørgsmål undervejs.
+
+00:32:12
+Nogle af dem har I været lidt inde om, men jeg synes stadig, vi skal tage dem igennem.
+
+00:32:17
+Jeg ved ikke, når den er færdig med at loade, om I vil forklare den slides, inden vi tager spørgsmålene.
+
+00:32:22
+Til jer andre derude, så er I mere end velkommen til at stille spørgsmål i chatten.
+
+00:32:27
+Vil I lige tage.
+
+00:32:29
+Den først, når den er færdig?
+
+00:32:32
+Så når man har kørt et scenarie igennem, så for at se resultaterne på ens andet scenarie, så skal man op i den her dropdown, og så vælge andet scenarie.
+
+00:32:40
+Så opdaterer den figurerne til at følge det her andet scenarie.
+
+00:32:45
+Der skal man lige være opmærksom på, at y-aksen også ændrer sig med, så det hører op for, at vi lige skal se, hvor meget den egentlig optimerer på det her.
+
+00:32:53
+At der i det første scenarie, der grues helt op hvisten med 250.000 kg CO2, Når vi genanvender noget jord og laver lokalindbygning, så er grusen omkring 100.000 kg CO2.
+
+00:33:13
+Så der ser vi noget af en reduktion.
+
+00:33:17
+Ude i den her, hvor man kan sammenligne det mere direkte med første og andet scenarie, der kan vi se, som vi har nævnt flere gange nu, at grus fylder meget af transporten.
+
+00:33:26
+Her ser vi en stor reduktion af overordningen.
+
+00:33:30
+Vi prøvede også at tilføje de her elmaskiner, og de reducerer netop ind i A5, altså analysemaskinerne, der bliver brugt på pladsen.
+
+00:33:40
+Og så kan vi også se en reduktion i produktionsemissionerne.
+
+00:33:44
+Der valgte vi blandt andet de her betonrør i mere bæredygtig beton, så der bliver den også reduceret lidt.
+
+00:33:50
+Så det er en måde, man kan prøve nogle ting af og se, hvor det bliver ændret, når man har de her optimaler.
+
+00:33:58
+Så er vi klar til spørgsmål.
+
+00:34:00
+Fantastisk.
+
+00:34:01
+Så vil jeg tage det første, som kommer fra Larsa.
+
+00:34:04
+Er der en grund til, at der ikke kan vælges mellem flere graveprofiler under jordhåndtering?
+
+00:34:08
+Der er stor forskel på projekterne.
+
+00:34:11
+At anvende gravekasser er altid dyrere og langsommere end at bruge anlæg på.
+
+00:34:15
+Siderne.
+
+00:34:17
+Som udgangspunkt har vi selv tænkt os som screeningsværktøj.
+
+00:34:23
+Det gør selvfølgelig, at vi har måttet sætte detaljeringsgraden.
+
+00:34:28
+Sætte en grænse for, hvor meget den skulle være.
+
+00:34:30
+Sådan her har vi taget valg om, at det er den ting, der bliver holdt konstant.
+
+00:34:36
+Men det er også en mulighed senere hen, hvis der er behov for, at man skal kunne detaljere det yderligere.
+
+00:34:42
+At man kan vælge mellem to eller tre forskellige niveauer af udkravning.
+
+00:34:53
+Så spørger Kristine, og det tænker jeg lidt, I har haft med, men det er nok godt med en gentagelse.
+
+00:34:57
+Er det muligt i input-menuen at vælge bæredygtig plastik, hvis man allerede har besluttet eksempelvis ultrarib blue?
+
+00:35:06
+Ja, så ville man på den.
+
+00:35:08
+Sidste fane vælge plastik, hvor er en mere bæredygtig materiale.
+
+00:35:13
+Og så ville det svare til de her 50% reduktion i produktionsfasen.
+
+00:35:21
+Jeg tænkte nok, den kom nemlig tidligt, men det fik I med til sidst.
+
+00:35:24
+Jeg håber, det var svar nok og ikke lå mere i.
+
+00:35:26
+Ellers må I egentlig skrive dem igen.
+
+00:35:28
+Så spørger Michael, er værktøjet låst, eller er det muligt at tilføje andre løsninger og andre materialer løbende, som der.
+
+00:35:34
+Måtte komme input hertil?
+
+00:35:37
+Den udgave, som ligger frit tilgængelig nu her, der har vi låst nogle af siderne, men vi pynser på snart at lave en opdatering, hvor vi også åbner, så man kan få adgang til alle de her faner, Så der er man velkommen til at prøve at taske lidt rundt i det.
+
+00:35:59
+Så I lægger op til, at.
+
+00:36:01
+Der godt kan komme flere input til det?
+
+00:36:04
+Det er alt det, jeg hører.
+
+00:36:06
+Ellers så vil vi gerne hjælpe med at lave nogle nye inputs.
+
+00:36:11
+Og husk, jer der sidder ude bag skærmen, I kan stadig stille spørgsmål i chatten, hvis der er ting, I gerne vil have uddybet eller høre mere ind til.
+
+00:36:20
+Og det har Trine gjort.
+
+00:36:21
+Hun har spurgt, har I overvejet at inkludere abiotisk ressourceforbrug som indikator, da denne er relevant i forhold til produktionen.
+
+00:36:29
+Af byggevarer?
+
+00:36:32
+Ja, som det er lige nu, er det et spørgsmål om data tilgængelighed.
+
+00:36:38
+Vi bygger værktøjet på indfredssag, Lige nu bygger det baggrundstatus i det i høj grad på hjemmesnit af EPD'er, som de anvender og som de finder markedsrepræsentativ.
+
+00:36:53
+Fordi der har været et skifte i rapporteringen af miljøpåvirkningskategorier i EPD'er, der er det her, man kalder A1 til A2, så er det lige nu kun CO2-udledninger, som er mest sammenligelige af de to.
+
+00:37:09
+alle miljøpåvirkningskategorier, så når man har en blanding af dem, så er det lige nu kun CO2, vi kan kigge på.
+
+00:37:15
+Forhåbentlig får man opdateret det hele i A2, og så kan man faktisk kigge på alle de miljøpåvirkningskategorier, som normalt ville blive rapporteret i PD.
+
+00:37:24
+Det håber.
+
+00:37:26
+Jeg var svar til Trine, ellers må du skrive igen, Trine.
+
+00:37:29
+Så har Molly skrevet, hvilke grænser er den absolute bæredygtighed vurderet ud fra i værktøjet?
+
+00:37:40
+Det er et godt spørgsmål.
+
+00:37:40
+Vi skal nok lige tilbage og finde en kilder.
+
+00:37:43
+Vi har taget udgangspunkt i nogle videnskabelige artikler, som har forsøgt at kvantificere grænsen for, hvor meget CO2, vi kan udlede.
+
+00:37:51
+Men det er også en grænse, der hele tiden bliver opdateret.
+
+00:37:53
+Så den har vi ikke haft opdateret, siden vi lavede værktøjet i specialet.
+
+00:37:58
+Hvis det er vigtigt, så er du velkommen til at skrive, så kan jeg godt prøve at finde det frem.
+
+00:38:05
+Det tager vi med der.
+
+00:38:06
+Nu står jeg og smager oplysninger, så der er til at skrive.
+
+00:38:09
+Jeg har det sidste spørgsmål i chatten lige for nu.
+
+00:38:12
+I er mere end velkommen til at skrive.
+
+00:38:14
+Jakob skriver, kan I tilføje muligheden for at vælge to typer brønde, beton og plast på én gang i et.
+
+00:38:21
+Separeringsprojekt?
+
+00:38:23
+Det vil være muligt at tilføje.
+
+00:38:25
+Vi vil meget gerne samarbejde, hvis I har nogle ting, I kan tænke jer at få med.
+
+00:38:31
+Der kan man også gå sammen med flere, hvis I vil.
+
+00:38:35
+De samme input.
+
+00:38:36
+Vi vil gerne have, at det bliver holdt frit tilgængeligt.
+
+00:38:40
+Hvis man hjælper samarbejder med os om at få tilføjet nye ting, så bliver det frit tilgængeligt for alle.
+
+00:38:49
+Det vil vi meget gerne kigge.
+
+00:38:50
+Ind i.
+
+00:38:52
+Det ligger i forlængelse af det, I siger, med udviklingen er det stadigvæk.
+
+00:38:56
+Daniel spørger her, hvordan har I allokeret fra et globalt budget ned til et specifikt anlægsprojekt i absolut bæredygtighed?
+
+00:39:06
+Sådan.
+
+00:39:08
+I overordnet term, så har vi taget, nogle gange illustrerer man det som en lavkage.
+
+00:39:13
+Vi har taget den hele lavkage, for hvor meget vi må udlede på global plan.
+
+00:39:18
+Og så har vi først delt ud på lande.
+
+00:39:22
+Der kan man dele den lidt mere ud, baseret på det, man kalder IQ på kapital.
+
+00:39:28
+Lige lidt per befolkningsantal.
+
+00:39:32
+Så der har vi taget, hvor stor befolkning vi har i Danmark.
+
+00:39:36
+Så har vi fået en bid af delen til Danmark.
+
+00:39:41
+Ud fra det har vi baseret den på Danmarks BNP.
+
+00:39:45
+Det er derfor, man angiver projektets omkostninger, for det bliver en andel af den.
+
+00:39:52
+Det bliver måske et snørklød, men det er i overordnede termer med at dele det ud på.
+
+00:39:58
+Der er mange, der diskuterer, hvorvidt det er færre at dele det ud på per befolkning.
+
+00:40:06
+Eller man skal tage mere hensyn til, at der er nogle lande, der i lang tid har udledt meget, og nogle, der har udledt mindre.
+
+00:40:11
+Så der er rigtig mange ting i det der, som man kunne gøre.
+
+00:40:15
+Anderledes.
+
+00:40:17
+Jeg håber i hvert fald for nu, at det var svar på de spørgsmål, Daniel.
+
+00:40:21
+Ellers må du være velkommen til at skrive tilbage igen.
+
+00:40:25
+Og jeg kan jo både høre i jer og se i chatten, at der er meget i forhold til ting, der kunne rettes til og gøres i forhold til det, I selv snakker om, er udviklet også.
+
+00:40:34
+Hvis jeg lige skal vende et spørgsmål til jer.
+
+00:40:38
+Hvad kunne I så ønske, at det også kunne, som det ikke kan.
+
+00:40:42
+I dag?
+
+00:40:45
+Jeg synes transportafstandene kunne være fede at have mulighed for at justere på som bruger.
+
+00:40:53
+Man kan godt justere på det, men så skal man vide, hvor man skal ind i værktøjet og ændre på nogle tal.
+
+00:40:59
+Så det kunne være fedt at gøre mere tilgængeligt for brugeren.
+
+00:41:03
+Fordi vi ser bare, at det har en utrolig stor betydning.
+
+00:41:07
+Så det her med brøndene, der blev nævnt, kunne være et rigtig fedt skridt.
+
+00:41:12
+Det giver jo bedst mening, at man også kan vælge to forskellige brønde, når man har to forskellige ledninger.
+
+00:41:19
+Også.
+
+00:41:20
+Vi har tidligere snakket med nogen, der gav udtryk for at få indarbejdet nogle drikkevandsbesøgninger og anden forsøgning.
+
+00:41:28
+Lige nu er det jo afvinding primært.
+
+00:41:30
+Ja, der er en del af.
+
+00:41:31
+Det.
+
+00:41:32
+Ja, og vi har nogle plastikrør, som man måske godt kunne leje lidt med, at de også galt for noget drikkevandsforsyning.
+
+00:41:38
+Men det kunne også være fedt at få nogle fjernværmekrører ind, for eksempel.
+
+00:41:42
+Og se lidt på det.
+
+00:41:45
+Så.
+
+00:41:45
+Nogle specifikke ting, og så lidt bredere på forsyningsdefinitionen faktisk også høre at sige ønsker på den lange bane.
+
+00:41:54
+Så her til slut, der er ikke lige kommet flere spørgsmål ind, så vil jeg sige tak for en helt fantastisk præsentation, og jeg er helt sikkert blevet meget klogere.
+
+00:42:03
+Og til jer, der sidder derude, tak for de gode spørgsmål, Emma og Katrin.
+
+00:42:07
+Det håber jeg også, I har fået noget med fra dem.
+
+00:42:10
+Hvis nogen af jer sidder derude og lytter med, og som har lyst til at dele viden på Tech Talk eller andre webinar eller DNNK arrangement, så endelig giv en af os netværksmedarbejdere besked om det.
+
+00:42:24
+Husk, at vi har flere gode arrangementer i klimakalenderen på hjemmesiden.
+
+00:42:31
+Til Emma og Katrine, tusind tak for jeres oplæg.
+
+00:42:36
+Selv tak.
+

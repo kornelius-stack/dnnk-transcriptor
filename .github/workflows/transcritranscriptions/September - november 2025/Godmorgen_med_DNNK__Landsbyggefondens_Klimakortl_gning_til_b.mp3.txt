@@ -1,0 +1,1242 @@
+00:00:12
+Godmorgen og velkommen til Morgen DNNK.
+
+00:00:16
+Jeg hedder Sandra Schumann Jensen og er byplanlægger og netværksmedarbejder i DNNK.
+
+00:00:22
+I dag er jeg glad for at præsentere Landsfyrkefonden og deres projekt Klimakortlægning til boligorganisationer og kommuner.
+
+00:00:31
+Det er Laura Knudsen og Morten Bjerring, der kommer til at præsentere projektet.
+
+00:00:37
+Efter oplægget vil der være lidt tid.
+
+00:00:38
+Til spørgsmål fra alle jer, så I.
+
+00:00:40
+Må gerne skrive løbende i chatten, så følger jeg op til sidst.
+
+00:00:45
+Og jeg skal huske at sige, at vi optager hele det her webinar og ligger på vores hjemmeside.
+
+00:00:51
+Og tusind tak, fordi vi fortæller om projektet, og ordet er jeres.
+
+00:00:55
+Ja, men tak Sandra og DNNK for, at vi må komme her til morgen og fortælle lidt om det, som vi har brugt rigtig meget tid på det sidste års tid, nemlig Almen klimakortlægning, som er en screening af risiko for oversvømmelse af den almene boligsektor.
+
+00:01:12
+Jeg hedder Laura Knudsen, og ved min side har jeg Morten Bjerring i dag. En agenda.
+
+00:01:19
+Først vil vi fortælle lidt om den almene boligsektor og landsbyggefonden for at krigte banen op for den sektor, som vi arbejder i.
+
+00:01:27
+Så vil vi fortælle lidt om almen klimakortlægning, lidt om baggrunden, hvad den indeholder og om processen.
+
+00:01:34
+Vi kommer derefter ind på metode og resultater.
+
+00:01:37
+Så har vi skruet lidt op for nørderiet her i dag, sådan en mandag morgen.
+
+00:01:43
+Det har vi valgt at gøre, fordi vi tænkte, at DNNK måske var et sted, hvor I deltagere kunne have interesse i nogle detaljer i metoden og nogle overvejelser, vi har haft løbende i den her risikoscreening.
+
+00:01:58
+Som Sandra nævnte, ville det være muligt at stille spørgsmål i chatten.
+
+00:02:01
+Så ser vi, om de kan tage dem løbende eller til sidst.
+
+00:02:06
+Jeg kan sige, at den her screening, vi har skrevet en rapport om, når den udkommer i november.
+
+00:02:12
+Alt det data, der ligger bag analysen, bliver stillet til rådighed for boligorganisationer og kommuner herinde, når året er omme.
+
+00:02:23
+Lidt mere om os. Jeg hedder Raura. Jeg er GIS-medarbejder i Landsbyggefonden.
+
+00:02:28
+Jeg har uddannet geograf med speciale i klimaforandringer.
+
+00:02:31
+Jeg vil definere mig som semi-autodidakt GIS-entusiast. Jeg er forholdsvis ny i den almene sektor.
+
+00:02:39
+Jeg har arbejdet med vand og klima siden jeg startede for et år siden.
+
+00:02:45
+Jeg hedder Morten Bjerring. Jeg er økonom.
+
+00:02:49
+Jeg er god til at regne, men jeg ved ikke så meget om vand eller bygning.
+
+00:02:52
+Det sidste halvandet års tid har jeg arbejdet meget med vand. Jeg har også lært lidt undervejs.
+
+00:03:00
+Hvis man er meget godt inde i vand, bygning og andet, og er på et tidspunkt lavere, så kan der være en god grund til det.
+
+00:03:10
+Vi er ikke arkitekter, ingeniører eller lignende med speciale i vand.
+
+00:03:16
+Det har også været en meget spændende afgave for os, og vi er meget glade for at kunne præsentere arbejdet for jer.
+
+00:03:22
+Vi starter med at fortælle lidt om den almene boligsektor.
+
+00:03:24
+Den består af lejeboliger, der er organiseret i boligforeninger.
+
+00:03:29
+Formålet er at sikre betalbare boliger for alle. Der er ca. 7.000 økonomiske enheder, dvs.
+
+00:03:36
+boligafdeling eller boligforeninger, der har deres selvstændige økonomi. Så er der ca.
+
+00:03:41
+92.000 bygninger, og det er dem, vi har arbejdet med i denne analyse. og i dem er der ca.
+
+00:03:47
+600.000 boliger. Det svarer til ca. en femtedel af boligmassen i Danmark. Det er ca.
+
+00:03:53
+en million mennesker, der bor alment, det vil svare til ca. hver sjette dansker, der bor alment.
+
+00:03:59
+Branchen er præget af især etagebyggeri, men der findes også rækkehuse og almindelige huse.
+
+00:04:05
+De almindelige beboere er bredt set mere udsatte end mange andre befolkningsgrupper, og det er både socialt, helbredsmæssigt og økonomisk.
+
+00:04:15
+Hele den almene sektor er non-profit, så hvis der er nogle omkostninger, skal de dækkes af husleje.
+
+00:04:22
+Det vil også sige, at hvis der er omkostninger til klimasikring, så vil dette medføre huslejestigninger.
+
+00:04:29
+Så det er den ramme, vi arbejder indenfor med det her.
+
+00:04:33
+Landsbyggefonden er en selvegende institution, stiftet af Boligorganisationen tilbage engang i 60'erne.
+
+00:04:41
+Det fungerer som en form for opsparing og omfordeling af den almene boligsektors midler.
+
+00:04:47
+Det vil sige, at alle boligorganisationer betaler ind til Landsbyggefonden, og vi støtter så renoveringer, støtte til udsatte boligområder, det boligsociale arbejde og også nogle bystrategiske greb.
+
+00:04:59
+Derudover bidrager vi med viden og analyser, og så har vi en hulens masse data på sektoren, som vi stiller til rådighed for sektoren og de almene boligorganisationer.
+
+00:05:10
+Med mere har jeg tilføjet til sidst.
+
+00:05:14
+Det er analyser, viden og at stille data til rådighed, som vi vil snakke om i dag. Nok om os.
+
+00:05:22
+Lidt nærmere ind på almen klimakortlægning.
+
+00:05:26
+Baggrunden for almen klimakortlægning er, at vi i foråret 2024 skulle lave interne beregninger om behovet for renovering i den almene boligsektor.
+
+00:05:41
+for at estimere omkostningerne til dette. Herunder også omkostningerne til klimasikring.
+
+00:05:48
+Virkeligheden indtræffer, og vi bliver bekendt med oversvømmelser i både Vejle og Fredericia og andre steder, som medfører både store skader og også nogle så voldsomme, at lejre skal genhuses andre steder.
+
+00:06:01
+Dette medfører et øget fokus på klimasikring og udfordringer med vand, og der er derfor mere behov for viden specifikt til denne sektor.
+
+00:06:12
+Derfor har vi nu arbejdet på den her metoderapport, som har hovedkonklusioner nationalt set, og så også det her screeningsværktøj på bygningsniveau, som er det her data, vi stiller til rådighed for boligorganisationer og kommuner senere hen.
+
+00:06:28
+Ja, og den udgives senere på åretrapporten. Lidt om indhold og proces.
+
+00:06:33
+Vi har taget de her samtlige almene bygninger, som er omkring de 92.000, og krydset dem mod forskellige typer af oversvømmelse.
+
+00:06:44
+Der har vi taget data primært fra KAM, men også andre steder. Det kommer vi ind på senere.
+
+00:06:49
+Vi har lavet risikoinddelingen i fem. Grøn, gul, orange, rød og dybrød.
+
+00:06:55
+Vi har vurderet, hvilke bygninger er i risiko for oversvømmelse, og hvor høj risikoen er.
+
+00:07:03
+Vi har givet bygningerne én farve pr. oversvømmelsestype. Det vil sige, at der er fire farver pr.
+
+00:07:09
+bygning, fordi der er fire typer oversvømmelser.
+
+00:07:13
+Derefter har vi fået Sveco til at foretage nogle beregninger på, hvad udgifterne til sikring af den almenne boligsektor løber op i på baggrund af vores risikoindeling.
+
+00:07:26
+I denne proces, som Morten og jeg vil nævne til at starte med, er det første gang, vi kaster os ud i denne fund for analyse.
+
+00:07:33
+Det har været vigtigt og givende for os at have løbende sparring med eksterne parter.
+
+00:07:39
+Blandt andet Sveco, DTU, DMI, Consito og Skalco, som vi også har købt data fra.
+
+00:07:46
+Lad os kigge nærmere på de risikokategorier, jeg nævnte før. Den grønne.
+
+00:07:52
+Vi har lavet en kategori, som er, at i udgangspunkt er der ingen risiko for oversvømmelse.
+
+00:07:58
+Det er muligt, at der vil være udfordringer med oversvømmelser, med mere ekstreme hændelser end dem, vi har regnet med, eller når klimaet bliver voldsommere i fremtiden.
+
+00:08:09
+Derefter kommer den gule med en lille risiko, orange med medium risiko, rød med stor risiko, og dyb rød med meget stor risiko.
+
+00:08:19
+I en af de analyser, vi har lavet på vandløber over, er den binær, så der er den enten grøn eller rød.
+
+00:08:26
+Det er bare i risiko eller ikke i risiko.
+
+00:08:31
+De oversvømmelseskilder, vi har kigget på, er henholdsvis ekstremregn.
+
+00:08:35
+Der kigger vi både på det stillestående, altså blue spot, og vi kigger også på det strømningsvejende.
+
+00:08:42
+Der har vi data fra Skalgo, som vi har købt.
+
+00:08:46
+Stormflod, der kigger vi på noget data, vi har fra KAP, som vi har fået fra SEPTIMA, og også på noget stormflodsdata fra DMI's klimaatlas.
+
+00:08:57
+Vandløber og åre har vi hentet også det data, der ligger inde i KAP, og fået SEPTIMA til at hjælpe os med det.
+
+00:09:03
+Og grundvand, der har vi hentet det samme geos data inden for KAP på afstanden til det terræne og grundvand.
+
+00:09:11
+Vi har kaldt det her for almen klimakortlægning, men vi er godt klar over, at der findes andre risikofaktorer end vand, når man kigger på klimarisiko, men det her er pt.
+
+00:09:22
+kun vand, vi kigger på.
+
+00:09:24
+Nå, så vil jeg give ordet videre til Morten, der skal gå lidt mere i dybden med ekstremreglen.
+
+00:09:32
+På ekstremvejen har vi valgt at se på de forskellige hændelser ved 5, 10, 20, 50 og 100 år, og se hvor meget de maksimale oversvømmelsesdybde ved bygningerne, og derudover kigger vi på den oversvømmede parameter ved bygningerne ved de samme hændelser.
+
+00:09:48
+Derudover har vi lidt andre data, vi bruger noget omkring bygningens totale parameter og PBR, men det kommer jeg lidt på om lidt her.
+
+00:09:56
+Det vi startede med at kigge på, det var, at vi fandt ud af, at der fandtes en model i Holland, der hedder Blue Label, som egentlig laver lidt det samme.
+
+00:10:06
+Men da vi kiggede på den, der fandt vi ud af, at den trimester er bygget op på den maksimale dybde, og vi ville egentlig gerne have lidt flere dimensioner ind i vores vurdering af risikoen for oversvømmelse fra ekstremvejen.
+
+00:10:19
+Så det vi valgte at gøre ret hurtigt, det var, at vi lavede sådan en to-dimensional model, hvor vi både kigger på dybden af oversvømmelsen.
+
+00:10:26
+Vi kigger også på, hvor stor oversvømmelsen er, på mål på den parameter, eller del af bygningen, der oversvømmes.
+
+00:10:33
+Derudover vil vi også godt have noget ind omkring, hvilken hændelse der skal til for at generere den her sandsynlighed.
+
+00:10:40
+Som I godt kan se, ligger der tre dimensioner her, så vi har valgt at samarbejde de to sidste, altså oversvømmelsesdybden og parameteren til en ved at vægte Hvad hedder det?
+
+00:10:51
+Dybden med to tredjedeler og parameteren med en tredjedel.
+
+00:10:53
+Det vil sige, at en dyb oversvømmelse er værre end en stor oversvømmelse i vores model.
+
+00:11:00
+Derudover, hvis vi går tilbage med oversvømmelsens sandsynligheden, så kigger vi på, hvilken hændelse der skal til for at generere en maksimal dybde på mere end 10 cm.
+
+00:11:12
+Hvis det er en femårshændelse, så vil den få en kategori F.
+
+00:11:17
+En 10-årshændelse er en kategori, og så videre ned til kategori A.
+
+00:11:22
+Det vil sige, at ingen gang hver 100-årshændelse, kommer der mere end 10 cm vand.
+
+00:11:26
+Vi har valgt de her bogstaver for at få det til at minde om noget energidata. Så det er kendt.
+
+00:11:36
+Når I ser det her, tænker I, at hun viser noget med nogle farver.
+
+00:11:40
+Det her spiller ikke så godt sammen med nogle farver.
+
+00:11:42
+Det vi har gjort, er at vi har taget de her værdier.
+
+00:11:47
+vores oversvømmelsessandsynligheder og vores omfang, og så har vi konverteret det til en farvekode.
+
+00:11:54
+Det gør vi med en tabel her, som er en symmetrisk tabel, som siger, afhængigt af hvor stor sandsynligheden er for, at du bliver oversvømmet med 10 cm, og hvor stort oversvømmelsesomfanget i dybde og parameter er, der konverterer vi det til en farve.
+
+00:12:12
+For god undskyld kan jeg lige lægge på, hvilken kategori der skal til for at generere oversvømmelser, som I kan se ude i siden af en femårshændelse.
+
+00:12:21
+Som udgangspunkt vil jeg give en orange til rød farve, afhængig af hvor stor oversvømmelsesomfanget er.
+
+00:12:28
+Derovre vil de kvickaere måske lægge mærke til, at der nederstår noget KS, og det virker lidt mærkeligt i forhold til, hvad vi ellers har snakket om.
+
+00:12:37
+Det er en særhedsyn, vi har opdaget i data.
+
+00:12:41
+Vi fandt relativt hurtigt ud af i data, at vi havde nogle meget store oversvømmelser ved 5-årshændelser.
+
+00:12:49
+Vores rekord hedder 4,2 meters oversvømmelse i maksimale dybde ved en 5-årshændelse.
+
+00:12:55
+Det var vi ret sikre på, at det var sgu nok ikke rigtigt. Eller det kan godt være, det var rigtigt.
+
+00:13:01
+Men hvis der kom en 4,2 meters oversvømmelse, så havde vi nok hørt om det.
+
+00:13:07
+Vi gik i gang med at undersøge nærmere, og det var en masse visuelle gennemgange i Google Street View og alt muligt for at finde ud af og sammenholde det selvfølgelig med, hvor de pågældende oversvømmelser skulle være.
+
+00:13:20
+Det viste sig ret hurtigt, at de faldt sammen med kælderskakter.
+
+00:13:23
+Eller kældernedgangen eller lignende.
+
+00:13:28
+Det vi kom frem til, ville vi gerne udskille mere, fordi der er to ting i det.
+
+00:13:33
+Enten kan det være en falsk positiv i forhold til det her, Vi siger, at der kommer en stor oversvømmelse i en kælder.
+
+00:13:40
+Den er formentlig sikret, i hvert fald i noget omfang.
+
+00:13:43
+Man har formentlig allerede, da man har bygget bygningen i 60'erne, været bevidste om, at hvis der kommer vand ned her, skal vi nok have et afløb.
+
+00:13:50
+Så meget af det her vil formentlig være klaret.
+
+00:13:53
+Det kan også være, at klimaforandringerne har gjort, at de store oversvømmelser bliver værre, og man derfor ikke tager højde for det.
+
+00:14:01
+Men det har vi ingen viden om i forhold til vores data.
+
+00:14:04
+Men så vil vi flate og sige, at I har en kælderskagt. Det er formentlig den, som bliver oversvømmet.
+
+00:14:09
+Tjek lige efter, om den er god nok.
+
+00:14:14
+Vi har derfor valgt at lave en model, der hedder for udsigtige kælderskakter.
+
+00:14:18
+For det første, der skal selvfølgelig være en kælder. Det har vi taget i fra BBR.
+
+00:14:22
+Så har vi sagt, at en femårshændelse, der genererer mere end 30 cm maks.
+
+00:14:26
+dybde ved bygningen, der som udgangspunkt vil være risiko for, at det er en kælderskagt.
+
+00:14:33
+at oversvømmelsen ikke sker i kælderskagten.
+
+00:14:35
+Dernæst har vi sagt, at vi ønsker at kunne udsøge de små oversvømmelsemål på omfanget.
+
+00:14:41
+Vi har sagt, at oversvømmelsen skal være mindre end 20 meter, og samtidig være mindre end 15 % af bygningens parameter.
+
+00:14:52
+Vi undervurderer måske i virkeligheden stadigvæk omfanget med den her algoritme, pt.
+
+00:15:02
+det bedste, vi i hvert fald har kunne komme på i forhold til det. Ja, det giver os nu.
+
+00:15:10
+Nu har vi egentlig forklaret om alle vores fagkoder på ekstremregn, så lad os gå videre til at se på de resultater, vi har fået ud af det.
+
+00:15:18
+Konklusionen har egentlig været, at et godt tre-fjerdedel af vores almene bygninger virker til at være upåvirket af ekstremregn.
+
+00:15:25
+Det efterlader så selvfølgelig den sidste 27 procent af det, som er i risiko.
+
+00:15:32
+Heraf er 21 % i risiko for ekstremregn. 6 % kælderskagter.
+
+00:15:37
+Og vi har de her 14 % bygninger, som er i stor risiko for... Hvad hedder det? Ekstremregn.
+
+00:15:45
+Hvad kaldte det? Rød plus. Det vil sige rød og dybrød.
+
+00:15:49
+Der er selvfølgelig nogle delkonklusioner, som vi har i vores rapport.
+
+00:15:54
+Kan vi lige kigge lidt nærmere på, hvor i landet det er?
+
+00:16:00
+Ikke overraskende, når vi kigger på antallet af bygninger, er det de store byer, der selvfølgelig er hårdt ramt.
+
+00:16:08
+Det giver sig selv, at der er mange bygninger.
+
+00:16:11
+Derovre er de pågældende byer også hårdt ramt af klimaforandring og oversvømmelse.
+
+00:16:16
+København, Aarhus, Odense, Aalborg. Det fremstår kraftigt, når vi kigger på det rene antal.
+
+00:16:24
+En anden måde at opgøre det på, er at se på andelen af bygninger, som er berørt.
+
+00:16:29
+Der er det Pølmhavnsområde, som i høj grad er hårdt ramt, hvor vi kommer op i en væsentlig procentdel af bygningerne, er hårdt ramt og nedbør.
+
+00:16:41
+Det er måske ikke helt overraskende, når man ser på data og kigger på overflømmelseskort generelt.
+
+00:16:50
+Ja, den anden, springer vi lidt videre til, det er den anden, som laver os del af ekstremrinsen, vi kom ind på med det strømmende vand.
+
+00:16:59
+Vi har valgt at kigge på opladningen ved de tilsvarende hændelser.
+
+00:17:02
+15, 10, 20, 50 og 100 års hændelserne i Skalco.
+
+00:17:08
+Her har vi valgt at følge Skalcos anbefalinger om, at en strømningsvej på mere end en hektar er det kriterie, som lyder til, om noget er kritisk.
+
+00:17:21
+Det evaluerer vi ved hver af hændelserne.
+
+00:17:24
+I den røde kategori har vi slået 10-20 års hændelserne sammen.
+
+00:17:28
+for at få det til at passe med at få vores fem kategorier.
+
+00:17:32
+I effekt er det den 20-årshændelse, vi kigger på.
+
+00:17:35
+10-årshændelsen vil som regel altid være mindre end 20-årshændelsen.
+
+00:17:40
+Derudover har vi valgt at sige, at hvis strømningsvejen er dobbelt størrelsen, over to hektar, så opgraderer vi en kategori.
+
+00:17:51
+Hvis man ligger i den røde kategori, men det er en meget stor strømningsvej, så opgraderer vi den til den dybrøde kategori.
+
+00:17:59
+I forhold til den grønne-gule kategori, har vi valgt at lave en lille justering.
+
+00:18:04
+Det er for at lægge et forsigtighedsprincipe ind i det.
+
+00:18:08
+Hvis man ligger over 0,9 hektar ved en 100-årshændelse, så kører man stadig i den gule kategori.
+
+00:18:16
+Det vil sige, at for den grønne kategori, det kræver, at man ved en 100-årshændelse har mindre end 0,9 hektar oplandtændelse i forbindelse med en strømningsvej.
+
+00:18:27
+Ja. Det giver anledning til nogle tilsvarende resultater, som vi havde for det stillestående vand.
+
+00:18:35
+Overordnet set er det største del af bygningerne ikke påvirket af strømningsveje.
+
+00:18:43
+Men vi har trods alt 12 %, som er i risiko. Her er 9 % i meget høj risiko for strømningsveje.
+
+00:18:53
+Eller potentielt i høj risiko.
+
+00:18:58
+Strømningsvejene og det stillestående vand har vi samlet til en samlet kategori, hvor vi bare tager den værste af de to kategorier.
+
+00:19:06
+Hvis man er rød det ene sted, og gul det andet sted, så er det den røde, der tæller.
+
+00:19:11
+Enståendetalet i forhold til kælderskakterne, som vi havde på det stillestående vand, den tæller højere end den grønne kategori i strømningsvejene.
+
+00:19:22
+Det giver anledning til, at hvis vi samler de her to resultater, så får vi den her figur, som viser, at to tredjedeler af bygningerne nu ikke er påvirket af strømningsveje.
+
+00:19:34
+Den sidste tredjedel dermed er påvirket.
+
+00:19:38
+Vi ser, at vi har 20 procent af bygningerne, som er i høj risiko.
+
+00:19:42
+Det, der især var mærkelseværdigt, da vi satte de her to figurer sammen, eller data sammen for det stillestående og det strømne vand, det var det, Det faktum, at vi havde bygninger, som var grønne i det stillestående vand, og havde andre farver i det strømmende vand, eller en gul overbag kategori i det strømmende vand.
+
+00:20:03
+Som vi nok i første omgang ville sige, de var forholdsvis klimasikre, men potentielt er de ikke alligevel.
+
+00:20:10
+Det var det vigtigste ved den her. Nu vil Laura komme tilbage og fortælle om de andre kategorier.
+
+00:20:19
+Yes, og hvis der var nogen af jer derude, der tænkte, at det var godt nok mange detaljer, så kan vi også lige sige, at vi ikke siger noget her i det her webinar, som ikke også står i rapporten, der kommer ud senere, som man kan bladre i og nørde.
+
+00:20:29
+Stormflod. Jamen, der har.
+
+00:20:31
+Vi.
+
+00:20:32
+Brugt den mindste havkode, som vi har hentet inden for kamp ved hjælp af Septima, som er et tal for, hvor høj stormflod skal være, for at den her bygning bliver ramt, og den skal også have højde for, at terrænet ligger mellem bygningen og havet, og bygningen ligger langt ind i landet.
+
+00:20:49
+Så har vi taget nogle forskellige stormflodshøjder ved forskellige hændelser, fordelt ud på kyststrækninger i Danmark.
+
+00:20:59
+Og for at kunne kombinere de her kyststrækninger med et bygning, der ligger inde på land, så har vi her i Landsbyggefonden lavet en mapping af bygninger, hvilken kyststrækning de skal hente data fra.
+
+00:21:15
+Den måde, vi har inddelt risikokategorierne, er, at jo mindre en stormflod, der skal til for at ramme bygningen, jo værre en risikoinddeling, en risikokategori.
+
+00:21:25
+For eksempel den dybe røde, den får man, hvis man allerede ved en 20-årshændelse fra referenceperioden, som er fra 1981 til 2010.
+
+00:21:35
+Hvis man allerede der bliver ramt af en stormflod, så får man den dybe røde.
+
+00:21:40
+Hvis man bliver ramt af en 100-årshændelse i referenceperioden, bliver den så rød.
+
+00:21:44
+Så skifter vi til det her SSP3-scenarie, som er en højt udledningsscenarie og en 50-årshændelse.
+
+00:21:51
+Hvis man bliver ramt af den, så bliver den orange, og så videre op efter.
+
+00:21:56
+Hvis man ikke engang bliver ramt af en 100-årshændelse i SSP3-scenariet, så bliver man fladet som grøn.
+
+00:22:04
+Det er en måde for at se, hvor voldsom skal stormfloden være, før et bygning bliver ramt.
+
+00:22:11
+I den almene sektor er der kun 900 bygninger, der bliver rørt af stormflod.
+
+00:22:18
+Som min gode kollega Morten plejer at sige, er den almine boligsektor ikke havudsigt endnu, men det kan jo være, at de får det på et tidspunkt.
+
+00:22:27
+Vandløber over.
+
+00:22:30
+Det data, vi har brugt derinde, er, hvorvidt en bygning bliver oversvømmet allerede ved en 1.000-årshændelse.
+
+00:22:37
+Så kan man spørge, hvorfor lige en 1.000-årshændelse, i havde brugt 100 årshændelser før.
+
+00:22:40
+Det er rigtigt nok, men det er for det første, fordi vi havde data på en 1.000-årshændelse her, Og for at få lidt flere bygninger frem, for der er kun 400 bygninger i den almindelige boligsektor, der bliver ramt af vandløber over.
+
+00:22:56
+Selvfølgelig er det ikke en stor del ud af de 92.000, men det er selvfølgelig en voldsom udfordring for dem, der sover i det.
+
+00:23:06
+Hvor vi har lavet den binære, så hvis bygningen risikerer at blive oversvømmet ved en tusindårshandelse, så markerer vi den, at den er i risiko.
+
+00:23:15
+Hvis ikke, så markerer vi den, at den ikke er i risiko.
+
+00:23:19
+Det er primært Grejsået ved Vejle og Grænåen, der er de åer, der forvolder ved flest oversvømmelser.
+
+00:23:29
+Så giver jeg ordet tilbage til Morten. Ja.
+
+00:23:32
+Så går vi til Grundtværn. Vi har kigget på, hvor der er en kælder i bygningen og bygningens alder.
+
+00:23:40
+Derudover det højeste grundvandsniveau. Vi kigger både på sommer- og vintergrundvand.
+
+00:23:47
+Vi har nogle bygninger, hvor sommergrundvandet er højere i data.
+
+00:23:52
+Der har vi valgt at tage den højeste. Generelt set er det vintergrundvandet, vi kigger på.
+
+00:23:59
+De principper, vi har anvendt til at generere vores fem fagkategorier, er, at vi har startet med at sige, hvornår er grundvand ikke...
+
+00:24:09
+Der er ingen risiko forbundet med grundvand, og der har vi fundet i os, at det giver 2-3 meter afhængig af, om der er kælder eller ej.
+
+00:24:15
+Det vil sige, hvis grundvandet ligger dybere end 3 meter, og man har kælder, så er den grøn.
+
+00:24:22
+Dybere end 2 meter, og man ikke har kælder, så er den grøn.
+
+00:24:25
+Derover har vi valgt den dybe røde risikokategori til 1,5-1,5 m fra terræn afhængigt af kælder.
+
+00:24:33
+Det svarer ca. til, om grundvandet ligger i fundamentets niveau eller over.
+
+00:24:41
+De resterende intervaller er en del i 50 cm intervaller fra 1,5-2 m eller 1,5-3 m for at få de de gule til røde intervaller.
+
+00:24:57
+Vi har valgt at gøre det, at bygninger, som opførte før 1973, som opførte før bygningsreglementen BR72, har vi valgt at lave en sikkerhedsmount på 25 cm i intervallerne.
+
+00:25:11
+Det vil sige, at vi rykker lige 25 cm i forhold til den halve eller halvandet meter for den dybe røde kategori, og resten ligger stadig i 50 cm intervaller.
+
+00:25:23
+Det betyder, at den gule kategori bliver noget mindre her. Vi har prøvet at sætte et eksempel op.
+
+00:25:30
+En bygning før 1973. Der vil den være orange, og efter 73 vil den være gul.
+
+00:25:36
+Det kan I se her, når vi sætter det op skematisk. Her ser vi, at bygningen er opført efter 73.
+
+00:25:43
+Grundvand i halvanden til to meter. Der vil den kategoriseres som gul.
+
+00:25:47
+Hvis vi hopper en videre før 73, vil den rykke ind i orange.
+
+00:25:53
+Herovre kan vi se, at den dybrede kategori hedder 1.75 og 0.75.
+
+00:26:00
+Det er for at tage højde for, at man.
+
+00:26:02
+Ikke.
+
+00:26:02
+Har været så bevidst omkring grundvandsforholdet.
+
+00:26:06
+Eller i hvert fald, at man ikke skulle tage højde for grundvandsforholdet i samme grad, som man skulle efter det nye bygningsreglement.
+
+00:26:12
+Når vi kører grænser på data, så får vi den her fordeling, og der har vi en En god chat.
+
+00:26:21
+Almenne bygninger, som ligger i risiko for højt grundvand.
+
+00:26:25
+En tredjedel ligger, som ikke er berørt, og to tredjedele dermed berørt.
+
+00:26:30
+Vi har 25 % i den høje risiko, de dybe røde.
+
+00:26:35
+Ikke overraskende er det især bygninger opført før 1973, som er påvirket, især bygninger med kælder.
+
+00:26:44
+Det er nok ikke overraskende i betragtning af, hvordan modellen ser ud.
+
+00:26:49
+Derudover er der også kommunale forhold, som spiller ind i det her. Hvor grundvandet ligger højt.
+
+00:26:57
+De steder, hvor grundvandet ligger højt, er der en god salg af almene bygninger og bolig.
+
+00:27:03
+Nu har vi gennemgået de fire overflømmelseskilder.
+
+00:27:11
+Så kan vi begynde at se på, hvordan det ser ud med hvor hårdt ramt man er ved at kigge på det.
+
+00:27:17
+Her har vi samlet det gennemsnitlige antal udsatheder per bygning.
+
+00:27:22
+I Københavnsområdet nærmer vi os to i gennemsnit.
+
+00:27:27
+Det svarer til, at alle bygninger er påvirket nærmest af noget.
+
+00:27:31
+Så er der nogle, der påvirker lidt ekstra. Især drageører er ret hårdt påvirkede af det.
+
+00:27:40
+Men også andre steder rundt omkring i landet vil der være flere påvirkninger.
+
+00:27:44
+Det er lidt forskelligt, hvad det er i Københavnsområdet.
+
+00:27:47
+I København er det højt grundvand og ekstrem regn. Der er de to ting, som slår igennem.
+
+00:27:55
+For eksempel vil stormflodet bl.a. komme ind. En anden måde at se det på er.
+
+00:28:03
+Hvad.
+
+00:28:03
+Hedder det? Antallet af bygninger, som er påvirket af tre eller fire af de dybre røde kategorier.
+
+00:28:12
+Der har vi en pæn chat af bygninger. Dragørspring og andet.
+
+00:28:18
+Heldigvis var jeg ved at sige Vejle i betragning af, at det var det, der startede hele kortlægningen fra vores side.
+
+00:28:27
+At Vejle fra Richard D. blev oversvømmet relativt kraftigt.
+
+00:28:33
+Det kan vi også se her, at det er et af de steder, som rammes relativt hårdt.
+
+00:28:38
+Ja, det var sådan set den del, vi havde om selve kortlægningen af risiko for overfølgelser.
+
+00:28:49
+Derudover har vi også valgt i vores data, vi stiller til rådighed for boligorganisationer og kommuner, at kigge på, hvor sårbar bygningerne er.
+
+00:28:58
+Eller sagt på en anden måde, de risikoer, Særligt risikosigt på bundet med nogle bygninger.
+
+00:29:03
+Det, vi har identificeret, og vi flagger de enkelte bygninger, er, hvis der er et evator eller teknisk anlæg i bygningen.
+
+00:29:11
+Hvis det er det, skal man være opmærksom på, at oversvømmelsen kan ramme ekstra hårdt.
+
+00:29:17
+Der kan komme mærkelige lyde ned fra kældrene, hvis der er noget strømførende.
+
+00:29:23
+Vi har markeret kloakkeringsforhold i gængelige bygninger.
+
+00:29:27
+Hvis der er fælles kloakkering, kan der blive skubbet klarkvand tilbage i bygningerne.
+
+00:29:34
+Vi har valgt at flagge, om der er ældreboliger. Der er to faktorer i det.
+
+00:29:41
+Vi tænker, at beboere, som bor i ældreboliger, generelt er mere udsatte.
+
+00:29:47
+Måske gangbesværet, måske er sværere i hver køle.
+
+00:29:50
+Måske ved en oversvømmelse, som Blåt ligger i indgangspartiet til en bygning, som har svært ved at komme ud.
+
+00:30:01
+Derudover ved vi, om der kan være niveaufri adgang.
+
+00:30:05
+Det vil sige, at vandet har fri adgang til at komme ind.
+
+00:30:08
+Det er ikke bare en 10 cm oversvømmelse, der skal til, før vandet kommer ind af hoveddøren.
+
+00:30:14
+Det er nogle datapunkter, som vi kender.
+
+00:30:19
+Vi kan vise i screeningen, at det kan være, at I skal være opmærksomme på bygningen.
+
+00:30:24
+et af de tre forhold, eller faktisk alle tre forhold. Der vil selvfølgelig også være bygninger.
+
+00:30:29
+Derudover er der en masse faktorer, som vi ikke kender, men som vi gerne vil kende.
+
+00:30:35
+Det kunne være noget om fundamentsokkelhøjder.
+
+00:30:37
+Måske er 10 cm ikke altid korrekt, hvis sokkelhøjden er lavere.
+
+00:30:44
+Det kan være noget om højdeplacering af døre og vinduer.
+
+00:30:48
+Det vil gøre det nemmere for vandet at komme ind, hvis de ligger i et lavere niveau.
+
+00:30:53
+Og så er der selvfølgelig kælderskakterne, som vi vender tilbage til, som nævnte tidligere, som igen også kunne være en rigtig, rigtig rar ting at få at vide noget mere om, hvor de er.
+
+00:31:04
+Når vi har opgjort de tre første ting, som vi kendte, altså elevatortekniske forhold, klokkering og ældrebole, så har vi faktisk også mulighed for at se på, hvordan det ser ud i dag.
+
+00:31:14
+Så nu har vi valgt kun lige at tage med fra ekstremvejen her og se.
+
+00:31:18
+Halvdelen af bygningerne har en af de her faktorer.
+
+00:31:22
+Der er lidt mere i de røde og dybrøde kategorier. Kælderskagt springer ret kraftigt i øjnene.
+
+00:31:28
+Det totale del af de bygninger, som er udsat for ekstrem regn, har en af de her sårbarhedsfaktorer.
+
+00:31:35
+Vi har selvfølgelig også lavet det her for de andre oversvømmelseskilder.
+
+00:31:42
+Der har vi bare valgt at lægge det i vores rapport. Der kan I læse om det, når den udkommer.
+
+00:31:49
+Den sidste del af det, vi vil gennemgå i dag, det er lidt omkring økonomien.
+
+00:31:52
+Grunden til, at økonomien måske ikke er så interessant for de fleste af jer, det er, fordi den isolerede set, det er kun den almindelige sektors omkostninger, vi har valgt at kigge på.
+
+00:32:02
+Det gør lidt, at tallene bliver lidt usammenligende med andre forhold og med andres resultater, bl.a.
+
+00:32:10
+det til hus. Vi har haft Sveco til at lave beregningerne.
+
+00:32:15
+Og.
+
+00:32:15
+Det er på baggrund af screeningen.
+
+00:32:17
+Det vil sige, at input er de kategorier og farvekoder, vi har brugt.
+
+00:32:22
+Ud fra det har Sveco opstillet en løsningsmatrise til hvilken tiltag, der skal bruges til den enkelte oversvømmelse.
+
+00:32:28
+Så er der lavet en metodemæssig forskel om det er ekstremregn eller øvrige oversvømmelseskilder.
+
+00:32:34
+På ekstremregn kigger vi på mængden af vand på grunden.
+
+00:32:39
+Svego har regnet med en gennemsnitspris på 2650 kroner per kubikmeter vand på grunden.
+
+00:32:46
+Omkostningerne opgørs for 10-100 års ændringer for at få det væk.
+
+00:32:52
+For de øvrige er det grundareale på det grundende, som er taget udgangspunkt i til at finde ud af omkostningerne til klimasikring.
+
+00:33:03
+De 2650 kroner er Det er noget lavere end DTU, som i deres rapport anvender 10.000 kroner pr.
+
+00:33:18
+kubikmeter. Noget af det er, at DTUs priser er primært bygget på priserne.
+
+00:33:25
+I.
+
+00:33:25
+København, hvor det er lidt større anlæg, der skal lægges og tage højde til nogle mere ting, hvor det her er mere lokale.
+
+00:33:38
+på enkelte private grunde, kan man sige.
+
+00:33:42
+I forhold til ekstreme regn, har SVK også lavet forbehold for, at det ikke er muligt at lave klimasikring.
+
+00:33:49
+Blandt andet hvis grunden, en bygning ligger på, er for lille areal, altså bebyggelsesprocenten er for høj, så er det antaget, at klimasikring ikke er muligt.
+
+00:34:01
+Det er en bebyggelsesprocent på over 82, som antages, at Under 82 % for det kræves for klimasikring.
+
+00:34:09
+Derudover er der lagt en begrænsning, der hedder, at mere end 50 % af arealet på bygningen, eller det frie areal på en grund, ikke...
+
+00:34:20
+Klimasikringen kan maksimalt fylde 50 % af det frie areal på grundene, så en grund ikke bare bliver en klimasikringsgrund.
+
+00:34:30
+Endelig har vi...
+
+00:34:34
+har Sveco valgt at sige, at udgifterne til klimasikring kan udgøre 25 % af ejendomsfordelingen i en bygning.
+
+00:34:43
+Det vil sige, at hvis man ligger lidt ude på landet, vil der være nogle steder, hvor fuld klimasikring ikke er mulig, fx fordi klimasikring er for dyrt og for meget vand, der skal fjernes i forhold til, hvad den enkelte bygning potentielt er værd.
+
+00:35:01
+Øhm... Endelig skal vi være opmærksomme på, at det kun er almindelige bygninger.
+
+00:35:10
+Resultaterne kan måske være svære at sammenligne med andre resultater fra andre rapporter på det landstægtsniveau.
+
+00:35:20
+Da vi kun omfatter en fem-til-fem-til-sjektedel af bygningen.
+
+00:35:30
+af bygningsmassen, plus at der er de tekniske anlæg, statlige institutioner osv., som vi ikke havde taget højde for.
+
+00:35:37
+Det vi og Sweco kommer frem til i analysen, det er, at vi har valgt at anvende gennemsnitsprisen af en 20- og 50-årssendelse.
+
+00:35:48
+Det er en 20- eller 50-årssendelse, hvilket sikringsniveau vi skulle vælge.
+
+00:35:52
+Der har vi valgt at tage gennemsnittet af heraf.
+
+00:35:54
+Vi ser bort for, hvem der skal betale for de her udgifter, det vi egentlig Jeg er ligeglad med, at vi siger, at det er, hvad den almindelige sektor andrer over af klimasikringen.
+
+00:36:05
+For eksempel omkring grundvand er der en masse ting omkring, at forsyningsselskaberne skal sørge for det.
+
+00:36:11
+Her har vi bare sagt, at det vil koste i det her tilfælde fire milliarder for den almindelige sektor at få ordnet sin klimasikring for grundvand.
+
+00:36:21
+Tilsvarende for stormflod vil det ofte være en En offentlig opgave i en eller anden omfang.
+
+00:36:27
+Det kommer formentlig til at blive, da det kræver ofte større løsninger.
+
+00:36:33
+Men her har vi bare sagt, at det er den almindelige seksors andel af det.
+
+00:36:36
+Det vi ellers kan se er, at ekstremvejen er klart den største, og måske ikke overraskende, den klart største udgift med de små 30 mia.
+
+00:36:44
+De samlede omkostninger løber så op i de her små fireheder. Lidt mere end 34 mia.
+
+00:36:49
+Det forventes at være over en 20-årig periode. Det vil være det her niveau.
+
+00:36:54
+at klimasikringen vil ligge på en almindelig sektor. Ja. Sidste del er udgifterne per kommune.
+
+00:37:04
+Den følger meget godt, hvor mange bygninger der er i de enkelte kommuner.
+
+00:37:09
+Vi har Aarhus, Aalborg osv. Vi kan gøre det per bygning, der rykker resultaterne sig noget.
+
+00:37:17
+Det rykker os tilbage til Københavnsområde og Stort København.
+
+00:37:20
+Vi kan opgøre det med en bolig, og der kommer andre resultater ud af det.
+
+00:37:25
+Det er lidt for at sige, hvordan det fordeler sig. Ja.
+
+00:37:32
+Det var faktisk, hvad vi havde at fortælle om vores klimakortlægning. Tak for.
+
+00:37:41
+Et spændende oplæg. I har ikke nogen.
+
+00:37:46
+spørgsmål i chatten lige nu, men I er velkommen til lige at stille nogle spørgsmål stadig, så kan vi lige nå at følge op på det.
+
+00:37:53
+Jeg tænker, at selvom det har sikkert været et fyldeskærende oplæg fra folk derude, så vil jeg lige spørge nogle spørgsmål.
+
+00:38:00
+Har I gjort det nogle overvejelser i forhold til forbedringsmuligheder?
+
+00:38:07
+Ja, altså, hvor vi kunne rigtig godt tænke os at få lavet en bedre kælderskagt, hvor I heller vide noget mere om kælderskagt og Udfordringen er, at vi ikke ved, hvor mange kælderskakter der er i en bygning.
+
+00:38:20
+Hvis vi vidste, hvor mange bygninger der var, kunne man få den eks.
+
+00:38:28
+oversvømmelsestykte, så vi slap fra kælderskagten, men det ved vi ikke.
+
+00:38:33
+En modellering omkring det kunne være en rar ting, som den umiddelbare forbedring. Ja.
+
+00:38:42
+Lige nu er det jo...
+
+00:38:44
+Det er en screening, så det giver en indikation for os, hvad de nationale mængder er.
+
+00:38:51
+Både af udsathed og økonomi, men også for Boligauktionen, der kigger på hver enkelt bygning.
+
+00:38:56
+Og for os selv, når vi laver sagsbehandling.
+
+00:38:59
+Så er det en opmærksomhed, og så skal det undersøges videre.
+
+00:39:04
+Der er nogle huller i data, hvor vi må erkende, at modellen er så god.
+
+00:39:10
+For eksempel kan vi heller ikke embedregne allerede eksisterende klimatilpasningstiltag, med mindre de ligger på terræn, fordi det er baseret på en højdemodel.
+
+00:39:19
+En fæskinegrave nede i jorden, det kan vi ikke se, som det er nu.
+
+00:39:24
+Det betyder også, det skal testes lidt mere af? Ja, det skal testes lidt.
+
+00:39:28
+Mere af.
+
+00:39:28
+Der er en opgave i formidlingen, især når man går ned på bygningsniveau, at det er en screening, som man kan starte med at prioritere, hvilke områder man skal kigge nærmere på.
+
+00:39:38
+Nogle boligemissioner har en stor dybningsportefølge, så kan de prioritere både hvilke områder og hvilke typer af vand, de skal kigge.
+
+00:39:45
+Nærmere på. Har I testet det i.
+
+00:39:48
+De her resultater? I Alvet?
+
+00:39:52
+Ja, når vi har været ude at kigge, så har vi haft det i baghovedet, hvad vores screening viser.
+
+00:39:59
+Det er også noget, vi skal have gjort i højere grad. Man kan sige.
+
+00:40:05
+At jeg har fået billeder af Laura. Jeg har været ude og kigge og se, at den her bygning er dybrød.
+
+00:40:11
+Der var en pæn aflejring ret højt op ad fundamentet. Det er lidt sjovt at sige, at vi var glade.
+
+00:40:18
+Men vi har også andre, hvor der i hvert fald er en melding, Det er selvfølgelig et meget lille datagrundlag, det her bygger på.
+
+00:40:31
+For at vide, at vi ikke kender noget til regn. Eller at vi ikke har haft nogen problemer endnu.
+
+00:40:38
+Som er dybrøde hos os. Noget af det kan være, fordi man måske har klimasikret det i forvejen.
+
+00:40:46
+Det er nogle af de ting, vi ikke.
+
+00:40:47
+Ved.
+
+00:40:49
+Der kommer et spørgsmål her. Hvor langt ned på kommuneniveau kan man se rapporten?
+
+00:40:55
+Kan man slå en liste over bygningerne op, eller er det kun den blå.
+
+00:40:59
+Farve på kortet? I rapporten er det det kommunale niveau, som er det... Hvad hedder det?
+
+00:41:09
+Det længste nede... Man gør ikke noget på bygningsniveauet?
+
+00:41:11
+Nej, men boligorganisationerne har selv lov til at se på bygningsniveauet.
+
+00:41:16
+De vil kunne se, at det er bygning tre, som er rød. mens bygningen 4 er grøn. Det er det, der.
+
+00:41:24
+Er tilfældet. Det er boligorganisationen.
+
+00:41:26
+Ikke kommunerne selv. Kommunekøndene kan også være i gang.
+
+00:41:31
+Vi har også en masse data, vi stiller til rådighed.
+
+00:41:36
+Et af de steder, vi stiller data til rådighed er vores online-kort, AlminGIS.
+
+00:41:41
+Der vil data komme ind, så man kan se, hvilke farver de har på de forskellige oversvømmelser.
+
+00:41:46
+Så vil det også komme ind i vores datavarehus, som er en større bank, hvor man også kan trække det mere systematisk ud.
+
+00:41:51
+Men det er et lukket miljø for boligorganisationer og for kommuner primært. Så er.
+
+00:41:56
+Der et spørgsmål mere her.
+
+00:41:57
+Hvordan vil I bruge økonomitaldene i forhold til finansiering over eksempelvis boligaftalen?
+
+00:42:04
+Der ved.
+
+00:42:06
+Jeg ikke, om vi måske skal starte med at sige, at vi er lidt sådan nogle, i Landsbyggefonden, lidt kedelige størrelser, der kan sidde og regne og beskrive og analysere.
+
+00:42:15
+Og så er det nok vores BL og interesseorganisationen, der samler de politiske budskaber.
+
+00:42:21
+Op. Men den er vel med til at underbygge nogle gader, som kan bruges i det politiske.
+
+00:42:29
+Hvad vil I gøre, hvis der er foretaget klimasikring i et område? God spørgsmål.
+
+00:42:38
+Vi har lejet lidt med tanken om det. Vi har også prøvet at lave modelleringer af det.
+
+00:42:43
+Hvor vi har sagt, hvordan bygningerne vil ændre sig, hvis vi antager, at der er lavet en klimasækring til en 10-årshændelse.
+
+00:42:51
+På den måde kører den igennem. De resultater har vi som sådan at kunne lave. Det mener jeg også, vi.
+
+00:42:59
+Har med i rapporten. Ja, for eksempel med en 10-årshændelse.
+
+00:43:05
+I den optimale verden vidste vi alle de her ting, og så kunne vi gå ind og gøre det.
+
+00:43:10
+Men det gør vi ikke, uheldigvis. Så vi prøver at modellere det.
+
+00:43:16
+Hvis nogle ting her bliver registreret, så var det sådan nogle ting, man sagtens.
+
+00:43:24
+Ville bygge. Det er noget, de skal overveje. For eksempel borgerlige organisationer.
+
+00:43:27
+Hvis de ved, at det her område har fået foretaget en klinisk sikring, så skal de måske holde det op med de begivninger.
+
+00:43:36
+Hvad gør man, hvis man gerne vil vide mere om metoden? Er det at grave ned i rapporten? Ja, man kan.
+
+00:43:44
+Grave langt ned i rapporten, og så er man altid velkommen til at kontakte os.
+
+00:43:48
+Vi vil gerne møde og snakke om det, hvis vi har været gravet ned i det. Hvis man ved særlig meget.
+
+00:43:52
+Det sidste år, halvandet år.
+
+00:43:55
+Kun nu skal jeg på nye perspektiver fortælle, hvad vi har haft til overvejelse om.
+
+00:43:59
+Hvorfor jeg tror på de beslutninger, vi har. Det må man også gerne vide.
+
+00:44:02
+Kontaktinformationer står der også på vores hjemmeside. Det.
+
+00:44:05
+Skal man bare gøre.
+
+00:44:06
+Hvis ikke der er nogen, der gider at stille spørgsmål til rapporten, så har vi nok brugt alt den tid, der har kostet, og alle de regnskov, vi har brugt i den vej, vil jeg.
+
+00:44:16
+Sige.
+
+00:44:17
+Man kan sikkert få en masse ud af at få læst den, og godt med lidt baggrundszone her til at starte med.
+
+00:44:25
+Så vil jeg lige spørge om, hvordan I har koblet bygninger med kyststrækning? Det.
+
+00:44:36
+Var også en manøvre, fordi vi havde data, som lå på kyststrækningerne, men ude i vandet.
+
+00:44:44
+Jeg mener, det er 32 kyststrækninger, der er rundt omkring, som er polygoner.
+
+00:44:51
+Nu bliver det bare gisteknisk.
+
+00:44:54
+I rapporten ville I kunne se et smukt kort, som ligner en masse farvede vandballoner.
+
+00:45:01
+referering af de her kyststrækninger indad i landet, fordi det er jo inde i landet, hvor bygningerne ligger, så der skal man videskære hen fra det her data eller fra det her dataset ude ved kysten.
+
+00:45:11
+Det er så mere beskrevet godt nok nede i et appendix, men der var lige en øvelse der med at koble det her ellers ret velkendte, tror jeg, stormflodsdata fra Klimaatlas og DMI, men hvordan kobler man det ind på noget, der findes inde på land?
+
+00:45:26
+Fordi vi bare systematisk har sagt koblet hændelserne på de bygninger, der ligger i det område, som så knytter sig til de bestemte kystningsstrækninger.
+
+00:45:35
+Er det også noget.
+
+00:45:36
+I beskriver i rapporten? Ja, vi har prøvet at være.
+
+00:45:40
+Så gennemsigtige, vi kunne.
+
+00:45:41
+Vi har faktisk prøvet at tømme hovederne, så det er også lidt af en mobbedræng, men så slår man det op, man synes er spændende, og så formentlig er der ikke noget, man ikke kan slå op, håber vi.
+
+00:45:48
+Det har været vores ambition. Det glæder vi os til.
+
+00:45:52
+At dykke ned i.
+
+00:45:53
+Den kommer ud her i starten af november, så følg med på landsbyen. Der.
+
+00:46:02
+Er ikke flere spørgsmål derudefra, men så tror jeg bare, vi vil slutte af.
+
+00:46:08
+Tusind tak, fordi I ville fortælle os meget dybdegående om jeres arbejde her.
+
+00:46:13
+Jeg synes, det var godt, at man kom ned i detaljerne.
+
+00:46:15
+Tak, fordi I så med, og I må have en god mandag. Tak for nu.
+

@@ -1,0 +1,1467 @@
+00:00:16
+Godmorgen og velkommen til det her webinar.
+
+00:00:20
+Det handler om biodiversitet i klimatilpasningsløsninger.
+
+00:00:24
+Vi skal høre om, hvordan data fra træer kan bruges som et redskab i klimatilpasningen.
+
+00:00:31
+Vi starter ud med at høre Emilie Winter fra Grønt Aftryk fortælle om iTree.
+
+00:00:40
+Derefter går vi direkte over til Henrik Nonnegård fra Kolding Kommune, der fortæller lidt om, hvordan de har brugt de her løsninger.
+
+00:00:50
+Det bliver sådan, at først hører vi Emilies oplæg, og så går vi over til Henriks, lige bagefter, og så kan I stille spørgsmål bagefter.
+
+00:01:00
+I må meget gerne stille spørgsmålene i chatten, og I kan bare stille dem, som vi kører, så tager vi det hele til sidst.
+
+00:01:09
+Værsgo, Emelie.
+
+00:01:12
+Tak. Mit navn er Emelie, og jeg er ejer af Grøn Aftryk.
+
+00:01:18
+Jeg skal fortælle lidt om, hvordan trædata kan bruges som redskab i klimatilpasning.
+
+00:01:23
+Vi starter ganske kort med træers økosystemtjenester.
+
+00:01:28
+Træer er rigtig gode til at optage karbon og luftforurening, og lære det ind i deres ved, og sende ren ild ud i den anden ende.
+
+00:01:38
+Så er træer gode til at sænke energiforbruget i bygninger.
+
+00:01:42
+Et enkelt træ kan sænke energiforbruget på cirka mellem 12 og 24 procent.
+
+00:01:49
+Så er træer rigtig gode til at skygge og køle inde i byen.
+
+00:01:55
+En undersøgelse overfor Manchester viste, at på sådan en god varm sommerdag, der var der ca.
+
+00:01:59
+32 grader inde i bymidten, hvorimod i byens større parker var der kun 18 grader.
+
+00:02:06
+Det, man siger, er, at man skal have 10 % mere grønt inde i byen, hvis vi skal holde den temperatur, som vi har nu.
+
+00:02:12
+Hvorimod hvis vi får 10 % mindre grønt, som er den udvikling, vi ser i øjeblikket i de fleste af byerne, så kommer det til at blive 8 grader varmere.
+
+00:02:22
+Så er træer rigtig gode til at reducere overfladevand.
+
+00:02:26
+Det hjælper vores kloak-system mere at aflaste, fordi det forsinker vandet imellem 10 og 20 minutter.
+
+00:02:33
+Ved almindelig regnskyld kan det opfange omkring 27 % af vandet, og ved skybrud er det omkring 7 % af vandet.
+
+00:02:43
+Så er træerne selvfølgelig også rigtig gode for biodiversiteten.
+
+00:02:47
+Der er rigtig mange forskellige arter, som har træer som habitat eller bruger det som næring. F.eks.
+
+00:02:53
+kan et gammelt egetræ have over 1000 forskellige arter tilknyttet.
+
+00:03:00
+så er træer rigtig gode til at hjælpe os mennesker.
+
+00:03:03
+Det hjælper også rigtig meget med vores psyke, og det kan også hjælpe os med at reducere vores restitutionstid.
+
+00:03:10
+For eksempel viser en undersøgelse fra Danmark, at hvis man er indlagt og har udsigt til træer, så ved korte inddækkelser, så kan man skære tre dage af, og ved længere inddækkelser, så kan vi skære omkring 7-8 dage af.
+
+00:03:23
+Det, som træer kan, er bl.a. at reducere stress og styrke vores mentale helbred.
+
+00:03:29
+Det handler især om, at vi skal have træer og natur i vores hverdag.
+
+00:03:34
+Ikke kun som en ting med, at vi en gang imellem går en tur i skoven.
+
+00:03:40
+Det her er nogle af de andre ting, som træer kan. De er med til at mindse stress.
+
+00:03:46
+De er også med til at forbedre den kognitive funktion. De forlænger vores levealder.
+
+00:03:51
+Hvis man bor i områder, der har mange træer, så ser vi mindre depression, angst og ADHD.
+
+00:03:56
+Der er også mindre risiko for kroniske sygdomme og en række andre ting.
+
+00:04:01
+Så vi har altså rigtig mange overdele ved træer, som påvirker os mennesker.
+
+00:04:07
+Givet år er træer med til at hæve ejendomsværdien med omkring 10%, og det hæver forbruget med omkring 10% også.
+
+00:04:16
+Men på trods af de her ting, så ser vi gang på gang, at træers værdi bliver sat til 0 kroner, og nogle gange ofte minus, så det bliver set som en udgift, og derfor bliver de nedprioriteret om og om igen.
+
+00:04:27
+En undersøgelse vi lavede for Næstved Kommune viste, at de grå overflader på en 16-årig periode var steget fra at fylde 44 procent til at fylde 48 procent.
+
+00:04:37
+Og det er den udvikling, som vi ser i de fleste byer i øjeblikket.
+
+00:04:41
+Undersøgelser for udlandet viser, at vi mister omkring 1 procent i kronedække hvert år.
+
+00:04:46
+Så det er altså nu, at vi skal handle.
+
+00:04:49
+Så det, vi har haft brug for, det er et værdibaseret grundlag, når det er, at vi skal diskutere planlægning, forvaltning, myld og ressourcer på nogle af alle de her gode ting, som det er, at træer gør.
+
+00:04:59
+Og det er så her, hvor iTree kommer ind i billedet.
+
+00:05:02
+iTree, det er en softwarepakke, som kan kvantificere og værdisætte træers økosystemtjeneste, eller nogle af dem i hvert fald.
+
+00:05:11
+Så det vil sige, at de kan sætte tal, altså for eksempel ansat kilo CO2, men også kroner og øre, på den her ydelse.
+
+00:05:17
+Det er udviklet over i USA af USDA Forest Service helt tilbage i år 2006, men kom først til Europa i år 2018.
+
+00:05:26
+Det er bygget på en lang række videnskabelige studier, og så er det peer-reviewet.
+
+00:05:31
+På nuværende tidspunkt bliver det brugt verden over, ikke kun i USA og Danmark, men også i Canada, Australien, Sverige, England, Holland, Tyskland, og Spanien er også begyndt, og mange andre europæiske lande.
+
+00:05:43
+Og bare for at give jer en fornemmelse af, hvad iTree kan, så er en undersøgelse med iTree over fra New York viste, at træerne gav for 120 mio.
+
+00:05:51
+dollars om året, hvorimod det kun kostede den 22 mio. dollars at pleje.
+
+00:05:56
+Så det er altså nogle ret fede tal at kunne sætte op og især give videre til beslutningstagere og til politikere, når det er, at der skal diskuteres midler.
+
+00:06:05
+Og det bedste af det hele er, at værktøjet er gratis.
+
+00:06:12
+I bund og grund, det som iTree er bedst til, det er, at det er et formidlingsværktøj.
+
+00:06:16
+Det gør, at vi kan snakke samme sprog, nemlig penge.
+
+00:06:19
+De fleste kan have lidt svært ved at forholde sig til, hvad er x antal kilo 72, og vi ved godt, at træer gør det.
+
+00:06:26
+Men når vi sætter det i kroner og ører, så gør det, at alle kan snakke samme sprog, og alle kan være med.
+
+00:06:32
+En af de måder, man kan bruge iTree på, det er ved at gå ud og registrere træer.
+
+00:06:37
+Det kan man gøre på to måder.
+
+00:06:38
+Enten så kan man gå ud og registrere hver evig eneste træ individuelt, Det er noget, man kun typisk bruger i mindre projekter, i lokalplaner eller mindre projekter, hvis man kun vil vide, hvad det træer værd.
+
+00:06:53
+Ellers er der den her plot-baserede løsning. Det gør man typisk i større byer.
+
+00:06:58
+Der smider man omkring 250 plots ud, og så registrerer man kun inden for dem.
+
+00:07:03
+Det er selvfølgelig mere usikkert, de resultater, vi får ud af det, men nogle gange er det den eneste løsning, man har rent ressourcebaseret.
+
+00:07:12
+Når vi så går ud og registrerer, så skal vi som minimum have slægterart og stammediameter.
+
+00:07:17
+Alt hvad vi propper på efterfølgende, det giver os bare endnu mere et eller andet.
+
+00:07:20
+De ting vi også rigtig gerne vil have, det er sådan noget som kronediameter og træhøjde, stammehøjde, hvor mange procent af kronen der mangler, hvor mange procent af kronen er død.
+
+00:07:31
+Vi vil også rigtig gerne vide, hvor mange sider af træet får lys, og hvor tæt det står placeret på nærmeste bygning.
+
+00:07:37
+Alle de her ting, dem smider vi ind i i3, som har en masse lokal bydata, og som hiver data fra lokale vær- og luftforureningsstationer, og også har en masse arsdata, og ud i den anden ende, der får vi så, hvor meget CO2, som det er, at det træet optager, hvor meget luftforurening det er, det optager, hvor meget ild, det producerer, og den hydrologiske evne.
+
+00:08:02
+Derudover får vi også, hvordan træet hjælper bygninger med at spare energi.
+
+00:08:08
+Lige den del af værktøjet er dog baseret 100% på amerikanske data og måder at bygge på i USA.
+
+00:08:14
+Så hvis man har tænkt sig at bruge den del, så skal man altså gøre det med forbehold.
+
+00:08:20
+Derudover får vi værdien i kroner og øre, som vi kan bruge til cost-benefit-analyser, og vi får også en erstatningsværdi.
+
+00:08:30
+Det, som vi også foder af registreringen, er bl.a.
+
+00:08:32
+at se, hvor bæredygtige og fremtidssikrede vores træbestand er.
+
+00:08:37
+Som I kan se over til højre, så har vi en arts-diversitetsdiagram, hvor vi kan se, hvor mange procent udgør en specifik art.
+
+00:08:46
+En undersøgelse over for London viste, at det især var æbletræer, der udgør næsten 50 procent af deres træbestand, og det er, fordi det er det mest almindelige træ, som folk planter i deres baghave.
+
+00:08:58
+Egentlig vil vi jo ikke have, at der er nogen træer, der skal fylde mere end maks. 10 %.
+
+00:09:03
+Men det er sjældent sådan, det ser ud i virkeligheden.
+
+00:09:06
+Derudover kan vi også se noget som aldersfordeling og størrelsesfordeling.
+
+00:09:10
+Den skulle også gerne ligge nogenlunde lige, men det er meget sjældent, at det er sådan.
+
+00:09:16
+Træer kan også godt gå i minus inden i det her værktøj.
+
+00:09:20
+Når træer når til et eller andet sted i deres livscyklus, hvor de bliver næsten for gamle, så begynder de at udlede mere CO2, end det optager.
+
+00:09:29
+Så hvis man kun kigger på de her tal, så kan man få lyst til at gå ud og finde motorsavn frem, og så fældetræerne, når ikke de giver os mere.
+
+00:09:36
+Men det er her, det er vigtigt at huske nogle af de andre økosystemtjenester, som jeg snakkede om lige før, som vi ikke kan værdisætte og kvantificere nu.
+
+00:09:44
+Det er f.eks. noget som biodiversitet, påvirkning af ejendomsværdi og den mentale påvirkning.
+
+00:09:53
+For at give jer et eksempel på, hvordan man kan bruge det her værktøj, så har jeg taget et eksempel fra Ringsted Kommune, hvor vi var ude at registrere 28 træer, som skulle fælles, fordi der skulle laves cykelstig.
+
+00:10:07
+Der fandt vi ud af, at de her træer havde en erstatningsværdi på 3 mio. kroner.
+
+00:10:13
+De havde blandt andet lagret karbon ind i deres væde for lidt over 100.000 kroner.
+
+00:10:18
+Den her registrering var ikke noget, der ændrede politikernes afgørelse, for det var en beslutning, der var truffet flere år i forvejen, så det havde man ikke lyst til at gøre om.
+
+00:10:27
+Men det gjorde alligevel, at de sagde, at det var noget, vi skulle tænke ind i vores projekter fremadrettet.
+
+00:10:33
+Når det videreforløb af Cykelstien skulle planlægges, skulle det indtænkes, at de skulle udenom træerne.
+
+00:10:40
+Det kan godt svare sig at sætte nogle af de her tal på træerne, Når det er, at man skal diskutere, om de skal fældes eller ej, for det kan give en anden forståelse.
+
+00:10:50
+Det, som EITRI også er rigtig godt til at vise, det er, at et træ ikke bare er et træ.
+
+00:10:55
+Jeg kommer ud til rigtig mange kommuner, som har en træstrategi, der siger, at hvis vi fælder et træ, så erstatter vi det med et nyt eller måske med to nye.
+
+00:11:02
+Og selvom tanken er rigtig fin, så er det bare vigtigt at huske, at der går rigtig mange år før, at det her nye træ giver bare i nærheden af, hvad det gamle træ gav af økosystemtjenester.
+
+00:11:12
+Her har jeg taget et enkelt eksempel med, hvor det vil kræve 34 nye træer år et for at give det samme som det gamle træ.
+
+00:11:21
+En anden måde, man kan bruge de her tal på, det er til borgeranddragelse.
+
+00:11:28
+Et eksempel på det er de her skilte, som I også får lidt tættere på her, så I bedre kan se dem.
+
+00:11:33
+Det er skilte, som vi sætter op på udvendte træer, hvor vi omsætter nogle af de her økosystemtjenester til hverdagstænk.
+
+00:11:40
+Det kan være, hvor mange mennesker, der kan trække vejret på grund af det her træ.
+
+00:11:44
+Eller hvor mange badekar kan vi fylde med det vand, som træet sluger.
+
+00:11:49
+Eller hvor lang kan en bil køre på den CO2, som det er, at træet optager.
+
+00:11:55
+Det er hverdagsting, folk bedre kan forholde sig til, i stedet for 20 kg CO2.
+
+00:12:00
+Det er noget, vi har haft rigtig god respons på.
+
+00:12:04
+Det giver borgerne en anden forståelse af naturens værdi og især træernes værdi.
+
+00:12:10
+Det, man også kan bruge de her skilte til, er at lave skattejagt eller træssefeje, som også Colin har gjort, hvor man kan lave aktivitet for byens børn, hvor de kan tage deres familie under armen og skal rundt på en rute og finde de her træsskilte, og så svare på spørgsmål, som de kan finde med information, og dermed lære noget mere omkring træer og naturen.
+
+00:12:38
+En.
+
+00:12:38
+Anden måde at arbejde med iTree på, det er ved at arbejde med kronedækket.
+
+00:12:44
+Og det som kronedækket går ud på, det er at sige, hvor mange procent af overfladen er dækket af træer.
+
+00:12:50
+Hvor mange procent af overfladen er dækket af andet grønt, som f.eks. græs, buske, makker osv.
+
+00:12:58
+Og hvor mange procent af overfladen er dækket af grå overflade.
+
+00:13:01
+Det som vi kan bruge det til, det er at se en status snur her.
+
+00:13:05
+Vi kan se, hvor vi skal plante henne, og det kan hjælpe os med at opsætte nogle mål.
+
+00:13:10
+Derudover kan det også hjælpe os i forhold til biodiversiteten med at se, hvor potentialet er lavt og hvor det er højt.
+
+00:13:18
+Det her er et eksempel fra en krondækkeundersøgelse, vi har lavet i Viborg By.
+
+00:13:23
+Den viste, at træerne gav økosystemtjenester for 127 mio. kr.
+
+00:13:29
+Her kan I se resultaterne af af nogle af de forskellige kronedækkeundersøgelser, vi har lavet rundt omkring i Danmark.
+
+00:13:39
+Og der kan vi se, at især Frederiksberg og Roskilde ligger højst, hvorimod Ringsted og Kolding ligger i bunden.
+
+00:13:47
+Det er ikke nødvendigvis altid en dårlig ting.
+
+00:13:50
+Det kan Henrik fortælle lidt mere om bagefter, hvordan de har brugt de her tal.
+
+00:13:55
+Her kan vi se, hvordan tallene fordeler sig, når det er andet grønt, som overfladerne er dækket af.
+
+00:14:01
+Der har vi til gengæld rensted, som ligger i toppen, imod at Roskilde og Frederiksberg ligger i bunden.
+
+00:14:10
+Til sidst har vi med grå overflader, hvor Frederiksberg og Kolding ligger i toppen, og rensted ligger i bunden.
+
+00:14:20
+En ting er at registrere en enkelt by, men det, man også kan gøre, er at registrere alle de større byer inden for kommunen.
+
+00:14:28
+For at se, hvor vi har færrestræer. Hvor giver det mening, at vi lægger vores indsats først.
+
+00:14:36
+Her er et eksempel fra Næstved.
+
+00:14:38
+Der kan man se, at det især er Karbæksminde, Fuglebjerg, Glumsø og Fensmark, hvor de skal lægge indsatsen som det første.
+
+00:14:46
+Det er noget, man især kan bruge politisk til at dokumentere, hvorfor det er vigtigt, at vi sætter ind nu.
+
+00:14:51
+Det er, fordi der er den her ulighed.
+
+00:14:53
+Vi har Holm-Aalstrup med 24 procent, og vi har Carbex-Mitten med kun 6 procent.
+
+00:15:00
+Vi kan også gå helt ned på byniveau, altså ud fra forskellige bydele.
+
+00:15:06
+Det her er et eksempel fra Viborg by, hvor vi har delt byen op i fem.
+
+00:15:10
+Der kan man se, at det især er centrum og sydvest, der har det laveste krondække, så det giver mening for dem, at det er der, de skal fokusere deres indsats til at starte med.
+
+00:15:21
+Her er det illustreret på en anden måde.
+
+00:15:24
+Det er kortet over Viborg By, hvor man kan se, hvor der er flestræer og hvor der er færre stræer.
+
+00:15:31
+Det, som man også kan med det her værktøj, er, at man kan se den historiske udvikling, Det er det igen fra Viborg, hvor man kan se, at i 2005 havde de 20 % i kronendækket, hvor nu i år har de kun 16,94 %.
+
+00:15:47
+De har altså fået noget af et fald i kronendækket, og det har gjort, at de har haft et tab af økosystemtjenester på lige under 26 mio.
+
+00:15:57
+kr.
+
+00:16:00
+Omvendt kan det også godt være, at det er en positiv udvikling, Det her er et eksempel fra Frederiksberg.
+
+00:16:06
+Det er over en kortere periode. Det er kun mellem 2001 og 2024.
+
+00:16:11
+Men de har haft en stigning i deres kronedække, og det har så givet dem flere økosystemtjenester for lige under en halv million kroner.
+
+00:16:21
+Grunden til, at det her også er rigtig vigtigt at begynde at arbejde med nu, det er, fordi der er kommet en ny EU-lovgivning, som kræver, at fra 2030 må vi ikke miste grønne områder og kronedæk ind i byerne.
+
+00:16:34
+når vi sammenligner det med år 2024.
+
+00:16:37
+Som I kunne høre på nogle af de tidligere slides, så er de fleste byer i øjeblikket mister kronedækket.
+
+00:16:44
+Hvis vi skal overholde den her lovgivning, skal vi sætte ind nu.
+
+00:16:48
+Vi ved godt, at træer er lang tid om at komme i gang, og det tager lang tid for dem at blive store og fylde noget, og derfor rigtig bange ud på kronedækket.
+
+00:16:56
+Vi ser også rigtig mange private borgere, der i øjeblikket fælder Rigtig mange træer, så hvis vi skal kunne overholde det her, så skal det virkelig gøres en indsats nu.
+
+00:17:06
+Derudover siger lovgivningen også, at fra 2031 skal vi aktivt øge både grønne områder og krogendækket.
+
+00:17:14
+Så det er noget, som vi alle sammen kommer til at arbejde med på en eller anden måde.
+
+00:17:20
+Så skal vi se en lille smule på, hvordan man også kan bruge det her i klimatilpasning.
+
+00:17:26
+Blandt andet kan man få en rangeret top 10 liste over arter med særlige egenskaber.
+
+00:17:34
+Så vi kan få en top 10 liste med arter, der er særlig gode til at lære CO2 eller optage luftforurening.
+
+00:17:40
+Så giver det rigtig god mening, at det er dem vi skriver ind i vores planer, som vi gerne vil have plantet ud langs veje eller særlig forurenet områder.
+
+00:17:47
+Det kunne måske også være industrieområder.
+
+00:17:50
+Vi kan også få en liste over træer, der er særlig gode til at reducere overfladevand.
+
+00:17:54
+Så tænker vi dem ind i vores klimatilpasningsprojekter.
+
+00:17:57
+Eller træer, der er særlig gode til at sænke energiforbruget, så er det dem, vi planter langs vores bygninger.
+
+00:18:03
+Så det er altså lister, vi bruger til at skrive ind i vores planer, for at sikre, at vi får mest muligt ud af vores træer.
+
+00:18:11
+En anden måde, man kan bruge det på, er at se, hvad vi får ud af at plante træer.
+
+00:18:16
+Her er et eksempel med bare trætræer. Hvad vil vi få ud af dem over tid?
+
+00:18:20
+År 1 får vi ikke ret meget ud af dem. Imod år 50 får vi meget mere ud af deres økosystemtjenester.
+
+00:18:29
+Hvis vi har et nyt projekt, hvis vi planter 20 af de her træer, 30 af de her træer, 5 af de her og 5 af de her, hvad regner vi med, det vil give os af økosystemtjenester over tid?
+
+00:18:43
+Der, hvor vi også skal bruge det, er især i forhold til regnvandshåndtering, fordi I3 beregner, hvor meget regnvand, som det er, at træerne opsluger.
+
+00:18:52
+Det bliver fordelt meget ud, meget præcist.
+
+00:18:55
+Som I kan se her nedenunder, har jeg taget et par eksempler med.
+
+00:18:59
+Så der kan vi både se i forhold til evaporation og transpiration, water intercepted og avoided runoff.
+
+00:19:05
+Det er altså noget, vi kan bruge, når vi skal dimensionere i vores klimatilpasningsprojekter.
+
+00:19:12
+Så kan vi bruge det til at lave målsætninger og sætte scenarier op. F.eks.
+
+00:19:16
+hvis vi nu sætter et mål op om, at vi skal øge vores kronedække. Vi skal gå fra 12% til 25%.
+
+00:19:23
+Hvad vil det så have af effekt?
+
+00:19:26
+Det kunne også være, at hvis vi har en 10% stigning i kronedækket, så kan vi via en vast data se, om det vil gøre, at vi vil få en grad lavere overfladetemperatur.
+
+00:19:41
+Som jeg tidligere har sagt, kan vi kortlægge alle de her klimagevinster, som træerne har, netop i form af CO2-binding og energibesparelser, for at forbedre luftkvalitet og nedkyllingseffekt.
+
+00:19:55
+Alle de her ting kan vi bruge i vores klimatilpasningsplaner til at bevise, hvorfor der er behov for flere træer, men også som argument for, hvorfor det er så vigtigt, at vi bruger energi på at bevare de eksisterende træer.
+
+00:20:08
+Og hvorfor vi måske skal tænke i, Når det er, at vi planlægger nye områder og lægger bygningerne ud omkring træerne, i stedet for at fælde træerne for at lægge bygningen lige præcist her.
+
+00:20:20
+Derudover kan det hjælpe os med at prioritere indsatsområder.
+
+00:20:24
+Det I3 kan, det er egentlig, at det giver os det her værdibasede grundlag i diskussionen om planlægning, og når vi skal snakke forvandling og midler og ressourcer, det giver os ligesom en stemme.
+
+00:20:37
+Det her er mit sidste slide. Hvis I kun kunne plante et træ, hvor vi lige har plantet henne.
+
+00:20:43
+Det er plantet inde i byen, hvor vi virkelig har brug for det, hvor vi mangler træer. Jeg.
+
+00:21:02
+Sidder lidt i den anden ende. Jeg sidder i kommunerne. Mit navn er Henrik Nørnegård.
+
+00:21:11
+Jeg er strategisk grøn planlægger i Kolding Kommune.
+
+00:21:16
+I Kolding Kommune har vi en træstrategi, vedtaget i 2020, med tre hovedsatsindsatsområder.
+
+00:21:29
+Da jeg kom til i 2022, skulle vi finde ud af, hvordan vi arbejder videre med den her træstrategi.
+
+00:21:35
+Hvordan får vi en omsæt til handling?
+
+00:21:37
+For at vi kunne komme derhen, så var det vigtigt, at vi fik indsamlet noget viden, så vi kunne blive vores politikere på, som Emilie lige fortalte.
+
+00:21:47
+Altså hvor vi får indsamlet noget data og noget viden til vores beslutningstæger.
+
+00:21:54
+Til det valgte vi så at få lavet de her analyser ved grønt aftryk, altså med Emilie.
+
+00:22:05
+Det var vigtigt for os at få skabt det her vidensgrundlag, så vi også ved, hvad vi taler om, når vi siger, at vi gerne vil udvikle vores træstrategi og trækapital i kommunen.
+
+00:22:17
+Vi arbejder lige nu med en bynaturplan, der ligger færdig senere i år.
+
+00:22:21
+Når vi snakker om den fremtidige fysiske planlægning med byudviklingen, som vi har set være meget fremadstormende de senere år, Så skulle vi finde en måde at lave beslutningstegner på.
+
+00:22:37
+Vi tog kontakt til Emilie, og vi fik udarbejdet de her analyser for Kolding By og vores centerbyer, som vi kalder vores tre største byer, Varmdorp, Lunderskov og Christiansfeldt.
+
+00:22:48
+Men så fik vi derudover også lavet en kronedæk-analyse for Kolding By på bydelsniveau, hvor vi fik Emilie til at udarbejde det her kronedæk-analyse for 21 bydele, Og det er simpelthen fordi, vi var begyndt at se ind i at bruge den regel, som sidste kontingent har kommet frem med.
+
+00:23:07
+De her principper om 33 træer af en vis størrelse, fra hvert hjem, arbejdsplads eller skole.
+
+00:23:15
+Skal man kunne se fra sit hjem, eller 30% kronedække i ens nabolag. Eller 300 max.
+
+00:23:22
+300 meter til nærmest til grønne retområde.
+
+00:23:24
+Så det gav os et behov for at vide, hvad arbejder vi simpelthen ud fra.
+
+00:23:31
+inden vi kan begynde at sætte nogle mål.
+
+00:23:33
+Og så synes jeg, at det var rigtig spændende at se den her historiske analyse, som Emilie også lige kort var henne over.
+
+00:23:39
+Jamen, hvordan har vi så udviklet vores arealer i takt med, at byen har udviklet sig?
+
+00:23:44
+Der fik vi lavet en analyse fra 1995 til 2023, og derudover fik vi også lavet de her kampagne for at inddrage borgerne noget mere om viden om bytræners økosystemer.
+
+00:23:58
+Jeg blev tidsspurgt, hvorfor lige grønt aftryk I-Tree?
+
+00:24:03
+For os var det ligesom I-Tree et værktøj, der kunne give os den her dataindsamling.
+
+00:24:11
+For os var det vigtigt at vælge en ekstern konsulent, der forstår og kender vores behov i det kommunale.
+
+00:24:18
+Hvad er det, vi har brug for, for at kunne klæde vores beslutningstager på?
+
+00:24:23
+Så derfor faldt valget på Emilie. Og det har vi været glade for.
+
+00:24:32
+Men når vi som I vil, og I kunne vise, så er vores overfladeareal med træer ikke imponerende.
+
+00:24:39
+Men det siger vi ikke som noget negativt. Det er jo sådan, det er.
+
+00:24:43
+Så har vi i hvert fald et vidensgrundlag og noget at arbejde udefra.
+
+00:24:46
+Som I kan se i Koldingby, der ligger vi lige lidt over 13 procent.
+
+00:24:50
+Men vi har rigtig store impenable overflader, som veje, asfalt og tagflader.
+
+00:24:59
+Og så har vi selvfølgelig en anden vegetation. Har vi okay, men slet ikke højt nok.
+
+00:25:05
+Det kan være med til at give os nogle målsætninger om, hvor er det vi vil ligge på 30% kronedækket i byerne.
+
+00:25:13
+Det er jo så det, vores politikere kan beslutte ud fra det her dataindsamling.
+
+00:25:18
+Christiansfeldt, så er det endnu værre ud.
+
+00:25:21
+Det sjove er faktisk lidt, at når folk kommer til Kolding og til vores centerbyer, så oplever de dem faktisk som grønne byer.
+
+00:25:28
+Så det var ligesom også et wake-up-call og et indblik i, hvordan er statusen i taget, når man sådan ser det lidt udefra og når vi indsamler data.
+
+00:25:38
+Og varmdruk, ja, det ser helt tosset ud. Og i Lundeskov ser det noget bedre ud.
+
+00:25:47
+Og så fik vi udarbejdet de her, som jeg sagde, på bydeltesniveau.
+
+00:25:50
+Vi fandt ud af en del calling i 21 områder, kvarterer, som vi så fik lavet det her i3-kronedæk-analyse på af Emilie også.
+
+00:26:06
+Og det, der er lidt sjovt, det er den der forestilling om, at hvor der er størst kronedækket, det er også der, man har de mest velhævne kvarterer af træer, med til styrke boligpriserne, som også Emilie fortalte.
+
+00:26:19
+Det kan vi se, det går også igen i Kolding By.
+
+00:26:24
+Og det kan lede os over til nogle handlinger, hvor vi begynder at snakke om, kan det her give os nogle værktøjer på, og sige, at der er nogle kvarterer, hvor kronedækket er lidt lavt.
+
+00:26:34
+Skal vi øge kronedækket, skal vi plante flere træer i de her bydele, for at vi kan øge kvaliteten og oplevelsen i de her bydele.
+
+00:26:43
+Så vi har taget det helt op fra strategien og ned til handling. Og det er vi rigtig glade for.
+
+00:26:49
+Og det har så også medført, at vores politikere har kunne træffe nogle beslutninger, for vores træstrategi, at de nu har fået bevilget nogle penge til os til at genplante flere træer rundt om i byen.
+
+00:27:04
+Så det virker.
+
+00:27:11
+Og som Emilie også fortalte, så kan vi se lidt omkring, hvordan de her foredele, beregningerne af træernes foredele, ser ud, fx den øverste i bymidten, hvor vi har rimelig lavt kronedække.
+
+00:27:27
+Ude ved Strandhusene, som er et af de mere kronedækkede områder med næsten 30 % kronedække.
+
+00:27:37
+Det er nogle tal, som ikke bare vores forvaltning, men også andre steder i kommunen er rigtig glade for, når vi arbejder med vores klimatilpasningsplaner.
+
+00:27:55
+Og som Emilie også skulle sige, hvor er det så vi skal have mere grøn?
+
+00:27:58
+Hvor er det vi har den her impamable overflade? Hvor er det vi har mestet den henne?
+
+00:28:03
+Det var vores politikere faktisk ret glade for at se, fordi det gav lige pludselig sådan en sammenligning på tværs af byen i de forskellige inddelte kvarterer.
+
+00:28:16
+Og der kan det godt være, man siger, hvor er det byen vi skal plante henne?
+
+00:28:20
+Har vi en ambition om vi skal have 30 procents kronedæk i alle de her 21?
+
+00:28:25
+eller er det måske et mål om, at vi øger til 20 procent kronedækket i vores erhvervsområder?
+
+00:28:33
+Det kan også være, men det er jo med til at give vores politikere noget at beslutte ud fra.
+
+00:28:42
+Så fik vi også den her historiske analyse, og den blev præsenteret for vores byplansafdeling, vores baneafdeling, Den giver et rigtig godt billede af, at byen er vokset, og træerne er ikke fuldt med.
+
+00:28:58
+Det grønne areal er heller ikke fuldt med. Men det er pænt med blå overflader.
+
+00:29:05
+Infrastrukturen og til store bygningsflader er i den græslede.
+
+00:29:11
+Så det har ligesom også givet os nogle værktøjer for, hvordan vi tænker på den fysiske planlægning fremadrettet.
+
+00:29:17
+Hvad er det, vi skal være mere opmærksomme på?
+
+00:29:20
+Udover at vi skal plante flere træer, skal vi måske sikre mere kvalitet i det enkelte område med at vi får udelagt nogle større grønne områder.
+
+00:29:29
+Også i forhold til klimasikring.
+
+00:29:33
+Vi har et meget godt eksempel her ude fra Nørrebjerg i Kørlingen NordVest.
+
+00:29:40
+Med et forholdsvis nybygget boligkvarter og parcelhuskvarter.
+
+00:29:46
+Hvor der ikke er mange træer at finde endnu.
+
+00:29:50
+De har søgt nogle midler til at få plantet nogle flere træer.
+
+00:29:53
+Der er blevet klaret lidt over omkring en lidt for høj kørsel igennem kvarteret.
+
+00:29:58
+Alt sammen noget, man måske kunne have mindsket ved, hvis man havde fået plantet nogle flere træer fra starten af og fået lagt det ind i samtalerne med byggeherre, når man udviklede den der lokalplan i sin tid.
+
+00:30:13
+Men det er et rigtig godt eksempel på, hvordan der er det hygienestående for kolding.
+
+00:30:16
+Det er noget, vi ser rundt over hele landet.
+
+00:30:19
+at det er den her tendens, vi ser, at man får bygget sit parcelhus, men at få udstyret flest muligt grunde, men der ligger ikke så meget til fællesskabet.
+
+00:30:29
+Der er ikke det grønne strøg, de grønne kiler igennem boligkriterierne, som måske kan være med til at løfte nærmiljøet lidt.
+
+00:30:39
+Alt det her, det ledte os ind i den her snak omkring 3.300-reglen og den her grundlæggende, hvad havde det?
+
+00:30:49
+analyser af vores kronedække.
+
+00:30:51
+Det gjorde så, at vi blev kontaktet af Cecil Kondijndijk om, om vi kunne tænke os at deltage i projektet Yggdraxel, et nordisk projekt, der var støttet af Nordisk Ministerråd.
+
+00:31:01
+Og den undersøgte de her dataer yderligere uden for de 3.300 principper.
+
+00:31:06
+Det gav en lidt mere detaljeret datagrundlag, men faktisk rigtig godt sammenlignet med dataen fra Grønt Aftryk, fra Emilius, fra EITRI.
+
+00:31:16
+Så det var også ret spændende for os, fagpersoner at se, at det er rigtig validt data, vi får fra I3.
+
+00:31:25
+Her kan man se lidt af det samme. Det her er lidt mere detaljeret. Det er fra projektet Y-Draxil.
+
+00:31:30
+Med den her 30% kronedække. Hvor er det, vi har et lavt kronedække henne i Kolding?
+
+00:31:36
+Hvor er det, vi har et noget højere niveau? Vi kan se nede i den sydlige del, der er den rød.
+
+00:31:43
+Det er et nybygget boligkvarter. Der er kronerne ikke blevet så store endnu.
+
+00:31:48
+som også Emilie fortalte. Det skal jeg lige have nogen over på banen, før jeg debatterer.
+
+00:31:53
+Men faktisk rigtig godt sammenlignet med kortene fra Grønt Aftryk fra Emilie.
+
+00:32:01
+Det her er dog målet ud fra hver enkelt udstand, hver enkelt bygning, hvor man har gået ud og taget 500 meter ud fra hver bygning og set, hvor mange større træer er der her.
+
+00:32:15
+Hvor meget kronen ligger der ude for hver.
+
+00:32:19
+Det giver nogle fokuspunkter i byen, hvor der er den største gap for at komme op på de 30 procent.
+
+00:32:29
+Det giver også nogle fokuspunkter og er rigtig godt sammenlignet med data i Firetree.
+
+00:32:38
+Hvis vi så ikke gør noget, som Emilie også var inde på, så skaber vi Urban Heat Islands.
+
+00:32:46
+Hvis vi ikke gør noget, kan vi stille og roligt se, at vi får en varmere og varmere by.
+
+00:32:53
+Og et eller andet sted kan vi godt lide talemådet, at alle har ret til skygge.
+
+00:32:59
+Det kræver, at vi får indtænkt den her planlægning af flere træer i bedre kvalitet, altså bedre plantehuller, fremadrettet, så vi netop kan komme forkant og gøre os mere klimarobuste fremadrettet foran de køle byerne.
+
+00:33:17
+Det var.
+
+00:33:17
+Sådan det, jeg havde. Mange tak for det begge to. Det var virkelig nogle gode oplæg.
+
+00:33:30
+Jeg har i hvert fald sat en masse tanker i gang hos mig om, hvad for nogle muligheder, man kan bruge.
+
+00:33:39
+Der er ikke lige nogen spørgsmål i chatten endnu, men jeg kan jo godt lige starte lidt.
+
+00:33:46
+og tænkte lidt på, hvordan, jeg ved ikke, hvem af jer der kan svare, men I har jo sammenlignet, eller lavet det her trætte data for rigtig mange parametre, men jeg tænker på, hvordan forholder det sig egentlig til befolkningstæthed?
+
+00:34:02
+Fordi man tænker jo sådan, at altså, er der en trend der, at jo mere, altså jo højere befolkningstæthed, jo lavere trækroner, eller sådan noget, jeg synes, det er jo ikke helt til at gennemskue.
+
+00:34:18
+I nogle af de områder i Kolding, hvor vi har en stor densitet i befolkningen, har vi faktisk også store grønne områder.
+
+00:34:31
+Vi kan se, at der er en større bevågenhed fra boligselskaber og grundejerforeninger, med at de gerne vil bevare de store træer også.
+
+00:34:42
+Der kommer større ønske fra de beboere, der bor i de ejendomskomplekser.
+
+00:34:47
+at de gerne vil have det mere grønne, at de gerne vil bevare det grønne.
+
+00:34:51
+Men det er klart, at der er store grønne flader mellem de her ejendomme, og ikke så mange træer pr.
+
+00:35:00
+borger, når man tænker på, at der er så mange, der bor så tæt. Det er rigtigt.
+
+00:35:06
+Så der er ikke mange træer pr. borger i de her boligområder.
+
+00:35:11
+Men jeg synes, at tendensen, vi oplever her i Grønland Kommune i hvert fald, det er, at der er større bevogenhed, Når vi kommer ud med de her kampagner, som Emilia og Grønt Aftryk har leveret data til, så skaber det den her bevågenhed.
+
+00:35:27
+Det skaber det her større interesse.
+
+00:35:30
+Det er jo lækkert, når man sidder som grøn strategisk planlægger og bliver ringet op af de her ejendomsudviklere, som gerne vil have et møde, fordi de gerne vil gøre deres områder grønnere.
+
+00:35:41
+Det ved vi godt, det handler måske bund og grund om økonomi.
+
+00:35:45
+Det er meget med, at de tænker, at træerne og de fordele, de har, er deres.
+
+00:35:50
+Boligområde. Det vil blive suppleret, Emilie. Det er meget forskelligt fra kommune til kommune.
+
+00:35:58
+Nogle kommuner følger den tendens, at det, hvor der er størst befolkningstæthed, er det, hvor der er lavest grundægge.
+
+00:36:05
+Jeg har også set mange eksempler på, at det ofte står værre til, især i deres industrikvarterer, eller også i nogle af deres yderbyer.
+
+00:36:18
+Så det er ikke altid, at det følger det.
+
+00:36:21
+Billede.
+
+00:36:22
+Lige nu har vi stor fokus på erhvervsområderne, fordi vi kan se, at krondækket er lavere i erhvervsområderne.
+
+00:36:33
+Så det ligger ligesom op til, kan vi køre en eller anden form for noget samarbejde med erhvervslivet, hvor vi kan udvikle deres restarealer, det der endnu ikke er bebygget eller befestet.
+
+00:36:46
+Og der ligger et kæmpe potentiale derude.
+
+00:36:49
+Så hvis vi kan bidrage med i den dialog med erhvervslivet om at få plantet og få gjort det nemmere rent administrativt, komme igennem med noget mere begrænning i de her arealer og områder.
+
+00:37:06
+Og der er rigtig gode, positive tak allerede. Okay.
+
+00:37:12
+Tak for det.
+
+00:37:13
+Der er kommet et spørgsmål, og det lyder, har man i Kolding implementeret træstrategien i lokalplanerne, kommuneplanrammerne?
+
+00:37:22
+Er der konkrete krav, f.eks. den der 330-300? 3.300.
+
+00:37:28
+Er ikke implementeret endnu.
+
+00:37:31
+Vores bynaturplan, som vi sidder og lægger næsten sidste hånd på nu, kommer til at bygge på 3.300.
+
+00:37:39
+Det, vi gør nu i forhold til den fysiske planlægning, er.
+
+00:37:44
+At.
+
+00:37:44
+Vi arbejder på at klæde vores planafdeling på med den mest mulige viden til at kunne gå ind i de her dialoger, de har med byg her.
+
+00:37:55
+Jo mere viden, vi propper på dem og samler ind, nede i planafdelingen, jo stærkere står de også i forhold til snakket med byg her.
+
+00:38:03
+Og det er blandt andet det her dataanalyse, både fra Emilie, men også fra Projekt Ytres selv, som de har fået stillet til rådighed.
+
+00:38:12
+Men bygneturplanen kommer til at hvile på de der principper fra 3.30 og 300-reglen, så det vil implicit blive indarbejdet på sigt.
+
+00:38:21
+Som vi kunne se på den der historiske analyse, som Emilie har udarbejdet for os, så har vi lidt at leve op til.
+
+00:38:30
+Vi har lidt, vi skal bevise i hvert fald.
+
+00:38:34
+Og vi lover heller ikke helt godt, når vi benchmarker os med andre byer.
+
+00:38:37
+Det er vi heller ikke glade for. Vi ligger også ret langt ned på vores naturkapitalindeks.
+
+00:38:44
+Men det er jo fint. Vi ser det ikke som noget negativt.
+
+00:38:47
+Vi ser det som en mulighed for, at vi kan gøre det bedre.
+
+00:38:51
+Og så om nogle år, når vi så får Emilie ind over igen til at tage nogle flere analyser for os, Så lægger vi jo skoene forhåbentlig.
+
+00:38:58
+Også lidt bedre. Godt. Så bliver der spurgt.
+
+00:39:04
+I Aarhus Kommune stiller vi krav om, at udviklere skal registrere og vurdere træer i et område, inden vi går i gang med lokalplanlægningen.
+
+00:39:12
+Kan vi bede udviklere om at bruge i3 til den her registrering? Jeg.
+
+00:39:17
+Tror ikke, at man kan gøre det som decideret krav på den måde, men man kan sige, at de skal bruge værktøjer som iTree eller lignende.
+
+00:39:27
+Jeg tror aldrig, du må diktere at det skal være det ene værktøj, man bruger.
+
+00:39:34
+Jeg tror godt, man kan stille krav om, at de skal lave undersøgelsen.
+
+00:39:39
+Så er det bare, hvordan de gør.
+
+00:39:41
+Det. I forhold til den fysiske planlægning, så... I Svendborg Kommune har man bl.a.
+
+00:39:49
+arbejdet godt med at tage en positiv dialog.
+
+00:39:53
+med den pågældende bygherre, når vi ser til første møde, med bygherre i forhold til at udvikle et givende areal.
+
+00:40:01
+Det gør vi også her i Kolding Kommune.
+
+00:40:04
+Det gør meget, at man får overbragt den her viden omkring træer, og hvad træernes fordele rent faktisk er.
+
+00:40:13
+Som Emil rigtig fint viste os, Hvad kan det reducere i forhold til udgifter? Altså rent økonomi.
+
+00:40:21
+Der er også noget at hente på det. Plus udover det sociale. Og reducering af stress.
+
+00:40:28
+Altså de her fordele, der nu er med træerne.
+
+00:40:30
+Og ikke bare have fem nye små træer i stedet for de der to kæmpe store træer.
+
+00:40:37
+Så kommer man altså langt. Men byggeherre skal jo gerne klædes på med noget viden også.
+
+00:40:43
+Det er ikke kun vores politikere, det er lige så meget, at man har den her Positiv dialog med udviklere.
+
+00:40:50
+Har.
+
+00:40:51
+I haft holdt temamøde for politikerne, hvor Emilie har været? Hvordan har I gjort det?
+
+00:40:58
+For at få det ind under hovedet hos politikerne?
+
+00:41:03
+I Kolding Kommune har vi brugt det her data, som vi har fået fra Emilie, og har præsenteret det på udvalgsmøderne.
+
+00:41:11
+Der er to udvalg, der har været med til at beslutte den her træstrategi.
+
+00:41:15
+Der har vi lavet en status, Og hvis der havde været data inden for Emilie, så var jeg hen og holde oplæg for begge udvalg.
+
+00:41:23
+Det har jeg gjort to gange for hvert udvalg.
+
+00:41:26
+I og med at der er kommet nogle mere data på fra Emilie. Så politikerne er på forlagt alt det her.
+
+00:41:35
+Vi er rigtig heldige i Kolding Kommune, at vi har nogle politikere der på tværs af hele byrådet, der synes det er enormt spændende.
+
+00:41:42
+Det kan jo være, at man har nogle holdninger og nogle politiske mærkelser inden for omkring økonomi, klima, sundhed.
+
+00:41:49
+Jamen, det her med træerne, det taber jo ind i mange politiske fokusområder.
+
+00:41:56
+Så vi oplever store opbakninger.
+
+00:41:58
+I og med, at vi har fået den her data til grundlag fra Emilie og Grøn Aftryk, jamen, så har vi også kunne vise, hvad er det, vi skal arbejde ud fra, som jeg fortalte.
+
+00:42:07
+Og det har så givet, at nu har vi jo mega stor fokus på, Det er en megastor fokus på, at vi skal have den her træstrategi ud og omsættes til handling.
+
+00:42:18
+Og der har vi så kunne opleve de her budgetforhandlinger, der har været positive.
+
+00:42:25
+Så i Kolding Kommune er det et rigtig rart sted at arbejde med træer.
+
+00:42:30
+Ja, det lyder godt. Så er der et spørgsmål til Emilie.
+
+00:42:34
+Du viste, at der var målt et stort fald i registreringen i Viborg. Hvad.
+
+00:42:39
+Svarede Viborg til dette? Ja, de var ikke overrasket over faldet.
+
+00:42:49
+De havde det godt lidt på fornemmelsen. Nu er selve Viborg-projektet meget nyt.
+
+00:42:55
+Det er først lige blevet færdiggjort nu her, så de har ikke haft så meget tid til at arbejde med det og til at få orienteret deres politikere osv.
+
+00:43:05
+Jeg ved, at planen med det her projekt var, at det skulle danne grundlag for en træstrategi.
+
+00:43:12
+så netop for at få gjort noget ved de her tal og det her store fald, som der var.
+
+00:43:18
+Så ja, de var ikke glade for det, men ikke overrasket.
+
+00:43:21
+Og jeg synes, det er vigtigt at understrege, at de lave tal, de negative fald, de store tab, de her ting, det er jo noget af det, man virkelig skal bruge som ammunition, når det er, at man skal snakke med politikere, og borgere og beslutningstagere osv.
+
+00:43:39
+Det er virkelig det, der kan få lidt konkurrencegenet ind i dem, og det, der kan gøre, at der bliver sat nogle ekstra midler og ekstra ressourcer af til det.
+
+00:43:49
+Så selvom man måske ligger lavest, så er det måske det, der gør, at du får 5 mio.
+
+00:43:54
+ekstra område til at plante nogle flere træer.
+
+00:44:01
+Jeg tænkte på, at du nævnte lidt det her med, at det også er i private haver, at man ser et fald i træer.
+
+00:44:09
+Hvad søren kan man gøre ved det? Fordi man kan jo ikke bestemme, hvordan folk indretter deres have.
+
+00:44:14
+Nej, altså der.
+
+00:44:15
+Er virkelig sket et stort skifte.
+
+00:44:18
+Det ser vi, når vi kigger på generelt, ikke kun i Kolding, men også de andre historiske analyser.
+
+00:44:23
+Det er især, førhen i tiden var der selvfølgelig både flere træer i haven, men også især i folks hække.
+
+00:44:30
+som afskærmning ind mod hinanden, var der ofte træer, som nu er blevet fældet.
+
+00:44:37
+Det er svært at gå ind på privat jord og sige, hvad man skal gøre ved det, hvis ikke man har gjort det på forhånd i lokalplanen med, at der skal være x antal procent i kronedækket, eller de her træer er gjort bevaringsværdige osv.
+
+00:44:52
+Men jeg tror helt klart, som Henrik også var inde på, at det her med dialogen og oplysningen omkring det er det vigtigste.
+
+00:44:59
+Det som vi prøver at gøre, det er jo blandt andet de her skilte, for at prøve at informere borgerne omkring nogle af alle de her fordele.
+
+00:45:06
+Fordi der er mange af dem, de har godt hørt noget med noget CO2, men er ikke helt inde i det.
+
+00:45:11
+Så jeg tror virkelig, at nogle af de her borgerinddragelsesprojekter med skilte og skattejagt.
+
+00:45:16
+Jeg ved, at der er også nogle kommuner, der kører, hvor man kan komme ud og få et gratis træ, som man kan plante hjemme i haven.
+
+00:45:22
+Nogle af de her ting, altså aktiviteter med inddrag til at gøre folk opmærksomme på det, det tror jeg virkelig batter.
+
+00:45:30
+Meget.
+
+00:45:31
+Vi har også igangsat en hel række indsatser efter den her wake-up-call fra Emilie om, hvor Slemborgs Grønneby indtagelsen står til.
+
+00:45:42
+Det har faktisk medført en hel del indsatser. Blandt andet den her træssefari, som vi havde.
+
+00:45:50
+Treetrack-kampagnen, og den der EU-kampagne også, og den her træens økosystemer med de her skilte, som du også viste, Emilie.
+
+00:45:58
+Og vores politikere har lige foreslået i juni sidste år, om vi ikke skulle kåre årets træ.
+
+00:46:05
+Og det var også noget af det, vi havde sat i pipeline for, at det var også noget af det med at skabe awareness, bevågenhed for træerne.
+
+00:46:14
+Så det har vi lige sparket i gang her i fredags, købet sådan en indstillingsplan, Og det er bare...
+
+00:46:20
+Det er rart at mærke, at man ikke skal sidde og løfte det her alene.
+
+00:46:23
+Man har fået nogle valide datagrundlag, og kunne klæde nogen på i sit arbejde.
+
+00:46:29
+Og som så selv træffer nogle beslutninger. Altså nogle politikere, der træffer nogle beslutninger.
+
+00:46:33
+Og indtil der kommer nogle idéer og arbejder videre med det. Det gør rigtig meget.
+
+00:46:38
+Så sidder vi ikke med det alene. Der er god opbakning opfra.
+
+00:46:43
+Men det er jo så baseret på, at vi har fået valgt fra starten af at sige, Vi skal vide, hvad det er, vi arbejder udefra.
+
+00:46:51
+Når vi går til politikerne og kommer med en status for, hvordan står det til i Kolding Kommune, så er vi nødt til at vide, hvad det er, vi ser udefra.
+
+00:47:01
+Det har gjort hele forskellen for vores arbejde, at vi fik taget hul på den her træstrategi gennem Emilie's arbejde.
+
+00:47:12
+Det.
+
+00:47:13
+Er en tilgang, hvor man netop kan inddrage borgerne og køre den på lidt mere frivilligt og prøve at overbevise dem og tage dialogens vej.
+
+00:47:22
+Jeg har også arbejdet med andre kommuner, som har kørt den mere stringent eller trumfet igennem og lavet nye lokalplaner og været inde og gjort en masse træer bevaringsværdige inde i folks private haver.
+
+00:47:36
+Det er jo en noget mere upopulær beslutning.
+
+00:47:39
+Men nogle gange er det nogle af de svære beslutninger, der skal til.
+
+00:47:44
+Så der er forskellige tilgange, som man kan.
+
+00:47:46
+Tage til det. Der er kommet lidt spørgsmål.
+
+00:47:52
+Mærker I et behov for efteruddannelse af nuværende ingeniører med flere inden for den grønne omstilling?
+
+00:47:59
+Findes fagligheden hos dem, der skal have den? Og skal de have den?
+
+00:48:05
+Personligt synes jeg godt, at der måske skulle være noget efteruddannelse, nok især hos dem, som ikke har den grønne baggrund, men som er bygningsingeniør eller udviklere, og det er ikke fordi, de behøver at vide en masse om iTree på den måde, men hvis de bare kunne få kort viden omkring alt det gode, som naturen også giver, og hvordan det også ville kunne hjælpe dem i den anden ende med højere huspriser, Og nogle af de her gode ting, så de får oplysning om det.
+
+00:48:36
+Vi kan ikke rigtig bebrege dem, for nogle af de valg, de tager, hvis ikke de er oplyste omkring, hvad det er, det vil give at tilvælge natur og træer.
+
+00:48:45
+Fordi mange af dem ser det jo bare i øjeblikket som ekstraudgifter.
+
+00:48:49
+Så ja, en form for efteruddannelse eller små kurser, tænkte jeg helt klart kunne hjælpe.
+
+00:48:55
+Godt at vi har set med.
+
+00:48:56
+I dag. Ja.
+
+00:48:58
+Vi oplever det helt klart, når bygherre kommer og har et givet boligområde, som vi også har i Kolding, som eksempel, men et boligområde, så er du klar, så benytter han eller hun også af nogle eksterne konsulenter, og det kunne være fint, hvis de kunne være med til at klæde bygherre på til at sige, jamen altså, hvis vi har et eksterntal procent grønt, grønne kiler ind, så øger du faktisk værdien af din grønne.
+
+00:49:26
+Du øver dine erboer herude, du gør det mere attraktivt.
+
+00:49:30
+Gør det nemmere at sælge den grunde, for den sags skyld.
+
+00:49:34
+Så vi allerede der begynder at få et incitement fra bygherrer til at sige, at vi arbejder med det fra kommunens side af, men hvis bygherrer også bliver klædt på gennem sine rådgivere.
+
+00:49:46
+Så jo, lidt efteruddannelse kunne være fint, eller lidt mere bevågenhed omkring træernes vigtige rolle.
+
+00:49:53
+Vi kan desværre se på den historiske udvikling i Kolding Kommune.
+
+00:49:56
+Den har nok ikke været til stede i alle projekter.
+
+00:50:01
+Et spørgsmål mere. Hvad koster det at få udarbejdet en træstrategi?
+
+00:50:07
+Det er måske Folding, der udtaler.
+
+00:50:12
+For meget. Vi har benyttet os af... Nu skal man sige, at træstrategien blev udviklet før jagt.
+
+00:50:19
+Det kommer an på, Har man en strategisk planlægger ansat i kommunen, som kan påtage sig arbejdet, så kan man holde en del af ressourcerne internt.
+
+00:50:30
+Skal man ud og have eksterne konstudenter til, så er det jo klart, så koster det jo lidt.
+
+00:50:35
+Men det er også værd godt givet ud, for så får man den seneste viden.
+
+00:50:40
+Det kan være arborister, det kan være nogle eksperter, som Emilie eller andre, man kan få ud til.
+
+00:50:52
+Kvalitetssikret er den strategi, man laver. Det koster noget.
+
+00:50:56
+Man skal også tænke på, hvad man får ind på den anden side. Jeg.
+
+00:51:04
+Tror også, det kommer meget an på...
+
+00:51:06
+Nu snakker vi meget med Viborg Kommune, og de skal i gang med deres træstrategi.
+
+00:51:12
+Jeg tror også, det er meget, hvad man vil med det.
+
+00:51:13
+De var ikke sikre på, om det bare skal være fem sider lang. Og helt kort.
+
+00:51:21
+og bare være til os, eller er det en, der er 100 sider lang, og skal indeholde alt muligt, og administrationsgrundlag også, og de her ting.
+
+00:51:30
+Så jeg tror også, det er meget, hvad man vil, hvor meget man vil, hvor meget man vil gøre ud af.
+
+00:51:35
+Det. Altså ambitionsniveauet, det er helt klart et omdrejningspunkt.
+
+00:51:41
+Vi har valgt at gå videre med vores træstrategi og omsætte den til handling, hvor vi lige netop nu er ved at lægge sidste hånd på hele administrationsgrundlaget for, Vi arbejder med træer rundt omkring i forvaltningen, når vi ikke kan grave til.
+
+00:51:54
+Når der skal plantes nyt, hvad størrelse plantehuller skal der være.
+
+00:52:00
+Hvordan arbejder vi med risikotræer? Hvordan arbejder vi med gamle træer?
+
+00:52:05
+Alt sådan noget, så vi får et helt stort kompendium i juni, lagt ud.
+
+00:52:12
+Det, som jeg også virkelig...
+
+00:52:14
+gerne ruse calling for os, som jeg synes, hvis der er nogen derude, der sidder og skal i gang med en træstrategi, I var gode til at opsætte nogle mål i og nogle ting, der ligesom skulle gennemføres.
+
+00:52:25
+Der er mange, der laver strategier, og så er det bare sådan en ting, nu har vi lavet den, og så ryger den lidt ned i skuffen, og så kommer den ikke videre derfra.
+
+00:52:32
+Men I var virkelig gode til at sætte nogen om enden.
+
+00:52:35
+Og det her, der skal vi have lavet de her projekter.
+
+00:52:38
+Og inden det her år, der skal vi have gået i gang med det her.
+
+00:52:40
+Så det der med at sætte nogle konkrete mål op, der ligesom tvinger en til at blive ved med at arbejde med strategien, det er virkelig vigtigt for, at den ikke bare ryger igennem i glemmebogen eller ned i skuffen.
+
+00:52:52
+Vi var.
+
+00:52:52
+Ret uheldige med vores træstrategi, fordi den blev faktisk vedtaget samme dag som landet blev lukket ned på grund af corona.
+
+00:52:59
+Så den fik et rigtig svært start. Så det var noget af en opgave at skulle løfte.
+
+00:53:03
+Ikke fordi der ikke var blevet arbejdet med den, men det er jo klart, at hele situationen omkring corona gjorde jo, at der var andre prioriterer.
+
+00:53:11
+Men altså, den grad at komme ud over rampen og have medført rigtig meget.
+
+00:53:17
+Arbejde, det er jo godt arbejde.
+
+00:53:21
+Emilie, har du eksempler på nogle af de lokalplaner, der er udarbejdet for at.
+
+00:53:27
+Beskytte træer? Ja, jeg har lidt forskellige eksempler.
+
+00:53:33
+Rødovre Kommune har udvalgt en enkelt lokalplan. Nu kan jeg ikke huske det præcise nummer.
+
+00:53:40
+Det er, hvor der var en eksisterende lokalplan, og så laver de en ny, hvor de går ind og gør de træer bevaringsfærdige af de største træer, de har.
+
+00:53:51
+Det er inde på folks private grunde.
+
+00:53:54
+Hvorimod fx i Ringsted, da jeg arbejdede der, der skulle en ny lokalplan til for et uddannelsesområde, et VUC-område, som skulle udvides og gøres meget større.
+
+00:54:09
+Der gik vi ind på forhånd, og alle de træer, der var derude, også selv de helt små osv., dem gjorde vi faktisk bevaringsfærdige.
+
+00:54:19
+Altså også træer, der ikke var mere en fire meter høje, og måske kun de var gået i gang.
+
+00:54:25
+Men der gik vi ud og registrerede de træer, og skrev dem ind i lokalplanen, og udvalgte en masse, og gjorde dem bevaringsfærdige.
+
+00:54:33
+Jeg tror, vi endte med, jeg ved ikke om det var 100 eller 150 træer, der blev gjort bevaringsfærdige.
+
+00:54:39
+Så det er måske lidt en unik... Det ser jeg i hvert fald ikke så mange steder.
+
+00:54:45
+Så er der en kommentar her fra Vigo. Det er vigtigt, at en strategi er målbar og tydelig.
+
+00:54:54
+I Københavns Kommune har vi lavet en temalokalplan for Rosenvinget på Østerbro for at udpege bl.a.
+
+00:55:00
+private træer og kommer snart med en til for et område i Valby.
+
+00:55:05
+Det møder forståelse, men også enkelte modstandere.
+
+00:55:08
+Den store udfordring er dog, at det grønne ikke har en stemme, Der er et krav på lige med brand, renovation, parkering og lignende.
+
+00:55:16
+Det grønne kommer desværre sidst på arealer i udviklingen. Ja, det kender vi på en anden måde.
+
+00:55:24
+Det er godt, at der er nogen, der råber op om, at vi skal huske alle de positive ting, der er ved det.
+
+00:55:30
+Grønne.
+
+00:55:32
+Det er jo det, som vi prøver, og netop det, som jeg synes, der var så fedt, da jeg først hørte om, om iTree og deres arbejde, netop der med at få sat kroner og ører på det, fordi det giver os lidt en anden stemme, når det er, at vi skal diskutere, hvor det er, at midler og ressourcerne skal lægges.
+
+00:55:50
+Om det er parkering, eller om det er SFO-pladser, eller renovation, eller hvor det nu er.
+
+00:55:56
+Fordi førhjælpende, det er nemlig, at vi kom sidst, hvor jeg føler, at nogle af de her tal, det er lidt mere til at ændre det billede, og mere til at presse os lidt mere ind, og at man nogle gange måske også kan kombinere, f.eks.
+
+00:56:09
+parkering, over træer.
+
+00:56:12
+Nu kan I se Holm-Aalstrup-by, som jeg viste, der havde det højeste kronedække i Næstved.
+
+00:56:18
+Grunden til, at det lå så højt, var på grund af bongbongland.
+
+00:56:22
+Hele deres kæmpe parkeringsarealer havde de dækket til i træer.
+
+00:56:26
+Så det var bredt til en rimelig stor miniskov.
+
+00:56:31
+Det gjorde utrolig meget for deres kronedække, at de så har valgt at fælde det efterfølgende.
+
+00:56:39
+Det er en anden sag, samme steder, hvor de har stået.
+
+00:56:42
+Nogle gange kan man godt have plads til begge dele. Det er også.
+
+00:56:49
+Vigtigt, jeg ved, at Aarhus Kommune regner også.
+
+00:56:53
+Nu snakker vi om træer, men hvis vi skal undgå healing islands i byerne, så vil Aarhus Kommune arbejde med en værdisænding af krat.
+
+00:57:03
+Krat er også vigtigt for at øge den grønne struktur i byerne.
+
+00:57:06
+og skabe noget bevågenhed og opmærksomhed omkring kraft og det grønne.
+
+00:57:12
+Så det sker rigtig meget rundt om i kommunerne nu, og det er så fedt, at vi kan lydensdele, eller drage nyt af nogle eksterne konsulenter, som kommer rundt og snakker med mange, der mangler.
+
+00:57:23
+Det gør bare rigtig meget, at vi står lidt stærkere med lidt flere redskaber i kassen, når vi skal planlægge fremadrettet.
+
+00:57:36
+Ja, men jeg tror, der er ikke mere i tjernet, så jeg tror bare, jeg vil sige rigtig mange tak, fordi I ville være med i dag.
+
+00:57:49
+Det var spændende at høre jeres oplæg. Og mange tak til alle dem, der har lyttet med derude.
+
+00:57:58
+Og som sagt, så bliver det optaget og kommer til at blive publiceret, man kan finde det via Det er DNK's hjemmeside.
+
+00:58:07
+Så man kan gå ind og gense eller dele det til dem, man tænker, der skulle kunne få noget ud af at se oplægget her.
+
+00:58:15
+Tak for i dag.
+

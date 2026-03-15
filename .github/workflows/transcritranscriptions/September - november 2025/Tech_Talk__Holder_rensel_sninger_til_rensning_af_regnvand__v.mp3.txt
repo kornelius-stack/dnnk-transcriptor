@@ -1,0 +1,984 @@
+00:00:11
+På vegne af DNNK vil jeg gerne byde velkommen til dagens Tech Talk.
+
+00:00:17
+I teknikken sidder Morten Halling, og jeg, Christoffer Sindby, er dagens vært.
+
+00:00:22
+På god ordens skyld skal jeg sige, at Tech Talken bliver optaget og lagt på DNNK's hjemmeside i løbet af en uge.
+
+00:00:29
+I lige forhold til det praktiske, så kan I som altid stille spørgsmål løbende under Tech Talken, og så vil vi samle dem sammen og tage dem op i slutningen af Tech Talken.
+
+00:00:38
+Dagens Tech Talk er med Brian Borum, som vil snakke om, hvordan man holder renseløsninger til rensning af regnvand med ScanPipe Klima.
+
+00:00:49
+Med det vil jeg byde dig, Brian, velkommen og give ordet videre.
+
+00:00:54
+Velkommen til, og værsgo.
+
+00:00:57
+Tak, Christoffer.
+
+00:00:59
+Velkommen til jer derude.
+
+00:01:01
+Tanken med dagens indlæg er at dele de erfaringer og udfordringer, som vi oplever i det her marked med tekniske renseløsninger.
+
+00:01:14
+Jeg har formentlig mødt en del af jer, eller talt med en del af jer, men til dem af jer, som ikke kender ScanPipe Klima, så ganske kort.
+
+00:01:24
+Vi er en gruppe under ScanPipe, som sidder med projekter inden for klimatilpasning.
+
+00:01:31
+Det er hovedsagelig håndtering af regnvand.
+
+00:01:34
+Det kan være Plantering af skybrud, det kan være opmagasinering, det kan være drosling.
+
+00:01:42
+I det her tilfælde er det rensning af regnvand, som vi kommer til at tale om.
+
+00:01:48
+Vores rolle i markedet er at kigge bredt ud, hvad der findes af produkter.
+
+00:01:56
+Hvad er de bedste teknologier til at komme i mål med de udfordringer, som forsyningerne sidder med i forhold til at skulle rense inden udløb.
+
+00:02:06
+Det sidder vi i en gruppe, som er sammensat af forskellige personer.
+
+00:02:12
+Nogle har en ingeniør- og teknisk baggrund, og nogle har en erfaring fra markedet.
+
+00:02:18
+Det vi forsøger at gøre, er at være uafhængige på markedet.
+
+00:02:25
+Så vi kan fremkomme med de bedste løsninger til det enkelte projekt, som en uafhængig samarbejdspartner.
+
+00:02:35
+Vi opererer i feltet mellem rådgiver, kommuner og forsyninger.
+
+00:02:42
+Det gør vi, fordi de fleste af de projekter, vi håndterer, starter hos forsyningerne.
+
+00:02:49
+De har en recipient, de skal have udlægt regnvand til.
+
+00:02:54
+Nogle krav fra kommunen, og måske en rådgiver indenom, som skal hjælpe med at lave en løsning, så forsyningen kommer i mål.
+
+00:03:05
+Vi forsøger at være samarbejdspartner i det her felt.
+
+00:03:10
+De erfaringer, som vi har gjort os, og de udfordringer, som vi ser, er nogle af dem, som vi godt kunne tænke os at dele med jer.
+
+00:03:19
+Forhåbentlig har I nogle spørgsmål undervejs.
+
+00:03:21
+I har måske også nogle erfaringer, som I har lyst til at dele.
+
+00:03:24
+Det skal I være meget velkomne til.
+
+00:03:26
+Det er en invitation til en dialog.
+
+00:03:33
+Hvis vi starter med at kigge på markedssituationen, så er grænseløsninger til regnvejl et felt, hvor der sker noget hele tiden i øjeblikket.
+
+00:03:43
+Der er en udvikling, der går enormt stærkt.
+
+00:03:46
+Der kommer rigtig mange nye produkter.
+
+00:03:49
+Det betyder, at vi sidder og kigger ind i alle de her nye produkter for at prøve at blive kloge på, hvilke teknologier passer til hvilke udfordringer.
+
+00:04:00
+Noget af det, vi støder på som en udfordring, det er, at produkterne kommer fra forskellige lande, og at de har forskellige testmetoder til at validere den rense-effektivitet, som produktet har.
+
+00:04:19
+Når man så har et marked, som skriger efter høje renseprocenter, og et marked, som også skriger efter nogle muligheder for at kunne sammenligne de her produkter, så oplever vi, at det bliver lidt et kapløn om at præsentere den højeste renseprocent.
+
+00:04:41
+Vi kommer lidt tilbage til det, men det er en ret stor udfordring.
+
+00:04:49
+Fordi den måde, man markedsfører sit produkt på, er typisk, at man har en rense evne, som måske hedder, vi renser op til 99 procent, eller vi overholder den og den godkendelse, eller vi tilbageholder så mange procent TSS.
+
+00:05:14
+Det er der som udgangspunkt ikke noget forkert i.
+
+00:05:17
+Udfordringen ligger i, at det er på forskellige grundlag, som gør det enormt svært at sammenligne produkterne.
+
+00:05:28
+Nogle af de ting, som vi kan se, der måske ikke bliver taget hensyn til, det er en differentiering mellem sedimenter og opløste stoffer.
+
+00:05:39
+Årsagen til, at vi ser et behov for at have en kraftig differentiering mellem de to, er, at når vi taler effektive sedimenteringsløsninger, så har vi typisk med et ret stort opland at gøre.
+
+00:05:54
+Vi har også typisk et relativt højt Hydraulisk flow.
+
+00:06:00
+Og når vi taler opløste stoffer, så er de løsninger, der er lavet til det, typisk nogle, som er beregnet til mindre oplandning og et væsentligt lavere flow.
+
+00:06:17
+Så hvis vi kun kigger procenter, så ender vi med at kunne risikere at fremkomme med nogle forkerte løsninger til projektet.
+
+00:06:27
+Noget af det, vi kan se, der mangler hensyn til, er oplandets størrelse.
+
+00:06:34
+Og kategori af opland.
+
+00:06:37
+Hvad er det for en type befestet areal, vi kigger ind i?
+
+00:06:42
+Er det boligområder, industri, vej, eller hvordan er den fordeling?
+
+00:06:49
+Årsagen til det væsentlige er, at der kommer forskellige mængder af sediment fra de forskellige områder.
+
+00:06:57
+og der kommer forskellige typer forurening fra de forskellige områder.
+
+00:07:02
+Når der ikke bliver taget hensyn til flow-kapaciteten, så risikerer vi også, at produkterne, når vi kigger ind i en renseprocent, vi renser 80%, perfekt, det lyder godt, Når man så kigger ind i det, så kan det være, at det produkt renser 80% ved 2,5 liter pr.
+
+00:07:32
+sek.
+
+00:07:33
+Det kan også godt være, at produktet i virkeligheden har en makskapacitet på det tilkoblede opland, som hedder 3.000 kvadratmeter.
+
+00:07:47
+Men man sidder og kigger ind i et behov, der hedder 2,5 hektar.
+
+00:07:55
+Hvis vi i præsentationen af produkterne ikke er ærlige og åbne omkring, hvad kan det her produkt, så risikerer vi at kigge ind i alt for mange forkerte løsninger.
+
+00:08:12
+Noget af det, der heller ikke bliver kigget ind i så meget, før nu er Teknologisk Institut begyndt at teste for restsuspension, altså hvor godt tilbageholder det her produkt, egentlig den forurening, den har fanget en gang, når vi begynder at skrue op for flowet.
+
+00:08:31
+Det er også super væsentligt, for hvis man har en løsning, som er vanvittigt effektiv ved små flows, men enormt følsom for højre flows, så er der bare nogle projekter, hvor det ikke vil være relevant.
+
+00:08:48
+Igen er udfordringen lidt, at det bliver skjult i det data, man modtager.
+
+00:08:57
+En anden ting, som vi ser, varierer meget kraftigt.
+
+00:09:03
+Det er, hvilke fragmentstørrelser, altså størrelsen af sedimenter, er produktet testet ved.
+
+00:09:13
+Og årsagen til, at det er relevant, er, at vi ved, at forurening binder sig hovedsageligt til de små sedimenter.
+
+00:09:22
+Og har man så en test, der viser, at man er rigtig god til at tilbageholdt sediment, men at størstedelen af testen er lavet på sedimentstørrelser, som er større end eksempelvis 100 µm, så har du en mindre effektiv forureningsfjernelse.
+
+00:09:46
+Så det er jo egentlig bare for at gøre det endnu mere forvirrende, at jeg står her nu.
+
+00:09:52
+Det er i hvert fald rigtig svært at gennemskue, Og er vi så heldige at have gennemskuddet det hele, så vi kan lave en løsning, som giver mening i forhold til det opland, som vi står ved, så er der altid nogle udledningskrav, som vi skal imødekomme.
+
+00:10:13
+Noget af det, vi engang imellem støder på, det er grænseværdier.
+
+00:10:18
+Vi har en recipient, og vi har nogle ultimative grænseværdier for, hvad vi kan udlede til den recipient.
+
+00:10:27
+Det er et godt udgangspunkt.
+
+00:10:30
+Hvad kommer der af vand?
+
+00:10:32
+Hvilken forurening er der i det vand?
+
+00:10:36
+Det støder vi aldrig på.
+
+00:10:39
+Det kan være, det er det sikkertste ude, men personligt har jeg ikke stødt på det.
+
+00:10:46
+Det, jeg støder på, er, at vi bliver nødt til at forholde os til generiske typetal, for hvad kan vi forvente, der er?
+
+00:10:57
+Men det betyder også, at det ikke er specifikt for det opladte.
+
+00:11:02
+Det betyder, at vi kommer til at dimensionere en løsning, som tager højde for en hel masse ting, som måske ikke er relevante.
+
+00:11:12
+Så ender vi igen med et større og dyrere andel, end det, der måske giver mening.
+
+00:11:19
+Det er typisk et krav om, at vi skal rense noget, der ligner Ligeså godt som et regnvandsbassin.
+
+00:11:29
+Så er der en liste med stoffer.
+
+00:11:32
+Der er rigtig mange af de stoffer, som der ikke findes testresultater på.
+
+00:11:39
+Fordi det typisk ikke er noget af det, man kigger på fra internationale øjne.
+
+00:11:47
+Nogen af stofferne vil så fremkomme.
+
+00:11:51
+Er vi så så heldige, at kunne komme igennem med at møde de udledningskrav, så er der også en udledningstilladelse på den anden side.
+
+00:12:04
+Noget af det, vi ser i udledningstilladelserne, det er, at der er nogle til tider ret omfattende måleprogrammer koblet på de udledningstilladelser.
+
+00:12:20
+Og nogle dynamiske krav i forhold til, Vi skal leve op til det her, men hvis kravene ændrer sig, så skal det også leve op til det.
+
+00:12:31
+Det er alligevel svært at lave.
+
+00:12:36
+Når vi nu ved, at måleprogrammer er enormt svære at lave, hvis de skal være gode.
+
+00:12:48
+Der er ingen af os, der ved, om kravene ændrer sig.
+
+00:12:54
+kunne det så være en idé måske at gøre det en smule anderledes?
+
+00:12:58
+Det er noget af det, som vi kommer til at tale lidt ind i.
+
+00:13:05
+Først og fremmest, så kunne vi over en bred kamp acceptere, at det her er et ekstremt komplekst område.
+
+00:13:19
+Vi har nærmest 100-vis af forskellige løsninger, forskellige teknologier, og alle har sin plads i markedet, men det afhænger af det enkelte projekt.
+
+00:13:35
+Så hvis vi bliver ved med at jage en renseprocent, som udslagsgivende får, om det er det bedste produkt, så kunne jeg frygte, at vi kommer til at lave nogle forkerte løsninger.
+
+00:13:50
+Hvis vi i stedet for tager udgangspunkt i det enkelte projekt, så er det væsentligt nemmere at lave en skræddsydig løsning med den brede palette af produkter, der findes.
+
+00:14:04
+Jeg vil også gerne slå et slag for, at det kunne give mening at starte med det vigtigste.
+
+00:14:14
+Jeg har været så heldig at møde en masse kloge mennesker i den her branche.
+
+00:14:23
+Og der er bred enighed om, at den største udfordring i recipienterne er toksiske sedimenter.
+
+00:14:31
+Den gode nyhed er, at sedimenteringsløsninger er væsentligt billigere, end hvis vi skal ind og fjerne de opløste stoffer.
+
+00:14:42
+Så et rigtig godt sted at starte er sedimenteringsløsning, som passer til oplandet, og som passer til den recipient, som vi skal udlede til.
+
+00:14:57
+Og skulle kravene ændre sig undervejs, eller skulle recipientens beskaffenhed ændre sig undervejs, så er det altså noget nemmere at tilføre en løsning, som har fokus på den udfordring, der er i recipienten, end det er at designe en løsning, til alle tænkelige scenarier.
+
+00:15:25
+Når vi taler opløste stoffer, så bliver kompleksiteten bare endnu højere.
+
+00:15:34
+Og de opløste stoffer, som for eksempel kov og sink, kommer hovedsageligt fra byggematerialer.
+
+00:15:44
+Så de områder, som har en stor mængde af boliger eller erhverv, som har facader, tage eller tagvarner, hvor der bliver afvasket koger og seng, der vil det være muligt at lave nogle decentrale løsninger, som tager de opløste stoffer, inden det bliver blandet med et opland, som er væsentligt større, hvor de opløste stoffer ikke udgør et problem.
+
+00:16:18
+Hvis vi tænker løsningerne en lille smule anderledes, end at lave store, centrale løsninger, som skal håndtere alting, så tror vi på, at vi kan komme bedre og billigere imod.
+
+00:16:34
+En af måderne at starte på er, at vi kan være mere åbne og gennemsigtige, når det kommer til produkterne.
+
+00:16:43
+Ikke for at sige, hvilket produkt er bedst, men for at sige, hvilket produkt er bedst til jeres projekt.
+
+00:16:55
+Når.
+
+00:16:55
+Vi nu står og appellerer til åbenhed og gennemsigtighed, så kan man jo altid starte med sig selv.
+
+00:17:03
+Så vi vil egentlig gerne dele nogle resultater fra en in situ-test på et produkt, der hedder CityPipe, som der måske er en del af jer, der har hørt om.
+
+00:17:16
+Det her er en in situ-test, som foregår i Hamburg.
+
+00:17:27
+Den kører over halvandet år.
+
+00:17:31
+Vi skal kigge på testresultaterne fra det første halve år.
+
+00:17:36
+Det er et regnbrug, der hedder Kühlebrandbrücke.
+
+00:17:42
+I Hamburg, som er et kendt trafikknud på meget tung trafik.
+
+00:17:47
+Meget forurenet.
+
+00:17:49
+Det er en lille halv hektar.
+
+00:17:51
+Det er det, man i Tyskland kalder kategori 3.
+
+00:17:55
+Der, hvor vi forventer den største mængde af sediment.
+
+00:17:59
+Man har etableret en testsite og et anlæg, hvor man har en bypass, som bliver aktiveret ved 67 liter pr.
+
+00:18:10
+sekund per hektar.
+
+00:18:12
+I det her tilfælde er det omkring 31 liter pr.
+
+00:18:15
+sekund.
+
+00:18:17
+Den her test foregår udelukkende, Inden for at det er en fragmentstørrelse, der hedder 0-63.
+
+00:18:26
+Også kaldt TSS-63 eller AFS-63.
+
+00:18:31
+Men altså, hvor man i Tyskland har valgt, at man kigger udelukkende på effektiviteten af fjernelse af sedimenter mellem 0 og 63 µ.
+
+00:18:44
+Fordi vi ved, at det er der, vi fjerner mest forurening.
+
+00:18:48
+Og vi ved, at hvis man har et anlæg, som Hvis man effektivt fjerner de små sedimenter, så fjerner man også de store.
+
+00:18:57
+Så derfor vil procenterne i det her testresultat typisk være lavere end de laboratorietest, vi kigger ind i, som nogle gange er mellem 0 og 200 µg, og nogle gange mellem 0 og 400 µg.
+
+00:19:12
+Det varierer meget.
+
+00:19:20
+Nu har vi lige været inde på, at forurening binder sig til sedimenter.
+
+00:19:26
+Derfor er det vigtigt, at vi får fjernet de her toksiske sedimenter.
+
+00:19:32
+Der er rigtig meget litteratur på det her område.
+
+00:19:36
+Jeg har fundet en god gammel trage af en undersøgelse her.
+
+00:19:43
+De gule felter repræsenterer den mængde, af stof, som binder sig til sedimentet.
+
+00:19:53
+Det blå er den opløste del af forureningen, som ikke binder sig.
+
+00:19:58
+De her orange pletter, som man kan se, det er det brede gennemsnit fra alle de internationale studier.
+
+00:20:11
+Man kan måske se, at der er et minus og et plus, som repræsenterer, den laveste og højeste binding i den enkelte undersøgelse.
+
+00:20:22
+Men her kan vi altså se, at vi bruger enormt meget tid og enormt mange penge på at koncentrere os om de blå felter.
+
+00:20:38
+Der er en opdeling, hvor man kan se, at der er nogle tungmetaller, som har en relativ høj bindingsevne, Der er nogle PAH'er, som har en meget høj bindingsevne.
+
+00:20:53
+Og så har vi sådan noget som kvælstof og fosfor, som har en lavere, men stadigvæk rimelig bindingsevne.
+
+00:21:07
+Det vil altså sige, at hvis vi starter med en god og effektiv sedimenteringsløsning, så fjerner vi en meget høj grad af forureningen.
+
+00:21:20
+Det.
+
+00:21:20
+Gør det også nemmere, at hvis vi efter at have installeret en god sedimenteringsløsning, konstaterer, at der fortsat er en udfordring med eksempelvis fosfor, så gør det det meget nemmere at målrette en løsning specifikt til fosfor, i stedet for at have en løsning, som dækker alle de blå felter i det her diagram.
+
+00:21:51
+Vi sidder jo ikke i en situation, hvor vi kan beslutte, hvordan man skal tilgå det her.
+
+00:21:58
+Der er nogle andre interessenter.
+
+00:22:02
+Men når man sidder og kigger ind i, at det her er noget, vi ved, så synes vi, at sedimentering er et godt sted at starte.
+
+00:22:13
+Det her er fra det her test-site i Hamburg.
+
+00:22:22
+Hvor man kan se, at vandet kommer ind.
+
+00:22:26
+Man har en bypassledning.
+
+00:22:29
+Og så har man en testcontainer ved indløb og en testcontainer ved udløb.
+
+00:22:37
+Og imellem har man placeret en CityPipe 600 i 24 meters længde.
+
+00:22:44
+Dejlige billeder inden fra containeren.
+
+00:22:51
+med noget af det udstyr, der bliver benyttet.
+
+00:22:53
+Man udtager 10 liter per 2,3 kubikmeter vand.
+
+00:23:00
+Det vil sige, at man forsøger at få så meget repræsentativt ind i sit materiale som muligt, så man løbende udtager og prøver, for til sidst at kunne se, Hvad er der faldet i den her måned?
+
+00:23:21
+Hvad er der kommet ind?
+
+00:23:22
+Hvordan fordeler sedimentet sig?
+
+00:23:27
+Hvordan fordeler koncentrationen sig?
+
+00:23:32
+Det har man et overblik over på det næste slide.
+
+00:23:39
+Man kan se de måneder, som der er prøveresultater fra.
+
+00:23:48
+Man kan se en indløbskoncentration og en udløbskoncentration.
+
+00:23:53
+Man kan se en grænseprocent.
+
+00:23:57
+Så kan man se, hvad det højeste hydrauliske flow er, som vi har målt.
+
+00:24:04
+Og man kan se, hvor hurtigt sedimenterne har bevæget sig igennem CityPipe.
+
+00:24:17
+Det har noget at gøre med, at vi forsøger at dimensionere de her løsninger ud fra en opholdstid, der gør, at vi kan fjerne så mange af de her små partikler som overhovedet muligt.
+
+00:24:29
+Når man så kigger lidt på tallene, så er det tilladt at være forvirret.
+
+00:24:37
+Hvis vi kigger på maj måned, så har vi en høj koncentration af segmenter, Vi har en ekstremt høj rejseprocent, når vi snakker 0-63 my.
+
+00:24:54
+Vi har en måling på noget flow og noget bevægelse.
+
+00:25:04
+Når man så bevæger sig ned igennem månederne, så er det enormt svært at se en rød tråd i rejseeffektiviteten.
+
+00:25:18
+Og det kan være, at det er en af årsagerne til, at det er rigtig svært at få hænderne i de her in-situ-test, fordi det er ret komplekst.
+
+00:25:32
+Nu har vi valgt at dele det, fordi det er sådan her virkeligheden er.
+
+00:25:37
+Så hvis vi nu var en stærkt kommercielt drevet enhed, så var det jo fristende, at tænke, at den der maj måned, den ser god ud.
+
+00:25:52
+Det vil vi gerne gå i markedet med.
+
+00:25:54
+For en rejseprocent på 79 af TSS 63 er tornhøjt.
+
+00:26:04
+Det vil betyde, at vi fjerner enormt meget forurening.
+
+00:26:08
+Det vil betyde, at vi har rigtig gode chancer for at få en udledningstilladelse.
+
+00:26:16
+Men det er jo bare ikke 100% sant.
+
+00:26:20
+Virkeligheden er, at når vi laver de her renseløsninger, så er der altid ufattelig mange ubekendte.
+
+00:26:33
+Og det er rigtig svært at blive klog på sammenhængen imellem flow effektivitet eksempelvis.
+
+00:26:47
+Det vi kan se her, det er at vi i oktober måned rammer en rejseprocent på 48.
+
+00:26:56
+Men vi har en lavere koncentration af sediment, og vi har faktisk også meget lavet flow.
+
+00:27:05
+Så det er ikke kun koncentration og flow, men det er også hvordan Det sediment ser ud.
+
+00:27:15
+Hvordan er fordelingen mellem det her fragmentstørrelse og beskaffenhed osv.
+
+00:27:21
+Det er bare super komplekst.
+
+00:27:25
+Her kan man se de regnhændelser, som er blevet registreret.
+
+00:27:31
+Så kan man håbe, gør det også klogere.
+
+00:27:35
+Det har regnet mellem 8 og 15 gange i de her måneder.
+
+00:27:43
+læser vi det her gennemsnitsnedbør.
+
+00:27:50
+Ikke som at det har regnet i det her, men at det er den tid, der har været bevægelse i cellipipen.
+
+00:27:58
+Vi kan se de her tilløbskoncentrationer.
+
+00:28:03
+Der er ikke nogen umiddelbar sammenhæng mellem renseprocenter og koncentration.
+
+00:28:09
+Men vi kan også se, at andelen, af AFS 63 er lavere i maj end i oktober.
+
+00:28:18
+Så muligvis kigger vi ind i, at det kan være typen af asfalt, der gør, at de mindste partikler pakker sig i en periode, bliver sluppet fri, som gør, at koncentrationen er større.
+
+00:28:34
+Det er en teori i hvert fald.
+
+00:28:38
+Det er bare for at vise, at det sådan her virkeligheden er.
+
+00:28:42
+Vi kan ikke styre det.
+
+00:28:45
+Vi bliver nødt til at kigge ind i, hvilken løsning passer, og hvordan kan vi validere det, vi går i markedet med over en lang periode.
+
+00:28:54
+Den forløbige konklusion på rapporten her, det er, at Jem & Citypipe har en gennemsnits tilbageholdelsesgrad på 63 procent.
+
+00:29:06
+Det er super fint.
+
+00:29:11
+Vi kan også se, at segmentstørrelsen AFS63 udgør 76% af segmenterne.
+
+00:29:22
+Det er altså ret væsentligt, fordi når vi kigger ind i laboratorietest på de her produkter, så er det meget svært at få en fordelingsnøgle på, hvad I har testet af fragmentstørrelser.
+
+00:29:35
+Vi har testet 0-200, men hvor meget ligger i hvilke segmentstørrelser?
+
+00:29:42
+Jeg har ikke set nogen, der har en fordelingsnøgle, hvor 76 % ligger i AFS 63.
+
+00:29:50
+Og hvis det ikke gør det, så vil renseprocenten være højere.
+
+00:29:55
+Vi kan også se, at 80 % af sedimenterne er under 25.
+
+00:30:01
+Det er altså meget.
+
+00:30:04
+Og jeg har da slet ikke set nogen testresultater, hvor man har haft den fordelingsnøgle.
+
+00:30:11
+Så for at I også får et blik ind i os på den anden side, der forsøger at hjælpe med at lave et sammenligningsgrundlag, som giver mening, så er der rigtig mange parametre, som vi bliver nødt til at tage med i betragten, og som vi godt kunne tænke os at være i dialog med jer omkring.
+
+00:30:34
+Det har en værdi, at vi kigger ind i det her, for det gør os klogere på, Hvordan opfører det her produkt sig i forskellige scenarier?
+
+00:30:47
+Og med den viden kan vi forhåbentlig lave den løsning, som giver bedst mening.
+
+00:30:54
+Indtil videre kan vi også konkludere, at der er nogle sammenhænge, som er meget uklar.
+
+00:31:01
+Hvorfor opfører sedimenter og flåser så usammenhængeligt?
+
+00:31:09
+Det kan være, at vi bliver klogere, men det kan også være, at vi bare må konkluderer, at det er noget, vi ikke kan styre.
+
+00:31:16
+Vi kan bare indsamle så meget data, at vi har et sandsynligt gennemsnit, som igen sandsynligt gør, at vi kan lave en god grænsen.
+
+00:31:30
+Rapporten konkluderer også feltundersøgelser af tidskræverne og omkostningstungen.
+
+00:31:34
+Det tror jeg ikke, der er nogen af os, der er i tvivl om.
+
+00:31:37
+Men man kan også stille sig selv spørgsmålet, giver det mening at lave måleprogram, på et produkt, der er installeret, som vi ved, kan komme frem med meget forskellige resultater.
+
+00:31:57
+Hvis man ved en lille smule om forurening og regn, så kunne man også tage nogle test, som ville pege i den ene eller den anden retning.
+
+00:32:09
+Det kunne være, at hvis vi i stedet for, installerede løsninger, som vi ved har en effekt, at vi i stedet målte på recipienterne, så vi kunne sige, at det er det her, der er udfordringen.
+
+00:32:25
+Det kan være, at det ikke længere er en udfordring, eller det kan være, at det er en udfordring, men det er kun det her stof, vi skal ind og fjerne.
+
+00:32:34
+For at svare på titlen på det her indlæg, Så vores synspunkt er, at rensningsløsningerne holder.
+
+00:32:47
+Vi skal bare være gode til at vælge det rigtige produkt til det enkelte projekt.
+
+00:32:55
+Som I nævnte, vil vi rigtig gerne fortsætte en dialog med dem af jer, som synes, at det kunne være interessant eller som er nysgerrige, ligesom vi er.
+
+00:33:11
+på, hvordan vi bliver klogere på det her.
+
+00:33:14
+Det kan være temadage, hvor I kommer her, eller vi kommer til jer.
+
+00:33:22
+Det kan være nogen, vi holder i bredt form, eller det kan være nogen, vi holder specifikt for jeres afdeling, hvor der er noget, I har på hjertet.
+
+00:33:31
+Det kan også være, I sidder med et konkret projekt, hvor I er nysgerrige på, hvilke muligheder er der egentlig for at komme i mål lige præcis her.
+
+00:33:41
+Der kan være alle mulige ting.
+
+00:33:43
+Det kan være pladsen, økonomien, en følelse om recipient.
+
+00:33:48
+Men det er altid interessant at kigge ind i, hvad konkret kan vi gøre for at komme i mål.
+
+00:33:54
+Hvis der er nogen, der er nysgerrige på, hvordan foregår det her testsite i praksis.
+
+00:34:01
+Så vil vi gerne være facilitater på en studietur.
+
+00:34:06
+Hvor vi kører til Hamburg og møder dr.
+
+00:34:10
+Stefan Fuchs.
+
+00:34:11
+og hans team, og de kan forklare, hvordan de kigger ind i de her prøver, de udtager, hvilken data de har, og hvordan de drager deres konklusioner.
+
+00:34:25
+Og til sidst har jeg lyst til at sige, at hvis der er nogen af jer, der sidder derude, som har lyst til at lave et udviklingsprojekt, her i ScanPip, der har vi En masse dygtige svejsere.
+
+00:34:40
+Vi har tre værksteder, hvor vi kan konstruere stort set alt i plads.
+
+00:34:44
+Har man en idé til, hvordan man kunne konstruere et produkt, som kunne give mening, så er vi meget gerne med i en dialog.
+
+00:34:55
+Det kan også være, at man har idéer til måleprogrammer, som giver mere mening eller som...
+
+00:35:04
+kunne hjælpe med at få et datagrundlag, så vi alle sammen bliver klogere, så vil vi også meget gerne deltage i sådan et dialog.
+
+00:35:15
+Det var afslutningen på min del.
+
+00:35:19
+Jeg.
+
+00:35:19
+Vil sige tuffe tak, Brian, for et åbent og ærligt oplæg.
+
+00:35:23
+Jeg kan se i chatten, at du også har været en god kickstarter på dialog og et par spørgsmål.
+
+00:35:30
+Og til jer der sidder derude, så må I endelig fortsætte med at stille spørgsmålene.
+
+00:35:34
+Men jeg vil egentlig tage det lidt fra en ende af, Brian, og så må vi se, hvor langt det bringer os.
+
+00:35:40
+Det første spørgsmål kommer fra Jess, som skriver, at det er den opløste fraktion af ZN, der bremser vores udledninger.
+
+00:35:49
+Så jeg egentlig tænker på, at det er udledningstilladelsen, der bliver bremset i forhold til den del.
+
+00:35:55
+Ja.
+
+00:35:56
+Og det er egentlig lidt...
+
+00:36:00
+Det er også lidt budskabet, at vores fokus er på en meget lille del af udfordringen.
+
+00:36:14
+Så det, som Jess også siger, det er, at hvis vi skal ind og fjerne et opløst stof, så er sedimenteringsløsningen ikke nok, hvis det er et ultimativt krav.
+
+00:36:33
+Mit budskab i den sammenhæng er, at vi skal have en sedimenteringsløsning uanset.
+
+00:36:39
+Derfor kan man stadig komme i mål med at tage de opløste stoffer, men så er vi ude i en rensetogsløsning, hvor budskabet herfra er, er vi 100 % sikre på, at det er en udfordring.
+
+00:36:57
+Har vi en indløbskoncentration, eller har vi et generisk tal, som i mange tilfælde vil ligge højere end det faktuelle, så er der bare en efterspørgsel fra vores side om mere kvalitet i den målrettighed, så vi kan hjælpe med den udledningstilladelse, og at den giver mening til det projekt.
+
+00:37:21
+Selvfølgelig kan man sætte en tungmetaldudskiller, på efter den her sedimenteringsløsning, så skal vi bare også ind og håndtere noget flow.
+
+00:37:30
+Jeg.
+
+00:37:30
+Tænker, at han kommer med en kommentar på det i hvert fald.
+
+00:37:34
+Foruransning er afgørende for at finde en løsning på at fjerne de opløste stoffer.
+
+00:37:39
+Ja.
+
+00:37:40
+Så, Brian, så vil jeg tage den næste, der bliver spurgt til i forhold til jeres Satipike-forsøg.
+
+00:37:47
+Hvor stor var gennemstrømningen i Satipike i liter per sekund i det viste forsøg?
+
+00:37:55
+De tal, vi har, er det højeste målte hydrauliske flow.
+
+00:38:05
+I de her seks måneder har bypassen ikke været aktiveret.
+
+00:38:10
+Så det har ikke været længerevarende skybrud eller lignende.
+
+00:38:17
+Det har mere været typisk længerevarende, relativt stille og roligt regn.
+
+00:38:24
+Så vi har ikke et gennemsnitsflow, men et målt maxflow.
+
+00:38:30
+Så jeg kan ikke svare på gennemsnittet.
+
+00:38:35
+Det.
+
+00:38:36
+Håber jeg var sværere til Helle, ellers må du skrive igen Helle.
+
+00:38:39
+Katrine har en kommentar.
+
+00:38:41
+Med hensyn til rensegraderne, er det ikke i min erfaring, at producenterne fremviser de bedste resultater.
+
+00:38:46
+Jeg har en stor forståelse for i branchen, at et enkelt resultat ikke kan bruges til at sige noget om rensegraden.
+
+00:38:53
+Men jeg prøver at teste.
+
+00:38:54
+I laboratoriet har jeg ikke set nogen test udført af anerkendte laboratorier, der kun tager én test.
+
+00:39:00
+Her tages der mellem tre og fem test.
+
+00:39:02
+I feltest er det vigtigt at se variationen igennem året.
+
+00:39:07
+Derfor skal der tages test under alle årstider.
+
+00:39:12
+Jeg.
+
+00:39:13
+Er sådan set enig i alt det, som Katrine kommenterer.
+
+00:39:20
+Det som vi oplever som lidt en udfordring, det er, Ikke at man pryder sig med låntefjær, men at man har en tendens til at gå i markedet med det, man helst vil vise.
+
+00:39:39
+Det er ikke unikt for vores branche.
+
+00:39:42
+Helt konkret er jeg med en sag, hvor vi har dimensioneret en løsning, som bliver sat i udbud, hvor der kommer nogle alternativer ind.
+
+00:39:57
+De alternativer er ikke velegnede.
+
+00:40:01
+En entreprenør, som gerne vil vinde sagen, har ikke det fornødne kendeskab.
+
+00:40:07
+Hvis der sidder en forhandler derude, eller en producent, som rigtig gerne vil have sit produkt i markedet, så oplever vi altså helt konkret, at der bliver budt ind med produkter, som ikke løser opgaven.
+
+00:40:22
+Ellers i forhold til de her feltundersøgelser, er det super vigtigt, at vi måler, Løbende, og det er netop det, vi kommer til at have landet over i den her periode også.
+
+00:40:33
+Forskellige årstider, forskellige flows, forskellige typer af sentimentssamsætninger.
+
+00:40:42
+Emil følger lidt op på det, du snakker om, som sigerensegrad eller effektprocent er ikke særlig afgørende i forbindelse med indudledningstilladelse.
+
+00:40:54
+Det er udløbskoncentrationen, som er væsentlig i forhold til overholdelse af kravværdierne, altså generelt miljøvurderingskrav.
+
+00:41:01
+Udløbskoncentrationen varierer ikke i samme grad som indløbskoncentrationen i jeres målinger mellem 15 og 23 milligram.
+
+00:41:09
+Hvilket er et udtryk for, at løsningen renser effektivt, men kun ned til et vist niveau, altså koncentrationen.
+
+00:41:15
+Det vil være langt bedre formidlingsmæssigt, hvis der fokuseres på, hvilke udløbskoncentrationer, som løsningen forventer at kunne levere ved et spænd i indløbskoncentration og flow fra forskellige stoffer.
+
+00:41:26
+Det.
+
+00:41:27
+Lyder som om, at en studietur til Hamburg kunne være en god idé, når man har en interesse og nogle gode pointer i forhold til det.
+
+00:41:37
+Årsagen til, at der fokuseres på tilbageholdelsesgraden i procent i den her fragmentstørrelse, er, at man så kan beregne tilbageholdelsen af forurenet stoffer.
+
+00:41:52
+Så det er egentlig det, der er målet med det.
+
+00:41:57
+Så vi kan gå ind og sige, at vi tilbageholder 63 procent af 0-63 mm sediment, og derfor så fjerner vi så så meget af forskellige stoffer.
+
+00:42:09
+Det er derfor, vi gør det.
+
+00:42:11
+Super.
+
+00:42:12
+Helle kommer lige med et supplement, og så har Troels et spørgsmål bagefter, og jeg tror, vi kan nå et mere ud til jer, der sidder derude, hvis I har noget.
+
+00:42:21
+Men Helle skriver supplerende til spørgsmålet.
+
+00:42:23
+Hvor stor var gennemsnitningen i zettepipe liter per sekund i det viste forsøg?
+
+00:42:29
+Du må gerne oplyse max-lov.
+
+00:42:30
+Måske du har gjort det, men kan ikke huske det.
+
+00:42:34
+Det behøver ikke kun at være gennemsnit, Hvor stort er et opland?
+
+00:42:39
+Ja.
+
+00:42:41
+Oplandet her er en lille halv hektar.
+
+00:42:44
+I de her seks måneder har det maksimale hydrauliske flow været ca.
+
+00:42:49
+20 liter per sekund.
+
+00:42:51
+Noget af det, vi syntes var interessant, er, at den måned, som har den laveste tilbageholdelsesgrad, også har det laveste maxflow.
+
+00:43:01
+Der.
+
+00:43:02
+Er en eller anden sammenhæng.
+
+00:43:08
+Det, vi kan tætte herude fra tjerten, det er fra Troels, der skriver, at det er størsted af AFS 63, der er under 25 µ.
+
+00:43:22
+I de fleste tyskestest og i TI's test er med millisil W4.
+
+00:43:30
+Her kendes fordelingen af AFS 63 udgørs ca.
+
+00:43:34
+50 %.
+
+00:43:34
+Jeg håber, jeg fik formuleret det rigtigt, så.
+
+00:43:36
+Du også forstår det, Brian.
+
+00:43:38
+Ja, det som Troels skriver, det er, at der er en form for test og testmateriale, hvor der er en fordelingsnøgle, som har 50 % AFS 63, hvor den her feltundersøgelse viser, at 76 % af sedimentene lå der.
+
+00:44:08
+Så hvis man skulle kunne konkludere noget, så ville det være, at vi ud fra et laboratorietest som udgangspunkt ville fjerne mindre forurening i virkeligheden.
+
+00:44:25
+Men det ville variere fra opland til opland.
+
+00:44:28
+Sådan er det bare.
+
+00:44:36
+Her til slut vil jeg sige tusind tak for en fantastisk præstation og gode spørgsmål.
+
+00:44:42
+Til jer, der har sidder og lyttet med, vil jeg også sige, at hvis der er nogen af jer, der har lyst til at dele en viden på Tech Talk, eller I har andre emner, I synes, vi skal tage op, så endelig giv mig eller en af de andre netværksmedarbejdere i DNNK en besked.
+
+00:44:56
+Til slut lige en lille reklame i forhold til, at I kan finde andre gode arrangementer på DNNK's klimakalender.
+
+00:45:05
+Og med det så vil jeg sige mange tak for, at I har lyttet med, og mange tak til Brian og ScanPi Klima for at stille op.
+
+00:45:13
+Så lidt.
+

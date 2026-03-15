@@ -1,0 +1,708 @@
+00:00:18
+Så tror jeg, det er ved at være tid til at sige velkommen til Godmorgen med DNNK. Jeg hedder Line Poulsen, og jeg arbejder hos Nuafos.
+
+00:00:27
+Jeg har haft en nøjelse med at kunne præsentere et oplæg i dag af min gode kollega, Jens Stærdal, som er seniorprojektleder på Regnmandsbassiner, også kendt i viksen som mister bassiner.
+
+00:00:39
+Jens ved alt, hvad der er at vide, og vi fortæller jer omkring drift, renovering og vores designarbejde med, hvordan vi arbejder med Regnmandsbassiner.
+
+00:00:48
+Hele forløbet her bliver optaget og bliver lagt på DNNK's hjemmeside Så fremt I ønsker præsentationen, kan I rette henvendelser til Jens efterfølgende Og hvis I har spørgsmål, er I velkommen til at skrive dem i chatten undervejs Skal vi se om det kan lade sig gøre flet dæner, ellers så samler jeg op på hvad der ligger i chatten, når Jens er færdig med sit oplæg Jeg vil sige velkommen til, og god fornøjelse.
+
+00:01:19
+Vær så god, Jens.
+
+00:01:20
+Godmorgen. Det er dejligt, at så mange har lyst til at lytte på et oplevelse om regnerspadsænger. Det er noget, jeg synes er spændende og lidt sjovt. Jeg hedder Jens Dadal. Jeg er koordinator for regnerspadsænger i Nordafos.
+
+00:01:36
+Jeg vil tage en tur igennem den rejse, jeg har været på med regnerspadsænger de sidste fem år. Det vi skal igennem er, at vi først vil fortælle nogle nedslag i den proces, vi har været igennem med at få styr på alle vores regnersbassiner. Noget om, hvad var målene? Noget om data?
+
+00:01:55
+Noget om, hvad er det for en form for drift, vi har skruet sammen? Så vil jeg tage et blik tilbage på nogle af de gamle bassiner, vi er ude og kigge på. Hvad har vi lært af det? Og hvad betyder det for den måde, vi designer bassiner fremadrettet?
+
+00:02:08
+Og så vil jeg til slut sige noget om to udviklingsprojekter, vi har i gang. Et som er relateret til opregningstænkere og regnværsplaceringer, hvor vi tester på metoder til at udtørre sediment, så vi kan spare nogle penge og noget CO2.
+
+00:02:23
+Et andet projekt, vi har om bassinet design, hvor I har fået eksperter til at samle op på, hvad I har lært siden 2012. Hvilken ny viden er der kommet, siden faktabladet for regnersk bassinet er blevet skrevet tilbage i 2012. Jeg får et par sætninger om mig selv, så jeg ved, hvor jeg taler fra.
+
+00:02:45
+Jeg har arbejdet med regnersk bassinet i 5,5 år hos NOVAfos. Noget med de gamle bassiner, opregnelse og renovering. Vi har lavet Carlsbæk. Jeg taler med mange af mine plankolleger om design af regnværtsbassiner. Så har vi arbejdet med at registrere alle vores bassiner rigtigt.
+
+00:03:04
+Før har jeg været i Kik & Vand. Det er et regionalt netværk for klimatilpasning. Jeg har været 10 år i Roskilde Kommune og arbejdet med strategi for et åbent land. Før var jeg 15 år på Roskilde Universitet.
+
+00:03:16
+Hvor jeg er uddannet som miljøplanlægger, inden med at være lægt til miljøregulering, men finde ud af, at jeg ville hellere lave noget andet. Så nu sidder jeg her. Kort om udgangspunktet. Hvad er der overhovedet vi taler om? I øverste hørende er der en kort med nogle gule kommuner på.
+
+00:03:36
+Det er Novafoss-kommunerne i den østlige hørende af Sjælland. Vi dækker ni kommuner. Der er i alt 350 regnvandsbassiner i det her område, som Novafoss har ansvaret for. De er meget forskellige, de er anlagt over en lang periode.
+
+00:03:56
+eksisterende gamle søer, der er konverteret til regnvandsbassiner, tørrebassiner, vådebassiner i alle mulige forskellige udformninger, og så til de nye bassiner, vi selv har indlagt over de senere år. Det, der er sket, er, at de ni forsyninger, vi lagte sammen af, var tidligere faktisk flere.
+
+00:04:15
+Jeg ved ikke, om der har været 20, men der har været mange små forsyninger i vores område. Hver gang forsyningerne er blevet lagt sammen, er der noget viden og oplysninger, som er gået tabt. Vi kan også se, at det har været meget forskelligt, hvad man har gjort.
+
+00:04:29
+Der var noget at samle op på, da vi blev samlet. For os er regnvandsbassiner en vigtig del i vores system. Det er både afgørende, at der er plads til den stuning, vi har beregnet, der skal bruges af regnvandet, og at regnvandet fungerer, de steder, der er regnvand på.
+
+00:04:49
+Det gode spørgsmål, jeg fik udleveret for fem år siden, var, hvordan vi får styr på regnvandsbassinerne. En af de første ting, vi gjorde, da vi fik spørgsmålet om at få styr på dem, var at dykke ned i, hvad det betyder at have styr på regnvandsbassiner.
+
+00:05:07
+Det kan man også formulere som, hvad er målene for vores regnvandsbassiner. Det brugte vi en del tid på at få afklaret. Og få fundet ud af, hvad er det vigtigste her. Det vigtigste er, at de er fuldt hydrauliske funktionsdygtige.
+
+00:05:24
+Det vil sige, at vandet kan komme ind og ud, og at der er en planlagt stueling. En anden vigtig ting er, at der er den planlagte rensævne. Vi har nogle udlægningstillader, hvor det i de nyere bassiner er forudsat, at bassinerne renser, og der er fastlagt en eller anden kapacitet til rensævnen.
+
+00:05:46
+Den skal vi helst holde til nogenlunde. så skal bassinerne være korrekt registreret i vores GIS og driftssystemer. Vi kommer lidt ud af en tradition i nogle af vores gamle forsyninger, hvor et bassin var registreret, når der var en plet på et kort. Så var folk glade.
+
+00:06:04
+Det er ikke tilstrækkeligt til, at man kan både vurdere, hvor vigtigt og hvordan det fungerer, og til at man kan begynde at regne på det. Heller ikke nok til, at man i en moderne forsyning kan få det drevet.
+
+00:06:15
+Derfor har der været en større opgave med at finde ud af, hvad korrekt registreret betyder, og hvordan gør vi det? Så er vi en branche, hvor vi har udfordringer ved arbejdsområdet. Vi ligger lidt højt på arbejdsudlykker, så vi har prioriteret hele vejen.
+
+00:06:33
+Hver gang vi gjorde noget ved et bassin, var arbejdsforholdene vigtige. Vi vil også gerne give noget tilbage til de steder, vi ligger, men også gerne have, at vores bassiner, som lidt af vores ansigt ud er til, at de også At de bidrager til stedet, hvor det ligger.
+
+00:06:49
+Vi vil gerne understøtte, når vi nu kan, inden for det vi i forvejen laver. Der er en god naturtilstand og høj biodiversitet i vores bassiner. Vi vil gerne understøtte de steder, hvor det er relevant. Så kan de rekreative muligheder udnyttes.
+
+00:07:06
+De to sidste er ikke noget, vi kan bruge penge på selvstændigt. Men tit kan vi tilrette den måde, vi gør det på. Inden for, hvad skal vi sige? Uden at det giver ekstra udgifter, men så vi får lidt mere natur og lidt mere rektivitet ud af det.
+
+00:07:22
+Det er sådan de mål, vi har styret efter igennem næsten hele perioden, og de har faktisk fungeret ret gode som pejlemærker. Hvad er det, vi skal gå efter?
+
+00:07:34
+Noget af det, vi startede med, at bruge en hel del energi på, det var, hvad data har vi om de her regningsbaseringer, og hvordan får vi sikret, at vi har de nødvendige data, og hvordan kommer vi ud af den der situation, hvor vi, når vi endelig har fundet baseringer, så har vi stort set bare en plet på kortet.
+
+00:07:54
+Og der har vi brugt opmåling i den digitale højdemodel, som er at Det er virkelig den normale højde, vi havde i gang med GIS. Vi har en rådgiver, der kan hente det mere detaljeret. De har lavet nogle set-ups, så de i den kan opmåle, hvad arealet er i vandspejlet.
+
+00:08:13
+Hvad er maksimale stugningskode, og hvad er stugningsvolumen ved den maksimale kode. Dem har vi haft rådgiver på, og så har vi gået dem igennem. Ser det her nu rigtigt ud?
+
+00:08:28
+Vi testede på et tidspunkt om det i forhold til droneopmålninger, i forhold til at have en landmåler ude og måle, og fandt ud af, at det var i virkeligheden den mest, eller den var mindst lige så præcist som de andre metoder, og den var langt, langt, langt billigere.
+
+00:08:43
+Det er selvfølgelig ikke perfekt, men de virkede langt henover. Så har vi også brugt noget tid på at få styr på og afklare, hvilke personer havde nogenfors ansvar for, hvilke var kommunens eller andres ansvar. Der var også lidt opsamling der.
+
+00:08:58
+Noget af det, vi er i gang med nu, er at få klarlagt eller hævet data ud af vores afleveringsmodeller. Hvor store er oplandet til hver enkelt bassin, og hvilken recipient er der til hver enkelt bassin. Det er vigtigt for at kunne vurdere, hvor meget rensning skal der være i det her bassin.
+
+00:09:19
+Og hvor vigtigt er rensningen for et enkelt bassin i forhold til et andet bassin. Der er meget store forskel på et bassin, der udleder til Øresund, og et bassin, der udleder til en lille ål eller en lille sø. Så har vi nogle hængepartier, som vi arbejder med hen ad vejen.
+
+00:09:35
+Vi har nogle steder, hvor vi har bøvl med adgangsveje. Vi har nogle steder, hvor det er afklaret, at det er os, der har ansvaret for personen. Dukmentationen på vores brugsret og vores ret til adgang, når vi skal drifte, er noget svingende. Det er noget, vi fornøjer os lidt med.
+
+00:09:52
+Det tager tid at få helt styr på, men fremadgår det. Et af målene er at kunne tænke mere systematisk. Hvad er så vigtigt? Hvad vil det sige, at det her bassin fungerer godt? Vi bruger en metode, der hedder asset management, som tager afsæt i risiko.
+
+00:10:23
+Man skal finde ud af, hvor er det risici, hvis man ikke har driftet sit anlæg godt nok. Det vil sige, man kan også kalde det, det jeg har formuleret her, de negative konsekvenser af manglende opfyldelse af mål.
+
+00:10:34
+Det er sådan lidt at tage sine mål og vende dem på hovedet og sige, hvad sker der, hvis vi ikke opfylder det her mål. Når vi kigger lidt på manglende løbende drift, så får vi risiko for tilstoppet tilløb eller fraløb, og det giver risiko for oversvømmelse.
+
+00:10:50
+På en anden måde, hvis vi har manglende drift, så er der stor risiko for, at den hydrauliske funktion, den ophører med at virke på et tidspunkt. Hvis vi ikke får renset vores bassiner løbende, er der risiko for, eller næsten sikkerhed for, at vi får dårlig rensning af regnvandet over tid.
+
+00:11:09
+Ikke i de første fem år, måske endda ikke i de første ti år. Men på et tidspunkt vil bassinet renses virkelig dårligt.
+
+00:11:17
+Der bliver spurgt, hvordan vi bestemte dybden af bassinerne.
+
+00:11:22
+Den tager vi lige nu. I får den lige på næste slide. Yes. Så den tager jeg lige på næste slide. For det er selvfølgelig noget, vi har fornøjet os noget med. Og så vil vi kigge på manglende data. Hvorfor gik jeg nu så meget op i de her data?
+
+00:11:42
+Og en af de vigtige ting, udover at vi ikke rettig kan drifte, hvis vi ikke har data, det er, at når vi laver nye investeringer, så bruger vi jo meget modeltberegninger til at vurdere, hvor stor er behovet for stugningskapacitet i det her system.
+
+00:11:56
+Hvis vi ikke har data på vores bassiner, er der stor risiko for, at vi laver en overinvestering for at lave studien eksempelvis, i virkeligheden har et andet sted.
+
+00:12:06
+Så er det i det dårlige arbejdsforhold, at der hvor der er dårlige adgangsveje, sejle, skråning og adgangsdriftpunkter uden adgang, så er der risiko for arbejdsskader og risiko for at driften bliver dårlig, fordi at få driftet ting, man ikke kan komme til, det er altså lidt svært.
+
+00:12:25
+Hvad har vi så gjort for at få styr på de her ting? Der har vi eksperimenteret lidt med, hvad systemet skulle være til, for at vi synes, vi havde styr på vores bassiner, og vi kunne komme udenom de her risici.
+
+00:12:39
+Og der er vi endt på, at vi skal have et årligt tilsyn af den hydrauliske funktion af alle regnebassiner. Der skal en mand ud og kigge til hvert bassin mindst én gang om året og tjekke tilløb og fraløb, og en række andre tjeks. Ellers er det risiko for, at de stopper.
+
+00:12:55
+Og så laver vi en systematisk måling af sediment og fri vandsøjle i alle våde regnspladsænger. Vi måler cirka på en femtedel af de våde pladsænger hvert år på, hvor meget sediment og fri vandsøjle der er. Det er så også der, vi måler, hvor langt der er ned til bunden.
+
+00:13:14
+Og det gør vi på det her niveau meget simpelt. Det er en kombination. Sedimentoverfladen kan være vanskelig at måle. Vi havde forskellige metoder, som var lidt tekniske. En af vores driftfolk kiggede på os, og så kiggede han på os. Han sagde, at det kan han gøre simpeltere.
+
+00:13:31
+Så tog han en gammel porcelængstalærke, brød et hul i, sat en snor i. Så sagde han, at den kan vi måle med, fordi vi ser, at når den rammer sedimentoverfladen, så forsvinder den. Det fungerer fint. Og så måler vi på det her niveau dybden. Den tør på en niveau med et stadie.
+
+00:13:48
+Det er ikke altid præcist, for i nogle bassiner er det vanskeligt. Men til den her generelle overblik er det godt nok. De data bruger vi til at finde de bassiner, vi skal have kigget nøjere på. Hvor vi har to kriterier.
+
+00:14:04
+På de bassiner, der er dybere end en meter, siger vi, at hvis den frie vandsol er mindre end 80 cm, så nærmer vi os der, hvor bassinet begynder at vokse til, og så forsvinder resten af vodvolumen meget hurtigt. Der skal vi til at gøre noget.
+
+00:14:18
+Så har vi lidt mere ulden kriterier på de lavvandede bassiner, som er under en meter dybe, hvor vi siger, at generelt, hvis de er mere end 25 procent fyldt med sediment, så skal vi også have dem renset op. Men det kriterier, der er mange forhold, der spiller indad.
+
+00:14:31
+Og så har vi selvfølgelig alle vores ældre, tørre bassiner, som er vigtige med deres storlingsvolumen. Der vurderer vi på, hvor tykt sedimentlag, der er kommet i bassinen.
+
+00:14:41
+Hvis vi synes, at nu nærmer det sig, at det er tygt i forhold til oplandet størrelse og bassinens størrelse, Så sætter vi os ned og regner på, om der er forsvundet så meget af studingslumene. Så laver vi hvert år en prioriteringsrunde. Vi kigger på alle de trængende patienter.
+
+00:15:01
+Vi finder måske 20 områder, som vi ender med at sige, at der er driftproblemer. Eller andre problemer. Dem går vi igennem, og så ender vi typisk med at vælge fem patienter til oprejsning i år. Det er det, vi kan nå på et år.
+
+00:15:18
+Det kører så ud til højre i et årshul, hvor vi forsøger at have styr på vores grunddata. Det er noget, man altid kan gøre bedre med, fremadgår det. Så har vi det med tilstand og anlæg. Det er en kombination af vores sedimentmåling og det årlige tilsyn, hvor vi nogle gange opdager problemer.
+
+00:15:38
+Det vurderer vi, hvilket risiko de giver for forsyningen. Både i forhold til manglen af rensning, men også i forhold til driftstop. Er der risiko for, at vandet ikke længere kan løbe? Det sætter vi ned på tværs af organisationen. Vi sætter det sammen med plan og projekt.
+
+00:15:56
+Vores driftsafdeling siger, hvad vi er vigtige for at gøre noget af det. Så udarbejder vi typisk de cirka fem projekter, hvor vi får bassiner renset.
+
+00:16:09
+Så vil jeg reklamere for, at vi for nogle år siden lavede nogle videoer om regnesbassiner, som fortæller om, hvordan bassinerne fungerer, og fortæller om vores proces med at få styr på dem. De er nogle år gamle, men de fungerer stadigvæk fint stort set.
+
+00:16:25
+Der er nogle enkle steder i, vi måske godt kunne have opdateret, men generelt er det fortsat en rigtig god intro, som mange har haft glæde af, og der ligger en link nede i præsentationen der til højre. Når vi så renser op, hvad er det så vi gør? Dels så renser vi for sediment.
+
+00:16:57
+Det I kan se på det øverste billede til højre, hvor en langarm er ved at grabbe sediment op fra et bassin, der lige er lidt for vodtfødet, op i en lastbil. Her bliver det kørt direkte til jordmodtagere.
+
+00:17:15
+renoverer vi trængende afløbsanlæg, hvis der er brønne- eller udløbsbyggeværker, som er så forfaldne, at vi tænker, at det holder ikke til næste opregning, så bliver det skiftet ud.
+
+00:17:27
+Når vi forlader basenget, er vi ret sikre på, at det kan stå mindst i den periode, der går ind til næste opregning, uden der skal gøres noget. Og så forbedrer vi arbejdsforholdene. ved næsten alle bassiner.
+
+00:17:41
+For eksempel det øverste bassin, hvor tilløbene ikke kunne findes, og fraløbet lå meget svært tilgængeligt. Det var virkelig svært at kæmpe sig ned til.
+
+00:17:54
+Der blev det så ryddet godt og grundigt, og så fik vi anlagt trapper ned til både tilløbspunkterne og fraløbspunkterne, og forgivnet lidt på nogle af brinkerne, så man kunne komme rundt om bassinet på en god måde.
+
+00:18:07
+Og så gør vi det i nogle steder, eller vi gør det i alle steder, at vi kigger på, hvor stort er oplandet, hvor stort er bassinet, hvilken type opland har vi, hvilken recipient har vi. Og nogle steder konkluderer vi så, at hvis vi overhovedet kan, så skal vi forsøge at forbedre regnsefunktionen.
+
+00:18:24
+Så skal vi se, om vi kan skaffe noget mere volumen. Det er jo ikke alle steder, det kan lade sig gøre, fordi nogle steder er der ikke plads, nogle steder kan man ikke få lov osv. Andre steder er det muligt.
+
+00:18:31
+Og det nederste billede til højre, det er et billede af et der endte med at blive næsten en nybygning af et bassin.
+
+00:18:41
+Vi havde et ret lille bassin, der lå nedstramt i et industrieområde, som lå oven på et HFO-vandingevægningsområde, deres kildeplads, og som udlæggede til Græsået, et sted, hvor den havde det rigtig fint. Det var meget lille i forhold til oplandet. Det tænkte vi, at det simpelthen ikke går.
+
+00:19:00
+Bassin for lille bassin uden membran oven på en kildeplads ude i Græsået. Der gjorde vi det, at vi Efter en længere proces med kommunen fandt en måde, hvor det var muligt at få en udledningstilladelse til et væsentligt udvidet bassin på det her sted.
+
+00:19:15
+Så fjernede vi det gamle bassin og byggede et nyt. Men nu har vi på det sted en rensning, som er... Vi overholder BAT på rensningsvolumen. Vi har lidt for lille stulningslumen. Der var ikke plads til det hele, men vi er meget tæt på.
+
+00:19:35
+Det har vi gjort nogle steder, hvor vi tænkte, at det er forringen til det her sted. Hvad kan vi gøre for at forbedre det? Vi har også haft andre steder, hvor vi tænkte, at der ville være udvidet volumen. Men hvor der ikke var plads, og så kan vi ikke gøre noget. Ligne, du har et spørgsmål.
+
+00:19:54
+Jeg har kommet lidt ind i chatten. Der bliver spurgt, om vi oprenter fem bassin-områder, ud af hvor mange.
+
+00:20:02
+Vi har ca. 220 våde bassiner. Så har vi ca. 130 tørre bassiner. De fem er lagt efter en vurdering, vi lavede tidligere. Hvor mange skal vi rense op om året, før vi får styr på det? Så er det også lagt efter, at i starten... Vi har brugt tid på at lære det her.
+
+00:20:27
+Det var nyt for os, så vi tænkte ikke slå større brød op, end vi kan håndtere. Vi starter måske lidt forsigtigt. Håbet er, at om et par år, når vi siger, at nu kører det, så vil vi et par år tage lidt flere. Der har været meget for os at lære, så derfor har vi startet lidt forsigtigt.
+
+00:20:46
+Der er kommet et enkelt spørgsmål, som vi kan klemme ind. Det spurger, hvilke myndighedsforhold vi skal have på plads, før vi kan opstarte oprensning af et bassin.
+
+00:20:57
+De to vi kigger på, det øverste. Der, som er en ren oprejsning og lidt tilpasning af de aflystekniske anlæg, og mindre tilretning af bredder, men så lidt, at det ikke berører selve bassinet, det er kun en ParkAft3-dispensation.
+
+00:21:20
+Den nederste, som reelt er en ombygning af bassinet, Skulle vi lave en park-of-træ destination, som man næsten altid skal have på både regnspladser, så skulle vi have en ny udlængestilladelse. Vi skulle lave en VVN-screening. Det tror jeg var det.
+
+00:21:43
+Vi ændrede ikke på uløbetåen, så der var ikke noget i forhold til vandet.
+
+00:21:47
+Fantastisk. Tak. Så tror jeg, vi kører videre.
+
+00:21:54
+Så vil jeg gerne lige sige lidt om data, fordi det viste sig at være en stor opgave, men også en helt afgørende opgave, som vi stadigvæk kæmper med at komme helt i mål på. Det har været en proces fra, at vi startede med, at vi havde i størrelse om 300 pletter på et kort.
+
+00:22:14
+Der blev lidt flere pletter, og så fandt vi ud af, at vi havde de fleste steder, hvor data var væk, eller det havde aldrig været der. Vi begyndte at producere data fra dag 1. Vi var rundt og tilsøgte 50 bassiner. Hvor er vi overhovedet henne med de her bassiner? Hvilket tilstand er de i?
+
+00:22:34
+Der producerede vi data for hvert bassin. De kom ind i et regnark. Det er rigtig fint. Det er første gang, man skal bruge det. Men når man skal bruge det igen to år efter, så er det svært at finde data. Det bliver meget hurtigt og lidt problematisk.
+
+00:22:48
+Første gang vi udgik, var vi ikke meget systematiske. Vi kunne måle sediment, men alle andre forhold på et bassin. Der havde vi ikke systematikken på plads. I dag har vi både bedre data. Vi har fået alle bassiner målt op digitalt. Vi har fået målt sediment og fri vandshål.
+
+00:23:12
+Næsten alle mådebassiner har målt på en del af de tørre. og vi har en klare systematik for, hvad det er, vi kigger efter på hvert plads. Når vi er ude, så giver vi point med de forskellige datapunkter, vi har. Er det her en 5 eller en 4, eller er vi nede på en 2?
+
+00:23:31
+Så vi kan lave en grov prioritering bare ud fra data. Men lige nu er vores IT-understyrrelse lidt svagt. Det hele foregår slet ikke meget i regnark og nogle forskellige systemer, som ikke rigtigt taler sammen.
+
+00:23:46
+Det vi er på vej til at gøre noget ved, vi nærmer os, at vi kan lave et databaseret overblik over opretningsbehov for alle vødregnsmuseer. Det kan vi gøre ved at tage nogle data fra vores ledningsregistrering og data fra vores driftssystem, hvor vi har data på vanddybderne og sedimentmængderne.
+
+00:24:08
+Og så nogle data fra vores afløbsmodeller om, hvor stort er oplandet til de forskellige baseringer.
+
+00:24:16
+Dem kan vi stille sammen i et program, der hedder Power BI, og så kan vi lave nogle lidt simple beregninger af, men alligevel retvisende om, jamen så er så stort opland, så er så stort vådevolumen, hvor godt renser det her basering så, og med den tilvækst, vi normalt ser og sætter dem ind, hvornår skal det her så renses op?
+
+00:24:34
+Det håber vi, at vi hopper og kører inden for, ja i hvert fald seks måneder, så bør der køre. Jeg har en rigtig god kollega, der arbejder med det nu. Vi har sætt op omkring at lave det, så vi mener, det er muligt.
+
+00:24:47
+Det ene vi gør, og det andet er, at vi laver en visning for hvert enkelt bassin, hvor vi samler mange af de forskellige oplysninger, vi har nu, som ligger forskellige steder. Vi har også nogle, der ikke rigtig bliver dokumenteret.
+
+00:25:01
+Der får vi et samlet sted, hvor vi kan få overblik over tilstand på et bassin, og hvad er de sidste, der er blevet gjort for det her bassin. Så blev der spurgt til før, hvordan vi måler både på sedimentmængder og på vanddybde. En del gør vi på den her niveau, hvor vi også driftmåler.
+
+00:25:27
+Der har vi en række grunddata på alle bassiner, hvor vi har de forskellige volumener, og så har vi måling af sediment og vandsøjel.
+
+00:25:37
+Så laver vi hvert år tilstandsudlering af 20-30 bassiner, hvor vi måler lidt mere detaljeret og gennemgår lidt mere systematisk, hvordan er arbejdsforholdene ved det her bassin, hvordan ser det ud med vektationen i og omkring bassinet, hvordan er oplandets karakter i forhold til recipienten osv.
+
+00:25:57
+Der måler vi faktisk ikke på sediment, og så har vi det vi kalder forundersøgelser af regnbassiner. Det er de bassiner, som kommer på en shortlist, at det her bassin skal vi måske have renset op.
+
+00:26:07
+Der laver vi en ret detaljeret opmåling af både dybder og sediment, hvor vi med GPS måler en lang række punkter på den oprindelige bund, og putter det ind i GIS og laver en tredjemodel af bunden.
+
+00:26:19
+Så måler vi lige så detaljeret på sedimentoverfladen, og også for det ene i GIS, og så kan vi trække de to overflade fra hinanden og få et rimelig præcist bud på, hvor meget sediment er der i det her bassin, og hvad er vådevolumen, når vi har renset det op. Det er data på tre niveauer.
+
+00:26:38
+Vi kontenderede tidligt, at vi ikke kunne lave et detaljere undersøgelse af alle patienter. Det går helt galt med tid og penge. Derfor lavede vi den her opdeling i tre niveauer. Det var det, jeg havde tænkt at sige, om den her rejse med at få styr på bassiner.
+
+00:26:56
+Der er selvfølgelig uendelige mængder af detaljer, jeg kunne gå nærmere ned i, men det her var nogle af de vigtige steps, der har været. Er der ikke nogle spørgsmål til det?
+
+00:27:06
+Det er der, men jeg er bekymret om tiden, hvis vi skal nå igennem det hele. Du må lige vurdere, der bliver spurgt, om der altid skal en pakke af trædispensation til, selvom bassinet ikke har nogen natur- eller rekreativ værdi. Hvordan håndteres vandet fra bassinet, under opbrænding og omkring.
+
+00:27:23
+Om bassinerne er etableret private, og hvorefter vi har overtaget dem eller om de er etableret og drevet. Der er forskelligt, så det kan være, at vi skal samle op på det.
+
+00:27:33
+Nogle af dem tager vi, men nogle bliver meget... Der er mange detaljer i det. Hvis det er et vådt bassin. Over 100 kvadratmeter fylder lovgivningen altid pakker for træ.
+
+00:27:44
+Det er nogle gange lidt besværligt, men vi oplever også, at de her naturmedarbejdere i kommunen er gode med- og modspillere til, hvordan vi får noget bedre natur ud af det her sted, og samtidig bevarer, at vi kan have vores tekniske anlæg. Det tager lidt tid, men personligt har jeg det sådan.
+
+00:28:03
+Jeg synes forsyningen er meget miljøvirksomhed, så jeg har det fint med den proces. Angående... Anlægget er alle variationer. Nogle anlægger vi selv, nogle er anlagt og privat og overtaget. Nogle er gamle, oprindelige søer, som er konverteret til regnesbassiner, som bliver vores ansvar.
+
+00:28:25
+Hvorfor den sidste spørgsmål?
+
+00:28:27
+Hvordan håndteres vandet fra bassinet under opbrændsning?
+
+00:28:30
+Der er alle mulige variationer. Det vi tit gør, er at lave en omledning omkring bassinet. Det er ikke alle steder, du kan få lov til det. Hvis du udleder til en vandløb, der ikke er måleopfyldelse, kan du ikke få lov til at udlede urenset regnvand.
+
+00:28:45
+Nogle gange ved mindre bassiner, leder vi vandet direkte til kloak, hvis det er mindre mængder. Så har vi nogle bassiner, Hvor det faktisk er en udfordring, hvor vi har svært ved at finde en metode at rense dem op på. Der er et par stykker, vi samarbejder med kommunen om.
+
+00:29:06
+Når vi ikke kan lave en omløbsledning, og vi har så store mængder, at vi ikke kan lede det i klark. Hvad gør vi så? Der er vi lidt spændt på løsningerne. Men der gør vi det nogle steder.
+
+00:29:16
+Det, vi arbejder på, er at bruge oprensningsmetodet, som jeg kalder med cuttersure geotubes, altså hvor man ikke tømmer bassinet for vand, men pumper det op, og så afvandrer det på land i nogle store støvsureposer.
+
+00:29:30
+Jeg tænker, vi skal hoppe videre til næste del, bare jeg er bekymret for tiden, Jens. Du har sådan ret godt at fortælle.
+
+00:29:37
+Jeg tænkte, det her var den vigtigste, og nu er vi halvvejs. Jeg tror, vi er sådan nogenlunde på sporet. Nu får vi se. Det, jeg vil sige noget om nu, er, hvad vi har lært af at kigge på alle de gamle bassiner. Mig og en kollega har kigget på rigtig mange af vores 350 gamle bassiner.
+
+00:29:57
+Hvad har vi lært af det? Vi ser mange fine anlæg, som er lavet rigtig gennemtænkt og gennemarbejdet, men uden for den viden, der var på anlægstidspunktet. Og så er der bare meget, vi tænker, og det ville vi bare aldrig gøre i dag.
+
+00:30:14
+Så den der underlige blanding af, hvad har de tænkt, og så kigger man lidt mere på det, når jeg giver ting. Sådan og sådan. Det gav mening på det tidspunkt, men det giver ikke mening i dag. Det vi sådan ret meget ser, er at adgangs- og arbejdsforhold, de er altså nogle steder virkelig dårlige.
+
+00:30:30
+Så ser vi i baseringer. Tørrebassiner og vådebassiner, som reelt kunne modtage en lille del af vandet og derfor ikke rense. Så vi ser en meget lille rensefunktion. Steder, hvor det faktisk ville have været nemt at lave. Så ser vi mange vådebassiner, der er lavet alt for lavvandet.
+
+00:30:47
+Det gør både, at de renser dårligt risiko for risikospension, og det gør, at de skal driftes rigtig tit og vokse hurtigt til. Og så ser vi bassiner, der er lavet på en måde, hvor der er taget nogen hensyn, hvor vi tænker, at det er da vildt pænt, men det betyder, at vi skal drifte rigtig meget.
+
+00:31:03
+Og så ser vi nogle gange nogle, der er lavet lidt upraktisk, om for eksempel har lavet nogle fraløsledninger i meget små dimensioner, som så altså har en vane med at stoppe.
+
+00:31:14
+Og så en af de ting, der overraskede mig, da vi fik gravet ned i det her, var at vi ser også, at de her jordforbassiner, som jeg i lang tid troede, det var da bare det, vi skulle lave, de giver faktisk ikke billigere drift.
+
+00:31:25
+På billedet står der et jordforbræsning, hvor jeg måler, hvor meget sediment der er i. Det er nogle år siden. Jeg kan huske, at jeg sagde til vores drift, at det må være simpelt. Det vil være godt lige at få renset op. Det er ikke kritiske, men det vil være godt lige at få renset op.
+
+00:31:42
+Så kom de tilbage og sagde, at sådan et jordforbræsning er vokset så meget til, at vi ikke kan se, hvad der er. hvad der er sediment, og hvad der er bund, og vi ved, hvad der er membran i. Det tør vi ikke rense op med vores almindelige grønne lastbil.
+
+00:31:54
+Vi er bange for, at vi kommer til at tage bunden og smadre membranen. Og vi fandt også ud af, at sådan en jordforbassin, der er vokset til, det kræver en paragraf 3-dispensation. Så der har vi opdaget, at der var både den måde, vi havde troet, at vi skulle anlægge bassiner på.
+
+00:32:10
+Det var faktisk ikke rigtigt. Vi kunne ikke bruge de der jordforbassiner, og vi har opdaget, at det her med at få dem Og derfor bliver en opregnelse næsten til et projekt i sig selv. Og så er der ikke nogen driftsbesparelser i det.
+
+00:32:22
+Jeg vil lige tage dem lidt konkret, fordi jeg synes de er ganske lærerige. Nu skal jeg lige se min række fødde her. Den første her er nogle af de våde bassiner, vi har der i grænsen. Man tænker, der ligger et vådt bassin. Det er jo veldig fint. Men det til venstre er et rent stugningsbassin.
+
+00:32:43
+Vandet løber kun ind i det. Når der er rigtig meget tryk på. Så det er relativt få procent af vandet, som overhovedet kommer ind i bassinet. Der var så ophobet sådan noget sediment over en periode, og det lå et sted, hvor det var lidt kritisk.
+
+00:32:57
+Så vi oprensede det og undersøgte muligheden for at uddybe det, men følte, at det var relativt besværligt.
+
+00:33:04
+Vi løber ind i en helt lille ekstra papir, hvis vi skal uddybe et bassin, og det var et lille opland, som løb til et rørlagt vandløb, som havde mange snirkler, før det ramte en særlig sorbar recipient. Der gjorde vi ikke noget. Det er stadig et bassin, der er i grænsen.
+
+00:33:20
+Det til højre er et kæmpestort bassin, oprindeligt anlagt i 1970 og anlagt op i Øverst og højre i hørene er der et forebassin, et sedimentationsbassin, hvor der er en stor olieudskiller og et stort sandfang på land.
+
+00:33:39
+Det var oprindeligt lavet sådan, at hovedparten af vandet løb direkte i olieudskiller og sandfang, og så løb de i en ledning under bassinet, videre ned til udløbspunkter.
+
+00:33:53
+Det var et fint olieudskil og et kæmpestort sandfang, men i forhold til mængden af vand, der kom her, så tog det kun det allergroveste sediment. Men anlægget var der. Fint forberedelser af forbindelser, bygværker og det hele.
+
+00:34:14
+Så det vi gjorde, da vi rensede det hele op, var at vi ved nogle mindre indgreb tog Vi ændrede vandets vej, så i stedet for at løbe igennem olieudskillet og sandfarm, så løb det først igennem det, der nu er forbassin, og så løb det videre over det kæmpestore hovedbassin og kom to veje rundt i det, så vi fik en rigtig god rensning, og så lette vi det ud.
+
+00:34:36
+Selve den der tekniske ombygning var ikke særlig dyr, og det gav, at vi i stedet for at vi nærmest ikke havde nogen rensning, så fik vi en, hvad der var meget tæt på at være bat-rensning på det sted. Et andet, lige for at konkretisere det, hvad sker der, hvis man har nogle meget lavvandede bassiner?
+
+00:34:57
+Det er et bassin, der er anlagt i 1989 med ca. 90 cm dybde. I 2017 var det vokset til, og der var så mange dunhammer i, at mådevolumen var for trængt af dunhammerrådet. Så blev det renset op, og det blev rigtig fint.
+
+00:35:09
+Det interessante er, at allerede to år efter oprensning, der var der tæt dunhammer over hele bassinen. De var ikke så etableret, at rødkanen optog hele vodvolumen, men det kom ret hurtigt med Dunhammer. Det var en erfaring. Lad være med at lave lavvand i bassinet.
+
+00:35:33
+En tredje er, at vi fandt nogle anlæg, især anlagt omkring 2010, hvor man var meget optaget af at man skulle bruge vandet som rekreativt element. Der fandt vi nogle gange anledninger, hvor vi tænkte, at det er pænt, men det fungerer ikke godt. Her har vi et bassin på en bakketop.
+
+00:35:58
+Der er en fantastisk udsigt, og det er virkelig flot, men vi pumper vandet op, og så løber det selv ned. Der har det nok som at lave noget rekreativt, og så skal pumpe med vandet altid. Det er måske ikke helt fantastisk. Noget af træværket giver os gode opholdssteder.
+
+00:36:14
+Men igen, 10 år efter, så skal det renoveres. Her har man lavet nogle tørre stugningsbassiner, som var lavet med inspiration fra norske fjellområder.
+
+00:36:24
+Det var rigtig flot på de gamle billeder, men går man ud i dag, så er det vokset til i ugennemtrængelige skov, og det er meget svært at færdes i, for det ligger de halvstore stene, som er næsten umulige at gå på.
+
+00:36:38
+Så der har man været forelsket i at lave noget flot, og det er lykkes, men man har ikke, synes jeg i hvert fald for min stol, man kunne godt have tænkt lidt mere overdriftende holdbarheden.
+
+00:36:49
+Der var mange andre ting, man kunne slå ned i, men det vi tænkte efter at have set alle de her baseringer, alle de her variationer, og også vi fandt ting på nyere baseringer og tænkte, at det er sgu ikke smart, det her kan vi ikke komme til at drifte.
+
+00:36:59
+Det var, at vi er nødt til at have de her erfaringer samlet op og have lavet et grundlag for, at vi fremover i hvert fald bruger alle de erfaringer, vi har og gør det bedst muligt. Så vi tænkte, at vi skal lave en kravsspecifikation for regnsængere.
+
+00:37:12
+Og det vi gjorde var, at vi opsamlede de interne erfaringer. Hvad lærer vi med at planlægge en udførsel og især driften? Hvad virker og hvad virker ikke? Hvad står der i de gamle? Det bedste materiale jeg kunne finde på det her tidspunkt var lidt til min overrækkelse.
+
+00:37:28
+Det var det gamle faktablad om dimensionering fra 2012 og baggrundsrapporten til det. Og så kiggede vi selvfølgelig på alle de kravaspekter, som alle mulige andre forsyninger havde lavet.
+
+00:37:40
+Og samlede det sammen i en Det vi kalder et teknisk krav, hvor vi beskriver, hvordan vi gerne vil have bassiner anlagt, så vi ved de regnelser, så vi ved, at vi kan komptere alle driftpunkter, og så vi ved, at det er så robust som overhovedet muligt.
+
+00:37:59
+Så på den måde ensretter vi anlæg af nye regnersbassiner og gør det så godt som muligt. Det er så selvfølgelig sådan, Der er aldrig helt plads nok, eller koderne er lidt for forkerte, eller der er nogle særlige ønsker til, hvordan det skal se ud.
+
+00:38:12
+Så det kommer næsten aldrig til at se ud, som vi har som udgangspunkt. Men det giver et rigtig godt stå sted for den drøftelse, der er med myndigheder, med developer og med naboer. Hvem vil vi gerne have, og hvorfor vil vi gerne have det?
+
+00:38:27
+Og når man så måme fravige, så er det sådan en bevidst beslutning.
+
+00:38:32
+Da vi både laver en teknisk kravsbeskrivelse, som er den, vi bruger mest, men vi har også lavet en vejledning for regningspladseringer, som er lidt mere generelt og lidt mere ordnet, som vi tænker er rettet mod planlæggere, og der vælger på i de indledende stadier, at man skal forstå, hvad er et regningspladsering, hvor meget plads tager det, hvilke tilladelser skal der være, hvilke forhold skal man tjekke på det sted, man har tænkt sig at lægge det, for ikke at opkomme i konflikt med anden lovgivning og anden anvendelse.
+
+00:38:59
+Den er vi faktisk blevet ret glade for, og det er et dokument, vi løbende opdaterer på.
+
+00:39:07
+Men noget af det, der var overraskende i de arbejde, hvor vi satte os ned og læste rigtig meget, det var jo, at det bedste, jeg kunne finde, det var fra 2012, og her er vi altså i 2022-2023, og vi er stadigvæk, hvor det bedste, jeg kan finde, og hvordan laver man en god regnforsager på dansk, det er fra 2012.
+
+00:39:25
+Det synes jeg var lidt overraskende. Det var et forsøg på at sige, hvad vi har lært. Jeg ved ikke, om der er relevante spørgsmål til det.
+
+00:39:38
+Der er lige kækket en ind, om alle ni kommuner er enige i den linje, vi har lagt i materialet.
+
+00:39:47
+Jeg tror, de er glade for, at vi ens retter det lidt. Det er et NovaFors materiale, det er vores udspil om, hvordan vi gerne vil have regnet. De er ikke enige i det hele.
+
+00:40:03
+Noget af det, der har givet en hel del driftslyst til kommunerne er, at vi gik bort fra jordforbræssningerne, fordi vi sagde, at dem kan vi ikke drifte, uden det bliver ualmindeligt dyrt. Det giver ingen mening.
+
+00:40:15
+Vi vil gerne lave nogle mindre forbræssninger, enten som en kovikasse, som er en betonkasse foran udløbet, eller med at lave forbræssninger med fast bund, som selv kan renses op med kranladsbil. Det fungerer rigtig godt driftmæssigt, men det involverer mere beton.
+
+00:40:34
+Selvom det næsten hele er skjult under vandet, så bliver der i nogle situationer et bygværk. Nogle af kommunerne havde det som et kreativt område. Alt det beton vil vi meget nødigt have vist. Der har været en del diskussioner. Det er en afvejning, man må tage.
+
+00:40:55
+Vi skal have vores forsyning til at virke. Vi har krav til, at vi skal gøre det billigst muligt, men de har også krav. De vil gerne lave gode, flotte byområder. Det må vi tale om. Indtil videre er det lykkes at finde gode løsninger.
+
+00:41:11
+Jeg har skrevet mange forklaringer til, hvorfor vi ikke kan bruge jordforpassinger.
+
+00:41:16
+Der bliver spurgt, hvordan vi forholder os til den rekreative og biologiske værdi på stedet, som er opstået over mange år. Det er måske at spille ind med kommunernes ønsker.
+
+00:41:28
+Vi ser det sådan, at for os, der er regningsbesøgere, er det noget, vi laver, som er meget synligt. Jeg har det personligt fint med, at jeg synes det er dejligt, at det bliver brugt. Det udvikler en naturværdi.
+
+00:41:44
+Vi drøfte det i styregruppen, at når vi får lavet god natur, kan det gøre næste opregning mere besværligt, hvis der indfinder sig bilag i fire arter. Så kræver det mere papir og flere armbøjninger. Vores delgang er, at vi arbejder i et tæt bebygget område, hvor der er meget plads mange steder.
+
+00:42:05
+Der er det fint, at vores bassiner har flere funktioner. De fungerer ret kreativt naturmæssigt, og så tager vi det besvær med. Indtil videre er det lykkedes for alle personer. Det kan godt være, at jeg møder en på et tidspunkt, hvor jeg tænker, at den her kan vi ikke knække.
+
+00:42:20
+Vi kan simpelthen ikke få tilladelse til at rense op og renovere. Men indtil videre er det lykkedes. Det tager nogle gange nogle arbejder, men resultatet bliver fint.
+
+00:42:28
+Der er mange spørgsmål nu, så det er lige med, om vi...
+
+00:42:31
+Dem tror jeg, vi lige gemmer lidt, for det kan man tale rigtig længe om. Jeg vil godt lige nå at fortælle om vores...
+
+00:42:39
+Ja, jeg skal lige sige, Den, der er blevet spurgt, med teknisk kravspecifikation. Den kan fås på henvendelse til Jens, der er mail senere i forløbet.
+
+00:42:47
+Jeg vil sige noget om to ting, vi er i gang med at lære. Det ene er om at udtørre sedimentet, når vi renser bassinet op. Det, der sker, hvis man bruger den traditionelle metode med oprensning, det er, at du ender med at køre noget, hvor der er 20-25% tørrestof og 75-80% vand.
+
+00:43:09
+I Nordfors-området kan vi ikke få tilladelse til udtøjning af sediment på bassinkantet. Det betyder, at vi skal køre sedimentbord, som i virkeligheden er 20-25 % tørrestof. Resten er vand, når vi skal betale deponeringsafgiften på 600-800 kroner pr. ton.
+
+00:43:27
+Så vi brænder en masse CO2 af, eller brænder en masse diesel af, og laver en masse CO2, når vi kører rundt med alt det der vand. Det har vi længe tænkt. Det er simpelthen for dumt. Så vi er i gang med at lave nogle forsøg med at udtørre sedimentet.
+
+00:43:43
+Vi gjorde det i sidste år, at vi havde noget sediment i nogle palletanke, og så plantede vi forskellige planter i dem og målede på, hvordan tør det helst, sætter vi mindt ud henover en sår, og fandt ud af, at vi sagde palletankene med tovrør i, de tørrede, det var altså rigtig, rigtig effektivt.
+
+00:44:02
+Det der sediment, vi havde puttet i, som havde 20% tørrestof omkring 1. marts, I slutningen af juli havde det 85% tørrestof, altså 15% vand. Så der var virkelig sket noget. Og de her tagrører var virkelig effektive. Og hvis man lige tager lidt økonomi, så kan I se figurerne op til højre.
+
+00:44:20
+Det her er et regneeksempel fra et rigtig stort bassin. med rigtig meget sediment. Hvis man bare bortskaffede sedimentet med den traditionelle metode, så ville det koste os 3 mio.
+
+00:44:30
+kr., mens hvis vi kunne nå frem til den tørrhed, vi havde i start september, så kunne vi bortskaffe sedimentet for 3 mio. kr. Så vi tænkte, der er jo noget at gå efter.
+
+00:44:42
+Vi fandt så ud af, at der ville vi så til at skalede op her i år, at noget af det, vi havde gjort i vores forsøg, var ikke helt fantastisk. Nogle af de måder, vi havde plantet på, kunne vi ikke lave op i stor størrelse.
+
+00:44:55
+Vi er i gang i år med et forsøg to, hvor vi har været omhyggelige med at bruge planter og sågplanter. Det her kan vi godt lave op i to størrelser. Lige nu ser det rigtig fint ud. Vores tagrør gror rigtig godt. Sedimentet virker tørt. Vi har ikke målt på det endnu. Det gør vi om en måneds tid.
+
+00:45:12
+Men det ser godt ud. Vi er spændte. Planen er, at det skal vi have skæleret op fra en palletang på en kubikmeter til flere tusinde kubikmeter. Det arbejder vi på to måder. Den ene er, at vi bruger nogle nedlagte slammemineraliseringsspæde på et af vores gamle rensanlæg.
+
+00:45:38
+Der ligger syv fine bassiner med dren og hele setupet til at lave udtøring i. Dem vil vi gerne kombinere fra at være anvendt til slagm til regningsanlæg til at bruge til slagm fra sedimentforregningspladsen. Det kræver selvfølgelig en revideret løkudkendelse.
+
+00:45:58
+Vi skal lave en lille smule om på anlægget, og så skal vi selvfølgelig få noget ekstra håndtering af sedimentet, når vi skal køre den ekstra gang, og vi får lidt drift på udtøjningsperioden.
+
+00:46:09
+Og så sker der noget, når vi i stedet for at bare køre jorden direkte bort, eller direkte bort, begynder at tørre på det, så bliver det klassificeret som affald i stedet for som forregnet jord. Vi har regnet på det med alle de udgifter, vi ser, vi får, og de ekstra håndteringer osv.
+
+00:46:25
+Vi regner os frem til i forløbet, at vi kan spare en 30-40% af sedimentet, eller af CO2, og vi kan spare en 40-50% af økonomien. Så det synes vi ser rigtig godt ud. Vi håber på, at det falder på plads, så vi kan lave det første forsøg i den kommende vinter. Men det ved vi fortsat ikke.
+
+00:46:47
+Vi har fortsat ikke miljøudkendelsen på plads. Det andet, vi gerne vil gøre, er at udtørre sedimentet nede i bassinet. Det er et kæmpestort bassin med meget sediment. Der var planen at lave en sponge og afstøre en del af bassinet, og så pumpe sediment deroppe i over to sæsoner og udtørre det.
+
+00:47:16
+Det krævede flere tilladelser. Dels skal man have myndighedens accept af eller tilladelse til, at man flytter sedimentet internt i bassinet og udtørrer det. og man skal have tilladelse til at transportere et udtøjet sediment som forurenet jord.
+
+00:47:33
+Det viste sig som at det her bassin herovre, hvor vi har rigtig meget sediment, som er virkelig stærkt forurenet, at det gav en række usikkerheder i projektet. Kunne vi få lov til det? Og var vi selv sikre på, at metoden ville fungere i den her skala?
+
+00:47:49
+Inden vi mere tænkte, at det er for usikkert det her, så nu har vi arbejdet på en anden og en simpler løsning. Men det er en metode, vi prøver igen. et mere regnet sted, hvor vi har lidt mindre mængde af sediment i forhold til bassinet størrelse, og har noget lidt mindre forregnet sediment.
+
+00:48:05
+Så vi håber på vej ud, at vi kører rundt med 80% vand, for det er simpelthen håbløst. Det er det ene, vi gør. Og det andet, vi gør, er at vi forsøger at opdatere på den viden, vi har om design af våde regnets bassiner.
+
+00:48:24
+Når jeg har læst på det og talt med alle de eksperter, jeg kunne finde, så er det, der bliver vist tilbage til, faktablet om dimensionering af både regnvandspladseringer og en baggrundsrapport, der ligger bagved det. Det er rigtig fin materiale, men det er lavet i 2012.
+
+00:48:40
+Det er altså ved at være lang tid siden. Når man søger både i dansk kontekst, men også internationalt, så er der produceret rigtig meget viden om regnvandspladseringersiden.
+
+00:48:51
+Det er bare viden, som ligger spredt i specialer, PUD-vejenhandling, forskningsartikler, som jeg i hvert fald ikke har muligheden for at læse. Så jeg har tænkt i nogle år, at det er her, der er behov for at få opdateret.
+
+00:49:02
+Nu er vi så fået skruet et projekt sammen, hvor vi faktisk får opdateret på viden om regnforskninger. Hvad har eksperterne lært om det her siden 2012? Så nu citerer jeg lige lidt langt fra projektet. beskrivelsen.
+
+00:49:18
+Så det er det, vi gerne vil, at vi vil opdatere det vidensgrundlag, som forsyninger, kommuner og rådgivere har som fælles grundlag for design af våde regnvandsbesætninger. Og for Gud kan det sige projekter, hvor våde regnvandsbesætninger ikke går.
+
+00:49:29
+Så det er et forsøg på at lave en opdatering af faktabladet for de designeringer af våde regnvandsbesætninger. Og så fordi det netop skal være det, så skal produktet være anerkendt og upartisk.
+
+00:49:40
+Det vil også være oplagt for Miljø- og Fødevareklagenævnet at bruge det i kommende sager om kendelser om udledning af regnvand. Det kræver, at man tænker over projektdesignet. Hvis vi gerne vil være upartiske, kan vi ikke bare lave det som forsyninger.
+
+00:49:58
+Det vil ikke give mening, for vi er kun den ene part i det her. Vi har lavet et projekt, hvor vi både har forsyninger, rådgiver, universiteter og kommuner med i projektgruppen. Udenom os har vi en række ressourcepersoner, vi trækker lidt på. Vi bruger de eksperter, vi har i Danmark.
+
+00:50:23
+Der sidder jo en række forskere eller lignende, som løbende følger med og kan den internationale litteratur på det her. Den vil vi have til opdateret vidensgrundlag. Og så vil vi have lavet en opdateret anvisning eller en opdateret faktablad. Så skal jeg nok lige tage den en gang til.
+
+00:50:42
+Så det vi har lavet er et projektgruppe, hvor vi forsøger at sige, hvad er status for viden om regnespiseringer? Hvad er det for nogle spørgsmål, vi gerne vil have mere viden om? Det har vi forsøgt at formulere i projektgruppen. Der har vi nogle ressourcepersoner, vi har sparet med.
+
+00:50:57
+Så har vi nu der, hvor vi har indgået aftaler med en række af de rigtig gode eksperter, synes vi, på det her felt om at sige, det er de og de og de spørgsmål, vi gerne vil have opdateret. Hvad er der sket siden 2012? Når vi har fået det, vil vi lave et opdateret faktablad eller anvisning.
+
+00:51:15
+For at sikre, at det bliver anerkendt og er i orden, altså at kvaliteten er god, så har vi aftalt med regnudvalget under Spillevandskommittén, at det skal bearbejdes i Spillevandskommittén. Vi har direkte dialog med arbejdsgruppen om recipientpåvirken.
+
+00:51:34
+Det skal godkendes i regnudvalget, og så videre i planerforsamlingen. Vi tænker, at det kunne være en god måde at få tjekket, at det er i orden. Det er et projekt, hvor vi er fem forsyninger, et par rådgiver, universitet og nogle kommuner. Nu kan jeg se, at tiden løber for mig, men det passer.
+
+00:51:54
+Da vi er i de projekter nu, Det er, at vi har lavet beskrivelseæmnerne. Hvor er det, vi mangler viden? Det var meget spændt, da vi startede på. Hænger det her sammen, eller stritter det i forskellige retninger?
+
+00:52:10
+Den gode nyhed var, at det var meget ens, det vi fik tilbage, både fra forskellige forsyninger og fra kommuner. Lige nu er vi der, hvor vi har indgået aftaler med seks eksperter, som er ved at udarbejde nogle etater om de æmneområder, vi har udvalgt.
+
+00:52:28
+Når det er færdigt, helst sidst på året, så skal TI, Teknologisk Institut, lave en anvisning eller et opdateret faktablad i samarbejde med projektgruppen af vores ressourcepersoner.
+
+00:52:41
+Det der er planen, der skal komme ud af det, er at vi får de her relativt korte notater fra eksperterne, og så et opdateret anvisningsgrupper i faktabladen, som vi får udgivet som enten et samlet skrift eller en samlet rapport under Spillevandskomiteen.
+
+00:52:59
+Og her til højre kan I så se, hvem vi har indgået aftale med nu. Og der har i hvert fald mig og Katrine Nielsen, som er projektleder for TI, har det sådan, at det er vores dreamteam. Vi synes, vi har fået nogle rigtig gode folk til at gå ind og hjælpe med at opdatere viden.
+
+00:53:12
+Så vi tror på, at når de har været igennem, så ved vi, hvad der er sket siden 2012, og har den mest opdaterede viden. Vi vil sikkert opdage, at nogen steder er der sket noget, og andre steder kan vi sige noget.
+
+00:53:23
+Andre steder vil eksperterne sige, at det er et meget godt spørgsmål, I har der i branchen. Det er der ikke nogen, der ved, men jeg kan godt lave et lille forskningsprojekt på det. Men der er vi meget spændte på, hvad vi kan lave som opdateret anvisning eller faktabladen.
+
+00:53:41
+Men uanset hvad, har vi det sådan, at bare det at få afklaret, hvad vi vides i dag, og hvad vi vides ikke, synes vi er et rigtig godt skridt fremad. Det var det, jeg havde planlagt at sige.
+
+00:53:56
+Så.
+
+00:53:57
+Er der tid til nogle spørgsmål, og I kan også se min kontaktoplysning, og hvis der er noget, I gerne vil vide eller spørge mere om, så er der en mail, I kan henvende jer på.
+
+00:54:04
+Det kan godt være, at der lige går et par dage, inden jeg svarer, fordi nogle gange har jeg lidt trovlt, men jeg prioriterer for så meget. Jeg.
+
+00:54:11
+Tænker, at der ligger en hel del spørgsmål derinde, men jeg prøver lige at runde af, og folk skal også ud af døren. Så vil jeg lige sige det lidt praktiske, så vi også når at få det med. Hele oplægget her er blevet optaget, og vil blive delt på DLNK's hjemmeside.
+
+00:54:27
+Så I kan gå ind og se det igen, hvis der var noget, I ikke fik fat i første gang. Der er mange spørgsmål. Det er lige med at få dukket ned i det. Først og fremmest kan I kontakte Jens, hvis I er interesseret i at få fat i vores kraftspisning.
+
+00:54:52
+Skriv til Jens omkring vidensdeling, for det er noget, vi vægter højt for os. Jeg ved ikke om vi kan gå ind i detaljer, det bliver lidt panik. Vi.
+
+00:55:07
+Har fem minutter, du kan godt nå.
+
+00:55:09
+Et par sekunder. Der står, om vi har en idé om, hvad vedligeholdelsesomme kostningerne er per kubikmeter projektet regnvejrtræsning per år. Det.
+
+00:55:19
+Kan jeg simpelthen ikke huske. Vi har regnet på det, det gør vi som standarddel af vores planlæggende. Der regner vi på sedimenter, pååbning og prisen på drift. Jeg kan simpelthen ikke huske priserne.
+
+00:55:31
+Vi har nogle erfaringstal, som har noget med virkeligheden at gøre, men særlig præcist er det jo ikke. Så.
+
+00:55:37
+Bliver der spurgt, om der er alternativ anvendelse eller nyttiggørelse af det udtøjet sediment. Det.
+
+00:55:44
+Der sker med det, er jo typisk, at vi kører det til jordmodtagere, og så kører jordmodtagere det videre til genanvendelse, som typisk skal indbygges i sløjebolle, havnemåler, opfyldt... Det er jo forurenet jord. Det er klasse 3 eller 4 jord.
+
+00:56:01
+Vi har ikke fundet nogen måder, hvor man kan genindvende fosfor fra sedimentet. Vi holder øje med, hvad der sker, men vi har ikke fundet noget interessant endnu. Vi.
+
+00:56:16
+Har samarbejdet vidensdeling med for eksempel HOFOR, som jo også er en forsyning med os. Vi.
+
+00:56:24
+Har lidt dialog med HOFOR, vi har samarbejdet om et fællesbassin, men HOFOR har ikke så mange regnvandsbassiner. Der, hvor vi har haft et tæt samarbejde, har vi haft rigtig stor glæde af.
+
+00:56:34
+Nu har vi lavet det her fælles projekt sammen med den her række forsyninger, jeg viste på den her slide, som er rigtig fint, og vi har rigtig stor glæde af. Men hvorfor har vi ikke så meget med? Vi har tænkt lidt oplevelsen. Rennesbasseringer er ikke noget, de prioriterer.
+
+00:56:54
+De har et stort, dejligt øresund lige ved siden af.
+
+00:56:58
+Ja, og så står der her om borgerne var bange for drukneulykker ved dybe bassiner. Om det er noget vi hører noget om borgerne? Om det er noget du er hovedet inde i? Eller om det bliver rettet et andet sted hen end til dig? Nej.
+
+00:57:14
+Den tager vi faktisk. Nogle enkle steder har vi. Vi havde for eksempel et bassin vi rensede op. som lå midt i et vildere område og deres rekreative muligheder. Nogle af borgerne ville gerne have fjernet hegnet. De ville gerne bo i bassinet rekreativt.
+
+00:57:31
+Nogle af borgerne med små børn var noget skeptiske. Der gjorde vi det, at vi tilrettede brædderne på bassinet, så det blev langt fladere. Vi lagde sten ud langs kanten, så det var muligt at komme op og ned i bassinet.
+
+00:57:47
+Men det er et issue, og det er et issue, vi også har fokus på i den her opdatering af vidensgrundlaget, fordi der ligger ikke sådan noget autoriseret materiale på det.
+
+00:57:56
+Der ligger en anvisning fra Teknologisk Institut om Natur og Rekreation ved Vådebassin, tror jeg, den hedder, fra nogle år tilbage, hvor der står noget fint om sikkerhed. Det forsøger vi at få kvalitetssikret, og vil så forsøge at give en lidt mere klart form.
+
+00:58:14
+Hvad er det, man skal tage indsyn til ved sikkerhed?
+
+00:58:19
+Formålet med at lave et forbadsseng, hvordan vi håndterer det fine materiale? Hvis.
+
+00:58:38
+Man læser faktabladet på både regnholdsseng og baggrundsrapporten, så er det meget tydeligt i det materiale, at det primære formål er at mindske driftudgifterne.
+
+00:58:47
+Man kan fange de grove sediment, som ikke binder særlig store mængder af forureningen, men som udgør en rigtig stor del af det tilførte materiale. Med et godt forurening kan man fjerne det billigt.
+
+00:59:04
+Men en stor del af forureningen sidder på de fine partikler, som kræver længere tid at bundfølge, og det sker først ude.
+
+00:59:10
+I det store bassin. Ja, hver klokken er løbet fra os. Tusind tak, fordi der er så mange, der har meldt sig til. Vi er glade for, at DNNK kunne virke appetit. Og så tænker jeg, at I kan melde jer til mange flere spændende DNNK-arrangementer derinde i kalenderen. Tak fordi I deltog.
+
+00:59:32
+Rigtig god dag allesammen. Rigtig.
+
+00:59:33
+God dag. Jeg håber, I fik noget ud af det.
+
