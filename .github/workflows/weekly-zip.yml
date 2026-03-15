@@ -1,0 +1,48 @@
+name: Weekly Transcription ZIP
+
+on:
+  schedule:
+    # Kører hver søndag kl. 20:00 UTC
+    - cron: '0 20 * * 0'
+  workflow_dispatch: # Tillader manuel kørsel
+
+jobs:
+  create-zip:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+    
+    - name: Get current date
+      id: date
+      run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
+    
+    - name: Create ZIP of all transcriptions
+      run: |
+        # Opret ZIP med alle transskriptioner
+        cd transcritranscriptions
+        zip -r ../DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip *.txt
+        cd ..
+    
+    - name: Upload ZIP as artifact
+      uses: actions/upload-artifact@v4
+      with:
+        name: DNNK_Transskriptioner_${{ steps.date.outputs.date }}
+        path: DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip
+        retention-days: 30
+    
+    - name: Create Release with ZIP
+      uses: softprops/action-gh-release@v1
+      with:
+        tag_name: weekly-${{ steps.date.outputs.date }}
+        name: Transskriptioner ${{ steps.date.outputs.date }}
+        body: |
+          📦 Ugentlig ZIP med alle DNNK webinar transskriptioner
+          
+          **Download ZIP-filen nedenfor og upload til dit Claude Project**
+          
+          Indeholder alle transskriptioner frem til ${{ steps.date.outputs.date }}
+        files: DNNK_Transskriptioner_${{ steps.date.outputs.date }}.zip
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
