@@ -19,7 +19,7 @@ TRANSCRIPTIONS_FOLDER = Path("transcriptions")
 PROCESSED_VIDEOS_FILE = "processed_videos.json"
 
 # Kun videoer uploadet efter denne dato transskriberes
-CUTOFF_DATE = date(2026, 1, 1)
+# Ingen cutoff - alle videoer transskriberes
 
 CATEGORIES = {
     "Tech_Talks":           "https://www.dnnk.dk/tech-talks/",
@@ -58,31 +58,8 @@ def extract_youtube_id(url):
     return None
 
 def get_video_upload_date(video_id):
-    """Hent uploaddato via YouTube oEmbed API - ingen installation krævet"""
-    try:
-        url = f"https://www.youtube.com/oembed?url=https://youtube.com/watch?v={video_id}&format=json"
-        resp = requests.get(url, timeout=10, headers={"User-Agent": "DNNK-Transcriptor/1.0"})
-        if resp.status_code == 200:
-            # oEmbed giver ikke dato direkte, brug YouTube page scraping
-            page_url = f"https://www.youtube.com/watch?v={video_id}"
-            page_resp = requests.get(page_url, timeout=15,
-                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
-            
-            import re
-            # Find publiceringsdato i JSON-LD eller meta tags
-            match = re.search(r'"datePublished":"(\d{4}-\d{2}-\d{2})"', page_resp.text)
-            if match:
-                d = match.group(1)
-                return date(int(d[:4]), int(d[5:7]), int(d[8:10]))
-            
-            # Alternativ: uploadDate
-            match = re.search(r'"uploadDate":"(\d{4}-\d{2}-\d{2})', page_resp.text)
-            if match:
-                d = match.group(1)
-                return date(int(d[:4]), int(d[5:7]), int(d[8:10]))
-    except Exception as e:
-        print(f"      ⚠️ Kunne ikke hente uploaddato: {e}")
-    return None
+    """Returnerer altid dato - ingen cutoff"""
+    return date.today()
 
 def scrape_category_for_videos(category_url):
     try:
@@ -176,7 +153,7 @@ def save_transcription(video_id, transcription, category):
 def main():
     print(f"\n{'='*60}")
     print(f"🔍 Starter tjek for nye webinarer - {datetime.now()}")
-    print(f"📅 Cutoff dato: {CUTOFF_DATE} (kun videoer efter denne dato)")
+    print("📋 Transskriberer alle videoer der ikke allerede er behandlet")
     print(f"{'='*60}\n")
 
     processed_videos = load_processed_videos()
