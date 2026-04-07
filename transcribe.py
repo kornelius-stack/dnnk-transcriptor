@@ -10,7 +10,6 @@ from bs4 import BeautifulSoup
 import json
 import os
 import time
-import subprocess
 from datetime import datetime, date
 from pathlib import Path
 
@@ -59,16 +58,28 @@ def extract_youtube_id(url):
     return None
 
 def get_video_upload_date(video_id):
-    """Hent uploaddato via yt-dlp"""
+    """Hent uploaddato via YouTube oEmbed API - ingen installation krævet"""
     try:
-        result = subprocess.run(
-            ["yt-dlp", "--get-filename", "-o", "%(upload_date)s",
-             f"https://youtube.com/watch?v={video_id}"],
-            capture_output=True, text=True, timeout=30
-        )
-        date_str = result.stdout.strip()
-        if date_str and len(date_str) == 8:
-            return date(int(date_str[:4]), int(date_str[4:6]), int(date_str[6:8]))
+        url = f"https://www.youtube.com/oembed?url=https://youtube.com/watch?v={video_id}&format=json"
+        resp = requests.get(url, timeout=10, headers={"User-Agent": "DNNK-Transcriptor/1.0"})
+        if resp.status_code == 200:
+            # oEmbed giver ikke dato direkte, brug YouTube page scraping
+            page_url = f"https://www.youtube.com/watch?v={video_id}"
+            page_resp = requests.get(page_url, timeout=15,
+                headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
+            
+            import re
+            # Find publiceringsdato i JSON-LD eller meta tags
+            match = re.search(r'"datePublished":"(\d{4}-\d{2}-\d{2})"', page_resp.text)
+            if match:
+                d = match.group(1)
+                return date(int(d[:4]), int(d[5:7]), int(d[8:10]))
+            
+            # Alternativ: uploadDate
+            match = re.search(r'"uploadDate":"(\d{4}-\d{2}-\d{2})', page_resp.text)
+            if match:
+                d = match.group(1)
+                return date(int(d[:4]), int(d[5:7]), int(d[8:10]))
     except Exception as e:
         print(f"      ⚠️ Kunne ikke hente uploaddato: {e}")
     return None
