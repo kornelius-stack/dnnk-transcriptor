@@ -2,7 +2,7 @@
 """
 DNNK Webinar Auto-Transskription
 Overvåger DNNK's vidensbank og transskriberer nye webinarer
-Kun videoer uploadet efter CUTOFF_DATE transskriberes
+Transskriberer alle videoer der ikke allerede er behandlet
 """
 
 import requests
@@ -169,19 +169,8 @@ def main():
                 continue
 
             # Tjek uploaddato
-            upload_date = get_video_upload_date(video_id)
 
-            if upload_date is None:
-                print(f"   ⚠️ Springer over {video_id} – kunne ikke verificere dato")
-                save_processed_video(video_id)
-                continue
-
-            if upload_date < CUTOFF_DATE:
-                print(f"   ⏭️ Springer over {video_id} – uploadet {upload_date} (for gammel)")
-                save_processed_video(video_id)
-                continue
-
-            print(f"\n   🆕 Ny video fundet: {video_id} (uploadet {upload_date})")
+            print(f"\n   🆕 Ny video fundet: {video_id}")
             print(f"      URL: https://youtube.com/watch?v={video_id}")
             print(f"      🎤 Starter transskription...")
 
