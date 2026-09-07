@@ -1,0 +1,512 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: wEl5KwXTgmQ
+URL: https://youtube.com/watch?v=wEl5KwXTgmQ
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-09-07T10:27:09.266332
+
+==================================================
+
+00:00:00
+Så velkommen alle til dette webinar, som er lidt anderledes end de normale DNN-case-webinarer, da vi har
+
+00:00:30
+inviteret eksterne partnere fra mere end bare Tyskland - faktisk deltager en stor del af Europa. Så det er ret spændende. Øh, dette øh webinar er sammensat baseret på en felttur, som vi havde i DNNK, det danske netværk for klimatilpasning, øh i dette netværk i juni. Vi tog på en studietur til Hamborg for at udforske
+
+00:01:00
+lidt om klimatilpasning, og hvordan det gøres forskellige steder. Øh, hvilket var en fantastisk tur med en masse netværk og også øh et møde med det danske ministerteam i Hamborg, der derefter udviklede sig til denne samtale om potentialet i at blive bedre til at udveksle og have samtaler på tværs af grænser, og hvordan vi kan lære og arbejde sammen om klimatilpasning. Så det er det, vi skal høre og tale om i den næste halvanden time. Øh, vi har fire forskellige
+
+00:01:30
+sessioner. Åh, en hel del forskellige talere, der præsenterer. Og lige et par rengøringsregler inden vi går i gang. Begivenheden her vil blive optaget og gjort tilgængelig på DNK's hjemmeside eller platform bagefter. Der er en vidensbank, hvor du kan få adgang til den. Øh, den vil være tilgængelig om et par dage. Øh, hvis du ikke taler, så slå venligst lyden fra og ræk hånden op eller brug chatfunktionen til at stille spørgsmål. Øh, og stil venligst bare
+
+00:02:00
+spørgsmål under hele sessionen. Og vi vil forsøge at gøre det så interaktivt som muligt. Øh, men med det, synes jeg bare, vi skal gå i gang. Og den første taler, vi skal høre fra, er fra WTA Europe. Øh, det er øh, der er alle forskellige slags lande repræsenteret, og vi vil høre fra de forskellige repræsentanter. WTA er et team af lokale
+
+00:02:30
+sektormesseeksperter, der støtter danske vandteknologivirksomheder på forskellige EU-markeder. Så WTA Europe dækker Spanien, Portugal, Italien, Polen, Sverige og Tyskland. Øh, så med det tror jeg, Laura, at du vil præsentere hver af dine kolleger her og øh få en introduktion til, hvem du er, og hvad du arbejder på. Så velkommen. Tak. Jeg giver den faktisk
+
+00:03:00
+til Trina, og øh, jeg deler slidesene nu. Så der er de. Så hej alle sammen. Øh ja, som Sarah lige sagde, øh, vi er et team fra Udenrigsministeriet, øh, hvor vi har et team på øh 12 rådgivere, der arbejder med vand i nogle europæiske lande. Mit navn er Trina, og jeg er teamleder for vores tyske Tyskland-team, men også
+
+00:03:30
+programstrategisk programrådgiver for VEU . øh, hvis du nu kan gå videre. Øh, så vi er et team på tværs af øh disse lande Tyskland, Italien, Polen, Portugal, Spanien og Sverige. Øh, hvor vi primært fokuserer på vores kommunale vand, øh, det betyder, at der er en masse offentlige forsyningsvirksomheder i vores netværk. Vi
+
+00:04:00
+arbejder tæt sammen på de forskellige lokale markeder, med forsyningsselskaber, kommuner, men også ministerier, som I ser i dag, hvor vores partnere fra North Vispal er der. Øh, og det vi gør, er at vi går ud og udveksler viden. Vi taler om, hvad vi har gjort i Danmark indtil videre af gode ting, men også hvilke udfordringer vi har haft, og det samme taler vi med de lokale partnere
+
+00:04:30
+om, og så prøver vi selvfølgelig at se, om vi har nogle stærke teknologier i Danmark, der passer ind i de forskellige markeder. Næste slide, tak. Og øh, for at gøre det bedst muligt, øh, har vi et team på, ja, som sagt, omkring 12, øh dedikerede rådgivere, hvor det er en blanding af lokale rådgivere fra de forskellige markeder, og så en
+
+00:05:00
+sektorekspert sendt ud fra Danmark, øh, og du vil møde dem - møde nogle af disse øh på de næste slides. Øh, vi arbejder primært med undersektorerne øh, vandmyndigheder, grundvandsinfrastruktur og spildevandsgrænser øh, men selvfølgelig også øh, øh, berører vi klimatilpasning, da dagens emne er øh, og ja, jeg ved ikke, om du vil overtage herfra, men øh i løbet af de næste øh par minutter vil du høre fra de forskellige
+
+00:05:30
+markeder om hvilke muligheder, og så er der øh, hilsen angående klimatilpasning. Hej. Kan du høre mig? Ja . Mange tak. Så, øh, mit navn er Michael. Jeg er eksperten i vandsektoren, øh, beliggende i Tyskland. Øh, jeg vil i de næste par minutter forsøge at kort fortælle lidt om Tyskland og noget af fokus på
+
+00:06:00
+klimatilpasning på dette marked. Så generelt set, da Tyskland er et stort land, står de over for mange forskellige udfordringer og mange forskellige klimarisici. Så det er både oversvømmende hedebølger og dermed også en overgang til tørke. Jeg vil primært fokusere på oversvømmelsen, øh, -delen af ​​det. I dag, og oversvømmelser, der begge er, selvfølgelig, et fokus her i forhold til overløb af floder, men øh, i
+
+00:06:30
+dette tilfælde hvor vi taler øh kommunale bymæssige vandkredsløb, så vil jeg mest tale om kloakoverløb og kloakoversvømmelser, øh, nogle af årsagerne her i Tyskland er selvfølgelig lovgivning, så tilpasningsstrategier øh, handlinger øh, der håndhæves generelt øh, lovgivningen håndhæves, hvor det er strengere og strengere med hensyn til øh antallet af overløb øh, selvfølgelig minimerer det, der
+
+00:07:00
+spildes ud i omgivelserne her, og nogle af årsagerne til den forfærdelige oversvømmelsesulykke i Artal i 2021, hvor øh desværre mange mennesker mistede livet. Så det har været en af ​​de offentlige drivkræfter for en forandring og for at tage klimatilpasningsstrategierne alvorligt her. Øh, det tyske marked er, så at sige, lidt
+
+00:07:30
+fragmenteret i de forskellige bundes långivere. Så der er mange aktører, der arbejder på dette, både på føderalt niveau, men også på regionalt og lokalt niveau. Nogle af udfordringerne i forbindelse med klimatilpasning og kloakoverløb er, at en ret betydelig del af det tyske kloaksystem stadig er kombineret kloak. Så det er selvfølgelig en stor udfordring, når man øh taler om øh kraftig nedbør. Øh, omkring 40% af kloaksystemet er
+
+00:08:00
+stadig kombineret kloaksystem i Tyskland, sammenlignet med Danmark, som for eksempel kun har 33%. Men det er en forandring i fremgang. De går mere og mere over til at have separat kloak, hvilket selvfølgelig er nyttigt med hensyn til at undgå spild ved kraftig regn. Ud over disse investeringer er nogle af de andre nøgleprojekter meget andet end opgradering af infrastrukturen,
+
+00:08:30
+også i denne store infrastruktur. Så det er øh fokus på blågrønne gader øh, der inkorporerer parker og har øh kombineret oversvømmelsesområder øh grønne tagestrategier, svampebyer er også et meget populært emne i de større byer. Så det er også nogle af mulighederne. Så det er kloakseparation, generelle opgraderinger af systemer, disse blågrønne investeringer, der især foregår i de større
+
+00:09:00
+byområder, og så er der også et skub og en interesse for digitalisering. Hvordan kan det værktøj hjælpe med at foretage fornuftige og også tidsmæssigt gode investeringer i al denne infrastruktur. Hej alle sammen, godmorgen. Mit navn er Benedikt Tasala. Jeg er lokal rådgiver for det italienske marked og arbejder på den danske ambassade i Rom. Så lad os tage et
+
+00:09:30
+kig på Italien. Italien er nu et af de europæiske lande, der er mest udsatte for klimaforandringer. Oversvømmelser og jordskred bliver hyppigere i nord, mens tørke og hedebølger rammer landbrug og byer, især i syd. og stigende havniveauer truer kystområder som Venedig. Så de vigtigste drivkræfter er klare. Vi har klimaforandringer, hurtig urbanisering, der efterlader meget lidt plads til
+
+00:10:00
+vand, og en aldrende vandinfrastruktur, der ofte har svært ved at klare sig. Samtidig er der store EU- og nationale investeringer, som åbner op for nye muligheder for løsninger. Øh, der er en bred vifte af aktører involveret i processen, lige fra det nationale miljøministerium og civilbeskyttelsen til regionale myndigheder, baseagenturer og selvfølgelig også lokale forsyningsselskaber og kommuner.
+
+00:10:30
+Så det betyder, at der er mange mulige indgangspunkter for samarbejde med Danmark og danske virksomheder. Og jeg tror, ​​at der for danske virksomheder, der er interesserede i det italienske marked, er en stærk efterspørgsel på områder, hvor vi har dokumenteret ekspertise, såsom digital vandhåndtering, lækagesporing, bydræning og selvfølgelig, som min kollega nævnte, også
+
+00:11:00
+naturbaserede løsninger og blågrøn infrastruktur, som kan hjælpe byer og regioner med at tilpasse sig klimaforandringer på en grønnere måde og blive mere modstandsdygtige. I dag ville jeg også fremhæve et flagskibsprojekt i Italien, som er DHI's bidrag til Venice Mos- oversvømmelsesbarrieren. Så hvor danske modelleringsværktøjer understøttede et af de mest ambitiøse kystbeskyttelsesprojekter i
+
+00:11:30
+verden. Så alt i alt, for at konkludere, tror jeg, at Italien både er et klima-hotspot, men også et meget lovende marked, og det kan være et sted, hvor danske vandløsninger kan gøre en reel forskel, og hvor partnerskaber kan vokse omkring de store investeringer, der allerede er i gang, i vandresistens og klimatilpasning. Så uden yderligere omsvøb går jeg videre til min
+
+00:12:00
+næste kollega. Mange tak for opmærksomheden. Ja , godmorgen. Jeg håber, du kan høre mig godt. Jeg er Bruno, den lokale person for Spanien og Portugal, sammen med min kollega Miguel, som vil tale lige efter mig. Hvis vi taler om klimatilpasning i Spanien, er vi nødt til at tale om mangel på vand, lavvandede områder og indtrængen af ​​saltvand i grundvandsmagasinerne. Og angående
+
+00:12:30
+køreturene, ja, i Spanien har vi hvert år problemer med punkteringer. Sidste år var lidt mere ekstremt end normalt. Jeg er helt sikker på, at du eller du ville vide mere om det problem, vi har i Valencia-området. Øhm, men hvis vi taler om tangoverløbet, så har vi allerede nogle regler på dette område, som virksomhederne skal overholde, og derfor skal alle virksomheder, ja, styre deres overløb af deres
+
+00:13:00
+udledning af havatang. Vi har også mange penge fra de europæiske lande at investere i denne henseende. Den ansvarlige aktør i Spanien er ministeriet på nationalt niveau. Så har vi de regionale vandområdeforvaltere, og også har vi de lokale, kommunale og forsyningsselskaberne. De udfordringer, vi står over for i Spanien, er de ekstreme vejrbegivenheder og
+
+00:13:30
+selvfølgelig vandmangel, og dette problem forværres i sommermånederne, hvor vi har endnu mindre vand tilgængeligt for befolkningen på grund af varmen og mindre regn, og vi har en stor stigning i befolkningen på grund af sommerferierne. Øh, vi har et Spanien, der er et stort turistmål. Så vi har flere, flere og flere mennesker om sommeren og mindre vand. Et andet stort problem i Spanien er, at vi har en meget gammel
+
+00:14:00
+infrastruktur, og også en meget lav vedvarende energipris. Spanien fokuserer lige nu på genbrug og opsaltning. Også en naturbaseret løsning til byer som Spawn Cities UH Park, der kan oversvømmes om nødvendigt, forskning i grundvandsmagasiner på naturlige måder. Øh ja, grønne og blå veje, og vi så en masse
+
+00:14:30
+muligheder for danske virksomheder, der gerne vil investere i dette område, for i Spanien har vi lige nu mange penge eller en masse finansiering fra regeringen til digitalisering, og digitalisering er et stort ord, der ikke er værd at tage med, men under denne paraply er der også en masse projekter vedrørende naturbaserede løsninger til tilpasning til klimaforandringer. Øh ja, øh, jeg vil nu give ordet videre til Miguel, som vil tale om
+
+00:15:00
+Portugal med meget lignende problemer. Ja, tak Bruno. Godmorgen alle sammen. Mit navn er Miguel P, og jeg er den lokale rådgiver her i Portugal, eller jeg arbejder i Lisman, sammen med Bruno. Øh, klimatilpasningslandskabet er meget ens i Portugal og Spanien, de ses ofte som varme markeder. Så man kan for
+
+00:15:30
+eksempel se, at de vigtigste klimarisici grundlæggende er de samme, nemlig tørke, vandmangel, oversvømmelser og indtrængen af ​​saltvand. Så det er meget sandsynligt, øh, øh, problemer med de samme programmer, især i det sydlige Portugal, hvor for eksempel tørken og krigen er et større problem på førersiden. Faktisk har der også været nogle planer fra regeringens side, og der er allerede nogle love, øh, til at håndtere disse problemer. Så for eksempel har vi, øh, loven,
+
+00:16:00
+som kan oversættes til vandloven, og vi har også strategien for tilpasning til klimaændringer, som også har til formål at tackle dette problem i forbindelse med klimatilpasning. Så har vi også, ligesom Spanien, noget øh, EU-finansiering øh til at løse dette problem. Nogle af de mest ansvarlige aktører, vi har på nationalt plan, er ministeriet for miljø og klima, ministeriet for infrastruktur og boliger, og så
+
+00:16:30
+det portugisiske miljøagentur, som er en meget relevant aktør. På den regionale side har vi flodbassin- og distriktsmyndighederne, og på den lokale side har vi kommunerne og også forsyningsselskaberne. Øh, når det kommer til udfordringer, øh, så ligner disse igen dem i Spanien. Vi ser også, at ekstreme vejrbegivenheder bliver hyppigere og hyppigere. Øh, vandmangel er, som jeg nævnte, et problem, og også den aldrende
+
+00:17:00
+infrastruktur, øh, og manglen på investeringer kan til tider også være et problem. Vi har allerede et par projekter i gang i havnen i Portugal. For eksempel har vi forvaltningsplanerne for flodbasser og mana. De sikrer grundlæggende en god vandtilstand, bæredygtig vandanvendelse og forsøger også at integrere alle disse foranstaltninger. Så har vi også nogle projekter i gang om genbrug af vand og dalinering. Disse er i Algaro, som ligger i den sydlige del
+
+00:17:30
+af Portugal, og også på Mada-øen. Og så har vi også allerede naturbaserede løsninger, især byen Porto er meget kendt for at integrere den slags løsninger og også en genfødselsplan i den større Ka-dal. Endelig er der mange muligheder, især når det kommer til digital transformation, spredning af smarte kunstvandingssystemer og andre, og der er også, øh, et voksende
+
+00:18:00
+marked for bæredygtige bydræningssystemer . Øh, så med det, øh, har jeg også afsluttet min præsentation. Tak til jer alle. Ja . Hej. Øhm, mit navn er Pavo Pavosski, og øhm, jeg repræsenterer WTA i Warszawa. Øh, og jeg sidder her sammen med min kollega Alf Thomasson og tager os af det polske
+
+00:18:30
+marked. Øh, de problemer, jeg nævnte øh øh for Polen, er ret de samme, som I har hørt før. Øh oversvømmelse øh normalt kommer oversvømmelsen øh efter kraftig regn. Så det er pludselig oversvømmelse. Øh for nylig har vi også hørt øh, vi har også set øh øh øget hyppighed af tørke. Det er konsekvensen af ​​den meget lave nedbør. Øh, i byer øh, ser vi varmeøer
+
+00:19:00
+. Øh, det er resultatet af øh, mange solskinstimer, det stigende antal solskinstimer på et år, og alle de øh øh alle de grunde, øh, som jeg lige har nævnt, der ligger bag jer: vandmangel. Vi har lidt af vandmangel på det seneste, og det er et ret nyt fænomen for os. Øh, de problemer, vi stadig har, er den høje kulstofudledning af energiproduktionen.
+
+00:19:30
+Kun 20, 25 til 30 % af vores elektricitet produceres fra vedvarende energikilder. Øh, samtidig har vi øh øh skovrydning øh, og stadig øh et par øh øh brunkulminer øh, der er i drift, hvilket øh igen øh omsættes til reduceret øh til faldende grundvandsspejl.
+
+00:20:00
+Øh, vi ser også et højt ikke-indtægtsbaseret vand, afhængigt af hvem du spørger, øh, du får et tal mellem 10 og 50 %, men jeg tror, ​​der er mange steder, hvor øh-ikke-indtægtsbaseret vand er endnu øh øh højere. Vi har set oversvømmelser i det sydvestlige Polen efter kraftig regn. Øh øh og øh, i øh, tørken er koncentreret i øh nord og
+
+00:20:30
+øh vest Polen. Øh, også hvor brunkulminerne ligger. Heldigvis har vi EU-midler til rådighed, som bruges til at modvirke dette. Øh, og øh, efter dette vedtog vi en ny strategi for klimatilpasning. Øh, en stor del af denne strategi er, at øh,
+
+00:21:00
+alle byer med over 20.000 indbyggere nu skal have en klimatilpasningsplan. Øh, den aktør, der er ansvarlig for klimaproblemerne i Polen, er selvfølgelig klimaministeriet. Øh, de fokuserer normalt på dekarbonisering af øh- økonomien. Vodolski er regulatoren, men de er også ansvarlige for forvaltningen af ​​flodbækkener og grundvand, der delvist er ansvarlige for at
+
+00:21:30
+modvirke tørke. Infrastrukturministeriet sørger for offentlighedens adgang til drikkevand, og landbrugsministeriet er ansvarlig for tørke og kunstvanding. Øh, på udfordringerne, øh, vi har stadig en masse øh politisk øh uenighed om vindenergi. Derfor er udviklingen af ​​​​øh øh
+
+00:22:00
+vindenergi så langsom. Desværre henviser det også til atomkraftværker. Vi har stadig ikke et atomkraftværk. Øh, og dette er også hovedårsagen til den høje karbonisering af øh vores øh vores elproduktion. Øh, der er ingen standard for øh finansiering af øh øh fastholdelsesinvesteringer, og der er også altid en masse uenighed mellem forsyningsselskabet, det lokale
+
+00:22:30
+forsyningsselskab, og kommunen, hvem der skal finansiere øh hvilken del af den grøn-blå infrastruktur. Heldigvis har vi mindst tre meget gode eksempler på storbyer, der har gennemgået denne proces. Så er der noget vigtigt at henvise til. Vi lider også af et utilstrækkeligt antal og en utilstrækkelig kapacitet af kunstige søer, hvilket mindsker vores evne til at tilbageholde vand og til at beskytte og forhindre mod
+
+00:23:00
+lokale oversvømmelser. Øh, jeg har allerede nævnt vores bytilpasningsplaner, og øh, det er en god øh forandringsfaktor for den forandring, der kommer. Øhm, og vi begyndte også at bygge nye kunstige søer, især i det sydvestlige Polen, som er mest udsat for pludselige oversvømmelser. Der er også gode planer om at lukke i det mindste en del af lignitminerne og
+
+00:23:30
+omdanne dem til kunstige søer, der burde hjælpe mod tørkemulighederne. Hvis byens klimatilpasningsplaner bliver til virkelighed, vil der selvfølgelig være et stort behov for byggearbejde, men også for digitalisering og modellering. Øh, ikke-indtægtsgivende vandteknologier er efterspurgte. Øh, det er
+
+00:24:00
+fordi, øh, vi skal indføre en ny lov om maksimal ikke-indtægtsgivende vandmængde. Dette er forventet, og vi forventer også en ny lov om genbrug af renset spildevand. Så dette ville også øh hjælpe med at reducere tørkefænomenet. Mange tak . Det er alle nyhederne fra Polen. Ja . Øh hej alle sammen. Åh, undskyld. Øhm,
+
+00:24:30
+mit navn er Gustaf Kalan, og siden 1. august har jeg været baseret her på den danske ambassade i Stockholm som en del af VTA EU-teamet. Men da jeg stadig er lidt ny i Sverige, har jeg slået mig sammen med min kollega Stefan, som har arbejdet her på ambassaden de sidste otte år som sektorekspert, hvoraf han har fokuseret i flere år på klimatilpasning. Så med det, giver jeg den videre til dig, Stefan. Tak, Gustav. Godmorgen alle sammen. Mit navn er Stefan Bud, plastikeksperten inden for byudvikling. Øh,
+
+00:25:00
+og som Gusto sagde, har vi arbejdet med klimatilpasning i de sidste syv år, jeg har været her. Så øh, så jeg har lige inkluderet et kort her, der viser nogle af de problemer, vi står over for i Sverige. Sverige er selvfølgelig et langt land. Den går også fra syd til syd. Så det er meget forskelligt med hensyn til, hvilke slags problemer de forskellige typer områder har, og hvilke typer klimaer de
+
+00:25:30
+har. Øhm, så jeg vil fokusere på de største byområder, det ville være Stockholm, Gothingberg og det sydlige Sverige, inklusive Malmö Helenaborre og en masse andre byer. Øh, det vi, øh, det vi har gjort i disse år, er at etablere udvekslinger mellem, øh, de danske og de svenske aktører om de typer løsninger, og den måde, vi organiserer og
+
+00:26:00
+finansierer klimatilpasningsprojekterne på i vores lande. Så samlet set er Danmark lidt foran Sverige, øh, de fleste områder af Sverige, ikke mindst fordi vi allerede har haft mange af de øh hændelser, som skybrud og så videre. Så vi vil se, at i Sverige, øh, de områder, der er, øh, der ligger mod syd, har vi også set noget af den regn og derefter de oversvømmelser,
+
+00:26:30
+vi har set i Danmark. Og der er allerede, øh, ligesom S, som du også er en del af, med GNNK er der allerede et netværk, der øh udveksler øh erfaringer med hensyn til, hvordan vi håndterer øh med øh med skybrud og så videre. Så der er allerede en masse, øh, der er en masse kontakt mellem svenske og danske, øh, beslutningstagere på dette område, og det er virkelig det, vi bygger videre på. Men bare
+
+00:27:00
+for at præcisere de største områder, øh, som vi står over for i Sverige, er Gothingberg et særligt tilfælde, fordi de får vand fra alle vinkler, og vandet slipper ikke ned særlig godt. Så øh, det er et af de områder, hvor de vil have mest brug for klimatilpasningsfinansiering fremadrettet. Øhm og øhm, men ellers er det, vi ser som de største problemer, skybrud, øh,
+
+00:27:30
+og det er øh, og det er også kysterosion. Så har vi også skovbrande. Der er meget skov i Sverige. Men det har mindre at gøre med vandforvaltningen. Øh, der er også forskelle i landet med hensyn til, at nogle områder også oplever tørke . Så øh, det er meget forskellige slags scenarier, som vi er nødt til at finde løsninger på. Øh,
+
+00:28:00
+overordnet set er et af de centrale problemer, vi står over for, de finansielle modeller. Hvordan skal vi egentlig finansiere de typer investeringer, vi har brug for? Øh, der er også meget fokus på de typer tekniske løsninger, som vi skal implementere og bruge. Og det er her, Sverige virkelig er interesseret i, hvilke projekter vi har i Danmark. Øh, jeg har indsat digital modellering, tidlige varslingssystemer, naturbaserede løsninger
+
+00:28:30
+til byer, øh svampeby, øh og disse energieffektive teknologier og forsyningsselskaber samt nogle af de øh projekter, som de er meget interesserede i. Så vi har allerede mange kontakter, som jeg er meget glad for at kunne aktivere og fokusere på, og vi vil have øh omkring to tre aktiviteter til næste år om klimatilpasning. Tak. Mange tak til jer
+
+00:29:00
+alle. Det var spændende. Og brug endelig chatten, eller øh, stil endelig spørgsmål, hvis du har nogle. Jeg synes, det er fantastisk, forhåbentlig for DNNK-netværket at være opmærksom på disse fantastiske sektoreksperter, vi har i hele Europa. Øh, så en rigtig god introduktion til det, du arbejder på, og lighederne og forskellene i, hvordan
+
+00:29:30
+vores lande er. Øh, jeg kan derfor ikke se nogen spørgsmål på nuværende tidspunkt. Så jeg tror, ​​vi bare går videre til næste del, men brug venligst bare chatten til spørgsmål undervejs. Øh, med denne fantastiske introduktion vil vi nu zoome ind i en region i Tyskland. Øh, det er miljøministeriet i North Ryan Vistan, og øh, North Ryan Westfallen er den tyske
+
+00:30:00
+delstat, hvor mange mennesker måske ikke ved præcis, hvor den ligger, men delstaten Düdeldorf Dortmund i Colonia, der grænser op til Holland, er Tysklands mest folkerige delstat med mere end 18 millioner indbyggere. Øh og Tim Luxith, jeg tror, ​​du er her sammen med os øh fra ministeriet for at fortælle os mere om, hvordan I arbejder øh med klimatilpasning øh i North Ryan Westfallen. Så med yderligere omsvøb,
+
+00:30:30
+overlader jeg venligst ordet til dig. Perfektionere. Ja, præcis. Jeg vil prøve at dele min skærm. Bare et øjeblik. Okay, du skulle se det. Er det korrekt? Perfektionere. Okay. Nå, ja, tak for denne vidunderlige introduktion, så jeg ikke behøver at gøre det selv, øh, det handler Nordaustralien om. Øh, men som du sagde korrekt, hver femte øh tysker er fra Nordfalien. Så vi har øh ja,
+
+00:31:00
+den øh store del af befolkningen i vores stat, og øh, jeg vil forsøge at skitsere i de næste 15 minutter, øh, hvordan vi gør klimatilpasning i vores stat. øh, hvordan vores overordnede strategi ser ud, og jeg vil fremhæve nogle af tiltagene fra vores klimatilpasningsstrategi, og til at begynde med har jeg også lige
+
+00:31:30
+taget et hurtigt slide for at give jer en idé om, hvad vi mener, når vi taler om klimaforandringer i vores stat. Tak til Michael, som allerede har talt om Tyskland generelt. Så øh, det går faktisk i overensstemmelse hermed, men jeg syntes, det var interessant at give jer en idé om tendenserne, når vi ser på klimaindikatorerne i Nordaustralien. Vi har implementeret et
+
+00:32:00
+ret godt overvågningssystem i løbet af de sidste årtier, og nu om dage kan vi se på de klimaindikatorer, som f.eks. hedebølger og vækstsæsonen. Øhm, men øh, selvfølgelig er det vigtigste øh tendensen i temperaturstigningen, og øh nu kan vi allerede se øh en stigning på 1,6° 6° C, hvilket som du ved øh betyder, at vi allerede øh har overskredet Parisaftalens grænse på 1,5
+
+00:32:30
+i vores stat. Øhm, så generelt oplever vi øhm mere ekstreme vejrbegivenheder øhm som hedebølger, kraftig regn og tørke øhm, men også de langsomme påvirkninger øhm som den langsomme temperaturstigning, men også øhm, det resulterer i øhm, som sagt, en længere vækstsæson, som du kan se på dette slide. Øh, og dette er kun de ændringer,
+
+00:33:00
+vi kan måle i dag, og det inkluderer ikke fremskrivninger ind i fremtiden. Øh, hvilket vi selvfølgelig også skal tage i betragtning, når vi taler om klimatilpasningsforanstaltninger. Øh, det er også meget vigtigt, vil jeg sige. Øh, her har jeg givet dig et billede. Michael nævnte allerede en af ​​de mest voldsomme regnskyl, vi har haft i det sidste årti. Så for fire år siden, i juli 2021, holdt
+
+00:33:30
+det bare ikke rigtig op med at regne i to eller tre dage. Øh, og der var midt på sommeren, så jorden var ret øh tør øh på denne tid af året. Og øh, efter 2 dage så denne øh smukke by Badminster i den sydlige del af vores stat sådan her ud. Øhm, og jeg har et andet før og efter billede fra et andet sted. Øhm, men jeg
+
+00:34:00
+synes virkelig, det viser intensiteten af denne kraftige regn, og hvorfor det virkelig var et vækkeur for politik. Men øh, faktisk for de fleste mennesker i staten, øh, som endelig har indset, at klimaforandringer ikke er noget, der sker et andet sted i verden, men også øh her i Tyskland. Og så et år senere, i 2022, havde vi det modsatte problem. Øhm for lidt vand.
+
+00:34:30
+Øh, så vores vandveje nåede sine grænser, og øh ja øh, også landmændene øh måtte håndtere konsekvenserne og måtte øh øh ja øh håndtere meget dårlige landbrugsforhold. Og dette er bare endnu et billede fra floden Ryanum ved byen Dulov. Så øh, vi prøvede i Nordaustralien
+
+00:35:00
+at gruppere øh 16 forskellige indsatsområder i fire grupper, øh, som er miljø, menneskelig velfærd, planlægning og økonomi, og øh, vi har identificeret disse 16 indsatsområder, hvor vi kan mærke konsekvenserne af klimaforandringer, og hvor vi samtidig er nødt til at træffe foranstaltninger. Så for eksempel kan du se her, øh ville være som landbrug, skovbrug og miljø øh menneskers sundhed og velfærd og så videre. Øhm, og
+
+00:35:30
+jeg synes, det bare viser mangfoldigheden af ​​virkningerne, og hvor forskellige, øh, sektorer vi er nødt til at træffe foranstaltninger i, hvilket gør problemet endnu mere kompliceret. Øh, vi som en koordinerende enhed i Miljøministeriet prøver bare at holde det sammen på en eller anden måde, og øh, derfor har vi øh, øh ja, øh
+
+00:36:00
+udviklet en ny øh NRW klimatilpasningsstrategi, øh, den blev offentliggjort i slutningen af ​​sidste år, og øh siden øh 2009, øh, øh, øh, har delstatsregeringen også øh allerede beskæftiget sig med klimatilpasning. Men øh sidste år var det en slags ny milepæl for os, fordi øh den nye klimatilpasningsstrategi er en fælles strategi for hele delstatsregeringen, hvilket betyder, at vi nu har en
+
+00:36:30
+klar ansvarsfordeling øh mellem ministerierne, og strategien består af 110 foranstaltninger inden for de 16 indsatsområder, jeg lige viste. Øh, og øh, vi har nu også en årlig statusrapport . Så øh, vores kollega øh David arbejder allerede på den første øh rapport. Øh, hvilket betyder, at han øh undersøger hver af disse tiltag, øh, og ser på, hvor langt vi er kommet, øh, hvor halter vi,
+
+00:37:00
+øh, bagud i forhold til tidsrammen, en tidsplan, og øh, dette sikrer bare, at strategien ikke sættes i uafgjort et sted og ikke bliver overvejet i 5 år. Øh, så det her er ligesom en ny og øh vigtig del af det nye øh overvågningssystem. Og øh, bare en sjov og sjov kendsgerning her, øh, vi fik øh, virkelig god og fantastisk støtte fra øh, et dansk
+
+00:37:30
+konsulentbureau, Ramble, øh, som hjalp os øh med workshopsene og udarbejdelsen af ​​strategien. Ja . Så øh, i vores stat har vi grundlæggende identificeret tre vigtigste, øh, nøgleaktører, når det kommer til klimatilpasning, og dem forsøger vi at støtte på den bedst mulige måde. Øh, nøglespillerne er dem, du kan se her til venstre. Øh først og fremmest er der selvfølgelig byerne, øh, som spiller en
+
+00:38:00
+ret vigtig rolle i Tyskland, fordi de kan øh, vi har faktisk valg øh næste øh øh weekend. Så vi stemmer til vores byråd og øh, lokale myndigheder igen, og de øh har øh en ret god grad af magt i øh, i Tyskland. Jeg håber, at min, øh, vores kollega fra byen Dortmund senere, Sophia, vil være enig i dette.
+
+00:38:30
+Vi kan høre fra hende senere, men øh ja, så byerne kan klare sig selv i en øh i høj grad øh, og vi forsøger at støtte dem øh på en økonomisk måde, men også med alle de øh typer af øh støtte, som man kan se i højre side. Så data, rådgivning, uddannelse, økonomisk støtte, strukturer, netværk og juridiske bestemmelser og øh, fordi byer trods alt, øh, ejer en masse offentlig jord og bygninger, og
+
+00:39:00
+de har en stor indflydelse til at gøre staten mere modstandsdygtig. Og så øh, vi ser også på den private sektor, og der mener vi, at virksomheder i vores stat spiller en slags dobbeltrolle. Så de kan blive påvirket af klimaets påvirkninger og er nødt til at tage det med i deres risikostyring og se, hvad en hedebølge
+
+00:39:30
+kan gøre ved deres produktionssteder. Og øh, samtidig har vi i løbet af de seneste år indset, at vi har brug for, at vores forretninger og virksomheder også opfylder efterspørgslen efter klimatilpasningsløsninger. Så vi ser dem også som problemløsere, og øh, forsøger at støtte de virksomheder, der gør det, så de tilbyder også løsninger,
+
+00:40:00
+produkter og teknologier til at håndtere hedebølger og kraftig regn, og det er øh, virkelig vigtigt for os. Så vi forsøger at uddele finansieringsprogrammer, så startups i denne branche kan udvikle sig på en god måde og derefter tilbyde deres produkter på markedet. Og sidst, men ikke mindst, yder vi også støtte til borgerne, især husejere og øh ja, grundejere, som også skal passe på
+
+00:40:30
+deres egne ejendomme. Og jeg ville bare give jer to eller tre eksempler på øh, øh, foranstaltninger, vi har i vores klimatilpasningsstrategi. Så først og fremmest, øh, et af vores større tiltag, som vi mener er øh ja et af de vigtigste, er at give midler til øh det kommunale niveau, som jeg sagde før, og øh, det betyder i praksis, at vi støtter disse i at implementere foranstaltninger, øh, for at øge
+
+00:41:00
+modstandsdygtigheden, øh, over for enhver tørke, øh, især øh, jeg tror, ​​Michael også sagde, at denne blågrønne infrastruktur er øh, øh, den vigtigste øh, hovedplanen. Øh, så vi forsøger at øh arbejde med naturbaserede løsninger det meste af tiden. Øh, det betyder en grønnere facadetage, afforsegling af belagte overflader og selvfølgelig også klimaresistente
+
+00:41:30
+træer. Øh, men nogle gange kan det også være opførelsen af ​​skyggeelementer i vores gader. Øh, et andet eksempel ville være øh udvidelsen og promoveringen af ​​vores GIS- informationsværktøj, som er NRW klimaatlaset. Øhm, du kan faktisk også slå det op online. Øh, jeg har ikke lagt et link her, men jeg kan gøre det bagefter. Øh, så dette er et af
+
+00:42:00
+vores vigtigste offentligt tilgængelige informationsværktøjer, hvor alle i staten kan slå op, hvilke slags klimaeffekter de skal håndtere på præcis de steder, hvor de bor, eller hvor deres virksomhed er placeret. Og øh, vi vil gerne gøre dette endnu mere tilgængeligt, integrere nye kort og indhold og øh ja, også udvide det øh til andre målgrupper som lærere, for at gøre det øh øh til noget, som måske også øh
+
+00:42:30
+øh skolebørn øh lærer kan lære med. Og så, øh, det er noget, jeg virkelig gerne ville fremhæve, fordi vi mener, at det er en slags ny tilgang, øh, og jeg sagde tidligere, at vi forsøger at støtte virksomheder i deres rolle som problemløsere, og øh, vi
+
+00:43:00
+etablerer en international messe for klimatilpasningsløsninger. Så vi ville skabe denne platform, hvor virksomheder kan vise deres produkter, vise hvad de har udviklet, og hvor efterspørgselssiden, for eksempel kommuner, kan se, hvad der er nyt på markedet, hvilke idéer der er blevet udviklet, og vi vil gerne bringe dem sammen, forbinde disse interessenter dybest set, og dette er også en international begivenhed. Så vi vil også gerne tiltrække folk fra hele Europa
+
+00:43:30
+og være værter for dem her i det nordlige Australien på resiliensmessen, og med dette vil vi positionere vores stat som en førende region inden for klimamodstandsdygtighed. Vi har stort set lanceret årets første uh-begivenhed i juni. Øh, det var en ret fin og god start på sådan et arrangement. Vi havde allerede et par hundrede deltagere, øh 40 udstillere. Vi havde også et rigtig godt program . Så det handler ikke kun om
+
+00:44:00
+fair trade. Det er også et sted, hvor vi gerne vil mødes og tale om de problemer, vi har, og øh, udveksle idéer, og øh, så vi har sammensat et rigtig godt program med talere og workshops omkring arrangementet, og det var allerede tosproget. Så vi havde øh redigeret den på engelsk og tysk. Øhm, og vi havde allerede en virksomhed fra Danmark, der præsenterede sig selv i øh det
+
+00:44:30
+første arrangement, da de hed TM- virksomheden. Ikke sikker på om du kender dem. Øh, men ja, det var en meget værdifuld og øh en rigtig god start, og vi håber, at måske nogle af jer har lyst til at være med næste år. Øh, datoen er ikke helt klar lige nu. Det bliver i juni, øh 2026. Øhm, du kan slå det op på hjemmesiden. Jeg øhm, vi sender også slides rundt. Og øh, der er også en rigtig fin
+
+00:45:00
+videoanmeldelse, hvor du kan se, hvordan begivenheden rent faktisk så ud. Øh ja, men jeg tror ikke, vi har tid til det lige nu. Så når det er sagt, tror jeg, jeg er færdig for nu. Øhm, hvis du har nogle spørgsmål, så lad mig det vide. Øhm, og Katherine selvfølgelig min kollega, som er her sammen med mig, ellers øhm, jeg er ikke sikker på, om vi går videre til Sophia Arans fra byen Tot. Mange tak, Tim. Det er fantastisk.
+
+00:45:30
+Og jeg kan se, at linket i chatten er blevet delt, både til dette klimaatlas, du nævner, og også til din expo, som folk kan tjekke ud, og du delte også dine e-mailadresser. Så det er smukt. Tak. Jeg tror, ​​vi går direkte videre til det næste. Så dykker vi dybere ned i regionen, og nu skal vi høre om en sag fra byen Dortmund, og med os har vi Sophie Aans. Øh, så tak, øh Aans, øh, vi er spændte på at
+
+00:46:00
+høre, hvad du har at dele med os. Okay, tak. Jeg vil dele mit vindue. Lad os se om det virker. Ja . Hej allesammen. Tak for dine øh oplysninger, især om den øh øh den sidste. Øh ja, vi i Dortmont, øh, beskæftiger os også med klimaforandringer, øh, øh, tilpasning og varme i Dortmont, og jeg vil
+
+00:46:30
+i dag præsentere jer for, hvad vi laver. Det bliver ikke færdigt, for så skal jeg snakke i timevis, men jeg vil øh, øh, give en kort oversigt. Så først vil jeg fortælle lidt om virkningerne. Jeg tror, du allerede kender konsekvenserne. Øhm, og så de klimaforandringshandlinger, vi øhm har implementeret de sidste år, og øhm, så vil jeg specificere lidt om den varmehandlingsplan, vi lige har offentliggjort i det forløbne år, og øhm ja, diskussionen
+
+00:47:00
+er vel bare til spørgsmål. Ja. Så byer, øh, byen Dortmund er den tredjestørste by i det nordvestlige Efia. Øh efter Köln og Dissled øh har vi mere end 600.000 indbyggere og øh tre bydele og ni mindre tætte distrikter. Så byen er meget øh grøn, fordi det er en meget stor by set fra området. Så vi har mange grønne strukturer. Øh,
+
+00:47:30
+derfor har vi også at gøre med, eller har vi måttet gøre med, ekstreme vejrbegivenheder. Så vi havde flere kraftige regnskyl, for eksempel i Martin i Dortmund, hvor alle, øh, alt var under vand. Vi havde en masse øh stormskader, og selvfølgelig har vi at gøre med øh øh varme øh, hvilket er et stort tema på grund af øh, de varmerelaterede dødsfald øh meget stille. Så øh, vi er nødt til at
+
+00:48:00
+fokusere på dette for at bevidstgøre folk, øh, fordi man ser dem ikke, øh kæmpe med dette, øh, det er et sundhedsproblem, som også er meget vigtigt i Dortmund, øh, og ja, så hvad vi har, vi har også data siden 2019. Vi har et kort over høj risiko i Dortmund, som er baseret på øh planlægningsprocesser, men også øh for at se, hvilken kritisk infrastruktur øh der har brug for at blive tilpasset, øh, og øh,
+
+00:48:30
+det er offentligt, så du kan også kigge på internettet efter risikokortet for kraftig regn. Øh, vi har også en analyse om øh klimaet om øh varmeudvikling øh fra øh-båndet. Jeg kender ikke oversættelsen til engelsk, men de øh, de har lavet et kort over de tropiske nætter i dag, og hvordan de vil udvikle sig i fremtiden. Og som I kan se, øhm ja, i
+
+00:49:00
+1990 havde vi maksimalt tre til seks tropenætter. Så øh øh, og i dag vil vi have mere end 27 til 30 i fremtiden. Så i 2050 er det et meget stort problem for Dortmunds befolknings helbred, fordi de ikke kan hvile om natten, når vi har høje temperaturer. Øh, det samme sker med øh varmestress øh i løbet af dagen. Så vi
+
+00:49:30
+har også et gennemsnit, der stiger fra 5 til 10 dage, øh, op til 40 til 45 dage, og det er et stort problem, hvis der er perioder med varme. Så hvis du har 10 eller 14 dage med mere end 30°, er det meget, øh ja, folk vil lide meget, formoder jeg. Øh, så det vi gjorde i Dortmund med vores klimatilpasningskoncept, er at se på dynamikken i klimaforandringer. Så befolkningens varmestress og
+
+00:50:00
+skaderne på bygninger skaber nye udfordringer for byadministrationen, men på den anden side husker vi også på, at demografiske forandringer også sker. Så vi har en ældre befolkning, og vi har flere enlige husstande. Vi har mindre mobilitet, fordi folk er ældre. Vi har mange sprogbarrierer. Så det er også noget, der ændrer sig, og vi er også nødt til at tilpasse os dette og huske på, at ja, menneskerne i dag er anderledes end menneskerne
+
+00:50:30
+i fremtiden. Så øh, vi identificerede de største udfordringer inden for sundhedsplanlægning, sociale anliggender og økonomi, hvilket er ret tydeligt. Så dette er øh ja, udviklingen i byen Dortmund. Vi startede allerede 2011 med klimahandlingsprogrammet for 2020, men vi havde også klimatilpasning i tankerne, hvilket ikke var særligt ... ja, det gik meget hurtigt frem, fordi de fleste byer stadig
+
+00:51:00
+tænkte på klimabeskyttelse. Men vi inkluderede også klimatilpasning allerede, og i 2018 havde vi masterplanen for integreret klimatilpasning i Dortmund, som inkluderer alle foranstaltningerne, og siden da begyndte vi at implementere adskillige foranstaltninger. Øh ja, så masterplanen for integreret klimatilpasning i Dortmund var en meget øh kompleks proces med øh af
+
+00:51:30
+øh deltagelse i byadministrationen. Så vores fokus var ikke på offentligheden. Det var fra vores byadministration, fordi vi har 10.000 mennesker, der arbejder for byen Dortmund. Og tilgangen var først at overbevise disse mennesker om at ændre arbejdsstandarderne til en mere klimatilpasset måde. Øh, vi havde en masse forskellige workshops og øh og så videre for at
+
+00:52:00
+øh ja, for at overbevise øh eller for at finde steder i processerne at tilpasse sig øh ja, for at integrere klimatilpasning i øh i processerne øh, hvilket var meget succesfuldt, vil jeg gætte på, men jeg forstår, ja, så vi har en masse foranstaltninger, for eksempel til planlægningsprocesser, som man tager højde for, for eksempel når man bygger en bygning, nu øh, vi har ændret standarderne for, at den er
+
+00:52:30
+klimatilpasset fra starten. Så øh, du behøver ikke enkelte tiltag for at skabe et grønt lufttag. Nu er det standard i Dortmund, at når man bygger en bygning, skal den have et grønt tag. Så øh, men vi har også små tiltag, vi implementerer, men dette er hoveddelen af ​​det integrerede koncept. Øh, også for at overbevise offentligheden, udarbejdede vi et visionært koncept for grønt i en grøn bymidte,
+
+00:53:00
+hvor vi øh ja, måler foranstaltningerne i bymidten og genererer ideer og visioner for bymidten og evaluerer den termiske situation, og hvordan den ændrer sig. Så vi har en mikroklimatisk um-simulering i tre scenarier. Den faktiske situation, et kortsigtet mål og en vision, der gør byen så grønn som muligt. Og det viste sig, at man kan køle byen ned
+
+00:53:30
+med 4°, 3 til fire grader af den øh fejlede temperatur. Så ikke lufttemperaturen, men tagtemperaturen, som er en kæmpe forskel, og det ville ja, det ville forbedre situationen i byen, øh, meget meget. Så sådan her så det ud . De lavede selvfølgelig, øh, visuelle, øh, billeder, øh, hvordan byen kunne ændres og øh ja, forbedres.
+
+00:54:00
+Dette er også et godt resultat af micado. Vi prøver intenst, hvordan kalder man det? Intens facadebegrønning. Og på otte skoler prøvede de otte forskellige øh øh øh versioner af øh facadeforgrønnelse bare for at teste, hvor meget det koster, og hvordan øh implementeringen eller vedligeholdelsen af ​​de grønne facader, og vi får se om et par år, gætter jeg på. Den vigtigste del, som
+
+00:54:30
+vi arbejder på lige nu, er varmehandlingsplanen. Mange byer i Tyskland, men også i Nord- og Vesttyskland, er ved at udarbejde en nødvendig handlingsplan for at beskytte de sårbare grupper i byerne, fordi ja, det er en meget farlig ting. Så vi udgav en i 2024. Vi skrev den selv, fordi der er retningslinjer fra ministerierne,
+
+00:55:00
+og øh, målet er at beskytte befolkningen i Dortmund, og vi taler bare med alle socialrådgiverne og den slags, fordi de allerede øh, har mange projekter om dette tema. Vi har også en kollega i Sundhedsministeriet, som implementerer foranstaltninger, og vi har udarbejdet og samlet en masse foranstaltninger, som du kan se her. Så det handler om at informere og bevidstgøre befolkningen. Øh, det er øh rettidige
+
+00:55:30
+foranstaltninger før og under øh akutte hedebølger, men også langsigtede tilpasningsforanstaltninger, som for eksempel den integrerede klimatilpasningsplan, øh, og øh, vi har udgivet en varmeguide, så du kan læse, hvor du kan finde øh vand, hvor du kan hvile, og hvor du kan ringe til, og hvordan du skal opføre dig, øh, og den distribueres til alle læger i
+
+00:56:00
+Dortmund, øh, og vi beder dem om at udlevere den til patienterne. Øh, vi har også et fedt sted, et kort over fede steder. Mange byer har nu et kort over fede steder, og vi øh, vi vil gerne finde fede steder inde i dem . Så det her er udenfor med, øh, luger det ud med, øh, nogle seniorer, og nu vil vi, øh, brede det ud til, øh, kirker og andre, øh, andre
+
+00:56:30
+decentrale kølesteder, øh, inde i bygninger, så folk kan gå derhen og hvile sig, når de går fra A til B, for eksempel ældre mennesker, og så de kan sidde ned, få en drink og øh ja, øh, øh, køle lidt ned. Vi har også en varmetelefon og drikkepauser for seniorer i nogle områder af byen Dortmund. Øh, og det er vores mål at implementere midlertidige
+
+00:57:00
+foranstaltninger. Lige nu har vi kun midlertidige træer og bænke, men vi vil også gerne have øh øh ja, vandfontæner eller skygge. Øh, det er faktisk ret svært at implementere det. Øh, og selvfølgelig har vi øh drikkefontæner i det offentlige rum, og vores mål er selvfølgelig at have flere øh, hvilket også er en meget kompliceret proces, fordi vedligeholdelsen af ​​disse ting er virkelig dyr, og der er ingen finansiering,
+
+00:57:30
+så man kan købe tingene, men at vedligeholde øh, det er en stor diskussionsproces. Så dette er, vil jeg gætte på, den største udfordring for byerne og kommunerne. Øh ja, for at finde en løsning på det. Ja. Så dette er min. Ja, det var det. Tak. Mange tak . Mange tak . Jeg synes, det er meget interessant, hvor meget varme fylder i samtalen,
+
+00:58:00
+når man taler om klimatilpasning, når man kun bevæger sig et par hundrede kilometer syd for grænsen, fordi man i Danmark stadig kun taler om det i bestemte områder, hvor man specialiserer sig i varme. Øhm, jeg tænkte, at inden vi går videre til den næste, har jeg bare to spørgsmål. Jeg tænkte, om vi bare, øh, finder tiden til det. Øh, nu hvor du handler, fordi du har set situationer med den tørke og varme, er der nogen foranstaltninger, som du ville ønske, du havde implementeret tidligt i den situation? Jeg tænker, hvad kan vi i
+
+00:58:30
+Danmark lære, hvor vi nu bare taler om varme, er der noget, vi burde være mere opmærksomme på at begynde at implementere lige nu, og jeg har bemærket din vandfontænedel, adgangen til vand, nem adgang til vand, det er ikke noget, der er almindeligt her, hvorimod man tager til de varmere lande, er det mere almindeligt at have det, og det er også svært med de indledende foranstaltninger, du ville anbefale, virkelig at begynde at tænke over tidligt. Det bedste er, at når man ændrer planlægningsprocesser, skal man
+
+00:59:00
+starte tidligt, fordi alt, hvad vi ændrer lige nu i planlægningsprocesserne, vil blive implementeret om cirka 10 år. Så fordi planlægningsprocessen er så lang, så hvis du bygger en skole, og du begynder at planlægge i dag, vil du implementere den om mindst 10 år i Tyskland. Jeg ved ikke, hvordan det fungerer i Danmark. Øh øh, det er noget, og selvfølgelig for at bevidstgøre folk er ja, det er vigtigt at gøre det, ja, men hvis du starter lige nu i Danmark, og det ikke er rigtig varmt, så øh øh, så
+
+00:59:30
+siger de måske, at det ikke er sandt, fordi det ikke er særlig varmt, så start ikke for tidligt med det. Jeg ville sige øh ja, jeg ved ikke, det er bare standarderne, du er nødt til at ændre standarderne meget tidligt, gætter jeg på, og præcis sådan gør folk ikke rigtig, fordi du ikke mærker det, du ser det ikke komme, for at starte den samtale. Og nu berører du også det andet spørgsmål, jeg havde, fordi jeg kendte til hedebølgen, der var her i Europa i sommer. Jeg talte med nogle af de lande, jeg tror, ​​det var Spanien eller Italien, men de havde problemer med skolerne, øh,
+
+01:00:00
+fordi pludselig har man ekstrem varme i skolerne, og man kan ikke bare lukke alle eleverne ud, og man taler meget om grønne områder, men hvad med inde i bygningerne og de bygninger, som vi driver dagligt og ugentligt, øh, hvordan planlægger vi det, øh, øh, for at gøre dem komfortable, og det er faktisk også et stort problem, vi taler om lige nu, fordi øh, de nye bygninger er forberedte, men de er bare en lille del af alle skolerne, og øh, for eksempel øh,
+
+01:00:30
+børnehaverne øh, de er meget varme om sommeren, og det er faktisk et stort problem, vi taler om lige nu, fordi man for eksempel ikke kan åbne vinduerne om natten på grund af forsikringsmæssige årsager, og derfor er det meget varmt om dagen, og vi har mange dage, hvor der er mere end 25 eller 30° brise, og især i børnehaverne og børnehjemmene, fordi folk skal arbejde. Så det er noget, I skal finde løsninger på, og det er virkelig et stort problem, vi taler
+
+01:01:00
+om lige nu, fordi for eksempel øh, aircondition er ikke rigtig en løsning på grund af klimabeskyttelse og øh energispild, men også af hygiejniske årsager er det ikke særlig sundt for at have børn med øh aircondition. Så ja, det er et stort emne, og vi er nødt til at finde løsninger på det. Så vi tænker på et pilotprojekt for at finde løsninger, hvor nogen kommer om natten, åbner vinduet og har en eller anden strategisk løsning. Så ja, der er et
+
+01:01:30
+stort potentiale, som vi ikke har endnu. Så dette er et område at holde øje med, eller måske et område at samarbejde på tværs af, og øh ja. Åh fantastisk. Tak. Øhm, jeg så en hånd række op på et tidspunkt, men øh, hvis der ikke er andre spørgsmål, så er du stadig velkommen til at række hånden op under sessionen. Så mange tak. Øh, nu er vi klar til at flytte til Danmark og høre om en sag her. Så med os, øh, burde vi have den sidste Nurgov fra øh
+
+01:02:00
+fra LEVI vandforsyning og også administrerende direktør for øh den danske øh organisation kaldet Klimatorium, det danske internationale klimacenter, som vil give os et indblik i, øh, hvordan vi arbejder med klimatilpasning. Så der har du det. Så velkommen, pige, det er helt dit at præsentere. Ja . Mange tak til Sarah og DNNK. Øh, jeg ville virkelig gerne være her, og jeg
+
+01:02:30
+synes, det er dejligt at have jer her som publikum, alle I sidder ved skærmen. Øh, jeg vil gerne fortælle noget om vores case, og hvorfor vi startede med klimatorium. Øh, og øh, først vil jeg gerne kort sige, at klimamissionen er at udvikle nye løsninger på nuværende og fremtidige udfordringer inden for
+
+01:03:00
+kystklimaet. grøn energi, energi, cirkulær økonomi, vand og miljø gennem samarbejde mellem private offentlige virksomheder, vidensinstitutioner som et universitet og civilsamfundet. Øh, vi gjorde det, fordi vi kunne se nogle meget, meget enorme øh øh-komplekser øh på grund af øh klimaforandringer, og vi startede, vi så for 10 og
+
+01:03:30
+11 år siden, at det ville gå meget, meget hurtigt, og det er det, jeg kan lide at tale om. Så vi skaber i dag en løsning, der kan anvendes og formidles lokalt, regionalt, nationalt og nationalt. Og som du kan se på figuren, har vi den firedobbelte helix, universitetet, det offentlige, de private virksomheder og civilsamfundet
+
+01:04:00
+skal arbejde sammen. Og øh, på øh- billederne til venstre kan I allerede se, hvad vi har lavet. rør lavet af genbrugsplast og øh også øh andre produkter, vi laver det i dag. Så øh, det er på grund af klimaudfordringerne, vi gør det. Næste slide.
+
+01:04:30
+Øh, det er stedet, hvor jeg er, øh, som Sarah fortalte mig, jeg er administrerende direktør for det lokale forsyningsselskab i Limbi og også for Limbi kommune. Vi er, vi er, øh, vi er placeret på Danmarks vestkyst, men vi er også omgivet af vand, og øh, vi har vestkysten, vi har, øh, mere og mere regn, men vi har også indsynkning. Um, alle kystområder i
+
+01:05:00
+Danmark har problemet med indsynkning. Så vi har cirka en indsænkning på omkring 6 eller 7 mm om året. Men øh, øh, men vi kan også se øh øh, grundvandet stiger med omkring 7 til 8 mm om året, og vestkystens bevægelse af havet på grund af klimaudfordringerne. øh de ​​sidste 100 år øh øh
+
+01:05:30
+vi ser øh bevægelsen af vestkysten på 24 cm, og øh det går under vores øh høje grundvandsniveau. Så der er et problem, øh, derfor har vi virkelig et problem med stigende grundvand. øh, og øh på grund af den mere regn øh, ved vi, at det har øh, det regner 25% mere end det gjorde for 40 år siden. Så
+
+01:06:00
+det er virkelig en dårlig business case. Øh, især øh, hvis du har øh et forsyningsselskab, du har en masse øh rør, og øh vores øh, vi har mere end øh øh værdien af ​​mere end 1 milliard danske kroner i rør, og øh i Limvi er vi øh 100% adskilte. Så øh så øh, problemet der, det burde kun
+
+01:06:30
+give os øh spildevand til vores spildevandsrensningsanlæg, men øh, vi kan se mere og mere regnvand og drænvand i vores rør. Så øh, vi er nødt til at gøre noget, øh, og problemet er faktisk, at vi sagde, at vi er det første sted i verden, der er 100% adskilt, øh og øh, og vores rør skal kun føre spildevand. Men vi kan
+
+01:07:00
+se mere og mere regnvand i den. Og problemet er, at hvis vi ikke gør noget, kan vi øh få overløb øh i kloakken, vi kan få problemet med øh lækage fra sprækker øh og andre problemer, som vi ikke ønsker at have. Derfor er det et kæmpe problem, at vi sidder der, hvis du vil, øh, du ved, øh, og derfor besluttede vi for 10 år siden at
+
+01:07:30
+lave dette klima. Så det ville være muligt at være en del af et projekt. Dengang troede ingen, at vi havde det problem, men øh, med klimaet, du så det første billede med det "øhm gode projekt", kunne vi nu gøre noget, og det er det, vi gør. Så, for omkring fire år siden havde vi, for fem år siden havde vi muligheden for at være en del af Water Valley,
+
+01:08:00
+og det er et lystårn. Vi vil gerne gøre noget for vandet. Vi ønsker at gøre um til et sted, hvor vandteknologi møder innovation. Og øh, vi blev finansieret af noget øh nationalt og øh EU-finansiering, og øh, vi gjorde det sammen med øh noget, der hedder Vanddalen Danmark, i embedet, og øh, og vand og klima, og sammen er vi nu øh,
+
+01:08:30
+fyrtårnet inden for vandteknologi kaldet Vanddalen, og øh, som I kan se, øh, øh, vi er en del af den centrale region i Danmark, men vi går også øh øh ind og ud i resten af Danmark. Og det, vi siger, er den slags problemer, vi sidder med, for eksempel i Limb, men også andre steder i Danmark
+
+01:09:00
+og for eksempel i hele resten af verden, der kunne ændres til en ny løsning. Og øh, hvad vi kunne se, da vi havde problemet ved Limit-forsyningsselskabet, øh, vi kunne have en god løsning til vores rensningsanlæg, men øh, vi kunne ikke have nogen løsning på det problem, vi havde, på grund af klimaforandringerne. Vores rør, øh, er
+
+01:09:30
+80% af vores økonomi, men mest af alt er vores løsning, øh, øh, øh, vores forsyningsselskab på spildevandsrensningsanlægget. Men øh øh, på det tidspunkt, når vandet banker på døren til øh-behandlingsanlægget, på det tidspunkt kender vi problemet, øh hvor meget, øh, så vi ved noget om vandet, men ikke før meget af vores øh-vand kommer 40
+
+01:10:00
+kilometer væk. Det kan være forurenet. Det kan være et enormt beløb, men vi ved ingenting om det. Sådan var verden for 10 år siden. Og disse udfordringer vil vi gerne tage imod, øh, vi kan godt lide at gøre det, og øh, nu har vi muligheden for at gøre det ved Water Valley. Og øh, hvis du tager det næste slide
+
+01:10:30
+her, kan du se, hvad øh vi gør i fase et. Vi har allerede øh inkluderet forsyningsvirksomheder, øh mere end øh 10, øh jeg tror, ​​det er øh i dag, det er mere end 20, forsyningsvirksomheder der inkluderet. Nu i Water Valley har vi næsten alle øh institutioner og universiteter, der arbejder med problemet her i Danmark. Vi har en
+
+01:11:00
+større organisation, den store virksomhed, der arbejder sammen om at løse vandudfordringer og har løsninger på det. De er inkluderet. Men hvad vi virkelig gerne vil have inkluderet, er de små og mellemstore virksomheder kaldet SMB'er i Danmark, og øh, vi har også inkluderet statslige, regioner og kommuner over hele Danmark. Så øh, så vi kan se, at øh, især
+
+01:11:30
+øh klimaproblemer kan ændres i en reel løsning. Og øh i Danmark har vi en øh øh vi har en ambition om at fordoble den danske eksport af øh vandløsninger inden 2030. Og øh, da vi startede, øh øh, er eksporten på 20 milliarder danske kroner, og øh, vores
+
+01:12:00
+ambition er at nå øh 40 milliarder danske kroner, og vi kan se, om vi fokuserer på klimaproblemerne og teknikker til klimatilpasning, og vi tror, ​​det er måden at gøre det på. Vil du ændre siden? Så tak. Øh, nu vil jeg gerne tale om nogle af de projektaktiviteter, vi
+
+01:12:30
+ser frem til i fase to, og øh, vi ser frem til noget, vi kan kalde problematisk vand til strøm 2x. Power 2X er en ny industri, og øh, det er, hvor man tager grøn energi ind og skaber en forandring, og man kan få brint ud af den. Du kan også have andre ting til det. Du kan lagre grøn
+
+01:13:00
+energi, vindenergi, solenergi og så videre. Og øh, men øh, sagen er, at hvis du øh, du bruger strøm dobbelt, skal du øh, du øh, bruge øh øh en enorm mængde vand. Øh Sarah, kan du lave en ændring til de næste slides? Øhm, og her kan vi se, at i stedet for at bruge godt drikkevand i Danmark, har vi
+
+01:13:30
+øh øh, vi er gode til at tage øh øh drikkevand fra jorden, men problemet er, at al slags vand i Danmark er drikkevand, og øh, det vi ser i denne nye industri er virkelig godt, men vi tror også, at den i fremtiden kan bruge den samme mængde, som vi bruger til drikkevand, til øh øh al industri i Danmark og så
+
+01:14:00
+videre, landmænd og så videre sammen. Denne industri bliver øh, så stor, og øh, vi vil gerne lave en ændring for det, og øh, vi kan se, om øh, om industrien ikke bruger drikkevand, men i stedet bruger problemvand. Vi har virkelig en god chance for at dette, øh, hjælper os med vandproblemet. jorden, øh, grundvandsproblemet, som vi kan se i dag.
+
+01:14:30
+Så det er en af ​​de ting, vi arbejder på. Vi har, øh, mange projekter i gang med denne sektor, og øh, vi kan også se, at sektoren bliver stor, men vi kan også se, at sektoren, øh, arbejder med vand i den sektor, øh, vi kan virkelig se frem til at være en del af en virkelig interessant industri. Et
+
+01:15:00
+andet tilfælde, hvis vi laver næste slide, Sarah, der bruger genbrugsplast i vandsektoren. Øh, øh plastik er et kæmpe problem over hele verden, og øh, og desværre kan vi se øh det i havet omkring Danmark, for eksempel øh, vi havde en af ​​mine kolleger, hun var øh
+
+01:15:30
+med en båd øh her på sin ferie, og øh, øh de ​​tager på en tur fra øh Vest- Utland og til Tyskland, Holland og Frankrig, og de indsamler prøver fra vandet. Alle prøver fra vandet samler plastik og mikroplastik, og det er et problem. Men øh, så øh, i de sidste fem år har vi arbejdet med klimatron. Vi har arbejdet med: Kan vi tage, øh,
+
+01:16:00
+genbrugsplast og bruge det til rigtige ting? Øh, vi har syv projekter i gang lige nu, og øh, og øh, rør, øh, vi bruger i vandindustrien, øh, vores projekt viste, at vi øh, øh kan genbruge et genbrugsmateriale fra plastik mellem 30 og op til 100%. Og problemet med at genbruge plastik i dag er, at
+
+01:16:30
+det kan være lidt dyrere, fordi øh, hvis man skal genbruge plastik, øh, problemet er, om man tager PP-plast, PVC, øh eller PE- plast, og det indeholder nogle af de andre typer plastik? Så man har et problem med at lave en ny, øh øh,
+
+01:17:00
+og man bruger plastik efter høje standarder. Men du har en industri, der kan gøre det lige nu, men du er nødt til at stille en efterspørgsel efter det. Og øh fordi denne slags plastik er lidt dyrere end øh jomfruplastik, og øh, ingen vil købe lidt mere, nogle vil, men øh, primært er det et problem på grund af det. Men øh, vi kan se, at forsyningsindustrien
+
+01:17:30
+øh producerer bruger så store mængder øh øh den slags øh plastik og øh, og øh, det er ikke noget problem at betale lidt mere for det. Så det er en af ​​de ting, vi prøver at gøre, og øh, prøver at få det ind i vandsektoren. Så øh, vi går ud fra, at vi kan se problemet og finde en løsning, men vi prøver også at stille, øh, et krav om det,
+
+01:18:00
+fordi det er nødvendigt, ellers kan vi ikke gøre det. Øh, de næste slides. Så øh i climatum har vi udviklet det, vi kalder et levende laboratorium. Øh, vi kalder det også øh med verdens største levende laboratorium, og øh, vi kan godt lide at øh, vi tror, at øh, al den her slags løsninger, hvis man
+
+01:18:30
+ikke kan se dem, hvis man ikke kan teste dem, så vil det ikke øh, øh være en løsning i den virkelige verden. Og øh, vi gør øh fire ting øh digitalisering af satellitdata. Det er muligt for os at følge det, jeg startede med. Vi har et stort tilskud, og med hjælp fra ES Copanicus-programmet er det muligt for os at se indstillinger med en
+
+01:19:00
+nøjagtighed på 0,2 mm hver sjette dag. Øh, det er noget af de løsninger, vi kan finde. Vi har et program for miljø og CO2- cirkularitet, og plastik er et af dem. Vi har en naturbaseret løsning. Vi mener, at den grå infrastruktur, øh, ikke er vejen til at skabe løsningerne. Så øh så vi tror øh øh, vi
+
+01:19:30
+har et program til det, og vi tror også, øh, vi kan gøre det. Øh, øh, hvis vi laver infrastruktur med den naturbaserede løsning, kan det øh gøres for én/trede øh af øh, øh, de penge, vi laver, nåde øh øh øh løsninger i dag. Det er endnu en. Og så har vi noget klimatilpasningsteknologi, vandløsningen, som du har hørt om før.
+
+01:20:00
+Lige nu har vi mere end 150 virksomheder forbundet, og vores levende laboratorium er øh mere end 800 øh kvadratkilometer. Øh, jeg har ikke så meget tid, så jeg vil, øh, hvis du kan, øh snart vise den næste øh øh, så i så øh her kan du se, hvad vi allerede har lavet her. Det er muligt for virksomheder at tage
+
+01:20:30
+dertil, men også øh som privat øh øh øh, hvis du vil se det, kan du komme. Vi har omkring 35.000 besøgende om året. Øh, næste slide. Vi har en, øh, vi har en, øh vision for 2030, og øh, at vi ønsker, at klimaet skal være verdens største levende laboratorium og øh
+
+01:21:00
+det levende laboratorium, der understøtter implementering af innovation og forretningsudvikling i vandsektoren inden for klimatilpasning, bæredygtighed og klima- og venlig vandteknologi, vedvarende energi, cirkulær økonomi, grøn transport og folkesundhed, og øh, vi har lavet en køreplan for at gå den vej, men øh, vi tror, ​​øh, ved at gøre det i virkeligheden, kan vi skabe, øh, vi kan skabe en forandring på den
+
+01:21:30
+måde. Så øh, hvis vi går til det næste ja, så prøver vi at sige, lad os samarbejde på tværs af Europa, øh, og komme her til Climatum i Levi og se, hvordan der er nogle af øh, et par klima- og vand- og titativer på den måde. Så øh, du er også velkommen til at øh sende os en e-mail eller ringe til os osv., hvis du
+
+01:22:00
+har spørgsmål. Mange tak, piger, og til alle jer, der har præsenteret, dette er bare sidste chance for at række hånden op, hvis I har spørgsmål. Øh, jeg håber, det har været inspirerende og informativt, og der er én kommentar i chatten, der siger, at disse store EU- finansierede projekter nogle gange bare er meget komplekse og langvarige, øh, men det er tydeligt, at der er
+
+01:22:30
+behov for at dele viden og bedste praksis, og jeg synes også, at begge disse øh webinarer her viser interessen for at gøre det. Du har også dette årlige topmøde i North Ryan Laspalia, der åbner op for den mulighed. Jeg hørte fra den ene, at der også er øh workshops. Så måske er der en mulighed for at arbejde hen imod en fælles workshop, øh clamatorum, der inviterer til at dele og bruge dette levende laboratorium
+
+01:23:00
+til at komme i kontakt, og der er dette smukke øh vidensnetværk hos øh WTA, som også kan hjælpe øh, så jeg tror, ​​vi har en fantastisk platform her til måske øh at hjælpe med denne deling af bedste praksis. Øh, jeg kan ikke se nogen spørgsmål, så jeg vil ikke holde dig fast til allersidste øjeblik. Og jeg synes, vi er ret godt klaret. Så med det sagt, vil jeg bare sige tak til alle jer, der er med. Tak til alle vores talere, og forhåbentlig fortsætter vi samarbejdet på tværs.
+
+01:23:30
+Så mange tak. Tak til alle for at deltage. Tak. Tak. Tak. Farvel. Tak.

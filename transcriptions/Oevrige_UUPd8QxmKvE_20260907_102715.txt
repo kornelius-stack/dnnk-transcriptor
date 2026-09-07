@@ -1,0 +1,362 @@
+=== DNNK Webinar Transskription ===
+Kategori: Oevrige
+Video ID: UUPd8QxmKvE
+URL: https://youtube.com/watch?v=UUPd8QxmKvE
+Kilde: YouTube auto-undertekster (dansk)
+Transskriberet: 2026-09-07T10:27:15.054632
+
+==================================================
+
+00:00:00
+Sådan. Godmorgen og velkommen til dagens webinar om fremtidens våde regnevsbassinger, design og dimensionering. Mit navn det er Cornelius Pals, og jeg er ansat i DNK sekretariatet. Og det her webinar, det er afholdt eller afholdes i fællesskab mellem DNK, som står for det nationale netværk for klimatilpasning og EVA, som
+
+00:00:30
+er udvalget for erfaringsudveksling i vandmiljøteknikken, som hører under spildevandskomiteen i Ingeniørforeningen Ida. Jeg er glad for at kunne byde velkommen til jer alle sammen, uanset om I er medlem det ene eller det andet netværk. Vi er omkring 340 tilmeldte i dag, så der er tydeligvis stor interesse for emnet. Separering af regnvand fra spildevand fortsætter mange steder i landet, og med den og med den følger et stigende behov for nye våde regnvandsbassiner.
+
+00:01:00
+Men hvilket grundlag skal de egentlig bygges på? Fem forsyninger. Noah Fos, Fores, Dinforsyning, Fredericia Forsyning og Aalborg Forsyning har slået sig sammen om projektet vidensopdatering af våde regnvandsbassinger. Og i dag så får vi så indblik i, hvad flere grupper af landets eksperter er kommet frem til. Og til at præsentere resultaterne, så har vi Katrine Nielsen fra Teknologisk Institut og Jens Sterdah, koordinator for regnvejsbassinger vedsemne
+
+00:01:30
+for os. Jeg skal sige undervejs, så vil jeg følge med i chatten, og der er I meget velkommen til at skrive kommentarer og skrive spørgsmål. Så vil jeg samle op på dem øh efter begge oplæg, altså efter oplægsene. Og I har ikke mulighed for at tænde jeres mikrofoner. I har ikke mulighed for at tænde jeres kameraer, så det vil være noget jeg læser op efterfølgende. Så har vi en samtale der. Jeg skal også sige at webinaret det bliver optaget og så lægger vi det i DNKS vidensbank
+
+00:02:00
+bagefter, så I kan altid vende tilbage til det. Men med de ord så vil jeg egentlig bare give ordet videre til Katrine Nielsen og Jens Sterdahl og sige tak fordi I stiller op og vil fortælle. &gt;&gt; Mange tak for introduktionen Cornelius. Som sagt så hvis nogen skulle være i tvivl, så er det mig der er Katrine og Jens han kommer på lidt senere. Jeg vil starte den her præsentation med at give en introduktion til det her projekt, hvad baggrunden er for
+
+00:02:30
+projektet, og så kommer vi ind på nogle af de anbefalinger og præciseringer, vi er kommet frem til i løbet af det her projekt. Øh, og så slutter vi af med også at komme lidt ind på, hvilke områder projektet har vist, der også er noget viden, der skal opdateres, som vi mangler ø på nuværende tidspunkt. Som Cornelius sagde, så kommer jeg fra Teknologisk Institut. Jeg sidder på det der hedder rørcenteret til dem af jer der ikke kender mig, hvor jeg til daglig arbejder med klimatilpasning,
+
+00:03:00
+regnvandshåndtering, meget omkring regnvandskvalitet øh og også omkring generelle de udfordringer vi har med vand for også for kyster. Øhm, så ja, men som sagt det her projekt øh, som i dag har den titel der hedder fremtidens både regnvandsbassing og design og dimensionering, jamen det startede oprindelig helt tilbage i 2023 øh nej undskyld 24, hvor at jeg blev kontaktet og mine kollega blev kontaktet af Norf
+
+00:03:30
+og Jens, der sagde, jamen vi sidder herude for syningerne og skal lave regnvandsbassiner fremadrettet. De regnvandsbassiner vi laver, de bliver lavet på et vidensgrundlag, som er tilbage fra 2012. For dem af jer som er meget inde i regnvandsbassiner, så ved vi, at vi har det her faktablad tilbage fra 2012, som blev lavet i af blandt andet Aalborg Universitet. Og der dengang man lavede det, jamen der kiggede man ind i og
+
+00:04:00
+sagde, jamen hvis vi har et regnmandsbassin, det er lavet sådan her, det er dimensioneret sådan her, hvordan tilbageholder det så forskellige stoffer? Øh, og der kom en tabel ud af, hvor man kunne se, jamen, når man havde lavet et veldimensioneret, det man kaldte et veldimensioneret regnvandsbassin, så så man de her ø stofudledninger. Og det er ligesom det, der har været til grundlag for, hvordan regnmandsbassinger er blevet lavet siden 2012. NFOS og Jens og de andre forsyninger, som har været med til at finansiere det her projekt, var helt med i, at det var et ældre
+
+00:04:30
+grundlag, og der måtte da være sket noget siden ø 12. Så når vi skulle lave regnvandsbaseringer fremadrettet, så skulle de da selvfølgelig laves på det bedste vidensgrundlag, man havde i dag. Så det er ligesom det der er baggrunden for projektet, det var at man gerne ville fremadrettet lave våde regnvandsbassinger ud fra den bedst tilgængelige viden der er ano 2026. Projektet det løb frem her til april i år, så det er ikke så lang tid siden vi
+
+00:05:00
+blev færdige. Og som sagt så har formålet været at vi ville sikre og at sikre etablering af fremtidens våde regnvandsbassin sker på et baggrund af den nyeste viden. Øhm, og at også den eksisterende viden, der allerede er på på markedet, øh, blev blev taget kigget ind i og se, om der var nogle ting her, som måske var gået lidt i glemmebogen. Øh, og om der var nogle ting der, der lige skulle præciseres igen, så folk de blev
+
+00:05:30
+opmærksomme på, at nogle af de ting, der stod i det oprindelige materiale, øhm, det blev, det blev highlightet igen. Så derfor så har arbejdet også bygget på blandt andet Faktorbladet øhm som kom der tilbage 12. Men derudover har vi jo så også kigget ind i materialet som den Danmarkvejledning der ligger øh og en Rossindanvisning nummer 25. Så det har været en blanding af at gå ind og se på hvad der lå af eksisterende materiale, hvad skulle opdateres, men også om der
+
+00:06:00
+decideret var kommet ny viden til. Den måde projektet har været bygget op på, det var som Cornelius sagde, at de fem forsyninger, Noah Fos, Aalborg Forsyning, din Forsyning, Richasyning og For har finansieret projektet. Og så har vi haft en projektgruppe, der bestod af deltager for alle de her forsyninger, samt andre inviterede ø medlemmer ind, som ligesom har været kernen omkring selve projektet.
+
+00:06:30
+Så har vi haft en ekspertgruppe, og den kommer jeg tilbage til. Øh, der bestod af forskellige rådgivere og universiteter. Og så har vi haft en følgegruppe, der har fulgt med i projektet hele vejen og er blevet informeret om, hvor langt vi var i processen i det her arbejde. De har også deltaget i den her følgegruppe og ekspertgruppen deltaget undervejs i et midtvejsseminar, hvor at eksperterne opdaterede hinanden om, hvor langt de var med deres arbejde, og hvad de var kommet frem til. Øhm. Og også kunne følgegruppen byde ind
+
+00:07:00
+i og sige, jamen de vil kendte måske til noget andet viden, der lå et andet sted, eller stille spørgsmål til det arbejde, der der var nået hertil. Så sådan har processen været hele vejen igennem. Der har været meget imellem de forskellige grupper med kommunikation og sikre os, at vi øh det arbejde vi er kommet ud med er blevet gennemdiskuteret og at vi har øhm forsøgt på bedste mulig vis at finde den viden der der var til rådighed.
+
+00:07:30
+Outputtet af arbejdet af en røcenteranvisning. I kan se den, så lige skri noget andet. Det kan I ikke sådan øh og en ekspertrapport. Denne her ekspertrapport består af seks kapitel, som sammenfatter den nye viden og de præciseringer, som der er kommet frem under arbejdet. Øhm, som forhåbentlig skal gøre, at fremadrettet, når der bliver designet
+
+00:08:00
+bassiner øh så ø så bliver det gjort på det her bedst mulige grundlag. Anvisningen den indeholder så udput eller udpluk fra ekspertrapporten de steder hvor at den her projektgruppe synes, at der var ting, der kunne trækkes ud og blive præciseret og blive præsenteret som som en anvisning. Så man kan sige, at det er ekspertgruppen, der har udarbejdet denne her ekspertrapport, og det er øh projektgruppen, der så har
+
+00:08:30
+trukket den videre viden ud og lavet anvisningen. Det skal også lige siges, at der selvfølgelig med sådan et projekt som det her, bliver man også nødt til at lave nogle afgrænsninger, ellers så var vi ikke kommet i mål. Øhm, og det var, at det første vi sagde til os selv, det var, at en af de afgræsninger, der skulle være, det var, det var eksisterende viden øh, der var allerede publiceret ø eller var ved at blive publiceret, som skulle ligge til grundlag for opdateringen. [fnyser] Der
+
+00:09:00
+skulle ikke ud og laves nye feltmålinger øh eller besigtiges anlæg under projektet. Der er lavet en lille smule arbejde med at kigge på nogle kort øh nogle satellitbilleder, men det er det eneste, hvor man ligesom er gået ind og set noget data. Øhm, og så som jeg sagde, så var også en af afgrænsningerne, vi egentlig gerne ville identificere, om der var områder, hvor man manglede ny viden på. Og det kommer jeg til tilbage til til sidst i præsentationen, hvad for nogle områder vi kunne se her.
+
+00:09:30
+Projektet det startede som sagt op i december og har bestået af overordnede tre faser, hvorf den første fase det var simpelthen at nedsætte den her arbejdsgruppe øh og også identificere hvad for nogle emner det var, at der var interesse for at der skulle ø eller ønsker for at man man synes, der manglede viden inden for det her område. Så fase to, det var primært her, hvor vores ekspertgruppe de arbejdede på
+
+00:10:00
+højtryk. for at opdatere vidensgrundlaget. Da de var blevet udvalgt, så fik de at vide, hvad det var for nogle emner, de ikke de skulle arbejde med, de blev spurgt, om de ville arbejde med dem. Øhm, og der arbejdede de så på at opdatere og få lavet den her ekspertrapport. Og så til sidst så har det så været at udarbejde anvisningen og trække ud fra rapporten øh hvilke områder vi vil vi vil putte i anvisningen. Måske nogle af jer kan huske tilbage til december eller til det var ikke i december undskyld i februar
+
+00:10:30
+2025 der blev der på LinkedIn spurgt ind til det her med ø hvordan i så øh områder med regnvandsbassiner øh om der var emner som I manglede viden på. Vi sendte et spørgeskema ud og der var rigtig god besvarelse på det. Øh, I skal ikke kigge på responsen her, fordi det det er jo ikke den færdige opdaterede response, der er der, men den viser den tendens, der var. Så som sagt i fase et, vi gjorde det her
+
+00:11:00
+for at identificere de forskellige emner. Udover spørgeskemaet vi sendte ud, så ø var der også afholdt workshops i de forskellige forsyninger, og der blev også afholdt i arbejdsgruppen ø workshops til at identificere de emner og områder, hvor der var ønsker om at identificere øh emner, der skulle opdateres. [fnyser] Et af de spørgsmål, vi selvfølgelig stillede i den her undersøgelse, det var jo var ville folk bruge regnvand både regnvandsbasering og fremadrettet, fordi det var ret essentielt for den her opgave. at hvis
+
+00:11:30
+folk alle havde svaret nej, vi kommer ikke til at lave flere regnvandsbassinger, jamen så var der jo ikke nogen grund til at opdatere vidensgrundlaget. Øhm, så så det var selvfølgelig en tilbagemelding, der sagde, jamen det var der rigtig mange, der gerne ville, 50% af af deltagerne og også over 50%, de sagde, jamen fremadrettet kommer vi til at bruge regnvandsbassiner. Øhm, og når vi så spurgte ind til, jamen hvilke emner det var eller områder, som man gerne ville have ny viden omkring, så var der ligesom overordnet tre øh
+
+00:12:00
+emner, der ligesom poppede ud øh udover øh de, som vi også har behandlet i det her projekt. Men det var folk ville rigtig gerne vide det her med, hvor godt regn renser de her regnvandsbassinger. Øh, der var mange, mange kommentarer omkring viden omkring det her med rensning. Så var der også det her omkring drift. Hvordan drifter vi bedst vores regnvandsbassin? Lige så meget med hvordan drifter vi bedst vores regnvandsbassiner for at opretholde den
+
+00:12:30
+renseeffekt, vi gerne vil have i vores bassiner. [fnyser] Øhm, og så var der mange spørgsmål omkring dimensionering også, hvordan vi bedst dimensionerer vores regnvandsbassinger, men også spørgsmål om, at den traditionelle måde, hvorpå vi dimensionerer regnvandsbassinger og laver de her ovale regnvandsbassinger, jamen kunne man gøre noget andet. Især når vi snakker i bynæområder, hvor at arealerne måske ikke lige altid er til at at lave den her de her traditionelle type bassinger. Så øh arbejdsgruppen satte sig ned og
+
+00:13:00
+kiggede på alle de her spørgsmål og kategoriserede dem øhm og kiggede så på jamen hvem var der ude i branchen, som kunne kunne hjælpe med at svare på de her områder. Og der endte det ud i i fase to, at øh vi som sagt havde de her seks forskellige øh områder, emner øh der kom ud fra de her spørgeskemaer, de her forskellige workshops, hvor [fnyser] at planlægningen ligesom det her med at sige, jamen regimandsbassiner de skal
+
+00:13:30
+tænkes ind, de skal tænkes tidligt ind i bymodningsfasen. Hvordan får vi bedst gjort det? Der havde vi så heldige, at vi havde Jacob Krog og Sarah Plok fra Nias til at hjælpe med at svare på det her spørgsmål. [fnyser] Og det skal siges, det er jo ikke kun det her enkelte spørgsmål. Det det var en lidt længere uddybning, de de fik omkring, hvad det var, deres emne det indeholdte. Øhm, men det er bare sådan ligesom taget det essentielle af det, sådan lige det det overskriften på det. Øh, inden for drift, jamen der var det især det her
+
+00:14:00
+med øh, hvordan vi kunne renovere og vi kunne drifte de her bassiner bedst muligt. Og [fnyser] der havde vi Thomas Oplink for TA Vandmiljø til at svare på det her spørgsmål. [fnyser] Så ø det her med udformning, designet af bassinerne ø men også med materialer. Hvad for nogle materialer bruger vi bedst og mest fornuftigt, når vi fremadrettet skal lave bassiner? Der er jo blevet fokus på bæredygtighed, der er fokus på CO2 øh aftryk mange steder i dag. Så derfor er der også sket noget
+
+00:14:30
+siden vi havde det Faktorbladet for 12, hvor at man bliver nødt til at tænke ind i andre ting, når man designer sine bassiner i dag. Der slog Nios og VSP sig sammen til at svare på det i de her spørgsmål, og det var Steffen Frandsen og Anja Thomsen, der der tog sig af den opgave. Så det her med dimensioneringen og hydraulikken, hvordan vandet det opføres, og hvordan vi skal tilbageholde det, og hvor hurtigt det må løve igennem bassinerne. Øh, men også at kigge ind i det her med, hvis man har et slags opland, kan man så designe sit bassin
+
+00:15:00
+efter øhm det her øh øh kan man designe bassinet efter oplandet, og hvad man forventer for eksempel af forurening. Øh, men også med sedimentation og hvordan sedimentationen den bliver påvirket i bassinerne. Det var den hydrauliske del ø der blev kigget ind i, og det var Lcavasao for Kryer der tog den. Så var vi så heldige, hvis man kan sige det sådan, at øh samtidig med vi startede det her projekt op, der havde Vejdirektoratet og Aalborg Universitet
+
+00:15:30
+startet et projekt op omkring Vejdirektoratets bassiner, hvor de var gået i gang med at måle på vandkvaliteten i deres bassiner. Øhm, og det her store emne omkring vandkvalitet, det var rigtig vigtigt, at vi fik det dækket. Øh, så der spurgte vi Jondersen op for Aalborg Universitet, om han ikke ville ø være med til det. Øh, og det det ville han gerne, og der var vi så heldige, at Vejdirektoratets rapport den nåede, og vi måtte bruge fra den nåede at komme ud, inden vi blev
+
+00:16:00
+færdige med vores arbejde. Øh, så der er blevet hentet noget information for den rapport, der ligger i hos fra Vejdirektoratet øh som er bragt ind i det her projekt også. Og så til sidst så var der også en del spørgsmål omkring det her med hvordan biodiversitet kan blive bedre i bassinerne, hvordan det kan man kan få mere biodiversitet, men også hvordan biodiversiteten kan påvirke den udledning vi har for bassingerne. Der blev spurgt ind til meget om forskellige planter. Der blev også spurgt ind til
+
+00:16:30
+forskellige fisk øh pader, andre ting. Og den del den har Sarose forsøg fra Syddansk Universitet forsøgt på bedste vis at svare på. Og der har vi haft i hele gruppen også rigtig mange snakke omkring det her med iltforhold og temperaturforhold i de her bassiner. [sukker] Så vi havde, synes vi selv, en rigtig god af folk til at sidde og arbejde på det her. Og som sagt så har der jo været dialoger undervejs, mens vi har lavet projektet. Også eksperterne
+
+00:17:00
+imellem. Der har været områder, hvor vi har skulle ø ja skulle samles. Og øh jeg vil ikke sige noget til enighed, fordi vi har faktisk hele vejen igennem, fordi vi har arbejde ud fra den viden, der har været. Øhm man skal jo nogle gange blive enige om, at hvis du skriver det i det ene kapitel, så skal vi ø så skal vi øh ikke jeg nu skulle jeg til at sige ikke skrive det andet noget andet end algebil. Nej, vi skulle vi skulle blive enige om, hvordan vi så trak det ud i anvisningen efterfølgende, hvis der var nogle ting, hvor at der var uenigheder.
+
+00:17:30
+Så øh så som sagt så har projektet endt ud i økspertrapport. Den er på 118 sider hvor alle de her seks emner de bliver de bliver delt. Rørsandanvisning den er jo så blevet mindre. Den består cirka af 40 sider, hvor vi har forsøgt at trække de bedste anbefalinger og præciseringer ud fra ekspertrapporten. Og i forbindelse med med det her arbejde, der blev vi spurgt, om vi ikke
+
+00:18:00
+kunne lave en chatbot. Så det har vi også gjort. Der ligger en chatbot øh her på Teknologisk Institut, som der er fri adgang til. Man skal registrere sig, og det er ikke fordi, der er andet. Man skal bare registrere sig, sådan fungerer systemet. Og der kan man så gå ind og spørge ind til ekspertrapporten, øh, hvis man har nogle ting, man gerne vil have uddybet. Så de to ting, der ligger til grundlag for den her chatbot, det er så de to dokumenter. Så hvis man ønsker at spørge lidt mere ind til øh nogle ting, så er det det er den nemmeste vej ned at sidde og læse hele hele rapporten. Selvfølgelig må man gerne
+
+00:18:30
+det. Det skal lige siges øh her som noget af det sidste fra mig af, inden jeg overgiver den til Jens, det er at den her ekspertrapport den bygger på den nyeste viden, vi kunne finde inde i Danmark. Der er også hentet lidt erfaringer for for udlandet, men det har primært været fokus, at det var viden for danske bassiner, vi gerne ville have med. Øhm, og så bygger den selvfølgelig også på de erfaringer, som de her eksperter de har inden for det her område og for deres respektive ekspertområder, [sukker] og at de har
+
+00:19:00
+bidraget uvildigt til det, der ligger i deres rapporter. Så arbejdsgruppen har ikke påvirket på nogen måde, hvad der står i ekspertrapporten. Øhm, så det er mere for at sige, at de har arbejdet selvstændigt, og vi har så trukket ud den viden, vi ø vi gerne ville bringe ind i anvisningen. Og med det så vil jeg stoppe min deling, og så vil jeg give ordet over til Jens, som vil fortælle nogen omkring de her
+
+00:19:30
+forskellige præciseringer, vi har øh øh vi er kommet frem til. [rømmer sig] &gt;&gt; Godmorgen alle sammen, og tak fordi I vil være med. Jeg håber I kan se min skærm. Øh og tak for ordet Katrine. Det vi har gjort nu er jo vi har jo en en anvisning hvor vi kigger på mange forskellige emner. Nu vi har så taget dem ud vi synes var [fnyser] mest relevante og interessante og som vi kunne nå at præsentere nu her. Men der er emner vi ikke når at komme omkring dem jeg sådan lige berør ganske kort.
+
+00:20:00
+&gt;&gt; [rømmer sig] &gt;&gt; Øhm, men noget af det vi en af de ting som blev sagt meget tidligere i processen af i hvert fald planlægger i i Nova Fos, men også i de andre forsyninger, var at de her tidlige faser af planlæggende regnsbassinger, de var tit problematiske. Tit var der ikke afsat plads nok til bassinet. Tit var der ikke styr på, kunne vi faktisk få lov at udlede til den her til den her recipient. Øhm, og det kan det g bøvl i nogle især nogle af byudviklingsprojekter. For eksempel har Nord også nogle byudviklingsprojekter,
+
+00:20:30
+hvor vi har rigtig svært ved at forsyne med regnvand, fordi der ikke er plads, så vi kan ikke få lov at aflede vandet. Så derfor er det rigtig vigtigt, at man i den tidlige planlægging af våde reglaceringer øhm kigger på de her forhold og får fundet ud af, jamen får afklaret, jamen hvad er arealbehovet til det her bassin, og hvad er mulighederne for udledning til til recipient. Og det vi fandt ud af var, at et rigtig godt instrument til at gøre det, det er at lave øh
+
+00:21:00
+det er at lave nog det er at at lave vand en en en vandhåndteringsplan, som ligesom sammenfatter alle de her forskellige forhold, som er altså hvad er afløbstal recipienten, hvad er terrænforhold, hvad er det reduceret af, hvad er restriktioner, er det på arealvendelsen. Det er ikke et formelt dokument i sig selv, men erfaringen er at det at det er et rigtig godt dokument at have i det iterative samspil man har mellem spillevandetsplan og lokalplan. Øh og få fundet og den vej rundt få fundet de de
+
+00:21:30
+gode løsninger. Skal jeg lige have den her til blad her. Noget andet vi fik kigget på var den effektive opholdstid i regnbassiner. Øhm, fordi det vi det vi ser når vi når jeg kigger på alle de bassinger vi har noget rigtig for forskelligt og vi har en en
+
+00:22:00
+tendens til at regne i rensevolumen. Jamen er der 250 kubikmeter vådvolumen, så er det jo per reduceret hektar. Så er det jo fint. Men når man så kigger nærmere på det, så kan man se, at jamen den, hvad skal vi sige, den øh den effektive opholdstid, altså effektiviteten af udnyttet, udnyttelsen af våvolumen, den er meget svingende afhængig af hvordan et regnsbeting det er det, det er dimensioneret. Og Luca Ventalo, som lavede den her del af det, gjorde det, at han simpelthen han han var lidt [rømmer sig] nysgerrig
+
+00:22:30
+på, hvor var forsyningerne faktisk henne? Hvor var vi henne med de nye basser, som vi anlagde? Så han kiggede på 70 basser anlagt efter 2012. Og det viste sig så at ø tæt på 60% af dem var faktisk anlagt på den sådan måde, de havde en en lav hydraulisk hydraulisk øh øh øh kapacitet. Det vil sige, at der var sådan set anlagt bassiner med et stort vådvolumen, men fordi på grund af den måde som vandet løb igennem bassinet på, så var det kun en del af vådvolumen,
+
+00:23:00
+som faktisk blev benyttet til til rensning. resten af vådvolumen, der stod vand bare stille, og det har ligesom ikke den store effekt på ø på på rensningen. Og det man kan se på figuren er jo, at der er nogle af de altså der er nogle designs, som fungerer godt, og så er der øh og så kan man se i baggrundsrapporten, der er så også nogle der fungerer ret dårligt. Her har vi nogle meget aflange bassiner, men især bassiner med en sektionering undervejs eller en en spuns med et forbassin eller
+
+00:23:30
+med et fordelt tilløb eller bare med en sten eller en lille spuns uden bassinet foran tilløbet, som fordeler vandet. Det har en rigtig stor effekt på øh den hydrauliske effektivitet og dermed også på på rensningen, den rensning som man kan opnå i det her bin. Så det er sådan nogle ret simple anbefalinger. Det er et længdefor breddeforhold på mindst fire til en. Øh man skal vi skal placere till og fraløbs
+
+00:24:00
+strømningsvejene bliver længst muligt. Og vi skal lave sektionering eller barrierer, som bremser og fordeler vandet. Og så er der nogle ting, vi skal undgå. Vi skal undgå firkant eller cirkulær bassinet. Vi skal undgå bassenger, hvor vi har et tilløb, der er placeret lige foran udløbet og kan lave en jetstrøm i igennem regnvandsbassinet. Og jeg kan så se, jeg har så efterfølgende siddet og kigget på nogle af Nova Foses nyere regnsbassiner, og vi har altså nogle stykker, som er bygget på måder, så vi får de her jetrømme
+
+00:24:30
+igennem bassinet. Og det er jo virkelig nemt at undgå. Så der er der er en meget lavlig frugt det med at når man bygger et bassin og har sit vådvolumen, så skal man også sørge for at bygge bassinet, så man faktisk udnytter vådvolumet øh øh effektivt.
+
+00:25:00
+Noget jeg oplever når vi både drifter gamle bassiner, men også når vi anlægger nye, at det nogle gange er uklart, jamen øh det vådvolumen, som vi etablerer, hvor meget af det må vi faktisk bruge til at ophåe sediment i. Det vil sige, hvornår skal sådan et bassin med med et mådvolumen med 250 kubikmeter reduceret hektar, hvornår skal det oprenses? Øhm, og nogle gange ser vi både i Nordfosm også andre forsyninger, at at det bliver
+
+00:25:30
+relativt sent i processen, men får det oprenset. Det vil sige, man når relativt langt ned i reelt vådvolumen, før bassinet det bliver renset op. Og der synes vi, der har været en ret stor uklarhed i den måde vi taler om det på, fordi vi taler bare om vådvolumen, men reelt består vådvolumen jo af af to ting. Der er det vand, der er den del af vandsøjlen, vi bruger til rensning. Den kalder vi, den foreslår, vi kalder for rensvolumen. Og så er der så den del af
+
+00:26:00
+af vandet, som vi bruger til at ophobe sediment i, og som jo så efterhånden vil blive mindre og og mindre. Og der foreslår vi for at få større klarhed, at vi begynder at tale om, at vi har et rensevolumen i alle bassiner, som skal være der, fastholdes igennem hele bassinets levetid. Og så har vi så et et sedimentvolvumen som i et nyanlagt eller et nyanlagt bassin. Der er der ikke noget sediment, så der bidrager det sådan set også til rensningen. Men sedimentvolmolumen må vi godt over årene fylde op med sediment.
+
+00:26:30
+Øh, og når så cimentvolumen er er fyldt, så er det aller så er det godt nok på tide til, at bassinet det bliver renset om. Og så kigger vi også noget på dybden af bassiner, hvor hvor når man kigger i den internationale litteratur, så er der meget forskellige anbefalinger om omkring dybde. Og vi kiggede på, hvad var baggrunden for anbefalingen om for den danske anbefaling om jamen at vi skulle holde os de der en til halvanden meter. Øhm.
+
+00:27:00
+Og der kan vi se at bagud rettet så er det så er der meget fokus på fosfor. Men vi begyndte så at regne på, jamen hvor meget fosfor kan der faktisk frigives, og hvad er risikoen for bundvinding i de her bassenger og nået frem til at den var altså meget lille. Der kan godt opstå den her iltfrie situation om sommeren, som kan frigive noget fosfor, men det er meget, meget små mængder. Øh, og vi har ikke den her risiko for bundvending længe, fordi vi har langt færre fejlkobling. Vi har ikke et
+
+00:27:30
+resourir liggende af meget næringswitelvandslam. Så derfor endte vi på, jamen der er ikke nogen begrundelse i i rensningen øh for at at sige, jamen vi må maks lave bassinger halvanden metodybe. Man kan faktisk godt lave dem op til tre meter dybe. Der kan så være mange praktiske forhold, som gør, at tre meters dybde det ikke er en en god løsning. Men det kan overvejes i de situationer, hvor man tænker, det kunne være praktisk at have noget mere
+
+00:28:00
+volumen til at at deponere sediment i, eller hvor hvor sementet det kan ophåbes over over tid. Og det giver mig så måske anledning til at sige lidt om en af de ting, vi ikke lige har en slide på, nemlig at noget af det vigtige ved de her våde regspaceringer, det er at de at de skal driftes. Man skal jo have styr på, jamen hvor meget sediment har vi i de forskellige regnbassiner, og hvor meget våde volumen har vi tilbage, og hvornår sådan cirka skal de renses op, fordi det
+
+00:28:30
+er jo et lille renseanlæg, og det vi renser, det samles ligesom på bunden af bassinet, og det skal vi fjernes med jævner mellemrum afhængig af hvor stort bassinet er, hvilket hvilket opland der er. Og der ser vi i hvert fald på vores bassin, og det interval det er meget forskelligt fra anlæg til anlæg. For nogle bassinger er vi helt nede på 10 år, for andre er vi oppe på 30 eller 40 år. Så derfor for at have styr på nogle sine regnepassinger, så skal man finde en måde at systematisk overvåge på, jamen hvad er situationen med fri vandsøjle og
+
+00:29:00
+med sedimentophåbning i de forskellige i de forskellige bassinger. Så vil vi kigge en del på forrensning eller forbassinger. [rømmer sig] Vi har en historik i at både i Nordf,
+
+00:29:30
+men også i andre fysisyninger, der har vi jo en del ældre bassiner som er anlagt med jordforbassin øhm som vi så desværre har erfaret. De er altså noget besværlige at ø og drifte. Øhm tit skal vi have en paragraf tre dispensation. Tit skal vi have en ekstern entreprenør, fordi vores egen drift siger, jamen der er membran i det placering. Det tør vi ikke selv rense op. Og så bliver det lige pludselig meget dyrt per kubikmeter sediment, som man fjerner. Så derfor har vi kigget på eller er vi i gang med at eksperimentere med forskellige løsninger på forberedinger. Og det kan vi også høre andre forsyninger. Det er så vi
+
+00:30:00
+havde kigget på jamen er forbassinger er de nødvendige og er det en god ide. Og det vi nåede frem til var at der er sådan to hovedformål med forbassiner. Det ene er de skal bremse vandet ind i bassinet. De de kan ofte være rigtig gode til at give en god hydraulis effektivitet i i regnsbassin, fordi de typisk har en af forbindelsen fra forbassin til hovedbassining, sådan at vandet det bliver det bliver det bliver spredt og de bliver bremset i i ø i hastighed.
+
+00:30:30
+Og så kan de tit have den funktion, eller tit er der også en fordel, at de fjerner de store partikler. Øhm, og dermed en væsentlig mængde af den sediment, som ellers v vil bundfælde i ø i øh i hoved i hovedbassinet. Men som sådan skal man også sige, de øger sådan set ikke den samlede rensning i i i sig selv det at have forsing. Øhm, men de kan, hvis de er anlagt rigtigt,
+
+00:31:00
+og forholdene er til det, kan de gøre driften af af et samlet anlag langt billigere. Fordi hvis man har anlagt sit har fundet en god løsning på sin forurrensning, så kan man fjerne sedimentet fra fra sin forurrensning langt eller væsentlig billigere end end ø fra hovedbassinet. Så det var altså nogle formål. Bremser vandet, fjerner store partikler øhm og at det driftmæssigt kan være kan være en fordel, men ikke altid. Men så er der også væk, det andet vi
+
+00:31:30
+fandt ud af var der på der er kommet rigtig mange andre løsninger end traditionelle jordforbersanger til forrensning. Det kan være et øh et forbassing med med fast bund. Det kan være en øh et et stort sandfang med en med en hvad skal vi sige en hvbybygning som er mere effektiv. Der er en stribe producenter, der havde der har lavet nye der har lavet lavet der har lavet forskellige løsninger. Og hvilken løsning man vælger, skal jo så afhænge
+
+00:32:00
+af ja at at øh af de de lokale forhold. Øhm man skal finde en løsning, som man nemt kan drifte, og hvor man kan gennemskue, okay, den langsigtige vedligeholdelse på det her anlæg, den bliver billigere, når vi laver det her løsning.
+
+00:32:30
+Noget andet vi kiggede på, som er meget, meget simpelt, men som i virkeligheden har ret stor betydning, det her med placering og udformning af af til og fraløb. Øh, et [rømmer sig] af de steder, hvor vi i hvert fald kunne se, hvor jeg kan se på Nordfost placeringer, at vi kan optimere og få noget mere ud af vores anlæg, det ved at være mere om omhyggelig med med vores tilløb. Vi skal ikke længere bare lave tilløb, som leder vandet direkte ud i et bassin, fordi så laver vi en jetstrøm. Nej, vi skal lave et tilløb, så vi fordeler vandet jævnt,
+
+00:33:00
+og så vi udnytter rensevolumen effektivt. Øh, det afhænger så i de lokale forhold, hvordan de lige skal gøre. Skal røret være lidt på skrå? Skal man lægge en stor kampesten eller nogle flere foran tilløbet, eller skal man lave en lille spuns ø ved tilløbet, sådan man får fordelt vandet? Det kan gøres på mange måder, og det er ikke så afgørende. Det afgørende det med, at man skal have fordelt vandet, og man skal have hastigheden taget ud af det. Og det andet er er fraløbet. Det har vi
+
+00:33:30
+gjort de nævn om, men vil lave dykket fraløb, så bassinet får en olieudskillerfunktion, og så driften minimeres. Fordi det der sker, når vi lavet dykket fraløb, det vil sige tager vandet et stykke ned i vandsøjlen, det er at ø så bliver helt sæet en stor og meget effektiv olieudskiller for vand det olien, det vil samlesfæer fr fordampes. Øhm. [rømmer sig] Og det andet der sker, når vi tager vandet et stykke, når når vi laver fraløbsstik ned vandsholden, det er at
+
+00:34:00
+vi rammer det de vi rammer det sted i vandsøjlen, hvor vandet det rent altså der ligger nogle plantedele og og ogog flyder, fordi vi tager det lidt nede, men vi tager det også så højt, at vi ikke får noget sediment med ind i i øh i ø i vores freløb. Det er to meget simple tiltag, som man skal huske, når man laver nye bassiner, men også på mange gamle bassiner, så er det nogle tiltag, som med en meget lille investering både kan forbedre rensningen og så også kan gøre driften af
+
+00:34:30
+bassinerne langt langt simplere. Og så lige et ops på sprogbrug. Øhm. Noget af det vi oplever når vi går rundt og kigger på på bassiner det er at mange vil gerne tale om ø tale om udløb men det vise sig ret hurtigt når man går der rundt at det kan så være forskellige
+
+00:35:00
+udløb man taler om. Nogle taler om udløbet fra fra rørene, og nogle taler om udløbet fra bassinet, og nogle taler om udløb ud i i ø i i recipienten. Det blev I efterhånden lidt trætte af at gå rundt og være forvirret over, så vi foreslår, at man i stedet for siger sådan eller bruger et sprogbog, hvor at tilløbe, det er det rør, der leder vand til bassanlægget. Fraløbe, det er det rør, der leder vandet fra bassinet og videre gennem den drlende ledning. Mens udløbet, det er det rør, der leder fraløbet videre ud i i i recipienten.
+
+00:35:30
+Det synes jeg er ret logisk og giver en meget entydig måde at tale om, hvad er det for noget vand, vi har med at gøre, og hvad er det for hvad er det for et rør, vi har med at gøre? Den sidste ting jeg lige vil hive frem, det er med med med braner. Der er jo enighed om at have været der længe, at bassenger skal være lavprimable, så
+
+00:36:00
+lavandet, så regnvandet ikke løber ud eller grundvandet det ikke trænger ind. Men det som er det vi det vi i hvert fald lige har oplevet kan høre andre forsøgninger oplever er at det er på vej til at blive standard fra myndighedens side. Jamen der skal laves en bentonitmembran i alle nye anlæg og regnesbassinger. Og det synes vi ikke der er nogen gode argumenter for. Vi synes faktisk, det vil det er om det er både uøkonomisk og
+
+00:36:30
+ubær bæredygtigt. Så derfor har vi kigget en hel på de her en hel del på de her membraner øhm [rømmer sig] og forsøgte at afklare jamen hvordan skal vi hånd hvad er de bedste løsninger? Og vi fandt i virkeligheden ud af at jamen de bedste løsninger er den meget meget simple løsning. Det er at bruge en en citolmembran. Det vil sige membran af intægte af intakte aflejninger så som
+
+00:37:00
+eller anden naturlæ i i regnusbaseringet. Som Thomas Abbling, en af eksperterne sagde, jamen den løsning har vi jo brugt i i mange mange årtier i i Danmark. Når vi kigger på gadekæer rundt i landet, jamen hvordan er de så tætte? Det er det, fordi man har brugt det her en en taktel. Og var der nogle sandrevner i det, så har man jo lige erstattet det sand med med ø med ler. Men har er der ikke l på det sted, hvor man anlægger sit bassin, jamen så kan
+
+00:37:30
+man tilkøre ler og få det komprimeret. Men er man et sted, hvor man har et meget, hvad skal I sige, øh, [rømmer sig] et meget gruset underlag og er meget bekymret for, om man sit bassin overhovedet kan holde vand, kan holde vand, jamen har nogle andre krav, jamen så kan en bentonitmembran eller måtte øh være en kan være en fornuftig løsning. Og endelig hvis man er et meget sårbart
+
+00:38:00
+sted med grundvandsressource eller lignende, så kan der komme krav om at lave en helt impermable membran i plast eller gummi. Og der er flere forskellige grunde til, at det her det er det er lidt vigtigt. Det ene er, at når vi kigger på anlæg af rassinger, øh, så det forhold der eller den faktor der der bonger allermest ud i forhold til CO2 belastningen for anlæg af et remmandsbassin, det er jordtr transport transporten. Øhm, og det giver
+
+00:38:30
+rigtig meget jordtransport, hvis man først skal grave et ekstra stort hul. Ø, så der er plads til både en øh til et drenlag under membranen, lægge en membran på og så have et beskyttelseslag oven ovenpå membranen. Det er på de fleste placeringer er det mange tons jord, som bonger ud i rigtig meget CO2. Øhm, [rømmer sig] det er det ene forhold, og det andet forhold er, at det typisk også bliver relativt dyrt. Øh, hvis man kan bruge intakt ler eller tilkørt ler, så er det
+
+00:39:00
+en væsentlig billigere løsninger. Og tit for eksempel når man laver byudviklingsprojekt, så kan det vil jo være en god løsning at have et øh øh et et jorddepot for den samlede biudviklingsprojekt, hvor man så kan oplage det ler man finder et sted og så senere muligt i forhold til drejsbassin. Når man begynder at regne på de her tal, så så er der rigtig meget CO2 og og og og spare på det.
+
+00:39:30
+Og så tror jeg, vi giver ordet tilbage til Katrine. &gt;&gt; Jo, tak. Så vil jeg lige dele min skærm her til Sådan. Jamen, så fortsætter jeg her øhm med de sidste to øh anbefalinger eller præciseringer, som vi er kommet frem til. Og den ene det er det her, nu snakkede Jens tidligere om det her rensevolumen, øh, som vi anbefaler selvfølgelig
+
+00:40:00
+fastholdes som værende det man beslutter sig for, det skal være fra starten af, at det fastholdes hele vejen igennem ø bassinets levestid. Øhm, og det kan man gøre ud fra to forskellige beregninger, hvor at vi har været i dialog med mange mennesker omkring, hvad der var smartest her. Øhm, vi kender alle sammen de her, det vi kalder erfaringstal. Øh, de her 200 til 300 kubikmeter per reduceret hektar. Øh, det er så den størrelse vores volumen i vores rense eller i vores
+
+00:40:30
+regnvandsbasing kan få. Det er den ene måde at gøre det på. Og den anden det er at dimensionere ud fra modelberegninger på baggrund af de udledningskrav der nu stilles ø til det regnvand der skal ledes ud fra det her bassin. Arbejdsgruppen vil komme frem til, at erfaringstallene kan godt bruges, men i det øjeblik der bliver stillet krav til en udledningskonstruktion, eller der bliver stillet krav til, hvad man må udlede fra
+
+00:41:00
+det her bassin, så bliver vi nødt til at kigge meget mere ind i brugen af modelberegninger. Øhm, da erfaringstallene det er mere en tommelfingerregel, som man kan gå ind og bruge måske tidligt i fasen af placeringen af bassinet. Øh, men når vi skal vide præcis, hvor stort bassinet skal være, så bliver vi nødt til at gå ind og kigge meget mere i modelberegninger. [fnyser] Øh, min næste slide, den handler om forsinkelsesvolumen, men der er for både rensevolumen og forsinkelsesvolumen et
+
+00:41:30
+af de her steder, hvor at vi ikke valgte at sige, hvilken model man skal bruge. Og det har vi simpelthen gjort, at det af den grund, at når vi kiggede ind i, hvad der var derude af modeller, så er der rigtig mange gode modeller, men vi så ikke os selv som arbejdsgruppe, som værende dem der skulle komme med beslutning om øh hvilke parametre der skal ind i modellerne, hvad skal modellerne kunne ø og hvilke krav der skal stilles til de her modeller. Det ø anbefaler vi ligger et andet sted. Øh og
+
+00:42:00
+når jeg siger andet sted, så kigger jeg mod Rikke og spilvandskomiteen, at de øh har mulighed forhåbentlig mulighed for at få kigget nærmere ind i det her med brugen af modeller til, når vi skal dimensionere vores regnlandsbasseringer, for det er et helt projekt i sig selv. Når vi så kigger på forsinkelsesvolumet, jamen det er jo så det her volumen, der er op over vores permanente vandspejl. Øh, som der skal være plads til, når når der kommer meget mere regn øhm end end
+
+00:42:30
+det, der kan være i bassinet til til daglig. Øhm, det skal fastlægges tidligt i projektet eller i projektfasen, så der er plads til det. Lige så vel som der skal være plads til selve det permanente vandspejl, så skal der altså også være plads til øh forsinkelsesvolumet, når når det regner. Øh og det skal være til grund fra ud fra det selvfølgelig det befæstede afløbstallet ø sikkerhedsfaktor med mere. Og her der anbefaler vi at øh man benytter
+
+00:43:00
+spilvandskomiteens regneark til bassiner. Hvis man har et afløbstal, der er højere end to liter per sekund per reduceret eller per reduceret hektar, men er man ude i en situation, hvor at man har et lavere afløbstal end de her to liter per sekund, så øhm er det vores anbefaling, at man igen bruger nogle statistiske eller dynamiske modeller til at regne
+
+00:43:30
+det ud. Øh, spilevandsregneark. Det det fungerer rigtig godt, men det har altså den her afgrænsning med, når det kommer under de her to liter per sekund, at øh at der har det sine begrænsninger. Øh, og igen de her modeller, det lader vi altså lægge op til nogle andre og beslutte, hvad de her modeller skal kunne, og ø hvad deres øh deres parametre, der skal puttes ind i øhm skal være. Og jeg ved godt, det er sådan lidt en kliffænger, øh, men det var simpelthen det bedste, vi kunne komme frem til under det her, det her stykke arbejde, vi har lavet,
+
+00:44:00
+fordi det her, det er altså et kæmpestort stykke arbejde, der ligger ved siden af. Og det øh bringer mig så videre til denne her slide med, jamen hvad er så status? Hvad har vi fået ud af det her projekt, og hvad er det for nogle områder, hvor vi egentlig gerne vil have noget mere viden? Vi øh blev klogere under det her arbejde. Vi fik meget mere viden omkring bassinerne og hvad de kan. Øh men der er ikke nogen tvivl om at vi der er altså også nogle områder hvor at vi skal vi
+
+00:44:30
+skal have fokus fremadet. Øh nu fortalte Jens omkring den hydrauliske effektivitet. Det var ikke med på slidet. Der blev lavet under projektet en udredende udregning om, hvis man kiggede på forskellige eksisterende bassiner ø hvor mange der egentlig levede op til øh til de her gode øh tilbageholdelser. Og hvis jeg husker rigtigt, så de udregninger de viste et eller andet med over 50% af de bassiner der er blevet lagt siden 12, de har en dårlig ø tilbageholdelse af
+
+00:45:00
+vandet. Det vil sige man har en for hurtig strømning igennem. Så det vi også ligesom er blevet klogere på, det er den viden vi har, og også den viden vi havde tilbage fr, det er ret vigtigt at vi husker den. At vi husker at de ting der blev præciseret dengang også at det holder vi ved ogog og husker at jamen strømningsvejene er faktisk rigtig rigtig vigtige i det her, fordi ellers så har vi ikke de rensegrader, som Faktorbladet viste dengang. Men nogle af de andre ting, det er der er vi havde håbet vi måske havde fået noget mere viden omkring, det er det her
+
+00:45:30
+med renseevnen hvor godt renser de forskellige bassiner. Øhm der er ikke lavet ret meget arbejde siden dengang øh eller siden 12. Og jeg tror godt jeg tør sige at da jeg ringede og snakkede med J Wersen omkring det her arbejde om han ville kigge ind i det med rensevnerne, så sagde han til mig: "Jamen der har vi ikke lavet noget arbejde siden da." Øhm så og det er faktisk rigtigt. Det viste da vi begyndte at grave ned i det, der er ikke ret meget viden omkring, hvor godt vores bassin renselser. Så det her, det er altså et stort område, der bør
+
+00:46:00
+kigges ind i. [fnyser] Og det hænger jo så med i det her med udvikling af modellerne. Øhm, hvor meget kan vi bruge dem? Hvor godt kan vi bruge dem? Øhm, og hvilke modeller skal der udvikles, så vi får det her med en bedre forståelse også for renseeffekten, og kan vi bruge modellerne op imod øh få målinger på et bassin øh og øh så få at vide, hvor stort vores ø og bassin skal være, og hvordan det skal designes. Så selvom vi ø vi har viden omkring den
+
+00:46:30
+her hydrauliske effektivitet, så øh så er der behov for mere viden omkring den. Øh, og især også mere viden omkring hvis vi laver de her design, altså vi designer vores bassiner alternativt og ikke kun som ø som de her ovale bassiner. Hvad skal der til, hvis man begynder at lave treede bassiner eller andre former for bassiner, som kan være i det byområde for eksempel, som man har? Der mangler vi rigtig meget viden der også. Og så især også sådan noget med viden
+
+00:47:00
+omkring påvirkning af temperaturforhold ø og biodiversiteten generelt i bassinerne. Både negative og positive påvirkninger af hinanden. Øh der mangler vi også rigtig meget viden på hvordan det påvirker vores renseeffekt. Det var ligesom hovedtrækkene vi har trukket ud. Øhm, hvis man øh er interesseret, så har man altid lov lyst til lov til at kontakte os øh enten på mail eller
+
+00:47:30
+telefonnummer. Jeg skal nok også lige putte mit telefonnummer ind her, så øh så ja, det var det, vi ville fra nu ville præsentere. &gt;&gt; Super. Tusind tak til jer begge for et øh for et spændende oplæg. Og ø vi har tid til nogle spørgsmål her. Vi har en 10 minutters tid. Og øh og der er kommet nogle spørgsmål i chatten, så jeg tager dem simpelthen bare fra en af, og så kan vi jo se, hvor langt vi når. Og som der står her, så er I jo velkommen til at skrive direkte til Katrine og Jens. Der er lige et spørgsmål til Jens først. En af dine
+
+00:48:00
+første slides med de her diagrammer med forskellige bassinform, kan man vel sige. Så spørger Jette, er alle eksempler lige gode hydraulisk? Uh, som jeg husker det, så var der ikke den store variation, mens den der faktisk var Men det kan Katrine måske huske bedre end jeg kan. &gt;&gt; Ja, fordi jeg var jeg var så heldig, jeg så spørgsmålet, og så slog jeg op i ekspertrapporten i mænd. Nå, okay. [latter] Og &gt;&gt; det hellers var &gt;&gt; man kan sige, at øh der er ikke stor
+
+00:48:30
+forskel på effekten, men de to bassiner, hvor man så der lå en sten i midten og en væg ned igennem øhm de har lidt dårligere øh hydraulisk effektivitet end de end de andre der er afbildet. Men det er ikke meget. &gt;&gt; Men vi skal også sige, det er lavet i nogle ret, det er en beregning lavet i en ret simpel kassemodel, så der er forhold der ikke er taget med. Det er derfor, vi gerne vil have kigget lidt nærmere på det. Men det er i hvert fald tydeligt, det er noget, vi skal være
+
+00:49:00
+meget opmærksomme på. Ja. Og jeg linkede jo også, jeg tog lige linket fra jeres tekst og så lag ind, så man kan gå ind til den her famøs robot her. Og så er der kommet et spørgsmål fra Sissel. Kan man både dimensionere bassiner til optimal rensning og biodiversitet og æstetik? Altså kan bassengerne se naturligt ud i landskabet og er der erfaringer med eksempler på det her? Det det synes vi jo det er vores
+
+00:49:30
+erfaring, og det kan man godt. Der er ikke nogen modsætning mellem rens, biodiversitet og og æstetik. Så man kan sagtens lave et bassin, som ligner en naturlig sø, har en rekreativ funktion og renser fint. Men tit er der jo så nogle er der alligevel nogle afvejninger. Altså hvis man skal lave et rigtigt sølllignende bassin ø med rigtig gode driftforhold, så fylder det, fordi så skal man lave relativ flade brinker. Det oplever vi nogle af vores kommuner synes kan være vanskeligt at presse ind i en lokalplan, hvor der også er en
+
+00:50:00
+developer, som rigtig gerne vil bygge en masse huse. Det er det ene. Og det andet er, vi skal jo lave, altså det er jo et teknisk anlæg. Det er et spilvands teknisk anlæg, og vi skal ikke drive det. Så der skal være en adgangsvej, at vi skal have nogle fraløb og nogle nogle tilløb, og der skal være adgang ned til den. Og det giver jo en smule teknisk installation, og det i hvert fald har vi nogle gange en drøftel, som er vores kommune om om om vi lige nu må lave en trappe der eller ej. Men når jeg er rundt og kigge på alle vores bassiner, så synes jeg, vi har rigtig mange gode eksempler på, at det lykkedes godt. Og så har vi selvfølgelig også nogle, hvor det lykkedes mindre godt. Det skal ikke
+
+00:50:30
+være nogen hemmelighed. Så der kommer et spørgsmål fra Christian. Vup, så hopper det lige her. Og han tilstår, skriver han, at han har han kun lige har nået at skimme ekspertrapporten, så der er det forbehold, og han kan have misset det. Men er der gjort nogle tanker om, hvordan oprensninger kan foretages, så det skråner, nej, så det skåner naturen og padder mest muligt. Og så læser jeg lige færdig. Konkrete tiltag ud over tidspunktet på året. Der fremgår ikke
+
+00:51:00
+noget om oprensningspåvirkninger af naturen under afsnittet om oprensninger. Typisk er en total oprensning af bassinet meget indgribende overfor den eksisterende natur. Også selvom man kan argumentere for at opsningen forbedrer passeringet fremadrettet. &gt;&gt; Det var jo en del spørgsmål i en gang, vi har jo som vi har fornøjet os rigtig meget med. Men generelt så er en oprensning at bassin de er
+
+00:51:30
+naturforbedrende bare på den mellemlange bane. Det som Sarose har afklaret er at det der sker med et regspinger hvor der er ophubet meget sediment det er at så falder biodiversiteten kraftig. Så bare det få fjernet sedimentet det forbedrer naturforholdene rigtig meget. Det tager kun et år, måske halvandet, så er bassinet i balance igen, og biodiversiteten er væsentlig bedre end den var før. Med hensyn til oprensningsmetoder, så er det noget vi har dyrket en del,
+
+00:52:00
+men vi har ikke fundet de, hvad skal vi sige, der er ikke sket den store revolution i forhold til Danmarks vejledning for 2017. Altså vi kan vi kan lave en ø en af eller tømme bassinet for vand og gravet op. Det ser voldsomt ud, men det er rigtig effektivt, og bassinet reetableres hurtigt. Vi kan bruge en cuttersur, altså en lille båd ude i bassinet, som støvsuger sedimentet op og pumper det over i nogle store tekstilafvandingsposer. Øhm, [rømmer sig] det er relativt
+
+00:52:30
+skånsomt over for for naturen i bassinet, og men det ser skånsomt ud under udførslen, men det er noget dyrere at udføre, fordi at man skal lave de her, man skal lave en særlig meget tæt afvandningsplads til de her geotekstilposer. Vi laver, vi forsøger i Nord for os at lave et eksperiment her til vinter, hvor vi med et stort bassinvis og afbrændt med med cuttersur, så vil forsøge at lave en afving i et, hvad skal vi sige, i et mobilt afvandingsanlæg, sådan at vi
+
+00:53:00
+kan lave øh kombinere cutter med afvanding i i et mobilt afvingsanlæg. Det vil kunne løse mange praktiske problemer omkring afvanding eller oprensning af bassiner, hvor der er rigtig dårlig adgang og rigtig dårlige pladsforhold. Men man skal være opmærksom på, at en cutter oprensning den er ikke helt lige så effektiv som en traditionel opgavning. Men så meget om der er forskellige metoder. Der er behov for noget udvikling. Teknologien findes både i USA og Holland. Vi skal bare have den hes til Danmark. Øhm og så er oprænsning
+
+00:53:30
+af samlet set bare på den mellemlange bane en stor forbedring af biodiversiteten. Og det er lidt upraktisk. Den kunne måske i vinterhalvåret. Men det er et hensyn til til ø til padderne, som er meget fornuftige at tage. &gt;&gt; Så er der et spørgsmål fra Per. God praksis med nødoverløb ved snæver vandbremser. Hvad sker der ved overbelastning? Styres blandt andet ved hjælp af afsænket kant. Jeg har løbende mødt personer, der ikke forstår forskellen på dimensionering af
+
+00:54:00
+bassiner og ledninger. Så jeg tror, det er en kommentar her. Og så bat forberedelse af ekstra rensetrin øh parentes plads andet. Og så bliver der spurgt lidt indtil det her hold retorik klar så det ikke sammenlandes med hvad kommunens ansvar og hvad der er spildevandsselskabets ansvar. Sprogbrug. Kan det ikke laves ud fra bassinet? Spørgsmålstegn til Jens. Søllignende bassiner.
+
+00:54:30
+Øhm. Skal jeg starte Katrine? Så kan du supplere den. &gt;&gt; Ja. &gt;&gt; Altså jeg er jo enig sølllignende bassin, hvor det er muligt, hvis pladsformen er for ringe, så kan det være svært. Og den sprogbry vi foreslår, er jo forsøgt at lave ud fra bassinet. Det er et tilløb til bassinet. Det er et fraløb fra bassinet, og så er det et udløb ud i recipienten. Med hensyn til nødoverløb, der er der jo, det afhænger af de lokale forhold, hvad der er praktisk at lave. Nogle gange laver vi nødoverløb i
+
+00:55:00
+reguleringsbrønden, men ofte den praksis vi holder mest af er at lave nødoverløbet som en sænkning af kronekanten rundt omkring bassinet, som så er lavet det sted hvor vi tænker, at det gør mindst det gør mindst skade, at at vi får vand. Hvis vi har en grøft i nærheden eller vi har en parkeringsplads, eller hvad det nu måtte være, så er det den vej, vi vi laver nedoverløbet. Men det svinger simpelthen efter de lokale forhold.
+
+00:55:30
+Og så tror jeg, der var lidt omkring noget omkring det her med bat og plads til efterrensning eller efterpolering. Øhm. Og ja, ø altså resultaterne fra Vejdirektoratets rapport viser, at ud fra de bassiner, de har undersøgt, så er der stoffer, der i dag ø bliver udledt i for høje koncentrationer i forhold til, hvad recipienterne kan tåle. Så står man og har en sårbar recipient, øhm, så bliver man nødt til, nu skal jeg passe på, hvad jeg siger, men så vil ø så så vil der vil det ofte være nødvendigt at
+
+00:56:00
+lave noget efterpolering eller noget nogle ekstra rensetrin øh for nogle af de her bassiner. &gt;&gt; Og tit er det noget man ved på forhånd, men man ved kender ved jo godt hvilke for vandløb som overskrider på kobber og og sink for eksempel og hvor en efterpolering efter et regspink kan være nødvendigt. Der er det jo så vigtigt, man i sin vandhåndteringsplan og eervation har plads, så der kan er plads til det her rensetrin, og der er plads til, vi kan vi kan komme ned til det med
+
+00:56:30
+det udstyr, der nu skal til for for at drifte det. &gt;&gt; Ja. &gt;&gt; Fordi det ø det fylder, og det skal driftes. &gt;&gt; Præcis. Så kan vi lige tage et sidste spørgsmål her, og så skal jeg nok samle op på resten og måske på en eller anden måde få få holdt jer dem, så I har mulighed for at for svare på dem. Så skal jeg nok stå for det den del. Men ø sidste spørgsmål her, og jeg tager dem jo bare i kronisk rækkefølge her. Det er, er der dårlige erfaringer med bassiner, hvor
+
+00:57:00
+tørvandspejl parentes i lavet liggende bassiner styres af grundvandspejlet? Jeg er lidt usikker på spørgsmålet, men det er ikke, vi har ikke nogen bassiner, hvor vi har, hvor vi har udfordringer med, med grundvandspejlet, men det der er, hvis du har meget indsivende grundvand i dit bassin, så kan det være meget svært at tømme ned i forbindelse med en oprænsning. Øhm, men jeg er lidt
+
+00:57:30
+usikker på, om jeg svarer fyldsgørende på øh øhm på spørgsmålet. Det andet jeg kan se han spørger om det er det er om det er om paragraf tre om det er det er i forhold til paragraf tre og lige den kortfattede svar er at alle bassin over 100 kvadratmeter som har et naturligt dyreliv de bliver jo paragraf 3 områder det kræver en paragraf 3 dispensation hvor man skal ikke argumentisere hjem at det er naturforbedrende. Det oplever jeg det ikke som det store problem det giver lidt dialog frem og tilbage med kommunen. Man skal finde en løsning som begge sider er enige om den naturbedr forbedre bassinet.
+
+00:58:00
+Øhm [rømmer sig] øh det det er det ene. Og det andet er det her med at få lov at lave nye bassin i paragraf tre områder. Det har vi nogle enkelte steder, hvor vi arbejder på, hvor der absolut ikke er andre muligheder. Men det kan være vanskeligt, fordi du skal argumentere i hem, at det at du laver et regnforcing i et eksisterende ø paragraf tre område, det er samlet set nat øh øh natforbedrende. Øhm det kan vi gøre nogle steder, hvor
+
+00:58:30
+hvis vi har for eksempel en der er meget tør, så kan det være naturforbedring at vi får noget vand. Men vi skal heller ikke være stik under stolen. Jamen det er forurenet vand vi har gøre. Vi ender, vi ender med foret jord i bunden af vores bassin, så der er nogle afvejninger, der skal laves. &gt;&gt; Super. Tusind tak til dig, Katrine, og til dig, Jens, fra oplæg. Og det bliver lagt ud efterfølgende vidensbanken. Jeg har lovet, at vi skal slutte af nu, fordi man skal nå til et nyt møde og og alt det her. Det skal I sikkert også. Så jeg vil bare sige rigtig god dag herfra, og øh tak for opblik.

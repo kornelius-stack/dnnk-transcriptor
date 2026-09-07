@@ -1383,5 +1383,17 @@
     "last_attempt": "2026-09-01T13:54:46",
     "attempts": 2,
     "note": "ingen danske YouTube-undertekster; kræver lyd-transskription"
+  },
+  "wEl5KwXTgmQ": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-09-07T10:27:09"
+  },
+  "UUPd8QxmKvE": {
+    "status": "done",
+    "kilde": "youtube-subs",
+    "order_id": null,
+    "last_attempt": "2026-09-07T10:27:15"
   }
 }
